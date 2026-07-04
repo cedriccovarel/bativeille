@@ -1,4 +1,4 @@
-window.BATIVEILLE_DATA = {
+{
   "sources": [
     {
       "id": "effinergie-observatoire-bbc",
@@ -2846,4 +2846,4 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     }
   ]
-};
+}
