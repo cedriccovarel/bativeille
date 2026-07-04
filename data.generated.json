@@ -1299,29 +1299,7 @@
   ],
   "articles": [
     {
-      "id": "batiactu-3-1783151611000",
-      "title": "Isolation thermique des tuyauteries",
-      "source": "Batiactu",
-      "sourceId": "batiactu",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=156135",
-      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=156135",
-      "date": "2026-07-04",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 74,
-      "tags": [
-        "Construction",
-        "Marché",
-        "Réglementation"
-      ],
-      "summary": "Conductivité thermique, émissivité, comportement au feu, Kingspan Technical Insulation passe en revue les 5 critères essentiels pour guider les professionnels dans leur choix. Conductivité thermique, émissivité, comportement au feu, Kingspan Technical Insulation passe en revue le…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "batiactu-7-1783151611000",
+      "id": "batiactu-3-1783162449000",
       "title": "Les fortes économies liées à une bonne isolation",
       "source": "Batiactu",
       "sourceId": "batiactu",
@@ -1341,6 +1319,28 @@
         "Économie du bâtiment"
       ],
       "summary": "Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans une isolation performante, ses performances théoriques chutent et les surcouts énergétiques sont ... Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "batiactu-7-1783162449000",
+      "title": "Isolation thermique des tuyauteries",
+      "source": "Batiactu",
+      "sourceId": "batiactu",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=156135",
+      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=156135",
+      "date": "2026-07-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 74,
+      "tags": [
+        "Construction",
+        "Marché",
+        "Réglementation"
+      ],
+      "summary": "Conductivité thermique, émissivité, comportement au feu, Kingspan Technical Insulation passe en revue les 5 critères essentiels pour guider les professionnels dans leur choix. Conductivité thermique, émissivité, comportement au feu, Kingspan Technical Insulation passe en revue le…",
       "premiumSummary": ""
     },
     {
@@ -1412,7 +1412,7 @@
         "Confort d’été",
         "Biosourcé"
       ],
-      "summary": "CHANTIER D'ARTISAN. Typique de la région, l'ouvrage en bois monté sur pilotis vient d'être intégralement reconstruit sur la commune de La Teste-de-Buch, dans le département de la Gironde. Le chantier basé sur du hors-site est a été conduit dans un environnement contraint soumis a…",
+      "summary": "CHANTIER D'ARTISAN. Typique de la région, l'ouvrage en bois monté sur pilotis a été intégralement reconstruit sur la commune de La Teste-de-Buch, dans le département de la Gironde. Le chantier basé sur du hors-site a été conduit dans un environnement contraint soumis aux aléas de…",
       "premiumSummary": ""
     },
     {
@@ -1554,248 +1554,232 @@
       "premiumSummary": ""
     },
     {
-      "id": "auat-toulouse-0-1783090809000",
-      "title": "Trajectoires : rendez-vous le 7 juillet pour une nouvelle matinale des observatoires",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/trajectoires-rendez-vous-le-7-juillet-pour-une-nouvelle-matinale-des-observatoires/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
+      "id": "actu-environnement-0-1783092603000",
+      "title": "Hydrogène naturel : des parlementaires pressent l'État de financer des forages",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/hydrogene-naturel-opecst-forages-etat-48258.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48258_large.jpg",
       "date": "2026-07-03",
       "access": "open",
       "official": false,
-      "highImpact": false,
+      "highImpact": true,
       "impactScore": 74,
       "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
+        "Environnement",
+        "Réglementation",
+        "Énergie"
       ],
-      "summary": "Continuer de lire “Trajectoires : rendez-vous le 7 juillet pour une nouvelle matinale des observatoires”… L’article Trajectoires : rendez-vous le 7 juillet pour une nouvelle matinale des observatoires est apparu en premier sur AUAT. Mardi 7 juillet de 9h à 9h30, participez à Traj…",
+      "summary": "L'Opecst appelle le Gouvernement à débloquer au moins 20 millions d'euros pour financer des forages exploratoires d'hydrogène naturel, ressource stratégique encore sous-évaluée en France. L'Opecst appelle le Gouvernement à débloquer au moins 20 millions d'euros pour financer des …",
       "premiumSummary": ""
     },
     {
-      "id": "auat-toulouse-1-1783071762000",
-      "title": "Ces indicateurs qui alertent sur une dégradation de la santé de la forêt française",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/ces-indicateurs-qui-alertent-sur-une-degradation-de-la-sante-de-la-foret-francaise/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
+      "id": "actu-environnement-1-1783086717000",
+      "title": "Déchets radioactifs dans l'Atlantique : une deuxième mission explore les fûts et leur environnement",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/dechets-radioactifs-atlantique-futs-mission-cnrs-48256.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48256_large.jpg",
       "date": "2026-07-03",
       "access": "open",
       "official": false,
-      "highImpact": false,
+      "highImpact": true,
       "impactScore": 74,
       "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
+        "Environnement",
+        "Réglementation",
+        "Énergie"
       ],
-      "summary": "L’article Ces indicateurs qui alertent sur une dégradation de la santé de la forêt française est apparu en premier sur AUAT. L’article Ces indicateurs qui alertent sur une dégradation de la santé de la forêt française est apparu en premier sur AUAT . 2026-07-03T09:42:42.000Z Ces …",
+      "summary": "Explorer les zones d'intérêt mises en évidence lors de la première campagne. Tel était l'objectif de la mission menée du 27 mai au 28 juin 2026 par le Centre national de la recherche scientifique (CNRS) dans le cadre du projet Nodssum, en collabor... Explorer les zones d'intérêt …",
       "premiumSummary": ""
     },
     {
-      "id": "auat-toulouse-2-1783071715000",
-      "title": "Sommes-nous entrés dans le “photographocène” ?",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/sommes-nous-entres-dans-le-photographocene/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
+      "id": "actu-environnement-2-1783072652000",
+      "title": "PFAS : Surfrider dénonce la pollution généralisée des eaux de baignade",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/pfas-contamination-eaux-baignade-surfrider-48255.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48255_large.jpg",
       "date": "2026-07-03",
       "access": "open",
       "official": false,
-      "highImpact": false,
-      "impactScore": 74,
+      "highImpact": true,
+      "impactScore": 90,
       "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Sommes-nous entrés dans le “photographocène” ? est apparu en premier sur AUAT. L’article Sommes-nous entrés dans le “photographocène” ? est apparu en premier sur AUAT . 2026-07-03T09:41:55.000Z Sommes-nous entrés dans le “photographocène” ?",
-      "premiumSummary": ""
-    },
-    {
-      "id": "auat-toulouse-3-1782977108000",
-      "title": "“Les élus sont les premiers ambassadeurs du bail réel solidaire”",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/les-elus-sont-les-premiers-ambassadeurs-du-bail-reel-solidaire/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
-      "date": "2026-07-02",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article “Les élus sont les premiers ambassadeurs du bail réel solidaire” est apparu en premier sur AUAT. L’article &#8220;Les élus sont les premiers ambassadeurs du bail réel solidaire&#8221; est apparu en premier sur AUAT . 2026-07-02T07:25:08.000Z “Les élus sont les premiers …",
-      "premiumSummary": ""
-    },
-    {
-      "id": "auat-toulouse-4-1782977065000",
-      "title": "Comment proposer des itinéraires piétons à l’ombre ?",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/comment-proposer-des-itineraires-pietons-a-lombre/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
-      "date": "2026-07-02",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Comment proposer des itinéraires piétons à l’ombre ? est apparu en premier sur AUAT. L’article Comment proposer des itinéraires piétons à l&#8217;ombre ? est apparu en premier sur AUAT . 2026-07-02T07:24:25.000Z Comment proposer des itinéraires piétons à l’ombre ?",
-      "premiumSummary": ""
-    },
-    {
-      "id": "envirobatbdm-2-1783006202000",
-      "title": "BâtiFRAIS : 11ème édition à Montpellier",
-      "source": "EnvirobatBDM",
-      "sourceId": "envirobatbdm",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://envirobatbdm.eu/agenda-des-evenements/batifrais-11eme-edition-montpellier",
-      "image": "https://envirobatbdm.eu/sites/default/files/inline-images/BF2026_bandeau.png",
-      "date": "2026-07-02",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 82,
-      "tags": [
-        "BDM",
-        "Bâtiment durable",
-        "Méditerranée",
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau",
         "Confort d’été"
       ],
-      "summary": "BâtiFRAIS : 11ème édition à Montpellier Céline jeu 02/07/2026 - 17:30 Domaine de Verchant 1 boulevard Philippe Lamour 34170 Castelnau-le-Lez France ven 18/09/2026 - 09:00 Pour la 3ème année, EnvirobatBDM, Envirobat Occitanie et Ville et aménagement durable poursuivent leur collab…",
+      "summary": "« Des PFAS ont été détectés sur l'ensemble des sites de baignade et de pratiques nautiques étudiés, avec des niveaux de contamination variables. (...) Le milieu marin passe encore trop souvent sous les radars. Pourtant, lui aussi est largement con... « Des PFAS ont été détectés s…",
       "premiumSummary": ""
     },
     {
-      "id": "auat-toulouse-5-1782909460000",
-      "title": "L’assemblée générale de l’AUAT fixe le cap d’un mandat sous le signe de l’action collective",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/assemblee-generale-2026-auat-action-collective/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2026/06/AG_juin2026-1.jpg",
-      "date": "2026-07-01",
+      "id": "actu-environnement-3-1783072166000",
+      "title": "Le chiffre du jour : 327 millions de personnes",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/dit-aujourdhui/1817.html#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/interface/common/logo_standard_carre.jpg",
+      "date": "2026-07-03",
       "access": "open",
       "official": false,
-      "highImpact": false,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "RE2020",
+        "Confort d’été"
+      ],
+      "summary": "C'est le nombre d'habitants qui ont été exposés à des conditions de chaleur rendues plus intenses par le changement climatique lors de la vague de chaleur exceptionnelle qui a frappé l'Europe occidentale à partir du 21 juin 2026. Selon une étude d... C'est le nombre d'habitants q…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "actu-environnement-4-1783071786000",
+      "title": "Lire notre dossier d'actu \"Zéro artificialisation nette des sols, une ambition complexe\"",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/dossier-actu/ZAN-Zero-artificialisation-nette-sols-fin-feuilleton-parlementaire-99#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/gestion/gestion_dossier_actu/99_dossier_actu.jpg",
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
       "impactScore": 74,
       "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
+        "Environnement",
+        "Réglementation",
+        "Énergie"
       ],
-      "summary": "Continuer de lire “L’assemblée générale de l’AUAT fixe le cap d’un mandat sous le signe de l’action collective”… L’article L’assemblée générale de l’AUAT fixe le cap d’un mandat sous le signe de l’action collective est apparu en premier sur AUAT. Réunis en assemblée générale le 2…",
+      "summary": "Réduire l'artificialisation des sols pour protéger les espaces agricoles et naturels de la bétonisation. Tel est le but de l'objectif ZAN issu de la loi Climat et résilience de 2021. Un objectif louable, ambitieux, qui suscite, depuis la parution ... Réduire l'artificialisation d…",
       "premiumSummary": ""
     },
     {
-      "id": "envirobatbdm-3-1782864721000",
-      "title": "SAS HORS CHAMP (agence Avignon)",
-      "source": "EnvirobatBDM",
-      "sourceId": "envirobatbdm",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://envirobatbdm.eu/node/172791",
-      "image": null,
-      "date": "2026-07-01",
+      "id": "actu-environnement-5-1783064111000",
+      "title": "Lire notre dossier d'actu \"Canicule : la France face au défi du confort d'été\"",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/dossier-actu/dossier-canicule-chaleur-adaptation-climat-batiment-ville-128#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/gestion/gestion_dossier_actu/128_dossier_actu.jpg",
+      "date": "2026-07-03",
       "access": "open",
       "official": false,
-      "highImpact": false,
+      "highImpact": true,
       "impactScore": 82,
       "tags": [
-        "BDM",
-        "Bâtiment durable",
-        "Méditerranée",
-        "Eau"
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Confort d’été"
       ],
-      "summary": "SAS HORS CHAMP (agence Avignon) Anonyme (non vérifié) mer 01/07/2026 - 02:12 MOA privée Adresse 28 Boulevard Limbert 84000 AVIGNON France Téléphone 04 90 89 43 12 Email Non renseigné Détail secteur d'activité Promoteur immobilier / constructeur (hors maison indiv) Niveau de diffu…",
+      "summary": "La canicule est devenue un enjeu structurel en France. Plus fréquentes, plus longues et plus intenses, les vagues de chaleur mettent à l’épreuve les logements, les villes, les écoles et la santé des habitants. Le sujet ne se limite plus au confort... La canicule est devenue un en…",
       "premiumSummary": ""
     },
     {
-      "id": "envirobatbdm-4-1782864721000",
-      "title": "Re!Source",
-      "source": "EnvirobatBDM",
-      "sourceId": "envirobatbdm",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://envirobatbdm.eu/node/172781",
-      "image": "https://www.envirobatbdm.eu/themes/subtheme/img/logo_carre.png",
-      "date": "2026-07-01",
+      "id": "actu-environnement-6-1783005127000",
+      "title": "Réseau gazier : comment éviter que la décroissance ne pèse trop sur les consommateurs",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/reseaux-gaziers-decroissance-tarifs-cre-48254.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48254_large.jpg",
+      "date": "2026-07-02",
       "access": "open",
       "official": false,
-      "highImpact": false,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "La CRE a évalué le coût de maintien des infrastructures gazières indispensables d'ici 2050 et analysé les évolutions de tarification des réseaux, afin d'éviter que les consommateurs, moins nombreux, ne supportent des coûts trop élevés. La CRE a évalué le coût de maintien des infr…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "actu-environnement-7-1783004807000",
+      "title": "Ces indicateurs qui alertent sur une dégradation de la santé de la forêt française",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/indicateurs-gestion-durable-forets-francaises-degradation-48253.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48253_large.jpg",
+      "date": "2026-07-02",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
       "impactScore": 82,
       "tags": [
-        "BDM",
-        "Bâtiment durable",
-        "Méditerranée",
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Biosourcé"
+      ],
+      "summary": "Si certains indicateurs de gestion durable des forêts sont en amélioration comme la surface boisée ou l'augmentation de la biomasse sur pied, plusieurs points d'inquiétude sont identifiés, en premier lieu la sécheresse et les maladies. Si certains indicateurs de gestion durable d…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "actu-environnement-8-1782999487000",
+      "title": "Préjudice écologique : la destruction des herbiers de posidonie doit être démontrée et non présumée",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/prejudice-ecologique-destruction-herbiers-posidonie-preuve-demontree-non-presumee-48252.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48252_large.jpg",
+      "date": "2026-07-02",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 74,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Par une décision du 1er juillet 2026, la cour d'appel d'Aix-en-Provence a rejeté l'existence d'un préjudice écologique faisant suite à des mouillages illégaux en Méditerranée, en estimant que la preuve d'une altération de la posidonie n'était pa... Par une décision du 1er juillet…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "actu-environnement-9-1782995842000",
+      "title": "Réseaux d'eau : LTF exploite l'énergie cinétique des écoulements pour alimenter les capteurs",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/micro-turbine-reseaux-eau-capteurs-energie-48245.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48245_large.jpg",
+      "date": "2026-07-02",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
         "Eau"
       ],
-      "summary": "Re!Source Anonyme (non vérifié) mer 01/07/2026 - 02:12 Adresse 486 Av. de la Mont Joye 30220 AIGUES MORTES France Téléphone Non renseigné Email kzknatalie@gmail.com Site Web https://www.resource-fr.com/ Niveau de diffusion Niveau 4 Est-ce un accompagnateur ? Off Etiquette Evb Evb…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "auat-toulouse-6-1782810785000",
-      "title": "Feux de forêt, mégafeux : comment mieux prévoir leur propagation et limiter les risques ?",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/feux-de-foret-megafeux-comment-mieux-prevoir-leur-propagation-et-limiter-les-risques/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
-      "date": "2026-06-30",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Feux de forêt, mégafeux : comment mieux prévoir leur propagation et limiter les risques ? est apparu en premier sur AUAT. L’article Feux de forêt, mégafeux : comment mieux prévoir leur propagation et limiter les risques ? est apparu en premier sur AUAT . 2026-06-30T09:1…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "aupa-pays-d-aix-0-1782734695000",
-      "title": "L’observatoire régional des centres-villes",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/lobservatoire-regional-des-centres-villes/",
-      "image": "https://aupa.fr/wp-content/uploads/2026/06/UrbaSud_-Lobservatoire-regional-des-centres-ville_version-web-1.png",
-      "date": "2026-06-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article L’observatoire régional des centres-villes est apparu en premier sur Aupa. L’article L’observatoire régional des centres-villes est apparu en premier sur Aupa . 2026-06-29T12:04:55.000Z L’observatoire régional des centres-villes",
+      "summary": "Dans le Grand Est, la start-up LTF travaille à la commercialisation d'une micro-turbine exploitant l'énergie cinétique des écoulements pour alimenter en électricité les capteurs de réseaux d'eau. Et ce, sans perturber leur fonctionnement. Dans le Grand Est, la start-up LTF travai…",
       "premiumSummary": ""
     },
     {
@@ -1824,170 +1808,6 @@
       "premiumSummary": ""
     },
     {
-      "id": "auat-toulouse-7-1782371485000",
-      "title": "Le réseau ferroviaire français peut-il survivre à la canicule ?",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/le-reseau-ferroviaire-francais-peut-il-survivre-a-la-canicule/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
-      "date": "2026-06-25",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "L’article Le réseau ferroviaire français peut-il survivre à la canicule ? est apparu en premier sur AUAT. L’article Le réseau ferroviaire français peut-il survivre à la canicule ? est apparu en premier sur AUAT . 2026-06-25T07:11:25.000Z Le réseau ferroviaire français peut-il sur…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "auat-toulouse-8-1782371444000",
-      "title": "Partir ou rester, le dilemme des lycéens en milieu rural au moment de Parcoursup",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/partir-ou-rester-le-dilemme-des-lyceens-en-milieu-rural-au-moment-de-parcoursup/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
-      "date": "2026-06-25",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Partir ou rester, le dilemme des lycéens en milieu rural au moment de Parcoursup est apparu en premier sur AUAT. L’article Partir ou rester, le dilemme des lycéens en milieu rural au moment de Parcoursup est apparu en premier sur AUAT . 2026-06-25T07:10:44.000Z Partir o…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "envirobatbdm-5-1782378603000",
-      "title": "Visite du chantier du Prieuré du Moustier",
-      "source": "EnvirobatBDM",
-      "sourceId": "envirobatbdm",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://envirobatbdm.eu/agenda-des-evenements/visite-du-chantier-du-prieure-du-moustier",
-      "image": "https://envirobatbdm.eu/sites/default/files/inline-images/Prieure_Moustier3.jpg",
-      "date": "2026-06-25",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 98,
-      "tags": [
-        "BDM",
-        "Bâtiment durable",
-        "Méditerranée",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "Visite du chantier du Prieuré du Moustier Céline jeu 25/06/2026 - 11:10 Une visite du réseau BâtiREHAB Prieuré du Moustier 98 chemin de la Chap du Moustier 84410 Bédoin France jeu 02/07/2026 - 14:30 EnvirobatBDM, en partenariat avec Fibois Sud et le Conseil régional de l'Ordre de…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "envirobatbdm-6-1782378173000",
-      "title": "Commission démarche QDM",
-      "source": "EnvirobatBDM",
-      "sourceId": "envirobatbdm",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://envirobatbdm.eu/agenda-des-evenements/commission-demarche-qdm",
-      "image": "https://envirobatbdm.eu/sites/default/files/Bandeau_QDM.png",
-      "date": "2026-06-25",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 90,
-      "tags": [
-        "BDM",
-        "Bâtiment durable",
-        "Méditerranée",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "Commission démarche QDM Céline jeu 25/06/2026 - 11:02 Découvrez les projets en démarche QDM ! mar 01/12/2026 - 09:00 La Commission Démarche Quartiers durables méditerranéens est PUBLIQUE et GRATUITE. C'est un lieu d'échanges entre tous les acteurs de l'aménagement durable en régi…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "auat-toulouse-9-1782303165000",
-      "title": "« Un jour, les habitants du dernier étage chercheront des responsables » : vivre sous les toits par 40 °C",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/un-jour-les-habitants-du-dernier-etage-chercheront-des-responsables-vivre-sous-les-toits-par-40-c/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
-      "date": "2026-06-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article « Un jour, les habitants du dernier étage chercheront des responsables » : vivre sous les toits par 40 °C est apparu en premier sur AUAT. L’article « Un jour, les habitants du dernier étage chercheront des responsables » : vivre sous les toits par 40 °C est apparu en pr…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "envirobatbdm-7-1782303589000",
-      "title": "Voyage d'étude à Rosny-sous-Bois",
-      "source": "EnvirobatBDM",
-      "sourceId": "envirobatbdm",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://envirobatbdm.eu/agenda-des-evenements/2026-10-14/rosny",
-      "image": "https://envirobatbdm.eu/sites/default/files/inline-images/Grande%20coco_video.png",
-      "date": "2026-06-24",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 98,
-      "tags": [
-        "BDM",
-        "Bâtiment durable",
-        "Méditerranée",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "Voyage d'étude à Rosny-sous-Bois Aurore mer 24/06/2026 - 14:19 Voyage d'étude à Rosny-sous-Bois / Réseau frugalité 93064 Rosny-sous-Bois France mer 14/10/2026 - 11:00 EnvirobatBDM propose à ses adhérents de participer à un voyage d'étude à Rosny-sous-Bois (93) pour visiter des bâ…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "aupa-pays-d-aix-1-1782114923000",
-      "title": "L’observation au service de l’optimisation des zones d’activités économiques",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/lobservation-au-service-de-loptimisation-des-zones-dactivites-economiques/",
-      "image": "https://aupa.fr/wp-content/uploads/2026/06/vignette_observation_au_service_des_zae-1.jpg",
-      "date": "2026-06-22",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article L’observation au service de l’optimisation des zones d’activités économiques est apparu en premier sur Aupa. L’article L&rsquo;observation au service de l&rsquo;optimisation des zones d&rsquo;activités économiques est apparu en premier sur Aupa . 2026-06-22T07:55:23.000…",
-      "premiumSummary": ""
-    },
-    {
       "id": "observatoire-de-l-immobilier-durable-oid-0-1781879597000",
       "title": "Décret tertiaire : un retour d’expérience pour lever les freins et pérenniser les efforts",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -2010,56 +1830,6 @@
         "Réglementation"
       ],
       "summary": "Plus de trois ans après son entrée en vigueur, le dispositif Éco-Énergie Tertiaire aborde une phase de consolidation. Le Plan Bâtiment Durable a confié à l’ADI et à la FEI, […] L’article Décret tertiaire : un retour d’expérience pour lever les freins et pérenniser les efforts est…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "envirobatbdm-8-1781801938000",
-      "title": "3èmes rencontres régionales de la construction terre aux Arcs (83)",
-      "source": "EnvirobatBDM",
-      "sourceId": "envirobatbdm",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://envirobatbdm.eu/agenda-des-evenements/3emes-rencontres-regionales-de-la-construction-terre-aux-arcs-83",
-      "image": "https://envirobatbdm.eu/sites/default/files/inline-images/26_rencontre%20terre.jpg",
-      "date": "2026-06-18",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 98,
-      "tags": [
-        "BDM",
-        "Bâtiment durable",
-        "Méditerranée",
-        "Eau",
-        "Biosourcé",
-        "Rénovation"
-      ],
-      "summary": "3èmes rencontres régionales de la construction terre aux Arcs (83) Nicolas jeu 18/06/2026 - 18:58 Un événement EnvirobatBDM, les EcoBatissonS, CAUE 83, COFOR ALEC 83, Dracénie Provence Verdon et Asterre 83460 Les Arcs France mar 23/06/2026 - 09:00 EnvirobatBDM, EcoBatissonS, Le C…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "envirobatbdm-9-1781772819000",
-      "title": "Bâti ancien, savoir-faire et transmission pour la réhabilitation durable",
-      "source": "EnvirobatBDM",
-      "sourceId": "envirobatbdm",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://envirobatbdm.eu/agenda-des-evenements/bati-ancien-savoir-faire-et-transmission-pour-la-rehabilitation-durable",
-      "image": "https://envirobatbdm.eu/sites/default/files/inline-images/affiche%20journ%C3%A9e%20r%C3%A9hab%20savoir%20faire%201.jpg",
-      "date": "2026-06-18",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 98,
-      "tags": [
-        "BDM",
-        "Bâtiment durable",
-        "Méditerranée",
-        "RE2020",
-        "Eau",
-        "Biosourcé"
-      ],
-      "summary": "Bâti ancien, savoir-faire et transmission pour la réhabilitation durable Céline jeu 18/06/2026 - 10:53 Journée du réseau BâtiREHAB Centre Jean Giono 1 montée des Vraies richesses 04100 Manosque France mar 22/09/2026 - 09:00 Dans le cadre de l'animation du réseau BâtiREHAB, Enviro…",
       "premiumSummary": ""
     },
     {
@@ -2584,31 +2354,6 @@
       "premiumSummary": ""
     },
     {
-      "id": "addrn-0-1778571322000",
-      "title": "la servitude de résidence principale",
-      "source": "ADDRN",
-      "sourceId": "addrn",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Pays de la Loire",
-      "url": "https://addrn.fr/la-servitude-de-residence-principale/",
-      "image": "https://addrn.fr/app/uploads/2026/05/image-3-e1778571628138.png",
-      "date": "2026-05-12",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 98,
-      "tags": [
-        "Saint-Nazaire",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation",
-        "Économie du bâtiment",
-        "Réemploi"
-      ],
-      "summary": "la servitude de résidence principale Dans de nombreuses communes littorales et touristiques du territoire Estuaire et Littoral Loire Océan (ELLO), comme ailleurs en France, la part de résidences secondaires ne cesse de croître. Cette évolution a des conséquences bien connues : te…",
-      "premiumSummary": ""
-    },
-    {
       "id": "association-bbca-5-1778001456000",
       "title": "Newsletter BBCA #25 – 5 mai 2026",
       "source": "Association BBCA",
@@ -2628,28 +2373,6 @@
         "Observatoire"
       ],
       "summary": "Découvrez le sommaire de la newsletter BBCA n°25 du 5 mai 2026. L’article Newsletter BBCA #25 – 5 mai 2026 est apparu en premier sur Association BBCA. Découvrez le sommaire de la newsletter BBCA n°25 du 5 mai 2026. L’article Newsletter BBCA #25 &#8211; 5 mai 2026 est apparu en pr…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "aupa-pays-d-aix-2-1777968238000",
-      "title": "Observatoire du logement des Hautes-Alpes",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/observatoire-du-logement-des-hautes-alpes/",
-      "image": "https://aupa.fr/wp-content/uploads/2026/05/Observatoire-logement-05.jpg",
-      "date": "2026-05-05",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Observatoire du logement des Hautes-Alpes est apparu en premier sur Aupa. L’article Observatoire du logement des Hautes-Alpes est apparu en premier sur Aupa . 2026-05-05T08:03:58.000Z Observatoire du logement des Hautes-Alpes",
       "premiumSummary": ""
     },
     {
@@ -2748,51 +2471,6 @@
       "premiumSummary": ""
     },
     {
-      "id": "a-u-montpellier-0-1777037883000",
-      "title": "L’intensification illustrée de l'habitat individuel",
-      "source": "A’U Montpellier",
-      "sourceId": "a-u-montpellier",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.audrna.com/index.php/269-l-intensification-illustree-de-l-habitat-individuel",
-      "image": "https://www.audrna.com/images/NEWS/2026/IntensificationUrbaine-2-Mur.jpg",
-      "date": "2026-04-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Montpellier",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} Notre nouvelle série d’accompagnement des élus et acteurs locaux vers un changement de modèle d’aménagement ill…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "a-u-montpellier-1-1777031925000",
-      "title": "Les tendances du marché de l’immobilier et du foncier d’entreprise 2025",
-      "source": "A’U Montpellier",
-      "sourceId": "a-u-montpellier",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.audrna.com/index.php/268-les-tendances-du-marche-de-l-immobilier-et-du-foncier-d-entreprise-2025",
-      "image": "https://www.audrna.com/images/NEWS/2026/Publi-ObsImmoEntreprises-2026-Mur.jpg",
-      "date": "2026-04-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 82,
-      "tags": [
-        "Montpellier",
-        "Urbanisme",
-        "Habitat",
-        "Économie du bâtiment"
-      ],
-      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} Comme chaque année, l’agence d’urbanisme a présenté en début d’année les résultats de l’observatoire de l’immob…",
-      "premiumSummary": ""
-    },
-    {
       "id": "observatoire-de-l-immobilier-durable-oid-6-1776957334000",
       "title": "“L’ESG doit parler à tous les métiers” : retour d’expérience de Colonial SFL sur la formation à l’immobilier durable",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -2815,50 +2493,6 @@
         "Confort d’été"
       ],
       "summary": "Au cours de l’élaboration de notre formation sur l’immobilier durable, nous avons été accompagnés par des partenaires stratégiques et financiers. Nous avons souhaité obtenir le retour d’un d’entre eux : […] L’article “L’ESG doit parler à tous les métiers” : retour d’expérience de…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "aupa-pays-d-aix-3-1776781845000",
-      "title": "Une agriculture locale à la croisée des transitions",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/une-agriculture-locale-a-la-croisee-des-transitions/",
-      "image": "https://aupa.fr/wp-content/uploads/2026/04/Portrait_Agricole_AMP_2025_Version_17_12_2025_Page_01-scaled.jpg",
-      "date": "2026-04-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Une agriculture locale à la croisée des transitions est apparu en premier sur Aupa. L’article Une agriculture locale à la croisée des transitions est apparu en premier sur Aupa . 2026-04-21T14:30:45.000Z Une agriculture locale à la croisée des transitions",
-      "premiumSummary": ""
-    },
-    {
-      "id": "aupa-pays-d-aix-4-1776778773000",
-      "title": "La cotation de la demande de logement social en Provence-Alpes-Côte d’Azur",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/la-cotation-de-la-demande-de-logement-social-en-provence-alpes-cote-dazur/",
-      "image": "https://aupa.fr/wp-content/uploads/2026/04/Urbasud-publi-1.png",
-      "date": "2026-04-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article La cotation de la demande de logement social en Provence-Alpes-Côte d’Azur est apparu en premier sur Aupa. L’article La cotation de la demande de logement social en Provence-Alpes-Côte d’Azur est apparu en premier sur Aupa . 2026-04-21T13:39:33.000Z La cotation de la de…",
       "premiumSummary": ""
     },
     {
@@ -3021,52 +2655,6 @@
         "Énergie"
       ],
       "summary": "The Belgian Green Building Council (BGBC) was founded in March 2025 and is a Belgian non-profit organisation (asbl/vzw) that represents a growing coalition of stakeholders spanning the entire construction and real […] L’article [ESREI’s European Tour] What’s to come for sustainab…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "addrn-1-1775138980000",
-      "title": "Une animation pour s’engager dans une trajectoire de sobriété foncière : Play-ZAN",
-      "source": "ADDRN",
-      "sourceId": "addrn",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Pays de la Loire",
-      "url": "https://addrn.fr/play-zan/",
-      "image": "https://addrn.fr/app/uploads/2026/04/GR2_1-scaled.jpg",
-      "date": "2026-04-02",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 82,
-      "tags": [
-        "Saint-Nazaire",
-        "Urbanisme",
-        "Habitat",
-        "Confort d’été"
-      ],
-      "summary": "Une animation pour s’engager dans une trajectoire de sobriété foncière : Play-ZAN Réduire la consommation d’espaces pour atteindre le Zéro Artificialisation Nette à l’horizon 2050, c’est la trajectoire que les territoires doivent intégrer lors de l’élaboration ou la révision de l…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "aupa-pays-d-aix-5-1775037676000",
-      "title": "Surchauffe urbaine : comment adapter nos centres historiques patrimoniaux ?",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/surchauffe-urbaine-comment-adapter-nos-centres-historiques-patrimoniaux/",
-      "image": "https://aupa.fr/wp-content/uploads/2025/01/std-colloque-drac-carre2-e1739281153786.png",
-      "date": "2026-04-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 82,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat",
-        "Confort d’été"
-      ],
-      "summary": "L’article Surchauffe urbaine : comment adapter nos centres historiques patrimoniaux ? est apparu en premier sur Aupa. L’article Surchauffe urbaine : comment adapter nos centres historiques patrimoniaux ? est apparu en premier sur Aupa . 2026-04-01T10:01:16.000Z Surchauffe urbaine…",
       "premiumSummary": ""
     },
     {
@@ -3254,28 +2842,6 @@
       "premiumSummary": ""
     },
     {
-      "id": "aupa-pays-d-aix-6-1769940780000",
-      "title": "Observatoire territorial du logement étudiant Aix-Marseille-Provence",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/observatoire-territorial-du-logement-etudiant-aix-marseille-provence/",
-      "image": "https://aupa.fr/wp-content/uploads/2025/05/vignette-otle-web.jpg",
-      "date": "2026-02-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Observatoire territorial du logement étudiant Aix-Marseille-Provence est apparu en premier sur Aupa. L’article Observatoire territorial du logement étudiant Aix-Marseille-Provence est apparu en premier sur Aupa . 2026-02-01T10:13:00.000Z Observatoire territorial du loge…",
-      "premiumSummary": ""
-    },
-    {
       "id": "alliance-hqe-gbc-5-1769702376000",
       "title": "L’outil E2IC est désormais accessible à l’ensemble des professionnels de la construction et du chantier",
       "source": "Alliance HQE-GBC",
@@ -3296,74 +2862,6 @@
         "Rénovation"
       ],
       "summary": "Après deux années de développement et d’expérimentation, l’outil E2IC (Évaluation Environnementale des Impacts de Chantier) est désormais accessible librement en ligne. Issu d’un projet de recherche appliquée, il vise à mieux objectiver les impacts environnementaux de la phase ch…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "aupa-pays-d-aix-7-1769700235000",
-      "title": "Panorama Emploi-Logement des Alpes-de-Haute-Provence",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/panorama-emploi-logement-des-alpes-de-haute-provence/",
-      "image": "https://aupa.fr/wp-content/uploads/2025/03/poster04.png",
-      "date": "2026-01-29",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation"
-      ],
-      "summary": "L’article Panorama Emploi-Logement des Alpes-de-Haute-Provence est apparu en premier sur Aupa. L’article Panorama Emploi-Logement des Alpes-de-Haute-Provence est apparu en premier sur Aupa . 2026-01-29T15:23:55.000Z Panorama Emploi-Logement des Alpes-de-Haute-Provence",
-      "premiumSummary": ""
-    },
-    {
-      "id": "aupa-pays-d-aix-8-1769696953000",
-      "title": "Une stratégie mobilités et vélo pour Durance Luberon Verdon Agglomération",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/une-strategie-mobilites-et-velo-pour-durance-luberon-verdon-agglomeration/",
-      "image": "https://aupa.fr/wp-content/uploads/2026/01/Plan-velo-DLVA-vignette-1.png",
-      "date": "2026-01-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Une stratégie mobilités et vélo pour Durance Luberon Verdon Agglomération est apparu en premier sur Aupa. L’article Une stratégie mobilités et vélo pour Durance Luberon Verdon Agglomération est apparu en premier sur Aupa . 2026-01-29T14:29:13.000Z Une stratégie mobilité…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "addrn-2-1769523415000",
-      "title": "Les inégalités face au vieillissement sur le territoire ELLO : revenus, patrimoine et conditions de vie",
-      "source": "ADDRN",
-      "sourceId": "addrn",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Pays de la Loire",
-      "url": "https://addrn.fr/revenus-patrimoine-et-conditions-de-vie-vieillir-a-lepreuve-des-inegalites/",
-      "image": "https://addrn.fr/app/uploads/2026/01/pexels-olly-3768131-scaled.jpg",
-      "date": "2026-01-27",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Saint-Nazaire",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation"
-      ],
-      "summary": "Les inégalités face au vieillissement sur le territoire Estuaire et Littoral Loire Océan (ELLO) : revenus, patrimoine et conditions de vie Cet article vient enrichir le fil rouge porté par l’Agence d’urbanisme de la région de Saint-Nazaire (ADDRN) consacré aux enjeux du vieilliss…",
       "premiumSummary": ""
     },
     {
@@ -3388,74 +2886,6 @@
         "Matériaux"
       ],
       "summary": "INIES organise sa prochaine session d’habilitation des vérificateurs le 26 mai 2026 ! Les personnes […] L’article Devenez un vérificateur ou une vérificatrice habilité-e du programme INIES ! est apparu en premier sur Inies. INIES organise sa prochaine session d&#8217;habilitation…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "aupa-pays-d-aix-9-1768815921000",
-      "title": "POPSU Intensifications métropolitaines : Les défis de l’intensification métropolitaine sous l’oeil de la recherche",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/popsu-intensifications-metropolitaines-les-defis-de-lintensification-metropolitaine-sous-loeil-de-la-recherche/",
-      "image": "https://aupa.fr/wp-content/uploads/2026/01/couv-popsu.png",
-      "date": "2026-01-19",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article POPSU Intensifications métropolitaines : Les défis de l’intensification métropolitaine sous l’oeil de la recherche est apparu en premier sur Aupa. L’article POPSU Intensifications métropolitaines : Les défis de l&rsquo;intensification métropolitaine sous l&rsquo;oeil de…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "a-u-montpellier-2-1768470380000",
-      "title": "L'A'U recrute un(e) DATA Ingénieur(e) / Responsable du système d'information - CDI",
-      "source": "A’U Montpellier",
-      "sourceId": "a-u-montpellier",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.audrna.com/index.php/267-l-a-u-recrute-un-e-data-ingenieur-e-responsable-du-systeme-d-information-cdi",
-      "image": "https://www.audrna.com/images/logo_AU_seul.jpg",
-      "date": "2026-01-15",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Montpellier",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation"
-      ],
-      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} Télécharger l'offre d'emploi \"DATA Ingénieur(e) / Responsable du système d'information\" Lire la suite... [data-…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "a-u-montpellier-3-1768470222000",
-      "title": "L'A'U recrute un(e) assistant(e) d'études urbaniste - CDD 18 mois",
-      "source": "A’U Montpellier",
-      "sourceId": "a-u-montpellier",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.audrna.com/index.php/266-l-a-u-recrute-un-e-assistant-e-d-etudes-urbaniste-cdd-18-mois-2",
-      "image": "https://www.audrna.com/images/logo_AU_seul.jpg",
-      "date": "2026-01-15",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Montpellier",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation"
-      ],
-      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} Télécharger l'offre d'emploi \"Assistant(e) d'études urbaniste\" Lire la suite... [data-gutter=\"2%\"][data-nb=\"1\"]…",
       "premiumSummary": ""
     },
     {
@@ -3552,28 +2982,6 @@
       "premiumSummary": ""
     },
     {
-      "id": "a-u-montpellier-4-1767704864000",
-      "title": "L'A'U vous souhaite ses meilleurs vœux pour l'année 2026",
-      "source": "A’U Montpellier",
-      "sourceId": "a-u-montpellier",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.audrna.com/index.php/265-l-a-u-vous-souhaite-ses-meilleurs-voeux-pour-l-annee-2026",
-      "image": "https://www.audrna.com/images/Logo_AU_BD.jpg",
-      "date": "2026-01-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Montpellier",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} [data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-…",
-      "premiumSummary": ""
-    },
-    {
       "id": "alliance-hqe-gbc-6-1766077244000",
       "title": "Retour sur le webinaire GIEP – Gestion Intégrée des Eaux Pluviales",
       "source": "Alliance HQE-GBC",
@@ -3594,30 +3002,6 @@
         "Eau"
       ],
       "summary": "Le 11 décembre 2025, plus de 80 professionnels se sont réunis en ligne pour découvrir en avant-première le cadre de définition de la Gestion Intégrée des Eaux Pluviales (GIEP), fruit d’un an de travail collaboratif piloté par l’Alliance HQE-GBC. Urbanistes, aménageurs, architecte…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "addrn-3-1765460952000",
-      "title": "la location de courte durée sur le littoral Atlantique d’Arc Sud Bretagne à Pornic agglo Pays de Retz",
-      "source": "ADDRN",
-      "sourceId": "addrn",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Pays de la Loire",
-      "url": "https://addrn.fr/la-location-de-courte-duree-sur-le-littoral-atlantique-darc-sud-bretagne-a-pornic-agglo-pays-de-retz/",
-      "image": "https://addrn.fr/app/uploads/2025/12/LCD.jpg",
-      "date": "2025-12-11",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 90,
-      "tags": [
-        "Saint-Nazaire",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "la location de courte durée sur le littoral Atlantique d’Arc Sud Bretagne à Pornic agglo Pays de Retz Les territoires littoraux du périmètre ELLO (Estuaire et Littoral Loire Océan) connaissent une pression croissante sur leur marché immobilier, liée à une attractivité touristique…",
       "premiumSummary": ""
     },
     {
@@ -3755,28 +3139,6 @@
       "premiumSummary": ""
     },
     {
-      "id": "addrn-4-1758534176000",
-      "title": "Les dynamiques du vieillissement",
-      "source": "ADDRN",
-      "sourceId": "addrn",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Pays de la Loire",
-      "url": "https://addrn.fr/les-dynamiques-du-vieillissement/",
-      "image": "https://addrn.fr/app/uploads/2025/09/les-aines-modernes-prennent-une-photo-d-eux-memes-scaled.jpg",
-      "date": "2025-09-22",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Saint-Nazaire",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "les dynamiques du vieillissement Quand le passé d’un pays façonne son avenir démographique, il redessine en profondeur le visage de ses territoires. En France, l’écho du baby-boom résonne encore aujourd’hui dans les pyramides des âges, et ce phénomène est particulièrement visible…",
-      "premiumSummary": ""
-    },
-    {
       "id": "bruitparif-1-1754956800000",
       "title": "Mise en place d'un partenariat renforcé entre l'Acnusa et Bruitparif",
       "source": "Bruitparif",
@@ -3845,28 +3207,6 @@
       "premiumSummary": ""
     },
     {
-      "id": "a-u-montpellier-5-1750326249000",
-      "title": "Les formes urbaines : introduction à la démarche de l’atlas",
-      "source": "A’U Montpellier",
-      "sourceId": "a-u-montpellier",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.audrna.com/index.php/264-les-formes-urbaines-introduction-a-la-demarche-de-l-atlas",
-      "image": "https://www.audrna.com/images/NEWS/News-2025/AtlasFormesUrbaines-AU-MUR.jpg",
-      "date": "2025-06-19",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Montpellier",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} L’A’U lance l’élaboration d’un atlas des formes urbaines pour qualifier les tissus bâtis de son territoire, app…",
-      "premiumSummary": ""
-    },
-    {
       "id": "bruitparif-3-1750118400000",
       "title": "Le bruit du boulevard périphérique en temps réel",
       "source": "Bruitparif",
@@ -3887,29 +3227,6 @@
         "Confort d’été"
       ],
       "summary": "Une cartographie dynamique du bruit généré par le trafic routier du boulevard périphérique a été mise au point par Bruitparif. Rendue possible grâce à l’intégration en temps réel des données de trafic… Une cartographie dynamique du bruit généré par le trafic routier du boulevard …",
-      "premiumSummary": ""
-    },
-    {
-      "id": "a-u-montpellier-6-1749024254000",
-      "title": "La surchauffe urbaine sur le territoire de Nîmes Métropole",
-      "source": "A’U Montpellier",
-      "sourceId": "a-u-montpellier",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.audrna.com/index.php/263-la-surchauffe-urbaine-sur-le-territoire-de-nimes-metropole",
-      "image": "https://www.audrna.com/images/NEWS/News-2025/poster_surchauffe_urbaine-mur.jpg",
-      "date": "2025-06-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 82,
-      "tags": [
-        "Montpellier",
-        "Urbanisme",
-        "Habitat",
-        "Confort d’été"
-      ],
-      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} L’agence d’urbanisme, région nîmoise et alésienne (A’U) accompagne Nîmes Métropole dans la mise en œuvre de son…",
       "premiumSummary": ""
     },
     {
@@ -3980,28 +3297,6 @@
       "premiumSummary": ""
     },
     {
-      "id": "a-u-montpellier-7-1745484677000",
-      "title": "L’intensification des villes et villages illustrée",
-      "source": "A’U Montpellier",
-      "sourceId": "a-u-montpellier",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.audrna.com/index.php/260-intensification-urbaine",
-      "image": "https://www.audrna.com/images/NEWS/News-2025/IntensificationUrbaine-Mur.jpg",
-      "date": "2025-04-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Montpellier",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} Les enjeux d’adaptation et de lutte contre le changement climatique ont un impact considérable sur l’aménagemen…",
-      "premiumSummary": ""
-    },
-    {
       "id": "bruitparif-4-1741824000000",
       "title": "Publication des résultats de la campagne d'observation au sein des lieux diffusant des sons amplifiés",
       "source": "Bruitparif",
@@ -4043,28 +3338,6 @@
         "Île-de-France"
       ],
       "summary": "La Région Île-de-France, en partenariat avec Bruitparif et la Fondation Pour l’Audition, lance une campagne de sensibilisation et de prévention inédite à destination des lycéens franciliens… La Région Île-de-France, en partenariat avec Bruitparif et la Fondation Pour l’Audition, …",
-      "premiumSummary": ""
-    },
-    {
-      "id": "a-u-montpellier-8-1735813347000",
-      "title": "L'A'U vous souhaite ses meilleurs vœux pour l'année 2025",
-      "source": "A’U Montpellier",
-      "sourceId": "a-u-montpellier",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.audrna.com/index.php/258-l-a-u-vous-souhaite-ses-meilleurs-voeux-pour-l-annee-2025",
-      "image": "https://www.audrna.com/images/Logo_AU_BD.jpg",
-      "date": "2025-01-02",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Montpellier",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} [data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-…",
       "premiumSummary": ""
     },
     {
@@ -4134,28 +3407,6 @@
       "premiumSummary": ""
     },
     {
-      "id": "a-u-montpellier-9-1730725605000",
-      "title": "Boite à outils de l'habitat",
-      "source": "A’U Montpellier",
-      "sourceId": "a-u-montpellier",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.audrna.com/index.php/257-boite-a-outils-de-l-habitat",
-      "image": "https://www.audrna.com/images/NEWS/News-2024/BOITE_A_OUTILS_HABITAT2024_Mur.jpg",
-      "date": "2024-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Montpellier",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} L’agence d’urbanisme met à disposition de ses partenaires une boîte à outils de l’habitat, comprenant 43 fiches…",
-      "premiumSummary": ""
-    },
-    {
       "id": "bruitparif-9-1727308800000",
       "title": "La Région Île-de-France vote un plan Anti-Bruit",
       "source": "Bruitparif",
@@ -4198,31 +3449,6 @@
         "Confort d’été"
       ],
       "summary": "Avec le soutien de l'ADEME et de pilotes issus de la filière (Ifpeb, OID), ainsi qu'avec l'appui des services de la DGALN, DGEC et du CGDD, le Plan Bâtiment Durable publie un rapport sur la sobriété énergétique du secteur résidentiel. Elaboré dans le cadre de l'acte 2 du plan de …",
-      "premiumSummary": ""
-    },
-    {
-      "id": "envirobatbdm-0-1697791303000",
-      "title": "Colloque régional réhabiliter durable",
-      "source": "EnvirobatBDM",
-      "sourceId": "envirobatbdm",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://envirobatbdm.eu/actualites/2023/colloque-regional-rehabiliter-durable",
-      "image": "https://envirobatbdm.eu/sites/default/files/styles/crop_image_style/public/Capture%20d%E2%80%99%C3%A9cran%202023-09-22%20164837.png?itok=unaamaW3",
-      "date": "2023-10-20",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 98,
-      "tags": [
-        "BDM",
-        "Bâtiment durable",
-        "Méditerranée",
-        "Eau",
-        "Confort d’été",
-        "Biosourcé"
-      ],
-      "summary": "Colloque régional réhabiliter durable Virginie ven 20/10/2023 - 10:41 Pourquoi un colloque \"Réhabiliter durable\" en Région Provence-Alpes-Côte d'Azur ? > Les inscriptions sont ouvertes par ici ! EnvirobatBDM lance en 2023 la première édition d'un nouveau rendez-vous annuel pour p…",
       "premiumSummary": ""
     },
     {
@@ -4291,28 +3517,6 @@
         "Confort d’été"
       ],
       "summary": "Le plan de sobriété lancé le 6 octobre dernier dans l'urgence de la crise énergétique actuelle a pour objectif de réduire de 10 % en deux ans la consommation énergétique des bâtiments tertiaires. Après avoir réalisé des avancées significatives en matière de réduction de la consom…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "envirobatbdm-1-1604069379000",
-      "title": "Covid-19 : 2ème confinement et poursuite des activités",
-      "source": "EnvirobatBDM",
-      "sourceId": "envirobatbdm",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://envirobatbdm.eu/actualites/2020/covid-19-2eme-confinement-et-poursuite-des-activites",
-      "image": "https://www.envirobatbdm.eu/themes/subtheme/img/logo_carre.png",
-      "date": "2020-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "BDM",
-        "Bâtiment durable",
-        "Méditerranée"
-      ],
-      "summary": "Covid-19 : 2ème confinement et poursuite des activités Perrine ven 30/10/2020 - 15:49 EnvirobatBDM est le lieu d'une pensée résolument optimiste et d’apprentissage collectif. C’est pourquoi notre activité se poursuit en télétravail, pendant ce 2ème confinement, afin de vous pouvo…",
       "premiumSummary": ""
     }
   ]
