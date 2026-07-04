@@ -1299,73 +1299,47 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
-      "id": "batiactu-3-1783180892000",
-      "title": "Les fortes économies liées à une bonne isolation",
+      "id": "batiactu-3-1783192269000",
+      "title": "Vos obligations en tant qu’employeur vis-à-vis de vos salariés",
       "source": "Batiactu",
       "sourceId": "batiactu",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=156157",
-      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=156157",
+      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=154714",
+      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=154714",
       "date": "2026-07-04",
       "access": "open",
       "official": false,
       "highImpact": true,
-      "impactScore": 82,
+      "impactScore": 74,
       "tags": [
         "Construction",
         "Marché",
-        "Réglementation",
-        "Économie du bâtiment"
+        "Réglementation"
       ],
-      "summary": "Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans une isolation performante, ses performances théoriques chutent et les surcouts énergétiques sont ... Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans…",
+      "summary": "La Loi et les conventions collectives du BTP imposent à l'employeur de verser des indemnités à ses salariés en cas d'arrêt de travail, de licenciement ou de départ à la retraite. La Loi et les conventions collectives du BTP imposent à l'employeur de verser des indemnités à ses sa…",
       "premiumSummary": ""
     },
     {
-      "id": "batiactu-7-1783180892000",
-      "title": "Préfa béton : le bon calcul pour aménager la ville",
+      "id": "batiactu-7-1783192269000",
+      "title": "Isolation thermique des tuyauteries",
       "source": "Batiactu",
       "sourceId": "batiactu",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=155674",
-      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=155674",
+      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=156135",
+      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=156135",
       "date": "2026-07-04",
       "access": "open",
       "official": false,
       "highImpact": true,
-      "impactScore": 82,
+      "impactScore": 74,
       "tags": [
         "Construction",
         "Marché",
-        "Réglementation",
-        "Économie du bâtiment"
+        "Réglementation"
       ],
-      "summary": "Adapter les infrastructures, maîtriser les coûts, limiter les nuisances : les collectivités doivent arbitrer à chaque projet. La préfabrication béton s'impose comme un allié de choix pour ... Adapter les infrastructures, maîtriser les coûts, limiter les nuisances : les collectivi…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "alliance-hqe-gbc-0-1783065618000",
-      "title": "Appel à candidature Test HQE Performance Empreinte Eau – jusqu’au 15 septembre pour vous inscrire",
-      "source": "Alliance HQE-GBC",
-      "sourceId": "alliance-hqe-gbc",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.hqegbc.org/appel-a-candidature-test-hqe-performance-empreinte-eau-jusquau-15-septembre-pour-vous-inscrire/",
-      "image": "https://www.hqegbc.org/wp-content/uploads/2025/11/Logo-Aquapint-01-2-1.png",
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 90,
-      "tags": [
-        "HQE",
-        "Bâtiment durable",
-        "Performance",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "Identifiez les leviers pertinents pour réduire l’empreinte eau de vos projets ! En partenariat avec L’eau : un enjeu encore trop peu intégré dans les choix de conception ! Face aux tensions croissantes sur la ressource, la question de l’eau devient un sujet de plus en plus struct…",
+      "summary": "Conductivité thermique, émissivité, comportement au feu, Kingspan Technical Insulation passe en revue les 5 critères essentiels pour guider les professionnels dans leur choix. Conductivité thermique, émissivité, comportement au feu, Kingspan Technical Insulation passe en revue le…",
       "premiumSummary": ""
     },
     {
@@ -1857,29 +1831,6 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "alliance-hqe-gbc-1-1781259529000",
-      "title": "Offre de stage / alternance – Chargé(e) de mission Transition environnementale du cadre bâti",
-      "source": "Alliance HQE-GBC",
-      "sourceId": "alliance-hqe-gbc",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.hqegbc.org/offre-de-stage-alternance-chargee-de-mission-transition-environnementale-du-cadre-bati/",
-      "image": "https://www.hqegbc.org/wp-content/uploads/2025/11/Logo-Aquapint-01-2-1-300x300.png",
-      "date": "2026-06-12",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 82,
-      "tags": [
-        "HQE",
-        "Bâtiment durable",
-        "Performance",
-        "Eau"
-      ],
-      "summary": "Contexte L’Alliance HQE-GBC est une association reconnue d’utilité publique créée en 1996, qui rassemble les professionnels du cadre de vie durable. Elle réunit syndicats, fédérations professionnelles, entreprises, promoteurs, foncières, maitres d’ouvrage, industriels, maitres d’…",
-      "premiumSummary": ""
-    },
-    {
       "id": "observatoire-de-l-immobilier-durable-oid-1-1781179808000",
       "title": "EPBD transposition: what to expect from the new European framework for buildings?",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -1998,122 +1949,6 @@ window.BATIVEILLE_DATA = {
         "Rénovation"
       ],
       "summary": "Si la borne que vous envisagez d’acquérir délivre une puissance supérieure à 3,7KW, vous devez faire appel à un électricien qualifié par Qualifelec, Qualit’Enr ou l’Afnor. Il sera en mesure de vous conseiller sur la puissance nécessaire au regard du type de véhicule que vous souh…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "association-bbca-0-1780935481000",
-      "title": "Copernicus > Changement climatique en Europe : « Aucune région n’est épargnée » – Que faire ?",
-      "source": "Association BBCA",
-      "sourceId": "association-bbca",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.batimentbascarbone.org/copernicus-changement-climatique-en-europe-aucune-region-nest-epargnee-que-faire/",
-      "image": "https://www.batimentbascarbone.org/wp-content/uploads/2026/06/europe-se-rechauffe.png",
-      "date": "2026-06-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 74,
-      "tags": [
-        "Carbone",
-        "Bas carbone",
-        "Observatoire"
-      ],
-      "summary": "Françoise Vimeux, climatologue et directrice de recherche à l’Institut de recherche pour le développement, et Jean Jouzel, paléoclimatologue et ancien vice-président du GIEC, alertent dans La Grande Matinale de France Inter du 30 avril dernier. L’article Copernicus > Changement c…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "association-bbca-1-1780927831000",
-      "title": "Built by Nature France, portée par BBCA, au Carrefour International du Bois 2026",
-      "source": "Association BBCA",
-      "sourceId": "association-bbca",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.batimentbascarbone.org/built-by-nature-france-portee-par-bbca-au-carrefour-international-du-bois-2026/",
-      "image": "https://www.batimentbascarbone.org/wp-content/uploads/2026/06/carrefour-du-bois-bbnf-1024x761.png",
-      "date": "2026-06-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Carbone",
-        "Bas carbone",
-        "Observatoire",
-        "Biosourcé"
-      ],
-      "summary": "Built by Nature France, portée par BBCA, au Carrefour International du Bois 2026 L’article Built by Nature France, portée par BBCA, au Carrefour International du Bois 2026 est apparu en premier sur Association BBCA. Built by Nature France, portée par BBCA, au Carrefour Internatio…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "association-bbca-2-1780923510000",
-      "title": "« Il n’est plus possible de perpétuer les méthodes de construction des cent dernières années », Paul King, CEO de Built by Nature",
-      "source": "Association BBCA",
-      "sourceId": "association-bbca",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.batimentbascarbone.org/il-nest-plus-possible-de-perpetuer-les-methodes-de-construction-des-cent-dernieres-annees-paul-king-ceo-de-built-by-nature/",
-      "image": "https://www.batimentbascarbone.org/wp-content/uploads/2026/06/bbn-france-mai-2026-1024x576.png",
-      "date": "2026-06-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 90,
-      "tags": [
-        "Carbone",
-        "Bas carbone",
-        "Observatoire",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Face à l’urgence climatique et à la croissance exponentielle du secteur du bâtiment, Built by Nature impulse une révolution : faire des matériaux biosourcés la norme. Paul King, CEO de Built by Nature, décrypte les enjeux de la construction biosourcée et revient sur le partenaria…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "association-bbca-3-1780923014000",
-      "title": "Parole de nouveaux membres #épisode 2 – mai 2026",
-      "source": "Association BBCA",
-      "sourceId": "association-bbca",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.batimentbascarbone.org/parole-de-nouveaux-membres-episode-2-mai-2026/",
-      "image": "https://www.batimentbascarbone.org/wp-content/uploads/2026/06/agache-francois-corentin-fohlen-agence-oblique-abc09950-150x150.jpg",
-      "date": "2026-06-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 98,
-      "tags": [
-        "Carbone",
-        "Bas carbone",
-        "Observatoire",
-        "RE2020",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Ensemble, nous accélérons la révolution bas-carbone de l’immobilier ! L’article Parole de nouveaux membres #épisode 2 – mai 2026 est apparu en premier sur Association BBCA. Ensemble, nous accélérons la révolution bas-carbone de l’immobilier ! Jamais nous n’avons été aussi nombreu…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "association-bbca-4-1780921563000",
-      "title": "Revue de médias – mai 2026",
-      "source": "Association BBCA",
-      "sourceId": "association-bbca",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.batimentbascarbone.org/revue-de-medias-mai-2026/",
-      "image": "https://www.batimentbascarbone.org/wp-content/uploads/2026/06/news-revue-de-medias.jpg",
-      "date": "2026-06-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 74,
-      "tags": [
-        "Carbone",
-        "Bas carbone",
-        "Observatoire"
-      ],
-      "summary": "Il n’y a pas d’extrait, car cette publication est protégée. L’article Revue de médias – mai 2026 est apparu en premier sur Association BBCA. Il n’y a pas d’extrait, car cette publication est protégée. L’article Revue de médias &#8211; mai 2026 est apparu en premier sur Associatio…",
       "premiumSummary": ""
     },
     {
@@ -2355,28 +2190,6 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "association-bbca-5-1778001456000",
-      "title": "Newsletter BBCA #25 – 5 mai 2026",
-      "source": "Association BBCA",
-      "sourceId": "association-bbca",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.batimentbascarbone.org/newsletter-bbca-25-5-mai-2026/",
-      "image": "https://www.batimentbascarbone.org/wp-content/uploads/2024/04/agir-et-logo-xl-bbca-news-500-x-150-1.png",
-      "date": "2026-05-05",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 74,
-      "tags": [
-        "Carbone",
-        "Bas carbone",
-        "Observatoire"
-      ],
-      "summary": "Découvrez le sommaire de la newsletter BBCA n°25 du 5 mai 2026. L’article Newsletter BBCA #25 – 5 mai 2026 est apparu en premier sur Association BBCA. Découvrez le sommaire de la newsletter BBCA n°25 du 5 mai 2026. L’article Newsletter BBCA #25 &#8211; 5 mai 2026 est apparu en pr…",
-      "premiumSummary": ""
-    },
-    {
       "id": "observatoire-de-l-immobilier-durable-oid-5-1777622400000",
       "title": "Récap OID – L’actualité de l’immobilier durable en avril 2026",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -2399,76 +2212,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Quels sont les éléments qui ont marqué l’actualité de l’immobilier durable du mois de avril ? Chaque mois, l’OID publie la synthèse de sa veille réglementaire et extra-réglementaire. Retrouvez l’article […] L’article Récap OID – L’actualité de l’immobilier durable en avril 2026 e…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "association-bbca-6-1777542708000",
-      "title": "Parole de nouveaux membres – avril 2026",
-      "source": "Association BBCA",
-      "sourceId": "association-bbca",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.batimentbascarbone.org/parole-de-nouveaux-membres-avril-2026/",
-      "image": "https://www.batimentbascarbone.org/wp-content/uploads/2026/04/heloise-jacob-150x150.jpg",
-      "date": "2026-04-30",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 98,
-      "tags": [
-        "Carbone",
-        "Bas carbone",
-        "Observatoire",
-        "RE2020",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Ensemble, nous accélérons la révolution bas-carbone de l’immobilier ! L’article Parole de nouveaux membres – avril 2026 est apparu en premier sur Association BBCA. Ensemble, nous accélérons la révolution bas-carbone de l’immobilier ! Jamais nous n’avons été aussi nombreux à agir …",
-      "premiumSummary": ""
-    },
-    {
-      "id": "association-bbca-7-1777540661000",
-      "title": "L’immobilier bas-carbone, un pari gagnant malgré la crise : la preuve par 6 millions de m²",
-      "source": "Association BBCA",
-      "sourceId": "association-bbca",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.batimentbascarbone.org/limmobilier-bas-carbone-un-pari-gagnant-malgre-la-crise-la-preuve-par-6-millions-de-m%c2%b2/",
-      "image": "https://www.batimentbascarbone.org/wp-content/uploads/2021/11/logo-bbca-140x140-1.png",
-      "date": "2026-04-30",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Carbone",
-        "Bas carbone",
-        "Observatoire",
-        "Réglementation"
-      ],
-      "summary": "En pleine tourmente économique, l’immobilier bas carbone séduit toujours plus d’entreprises et d’investisseurs. Avec 6 millions de m² déjà livrés ou en cours de labellisation, l’Association BBCA prouve que la performance environnementale rime avec rentabilité. Le bas-carbone n’es…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "association-bbca-8-1777481029000",
-      "title": "Revue de médias – avril 2026",
-      "source": "Association BBCA",
-      "sourceId": "association-bbca",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.batimentbascarbone.org/revuedemedias-avril2026/",
-      "image": "https://www.batimentbascarbone.org/wp-content/uploads/2025/09/news.jpg",
-      "date": "2026-04-29",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 74,
-      "tags": [
-        "Carbone",
-        "Bas carbone",
-        "Observatoire"
-      ],
-      "summary": "Il n’y a pas d’extrait, car cette publication est protégée. L’article Revue de médias – avril 2026 est apparu en premier sur Association BBCA. Il n’y a pas d’extrait, car cette publication est protégée. L’article Revue de médias – avril 2026 est apparu en premier sur Association …",
       "premiumSummary": ""
     },
     {
@@ -2516,75 +2259,6 @@ window.BATIVEILLE_DATA = {
         "Décret tertiaire"
       ],
       "summary": "2026-04-20T12:30:29.000Z Le Plan Bâtiment Durable est signataire du manifeste d'ACTEE",
-      "premiumSummary": ""
-    },
-    {
-      "id": "alliance-hqe-gbc-2-1776261804000",
-      "title": "L’Alliance HQE-GBC partenaire des Trophées Bâtiments Résilients 2026",
-      "source": "Alliance HQE-GBC",
-      "sourceId": "alliance-hqe-gbc",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.hqegbc.org/lalliance-hqe-gbc-partenaire-des-trophees-batiments-resilients-2026/",
-      "image": "https://www.hqegbc.org/wp-content/uploads/2026/04/TBR.jpg",
-      "date": "2026-04-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "HQE",
-        "Bâtiment durable",
-        "Performance"
-      ],
-      "summary": "L’Alliance HQE-GBC est partenaire de la 4ᵉ édition des Trophées Bâtiments Résilients, organisée par la Mission Risques Naturels – MRN. Les candidatures sont ouvertes jusqu’au 29 mai 2026. Face à l’intensification des aléas naturels et climatiques – inondations, sécheresses, feux …",
-      "premiumSummary": ""
-    },
-    {
-      "id": "alliance-hqe-gbc-3-1776182133000",
-      "title": "Réemploi en rénovation tertiaire : premiers enseignements du démonstrateur français du projet européen DRASTIC",
-      "source": "Alliance HQE-GBC",
-      "sourceId": "alliance-hqe-gbc",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.hqegbc.org/reemploi-en-renovation-tertiaire-premiers-enseignements-du-demonstrateur-francais-du-projet-europeen-drastic/",
-      "image": "https://www.hqegbc.org/wp-content/uploads/2026/03/Atelier-Drastic-FR3-scaled.jpg",
-      "date": "2026-04-14",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 98,
-      "tags": [
-        "HQE",
-        "Bâtiment durable",
-        "Performance",
-        "Réglementation",
-        "Réemploi",
-        "Rénovation"
-      ],
-      "summary": "Le projet européen DRASTIC, financé dans le cadre d’Horizon Europe, vise à tester des solutions concrètes pour transformer les pratiques du secteur du bâtiment, notamment en matière de circularité et de réemploi. En France, le démonstrateur, piloté par Saint-Gobain, s’intéresse à…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "association-bbca-9-1775847532000",
-      "title": "Newsletter BBCA #24 – 10 avril 2026",
-      "source": "Association BBCA",
-      "sourceId": "association-bbca",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.batimentbascarbone.org/newsletter-bbca-24-10-avril-2026/",
-      "image": "https://www.batimentbascarbone.org/wp-content/uploads/2024/04/agir-et-logo-xl-bbca-news-500-x-150-1.png",
-      "date": "2026-04-10",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 74,
-      "tags": [
-        "Carbone",
-        "Bas carbone",
-        "Observatoire"
-      ],
-      "summary": "Découvrez le sommaire de la newsletter BBCA n° 24 du 10 avril 2026. L’article Newsletter BBCA #24 – 10 avril 2026 est apparu en premier sur Association BBCA. Découvrez le sommaire de la newsletter BBCA n° 24 du 10 avril 2026. L’article Newsletter BBCA #24 &#8211; 10 avril 2026 es…",
       "premiumSummary": ""
     },
     {
@@ -2730,28 +2404,6 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "alliance-hqe-gbc-4-1772485679000",
-      "title": "Entre CSRD, SFDR et Taxonomie, les acteurs de la finance et de l’immobilier font face à une nouvelle donne",
-      "source": "Alliance HQE-GBC",
-      "sourceId": "alliance-hqe-gbc",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.hqegbc.org/entre-csrd-sfdr-et-taxonomie-les-acteurs-de-la-finance-et-de-limmobilier-font-face-a-une-nouvelle-donne/",
-      "image": "https://www.hqegbc.org/wp-content/uploads/2026/03/FinanceDurable_260212-12-scaled.jpeg",
-      "date": "2026-03-02",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "HQE",
-        "Bâtiment durable",
-        "Performance"
-      ],
-      "summary": "L’Alliance HQE-GBC, Cerqual Qualitel Certification et Certivea ont organisé le 12 février dernier un événement consacré au rôle de la finance durable comme levier de création de valeur et de performance pour l’immobilier. Cet événement a permis de : Rachel Chermain, Directrice de…",
-      "premiumSummary": ""
-    },
-    {
       "id": "fncaue-3-1771584316000",
       "title": "La Fédération nationale des CAUE et les Vieilles Maisons Françaises (VMF) officialisent un partenariat",
       "source": "FNCAUE",
@@ -2840,29 +2492,6 @@ window.BATIVEILLE_DATA = {
         "Décret tertiaire"
       ],
       "summary": "2026-02-03T13:09:05.000Z Note thématique (2026) : L'immeuble de demain : de l'actif immobilier à l'immobilier actif",
-      "premiumSummary": ""
-    },
-    {
-      "id": "alliance-hqe-gbc-5-1769702376000",
-      "title": "L’outil E2IC est désormais accessible à l’ensemble des professionnels de la construction et du chantier",
-      "source": "Alliance HQE-GBC",
-      "sourceId": "alliance-hqe-gbc",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.hqegbc.org/loutil-e2ic-est-desormais-accessible-a-lensemble-des-professionnels-de-la-construction-et-du-chantier/",
-      "image": "https://www.hqegbc.org/wp-content/uploads/2025/01/Agyre-1.png",
-      "date": "2026-01-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 82,
-      "tags": [
-        "HQE",
-        "Bâtiment durable",
-        "Performance",
-        "Rénovation"
-      ],
-      "summary": "Après deux années de développement et d’expérimentation, l’outil E2IC (Évaluation Environnementale des Impacts de Chantier) est désormais accessible librement en ligne. Issu d’un projet de recherche appliquée, il vise à mieux objectiver les impacts environnementaux de la phase ch…",
       "premiumSummary": ""
     },
     {
@@ -2983,29 +2612,6 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "alliance-hqe-gbc-6-1766077244000",
-      "title": "Retour sur le webinaire GIEP – Gestion Intégrée des Eaux Pluviales",
-      "source": "Alliance HQE-GBC",
-      "sourceId": "alliance-hqe-gbc",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.hqegbc.org/retour-sur-le-webinaire-giep-gestion-integree-des-eaux-pluviales/",
-      "image": "https://www.hqegbc.org/wp-content/uploads/2025/12/web-giep.png",
-      "date": "2025-12-18",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 82,
-      "tags": [
-        "HQE",
-        "Bâtiment durable",
-        "Performance",
-        "Eau"
-      ],
-      "summary": "Le 11 décembre 2025, plus de 80 professionnels se sont réunis en ligne pour découvrir en avant-première le cadre de définition de la Gestion Intégrée des Eaux Pluviales (GIEP), fruit d’un an de travail collaboratif piloté par l’Alliance HQE-GBC. Urbanistes, aménageurs, architecte…",
-      "premiumSummary": ""
-    },
-    {
       "id": "plan-batiment-durable-4-1765271192000",
       "title": "Assemblée générale du Plan Bâtiment Durable - 2 décembre 2025",
       "source": "Plan Bâtiment Durable",
@@ -3117,75 +2723,6 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "bruitparif-0-1761696000000",
-      "title": "Retour sur le séminaire régional Bruit des transports terrestres",
-      "source": "Bruitparif",
-      "sourceId": "bruitparif",
-      "sourceType": "Observatoire bruit",
-      "region": "Île-de-France",
-      "url": "https://www.bruitparif.fr/retour-sur-le-seminaire-regional-bruit-des-transports-terrestres/",
-      "image": "https://www.bruitparif.fr/images/logo-bruitparif.jpg",
-      "date": "2025-10-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 82,
-      "tags": [
-        "Bruit",
-        "Acoustique",
-        "Île-de-France",
-        "Biosourcé"
-      ],
-      "summary": "La DRIEAT Île-de-France et Bruitparif ont organisé le 15 octobre 2025 matin un séminaire dédié au bruit des transports terrestres… La DRIEAT Île-de-France et Bruitparif ont organisé le 15 octobre 2025 matin un séminaire dédié au bruit des transports terrestres&#x2026; 2025-10-29T…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "bruitparif-1-1754956800000",
-      "title": "Mise en place d'un partenariat renforcé entre l'Acnusa et Bruitparif",
-      "source": "Bruitparif",
-      "sourceId": "bruitparif",
-      "sourceType": "Observatoire bruit",
-      "region": "Île-de-France",
-      "url": "https://www.bruitparif.fr/mise-en-place-d-un-partenariat-renforce-entre-l-acnusa-et-bruitparif/",
-      "image": "https://www.bruitparif.fr/images/logo-bruitparif.jpg",
-      "date": "2025-08-12",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Bruit",
-        "Acoustique",
-        "Île-de-France"
-      ],
-      "summary": "Le 12 août 2025, les présidents de l’Autorité de contrôle des nuisances aériennes (Acnusa) et de Bruitparif ont signé une convention cadre trisannuelle (2025-2028) de partenariat technique renforcé.Il… Le 12 août 2025, les présidents de l’Autorité de contrôle des nuisances aérien…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "bruitparif-2-1754956800000",
-      "title": "La plateforme cartographique air-bruit fait peau neuve",
-      "source": "Bruitparif",
-      "sourceId": "bruitparif",
-      "sourceType": "Observatoire bruit",
-      "region": "Île-de-France",
-      "url": "https://www.bruitparif.fr/la-plateforme-cartographique-air-bruit-fait-peau-neuve/",
-      "image": "https://www.bruitparif.fr/images/logo-bruitparif.jpg",
-      "date": "2025-08-12",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Bruit",
-        "Acoustique",
-        "Île-de-France",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Durant l’été 2025, Bruitparif et Airparif ont effectué une évolution importante de la cartographie des pollutions sonore et atmosphérique en Île-de-France et des statistiques d’exposition qui y sont… Durant l’été 2025, Bruitparif et Airparif ont effectué une évolution importante …",
-      "premiumSummary": ""
-    },
-    {
       "id": "plan-batiment-durable-5-1752764460000",
       "title": "Nouvelle note du groupe de réflexion prospective RBR-T : Immobilier, les arbres qui tombent et la forêt qui pousse",
       "source": "Plan Bâtiment Durable",
@@ -3205,228 +2742,6 @@ window.BATIVEILLE_DATA = {
         "Décret tertiaire"
       ],
       "summary": "Le groupe RBR-T groupe prospectif du Plan Bâtiment Durable vient de sortir sa nouvelle note sur la crise immobilière et les mutations qu'elle entraine. Cette note est mise en « appel à contribution » afin de recueillir les avis de ses lectrices et lecteurs. Le groupe RBR-T groupe…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "bruitparif-3-1750118400000",
-      "title": "Le bruit du boulevard périphérique en temps réel",
-      "source": "Bruitparif",
-      "sourceId": "bruitparif",
-      "sourceType": "Observatoire bruit",
-      "region": "Île-de-France",
-      "url": "https://www.bruitparif.fr/le-bruit-du-boulevard-peripherique-en-temps-reel/",
-      "image": "https://www.bruitparif.fr/images/logo-bruitparif.jpg",
-      "date": "2025-06-17",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 82,
-      "tags": [
-        "Bruit",
-        "Acoustique",
-        "Île-de-France",
-        "Confort d’été"
-      ],
-      "summary": "Une cartographie dynamique du bruit généré par le trafic routier du boulevard périphérique a été mise au point par Bruitparif. Rendue possible grâce à l’intégration en temps réel des données de trafic… Une cartographie dynamique du bruit généré par le trafic routier du boulevard …",
-      "premiumSummary": ""
-    },
-    {
-      "id": "alliance-hqe-gbc-7-1748419409000",
-      "title": "L’Alliance HQE-GBC présente à Varsovie pour la réunion trimestrielle du réseau européen du World Green Building Council",
-      "source": "Alliance HQE-GBC",
-      "sourceId": "alliance-hqe-gbc",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.hqegbc.org/lalliance-hqe-gbc-presente-a-varsovie-pour-la-reunion-trimestrielle-du-reseau-europeen-du-world-green-building-council/",
-      "image": "https://www.hqegbc.org/wp-content/uploads/2025/05/IMG_2882-scaled.jpg",
-      "date": "2025-05-28",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 82,
-      "tags": [
-        "HQE",
-        "Bâtiment durable",
-        "Performance",
-        "Eau"
-      ],
-      "summary": "Le réseau européen du World Green Building Council s’est réuni à Varsovie les 19 et 20 mai pour sa réunion trimestrielle. Deux jours inspirants : Ces deux jours de travail et d’échanges se sont clôturés sur un moment important pour le réseau : la signature par tous les membres de…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "alliance-hqe-gbc-8-1748353761000",
-      "title": "Conférence de Printemps de l’European Federation for Living : L’adaptation climatique au cœur des discussions",
-      "source": "Alliance HQE-GBC",
-      "sourceId": "alliance-hqe-gbc",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.hqegbc.org/conference-de-printemps-de-leuropean-federation-for-living-ladaptation-climatique-au-coeur-des-discussions/",
-      "image": "https://www.hqegbc.org/wp-content/uploads/2025/05/EFL-conference-2025-1.jpg",
-      "date": "2025-05-27",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "HQE",
-        "Bâtiment durable",
-        "Performance"
-      ],
-      "summary": "Jeudi 22 mai 2025, notre Présidente Marjolaine Meynier-Millefert, a eu l’honneur de participer à la conférence de printemps de l’European Federation for Living (EFL) à Paris, avec une conviction simple : l’adaptation au changement climatique n’est plus un défi à venir, mais le ca…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "alliance-hqe-gbc-9-1748352944000",
-      "title": "Rencontres du Club de l’Amélioration de l’Habitat : L’évolution de l’habitat face aux transitions environnementales, économiques et sociétales",
-      "source": "Alliance HQE-GBC",
-      "sourceId": "alliance-hqe-gbc",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.hqegbc.org/rencontres-du-club-de-lamelioration-de-lhabitat-levolution-de-lhabitat-face-aux-transitions-environnementales-economiques-et-societales/",
-      "image": "https://www.hqegbc.org/wp-content/uploads/2025/05/CAH_gpe_2025.jpg",
-      "date": "2025-05-27",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "HQE",
-        "Bâtiment durable",
-        "Performance"
-      ],
-      "summary": "L’Alliance HQE-GBC est ravie d’avoir participé aux Rencontres du Club de l’Amélioration de l’Habitat dédiées à « L’évolution de l’habitat face aux transitions environnementales, économiques et sociétales » le 21 mai 2025 à Paris. Cet événement a réuni des experts de renom, dont M…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "bruitparif-4-1741824000000",
-      "title": "Publication des résultats de la campagne d'observation au sein des lieux diffusant des sons amplifiés",
-      "source": "Bruitparif",
-      "sourceId": "bruitparif",
-      "sourceType": "Observatoire bruit",
-      "region": "Île-de-France",
-      "url": "https://www.bruitparif.fr/publication-des-resultats-de-la-campagne-d-observation-au-sein-des-lieux-diffusant-des-sons-amplifies/",
-      "image": "https://www.bruitparif.fr/images/logo-bruitparif.jpg",
-      "date": "2025-03-13",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Bruit",
-        "Acoustique",
-        "Île-de-France"
-      ],
-      "summary": "Salles de concert, festivals, discothèques : une campagne d’observation réalisée par Bruitparif à la demande de l’Agence régionale de santé Île-de-France dresse un état des lieux mitigé de… Salles de concert, festivals, discothèques : une campagne d’observation réalisée par Bruit…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "bruitparif-5-1740614400000",
-      "title": "Campagne régionale de sensibilisation aux pratiques d'écoute à risques",
-      "source": "Bruitparif",
-      "sourceId": "bruitparif",
-      "sourceType": "Observatoire bruit",
-      "region": "Île-de-France",
-      "url": "https://www.bruitparif.fr/campagne-regionale-de-sensibilisation-aux-pratiques-d-ecoute-a-risques/",
-      "image": "https://www.bruitparif.fr/images/logo-bruitparif.jpg",
-      "date": "2025-02-27",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Bruit",
-        "Acoustique",
-        "Île-de-France"
-      ],
-      "summary": "La Région Île-de-France, en partenariat avec Bruitparif et la Fondation Pour l’Audition, lance une campagne de sensibilisation et de prévention inédite à destination des lycéens franciliens… La Région Île-de-France, en partenariat avec Bruitparif et la Fondation Pour l’Audition, …",
-      "premiumSummary": ""
-    },
-    {
-      "id": "bruitparif-6-1733270400000",
-      "title": "Le prototype de radar sonore Hydre mis au point par Bruitparif aux fins de contrôle-sanction des véhicules excessivement bruyants",
-      "source": "Bruitparif",
-      "sourceId": "bruitparif",
-      "sourceType": "Observatoire bruit",
-      "region": "Île-de-France",
-      "url": "https://www.bruitparif.fr/le-prototype-de-radar-sonore-hydre-mis-au-point-par-bruitparif-aux-fins-de-controle-sanction-des-vehicules-excessivement-bruyants/",
-      "image": "https://www.bruitparif.fr/images/logo-bruitparif.jpg",
-      "date": "2024-12-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Bruit",
-        "Acoustique",
-        "Île-de-France"
-      ],
-      "summary": "L’association Bruitparif a mis au point un radar sonore dénommé « Hydre » à visée de contrôle-sanction des véhicules émettant un bruit excessif. Ce radar de bruit est conçu pour détecter… L’association Bruitparif a mis au point un radar sonore dénommé « Hydre » à visée de contrôl…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "bruitparif-7-1733184000000",
-      "title": "L'impact acoustique de la baisse de vitesse sur le boulevard périphérique parisien",
-      "source": "Bruitparif",
-      "sourceId": "bruitparif",
-      "sourceType": "Observatoire bruit",
-      "region": "Île-de-France",
-      "url": "https://www.bruitparif.fr/l-impact-acoustique-de-la-baisse-de-vitesse-sur-le-boulevard-peripherique-parisien/",
-      "image": "https://www.bruitparif.fr/images/logo-bruitparif.jpg",
-      "date": "2024-12-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Bruit",
-        "Acoustique",
-        "Île-de-France"
-      ],
-      "summary": "Bruitparif publie un premier bilan issu des données des mesures réalisées le long du périphérique… Bruitparif publie un premier bilan issu des données des mesures réalisées le long du périphérique&#x2026; 2024-12-03T00:00:00.000Z L'impact acoustique de la baisse de vitesse sur le…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "bruitparif-8-1731888000000",
-      "title": "Bruitparif a 20 ans",
-      "source": "Bruitparif",
-      "sourceId": "bruitparif",
-      "sourceType": "Observatoire bruit",
-      "region": "Île-de-France",
-      "url": "https://www.bruitparif.fr/bruitparif-a-20-ans/",
-      "image": "https://www.bruitparif.fr/images/logo-bruitparif.jpg",
-      "date": "2024-11-18",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Bruit",
-        "Acoustique",
-        "Île-de-France"
-      ],
-      "summary": "Ce lundi 18 novembre, Bruitparif fête son 20ème anniversaire avec ses membres, ses partenaires et son équipe. L’occasion de célébrer les nombreux succès de cet observatoire régional du bruit… Ce lundi 18 novembre, Bruitparif fête son 20ème anniversaire avec ses membres, ses parte…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "bruitparif-9-1727308800000",
-      "title": "La Région Île-de-France vote un plan Anti-Bruit",
-      "source": "Bruitparif",
-      "sourceId": "bruitparif",
-      "sourceType": "Observatoire bruit",
-      "region": "Île-de-France",
-      "url": "https://www.bruitparif.fr/la-region-ile-de-france-vote-un-plan-anti-bruit/",
-      "image": "https://www.bruitparif.fr/images/logo-bruitparif.jpg",
-      "date": "2024-09-26",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Bruit",
-        "Acoustique",
-        "Île-de-France"
-      ],
-      "summary": "Lors de la séance plénière de l’Assemblée régionale qui s’est tenue jeudi 26 septembre 2024, la Région Île-de-France a adopté son plan Anti-Bruit… Lors de la séance plénière de l’Assemblée régionale qui s’est tenue jeudi 26 septembre 2024, la Région Île-de-France a adopté son pla…",
       "premiumSummary": ""
     },
     {
