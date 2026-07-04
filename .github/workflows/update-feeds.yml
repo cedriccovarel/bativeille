@@ -1,4 +1,4 @@
-name: Update feeds and deploy bativeille
+name: Update feeds
 
 on:
   push:
@@ -10,20 +10,10 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "bativeille-pages"
-  cancel-in-progress: false
 
 jobs:
-  update-and-deploy:
+  update-feeds:
     runs-on: ubuntu-latest
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout
@@ -32,7 +22,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Install dependencies
         run: npm install
@@ -47,15 +37,3 @@ jobs:
           git add data.js data.generated.json
           git diff --cached --quiet || git commit -m "chore: update feeds"
           git push || true
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: "."
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
