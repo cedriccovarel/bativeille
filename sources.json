@@ -1,0 +1,2350 @@
+[
+  {
+    "id": "effinergie-observatoire-bbc",
+    "name": "Effinergie / Observatoire BBC",
+    "siteUrl": "https://www.observatoirebbc.org/",
+    "rss": null,
+    "type": "Observatoire",
+    "category": "Observatoires nationaux bâtiment",
+    "defaultTags": [
+      "Observatoire",
+      "Énergie",
+      "Rénovation",
+      "BBC",
+      "Performance énergétique"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "effinergie",
+    "name": "Effinergie",
+    "siteUrl": "https://www.effinergie.org/",
+    "rss": null,
+    "type": "Certification / label",
+    "category": "Certification, labellisation & performance",
+    "defaultTags": [
+      "Énergie",
+      "BBC",
+      "BEPOS",
+      "Rénovation"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "association-bbca",
+    "name": "Association BBCA",
+    "siteUrl": "https://www.batimentbascarbone.org/",
+    "rss": null,
+    "type": "Certification / label",
+    "category": "Certification, labellisation & performance",
+    "defaultTags": [
+      "Carbone",
+      "Bas carbone",
+      "Observatoire"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "base-inies",
+    "name": "Base INIES",
+    "siteUrl": "https://www.inies.fr/",
+    "rss": null,
+    "type": "Base de données",
+    "category": "Certification, labellisation & performance",
+    "defaultTags": [
+      "FDES",
+      "PEP",
+      "ACV",
+      "Carbone",
+      "Matériaux"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "observatoire-de-l-immobilier-durable-oid",
+    "name": "Observatoire de l’Immobilier Durable — OID",
+    "siteUrl": "https://o-immobilierdurable.fr/",
+    "rss": null,
+    "type": "Observatoire",
+    "category": "Observatoires nationaux bâtiment",
+    "defaultTags": [
+      "Observatoire",
+      "Tertiaire",
+      "ESG",
+      "Carbone",
+      "Énergie"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "plan-batiment-durable",
+    "name": "Plan Bâtiment Durable",
+    "siteUrl": "https://www.planbatimentdurable.developpement-durable.gouv.fr/",
+    "rss": null,
+    "type": "Institution publique",
+    "category": "Développement durable, transition énergétique & RSE",
+    "defaultTags": [
+      "Bâtiment durable",
+      "Rénovation",
+      "Décret tertiaire"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "observatoire-de-la-qualite-de-l-air-interieur-oqai",
+    "name": "Observatoire de la Qualité de l’Air Intérieur — OQAI",
+    "siteUrl": "https://www.oqai.fr/",
+    "rss": null,
+    "type": "Observatoire",
+    "category": "Qualité, risques, santé, confort",
+    "defaultTags": [
+      "QAI",
+      "Santé",
+      "Ventilation",
+      "Confort"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "agence-qualite-construction-aqc",
+    "name": "Agence Qualité Construction — AQC",
+    "siteUrl": "https://qualiteconstruction.com/",
+    "rss": null,
+    "type": "Observatoire / organisme technique",
+    "category": "Technique, Normalisation & Qualité de la Construction",
+    "defaultTags": [
+      "Qualité construction",
+      "Sinistralité",
+      "Pathologies",
+      "Observatoire"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "onre-observatoire-national-de-la-renovation-energetique",
+    "name": "ONRE — Observatoire National de la Rénovation Énergétique",
+    "siteUrl": "https://www.ecologie.gouv.fr/observatoire-national-renovation-energetique",
+    "rss": null,
+    "type": "Observatoire",
+    "category": "Observatoires nationaux bâtiment",
+    "defaultTags": [
+      "Rénovation",
+      "Énergie",
+      "Logement",
+      "Observatoire"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "onpe-observatoire-national-de-la-precarite-energetique",
+    "name": "ONPE — Observatoire National de la Précarité Énergétique",
+    "siteUrl": "https://onpe.org/",
+    "rss": null,
+    "type": "Observatoire",
+    "category": "Qualité, risques, santé, confort",
+    "defaultTags": [
+      "Précarité énergétique",
+      "Logement",
+      "Rénovation"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "onerc-observatoire-national-sur-les-effets-du-rechauffement-climatique",
+    "name": "ONERC — Observatoire National sur les Effets du Réchauffement Climatique",
+    "siteUrl": "https://www.ecologie.gouv.fr/observatoire-national-sur-effets-du-rechauffement-climatique-onerc",
+    "rss": null,
+    "type": "Observatoire",
+    "category": "Climat, risques & résilience",
+    "defaultTags": [
+      "Adaptation climatique",
+      "Résilience",
+      "Climat"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "onas-observatoire-national-de-l-artificialisation-des-sols",
+    "name": "ONAS — Observatoire National de l’Artificialisation des Sols",
+    "siteUrl": "https://artificialisation.developpement-durable.gouv.fr/",
+    "rss": null,
+    "type": "Observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "ZAN",
+      "Artificialisation",
+      "Foncier",
+      "Urbanisme"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "observatoire-national-de-la-biodiversite-onb",
+    "name": "Observatoire National de la Biodiversité — ONB",
+    "siteUrl": "https://naturefrance.fr/observatoire-national-de-la-biodiversite",
+    "rss": null,
+    "type": "Observatoire",
+    "category": "Biodiversité & environnement",
+    "defaultTags": [
+      "Biodiversité",
+      "Sols",
+      "Nature en ville"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "observatoire-des-diagnostics-de-performance-energetique-ademe",
+    "name": "Observatoire des diagnostics de performance énergétique — ADEME",
+    "siteUrl": "https://observatoire-dpe-audit.ademe.fr/",
+    "rss": null,
+    "type": "Observatoire / base de données",
+    "category": "Observatoires nationaux bâtiment",
+    "defaultTags": [
+      "DPE",
+      "Rénovation",
+      "Énergie",
+      "Logement"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "booster-du-reemploi",
+    "name": "Booster du Réemploi",
+    "siteUrl": "https://www.boosterdureemploi.immo/",
+    "rss": null,
+    "type": "Observatoire / plateforme",
+    "category": "Développement durable, transition énergétique & RSE",
+    "defaultTags": [
+      "Réemploi",
+      "Économie circulaire",
+      "Matériaux"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "cycle-up",
+    "name": "Cycle Up",
+    "siteUrl": "https://www.cycle-up.fr/",
+    "rss": null,
+    "type": "Plateforme / données",
+    "category": "Développement durable, transition énergétique & RSE",
+    "defaultTags": [
+      "Réemploi",
+      "Économie circulaire",
+      "Matériaux"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "bellastock",
+    "name": "Bellastock",
+    "siteUrl": "https://www.bellastock.com/",
+    "rss": null,
+    "type": "Centre ressources",
+    "category": "Développement durable, transition énergétique & RSE",
+    "defaultTags": [
+      "Réemploi",
+      "Urbanisme transitoire",
+      "Matériaux"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "sdes-donnees-et-etudes-statistiques",
+    "name": "SDES — Données et études statistiques",
+    "siteUrl": "https://www.statistiques.developpement-durable.gouv.fr/",
+    "rss": null,
+    "type": "Statistiques publiques",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "Données",
+      "Construction",
+      "Logement",
+      "Énergie"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "insee-construction-logement",
+    "name": "INSEE — Construction & logement",
+    "siteUrl": "https://www.insee.fr/",
+    "rss": null,
+    "type": "Statistiques publiques",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "Données",
+      "Logement",
+      "Construction",
+      "Marché"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "sit-del2-construction-neuve",
+    "name": "Sit@del2 — Construction neuve",
+    "siteUrl": "https://www.statistiques.developpement-durable.gouv.fr/construction-neuve",
+    "rss": null,
+    "type": "Statistiques publiques",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "Permis de construire",
+      "Construction neuve",
+      "Logement"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "rpls-repertoire-du-parc-locatif-social",
+    "name": "RPLS — Répertoire du parc locatif social",
+    "siteUrl": "https://www.statistiques.developpement-durable.gouv.fr/repertoire-du-parc-locatif-social-rpls",
+    "rss": null,
+    "type": "Statistiques publiques",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "Logement social",
+      "Parc immobilier",
+      "Données"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "anil",
+    "name": "ANIL",
+    "siteUrl": "https://www.anil.org/",
+    "rss": null,
+    "type": "Observatoire / réseau",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "Logement",
+      "Loyers",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "observatoires-locaux-des-loyers",
+    "name": "Observatoires locaux des loyers",
+    "siteUrl": "https://www.observatoires-des-loyers.org/",
+    "rss": null,
+    "type": "Observatoire",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "Loyers",
+      "Logement",
+      "Territoires"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "olap-observatoire-des-loyers-de-l-agglomeration-parisienne",
+    "name": "OLAP — Observatoire des Loyers de l’Agglomération Parisienne",
+    "siteUrl": "https://www.observatoire-des-loyers.fr/",
+    "rss": null,
+    "type": "Observatoire",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "Loyers",
+      "Logement",
+      "Île-de-France"
+    ],
+    "official": false,
+    "region": "Île-de-France",
+    "active": true
+  },
+  {
+    "id": "ffb-federation-francaise-du-batiment",
+    "name": "FFB — Fédération Française du Bâtiment",
+    "siteUrl": "https://www.ffbatiment.fr/",
+    "rss": null,
+    "type": "Fédération professionnelle",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Entreprises"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "capeb",
+    "name": "CAPEB",
+    "siteUrl": "https://www.capeb.fr/",
+    "rss": null,
+    "type": "Fédération professionnelle",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "Artisanat",
+      "Rénovation",
+      "Économie du bâtiment"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "reseau-des-cerc",
+    "name": "Réseau des CERC",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "banque-des-territoires",
+    "name": "Banque des Territoires",
+    "siteUrl": "https://www.banquedesterritoires.fr/",
+    "rss": null,
+    "type": "Institution financière publique",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "Logement social",
+      "Territoires",
+      "Financement"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "union-sociale-pour-l-habitat-ush",
+    "name": "Union Sociale pour l’Habitat — USH",
+    "siteUrl": "https://www.union-habitat.org/",
+    "rss": null,
+    "type": "Organisation professionnelle",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "Logement social",
+      "Rénovation",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "anru",
+    "name": "ANRU",
+    "siteUrl": "https://www.anru.fr/",
+    "rss": null,
+    "type": "Institution publique",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Renouvellement urbain",
+      "Quartiers",
+      "Logement"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "anah",
+    "name": "ANAH",
+    "siteUrl": "https://www.anah.gouv.fr/",
+    "rss": null,
+    "type": "Institution publique",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "Rénovation",
+      "Financement",
+      "Habitat privé"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "action-logement",
+    "name": "Action Logement",
+    "siteUrl": "https://www.actionlogement.fr/",
+    "rss": null,
+    "type": "Organisme financeur",
+    "category": "Observatoires, statistiques & données de marché",
+    "defaultTags": [
+      "Logement",
+      "Financement",
+      "Bailleurs"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "legifrance",
+    "name": "Légifrance",
+    "siteUrl": "https://www.legifrance.gouv.fr/",
+    "rss": null,
+    "type": "Institution publique",
+    "category": "Institutionnelles & réglementaires générales",
+    "defaultTags": [
+      "Réglementation",
+      "Textes officiels"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "ministere-de-la-transition-ecologique",
+    "name": "Ministère de la Transition Écologique",
+    "siteUrl": "https://www.ecologie.gouv.fr/",
+    "rss": null,
+    "type": "Institution publique",
+    "category": "Institutionnelles & réglementaires générales",
+    "defaultTags": [
+      "Réglementation",
+      "Environnement",
+      "Bâtiment"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "ministere-de-la-culture-architecture",
+    "name": "Ministère de la Culture — Architecture",
+    "siteUrl": "https://www.culture.gouv.fr/",
+    "rss": null,
+    "type": "Institution publique",
+    "category": "Institutionnelles & réglementaires générales",
+    "defaultTags": [
+      "Architecture",
+      "Patrimoine",
+      "Réglementation"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "bomet-bulletin-officiel-du-ministere",
+    "name": "BOMET — Bulletin officiel du ministère",
+    "siteUrl": "https://bulletin-officiel.developpement-durable.gouv.fr/",
+    "rss": null,
+    "type": "Bulletin officiel",
+    "category": "Institutionnelles & réglementaires générales",
+    "defaultTags": [
+      "Réglementation",
+      "Textes officiels"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "rt-re-batiment",
+    "name": "RT-RE Bâtiment",
+    "siteUrl": "https://www.rt-re-batiment.developpement-durable.gouv.fr/",
+    "rss": null,
+    "type": "Site réglementaire",
+    "category": "Certification, labellisation & performance",
+    "defaultTags": [
+      "RE2020",
+      "RT2012",
+      "Réglementation",
+      "RSET"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "ademe",
+    "name": "ADEME",
+    "siteUrl": "https://www.ademe.fr/",
+    "rss": null,
+    "type": "Institution publique",
+    "category": "Développement durable, transition énergétique & RSE",
+    "defaultTags": [
+      "Énergie",
+      "Carbone",
+      "Économie circulaire"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "cerema",
+    "name": "CEREMA",
+    "siteUrl": "https://www.cerema.fr/",
+    "rss": null,
+    "type": "Institution publique / centre ressources",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Adaptation climatique",
+      "Risques",
+      "Bâtiment",
+      "Territoires"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "brgm-infoterre",
+    "name": "BRGM / InfoTerre",
+    "siteUrl": "https://infoterre.brgm.fr/",
+    "rss": null,
+    "type": "Base de données publique",
+    "category": "Climat, risques & résilience",
+    "defaultTags": [
+      "Sols",
+      "Géologie",
+      "Risques",
+      "RGA"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "georisques",
+    "name": "Géorisques",
+    "siteUrl": "https://www.georisques.gouv.fr/",
+    "rss": null,
+    "type": "Base de données publique",
+    "category": "Climat, risques & résilience",
+    "defaultTags": [
+      "Risques",
+      "Inondation",
+      "RGA",
+      "Radon"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "drias-les-futurs-du-climat",
+    "name": "DRIAS — Les futurs du climat",
+    "siteUrl": "https://www.drias-climat.fr/",
+    "rss": null,
+    "type": "Plateforme climat",
+    "category": "Climat, risques & résilience",
+    "defaultTags": [
+      "Climat",
+      "Projections climatiques",
+      "Résilience"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "meteo-france",
+    "name": "Météo-France",
+    "siteUrl": "https://meteofrance.com/",
+    "rss": null,
+    "type": "Institution publique",
+    "category": "Climat, risques & résilience",
+    "defaultTags": [
+      "Climat",
+      "Canicule",
+      "Données météo"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "atmo-france",
+    "name": "Atmo France",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Réseau observatoires air",
+    "category": "Qualité, risques, santé, confort",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "cstb",
+    "name": "CSTB",
+    "siteUrl": "https://www.cstb.fr/",
+    "rss": null,
+    "type": "Organisme technique",
+    "category": "Technique, Normalisation & Qualité de la Construction",
+    "defaultTags": [
+      "Technique",
+      "Innovation",
+      "Construction"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "boutique-afnor",
+    "name": "Boutique AFNOR",
+    "siteUrl": "https://www.boutique.afnor.org/",
+    "rss": null,
+    "type": "Normalisation",
+    "category": "Technique, Normalisation & Qualité de la Construction",
+    "defaultTags": [
+      "Normes",
+      "Réglementation",
+      "Technique"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "inc-institut-national-de-la-consommation",
+    "name": "INC — Institut National de la Consommation",
+    "siteUrl": "https://www.inc-conso.fr/",
+    "rss": null,
+    "type": "Institution / information consommateur",
+    "category": "Technique, Normalisation & Qualité de la Construction",
+    "defaultTags": [
+      "Consommation",
+      "Qualité",
+      "Produits"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "alliance-hqe-gbc",
+    "name": "Alliance HQE-GBC",
+    "siteUrl": "https://www.hqegbc.org/",
+    "rss": null,
+    "type": "Certification / label",
+    "category": "Certification, labellisation & performance",
+    "defaultTags": [
+      "HQE",
+      "Bâtiment durable",
+      "Performance"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "certivea",
+    "name": "Certivéa",
+    "siteUrl": "https://www.certivea.fr/",
+    "rss": null,
+    "type": "Certification / label",
+    "category": "Certification, labellisation & performance",
+    "defaultTags": [
+      "HQE",
+      "Tertiaire",
+      "Exploitation"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "qualitel-cerqual",
+    "name": "Qualitel / Cerqual",
+    "siteUrl": "https://www.qualitel.org/",
+    "rss": null,
+    "type": "Certification / label",
+    "category": "Certification, labellisation & performance",
+    "defaultTags": [
+      "Logement",
+      "Qualité",
+      "Certification"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "promotelec",
+    "name": "Promotelec",
+    "siteUrl": "https://www.promotelec.com/",
+    "rss": null,
+    "type": "Association / label",
+    "category": "Certification, labellisation & performance",
+    "defaultTags": [
+      "Électricité",
+      "Logement",
+      "Rénovation"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "cequami",
+    "name": "Céquami",
+    "siteUrl": "https://www.cequami.fr/",
+    "rss": null,
+    "type": "Certification / label",
+    "category": "Certification, labellisation & performance",
+    "defaultTags": [
+      "Maison individuelle",
+      "NF Habitat",
+      "Qualité"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "la-maison-passive",
+    "name": "La Maison Passive",
+    "siteUrl": "https://www.lamaisonpassive.fr/",
+    "rss": null,
+    "type": "Association / label",
+    "category": "Certification, labellisation & performance",
+    "defaultTags": [
+      "Passif",
+      "Énergie",
+      "Performance"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "le-moniteur",
+    "name": "Le Moniteur",
+    "siteUrl": "https://www.lemoniteur.fr/",
+    "rss": null,
+    "type": "Presse spécialisée",
+    "category": "Presse spécialisée professionnelle",
+    "defaultTags": [
+      "Construction",
+      "Réglementation",
+      "Marché"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "le-moniteur-reglementation",
+    "name": "Le Moniteur — Réglementation",
+    "siteUrl": "https://www.lemoniteur.fr/reglementation",
+    "rss": null,
+    "type": "Presse spécialisée",
+    "category": "Presse spécialisée professionnelle",
+    "defaultTags": [
+      "Réglementation",
+      "Construction"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "batiactu",
+    "name": "Batiactu",
+    "siteUrl": "https://www.batiactu.com/",
+    "rss": null,
+    "type": "Presse spécialisée",
+    "category": "Presse spécialisée professionnelle",
+    "defaultTags": [
+      "Construction",
+      "Marché",
+      "Réglementation"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "batiweb",
+    "name": "Batiweb",
+    "siteUrl": "https://www.batiweb.com/",
+    "rss": null,
+    "type": "Presse spécialisée",
+    "category": "Presse spécialisée professionnelle",
+    "defaultTags": [
+      "Construction",
+      "Produits",
+      "Marché"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "cadre-de-ville",
+    "name": "Cadre de Ville",
+    "siteUrl": "https://www.cadredeville.com/",
+    "rss": null,
+    "type": "Presse spécialisée",
+    "category": "Presse spécialisée professionnelle",
+    "defaultTags": [
+      "Urbanisme",
+      "Aménagement",
+      "Foncier"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "construction21-france",
+    "name": "Construction21 France",
+    "siteUrl": "https://www.construction21.org/france/",
+    "rss": null,
+    "type": "Presse / centre ressources",
+    "category": "Développement durable, transition énergétique & RSE",
+    "defaultTags": [
+      "Bâtiment durable",
+      "Carbone",
+      "Rénovation"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "actu-environnement",
+    "name": "Actu-Environnement",
+    "siteUrl": "https://www.actu-environnement.com/",
+    "rss": null,
+    "type": "Presse spécialisée",
+    "category": "Développement durable, transition énergétique & RSE",
+    "defaultTags": [
+      "Environnement",
+      "Réglementation",
+      "Énergie"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "ordre-des-architectes-cnoa",
+    "name": "Ordre des Architectes — CNOA",
+    "siteUrl": "https://www.architectes.org/",
+    "rss": null,
+    "type": "Ordre professionnel",
+    "category": "Architecture, urbanisme & patrimoine",
+    "defaultTags": [
+      "Architecture",
+      "Profession",
+      "Réglementation"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "fncaue",
+    "name": "FNCAUE",
+    "siteUrl": "https://www.fncaue.com/",
+    "rss": null,
+    "type": "Réseau CAUE",
+    "category": "Architecture, urbanisme & patrimoine",
+    "defaultTags": [
+      "Architecture",
+      "Urbanisme",
+      "Conseil"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "cite-de-l-architecture-et-du-patrimoine",
+    "name": "Cité de l’architecture et du patrimoine",
+    "siteUrl": "https://www.citedelarchitecture.fr/",
+    "rss": null,
+    "type": "Institution culturelle",
+    "category": "Architecture, urbanisme & patrimoine",
+    "defaultTags": [
+      "Architecture",
+      "Patrimoine"
+    ],
+    "official": true,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "fnau",
+    "name": "FNAU",
+    "siteUrl": "https://www.fnau.org/",
+    "rss": null,
+    "type": "Réseau agences urbanisme",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Agences urbanisme",
+      "Habitat",
+      "Foncier",
+      "Territoires"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "amc-architecture",
+    "name": "AMC Architecture",
+    "siteUrl": "https://www.amc-archi.com/",
+    "rss": null,
+    "type": "Presse spécialisée",
+    "category": "Architecture, urbanisme & patrimoine",
+    "defaultTags": [
+      "Architecture",
+      "Projets"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "d-a-d-architectures",
+    "name": "D’A — D’Architectures",
+    "siteUrl": "https://www.darchitectures.com/",
+    "rss": null,
+    "type": "Presse spécialisée",
+    "category": "Architecture, urbanisme & patrimoine",
+    "defaultTags": [
+      "Architecture",
+      "Projets"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "le-courrier-de-l-architecte",
+    "name": "Le Courrier de l’Architecte",
+    "siteUrl": "https://www.lecourrierdelarchitecte.com/",
+    "rss": null,
+    "type": "Presse spécialisée",
+    "category": "Architecture, urbanisme & patrimoine",
+    "defaultTags": [
+      "Architecture",
+      "Projets"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "cyberarchi",
+    "name": "Cyberarchi",
+    "siteUrl": "https://www.cyberarchi.com/",
+    "rss": null,
+    "type": "Presse spécialisée",
+    "category": "Architecture, urbanisme & patrimoine",
+    "defaultTags": [
+      "Architecture",
+      "Projets"
+    ],
+    "official": false,
+    "region": "National",
+    "active": true
+  },
+  {
+    "id": "ekopolis",
+    "name": "Ekopolis",
+    "siteUrl": "https://www.ekopolis.fr/",
+    "rss": null,
+    "type": "Centre ressources bâtiment durable",
+    "category": "Centres ressources régionaux bâtiment durable",
+    "defaultTags": [
+      "Bâtiment durable",
+      "REX",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Île-de-France",
+    "active": true
+  },
+  {
+    "id": "institut-paris-region",
+    "name": "Institut Paris Region",
+    "siteUrl": "https://www.institutparisregion.fr/",
+    "rss": null,
+    "type": "Observatoire régional",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Île-de-France",
+      "Urbanisme",
+      "Logement",
+      "Climat"
+    ],
+    "official": true,
+    "region": "Île-de-France",
+    "active": true
+  },
+  {
+    "id": "apur",
+    "name": "APUR",
+    "siteUrl": "https://www.apur.org/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Paris",
+      "Grand Paris",
+      "Urbanisme",
+      "Logement"
+    ],
+    "official": false,
+    "region": "Île-de-France",
+    "active": true
+  },
+  {
+    "id": "arec-ile-de-france",
+    "name": "AREC Île-de-France",
+    "siteUrl": "https://www.arec-idf.fr/",
+    "rss": null,
+    "type": "Agence énergie-climat",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Énergie",
+      "Climat",
+      "Déchets",
+      "Île-de-France"
+    ],
+    "official": false,
+    "region": "Île-de-France",
+    "active": true
+  },
+  {
+    "id": "bruitparif",
+    "name": "Bruitparif",
+    "siteUrl": "https://www.bruitparif.fr/",
+    "rss": null,
+    "type": "Observatoire bruit",
+    "category": "Qualité, risques, santé, confort",
+    "defaultTags": [
+      "Bruit",
+      "Acoustique",
+      "Île-de-France"
+    ],
+    "official": false,
+    "region": "Île-de-France",
+    "active": true
+  },
+  {
+    "id": "arb-ile-de-france",
+    "name": "ARB Île-de-France",
+    "siteUrl": "https://www.arb-idf.fr/",
+    "rss": null,
+    "type": "Agence biodiversité",
+    "category": "Biodiversité & environnement",
+    "defaultTags": [
+      "Biodiversité",
+      "Nature en ville",
+      "Île-de-France"
+    ],
+    "official": false,
+    "region": "Île-de-France",
+    "active": true
+  },
+  {
+    "id": "ville-amenagement-durable-vad",
+    "name": "Ville & Aménagement Durable — VAD",
+    "siteUrl": "https://www.ville-amenagement-durable.org/",
+    "rss": null,
+    "type": "Centre ressources bâtiment durable",
+    "category": "Centres ressources régionaux bâtiment durable",
+    "defaultTags": [
+      "Bâtiment durable",
+      "REX",
+      "Aménagement"
+    ],
+    "official": false,
+    "region": "Auvergne-Rhône-Alpes",
+    "active": true
+  },
+  {
+    "id": "aura-ee",
+    "name": "AURA-EE",
+    "siteUrl": "https://www.auvergnerhonealpes-ee.fr/",
+    "rss": null,
+    "type": "Agence énergie-environnement",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Énergie",
+      "Climat",
+      "Rénovation"
+    ],
+    "official": false,
+    "region": "Auvergne-Rhône-Alpes",
+    "active": true
+  },
+  {
+    "id": "orcae-auvergne-rhone-alpes",
+    "name": "ORCAE Auvergne-Rhône-Alpes",
+    "siteUrl": "https://www.orcae-auvergne-rhone-alpes.fr/",
+    "rss": null,
+    "type": "Observatoire énergie-climat-air",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Énergie",
+      "Climat",
+      "Air",
+      "Données"
+    ],
+    "official": false,
+    "region": "Auvergne-Rhône-Alpes",
+    "active": true
+  },
+  {
+    "id": "urbalyon",
+    "name": "UrbaLyon",
+    "siteUrl": "https://www.urbalyon.org/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Lyon",
+      "Urbanisme",
+      "Habitat",
+      "Foncier"
+    ],
+    "official": false,
+    "region": "Auvergne-Rhône-Alpes",
+    "active": true
+  },
+  {
+    "id": "acoucite",
+    "name": "Acoucité",
+    "siteUrl": "https://www.acoucite.org/",
+    "rss": null,
+    "type": "Observatoire bruit",
+    "category": "Qualité, risques, santé, confort",
+    "defaultTags": [
+      "Bruit",
+      "Acoustique",
+      "Métropole de Lyon"
+    ],
+    "official": false,
+    "region": "Auvergne-Rhône-Alpes",
+    "active": true
+  },
+  {
+    "id": "novabuild",
+    "name": "Novabuild",
+    "siteUrl": "https://www.novabuild.fr/",
+    "rss": null,
+    "type": "Centre ressources bâtiment durable",
+    "category": "Centres ressources régionaux bâtiment durable",
+    "defaultTags": [
+      "Bâtiment durable",
+      "Innovation",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Pays de la Loire",
+    "active": true
+  },
+  {
+    "id": "auran",
+    "name": "AURAN",
+    "siteUrl": "https://www.auran.org/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Nantes",
+      "Urbanisme",
+      "Habitat",
+      "Foncier"
+    ],
+    "official": false,
+    "region": "Pays de la Loire",
+    "active": true
+  },
+  {
+    "id": "addrn",
+    "name": "ADDRN",
+    "siteUrl": "https://www.addrn.fr/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Saint-Nazaire",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Pays de la Loire",
+    "active": true
+  },
+  {
+    "id": "envirobat-occitanie",
+    "name": "Envirobat Occitanie",
+    "siteUrl": "https://www.envirobat-oc.fr/",
+    "rss": null,
+    "type": "Centre ressources bâtiment durable",
+    "category": "Centres ressources régionaux bâtiment durable",
+    "defaultTags": [
+      "Bâtiment durable",
+      "BDO",
+      "REX"
+    ],
+    "official": false,
+    "region": "Occitanie",
+    "active": true
+  },
+  {
+    "id": "arec-occitanie",
+    "name": "AREC Occitanie",
+    "siteUrl": "https://www.arec-occitanie.fr/",
+    "rss": null,
+    "type": "Agence énergie-climat",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Énergie",
+      "Climat",
+      "Rénovation"
+    ],
+    "official": false,
+    "region": "Occitanie",
+    "active": true
+  },
+  {
+    "id": "ordeco-occitanie",
+    "name": "ORDECO Occitanie",
+    "siteUrl": "https://www.ordeco.org/",
+    "rss": null,
+    "type": "Observatoire déchets",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Déchets",
+      "Économie circulaire",
+      "BTP"
+    ],
+    "official": false,
+    "region": "Occitanie",
+    "active": true
+  },
+  {
+    "id": "auat-toulouse",
+    "name": "AUAT Toulouse",
+    "siteUrl": "https://www.aua-toulouse.org/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Toulouse",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Occitanie",
+    "active": true
+  },
+  {
+    "id": "a-u-montpellier",
+    "name": "A’U Montpellier",
+    "siteUrl": "https://www.audrna.com/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Montpellier",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Occitanie",
+    "active": true
+  },
+  {
+    "id": "envirobatbdm",
+    "name": "EnvirobatBDM",
+    "siteUrl": "https://www.envirobatbdm.eu/",
+    "rss": null,
+    "type": "Centre ressources bâtiment durable",
+    "category": "Centres ressources régionaux bâtiment durable",
+    "defaultTags": [
+      "BDM",
+      "Bâtiment durable",
+      "Méditerranée"
+    ],
+    "official": false,
+    "region": "Provence-Alpes-Côte d’Azur",
+    "active": true
+  },
+  {
+    "id": "arbe-region-sud",
+    "name": "ARBE Région Sud",
+    "siteUrl": "https://www.arbe-regionsud.org/",
+    "rss": null,
+    "type": "Agence environnement",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Biodiversité",
+      "Adaptation",
+      "Région Sud"
+    ],
+    "official": false,
+    "region": "Provence-Alpes-Côte d’Azur",
+    "active": true
+  },
+  {
+    "id": "oreca-provence-alpes-cote-d-azur",
+    "name": "ORECA Provence-Alpes-Côte d’Azur",
+    "siteUrl": "https://oreca.maregionsud.fr/",
+    "rss": null,
+    "type": "Observatoire énergie-climat-air",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Énergie",
+      "Climat",
+      "Air"
+    ],
+    "official": false,
+    "region": "Provence-Alpes-Côte d’Azur",
+    "active": true
+  },
+  {
+    "id": "agam-marseille",
+    "name": "AGAM Marseille",
+    "siteUrl": "https://www.agam.org/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Marseille",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Provence-Alpes-Côte d’Azur",
+    "active": true
+  },
+  {
+    "id": "aupa-pays-d-aix",
+    "name": "AUPA Pays d’Aix",
+    "siteUrl": "https://www.aupa.fr/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Aix",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Provence-Alpes-Côte d’Azur",
+    "active": true
+  },
+  {
+    "id": "odeys",
+    "name": "Odéys",
+    "siteUrl": "https://www.odeys.fr/",
+    "rss": null,
+    "type": "Centre ressources bâtiment durable",
+    "category": "Centres ressources régionaux bâtiment durable",
+    "defaultTags": [
+      "Bâtiment durable",
+      "Innovation",
+      "Nouvelle-Aquitaine"
+    ],
+    "official": false,
+    "region": "Nouvelle-Aquitaine",
+    "active": true
+  },
+  {
+    "id": "arec-nouvelle-aquitaine",
+    "name": "AREC Nouvelle-Aquitaine",
+    "siteUrl": "https://www.arec-nouvelleaquitaine.com/",
+    "rss": null,
+    "type": "Agence énergie-climat",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Énergie",
+      "Climat",
+      "Données"
+    ],
+    "official": false,
+    "region": "Nouvelle-Aquitaine",
+    "active": true
+  },
+  {
+    "id": "arb-nouvelle-aquitaine",
+    "name": "ARB Nouvelle-Aquitaine",
+    "siteUrl": "https://www.biodiversite-nouvelle-aquitaine.fr/",
+    "rss": null,
+    "type": "Agence biodiversité",
+    "category": "Biodiversité & environnement",
+    "defaultTags": [
+      "Biodiversité",
+      "Nature",
+      "Données"
+    ],
+    "official": false,
+    "region": "Nouvelle-Aquitaine",
+    "active": true
+  },
+  {
+    "id": "a-urba-bordeaux-aquitaine",
+    "name": "A’urba Bordeaux Aquitaine",
+    "siteUrl": "https://www.aurba.org/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Bordeaux",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Nouvelle-Aquitaine",
+    "active": true
+  },
+  {
+    "id": "batylab",
+    "name": "Batylab",
+    "siteUrl": "https://www.batylab.bzh/",
+    "rss": null,
+    "type": "Centre ressources bâtiment durable",
+    "category": "Centres ressources régionaux bâtiment durable",
+    "defaultTags": [
+      "Bâtiment durable",
+      "Bretagne",
+      "REX"
+    ],
+    "official": false,
+    "region": "Bretagne",
+    "active": true
+  },
+  {
+    "id": "oreo-bretagne",
+    "name": "OREO Bretagne",
+    "siteUrl": "https://bretagne-environnement.fr/",
+    "rss": null,
+    "type": "Observatoire environnement",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Énergie",
+      "Climat",
+      "Environnement"
+    ],
+    "official": false,
+    "region": "Bretagne",
+    "active": true
+  },
+  {
+    "id": "audiar-rennes",
+    "name": "AUDIAR Rennes",
+    "siteUrl": "https://www.audiar.org/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Rennes",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Bretagne",
+    "active": true
+  },
+  {
+    "id": "adeupa-brest-bretagne",
+    "name": "ADEUPa Brest-Bretagne",
+    "siteUrl": "https://www.adeupa-brest.fr/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Brest",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Bretagne",
+    "active": true
+  },
+  {
+    "id": "cd2e",
+    "name": "CD2E",
+    "siteUrl": "https://cd2e.com/",
+    "rss": null,
+    "type": "Centre ressources bâtiment durable",
+    "category": "Centres ressources régionaux bâtiment durable",
+    "defaultTags": [
+      "Écotransition",
+      "Bâtiment durable",
+      "Matériaux"
+    ],
+    "official": false,
+    "region": "Hauts-de-France",
+    "active": true
+  },
+  {
+    "id": "adulm-lille-metropole",
+    "name": "ADULM Lille Métropole",
+    "siteUrl": "https://www.adu-lille-metropole.org/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Lille",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Hauts-de-France",
+    "active": true
+  },
+  {
+    "id": "agur-dunkerque",
+    "name": "AGUR Dunkerque",
+    "siteUrl": "https://www.agur-dunkerque.org/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Dunkerque",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Hauts-de-France",
+    "active": true
+  },
+  {
+    "id": "envirobat-grand-est-lqe",
+    "name": "Envirobat Grand Est / LQE",
+    "siteUrl": "https://www.envirobatgrandest.fr/",
+    "rss": null,
+    "type": "Centre ressources bâtiment durable",
+    "category": "Centres ressources régionaux bâtiment durable",
+    "defaultTags": [
+      "Bâtiment durable",
+      "Grand Est",
+      "Qualité environnementale"
+    ],
+    "official": false,
+    "region": "Grand Est",
+    "active": true
+  },
+  {
+    "id": "adeus-strasbourg",
+    "name": "ADEUS Strasbourg",
+    "siteUrl": "https://www.adeus.org/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Strasbourg",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Grand Est",
+    "active": true
+  },
+  {
+    "id": "aguram-metz",
+    "name": "AGURAM Metz",
+    "siteUrl": "https://www.aguram.org/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Metz",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Grand Est",
+    "active": true
+  },
+  {
+    "id": "scalen-nancy-sud-lorraine",
+    "name": "SCALEN Nancy Sud Lorraine",
+    "siteUrl": "https://www.agencescalen.fr/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Nancy",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Grand Est",
+    "active": true
+  },
+  {
+    "id": "pole-energie-bourgogne-franche-comte",
+    "name": "Pôle énergie Bourgogne-Franche-Comté",
+    "siteUrl": "https://www.pole-energie-bfc.fr/",
+    "rss": null,
+    "type": "Centre ressources énergie bâtiment",
+    "category": "Centres ressources régionaux bâtiment durable",
+    "defaultTags": [
+      "Énergie",
+      "Bâtiment durable",
+      "Rénovation"
+    ],
+    "official": false,
+    "region": "Bourgogne-Franche-Comté",
+    "active": true
+  },
+  {
+    "id": "alterre-bourgogne-franche-comte",
+    "name": "Alterre Bourgogne-Franche-Comté",
+    "siteUrl": "https://www.alterrebourgognefranchecomte.org/",
+    "rss": null,
+    "type": "Agence environnement",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Environnement",
+      "Climat",
+      "Données"
+    ],
+    "official": false,
+    "region": "Bourgogne-Franche-Comté",
+    "active": true
+  },
+  {
+    "id": "envirobat-centre",
+    "name": "Envirobat Centre",
+    "siteUrl": "https://www.envirobatcentre.com/",
+    "rss": null,
+    "type": "Centre ressources bâtiment durable",
+    "category": "Centres ressources régionaux bâtiment durable",
+    "defaultTags": [
+      "Bâtiment durable",
+      "Centre-Val de Loire"
+    ],
+    "official": false,
+    "region": "Centre-Val de Loire",
+    "active": true
+  },
+  {
+    "id": "lig-air",
+    "name": "Lig’Air",
+    "siteUrl": "https://www.ligair.fr/",
+    "rss": null,
+    "type": "Observatoire air",
+    "category": "Qualité, risques, santé, confort",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Centre-Val de Loire"
+    ],
+    "official": false,
+    "region": "Centre-Val de Loire",
+    "active": true
+  },
+  {
+    "id": "atu-tours",
+    "name": "ATU Tours",
+    "siteUrl": "https://www.atu37.org/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Tours",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Centre-Val de Loire",
+    "active": true
+  },
+  {
+    "id": "aue-corse",
+    "name": "AUE Corse",
+    "siteUrl": "https://www.aue.corsica/",
+    "rss": null,
+    "type": "Agence urbanisme énergie",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Corse",
+      "Urbanisme",
+      "Énergie",
+      "Environnement"
+    ],
+    "official": false,
+    "region": "Corse",
+    "active": true
+  },
+  {
+    "id": "aucame-caen-normandie",
+    "name": "AUCAME Caen Normandie",
+    "siteUrl": "https://www.aucame.fr/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Caen",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Normandie",
+    "active": true
+  },
+  {
+    "id": "aurh-le-havre-estuaire-de-la-seine",
+    "name": "AURH Le Havre Estuaire de la Seine",
+    "siteUrl": "https://www.aurh.fr/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Le Havre",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Normandie",
+    "active": true
+  },
+  {
+    "id": "aurbse-rouen-seine-eure",
+    "name": "AURBSE Rouen Seine-Eure",
+    "siteUrl": "https://www.aurbse.org/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Rouen",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Normandie",
+    "active": true
+  },
+  {
+    "id": "adduam-martinique",
+    "name": "ADDUAM Martinique",
+    "siteUrl": "https://www.adduam.com/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Martinique",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Outre-mer",
+    "active": true
+  },
+  {
+    "id": "audeg-guyane",
+    "name": "AUDeG Guyane",
+    "siteUrl": "https://www.audeg.fr/",
+    "rss": null,
+    "type": "Agence urbanisme / observatoire",
+    "category": "Foncier, urbanisme & territoires",
+    "defaultTags": [
+      "Guyane",
+      "Urbanisme",
+      "Habitat"
+    ],
+    "official": false,
+    "region": "Outre-mer",
+    "active": true
+  },
+  {
+    "id": "cerc-auvergne-rhone-alpes",
+    "name": "CERC Auvergne-Rhône-Alpes",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique régional",
+    "category": "CERC régionales",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Auvergne-Rhône-Alpes",
+    "active": true
+  },
+  {
+    "id": "cerc-bourgogne-franche-comte",
+    "name": "CERC Bourgogne-Franche-Comté",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique régional",
+    "category": "CERC régionales",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Bourgogne-Franche-Comté",
+    "active": true
+  },
+  {
+    "id": "cerc-bretagne",
+    "name": "CERC Bretagne",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique régional",
+    "category": "CERC régionales",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Bretagne",
+    "active": true
+  },
+  {
+    "id": "cerc-centre-val-de-loire",
+    "name": "CERC Centre-Val de Loire",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique régional",
+    "category": "CERC régionales",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Centre-Val de Loire",
+    "active": true
+  },
+  {
+    "id": "cerc-corse",
+    "name": "CERC Corse",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique régional",
+    "category": "CERC régionales",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Corse",
+    "active": true
+  },
+  {
+    "id": "cerc-grand-est",
+    "name": "CERC Grand Est",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique régional",
+    "category": "CERC régionales",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Grand Est",
+    "active": true
+  },
+  {
+    "id": "cerc-hauts-de-france",
+    "name": "CERC Hauts-de-France",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique régional",
+    "category": "CERC régionales",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Hauts-de-France",
+    "active": true
+  },
+  {
+    "id": "cerc-ile-de-france",
+    "name": "CERC Île-de-France",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique régional",
+    "category": "CERC régionales",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Île-de-France",
+    "active": true
+  },
+  {
+    "id": "cerc-normandie",
+    "name": "CERC Normandie",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique régional",
+    "category": "CERC régionales",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Normandie",
+    "active": true
+  },
+  {
+    "id": "cerc-nouvelle-aquitaine",
+    "name": "CERC Nouvelle-Aquitaine",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique régional",
+    "category": "CERC régionales",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Nouvelle-Aquitaine",
+    "active": true
+  },
+  {
+    "id": "cerc-occitanie",
+    "name": "CERC Occitanie",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique régional",
+    "category": "CERC régionales",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Occitanie",
+    "active": true
+  },
+  {
+    "id": "cerc-pays-de-la-loire",
+    "name": "CERC Pays de la Loire",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique régional",
+    "category": "CERC régionales",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Pays de la Loire",
+    "active": true
+  },
+  {
+    "id": "cerc-provence-alpes-cote-d-azur",
+    "name": "CERC Provence-Alpes-Côte d’Azur",
+    "siteUrl": "https://www.cerc-actu.com/",
+    "rss": null,
+    "type": "Observatoire économique régional",
+    "category": "CERC régionales",
+    "defaultTags": [
+      "CERC",
+      "Conjoncture",
+      "Économie du bâtiment",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Provence-Alpes-Côte d’Azur",
+    "active": true
+  },
+  {
+    "id": "atmo-auvergne-rhone-alpes",
+    "name": "Atmo — Auvergne-Rhône-Alpes",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Observatoire air régional",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Auvergne-Rhône-Alpes",
+    "active": true
+  },
+  {
+    "id": "atmo-bourgogne-franche-comte",
+    "name": "Atmo — Bourgogne-Franche-Comté",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Observatoire air régional",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Bourgogne-Franche-Comté",
+    "active": true
+  },
+  {
+    "id": "atmo-bretagne",
+    "name": "Atmo — Bretagne",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Observatoire air régional",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Bretagne",
+    "active": true
+  },
+  {
+    "id": "atmo-centre-val-de-loire",
+    "name": "Atmo — Centre-Val de Loire",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Observatoire air régional",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Centre-Val de Loire",
+    "active": true
+  },
+  {
+    "id": "atmo-corse",
+    "name": "Atmo — Corse",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Observatoire air régional",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Corse",
+    "active": true
+  },
+  {
+    "id": "atmo-grand-est",
+    "name": "Atmo — Grand Est",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Observatoire air régional",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Grand Est",
+    "active": true
+  },
+  {
+    "id": "atmo-hauts-de-france",
+    "name": "Atmo — Hauts-de-France",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Observatoire air régional",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Hauts-de-France",
+    "active": true
+  },
+  {
+    "id": "atmo-ile-de-france",
+    "name": "Atmo — Île-de-France",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Observatoire air régional",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Île-de-France",
+    "active": true
+  },
+  {
+    "id": "atmo-normandie",
+    "name": "Atmo — Normandie",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Observatoire air régional",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Normandie",
+    "active": true
+  },
+  {
+    "id": "atmo-nouvelle-aquitaine",
+    "name": "Atmo — Nouvelle-Aquitaine",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Observatoire air régional",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Nouvelle-Aquitaine",
+    "active": true
+  },
+  {
+    "id": "atmo-occitanie",
+    "name": "Atmo — Occitanie",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Observatoire air régional",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Occitanie",
+    "active": true
+  },
+  {
+    "id": "atmo-pays-de-la-loire",
+    "name": "Atmo — Pays de la Loire",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Observatoire air régional",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Pays de la Loire",
+    "active": true
+  },
+  {
+    "id": "atmo-provence-alpes-cote-d-azur",
+    "name": "Atmo — Provence-Alpes-Côte d’Azur",
+    "siteUrl": "https://www.atmo-france.org/",
+    "rss": null,
+    "type": "Observatoire air régional",
+    "category": "Observatoires régionaux environnement",
+    "defaultTags": [
+      "Air",
+      "Pollution",
+      "Santé",
+      "Régional"
+    ],
+    "official": false,
+    "region": "Provence-Alpes-Côte d’Azur",
+    "active": true
+  }
+]

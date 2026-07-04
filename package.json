@@ -1,0 +1,12 @@
+{
+  "name": "bativeille",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-feeds": "node scripts/update-feeds.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

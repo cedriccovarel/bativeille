@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>bativeille — veille bâtiment, écologie & économie</title>
+  <meta name="description" content="bativeille : veille documentaire et réglementaire sur le bâtiment, l'écologie et l'économie du bâtiment, pensée pour les cibles Prestaterre." />
+  <meta name="theme-color" content="#06402B" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="assets/logo-bativeille-premier.png" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <button class="menu-toggle" id="filterMenuToggle" type="button" aria-controls="filterDrawer" aria-expanded="false" aria-label="Ouvrir les filtres">
+        <span></span><span></span><span></span>
+      </button>
+
+      <a class="brand brand-image-only" href="#" aria-label="Accueil bativeille">
+        <img src="assets/logo-bativeille-premier.png" alt="Logo bativeille : un phare qui surplombe une maison" />
+      </a>
+
+      <label class="searchbar" aria-label="Recherche globale">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10.5 4a6.5 6.5 0 1 0 4.02 11.61l4.43 4.44 1.41-1.42-4.43-4.43A6.5 6.5 0 0 0 10.5 4Zm0 2a4.5 4.5 0 1 1 0 9 4.5 4.5 0 0 1 0-9Z"></path></svg>
+        <input id="searchInput" type="search" placeholder="Rechercher un sujet, un mot-clé, une source…" />
+      </label>
+
+      <nav class="main-nav" aria-label="Navigation principale">
+        <button class="nav-link active" data-target="home" type="button">Accueil</button>
+        <button class="nav-link" data-target="news" type="button">Veille</button>
+        <button class="nav-link" data-target="sourcesFollowedPage" type="button">Sources suivies</button>
+        <button class="nav-link" data-target="tags-panel" type="button">Tags</button>
+        <button class="nav-link locked-nav" id="favoritesToggle">Favoris</button>
+        <button class="profile-btn" id="profileButton" type="button">Connexion</button>
+      </nav>
+    </header>
+
+    <div class="sidebar-backdrop" id="sidebarBackdrop" hidden></div>
+
+    <main id="home">
+      <div id="homeView">
+      <section class="overview-card compact-overview">
+        <div class="overview-left">
+          <div>
+            <h1>Veille documentaire et réglementaire du bâtiment</h1>
+          </div>
+        </div>
+        <div class="overview-stats" aria-label="Indicateurs">
+          <article>
+            <span class="kpi-value" id="totalDocs">0</span>
+            <span class="kpi-label">documents suivis</span>
+          </article>
+          <article>
+            <span class="kpi-value" id="favoriteCount">0</span>
+            <span class="kpi-label">favoris</span>
+          </article>
+        </div>
+      </section>
+
+      <section class="quick-filters">
+        <button class="filter-chip" data-scroll="sidebarThemes">Thématiques</button>
+        <button class="filter-chip" data-scroll="sources-section">Sources</button>
+        <button class="filter-chip" data-scroll="accessSection">Accès</button>
+        <button class="filter-chip" data-scroll="dateSection">Date</button>
+        <button class="filter-chip" data-scroll="regionSection">Région</button>
+        <button class="filter-chip" data-scroll="tags-panel">Tags</button>
+        <button class="filter-reset" id="resetFilters">Réinitialiser les filtres</button>
+      </section>
+
+      <div class="layout-grid">
+        <aside class="sidebar" id="filterDrawer" aria-hidden="true">
+          <div class="drawer-head">
+            <div>
+              <p class="eyebrow">Filtres</p>
+              <h2>Affiner la veille</h2>
+            </div>
+            <button class="drawer-close" id="filterMenuClose" type="button" aria-label="Fermer les filtres">×</button>
+          </div>
+
+          <section class="side-card" id="sidebarThemes">
+            <div class="side-header"><h2>Thématiques</h2></div>
+            <div id="themeList" class="list-stack"></div>
+          </section>
+
+          <section class="side-card" id="sources-section">
+            <div class="side-header"><h2>Types de sources</h2></div>
+            <div id="sourceTypeList" class="list-stack"></div>
+          </section>
+
+          <section class="side-card" id="accessSection">
+            <div class="side-header"><h2>Accès</h2></div>
+            <label class="check-row"><input type="checkbox" class="access-check" value="open" checked /> Accès libre</label>
+            <label class="check-row"><input type="checkbox" class="access-check" value="paywall" checked /> Payant</label>
+            <label class="check-row"><input type="checkbox" class="access-check" value="pdf" checked /> PDF</label>
+            <label class="check-row"><input type="checkbox" class="access-check" value="official" checked /> Officiel</label>
+          </section>
+
+          <section class="side-card" id="dateSection">
+            <div class="side-header"><h2>Période</h2></div>
+            <select id="periodFilter" class="select-field">
+              <option value="all">Toute période</option>
+              <option value="30">30 derniers jours</option>
+              <option value="90">90 derniers jours</option>
+              <option value="180">180 derniers jours</option>
+              <option value="365">12 derniers mois</option>
+            </select>
+          </section>
+
+          <section class="side-card" id="regionSection">
+            <div class="side-header"><h2>Région</h2></div>
+            <div id="regionList" class="list-stack"></div>
+          </section>
+
+          <section class="side-card" id="tags-panel">
+            <div class="side-header"><h2>Tags</h2></div>
+            <div id="tagCloud" class="tag-cloud"></div>
+          </section>
+        </aside>
+
+        <section class="content-column">
+          <section class="section-block" id="news">
+            <div class="section-head">
+              <div>
+                <h2>Nouveautés</h2>
+                <p id="newsMeta" class="section-meta">Chargement des contenus…</p>
+              </div>
+              <div class="section-actions">
+                <label class="sort-box">Tri
+                  <select id="sortSelect">
+                    <option value="date-desc">Plus récent</option>
+                    <option value="date-asc">Plus ancien</option>
+                  </select>
+                </label>
+              </div>
+            </div>
+            <div id="articleGrid" class="article-grid"></div>
+            <p id="emptyState" class="empty-state" hidden>Aucun contenu ne correspond aux filtres sélectionnés.</p>
+          </section>
+
+          <section class="section-block protected-zone" id="favoritesManager" data-protected="true">
+            <div class="section-head">
+              <div>
+                <h2>Mes favoris</h2>
+                <p class="section-meta">Dossiers favoris compacts. Glisse les articles dedans ou utilise “Classer…” sur mobile.</p>
+              </div>
+            </div>
+            <div class="favorite-tools">
+              <form id="folderForm" class="folder-form">
+                <input name="folderName" placeholder="Nouveau dossier" required />
+                <button type="submit" class="primary-btn">Créer</button>
+              </form>
+              <p class="drag-help">Glisse une carte vers un dossier. Sur téléphone, utilise le sélecteur “Classer…”.</p>
+            </div>
+            <div id="favoriteFolders" class="favorite-folders"></div>
+          </section>
+
+          <section class="section-block admin-zone protected-zone" data-protected="true">
+            <div class="section-head">
+              <div>
+                <h2>Ajouter une source RSS / site à surveiller</h2>
+                <p class="section-meta">Zone réservée au profil connecté. Le formulaire prépare le bloc à coller dans <code>sources.json</code> ; la GitHub Action l’exploitera ensuite automatiquement.</p>
+              </div>
+            </div>
+            <form id="sourceForm" class="admin-form">
+              <div class="form-grid">
+                <input name="name" placeholder="Nom de la source (ex : Cerema)" required />
+                <input name="siteUrl" placeholder="Site web ou flux RSS" required />
+                <input name="type" placeholder="Type de source (ex : Institution publique)" />
+                <input name="themes" placeholder="Tags par défaut séparés par ;" />
+                <input name="region" placeholder="Région, ex : National / Île-de-France" />
+              </div>
+              <label class="check-row inline-check"><input type="checkbox" name="official" /> Source officielle</label>
+              <button type="submit" class="primary-btn">Générer le bloc JSON</button>
+            </form>
+            <pre id="sourceJsonOutput" class="code-output"></pre>
+          </section>
+        </section>
+      </div>
+      </div>
+
+      <section class="section-block sources-page" id="sourcesFollowedPage" hidden>
+        <div class="section-head sources-page-head">
+          <div>
+            <h2>Sources suivies</h2>
+            <p class="section-meta">Toutes les sources suivies par bativeille, avec lien direct vers le site et classement par famille/région.</p>
+          </div>
+          <div class="source-page-tools">
+            <input id="sourceSearchInput" class="source-search-input" type="search" placeholder="Rechercher une source…" />
+            <select id="sourceRegionFilter" class="select-field">
+              <option value="">Toutes les régions</option>
+            </select>
+          </div>
+        </div>
+        <div id="followedSources" class="sources-table-wrap"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p><strong>bativeille</strong> · V3.8 · compatible GitHub Pages · mise à jour automatique via GitHub Action quotidienne.</p>
+    </footer>
+  </div>
+
+  <div class="modal-backdrop" id="loginModal" hidden>
+    <section class="login-modal" role="dialog" aria-modal="true" aria-labelledby="loginTitle">
+      <button class="modal-close" id="closeLogin" type="button" aria-label="Fermer">×</button>
+      <h2 id="loginTitle">Profil bativeille</h2>
+      <p class="section-meta">Connexion requise pour gérer les favoris, les sous-catégories et l’ajout de sources.</p>
+      <form id="loginForm" class="login-form">
+        <input name="username" autocomplete="username" placeholder="Identifiant" required />
+        <input name="password" type="password" autocomplete="current-password" placeholder="Mot de passe" required />
+        <button type="submit" class="primary-btn">Se connecter</button>
+      </form>
+      <p id="loginError" class="login-error" hidden>Identifiants incorrects.</p>
+      <div id="loggedPanel" class="logged-panel" hidden>
+        <p>Connecté : <strong>Admin</strong></p>
+        <button id="logoutButton" class="secondary-btn" type="button">Se déconnecter</button>
+      </div>
+    </section>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
