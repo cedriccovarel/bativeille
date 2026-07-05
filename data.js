@@ -1299,7 +1299,29 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
-      "id": "batiactu-3-1783202308000",
+      "id": "batiactu-3-1783221511000",
+      "title": "Isolation thermique des tuyauteries",
+      "source": "Batiactu",
+      "sourceId": "batiactu",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=156135",
+      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=156135",
+      "date": "2026-07-05",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 74,
+      "tags": [
+        "Construction",
+        "Marché",
+        "Réglementation"
+      ],
+      "summary": "Conductivité thermique, émissivité, comportement au feu, Kingspan Technical Insulation passe en revue les 5 critères essentiels pour guider les professionnels dans leur choix. Conductivité thermique, émissivité, comportement au feu, Kingspan Technical Insulation passe en revue le…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "batiactu-7-1783221511000",
       "title": "Préfa béton : le bon calcul pour aménager la ville",
       "source": "Batiactu",
       "sourceId": "batiactu",
@@ -1307,7 +1329,7 @@ window.BATIVEILLE_DATA = {
       "region": "National",
       "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=155674",
       "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=155674",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "access": "open",
       "official": false,
       "highImpact": true,
@@ -1319,28 +1341,6 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "Adapter les infrastructures, maîtriser les coûts, limiter les nuisances : les collectivités doivent arbitrer à chaque projet. La préfabrication béton s'impose comme un allié de choix pour ... Adapter les infrastructures, maîtriser les coûts, limiter les nuisances : les collectivi…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "batiactu-7-1783202308000",
-      "title": "Vos obligations en tant qu’employeur vis-à-vis de vos salariés",
-      "source": "Batiactu",
-      "sourceId": "batiactu",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=154714",
-      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=154714",
-      "date": "2026-07-04",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 74,
-      "tags": [
-        "Construction",
-        "Marché",
-        "Réglementation"
-      ],
-      "summary": "La Loi et les conventions collectives du BTP imposent à l'employeur de verser des indemnités à ses salariés en cas d'arrêt de travail, de licenciement ou de départ à la retraite. La Loi et les conventions collectives du BTP imposent à l'employeur de verser des indemnités à ses sa…",
       "premiumSummary": ""
     },
     {
@@ -2354,31 +2354,6 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "addrn-0-1778571322000",
-      "title": "la servitude de résidence principale",
-      "source": "ADDRN",
-      "sourceId": "addrn",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Pays de la Loire",
-      "url": "https://addrn.fr/la-servitude-de-residence-principale/",
-      "image": "https://addrn.fr/app/uploads/2026/05/image-3-e1778571628138.png",
-      "date": "2026-05-12",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 98,
-      "tags": [
-        "Saint-Nazaire",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation",
-        "Économie du bâtiment",
-        "Réemploi"
-      ],
-      "summary": "la servitude de résidence principale Dans de nombreuses communes littorales et touristiques du territoire Estuaire et Littoral Loire Océan (ELLO), comme ailleurs en France, la part de résidences secondaires ne cesse de croître. Cette évolution a des conséquences bien connues : te…",
-      "premiumSummary": ""
-    },
-    {
       "id": "association-bbca-5-1778001456000",
       "title": "Newsletter BBCA #25 – 5 mai 2026",
       "source": "Association BBCA",
@@ -2683,29 +2658,6 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "addrn-1-1775138980000",
-      "title": "Une animation pour s’engager dans une trajectoire de sobriété foncière : Play-ZAN",
-      "source": "ADDRN",
-      "sourceId": "addrn",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Pays de la Loire",
-      "url": "https://addrn.fr/play-zan/",
-      "image": "https://addrn.fr/app/uploads/2026/04/GR2_1-scaled.jpg",
-      "date": "2026-04-02",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 82,
-      "tags": [
-        "Saint-Nazaire",
-        "Urbanisme",
-        "Habitat",
-        "Confort d’été"
-      ],
-      "summary": "Une animation pour s’engager dans une trajectoire de sobriété foncière : Play-ZAN Réduire la consommation d’espaces pour atteindre le Zéro Artificialisation Nette à l’horizon 2050, c’est la trajectoire que les territoires doivent intégrer lors de l’élaboration ou la révision de l…",
-      "premiumSummary": ""
-    },
-    {
       "id": "observatoire-de-l-immobilier-durable-oid-9-1774525113000",
       "title": "Parkings et décret tertiaire : un angle mort des déclarations OPERAT",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -2913,29 +2865,6 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "addrn-2-1769523415000",
-      "title": "Les inégalités face au vieillissement sur le territoire ELLO : revenus, patrimoine et conditions de vie",
-      "source": "ADDRN",
-      "sourceId": "addrn",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Pays de la Loire",
-      "url": "https://addrn.fr/revenus-patrimoine-et-conditions-de-vie-vieillir-a-lepreuve-des-inegalites/",
-      "image": "https://addrn.fr/app/uploads/2026/01/pexels-olly-3768131-scaled.jpg",
-      "date": "2026-01-27",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Saint-Nazaire",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation"
-      ],
-      "summary": "Les inégalités face au vieillissement sur le territoire Estuaire et Littoral Loire Océan (ELLO) : revenus, patrimoine et conditions de vie Cet article vient enrichir le fil rouge porté par l’Agence d’urbanisme de la région de Saint-Nazaire (ADDRN) consacré aux enjeux du vieilliss…",
-      "premiumSummary": ""
-    },
-    {
       "id": "base-inies-3-1768834572000",
       "title": "Devenez un vérificateur ou une vérificatrice habilité-e du programme INIES !",
       "source": "Base INIES",
@@ -3076,30 +3005,6 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "addrn-3-1765460952000",
-      "title": "la location de courte durée sur le littoral Atlantique d’Arc Sud Bretagne à Pornic agglo Pays de Retz",
-      "source": "ADDRN",
-      "sourceId": "addrn",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Pays de la Loire",
-      "url": "https://addrn.fr/la-location-de-courte-duree-sur-le-littoral-atlantique-darc-sud-bretagne-a-pornic-agglo-pays-de-retz/",
-      "image": "https://addrn.fr/app/uploads/2025/12/LCD.jpg",
-      "date": "2025-12-11",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 90,
-      "tags": [
-        "Saint-Nazaire",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "la location de courte durée sur le littoral Atlantique d’Arc Sud Bretagne à Pornic agglo Pays de Retz Les territoires littoraux du périmètre ELLO (Estuaire et Littoral Loire Océan) connaissent une pression croissante sur leur marché immobilier, liée à une attractivité touristique…",
-      "premiumSummary": ""
-    },
-    {
       "id": "plan-batiment-durable-4-1765271192000",
       "title": "Assemblée générale du Plan Bâtiment Durable - 2 décembre 2025",
       "source": "Plan Bâtiment Durable",
@@ -3231,28 +3136,6 @@ window.BATIVEILLE_DATA = {
         "Biosourcé"
       ],
       "summary": "La DRIEAT Île-de-France et Bruitparif ont organisé le 15 octobre 2025 matin un séminaire dédié au bruit des transports terrestres… La DRIEAT Île-de-France et Bruitparif ont organisé le 15 octobre 2025 matin un séminaire dédié au bruit des transports terrestres&#x2026; 2025-10-29T…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "addrn-4-1758534176000",
-      "title": "Les dynamiques du vieillissement",
-      "source": "ADDRN",
-      "sourceId": "addrn",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Pays de la Loire",
-      "url": "https://addrn.fr/les-dynamiques-du-vieillissement/",
-      "image": "https://addrn.fr/app/uploads/2025/09/les-aines-modernes-prennent-une-photo-d-eux-memes-scaled.jpg",
-      "date": "2025-09-22",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Saint-Nazaire",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "les dynamiques du vieillissement Quand le passé d’un pays façonne son avenir démographique, il redessine en profondeur le visage de ses territoires. En France, l’écho du baby-boom résonne encore aujourd’hui dans les pyramides des âges, et ce phénomène est particulièrement visible…",
       "premiumSummary": ""
     },
     {
