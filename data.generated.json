@@ -1299,30 +1299,29 @@
   ],
   "articles": [
     {
-      "id": "batiactu-3-1783241494000",
-      "title": "Les fortes économies liées à une bonne isolation",
+      "id": "batiactu-3-1783249441000",
+      "title": "Vos obligations en tant qu’employeur vis-à-vis de vos salariés",
       "source": "Batiactu",
       "sourceId": "batiactu",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=156157",
-      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=156157",
+      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=154714",
+      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=154714",
       "date": "2026-07-05",
       "access": "open",
       "official": false,
       "highImpact": true,
-      "impactScore": 82,
+      "impactScore": 74,
       "tags": [
         "Construction",
         "Marché",
-        "Réglementation",
-        "Économie du bâtiment"
+        "Réglementation"
       ],
-      "summary": "Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans une isolation performante, ses performances théoriques chutent et les surcouts énergétiques sont ... Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans…",
+      "summary": "La Loi et les conventions collectives du BTP imposent à l'employeur de verser des indemnités à ses salariés en cas d'arrêt de travail, de licenciement ou de départ à la retraite. La Loi et les conventions collectives du BTP imposent à l'employeur de verser des indemnités à ses sa…",
       "premiumSummary": ""
     },
     {
-      "id": "batiactu-7-1783241494000",
+      "id": "batiactu-7-1783249441000",
       "title": "Isolation thermique des tuyauteries",
       "source": "Batiactu",
       "sourceId": "batiactu",
@@ -1691,6 +1690,72 @@
       "premiumSummary": ""
     },
     {
+      "id": "auat-toulouse-0-1783090809000",
+      "title": "Trajectoires : rendez-vous le 7 juillet pour une nouvelle matinale des observatoires",
+      "source": "AUAT Toulouse",
+      "sourceId": "auat-toulouse",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.aua-toulouse.org/trajectoires-rendez-vous-le-7-juillet-pour-une-nouvelle-matinale-des-observatoires/",
+      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Toulouse",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Continuer de lire “Trajectoires : rendez-vous le 7 juillet pour une nouvelle matinale des observatoires”… L’article Trajectoires : rendez-vous le 7 juillet pour une nouvelle matinale des observatoires est apparu en premier sur AUAT. Mardi 7 juillet de 9h à 9h30, participez à Traj…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "auat-toulouse-1-1783071762000",
+      "title": "Ces indicateurs qui alertent sur une dégradation de la santé de la forêt française",
+      "source": "AUAT Toulouse",
+      "sourceId": "auat-toulouse",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.aua-toulouse.org/ces-indicateurs-qui-alertent-sur-une-degradation-de-la-sante-de-la-foret-francaise/",
+      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Toulouse",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Ces indicateurs qui alertent sur une dégradation de la santé de la forêt française est apparu en premier sur AUAT. L’article Ces indicateurs qui alertent sur une dégradation de la santé de la forêt française est apparu en premier sur AUAT . 2026-07-03T09:42:42.000Z Ces …",
+      "premiumSummary": ""
+    },
+    {
+      "id": "auat-toulouse-2-1783071715000",
+      "title": "Sommes-nous entrés dans le “photographocène” ?",
+      "source": "AUAT Toulouse",
+      "sourceId": "auat-toulouse",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.aua-toulouse.org/sommes-nous-entres-dans-le-photographocene/",
+      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Toulouse",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Sommes-nous entrés dans le “photographocène” ? est apparu en premier sur AUAT. L’article Sommes-nous entrés dans le “photographocène” ? est apparu en premier sur AUAT . 2026-07-03T09:41:55.000Z Sommes-nous entrés dans le “photographocène” ?",
+      "premiumSummary": ""
+    },
+    {
       "id": "actu-environnement-6-1783005127000",
       "title": "Réseau gazier : comment éviter que la décroissance ne pèse trop sur les consommateurs",
       "source": "Actu-Environnement",
@@ -1783,6 +1848,229 @@
       "premiumSummary": ""
     },
     {
+      "id": "auat-toulouse-3-1782977108000",
+      "title": "“Les élus sont les premiers ambassadeurs du bail réel solidaire”",
+      "source": "AUAT Toulouse",
+      "sourceId": "auat-toulouse",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.aua-toulouse.org/les-elus-sont-les-premiers-ambassadeurs-du-bail-reel-solidaire/",
+      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
+      "date": "2026-07-02",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Toulouse",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article “Les élus sont les premiers ambassadeurs du bail réel solidaire” est apparu en premier sur AUAT. L’article &#8220;Les élus sont les premiers ambassadeurs du bail réel solidaire&#8221; est apparu en premier sur AUAT . 2026-07-02T07:25:08.000Z “Les élus sont les premiers …",
+      "premiumSummary": ""
+    },
+    {
+      "id": "auat-toulouse-4-1782977065000",
+      "title": "Comment proposer des itinéraires piétons à l’ombre ?",
+      "source": "AUAT Toulouse",
+      "sourceId": "auat-toulouse",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.aua-toulouse.org/comment-proposer-des-itineraires-pietons-a-lombre/",
+      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
+      "date": "2026-07-02",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Toulouse",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Comment proposer des itinéraires piétons à l’ombre ? est apparu en premier sur AUAT. L’article Comment proposer des itinéraires piétons à l&#8217;ombre ? est apparu en premier sur AUAT . 2026-07-02T07:24:25.000Z Comment proposer des itinéraires piétons à l’ombre ?",
+      "premiumSummary": ""
+    },
+    {
+      "id": "envirobatbdm-2-1783006202000",
+      "title": "BâtiFRAIS : 11ème édition à Montpellier",
+      "source": "EnvirobatBDM",
+      "sourceId": "envirobatbdm",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://envirobatbdm.eu/agenda-des-evenements/batifrais-11eme-edition-montpellier",
+      "image": "https://envirobatbdm.eu/sites/default/files/inline-images/BF2026_bandeau.png",
+      "date": "2026-07-02",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "BDM",
+        "Bâtiment durable",
+        "Méditerranée",
+        "Confort d’été"
+      ],
+      "summary": "BâtiFRAIS : 11ème édition à Montpellier Céline jeu 02/07/2026 - 17:30 Domaine de Verchant 1 boulevard Philippe Lamour 34170 Castelnau-le-Lez France ven 18/09/2026 - 09:00 Pour la 3ème année, EnvirobatBDM, Envirobat Occitanie et Ville et aménagement durable poursuivent leur collab…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "agam-marseille-0-1783000713000",
+      "title": "L’essentiel de l’AGAM – juin 2026",
+      "source": "AGAM Marseille",
+      "sourceId": "agam-marseille",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.agam.org/lessentiel-de-lagam-juin-2026/",
+      "image": "https://img-cache.net/im/1630857/e169bc75972adb8fa0235163ca2b980af32eb4350ddf8a890483be9108ada956.jpg?e=iexne-7CTOv7xodgoh1TjHpILcV5mg3WQUvRKuhs17JUSearNnJGmTGPCXGt0g3uv64sMoYjKs0pGvtcHLpt_uA-yTRF0lXH5W8Rvj071N_wmirpjlAe08GId2TcluyHZIC0CjRr3D37USxYMMn9Z9Vuulv5S0-dFu_l458FCHv9440A58qYrG6G474dlUx7lspTq0T9LuGf54mwHj1DqUUabTp4Jo4UJsInwU4_7y6vPZE",
+      "date": "2026-07-02",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Marseille",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article L’essentiel de l’AGAM – juin 2026 est apparu en premier sur AGAM. L’article L&rsquo;essentiel de l&rsquo;AGAM &#8211; juin 2026 est apparu en premier sur AGAM . 2026-07-02T13:58:33.000Z L’essentiel de l’AGAM – juin 2026",
+      "premiumSummary": ""
+    },
+    {
+      "id": "auat-toulouse-5-1782909460000",
+      "title": "L’assemblée générale de l’AUAT fixe le cap d’un mandat sous le signe de l’action collective",
+      "source": "AUAT Toulouse",
+      "sourceId": "auat-toulouse",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.aua-toulouse.org/assemblee-generale-2026-auat-action-collective/",
+      "image": "https://www.aua-toulouse.org/wp-content/uploads/2026/06/AG_juin2026-1.jpg",
+      "date": "2026-07-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Toulouse",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Continuer de lire “L’assemblée générale de l’AUAT fixe le cap d’un mandat sous le signe de l’action collective”… L’article L’assemblée générale de l’AUAT fixe le cap d’un mandat sous le signe de l’action collective est apparu en premier sur AUAT. Réunis en assemblée générale le 2…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "envirobatbdm-3-1782864721000",
+      "title": "SAS HORS CHAMP (agence Avignon)",
+      "source": "EnvirobatBDM",
+      "sourceId": "envirobatbdm",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://envirobatbdm.eu/node/172791",
+      "image": null,
+      "date": "2026-07-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "BDM",
+        "Bâtiment durable",
+        "Méditerranée",
+        "Eau"
+      ],
+      "summary": "SAS HORS CHAMP (agence Avignon) Anonyme (non vérifié) mer 01/07/2026 - 02:12 MOA privée Adresse 28 Boulevard Limbert 84000 AVIGNON France Téléphone 04 90 89 43 12 Email Non renseigné Détail secteur d'activité Promoteur immobilier / constructeur (hors maison indiv) Niveau de diffu…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "envirobatbdm-4-1782864721000",
+      "title": "Re!Source",
+      "source": "EnvirobatBDM",
+      "sourceId": "envirobatbdm",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://envirobatbdm.eu/node/172781",
+      "image": "https://www.envirobatbdm.eu/themes/subtheme/img/logo_carre.png",
+      "date": "2026-07-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "BDM",
+        "Bâtiment durable",
+        "Méditerranée",
+        "Eau"
+      ],
+      "summary": "Re!Source Anonyme (non vérifié) mer 01/07/2026 - 02:12 Adresse 486 Av. de la Mont Joye 30220 AIGUES MORTES France Téléphone Non renseigné Email kzknatalie@gmail.com Site Web https://www.resource-fr.com/ Niveau de diffusion Niveau 4 Est-ce un accompagnateur ? Off Etiquette Evb Evb…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "agam-marseille-1-1782903801000",
+      "title": "Les centres-villes face aux défis des transitions",
+      "source": "AGAM Marseille",
+      "sourceId": "agam-marseille",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.agam.org/les-centres-villes-face-aux-defis-des-transitions-2/",
+      "image": "https://www.agam.org/wp-content/uploads/2026/07/urba-sud.jpg",
+      "date": "2026-07-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Marseille",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM. L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM . 2026-07-01T11:03:21.000Z Les centres-villes face aux défis des transitions",
+      "premiumSummary": ""
+    },
+    {
+      "id": "agam-marseille-2-1782902232000",
+      "title": "2e Assises de la politique de la ville",
+      "source": "AGAM Marseille",
+      "sourceId": "agam-marseille",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.agam.org/2e-assises-de-la-politique-de-la-ville/",
+      "image": "https://www.agam.org/wp-content/uploads/2026/07/flyer.jpg",
+      "date": "2026-07-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Marseille",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article 2e Assises de la politique de la ville est apparu en premier sur AGAM. L’article 2e Assises de la politique de la ville est apparu en premier sur AGAM . 2026-07-01T10:37:12.000Z 2e Assises de la politique de la ville",
+      "premiumSummary": ""
+    },
+    {
+      "id": "auat-toulouse-6-1782810785000",
+      "title": "Feux de forêt, mégafeux : comment mieux prévoir leur propagation et limiter les risques ?",
+      "source": "AUAT Toulouse",
+      "sourceId": "auat-toulouse",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.aua-toulouse.org/feux-de-foret-megafeux-comment-mieux-prevoir-leur-propagation-et-limiter-les-risques/",
+      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
+      "date": "2026-06-30",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Toulouse",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Feux de forêt, mégafeux : comment mieux prévoir leur propagation et limiter les risques ? est apparu en premier sur AUAT. L’article Feux de forêt, mégafeux : comment mieux prévoir leur propagation et limiter les risques ? est apparu en premier sur AUAT . 2026-06-30T09:1…",
+      "premiumSummary": ""
+    },
+    {
       "id": "inc-institut-national-de-la-consommation-0-1782424800000",
       "title": "Copropriété : le plan pluriannuel de travaux",
       "source": "INC — Institut National de la Consommation",
@@ -1808,6 +2096,215 @@
       "premiumSummary": ""
     },
     {
+      "id": "auat-toulouse-7-1782371485000",
+      "title": "Le réseau ferroviaire français peut-il survivre à la canicule ?",
+      "source": "AUAT Toulouse",
+      "sourceId": "auat-toulouse",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.aua-toulouse.org/le-reseau-ferroviaire-francais-peut-il-survivre-a-la-canicule/",
+      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
+      "date": "2026-06-25",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Toulouse",
+        "Urbanisme",
+        "Habitat",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "L’article Le réseau ferroviaire français peut-il survivre à la canicule ? est apparu en premier sur AUAT. L’article Le réseau ferroviaire français peut-il survivre à la canicule ? est apparu en premier sur AUAT . 2026-06-25T07:11:25.000Z Le réseau ferroviaire français peut-il sur…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "auat-toulouse-8-1782371444000",
+      "title": "Partir ou rester, le dilemme des lycéens en milieu rural au moment de Parcoursup",
+      "source": "AUAT Toulouse",
+      "sourceId": "auat-toulouse",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.aua-toulouse.org/partir-ou-rester-le-dilemme-des-lyceens-en-milieu-rural-au-moment-de-parcoursup/",
+      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
+      "date": "2026-06-25",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Toulouse",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Partir ou rester, le dilemme des lycéens en milieu rural au moment de Parcoursup est apparu en premier sur AUAT. L’article Partir ou rester, le dilemme des lycéens en milieu rural au moment de Parcoursup est apparu en premier sur AUAT . 2026-06-25T07:10:44.000Z Partir o…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "envirobatbdm-5-1782378603000",
+      "title": "Visite du chantier du Prieuré du Moustier",
+      "source": "EnvirobatBDM",
+      "sourceId": "envirobatbdm",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://envirobatbdm.eu/agenda-des-evenements/visite-du-chantier-du-prieure-du-moustier",
+      "image": "https://envirobatbdm.eu/sites/default/files/inline-images/Prieure_Moustier3.jpg",
+      "date": "2026-06-25",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 98,
+      "tags": [
+        "BDM",
+        "Bâtiment durable",
+        "Méditerranée",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "Visite du chantier du Prieuré du Moustier Céline jeu 25/06/2026 - 11:10 Une visite du réseau BâtiREHAB Prieuré du Moustier 98 chemin de la Chap du Moustier 84410 Bédoin France jeu 02/07/2026 - 14:30 EnvirobatBDM, en partenariat avec Fibois Sud et le Conseil régional de l'Ordre de…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "envirobatbdm-6-1782378173000",
+      "title": "Commission démarche QDM",
+      "source": "EnvirobatBDM",
+      "sourceId": "envirobatbdm",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://envirobatbdm.eu/agenda-des-evenements/commission-demarche-qdm",
+      "image": "https://envirobatbdm.eu/sites/default/files/Bandeau_QDM.png",
+      "date": "2026-06-25",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "BDM",
+        "Bâtiment durable",
+        "Méditerranée",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "Commission démarche QDM Céline jeu 25/06/2026 - 11:02 Découvrez les projets en démarche QDM ! mar 01/12/2026 - 09:00 La Commission Démarche Quartiers durables méditerranéens est PUBLIQUE et GRATUITE. C'est un lieu d'échanges entre tous les acteurs de l'aménagement durable en régi…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "agam-marseille-3-1782394144000",
+      "title": "Les dynamiques résidentielles de la Métropole Aix-Marseille-Provence",
+      "source": "AGAM Marseille",
+      "sourceId": "agam-marseille",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.agam.org/les-dynamiques-residentielles-de-la-metropole-aix-marseille-provence-volet-3/",
+      "image": "https://www.agam.org/wp-content/uploads/2026/01/image-article-1024x606.png",
+      "date": "2026-06-25",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Marseille",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Les dynamiques résidentielles de la Métropole Aix-Marseille-Provence est apparu en premier sur AGAM. L’article Les dynamiques résidentielles de la Métropole Aix-Marseille-Provence est apparu en premier sur AGAM . 2026-06-25T13:29:04.000Z Les dynamiques résidentielles de…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "auat-toulouse-9-1782303165000",
+      "title": "« Un jour, les habitants du dernier étage chercheront des responsables » : vivre sous les toits par 40 °C",
+      "source": "AUAT Toulouse",
+      "sourceId": "auat-toulouse",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.aua-toulouse.org/un-jour-les-habitants-du-dernier-etage-chercheront-des-responsables-vivre-sous-les-toits-par-40-c/",
+      "image": "https://www.aua-toulouse.org/wp-content/uploads/2025/02/trajectoires-2.jpg",
+      "date": "2026-06-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Toulouse",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article « Un jour, les habitants du dernier étage chercheront des responsables » : vivre sous les toits par 40 °C est apparu en premier sur AUAT. L’article « Un jour, les habitants du dernier étage chercheront des responsables » : vivre sous les toits par 40 °C est apparu en pr…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "envirobatbdm-7-1782303589000",
+      "title": "Voyage d'étude à Rosny-sous-Bois",
+      "source": "EnvirobatBDM",
+      "sourceId": "envirobatbdm",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://envirobatbdm.eu/agenda-des-evenements/2026-10-14/rosny",
+      "image": "https://envirobatbdm.eu/sites/default/files/inline-images/Grande%20coco_video.png",
+      "date": "2026-06-24",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 98,
+      "tags": [
+        "BDM",
+        "Bâtiment durable",
+        "Méditerranée",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "Voyage d'étude à Rosny-sous-Bois Aurore mer 24/06/2026 - 14:19 Voyage d'étude à Rosny-sous-Bois / Réseau frugalité 93064 Rosny-sous-Bois France mer 14/10/2026 - 11:00 EnvirobatBDM propose à ses adhérents de participer à un voyage d'étude à Rosny-sous-Bois (93) pour visiter des bâ…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "agam-marseille-4-1782229007000",
+      "title": "Panorama des résidences étudiantes privées du centre-ville de Marseille",
+      "source": "AGAM Marseille",
+      "sourceId": "agam-marseille",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.agam.org/panorama-des-residences-etudiantes-privees-du-centre-ville-de-marseille/",
+      "image": "https://www.agam.org/wp-content/uploads/2026/06/RESIDENCE-KLEY.jpg",
+      "date": "2026-06-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Marseille",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Panorama des résidences étudiantes privées du centre-ville de Marseille est apparu en premier sur AGAM. L’article Panorama des résidences étudiantes privées du centre-ville de Marseille est apparu en premier sur AGAM . 2026-06-23T15:36:47.000Z Panorama des résidences ét…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "agam-marseille-5-1782139677000",
+      "title": "Nouvelle gouvernance à l’AGAM !",
+      "source": "AGAM Marseille",
+      "sourceId": "agam-marseille",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.agam.org/nouvelle-gouvernance-a-lagam/",
+      "image": null,
+      "date": "2026-06-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Marseille",
+        "Urbanisme",
+        "Habitat",
+        "Confort d’été"
+      ],
+      "summary": "Le CA de l’AGAM s’est réuni ce jeudi 18 juin 2026 afin d’élire son nouvel exécutif. L’article Nouvelle gouvernance à l’AGAM ! est apparu en premier sur AGAM. Le CA de l’AGAM s’est réuni ce jeudi 18 juin 2026 afin d’élire son nouvel exécutif. À l’issue du vote, Audrey Gatian a été…",
+      "premiumSummary": ""
+    },
+    {
       "id": "observatoire-de-l-immobilier-durable-oid-0-1781879597000",
       "title": "Décret tertiaire : un retour d’expérience pour lever les freins et pérenniser les efforts",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -1830,6 +2327,78 @@
         "Réglementation"
       ],
       "summary": "Plus de trois ans après son entrée en vigueur, le dispositif Éco-Énergie Tertiaire aborde une phase de consolidation. Le Plan Bâtiment Durable a confié à l’ADI et à la FEI, […] L’article Décret tertiaire : un retour d’expérience pour lever les freins et pérenniser les efforts est…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "envirobatbdm-8-1781801938000",
+      "title": "3èmes rencontres régionales de la construction terre aux Arcs (83)",
+      "source": "EnvirobatBDM",
+      "sourceId": "envirobatbdm",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://envirobatbdm.eu/agenda-des-evenements/3emes-rencontres-regionales-de-la-construction-terre-aux-arcs-83",
+      "image": "https://envirobatbdm.eu/sites/default/files/inline-images/26_rencontre%20terre.jpg",
+      "date": "2026-06-18",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 98,
+      "tags": [
+        "BDM",
+        "Bâtiment durable",
+        "Méditerranée",
+        "Eau",
+        "Biosourcé",
+        "Rénovation"
+      ],
+      "summary": "3èmes rencontres régionales de la construction terre aux Arcs (83) Nicolas jeu 18/06/2026 - 18:58 Un événement EnvirobatBDM, les EcoBatissonS, CAUE 83, COFOR ALEC 83, Dracénie Provence Verdon et Asterre 83460 Les Arcs France mar 23/06/2026 - 09:00 EnvirobatBDM, EcoBatissonS, Le C…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "envirobatbdm-9-1781772819000",
+      "title": "Bâti ancien, savoir-faire et transmission pour la réhabilitation durable",
+      "source": "EnvirobatBDM",
+      "sourceId": "envirobatbdm",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://envirobatbdm.eu/agenda-des-evenements/bati-ancien-savoir-faire-et-transmission-pour-la-rehabilitation-durable",
+      "image": "https://envirobatbdm.eu/sites/default/files/inline-images/affiche%20journ%C3%A9e%20r%C3%A9hab%20savoir%20faire%201.jpg",
+      "date": "2026-06-18",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 98,
+      "tags": [
+        "BDM",
+        "Bâtiment durable",
+        "Méditerranée",
+        "RE2020",
+        "Eau",
+        "Biosourcé"
+      ],
+      "summary": "Bâti ancien, savoir-faire et transmission pour la réhabilitation durable Céline jeu 18/06/2026 - 10:53 Journée du réseau BâtiREHAB Centre Jean Giono 1 montée des Vraies richesses 04100 Manosque France mar 22/09/2026 - 09:00 Dans le cadre de l'animation du réseau BâtiREHAB, Enviro…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "agam-marseille-6-1781602753000",
+      "title": "Ombrage de l’espace public dans la Métropole AMP",
+      "source": "AGAM Marseille",
+      "sourceId": "agam-marseille",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.agam.org/ombrage-de-lespace-public-dans-la-metropole-amp/",
+      "image": "https://www.agam.org/wp-content/uploads/2026/06/Quai-des-Chaluts-Port-de-Bouc-scaled.jpg",
+      "date": "2026-06-16",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Marseille",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Ombrage de l’espace public dans la Métropole AMP est apparu en premier sur AGAM. L’article Ombrage de l&rsquo;espace public dans la Métropole AMP est apparu en premier sur AGAM . 2026-06-16T09:39:13.000Z Ombrage de l’espace public dans la Métropole AMP",
       "premiumSummary": ""
     },
     {
@@ -1924,6 +2493,51 @@
         "Rénovation"
       ],
       "summary": "En maison individuelle ou logement collectif, vous pouvez envisager les travaux suivants : Ajouter des protections solaires extérieures adaptées à votre environnement (vent) sous réserve du règlement de copropriété, Ajouter un film de protection solaire sur les vitrages, Remplace…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "agam-marseille-7-1781101346000",
+      "title": "UrbaSud : le réseau régional des agences d’urbanisme",
+      "source": "AGAM Marseille",
+      "sourceId": "agam-marseille",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.agam.org/urbasud-le-reseau-regional-des-agences-durbanisme/",
+      "image": "https://www.agam.org/wp-content/uploads/2026/02/Logo_UrbaSud.png",
+      "date": "2026-06-10",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Marseille",
+        "Urbanisme",
+        "Habitat",
+        "Eau"
+      ],
+      "summary": "L’article UrbaSud : le réseau régional des agences d’urbanisme est apparu en premier sur AGAM. L’article UrbaSud : le réseau régional des agences d’urbanisme est apparu en premier sur AGAM . 2026-06-10T14:22:26.000Z UrbaSud : le réseau régional des agences d’urbanisme",
+      "premiumSummary": ""
+    },
+    {
+      "id": "agam-marseille-8-1781100236000",
+      "title": "Fédération nationale des agences d’urbanisme (FNAU)",
+      "source": "AGAM Marseille",
+      "sourceId": "agam-marseille",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.agam.org/federation-nationale-des-agences-durbanisme-fnau/",
+      "image": "https://www.agam.org/wp-content/uploads/2026/06/carte-FNAU-2026.jpg",
+      "date": "2026-06-10",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Marseille",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Fédération nationale des agences d’urbanisme (FNAU) est apparu en premier sur AGAM. L’article Fédération nationale des agences d’urbanisme (FNAU) est apparu en premier sur AGAM . 2026-06-10T14:03:56.000Z Fédération nationale des agences d’urbanisme (FNAU)",
       "premiumSummary": ""
     },
     {
@@ -2354,6 +2968,31 @@
       "premiumSummary": ""
     },
     {
+      "id": "addrn-0-1778571322000",
+      "title": "la servitude de résidence principale",
+      "source": "ADDRN",
+      "sourceId": "addrn",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Pays de la Loire",
+      "url": "https://addrn.fr/la-servitude-de-residence-principale/",
+      "image": "https://addrn.fr/app/uploads/2026/05/image-3-e1778571628138.png",
+      "date": "2026-05-12",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 98,
+      "tags": [
+        "Saint-Nazaire",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation",
+        "Économie du bâtiment",
+        "Réemploi"
+      ],
+      "summary": "la servitude de résidence principale Dans de nombreuses communes littorales et touristiques du territoire Estuaire et Littoral Loire Océan (ELLO), comme ailleurs en France, la part de résidences secondaires ne cesse de croître. Cette évolution a des conséquences bien connues : te…",
+      "premiumSummary": ""
+    },
+    {
       "id": "association-bbca-5-1778001456000",
       "title": "Newsletter BBCA #25 – 5 mai 2026",
       "source": "Association BBCA",
@@ -2468,6 +3107,51 @@
         "Observatoire"
       ],
       "summary": "Il n’y a pas d’extrait, car cette publication est protégée. L’article Revue de médias – avril 2026 est apparu en premier sur Association BBCA. Il n’y a pas d’extrait, car cette publication est protégée. L’article Revue de médias – avril 2026 est apparu en premier sur Association …",
+      "premiumSummary": ""
+    },
+    {
+      "id": "a-u-montpellier-0-1777037883000",
+      "title": "L’intensification illustrée de l'habitat individuel",
+      "source": "A’U Montpellier",
+      "sourceId": "a-u-montpellier",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.audrna.com/index.php/269-l-intensification-illustree-de-l-habitat-individuel",
+      "image": "https://www.audrna.com/images/NEWS/2026/IntensificationUrbaine-2-Mur.jpg",
+      "date": "2026-04-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Montpellier",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} Notre nouvelle série d’accompagnement des élus et acteurs locaux vers un changement de modèle d’aménagement ill…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "a-u-montpellier-1-1777031925000",
+      "title": "Les tendances du marché de l’immobilier et du foncier d’entreprise 2025",
+      "source": "A’U Montpellier",
+      "sourceId": "a-u-montpellier",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.audrna.com/index.php/268-les-tendances-du-marche-de-l-immobilier-et-du-foncier-d-entreprise-2025",
+      "image": "https://www.audrna.com/images/NEWS/2026/Publi-ObsImmoEntreprises-2026-Mur.jpg",
+      "date": "2026-04-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Montpellier",
+        "Urbanisme",
+        "Habitat",
+        "Économie du bâtiment"
+      ],
+      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} Comme chaque année, l’agence d’urbanisme a présenté en début d’année les résultats de l’observatoire de l’immob…",
       "premiumSummary": ""
     },
     {
@@ -2655,6 +3339,29 @@
         "Énergie"
       ],
       "summary": "The Belgian Green Building Council (BGBC) was founded in March 2025 and is a Belgian non-profit organisation (asbl/vzw) that represents a growing coalition of stakeholders spanning the entire construction and real […] L’article [ESREI’s European Tour] What’s to come for sustainab…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "addrn-1-1775138980000",
+      "title": "Une animation pour s’engager dans une trajectoire de sobriété foncière : Play-ZAN",
+      "source": "ADDRN",
+      "sourceId": "addrn",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Pays de la Loire",
+      "url": "https://addrn.fr/play-zan/",
+      "image": "https://addrn.fr/app/uploads/2026/04/GR2_1-scaled.jpg",
+      "date": "2026-04-02",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Saint-Nazaire",
+        "Urbanisme",
+        "Habitat",
+        "Confort d’été"
+      ],
+      "summary": "Une animation pour s’engager dans une trajectoire de sobriété foncière : Play-ZAN Réduire la consommation d’espaces pour atteindre le Zéro Artificialisation Nette à l’horizon 2050, c’est la trajectoire que les territoires doivent intégrer lors de l’élaboration ou la révision de l…",
       "premiumSummary": ""
     },
     {
@@ -2865,6 +3572,29 @@
       "premiumSummary": ""
     },
     {
+      "id": "addrn-2-1769523415000",
+      "title": "Les inégalités face au vieillissement sur le territoire ELLO : revenus, patrimoine et conditions de vie",
+      "source": "ADDRN",
+      "sourceId": "addrn",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Pays de la Loire",
+      "url": "https://addrn.fr/revenus-patrimoine-et-conditions-de-vie-vieillir-a-lepreuve-des-inegalites/",
+      "image": "https://addrn.fr/app/uploads/2026/01/pexels-olly-3768131-scaled.jpg",
+      "date": "2026-01-27",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Saint-Nazaire",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation"
+      ],
+      "summary": "Les inégalités face au vieillissement sur le territoire Estuaire et Littoral Loire Océan (ELLO) : revenus, patrimoine et conditions de vie Cet article vient enrichir le fil rouge porté par l’Agence d’urbanisme de la région de Saint-Nazaire (ADDRN) consacré aux enjeux du vieilliss…",
+      "premiumSummary": ""
+    },
+    {
       "id": "base-inies-3-1768834572000",
       "title": "Devenez un vérificateur ou une vérificatrice habilité-e du programme INIES !",
       "source": "Base INIES",
@@ -2886,6 +3616,52 @@
         "Matériaux"
       ],
       "summary": "INIES organise sa prochaine session d’habilitation des vérificateurs le 26 mai 2026 ! Les personnes […] L’article Devenez un vérificateur ou une vérificatrice habilité-e du programme INIES ! est apparu en premier sur Inies. INIES organise sa prochaine session d&#8217;habilitation…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "a-u-montpellier-2-1768470380000",
+      "title": "L'A'U recrute un(e) DATA Ingénieur(e) / Responsable du système d'information - CDI",
+      "source": "A’U Montpellier",
+      "sourceId": "a-u-montpellier",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.audrna.com/index.php/267-l-a-u-recrute-un-e-data-ingenieur-e-responsable-du-systeme-d-information-cdi",
+      "image": "https://www.audrna.com/images/logo_AU_seul.jpg",
+      "date": "2026-01-15",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Montpellier",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation"
+      ],
+      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} Télécharger l'offre d'emploi \"DATA Ingénieur(e) / Responsable du système d'information\" Lire la suite... [data-…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "a-u-montpellier-3-1768470222000",
+      "title": "L'A'U recrute un(e) assistant(e) d'études urbaniste - CDD 18 mois",
+      "source": "A’U Montpellier",
+      "sourceId": "a-u-montpellier",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.audrna.com/index.php/266-l-a-u-recrute-un-e-assistant-e-d-etudes-urbaniste-cdd-18-mois-2",
+      "image": "https://www.audrna.com/images/logo_AU_seul.jpg",
+      "date": "2026-01-15",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Montpellier",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation"
+      ],
+      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} Télécharger l'offre d'emploi \"Assistant(e) d'études urbaniste\" Lire la suite... [data-gutter=\"2%\"][data-nb=\"1\"]…",
       "premiumSummary": ""
     },
     {
@@ -2930,6 +3706,30 @@
         "Conseil"
       ],
       "summary": "Les CAUE au service des élus Cet article Interview de Joël BAUD-GRASSET sur France-Culture est apparu en premier sur CAUE. Les CAUE au service des élus Cet article Interview de Joël BAUD-GRASSET sur France-Culture est apparu en premier sur CAUE . 2026-01-12T13:34:10.000Z Intervie…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fnau-0-1768207060000",
+      "title": "Sobriété foncière : tenir le cap, outiller les territoires",
+      "source": "FNAU",
+      "sourceId": "fnau",
+      "sourceType": "Réseau agences urbanisme",
+      "region": "National",
+      "url": "https://fnau.org/fr/sobriete-fonciere-tenir-le-cap-outiller-les-territoires/",
+      "image": "https://fnau.org/wp-content/uploads/2016/03/fnau-logo-a4a.jpg",
+      "date": "2026-01-12",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Agences urbanisme",
+        "Habitat",
+        "Foncier",
+        "Territoires",
+        "Confort d’été"
+      ],
+      "summary": "La maîtrise de l’artificialisation des sols, pour aboutir à son arrêt complet à l’horizon 2050, est un tournant pour l’aménagement des territoires. Cet objectif vise à répondre à des défis environnementaux majeurs : réduire les risques d’inondation, préserver les sols agricoles, …",
       "premiumSummary": ""
     },
     {
@@ -2982,6 +3782,28 @@
       "premiumSummary": ""
     },
     {
+      "id": "a-u-montpellier-4-1767704864000",
+      "title": "L'A'U vous souhaite ses meilleurs vœux pour l'année 2026",
+      "source": "A’U Montpellier",
+      "sourceId": "a-u-montpellier",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.audrna.com/index.php/265-l-a-u-vous-souhaite-ses-meilleurs-voeux-pour-l-annee-2026",
+      "image": "https://www.audrna.com/images/Logo_AU_BD.jpg",
+      "date": "2026-01-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Montpellier",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} [data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-…",
+      "premiumSummary": ""
+    },
+    {
       "id": "alliance-hqe-gbc-6-1766077244000",
       "title": "Retour sur le webinaire GIEP – Gestion Intégrée des Eaux Pluviales",
       "source": "Alliance HQE-GBC",
@@ -3002,6 +3824,30 @@
         "Eau"
       ],
       "summary": "Le 11 décembre 2025, plus de 80 professionnels se sont réunis en ligne pour découvrir en avant-première le cadre de définition de la Gestion Intégrée des Eaux Pluviales (GIEP), fruit d’un an de travail collaboratif piloté par l’Alliance HQE-GBC. Urbanistes, aménageurs, architecte…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "addrn-3-1765460952000",
+      "title": "la location de courte durée sur le littoral Atlantique d’Arc Sud Bretagne à Pornic agglo Pays de Retz",
+      "source": "ADDRN",
+      "sourceId": "addrn",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Pays de la Loire",
+      "url": "https://addrn.fr/la-location-de-courte-duree-sur-le-littoral-atlantique-darc-sud-bretagne-a-pornic-agglo-pays-de-retz/",
+      "image": "https://addrn.fr/app/uploads/2025/12/LCD.jpg",
+      "date": "2025-12-11",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Saint-Nazaire",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "la location de courte durée sur le littoral Atlantique d’Arc Sud Bretagne à Pornic agglo Pays de Retz Les territoires littoraux du périmètre ELLO (Estuaire et Littoral Loire Océan) connaissent une pression croissante sur leur marché immobilier, liée à une attractivité touristique…",
       "premiumSummary": ""
     },
     {
@@ -3139,6 +3985,28 @@
       "premiumSummary": ""
     },
     {
+      "id": "addrn-4-1758534176000",
+      "title": "Les dynamiques du vieillissement",
+      "source": "ADDRN",
+      "sourceId": "addrn",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Pays de la Loire",
+      "url": "https://addrn.fr/les-dynamiques-du-vieillissement/",
+      "image": "https://addrn.fr/app/uploads/2025/09/les-aines-modernes-prennent-une-photo-d-eux-memes-scaled.jpg",
+      "date": "2025-09-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Saint-Nazaire",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "les dynamiques du vieillissement Quand le passé d’un pays façonne son avenir démographique, il redessine en profondeur le visage de ses territoires. En France, l’écho du baby-boom résonne encore aujourd’hui dans les pyramides des âges, et ce phénomène est particulièrement visible…",
+      "premiumSummary": ""
+    },
+    {
       "id": "bruitparif-1-1754956800000",
       "title": "Mise en place d'un partenariat renforcé entre l'Acnusa et Bruitparif",
       "source": "Bruitparif",
@@ -3207,6 +4075,28 @@
       "premiumSummary": ""
     },
     {
+      "id": "a-u-montpellier-5-1750326249000",
+      "title": "Les formes urbaines : introduction à la démarche de l’atlas",
+      "source": "A’U Montpellier",
+      "sourceId": "a-u-montpellier",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.audrna.com/index.php/264-les-formes-urbaines-introduction-a-la-demarche-de-l-atlas",
+      "image": "https://www.audrna.com/images/NEWS/News-2025/AtlasFormesUrbaines-AU-MUR.jpg",
+      "date": "2025-06-19",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Montpellier",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} L’A’U lance l’élaboration d’un atlas des formes urbaines pour qualifier les tissus bâtis de son territoire, app…",
+      "premiumSummary": ""
+    },
+    {
       "id": "bruitparif-3-1750118400000",
       "title": "Le bruit du boulevard périphérique en temps réel",
       "source": "Bruitparif",
@@ -3227,6 +4117,29 @@
         "Confort d’été"
       ],
       "summary": "Une cartographie dynamique du bruit généré par le trafic routier du boulevard périphérique a été mise au point par Bruitparif. Rendue possible grâce à l’intégration en temps réel des données de trafic… Une cartographie dynamique du bruit généré par le trafic routier du boulevard …",
+      "premiumSummary": ""
+    },
+    {
+      "id": "a-u-montpellier-6-1749024254000",
+      "title": "La surchauffe urbaine sur le territoire de Nîmes Métropole",
+      "source": "A’U Montpellier",
+      "sourceId": "a-u-montpellier",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.audrna.com/index.php/263-la-surchauffe-urbaine-sur-le-territoire-de-nimes-metropole",
+      "image": "https://www.audrna.com/images/NEWS/News-2025/poster_surchauffe_urbaine-mur.jpg",
+      "date": "2025-06-04",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Montpellier",
+        "Urbanisme",
+        "Habitat",
+        "Confort d’été"
+      ],
+      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} L’agence d’urbanisme, région nîmoise et alésienne (A’U) accompagne Nîmes Métropole dans la mise en œuvre de son…",
       "premiumSummary": ""
     },
     {
@@ -3297,6 +4210,28 @@
       "premiumSummary": ""
     },
     {
+      "id": "a-u-montpellier-7-1745484677000",
+      "title": "L’intensification des villes et villages illustrée",
+      "source": "A’U Montpellier",
+      "sourceId": "a-u-montpellier",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.audrna.com/index.php/260-intensification-urbaine",
+      "image": "https://www.audrna.com/images/NEWS/News-2025/IntensificationUrbaine-Mur.jpg",
+      "date": "2025-04-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Montpellier",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} Les enjeux d’adaptation et de lutte contre le changement climatique ont un impact considérable sur l’aménagemen…",
+      "premiumSummary": ""
+    },
+    {
       "id": "bruitparif-4-1741824000000",
       "title": "Publication des résultats de la campagne d'observation au sein des lieux diffusant des sons amplifiés",
       "source": "Bruitparif",
@@ -3338,6 +4273,51 @@
         "Île-de-France"
       ],
       "summary": "La Région Île-de-France, en partenariat avec Bruitparif et la Fondation Pour l’Audition, lance une campagne de sensibilisation et de prévention inédite à destination des lycéens franciliens… La Région Île-de-France, en partenariat avec Bruitparif et la Fondation Pour l’Audition, …",
+      "premiumSummary": ""
+    },
+    {
+      "id": "a-u-montpellier-8-1735813347000",
+      "title": "L'A'U vous souhaite ses meilleurs vœux pour l'année 2025",
+      "source": "A’U Montpellier",
+      "sourceId": "a-u-montpellier",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.audrna.com/index.php/258-l-a-u-vous-souhaite-ses-meilleurs-voeux-pour-l-annee-2025",
+      "image": "https://www.audrna.com/images/Logo_AU_BD.jpg",
+      "date": "2025-01-02",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Montpellier",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} [data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fnau-1-1734513538000",
+      "title": "Un AMI à destination des collectivités franciliennes pour la création d’OTLE en Île-de-France",
+      "source": "FNAU",
+      "sourceId": "fnau",
+      "sourceType": "Réseau agences urbanisme",
+      "region": "National",
+      "url": "https://fnau.org/fr/un-ami-a-destination-des-collectivites-franciliennes-pour-la-creation-dotle-en-ile-de-france/",
+      "image": "https://fnau.org/wp-content/uploads/2016/03/fnau-logo-a4a.jpg",
+      "date": "2024-12-18",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Agences urbanisme",
+        "Habitat",
+        "Foncier",
+        "Territoires"
+      ],
+      "summary": "En juin 2024 la Fnau et l’Avuf ont lancé un appel à manifestation d’intérêt à destination des collectivités franciliennes pour la création d’OTLE en Île-de-France. La région, représentant pourtant près de 40% de l’offre en ESR française, et plus de 700 000 étudiants, ne disposait…",
       "premiumSummary": ""
     },
     {
@@ -3385,6 +4365,76 @@
       "premiumSummary": ""
     },
     {
+      "id": "fnau-2-1731948219000",
+      "title": "Enedis et la Fnau s’unissent pour accélérer la transition énergétique des territoires",
+      "source": "FNAU",
+      "sourceId": "fnau",
+      "sourceType": "Réseau agences urbanisme",
+      "region": "National",
+      "url": "https://fnau.org/fr/enedis-et-la-fnau-sunissent-pour-accelerer-la-transition-energetique-des-territoires/",
+      "image": "https://fnau.org/wp-content/uploads/2016/03/fnau-logo-a4a.jpg",
+      "date": "2024-11-18",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Agences urbanisme",
+        "Habitat",
+        "Foncier",
+        "Territoires"
+      ],
+      "summary": "Communiqué de presse – 19 novembre 2024 Face à l’urgence climatique, il est indispensable d’inscrire la transition écologique au cœur des projets. Cela nécessite d’engager des transformations majeures pour les territoires et pour l’énergie électrique. Enedis et la Fédération Nati…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fnau-3-1731948129000",
+      "title": "L’Anah et la FNAU signent un partenariat pour accélérer l’amélioration de l’habitat",
+      "source": "FNAU",
+      "sourceId": "fnau",
+      "sourceType": "Réseau agences urbanisme",
+      "region": "National",
+      "url": "https://fnau.org/fr/lanah-et-la-fnau-signent-un-partenariat-pour-accelerer-lamelioration-de-lhabitat/",
+      "image": "https://fnau.org/wp-content/uploads/2016/03/fnau-logo-a4a.jpg",
+      "date": "2024-11-18",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Agences urbanisme",
+        "Habitat",
+        "Foncier",
+        "Territoires"
+      ],
+      "summary": "Communiqué de presse – 19 novembre 2024 La Fédération Nationale des Agences d’Urbanisme (Fnau) et l’Agence Nationale de l’Habitat (Anah) annoncent aujourd’hui la signature d’une convention de partenariat, marquant leur collaboration dans le domaine de l’habitat en France. Ce part…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fnau-4-1731923118000",
+      "title": "Un AMI à destination de collectivités pré-identifiées pour la création de nouveaux OTLE en région",
+      "source": "FNAU",
+      "sourceId": "fnau",
+      "sourceType": "Réseau agences urbanisme",
+      "region": "National",
+      "url": "https://fnau.org/fr/un-ami-a-destination-de-collectivites-pre-identifiees-pour-la-creation-de-nouveaux-otle-en-region/",
+      "image": "https://fnau.org/wp-content/uploads/2016/03/fnau-logo-a4a.jpg",
+      "date": "2024-11-18",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Agences urbanisme",
+        "Habitat",
+        "Foncier",
+        "Territoires",
+        "Eau"
+      ],
+      "summary": "Longtemps concentrées sur les centres universitaires de première importance, les problématiques de logement des étudiants et des jeunes se retrouvent maintenant jusque dans les territoires moins tendus. En conséquence, plusieurs territoires ont manifesté leur intérêt pour créer e…",
+      "premiumSummary": ""
+    },
+    {
       "id": "bruitparif-8-1731888000000",
       "title": "Bruitparif a 20 ans",
       "source": "Bruitparif",
@@ -3404,6 +4454,28 @@
         "Île-de-France"
       ],
       "summary": "Ce lundi 18 novembre, Bruitparif fête son 20ème anniversaire avec ses membres, ses partenaires et son équipe. L’occasion de célébrer les nombreux succès de cet observatoire régional du bruit… Ce lundi 18 novembre, Bruitparif fête son 20ème anniversaire avec ses membres, ses parte…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "a-u-montpellier-9-1730725605000",
+      "title": "Boite à outils de l'habitat",
+      "source": "A’U Montpellier",
+      "sourceId": "a-u-montpellier",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.audrna.com/index.php/257-boite-a-outils-de-l-habitat",
+      "image": "https://www.audrna.com/images/NEWS/News-2024/BOITE_A_OUTILS_HABITAT2024_Mur.jpg",
+      "date": "2024-11-04",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Montpellier",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "[data-gutter=\"2%\"][data-nb=\"1\"]:not(.ckadvancedlayout) [data-width=\"100\"] {width:100%;}[data-gutter=\"2%\"][data-nb=\"1\"].ckadvancedlayout [data-width=\"100\"] {width:100%;} L’agence d’urbanisme met à disposition de ses partenaires une boîte à outils de l’habitat, comprenant 43 fiches…",
       "premiumSummary": ""
     },
     {
@@ -3429,6 +4501,29 @@
       "premiumSummary": ""
     },
     {
+      "id": "fnau-5-1713356189000",
+      "title": "Lettre d’actu – Portraits de quartiers rénovés : diversité des projets et de leurs impacts",
+      "source": "FNAU",
+      "sourceId": "fnau",
+      "sourceType": "Réseau agences urbanisme",
+      "region": "National",
+      "url": "https://fnau.org/fr/lettre-dactu-portraits-de-quartiers-renoves-diversite-des-projets-et-de-leurs-impacts/",
+      "image": "https://fnau.org/wp-content/uploads/2016/03/fnau-logo-a4a.jpg",
+      "date": "2024-04-17",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Agences urbanisme",
+        "Habitat",
+        "Foncier",
+        "Territoires"
+      ],
+      "summary": "Lire la lettre d’actu Lire la lettre d&#8217;actu 2024-04-17T12:16:29.000Z Lettre d’actu – Portraits de quartiers rénovés : diversité des projets et de leurs impacts",
+      "premiumSummary": ""
+    },
+    {
       "id": "plan-batiment-durable-6-1709899462000",
       "title": "Pérenniser la sobriété énergétique dans les logements : le rapport est publié !",
       "source": "Plan Bâtiment Durable",
@@ -3449,6 +4544,125 @@
         "Confort d’été"
       ],
       "summary": "Avec le soutien de l'ADEME et de pilotes issus de la filière (Ifpeb, OID), ainsi qu'avec l'appui des services de la DGALN, DGEC et du CGDD, le Plan Bâtiment Durable publie un rapport sur la sobriété énergétique du secteur résidentiel. Elaboré dans le cadre de l'acte 2 du plan de …",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fnau-6-1709468051000",
+      "title": "Lettre d’actu – Accélérer la transformation du parc de logements existant",
+      "source": "FNAU",
+      "sourceId": "fnau",
+      "sourceType": "Réseau agences urbanisme",
+      "region": "National",
+      "url": "https://fnau.org/fr/lettre-dactu-accelerer-la-transformation-du-parc-de-logements-existant/",
+      "image": "https://fnau.org/wp-content/uploads/2016/03/fnau-logo-a4a.jpg",
+      "date": "2024-03-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Agences urbanisme",
+        "Habitat",
+        "Foncier",
+        "Territoires"
+      ],
+      "summary": "Lire la lettre d’actu Lire la lettre d&#8217;actu 2024-03-03T12:14:11.000Z Lettre d’actu – Accélérer la transformation du parc de logements existant",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fnau-7-1708701627000",
+      "title": "Actes du séminaire de la Fnau – Vers l’objectif « zéro artificialisation nette » quelles stratégies et outils de lutte contre l’artificialisation des sols en Europe ?",
+      "source": "FNAU",
+      "sourceId": "fnau",
+      "sourceType": "Réseau agences urbanisme",
+      "region": "National",
+      "url": "https://fnau.org/fr/actes-du-seminaire-de-la-fnau-vers-lobjectif-zero-artificialisation-nette-quelles-strategies-et-outils-de-lutte-contre-lartificialisation-des-sols-en-europe/",
+      "image": "https://fnau.org/wp-content/uploads/2016/03/fnau-logo-a4a.jpg",
+      "date": "2024-02-23",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 98,
+      "tags": [
+        "Agences urbanisme",
+        "Habitat",
+        "Foncier",
+        "Territoires",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "L ’Etat français, au travers la loi Climat et Résilience de 2020, a donné un cadre pour mettre en œuvre une stratégie de sobriété foncière, en instaurant notamment le principe de zéro artificialisation nette des sols à 2050. Cet objectif s’inscrit dans un objectif européen plus l…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fnau-8-1708620671000",
+      "title": "Livret Atelier Vers villes africaines durables et résilientes",
+      "source": "FNAU",
+      "sourceId": "fnau",
+      "sourceType": "Réseau agences urbanisme",
+      "region": "National",
+      "url": "https://fnau.org/fr/livret-atelier-vers-villes-africaines-durables-et-resilientes/",
+      "image": "https://fnau.org/wp-content/uploads/2016/03/fnau-logo-a4a.jpg",
+      "date": "2024-02-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Agences urbanisme",
+        "Habitat",
+        "Foncier",
+        "Territoires"
+      ],
+      "summary": "L’adaptation, souvent laisser pour compte face à l’atténuation, émerge comme un enjeu clé pour remodeler nos modes de vives et façon d’habiter face aux conditions climatiques extrêmes. Même si Paris s’exerce à répondre à des pics à 50°C, les villes africaines, par leur climat, so…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fnau-9-1706703063000",
+      "title": "Lettre d’actu – Un abécédaire pour appréhender les enjeux de la coopération territoriale",
+      "source": "FNAU",
+      "sourceId": "fnau",
+      "sourceType": "Réseau agences urbanisme",
+      "region": "National",
+      "url": "https://fnau.org/fr/lettre-dactu-un-abecedaire-pour-apprehender-les-enjeux-de-la-cooperation-territoriale/",
+      "image": "https://fnau.org/wp-content/uploads/2016/03/fnau-logo-a4a.jpg",
+      "date": "2024-01-31",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Agences urbanisme",
+        "Habitat",
+        "Foncier",
+        "Territoires"
+      ],
+      "summary": "Lire la lettre d’actu Lire la lettre d&#8217;actu 2024-01-31T12:11:03.000Z Lettre d’actu – Un abécédaire pour appréhender les enjeux de la coopération territoriale",
+      "premiumSummary": ""
+    },
+    {
+      "id": "envirobatbdm-0-1697791303000",
+      "title": "Colloque régional réhabiliter durable",
+      "source": "EnvirobatBDM",
+      "sourceId": "envirobatbdm",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://envirobatbdm.eu/actualites/2023/colloque-regional-rehabiliter-durable",
+      "image": "https://envirobatbdm.eu/sites/default/files/styles/crop_image_style/public/Capture%20d%E2%80%99%C3%A9cran%202023-09-22%20164837.png?itok=unaamaW3",
+      "date": "2023-10-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 98,
+      "tags": [
+        "BDM",
+        "Bâtiment durable",
+        "Méditerranée",
+        "Eau",
+        "Confort d’été",
+        "Biosourcé"
+      ],
+      "summary": "Colloque régional réhabiliter durable Virginie ven 20/10/2023 - 10:41 Pourquoi un colloque \"Réhabiliter durable\" en Région Provence-Alpes-Côte d'Azur ? > Les inscriptions sont ouvertes par ici ! EnvirobatBDM lance en 2023 la première édition d'un nouveau rendez-vous annuel pour p…",
       "premiumSummary": ""
     },
     {
@@ -3517,6 +4731,28 @@
         "Confort d’été"
       ],
       "summary": "Le plan de sobriété lancé le 6 octobre dernier dans l'urgence de la crise énergétique actuelle a pour objectif de réduire de 10 % en deux ans la consommation énergétique des bâtiments tertiaires. Après avoir réalisé des avancées significatives en matière de réduction de la consom…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "envirobatbdm-1-1604069379000",
+      "title": "Covid-19 : 2ème confinement et poursuite des activités",
+      "source": "EnvirobatBDM",
+      "sourceId": "envirobatbdm",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://envirobatbdm.eu/actualites/2020/covid-19-2eme-confinement-et-poursuite-des-activites",
+      "image": "https://www.envirobatbdm.eu/themes/subtheme/img/logo_carre.png",
+      "date": "2020-10-30",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "BDM",
+        "Bâtiment durable",
+        "Méditerranée"
+      ],
+      "summary": "Covid-19 : 2ème confinement et poursuite des activités Perrine ven 30/10/2020 - 15:49 EnvirobatBDM est le lieu d'une pensée résolument optimiste et d’apprentissage collectif. C’est pourquoi notre activité se poursuit en télétravail, pendant ce 2ème confinement, afin de vous pouvo…",
       "premiumSummary": ""
     }
   ]
