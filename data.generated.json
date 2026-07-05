@@ -1299,29 +1299,7 @@
   ],
   "articles": [
     {
-      "id": "batiactu-3-1783249441000",
-      "title": "Vos obligations en tant qu’employeur vis-à-vis de vos salariés",
-      "source": "Batiactu",
-      "sourceId": "batiactu",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=154714",
-      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=154714",
-      "date": "2026-07-05",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 74,
-      "tags": [
-        "Construction",
-        "Marché",
-        "Réglementation"
-      ],
-      "summary": "La Loi et les conventions collectives du BTP imposent à l'employeur de verser des indemnités à ses salariés en cas d'arrêt de travail, de licenciement ou de départ à la retraite. La Loi et les conventions collectives du BTP imposent à l'employeur de verser des indemnités à ses sa…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "batiactu-7-1783249441000",
+      "id": "batiactu-3-1783258174000",
       "title": "Isolation thermique des tuyauteries",
       "source": "Batiactu",
       "sourceId": "batiactu",
@@ -1340,6 +1318,28 @@
         "Réglementation"
       ],
       "summary": "Conductivité thermique, émissivité, comportement au feu, Kingspan Technical Insulation passe en revue les 5 critères essentiels pour guider les professionnels dans leur choix. Conductivité thermique, émissivité, comportement au feu, Kingspan Technical Insulation passe en revue le…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "batiactu-7-1783258174000",
+      "title": "Vos obligations en tant qu’employeur vis-à-vis de vos salariés",
+      "source": "Batiactu",
+      "sourceId": "batiactu",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=154714",
+      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=154714",
+      "date": "2026-07-05",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 74,
+      "tags": [
+        "Construction",
+        "Marché",
+        "Réglementation"
+      ],
+      "summary": "La Loi et les conventions collectives du BTP imposent à l'employeur de verser des indemnités à ses salariés en cas d'arrêt de travail, de licenciement ou de départ à la retraite. La Loi et les conventions collectives du BTP imposent à l'employeur de verser des indemnités à ses sa…",
       "premiumSummary": ""
     },
     {
@@ -1367,30 +1367,7 @@
       "premiumSummary": ""
     },
     {
-      "id": "batiactu-0-1783086059000",
-      "title": "Pour ses vœux d'été, la Capeb regarde vers la présidentielle",
-      "source": "Batiactu",
-      "sourceId": "batiactu",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiactu.com/edito/ses-voeux-ete-capeb-regarde-vers-presidentielles-74898.php",
-      "image": "https://www.batiactu.com/images/auto/300-226-c/20260703_150326_jc-repon-capeb.jpg",
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Construction",
-        "Marché",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "ENTREPRISES. Jean-Christophe Repon, président de l'organisation professionnelle, a fait le point sur les enjeux à venir pour les artisans. ENTREPRISES. Jean-Christophe Repon, président de l'organisation professionnelle, a fait le point sur les enjeux à venir pour les artisans. 20…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "batiactu-1-1783094579000",
+      "id": "batiactu-0-1783094579000",
       "title": "Dans le bassin d'Arcachon, la cabane tchanquée de l'île aux Oiseaux retrouve le rythme des marées",
       "source": "Batiactu",
       "sourceId": "batiactu",
@@ -1412,6 +1389,29 @@
         "Biosourcé"
       ],
       "summary": "CHANTIER D'ARTISAN. Typique de la région, l'ouvrage en bois monté sur pilotis a été intégralement reconstruit sur la commune de La Teste-de-Buch, dans le département de la Gironde. Le chantier basé sur du hors-site a été conduit dans un environnement contraint soumis aux aléas de…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "batiactu-1-1783086059000",
+      "title": "Pour ses vœux d'été, la Capeb regarde vers la présidentielle",
+      "source": "Batiactu",
+      "sourceId": "batiactu",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiactu.com/edito/ses-voeux-ete-capeb-regarde-vers-presidentielles-74898.php",
+      "image": "https://www.batiactu.com/images/auto/300-226-c/20260703_150326_jc-repon-capeb.jpg",
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Construction",
+        "Marché",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "ENTREPRISES. Jean-Christophe Repon, président de l'organisation professionnelle, a fait le point sur les enjeux à venir pour les artisans. ENTREPRISES. Jean-Christophe Repon, président de l'organisation professionnelle, a fait le point sur les enjeux à venir pour les artisans. 20…",
       "premiumSummary": ""
     },
     {
@@ -1922,7 +1922,7 @@
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Provence-Alpes-Côte d’Azur",
       "url": "https://www.agam.org/lessentiel-de-lagam-juin-2026/",
-      "image": "https://img-cache.net/im/1630857/e169bc75972adb8fa0235163ca2b980af32eb4350ddf8a890483be9108ada956.jpg?e=iexne-7CTOv7xodgoh1TjHpILcV5mg3WQUvRKuhs17JUSearNnJGmTGPCXGt0g3uv64sMoYjKs0pGvtcHLpt_uA-yTRF0lXH5W8Rvj071N_wmirpjlAe08GId2TcluyHZIC0CjRr3D37USxYMMn9Z9Vuulv5S0-dFu_l458FCHv9440A58qYrG6G474dlUx7lspTq0T9LuGf54mwHj1DqUUabTp4Jo4UJsInwU4_7y6vPZE",
+      "image": "https://img-cache.net/im/1630857/e169bc75972adb8fa0235163ca2b980af32eb4350ddf8a890483be9108ada956.jpg?e=Xt2FSLfRNbIucfKWiPabu7JIbiS08n_dsA_Rc0QS5xuoZX2PXXqkmK3mJOXt8r4X2hiiN4s0zrGgjgiwYmZ1QyTyrbiSkKI31MA3HOHgG2HT3W_z8dRPNRWq6_gY9Bn4p2ZvOPXds3Q0N_bWYuR7kcMa8jyFUr08RRWeFr_g95nGDrtRH1GqSDl9hE8cukw0Bza7llClJM521an3V21hevdQBZQrAJYSFhisxtqnzucL95M",
       "date": "2026-07-02",
       "access": "open",
       "official": false,
@@ -2068,6 +2068,50 @@
         "Habitat"
       ],
       "summary": "L’article Feux de forêt, mégafeux : comment mieux prévoir leur propagation et limiter les risques ? est apparu en premier sur AUAT. L’article Feux de forêt, mégafeux : comment mieux prévoir leur propagation et limiter les risques ? est apparu en premier sur AUAT . 2026-06-30T09:1…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "aupa-pays-d-aix-0-1782734695000",
+      "title": "L’observatoire régional des centres-villes",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/lobservatoire-regional-des-centres-villes/",
+      "image": "https://aupa.fr/wp-content/uploads/2026/06/UrbaSud_-Lobservatoire-regional-des-centres-ville_version-web-1.png",
+      "date": "2026-06-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article L’observatoire régional des centres-villes est apparu en premier sur Aupa. L’article L’observatoire régional des centres-villes est apparu en premier sur Aupa . 2026-06-29T12:04:55.000Z L’observatoire régional des centres-villes",
+      "premiumSummary": ""
+    },
+    {
+      "id": "arec-nouvelle-aquitaine-0-1782481377000",
+      "title": "Webinaire OREGES #14 : Travaux énergie-climat 2026",
+      "source": "AREC Nouvelle-Aquitaine",
+      "sourceId": "arec-nouvelle-aquitaine",
+      "sourceType": "Agence énergie-climat",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.arec-nouvelleaquitaine.com/2026/06/26/webinaire-oreges-14-travaux-energie-climat-2026/",
+      "image": "https://www.arec-nouvelleaquitaine.com/wp-content/uploads/2026/06/Webinaire-OREGES-14.png",
+      "date": "2026-06-26",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Données"
+      ],
+      "summary": "Le webinaire du 25 juin 2026 a permis de présenter... L’article Webinaire OREGES #14 : Travaux énergie-climat 2026 est apparu en premier sur AREC Nouvelle-Aquitaine. Le webinaire du 25 juin 2026 a permis de présenter... L’article Webinaire OREGES #14 : Travaux énergie-climat 2026…",
       "premiumSummary": ""
     },
     {
@@ -2305,6 +2349,94 @@
       "premiumSummary": ""
     },
     {
+      "id": "aupa-pays-d-aix-1-1782114923000",
+      "title": "L’observation au service de l’optimisation des zones d’activités économiques",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/lobservation-au-service-de-loptimisation-des-zones-dactivites-economiques/",
+      "image": "https://aupa.fr/wp-content/uploads/2026/06/vignette_observation_au_service_des_zae-1.jpg",
+      "date": "2026-06-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article L’observation au service de l’optimisation des zones d’activités économiques est apparu en premier sur Aupa. L’article L&rsquo;observation au service de l&rsquo;optimisation des zones d&rsquo;activités économiques est apparu en premier sur Aupa . 2026-06-22T07:55:23.000…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "arb-nouvelle-aquitaine-0-1782104410000",
+      "title": "Les acteurs de la biodiversité en Nouvelle-Aquitaine",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/les-acteurs-de-la-biodiversite-en-nouvelle-aquitaine/",
+      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2025/03/cropped-LOGO_ARB2025_carr%C3%A9-02-02.jpg",
+      "date": "2026-06-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données"
+      ],
+      "summary": "Ce document présente les différents acteurs et partenaires engagés en faveur de la biodiversité en Nouvelle-Aquitaine, pour mieux comprendre leurs missions, leurs complémentarités et leurs interactions. Il n’a pas de caractère exhaustif. Ce document présente les différents acteur…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "arb-nouvelle-aquitaine-1-1782104841000",
+      "title": "Nouvelle publication : Les acteurs de la biodiversité en Nouvelle-Aquitaine 2026",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/nouvelle-publication-les-acteurs-de-la-biodiversite-en-nouvelle-aquitaine-2026/",
+      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/06/couverture.png",
+      "date": "2026-06-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données"
+      ],
+      "summary": "Qui fait quoi en faveur de la biodiversité sur notre territoire ? La biodiversité, au-delà de sa valeur intrinsèque, est un support de l’identité des territoires, à l’origine de nombreux services écosystémiques. Sa connaissance, sa mise en valeur, sa restauration, […] Qui fait qu…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "arec-nouvelle-aquitaine-1-1781960966000",
+      "title": "Une Assemblée Générale 2026 au service des transitions et de la donnée",
+      "source": "AREC Nouvelle-Aquitaine",
+      "sourceId": "arec-nouvelle-aquitaine",
+      "sourceType": "Agence énergie-climat",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.arec-nouvelleaquitaine.com/2026/06/20/assemblee-generale-2026-au-service-des-transitions-et-de-la-donnee/",
+      "image": "https://www.arec-nouvelleaquitaine.com/wp-content/uploads/2025/06/Vignettes-AG-2025.png",
+      "date": "2026-06-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Données"
+      ],
+      "summary": "L'AREC Nouvelle-Aquitaine a tenu son AG ... L’article Une Assemblée Générale 2026 au service des transitions et de la donnée est apparu en premier sur AREC Nouvelle-Aquitaine. L'AREC Nouvelle-Aquitaine a tenu son AG ... L’article Une Assemblée Générale 2026 au service des transit…",
+      "premiumSummary": ""
+    },
+    {
       "id": "observatoire-de-l-immobilier-durable-oid-0-1781879597000",
       "title": "Décret tertiaire : un retour d’expérience pour lever les freins et pérenniser les efforts",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -2399,6 +2531,28 @@
         "Habitat"
       ],
       "summary": "L’article Ombrage de l’espace public dans la Métropole AMP est apparu en premier sur AGAM. L’article Ombrage de l&rsquo;espace public dans la Métropole AMP est apparu en premier sur AGAM . 2026-06-16T09:39:13.000Z Ombrage de l’espace public dans la Métropole AMP",
+      "premiumSummary": ""
+    },
+    {
+      "id": "arec-nouvelle-aquitaine-2-1781595261000",
+      "title": "Plastiques recyclés : une nouvelle enquête pour mieux comprendre les flux en Nouvelle-Aquitaine",
+      "source": "AREC Nouvelle-Aquitaine",
+      "sourceId": "arec-nouvelle-aquitaine",
+      "sourceType": "Agence énergie-climat",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.arec-nouvelleaquitaine.com/2026/06/16/plastiques-recycles-une-nouvelle-enquete-pour-mieux-comprendre-les-flux-en-nouvelle-aquitaine/",
+      "image": "https://www.arec-nouvelleaquitaine.com/wp-content/uploads/2021/10/Etude-filie%CC%80re-plastique-AREC-1024x684.png",
+      "date": "2026-06-16",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Données"
+      ],
+      "summary": "En 2026, l’AREC Nouvelle-Aquitaine relance son enquête... L’article Plastiques recyclés : une nouvelle enquête pour mieux comprendre les flux en Nouvelle-Aquitaine est apparu en premier sur AREC Nouvelle-Aquitaine. En 2026, l’AREC Nouvelle-Aquitaine relance son enquête... L’artic…",
       "premiumSummary": ""
     },
     {
@@ -2538,6 +2692,28 @@
         "Habitat"
       ],
       "summary": "L’article Fédération nationale des agences d’urbanisme (FNAU) est apparu en premier sur AGAM. L’article Fédération nationale des agences d’urbanisme (FNAU) est apparu en premier sur AGAM . 2026-06-10T14:03:56.000Z Fédération nationale des agences d’urbanisme (FNAU)",
+      "premiumSummary": ""
+    },
+    {
+      "id": "arb-nouvelle-aquitaine-2-1781081588000",
+      "title": "BSH mai 2026",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/bsh-mai-2026/",
+      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2025/03/cropped-LOGO_ARB2025_carr%C3%A9-02-02.jpg",
+      "date": "2026-06-10",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données"
+      ],
+      "summary": "2026-06-10T08:53:08.000Z BSH mai 2026",
       "premiumSummary": ""
     },
     {
@@ -2753,6 +2929,29 @@
       "premiumSummary": ""
     },
     {
+      "id": "arb-nouvelle-aquitaine-3-1780639231000",
+      "title": "Le martinet noir en centre de soins faune sauvage : un oiseau hors du commun",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/le-martinet-noir-en-centre-de-soins-faune-sauvage-un-oiseau-hors-du-commun/",
+      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/06/photos-ptit-jean-018-1024x683.jpg",
+      "date": "2026-06-05",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données",
+        "Eau"
+      ],
+      "summary": "Chaque année, durant la période estivale, les centres de soins de la faune sauvage accueillent un grand nombre de martinets noirs en détresse. Cet oiseau fascinant, au mode de vie unique, requiert une attention particulière et une prise en charge […] Chaque année, durant la pério…",
+      "premiumSummary": ""
+    },
+    {
       "id": "inc-institut-national-de-la-consommation-5-1780575779000",
       "title": "Saisies sur compte : quand les frais bancaires aggravent l’endettement",
       "source": "INC — Institut National de la Consommation",
@@ -2799,6 +2998,28 @@
         "Réemploi"
       ],
       "summary": "À partir du 1er septembre 2026, tous les élèves de 4e bénéficieront de cours d’éducation financière avec le Passeport Educfi pour mieux comprendre l’argent, faire des choix de consommation éclairés au quotidien. L’objectif est de préparer les jeunes à gérer leurs finances de mani…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "arb-nouvelle-aquitaine-4-1780555018000",
+      "title": "Lettre d’information – Juin 2026",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/lettre-dinformation-juin-2026/",
+      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2025/03/cropped-LOGO_ARB2025_carr%C3%A9-02-02.jpg",
+      "date": "2026-06-04",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données"
+      ],
+      "summary": "2026-06-04T06:36:58.000Z Lettre d’information – Juin 2026",
       "premiumSummary": ""
     },
     {
@@ -2919,6 +3140,29 @@
       "premiumSummary": ""
     },
     {
+      "id": "arb-nouvelle-aquitaine-5-1779961713000",
+      "title": "Des premières restrictions d’usages de l’eau en Nouvelle-Aquitaine",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/des-premieres-restrictions-dusages-de-leau-en-nouvelle-aquitaine-2/",
+      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/05/Capture-decran-2026-05-28-115415.png",
+      "date": "2026-05-28",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données",
+        "Eau"
+      ],
+      "summary": "Malgré une recharge hivernale 2025-2026 des ressources en eau favorable en région, le déficit de pluies sur les mois de mars et avril a généré une baisse rapide des niveaux d’eau en particulier pour les cours d’eau. Des premières mesures […] Malgré une recharge hivernale 2025-202…",
+      "premiumSummary": ""
+    },
+    {
       "id": "observatoire-de-l-immobilier-durable-oid-3-1779895201000",
       "title": "Are ESG backlash and market uncertainty reshaping the real estate sector’s approach to sustainability? [ESREI Conference Summary]",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -2968,6 +3212,72 @@
       "premiumSummary": ""
     },
     {
+      "id": "arec-nouvelle-aquitaine-3-1779458538000",
+      "title": "Retour sur le Comité des partenaires de l’ORDEC du 21 mai 2026",
+      "source": "AREC Nouvelle-Aquitaine",
+      "sourceId": "arec-nouvelle-aquitaine",
+      "sourceType": "Agence énergie-climat",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.arec-nouvelleaquitaine.com/2026/05/22/retour-sur-le-comite-des-partenaires-de-lordec-du-21-mai-2026/",
+      "image": "https://www.arec-nouvelleaquitaine.com/wp-content/uploads/2026/05/COPAR-de-lORDEC-2026-5.png",
+      "date": "2026-05-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Données"
+      ],
+      "summary": "Le Comité des Partenaires de l’ORDEC a réuni plus de 90 participants... L’article Retour sur le Comité des partenaires de l’ORDEC du 21 mai 2026 est apparu en premier sur AREC Nouvelle-Aquitaine. Le Comité des Partenaires de l’ORDEC a réuni plus de 90 participants... L’article Re…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "arec-nouvelle-aquitaine-4-1779113599000",
+      "title": "Photovoltaïque en Nouvelle-Aquitaine : une filière en plein essor portée par les sites majeurs",
+      "source": "AREC Nouvelle-Aquitaine",
+      "sourceId": "arec-nouvelle-aquitaine",
+      "sourceType": "Agence énergie-climat",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.arec-nouvelleaquitaine.com/2026/05/18/photovoltaique-en-nouvelle-aquitaine-une-filiere-en-plein-essor-portee-par-les-sites-majeurs/",
+      "image": "https://www.arec-nouvelleaquitaine.com/wp-content/uploads/2026/05/Chiffres-cles-photovoltaique-2024.png",
+      "date": "2026-05-18",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Données"
+      ],
+      "summary": "Les observatoires OREGES et NAFU publient pour la... L’article Photovoltaïque en Nouvelle-Aquitaine : une filière en plein essor portée par les sites majeurs est apparu en premier sur AREC Nouvelle-Aquitaine. Les observatoires OREGES et NAFU publient pour la... L’article Photovol…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "arb-nouvelle-aquitaine-6-1778654896000",
+      "title": "BSH avril 2026",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/bsh-avril-2026/",
+      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2025/03/cropped-LOGO_ARB2025_carr%C3%A9-02-02.jpg",
+      "date": "2026-05-13",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données"
+      ],
+      "summary": "2026-05-13T06:48:16.000Z BSH avril 2026",
+      "premiumSummary": ""
+    },
+    {
       "id": "addrn-0-1778571322000",
       "title": "la servitude de résidence principale",
       "source": "ADDRN",
@@ -2993,6 +3303,52 @@
       "premiumSummary": ""
     },
     {
+      "id": "arb-nouvelle-aquitaine-7-1778488626000",
+      "title": "De nouveaux aménagements pour le Centre de soins LPO Aquitaine",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/de-nouveaux-amenagements-pour-le-centre-de-soins-lpo-aquitaine/",
+      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/05/Media-10-1024x768.jpeg",
+      "date": "2026-05-11",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données",
+        "Eau"
+      ],
+      "summary": "Grâce au financement du ZEvent (un événement caritatif organisé en 2022 visant à collecter des fonds par le biais du streaming), à Cheops Technology, fidèle partenaire du centre de soins, ainsi qu’au grand public, de nouveaux aménagements ont pu voir […] Grâce au financement du Z…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "arb-nouvelle-aquitaine-8-1778056079000",
+      "title": "Rapport d’activité 2025 – bilan & perspectives de l’année",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/rapport-dactivite-2025-bilan-perspectives-de-lannee/",
+      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/05/Screenshot-2026-05-06-102634.png",
+      "date": "2026-05-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données",
+        "Eau"
+      ],
+      "summary": "Une année de montée en puissance, de partenariats renforcés et d’actions concrètes en faveur de la biodiversité et de l’eau en Nouvelle-Aquitaine. L’Agence Régionale de la Biodiversité Nouvelle-Aquitaine publie son rapport d’activité 2025. Ce document retrace une année particuliè…",
+      "premiumSummary": ""
+    },
+    {
       "id": "association-bbca-5-1778001456000",
       "title": "Newsletter BBCA #25 – 5 mai 2026",
       "source": "Association BBCA",
@@ -3012,6 +3368,50 @@
         "Observatoire"
       ],
       "summary": "Découvrez le sommaire de la newsletter BBCA n°25 du 5 mai 2026. L’article Newsletter BBCA #25 – 5 mai 2026 est apparu en premier sur Association BBCA. Découvrez le sommaire de la newsletter BBCA n°25 du 5 mai 2026. L’article Newsletter BBCA #25 &#8211; 5 mai 2026 est apparu en pr…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "aupa-pays-d-aix-2-1777968238000",
+      "title": "Observatoire du logement des Hautes-Alpes",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/observatoire-du-logement-des-hautes-alpes/",
+      "image": "https://aupa.fr/wp-content/uploads/2026/05/Observatoire-logement-05.jpg",
+      "date": "2026-05-05",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Observatoire du logement des Hautes-Alpes est apparu en premier sur Aupa. L’article Observatoire du logement des Hautes-Alpes est apparu en premier sur Aupa . 2026-05-05T08:03:58.000Z Observatoire du logement des Hautes-Alpes",
+      "premiumSummary": ""
+    },
+    {
+      "id": "arb-nouvelle-aquitaine-9-1777970928000",
+      "title": "Lettre d’information – Mai 2026",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/lettre-dinformation-mai-2026/",
+      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2025/03/cropped-LOGO_ARB2025_carr%C3%A9-02-02.jpg",
+      "date": "2026-05-05",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données"
+      ],
+      "summary": "2026-05-05T08:48:48.000Z Lettre d’information – Mai 2026",
       "premiumSummary": ""
     },
     {
@@ -3180,6 +3580,50 @@
       "premiumSummary": ""
     },
     {
+      "id": "aupa-pays-d-aix-3-1776781845000",
+      "title": "Une agriculture locale à la croisée des transitions",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/une-agriculture-locale-a-la-croisee-des-transitions/",
+      "image": "https://aupa.fr/wp-content/uploads/2026/04/Portrait_Agricole_AMP_2025_Version_17_12_2025_Page_01-scaled.jpg",
+      "date": "2026-04-21",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Une agriculture locale à la croisée des transitions est apparu en premier sur Aupa. L’article Une agriculture locale à la croisée des transitions est apparu en premier sur Aupa . 2026-04-21T14:30:45.000Z Une agriculture locale à la croisée des transitions",
+      "premiumSummary": ""
+    },
+    {
+      "id": "aupa-pays-d-aix-4-1776778773000",
+      "title": "La cotation de la demande de logement social en Provence-Alpes-Côte d’Azur",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/la-cotation-de-la-demande-de-logement-social-en-provence-alpes-cote-dazur/",
+      "image": "https://aupa.fr/wp-content/uploads/2026/04/Urbasud-publi-1.png",
+      "date": "2026-04-21",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article La cotation de la demande de logement social en Provence-Alpes-Côte d’Azur est apparu en premier sur Aupa. L’article La cotation de la demande de logement social en Provence-Alpes-Côte d’Azur est apparu en premier sur Aupa . 2026-04-21T13:39:33.000Z La cotation de la de…",
+      "premiumSummary": ""
+    },
+    {
       "id": "plan-batiment-durable-1-1776688229000",
       "title": "Le Plan Bâtiment Durable est signataire du manifeste d'ACTEE",
       "source": "Plan Bâtiment Durable",
@@ -3318,6 +3762,29 @@
       "premiumSummary": ""
     },
     {
+      "id": "arec-nouvelle-aquitaine-5-1775203433000",
+      "title": "OREGES Nouvelle-Aquitaine : les priorités énergie-climat pour 2026 dévoilées lors du webinaire adhérents",
+      "source": "AREC Nouvelle-Aquitaine",
+      "sourceId": "arec-nouvelle-aquitaine",
+      "sourceType": "Agence énergie-climat",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.arec-nouvelleaquitaine.com/2026/04/03/oreges-nouvelle-aquitaine-les-priorites-energie-climat-pour-2026-devoilees-lors-du-webinaire-adherents/",
+      "image": "https://www.arec-nouvelleaquitaine.com/wp-content/uploads/2026/04/Vignettes-webinaire-OREGES-adherents.png",
+      "date": "2026-04-03",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Données",
+        "RE2020"
+      ],
+      "summary": "L’OREGES Nouvelle-Aquitaine a présenté, lors du webinaire adhérents... L’article OREGES Nouvelle-Aquitaine : les priorités énergie-climat pour 2026 dévoilées lors du webinaire adhérents est apparu en premier sur AREC Nouvelle-Aquitaine. L’OREGES Nouvelle-Aquitaine a présenté, lor…",
+      "premiumSummary": ""
+    },
+    {
       "id": "observatoire-de-l-immobilier-durable-oid-8-1775115483000",
       "title": "[ESREI’s European Tour] What’s to come for sustainable real estate in Belgium? – With Belgian GBC",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -3362,6 +3829,29 @@
         "Confort d’été"
       ],
       "summary": "Une animation pour s’engager dans une trajectoire de sobriété foncière : Play-ZAN Réduire la consommation d’espaces pour atteindre le Zéro Artificialisation Nette à l’horizon 2050, c’est la trajectoire que les territoires doivent intégrer lors de l’élaboration ou la révision de l…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "aupa-pays-d-aix-5-1775037676000",
+      "title": "Surchauffe urbaine : comment adapter nos centres historiques patrimoniaux ?",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/surchauffe-urbaine-comment-adapter-nos-centres-historiques-patrimoniaux/",
+      "image": "https://aupa.fr/wp-content/uploads/2025/01/std-colloque-drac-carre2-e1739281153786.png",
+      "date": "2026-04-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat",
+        "Confort d’été"
+      ],
+      "summary": "L’article Surchauffe urbaine : comment adapter nos centres historiques patrimoniaux ? est apparu en premier sur Aupa. L’article Surchauffe urbaine : comment adapter nos centres historiques patrimoniaux ? est apparu en premier sur Aupa . 2026-04-01T10:01:16.000Z Surchauffe urbaine…",
       "premiumSummary": ""
     },
     {
@@ -3411,6 +3901,28 @@
         "Matériaux"
       ],
       "summary": "Les inscriptions sont désormais closes. L’article Les inscriptions à notre Assemblée annuelle sont désormais ouvertes ! est apparu en premier sur Inies. Les inscriptions sont désormais closes. L’article Les inscriptions à notre Assemblée annuelle sont désormais ouvertes ! est app…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "arec-nouvelle-aquitaine-6-1773824176000",
+      "title": "Retour sur le groupe de travail Collectivités : renforcer la dynamique régionale en 2026",
+      "source": "AREC Nouvelle-Aquitaine",
+      "sourceId": "arec-nouvelle-aquitaine",
+      "sourceType": "Agence énergie-climat",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.arec-nouvelleaquitaine.com/2026/03/18/retour-sur-le-groupe-de-travail-collectivites-renforcer-la-dynamique-regionale-en-2026/",
+      "image": "https://www.arec-nouvelleaquitaine.com/wp-content/uploads/2026/03/GT-collectivites-2026.png",
+      "date": "2026-03-18",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Données"
+      ],
+      "summary": "L'AREC a réuni en distanciel ... L’article Retour sur le groupe de travail Collectivités : renforcer la dynamique régionale en 2026 est apparu en premier sur AREC Nouvelle-Aquitaine. L'AREC a réuni en distanciel ... L’article Retour sur le groupe de travail Collectivités : renfor…",
       "premiumSummary": ""
     },
     {
@@ -3549,6 +4061,50 @@
       "premiumSummary": ""
     },
     {
+      "id": "arec-nouvelle-aquitaine-7-1770043111000",
+      "title": "L’ORDEC dévoile ses premiers chiffres-clés 2024 !",
+      "source": "AREC Nouvelle-Aquitaine",
+      "sourceId": "arec-nouvelle-aquitaine",
+      "sourceType": "Agence énergie-climat",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.arec-nouvelleaquitaine.com/2026/02/02/lordec-devoile-ses-premiers-chiffres-cles-2024/",
+      "image": "https://www.arec-nouvelleaquitaine.com/wp-content/uploads/2026/02/Chiffres-cles-2024.png",
+      "date": "2026-02-02",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Données"
+      ],
+      "summary": "Les données 2024 de l'ORDEC... L’article L’ORDEC dévoile ses premiers chiffres-clés 2024 ! est apparu en premier sur AREC Nouvelle-Aquitaine. Les données 2024 de l'ORDEC... L’article L&rsquo;ORDEC dévoile ses premiers chiffres-clés 2024 ! est apparu en premier sur AREC Nouvelle-A…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "aupa-pays-d-aix-6-1769940780000",
+      "title": "Observatoire territorial du logement étudiant Aix-Marseille-Provence",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/observatoire-territorial-du-logement-etudiant-aix-marseille-provence/",
+      "image": "https://aupa.fr/wp-content/uploads/2025/05/vignette-otle-web.jpg",
+      "date": "2026-02-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Observatoire territorial du logement étudiant Aix-Marseille-Provence est apparu en premier sur Aupa. L’article Observatoire territorial du logement étudiant Aix-Marseille-Provence est apparu en premier sur Aupa . 2026-02-01T10:13:00.000Z Observatoire territorial du loge…",
+      "premiumSummary": ""
+    },
+    {
       "id": "alliance-hqe-gbc-5-1769702376000",
       "title": "L’outil E2IC est désormais accessible à l’ensemble des professionnels de la construction et du chantier",
       "source": "Alliance HQE-GBC",
@@ -3569,6 +4125,51 @@
         "Rénovation"
       ],
       "summary": "Après deux années de développement et d’expérimentation, l’outil E2IC (Évaluation Environnementale des Impacts de Chantier) est désormais accessible librement en ligne. Issu d’un projet de recherche appliquée, il vise à mieux objectiver les impacts environnementaux de la phase ch…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "aupa-pays-d-aix-7-1769700235000",
+      "title": "Panorama Emploi-Logement des Alpes-de-Haute-Provence",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/panorama-emploi-logement-des-alpes-de-haute-provence/",
+      "image": "https://aupa.fr/wp-content/uploads/2025/03/poster04.png",
+      "date": "2026-01-29",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation"
+      ],
+      "summary": "L’article Panorama Emploi-Logement des Alpes-de-Haute-Provence est apparu en premier sur Aupa. L’article Panorama Emploi-Logement des Alpes-de-Haute-Provence est apparu en premier sur Aupa . 2026-01-29T15:23:55.000Z Panorama Emploi-Logement des Alpes-de-Haute-Provence",
+      "premiumSummary": ""
+    },
+    {
+      "id": "aupa-pays-d-aix-8-1769696953000",
+      "title": "Une stratégie mobilités et vélo pour Durance Luberon Verdon Agglomération",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/une-strategie-mobilites-et-velo-pour-durance-luberon-verdon-agglomeration/",
+      "image": "https://aupa.fr/wp-content/uploads/2026/01/Plan-velo-DLVA-vignette-1.png",
+      "date": "2026-01-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Une stratégie mobilités et vélo pour Durance Luberon Verdon Agglomération est apparu en premier sur Aupa. L’article Une stratégie mobilités et vélo pour Durance Luberon Verdon Agglomération est apparu en premier sur Aupa . 2026-01-29T14:29:13.000Z Une stratégie mobilité…",
       "premiumSummary": ""
     },
     {
@@ -3595,6 +4196,28 @@
       "premiumSummary": ""
     },
     {
+      "id": "arec-nouvelle-aquitaine-8-1769525629000",
+      "title": "Webinaire OREGES #13 : indicateurs de vulnérabilités climatiques et outils territoriaux",
+      "source": "AREC Nouvelle-Aquitaine",
+      "sourceId": "arec-nouvelle-aquitaine",
+      "sourceType": "Agence énergie-climat",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.arec-nouvelleaquitaine.com/2026/01/27/webinaire-oreges-13-indicateurs-de-vulnerabilites-climatiques-et-outils-territoriaux/",
+      "image": "https://www.arec-nouvelleaquitaine.com/wp-content/uploads/2026/01/Webinaire-OREGES-adaptation-au-changement-climatique.png",
+      "date": "2026-01-27",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Données"
+      ],
+      "summary": "Le webinaire « changement climatique » de l’AREC a permis... L’article Webinaire OREGES #13 : indicateurs de vulnérabilités climatiques et outils territoriaux est apparu en premier sur AREC Nouvelle-Aquitaine. Le webinaire « changement climatique » de l’AREC a permis... L’article…",
+      "premiumSummary": ""
+    },
+    {
       "id": "base-inies-3-1768834572000",
       "title": "Devenez un vérificateur ou une vérificatrice habilité-e du programme INIES !",
       "source": "Base INIES",
@@ -3616,6 +4239,28 @@
         "Matériaux"
       ],
       "summary": "INIES organise sa prochaine session d’habilitation des vérificateurs le 26 mai 2026 ! Les personnes […] L’article Devenez un vérificateur ou une vérificatrice habilité-e du programme INIES ! est apparu en premier sur Inies. INIES organise sa prochaine session d&#8217;habilitation…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "aupa-pays-d-aix-9-1768815921000",
+      "title": "POPSU Intensifications métropolitaines : Les défis de l’intensification métropolitaine sous l’oeil de la recherche",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/popsu-intensifications-metropolitaines-les-defis-de-lintensification-metropolitaine-sous-loeil-de-la-recherche/",
+      "image": "https://aupa.fr/wp-content/uploads/2026/01/couv-popsu.png",
+      "date": "2026-01-19",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article POPSU Intensifications métropolitaines : Les défis de l’intensification métropolitaine sous l’oeil de la recherche est apparu en premier sur Aupa. L’article POPSU Intensifications métropolitaines : Les défis de l&rsquo;intensification métropolitaine sous l&rsquo;oeil de…",
       "premiumSummary": ""
     },
     {
@@ -3914,6 +4559,28 @@
         "Conseil"
       ],
       "summary": "A l’initiative du Président Laurent Lafon, la commission de la Culture du Sénat a organisé une table-ronde, mardi 18 novembre, sur la crise que traversent les CAUE. Cet article SÉNAT – Table-ronde de la commission de la Culture sur la crise des CAUE est apparu en premier sur CAUE…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "arec-nouvelle-aquitaine-9-1764229271000",
+      "title": "Biodéchets en Nouvelle-Aquitaine : retours, enseignements et perspectives du Groupe de Travail ORDEC",
+      "source": "AREC Nouvelle-Aquitaine",
+      "sourceId": "arec-nouvelle-aquitaine",
+      "sourceType": "Agence énergie-climat",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.arec-nouvelleaquitaine.com/2025/11/27/biodechets-en-nouvelle-aquitaine-retours-enseignements-et-perspectives-du-groupe-de-travail-ordec/",
+      "image": "https://www.arec-nouvelleaquitaine.com/wp-content/uploads/2025/01/GT-BIODECHETS.png",
+      "date": "2025-11-27",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Données"
+      ],
+      "summary": "L'AREC a réuni en distanciel ... L’article Biodéchets en Nouvelle-Aquitaine : retours, enseignements et perspectives du Groupe de Travail ORDEC est apparu en premier sur AREC Nouvelle-Aquitaine. L'AREC a réuni en distanciel ... L’article Biodéchets en Nouvelle-Aquitaine : retours…",
       "premiumSummary": ""
     },
     {
@@ -4276,6 +4943,30 @@
       "premiumSummary": ""
     },
     {
+      "id": "cycle-up-0-1736173805000",
+      "title": "Les bonnes pratiques d’un grutage en toiture : retour d’expérience sur le projet Avant Seine",
+      "source": "Cycle Up",
+      "sourceId": "cycle-up",
+      "sourceType": "Plateforme / données",
+      "region": "National",
+      "url": "https://cycle-up.fr/notre-univers-du-reemploi/bonnes-pratiques/bonnes-pratiques-grutage-toiture-rex/",
+      "image": "https://cycle-up.fr/wp-content/uploads/2025/01/projet-Avant-seine-cycle-up-3-min.jpg",
+      "date": "2025-01-06",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Réemploi",
+        "Économie circulaire",
+        "Matériaux",
+        "Carbone",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le marché des éléments techniques de seconde main connaît une dynamique en pleine expansion, particulièrement dans le secteur de la construction. Réutiliser des équipements comme des groupes froids ou des groupes électrogènes permet non seulement de réduire l’empreinte carbone, m…",
+      "premiumSummary": ""
+    },
+    {
       "id": "a-u-montpellier-8-1735813347000",
       "title": "L'A'U vous souhaite ses meilleurs vœux pour l'année 2025",
       "source": "A’U Montpellier",
@@ -4321,6 +5012,29 @@
       "premiumSummary": ""
     },
     {
+      "id": "cycle-up-1-1733819941000",
+      "title": "Focus sur des filières de réemploi méconnues",
+      "source": "Cycle Up",
+      "sourceId": "cycle-up",
+      "sourceType": "Plateforme / données",
+      "region": "National",
+      "url": "https://cycle-up.fr/notre-univers-du-reemploi/inspirations/focus-sur-des-filieres-de-reemploi-meconnues/",
+      "image": "https://cycle-up.fr/wp-content/uploads/2024/12/image-1.png",
+      "date": "2024-12-10",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réemploi",
+        "Économie circulaire",
+        "Matériaux",
+        "Réglementation"
+      ],
+      "summary": "Depuis 2017, nous accompagnons acteurs de la construction dans leurs projets immobiliers afin de développer le réemploi des matériaux de construction. Avec plus de 700 projets accompagnés, il est intéressant de constater que certaines typologies de matériaux reviennent fréquemmen…",
+      "premiumSummary": ""
+    },
+    {
       "id": "bruitparif-6-1733270400000",
       "title": "Le prototype de radar sonore Hydre mis au point par Bruitparif aux fins de contrôle-sanction des véhicules excessivement bruyants",
       "source": "Bruitparif",
@@ -4362,6 +5076,30 @@
         "Île-de-France"
       ],
       "summary": "Bruitparif publie un premier bilan issu des données des mesures réalisées le long du périphérique… Bruitparif publie un premier bilan issu des données des mesures réalisées le long du périphérique&#x2026; 2024-12-03T00:00:00.000Z L'impact acoustique de la baisse de vitesse sur le…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "cycle-up-2-1732636154000",
+      "title": "Assurabilité des matériaux de réemploi : lever les doutes pour accélérer la transition",
+      "source": "Cycle Up",
+      "sourceId": "cycle-up",
+      "sourceType": "Plateforme / données",
+      "region": "National",
+      "url": "https://cycle-up.fr/notre-univers-du-reemploi/reglementations/assurabilite-materiaux-reemploi-lever-doutes/",
+      "image": "https://cycle-up.fr/wp-content/uploads/2024/11/image-5.png",
+      "date": "2024-11-26",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Réemploi",
+        "Économie circulaire",
+        "Matériaux",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Alors que le réemploi des matériaux de construction s’impose comme un levier essentiel de l’économie circulaire, de nombreux acteurs hésitent encore à s’engager dans cette démarche. Pourquoi ? La question de l’assurabilité reste au cœur des préoccupations. Elle cristallise les...…",
       "premiumSummary": ""
     },
     {
@@ -4457,6 +5195,30 @@
       "premiumSummary": ""
     },
     {
+      "id": "cycle-up-3-1731078258000",
+      "title": "La CSRD : un tournant pour l’économie circulaire dans la construction",
+      "source": "Cycle Up",
+      "sourceId": "cycle-up",
+      "sourceType": "Plateforme / données",
+      "region": "National",
+      "url": "https://cycle-up.fr/notre-univers-du-reemploi/reglementations/csrd-tournant-economie-circulaire-construction/",
+      "image": "https://cycle-up.fr/wp-content/uploads/2024/11/2.png",
+      "date": "2024-11-08",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Réemploi",
+        "Économie circulaire",
+        "Matériaux",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Depuis janvier 2024, la directive européenne CSRD (Corporate Sustainability Reporting Directive) est entrée en vigueur, marquant une nouvelle étape dans la réglementation de la durabilité des entreprises. Cette directive renforce les obligations de transparence des entreprises su…",
+      "premiumSummary": ""
+    },
+    {
       "id": "a-u-montpellier-9-1730725605000",
       "title": "Boite à outils de l'habitat",
       "source": "A’U Montpellier",
@@ -4479,6 +5241,54 @@
       "premiumSummary": ""
     },
     {
+      "id": "cycle-up-4-1728661013000",
+      "title": "Comment rédiger un marché de travaux intégrant des clauses de réemploi ?",
+      "source": "Cycle Up",
+      "sourceId": "cycle-up",
+      "sourceType": "Plateforme / données",
+      "region": "National",
+      "url": "https://cycle-up.fr/notre-univers-du-reemploi/bonnes-pratiques/comment-rediger-marche-travaux-integrant-clauses-reemploi/",
+      "image": "https://cycle-up.fr/wp-content/uploads/2024/10/travaux.jpg",
+      "date": "2024-10-11",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 98,
+      "tags": [
+        "Réemploi",
+        "Économie circulaire",
+        "Matériaux",
+        "Réglementation",
+        "RE2020",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le réemploi des matériaux de construction commence à trouver sa place dans les pratiques des entreprises du bâtiment, notamment en réponse aux enjeux de durabilité et d’économie circulaire. Cependant, la plupart des acteurs, qu’il s’agisse d’entreprises ou de maîtres d’œuvre,... …",
+      "premiumSummary": ""
+    },
+    {
+      "id": "cycle-up-5-1727452599000",
+      "title": "Pourquoi le réemploi des matériaux a un impact social ?",
+      "source": "Cycle Up",
+      "sourceId": "cycle-up",
+      "sourceType": "Plateforme / données",
+      "region": "National",
+      "url": "https://cycle-up.fr/notre-univers-du-reemploi/inspirations/pourquoi-le-reemploi-des-materiaux-a-un-impact-social/",
+      "image": "https://cycle-up.fr/wp-content/uploads/2024/09/formation.jpg",
+      "date": "2024-09-27",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réemploi",
+        "Économie circulaire",
+        "Matériaux",
+        "Réglementation"
+      ],
+      "summary": "Le réemploi des matériaux et le reconditionnement sont devenus des piliers essentiels dans la transition écologique et sociale. En effet, au-delà de leur rôle crucial dans la réduction des déchets et de la préservation des ressources, ces pratiques jouent un... Le réemploi des ma…",
+      "premiumSummary": ""
+    },
+    {
       "id": "bruitparif-9-1727308800000",
       "title": "La Région Île-de-France vote un plan Anti-Bruit",
       "source": "Bruitparif",
@@ -4498,6 +5308,101 @@
         "Île-de-France"
       ],
       "summary": "Lors de la séance plénière de l’Assemblée régionale qui s’est tenue jeudi 26 septembre 2024, la Région Île-de-France a adopté son plan Anti-Bruit… Lors de la séance plénière de l’Assemblée régionale qui s’est tenue jeudi 26 septembre 2024, la Région Île-de-France a adopté son pla…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "cycle-up-6-1725623745000",
+      "title": "Reconditionnement et réemploi de matériaux : quel impact carbone ?",
+      "source": "Cycle Up",
+      "sourceId": "cycle-up",
+      "sourceType": "Plateforme / données",
+      "region": "National",
+      "url": "https://cycle-up.fr/notre-univers-du-reemploi/reglementations/reconditionnement-reemploi-quel-impact-carbone/",
+      "image": "https://cycle-up.fr/wp-content/uploads/2024/02/WC-recond.jpg",
+      "date": "2024-09-06",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Réemploi",
+        "Économie circulaire",
+        "Matériaux",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Le réemploi permet de limiter les émissions de gaz à effet de serre du secteur de la construction en remplaçant des produits et équipements de construction neufs par des matériaux ayant déjà eu une première vie. Forte de sa mission... Le réemploi permet de limiter les émissions d…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "cycle-up-7-1721748881000",
+      "title": "Comment gérer les déchets de chantier : réglementations et bonnes pratiques",
+      "source": "Cycle Up",
+      "sourceId": "cycle-up",
+      "sourceType": "Plateforme / données",
+      "region": "National",
+      "url": "https://cycle-up.fr/notre-univers-du-reemploi/bonnes-pratiques/gerer-dechets-chantier-reglementation-bonnes-pratiques/",
+      "image": "https://cycle-up.fr/wp-content/uploads/2024/07/dechets-de-chantier-scaled.jpg",
+      "date": "2024-07-23",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Réemploi",
+        "Économie circulaire",
+        "Matériaux",
+        "Réglementation",
+        "Rénovation"
+      ],
+      "summary": "La gestion des déchets sur un chantier de construction ou de rénovation est une étape cruciale pour minimiser l’impact environnemental et se conformer aux réglementations en vigueur. Cet article aborde l’enjeu de la gestion des déchets dans une démarche vertueuse... La gestion de…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "cycle-up-8-1721304132000",
+      "title": "Un nouvel atelier de reconditionnement près de Lyon avec Eiffage Construction, Demcy et Item",
+      "source": "Cycle Up",
+      "sourceId": "cycle-up",
+      "sourceType": "Plateforme / données",
+      "region": "National",
+      "url": "https://cycle-up.fr/notre-univers-du-reemploi/actualites-cycle-up/atelier-reconditionnement-lyon-eiffage-demcy-item/",
+      "image": "https://cycle-up.fr/wp-content/uploads/2024/07/atelier-rillieux-cycle-up.jpg",
+      "date": "2024-07-18",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Réemploi",
+        "Économie circulaire",
+        "Matériaux",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Dans un effort concerté pour répondre aux défis de l’économie circulaire et du réemploi, Cycle Up, Eiffage Construction, Demcy et ITEM s’associent pour lancer un atelier de reconditionnement de matériaux de déconstruction à Rillieux-la-Pape (69). Cet espace, d’une superficie de..…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "cycle-up-9-1720790461000",
+      "title": "Une deuxième Grande Boucle du Réemploi en Région Rhône-Alpes",
+      "source": "Cycle Up",
+      "sourceId": "cycle-up",
+      "sourceType": "Plateforme / données",
+      "region": "National",
+      "url": "https://cycle-up.fr/notre-univers-du-reemploi/actualites-cycle-up/grande-boucle-reemploi-aura/",
+      "image": "https://cycle-up.fr/wp-content/uploads/2024/07/etape-SERL-7.jpg?ver=1721117865",
+      "date": "2024-07-12",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réemploi",
+        "Économie circulaire",
+        "Matériaux",
+        "Réglementation"
+      ],
+      "summary": "À la suite du succès de la première édition de notre opération de sensibilisation au réemploi, réalisée auprès des acteurs de Bretagne à l’automne 2023, nous avons décidé de renouveler cette opération en 2024 en territoire rhodanien. Pourquoi une Grande... À la suite du succès de…",
       "premiumSummary": ""
     },
     {
