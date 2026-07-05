@@ -1299,7 +1299,30 @@
   ],
   "articles": [
     {
-      "id": "batiactu-3-1783221511000",
+      "id": "batiactu-3-1783241494000",
+      "title": "Les fortes économies liées à une bonne isolation",
+      "source": "Batiactu",
+      "sourceId": "batiactu",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=156157",
+      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=156157",
+      "date": "2026-07-05",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Construction",
+        "Marché",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans une isolation performante, ses performances théoriques chutent et les surcouts énergétiques sont ... Tout réservoir de stockage se doit d'être qualitatif et bien dimensionné. Toutefois, sans…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "batiactu-7-1783241494000",
       "title": "Isolation thermique des tuyauteries",
       "source": "Batiactu",
       "sourceId": "batiactu",
@@ -1318,29 +1341,6 @@
         "Réglementation"
       ],
       "summary": "Conductivité thermique, émissivité, comportement au feu, Kingspan Technical Insulation passe en revue les 5 critères essentiels pour guider les professionnels dans leur choix. Conductivité thermique, émissivité, comportement au feu, Kingspan Technical Insulation passe en revue le…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "batiactu-7-1783221511000",
-      "title": "Préfa béton : le bon calcul pour aménager la ville",
-      "source": "Batiactu",
-      "sourceId": "batiactu",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=155674",
-      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=155674",
-      "date": "2026-07-05",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Construction",
-        "Marché",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Adapter les infrastructures, maîtriser les coûts, limiter les nuisances : les collectivités doivent arbitrer à chaque projet. La préfabrication béton s'impose comme un allié de choix pour ... Adapter les infrastructures, maîtriser les coûts, limiter les nuisances : les collectivi…",
       "premiumSummary": ""
     },
     {
@@ -1368,7 +1368,30 @@
       "premiumSummary": ""
     },
     {
-      "id": "batiactu-0-1783094579000",
+      "id": "batiactu-0-1783086059000",
+      "title": "Pour ses vœux d'été, la Capeb regarde vers la présidentielle",
+      "source": "Batiactu",
+      "sourceId": "batiactu",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiactu.com/edito/ses-voeux-ete-capeb-regarde-vers-presidentielles-74898.php",
+      "image": "https://www.batiactu.com/images/auto/300-226-c/20260703_150326_jc-repon-capeb.jpg",
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Construction",
+        "Marché",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "ENTREPRISES. Jean-Christophe Repon, président de l'organisation professionnelle, a fait le point sur les enjeux à venir pour les artisans. ENTREPRISES. Jean-Christophe Repon, président de l'organisation professionnelle, a fait le point sur les enjeux à venir pour les artisans. 20…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "batiactu-1-1783094579000",
       "title": "Dans le bassin d'Arcachon, la cabane tchanquée de l'île aux Oiseaux retrouve le rythme des marées",
       "source": "Batiactu",
       "sourceId": "batiactu",
@@ -1390,29 +1413,6 @@
         "Biosourcé"
       ],
       "summary": "CHANTIER D'ARTISAN. Typique de la région, l'ouvrage en bois monté sur pilotis a été intégralement reconstruit sur la commune de La Teste-de-Buch, dans le département de la Gironde. Le chantier basé sur du hors-site a été conduit dans un environnement contraint soumis aux aléas de…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "batiactu-1-1783086059000",
-      "title": "Pour ses vœux d'été, la Capeb regarde vers la présidentielle",
-      "source": "Batiactu",
-      "sourceId": "batiactu",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiactu.com/edito/ses-voeux-ete-capeb-regarde-vers-presidentielles-74898.php",
-      "image": "https://www.batiactu.com/images/auto/300-226-c/20260703_150326_jc-repon-capeb.jpg",
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Construction",
-        "Marché",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "ENTREPRISES. Jean-Christophe Repon, président de l'organisation professionnelle, a fait le point sur les enjeux à venir pour les artisans. ENTREPRISES. Jean-Christophe Repon, président de l'organisation professionnelle, a fait le point sur les enjeux à venir pour les artisans. 20…",
       "premiumSummary": ""
     },
     {
