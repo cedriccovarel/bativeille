@@ -1,4 +1,4 @@
-# bativeille — V3
+# bativeille — V4.3
 
 Interface de veille documentaire et réglementaire orientée bâtiment, écologie, économie du bâtiment et cibles Prestaterre.
 
@@ -22,8 +22,8 @@ Interface de veille documentaire et réglementaire orientée bâtiment, écologi
 - `data.js` : base de données utilisée par le site
 - `sources.json` : liste des sources à surveiller
 - `manual_entries.json` : ajouts manuels éventuels
-- `scripts/update-feeds.mjs` : script de collecte RSS/Atom
-- `.github/workflows/update-feeds.yml` : GitHub Action quotidienne
+- `scripts/update-feeds.mjs` : script de collecte multi-méthodes (RSS/Atom, WordPress API, sitemap XML, pages actualités ciblées)
+- `.github/workflows/update-feeds.yml` : GitHub Action toutes les 3 heures
 - `assets/logo-bativeille.svg` : logo
 
 ## Hébergement GitHub Pages
@@ -35,7 +35,7 @@ Interface de veille documentaire et réglementaire orientée bâtiment, écologi
 
 ## Mise à jour automatique des flux
 
-La GitHub Action s’exécute tous les jours.
+La GitHub Action s’exécute toutes les 3 heures et à chaque push sur `main`.
 
 ### Activation
 
@@ -64,6 +64,20 @@ Le formulaire génère un bloc JSON à coller dans `sources.json`.
   "active": true
 }
 ```
+
+
+## Collecte automatique V4.3
+
+Le script cherche les publications dans cet ordre :
+
+1. flux RSS/Atom déclarés ou détectés ;
+2. API WordPress `/wp-json/wp/v2/posts` quand elle existe ;
+3. sitemaps XML (`sitemap.xml`, `sitemap_index.xml`, etc.) ;
+4. pages ciblées de type `actualites`, `news`, `publications`, `articles`, `blog`.
+
+La collecte ne scanne pas tout le site : elle reste limitée à des points d’entrée explicites pour éviter le crawl lourd.
+
+Le fichier `feed-status.json` est généré à chaque exécution et indique, source par source, la méthode utilisée ou la raison probable d’absence de résultat.
 
 ## Lancer localement
 
@@ -174,3 +188,12 @@ Note : cette authentification reste un verrouillage d'interface côté navigateu
 ## Mise a jour automatique
 
 Cette version conserve la mise a jour GitHub Actions toutes les 3 heures (`0 */3 * * *`) et le script RSS ne conserve que les articles dont la date de publication est egale ou posterieure au 2026-07-01. Les flux RSS ne fournissant pas de date exploitable sont ignores pour eviter d'importer des contenus non verifies.
+
+
+## V4.2 - collecte et workflow renforcés
+
+- Mise à jour automatique conservée toutes les 3 heures (`0 */3 * * *`).
+- Le workflow ne masque plus les erreurs de push : si le commit automatique échoue, GitHub Actions l’affichera clairement.
+- Le script teste `rss`, `rssCandidates`, les flux détectés dans le HTML et plusieurs chemins RSS standards.
+- Si aucun flux RSS n’est exploitable, il tente une détection limitée sur la page d’accueil / actualités de la source, sans crawler tout le site.
+- Génération d’un fichier `feed-status.json` pour voir quelles sources ont réellement un flux exploitable.
