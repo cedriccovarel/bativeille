@@ -231,3 +231,16 @@ Le fichier `.nojekyll` est présent à la racine pour éviter tout traitement Je
 
 - Fin forcée du script après écriture des fichiers pour éviter que GitHub Actions reste bloqué avant l’étape de commit.
 - Log explicite : `Fichiers écrits. Fin du script. Passage au commit GitHub Actions.`
+
+## V4.7 - Suppression des anciennes données embarquées
+
+Cette version remet `data.js` a zero dans le ZIP : aucun ancien article de juin n'est embarque dans les fichiers statiques.
+Apres upload dans GitHub, lancez `Actions > Update feeds > Run workflow` pour regenerer `data.js` avec uniquement les publications dont la date est egale ou posterieure au 2026-07-01.
+
+Verification attendue dans `data.js` apres l'action :
+
+```json
+"since": "2026-07-01"
+```
+
+Si la page affiche encore des articles de juin apres l'action, c'est que le navigateur ou GitHub Pages sert une ancienne version : faire un rafraichissement force puis verifier le dernier commit `chore: update feeds`.
