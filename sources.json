@@ -937,11 +937,14 @@
     "defaultTags": [
       "Urbanisme",
       "Aménagement",
-      "Foncier"
+      "Foncier",
+      "Presse professionnelle",
+      "Logement"
     ],
     "official": false,
     "region": "National",
-    "active": true
+    "active": true,
+    "access": "Accès mixte"
   },
   {
     "id": "construction21-france",
@@ -1048,11 +1051,14 @@
     "category": "Architecture, urbanisme & patrimoine",
     "defaultTags": [
       "Architecture",
-      "Projets"
+      "Projets",
+      "Presse professionnelle",
+      "Urbanisme"
     ],
     "official": false,
     "region": "National",
-    "active": true
+    "active": true,
+    "access": "Accès mixte"
   },
   {
     "id": "d-a-d-architectures",
@@ -1093,11 +1099,14 @@
     "category": "Architecture, urbanisme & patrimoine",
     "defaultTags": [
       "Architecture",
-      "Projets"
+      "Projets",
+      "Presse professionnelle",
+      "Urbanisme"
     ],
     "official": false,
     "region": "National",
-    "active": true
+    "active": true,
+    "access": "Accès gratuit partiel"
   },
   {
     "id": "ekopolis",
@@ -2345,6 +2354,956 @@
     ],
     "official": false,
     "region": "Provence-Alpes-Côte d’Azur",
+    "active": true
+  },
+  {
+    "id": "batirama",
+    "name": "Batirama",
+    "siteUrl": "https://www.batirama.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse bâtiment / BTP",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Bâtiment",
+      "BTP",
+      "Artisanat",
+      "Technique"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "batiinfo",
+    "name": "Batiinfo",
+    "siteUrl": "https://www.batiinfo.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse bâtiment / BTP",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Bâtiment",
+      "Produits",
+      "Innovation"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "batitoday",
+    "name": "BatiToday",
+    "siteUrl": "https://www.batitoday.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse bâtiment / BTP",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Bâtiment",
+      "BTP",
+      "Actualités"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "zepros-bati",
+    "name": "Zepros Bâti",
+    "siteUrl": "https://www.zepros.fr/bati",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse bâtiment / BTP",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Bâtiment",
+      "Artisanat",
+      "Négoce"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "negoce",
+    "name": "Négoce",
+    "siteUrl": "https://www.negoce.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse bâtiment / BTP",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Matériaux",
+      "Négoce",
+      "Distribution"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "construction-cayola",
+    "name": "Construction Cayola",
+    "siteUrl": "https://www.constructioncayola.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse bâtiment / BTP",
+    "defaultTags": [
+      "Presse professionnelle",
+      "BTP",
+      "Travaux publics",
+      "Chantiers"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "btp-magazine",
+    "name": "BTP Magazine",
+    "siteUrl": "https://www.btpmagazine.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse bâtiment / BTP",
+    "defaultTags": [
+      "Presse professionnelle",
+      "BTP",
+      "Chantiers",
+      "Entreprises"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "acpresse",
+    "name": "ACPresse",
+    "siteUrl": "https://www.acpresse.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse bâtiment / BTP",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Béton",
+      "Matériaux",
+      "Technique"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "verre-protections-magazine",
+    "name": "Verre & Protections Magazine",
+    "siteUrl": "https://www.verreetprotections.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse bâtiment / BTP",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Menuiseries",
+      "Façades",
+      "Vitrage",
+      "Protection solaire"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "filiere-3e",
+    "name": "Filière 3e",
+    "siteUrl": "https://www.filiere-3e.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse bâtiment / énergie",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Électricité",
+      "CVC",
+      "Bâtiment intelligent",
+      "Énergie"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "xpair",
+    "name": "XPair",
+    "siteUrl": "https://www.xpair.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse technique bâtiment",
+    "defaultTags": [
+      "Presse professionnelle",
+      "CVC",
+      "Génie climatique",
+      "Énergie",
+      "Technique"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "les-cahiers-techniques-du-batiment",
+    "name": "Les Cahiers Techniques du Bâtiment",
+    "siteUrl": "https://www.cahiers-techniques-batiment.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse technique bâtiment",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Technique",
+      "Matériaux",
+      "Systèmes constructifs"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès mixte",
+    "active": true
+  },
+  {
+    "id": "le-moniteur-des-artisans",
+    "name": "Le Moniteur des Artisans",
+    "siteUrl": "https://www.lemoniteur.fr/artisans",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse bâtiment / BTP",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Artisanat",
+      "Bâtiment",
+      "Rénovation"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès mixte",
+    "active": true
+  },
+  {
+    "id": "journal-de-lenvironnement",
+    "name": "Journal de l’Environnement",
+    "siteUrl": "https://www.journaldelenvironnement.net/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse environnement / développement durable",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Environnement",
+      "Réglementation",
+      "Santé",
+      "Climat"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès mixte",
+    "active": true
+  },
+  {
+    "id": "environnement-magazine",
+    "name": "Environnement Magazine",
+    "siteUrl": "https://www.environnement-magazine.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse environnement / développement durable",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Environnement",
+      "Eau",
+      "Déchets",
+      "Collectivités"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès mixte",
+    "active": true
+  },
+  {
+    "id": "techniques-de-lingenieur-actualites",
+    "name": "Techniques de l’Ingénieur Actualités",
+    "siteUrl": "https://www.techniques-ingenieur.fr/actualite/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse technique / ingénierie",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Technique",
+      "Énergie",
+      "Environnement",
+      "Innovation"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "novethic",
+    "name": "Novethic",
+    "siteUrl": "https://www.novethic.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse RSE / finance durable",
+    "defaultTags": [
+      "Presse professionnelle",
+      "RSE",
+      "ESG",
+      "Finance durable",
+      "Climat"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "mediatico",
+    "name": "Mediatico",
+    "siteUrl": "https://www.mediatico.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse RSE / transition",
+    "defaultTags": [
+      "Presse professionnelle",
+      "RSE",
+      "Transition écologique",
+      "Économie sociale"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "reporterre",
+    "name": "Reporterre",
+    "siteUrl": "https://reporterre.net/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse écologie",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Écologie",
+      "Environnement",
+      "Climat"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "vert",
+    "name": "Vert",
+    "siteUrl": "https://vert.eco/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse écologie",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Écologie",
+      "Climat",
+      "Politiques publiques"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "we-demain",
+    "name": "WE Demain",
+    "siteUrl": "https://www.wedemain.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse transition",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Transition écologique",
+      "Innovation",
+      "Climat"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "la-tribune-transition-ecologique",
+    "name": "La Tribune - Transition écologique",
+    "siteUrl": "https://www.latribune.fr/green-business.html",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse économie / transition",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Transition écologique",
+      "Énergie",
+      "Industrie",
+      "Économie"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "energie-plus",
+    "name": "Énergie Plus",
+    "siteUrl": "https://www.energie-plus.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse énergie",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Énergie",
+      "Efficacité énergétique",
+      "CEE",
+      "Réglementation"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "greenunivers",
+    "name": "GreenUnivers",
+    "siteUrl": "https://www.greenunivers.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse énergie",
+    "defaultTags": [
+      "Presse professionnelle",
+      "ENR",
+      "Financement",
+      "Marché énergie"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès mixte",
+    "active": true
+  },
+  {
+    "id": "pv-magazine-france",
+    "name": "PV Magazine France",
+    "siteUrl": "https://www.pv-magazine.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse énergie",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Photovoltaïque",
+      "Autoconsommation",
+      "ENR"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "revolution-energetique",
+    "name": "Révolution Énergétique",
+    "siteUrl": "https://www.revolution-energetique.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse énergie",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Énergie",
+      "ENR",
+      "Stockage",
+      "Réseaux"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "connaissance-des-energies",
+    "name": "Connaissance des Énergies",
+    "siteUrl": "https://www.connaissancedesenergies.org/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse énergie",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Énergie",
+      "Statistiques",
+      "Pédagogie"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "enerzine",
+    "name": "Enerzine",
+    "siteUrl": "https://www.enerzine.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse énergie",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Énergie",
+      "Innovation",
+      "ENR"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "observer-journal-des-energies-renouvelables",
+    "name": "Observ’ER - Journal des Énergies Renouvelables",
+    "siteUrl": "https://www.energies-renouvelables.org/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse énergie",
+    "defaultTags": [
+      "Presse professionnelle",
+      "ENR",
+      "Observatoire",
+      "Baromètre"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "tecsol-blog",
+    "name": "Tecsol Blog",
+    "siteUrl": "https://tecsol.blogs.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse énergie",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Solaire",
+      "Photovoltaïque",
+      "Autoconsommation"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "effy-actualites",
+    "name": "Effy Actualités",
+    "siteUrl": "https://www.effy.fr/actualite",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse rénovation énergétique",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Rénovation énergétique",
+      "Aides",
+      "CEE"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "quelle-energie",
+    "name": "Quelle Énergie",
+    "siteUrl": "https://www.quelleenergie.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse rénovation énergétique",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Rénovation énergétique",
+      "Aides",
+      "Logement"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "hellio-actualites",
+    "name": "Hellio Actualités",
+    "siteUrl": "https://www.hellio.com/actualites",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse rénovation énergétique",
+    "defaultTags": [
+      "Presse professionnelle",
+      "CEE",
+      "Aides",
+      "Rénovation énergétique"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "lenergeek",
+    "name": "L’ÉnerGeek",
+    "siteUrl": "https://lenergeek.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse énergie",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Énergie",
+      "Politiques publiques",
+      "ENR"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "karibati",
+    "name": "Karibati",
+    "siteUrl": "https://www.karibati.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse / ressources matériaux biosourcés",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Biosourcé",
+      "Matériaux",
+      "Filières"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "fibois-france",
+    "name": "Fibois France",
+    "siteUrl": "https://www.fibois-france.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse / filière bois",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Bois",
+      "Biosourcé",
+      "Filières"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "bois-com",
+    "name": "Bois.com",
+    "siteUrl": "https://www.bois.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse / filière bois",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Bois",
+      "Construction bois",
+      "Matériaux"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "le-commerce-du-bois",
+    "name": "Le Commerce du Bois",
+    "siteUrl": "https://www.lecommercedubois.org/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse / filière bois",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Bois",
+      "Filière bois",
+      "Matériaux"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "darchitectures",
+    "name": "D’Architectures",
+    "siteUrl": "https://www.darchitectures.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse architecture / urbanisme",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Architecture",
+      "Urbanisme",
+      "Projets"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "le-courrier-de-larchitecte",
+    "name": "Le Courrier de l’Architecte",
+    "siteUrl": "https://www.lecourrierdelarchitecte.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse architecture / urbanisme",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Architecture",
+      "Projets",
+      "Profession"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "archistorm",
+    "name": "Archistorm",
+    "siteUrl": "https://www.archistorm.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse architecture / urbanisme",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Architecture",
+      "Urbanisme",
+      "Paysage"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "larchitecture-daujourdhui",
+    "name": "L’Architecture d’Aujourd’hui",
+    "siteUrl": "https://www.larchitecturedaujourdhui.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse architecture / urbanisme",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Architecture",
+      "Urbanisme",
+      "Projets"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "traits-urbains",
+    "name": "Traits Urbains",
+    "siteUrl": "https://www.traitsurbanes.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse urbanisme",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Urbanisme",
+      "Aménagement",
+      "Projets urbains"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "le-journal-du-grand-paris",
+    "name": "Le Journal du Grand Paris",
+    "siteUrl": "https://www.lejournaldugrandparis.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse urbanisme / immobilier",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Grand Paris",
+      "Urbanisme",
+      "Immobilier"
+    ],
+    "official": false,
+    "region": "Île-de-France",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "business-immo",
+    "name": "Business Immo",
+    "siteUrl": "https://www.businessimmo.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse immobilier",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Immobilier",
+      "ESG",
+      "Tertiaire"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès mixte",
+    "active": true
+  },
+  {
+    "id": "immoweek",
+    "name": "Immoweek",
+    "siteUrl": "https://www.immoweek.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse immobilier",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Immobilier",
+      "Marché",
+      "Investissement"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès mixte",
+    "active": true
+  },
+  {
+    "id": "cfnews-immo",
+    "name": "CFNEWS Immo",
+    "siteUrl": "https://www.cfnewsimmo.net/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse immobilier",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Immobilier",
+      "Investissement",
+      "Marché"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès mixte",
+    "active": true
+  },
+  {
+    "id": "la-gazette-des-communes",
+    "name": "La Gazette des Communes",
+    "siteUrl": "https://www.lagazettedescommunes.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse collectivités",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Collectivités",
+      "Urbanisme",
+      "Commande publique",
+      "Rénovation publique"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
+    "active": true
+  },
+  {
+    "id": "localtis-banque-des-territoires",
+    "name": "Localtis - Banque des Territoires",
+    "siteUrl": "https://www.banquedesterritoires.fr/localtis",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse collectivités",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Collectivités",
+      "Logement",
+      "Rénovation",
+      "Urbanisme"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "maire-info",
+    "name": "Maire Info",
+    "siteUrl": "https://www.maire-info.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse collectivités",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Collectivités",
+      "Urbanisme",
+      "Climat"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Gratuit",
+    "active": true
+  },
+  {
+    "id": "acteurs-publics",
+    "name": "Acteurs Publics",
+    "siteUrl": "https://acteurspublics.fr/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Presse politiques publiques",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Politiques publiques",
+      "Collectivités",
+      "Transition"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès mixte",
+    "active": true
+  },
+  {
+    "id": "id-cite",
+    "name": "ID.Cité",
+    "siteUrl": "https://www.idcite.com/",
+    "rss": null,
+    "type": "Presse professionnelle",
+    "category": "Veille collectivités",
+    "defaultTags": [
+      "Presse professionnelle",
+      "Collectivités",
+      "Réglementation",
+      "Urbanisme",
+      "Commande publique"
+    ],
+    "official": false,
+    "region": "National",
+    "access": "Accès gratuit partiel",
     "active": true
   }
 ]

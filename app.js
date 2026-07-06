@@ -16,6 +16,7 @@
     selectedRegion: '',
     sourceSearch: '',
     sourcePageRegion: '',
+    hiddenSources: new Set(JSON.parse(localStorage.getItem('bativeille-hidden-sources') || '[]')),
     access: new Set(['open', 'paywall', 'pdf', 'official']),
     period: 'all',
     sort: 'date-desc',
@@ -122,6 +123,15 @@
     localStorage.setItem('bativeille-favorite-folders', JSON.stringify(state.folders));
   }
 
+  function saveHiddenSources() {
+    localStorage.setItem('bativeille-hidden-sources', JSON.stringify(Array.from(state.hiddenSources)));
+  }
+
+  function isSourceHidden(article) {
+    const sourceId = article.sourceId || DATA.sources.find(item => item.name === article.source)?.id;
+    return sourceId ? state.hiddenSources.has(sourceId) : false;
+  }
+
   function setAuth(value) {
     state.isAuthenticated = value;
     localStorage.setItem('bativeille-auth', value ? 'true' : 'false');
@@ -198,6 +208,7 @@
         ...(article.tags || [])
       ].join(' '));
 
+      if (isSourceHidden(article)) return false;
       if (state.search && !haystack.includes(normalize(state.search))) return false;
       if (state.selectedTheme && !(article.tags || []).includes(state.selectedTheme)) return false;
       if (state.selectedSourceType && article.sourceType !== state.selectedSourceType) return false;
@@ -282,7 +293,8 @@
     els.totalDocs.textContent = DATA.articles.length.toLocaleString('fr-FR');
     els.favoriteCount.textContent = state.favorites.size.toLocaleString('fr-FR');
     els.favoritesToggle.classList.toggle('active', state.favoritesOnly);
-    els.newsMeta.textContent = `${filtered.length.toLocaleString('fr-FR')} document${filtered.length > 1 ? 's' : ''} affiché${filtered.length > 1 ? 's' : ''}${state.favoritesOnly ? ' dans tes favoris' : ''}`;
+    const hiddenCount = DATA.articles.filter(article => isSourceHidden(article)).length;
+    els.newsMeta.textContent = `${filtered.length.toLocaleString('fr-FR')} document${filtered.length > 1 ? 's' : ''} affiché${filtered.length > 1 ? 's' : ''}${state.favoritesOnly ? ' dans tes favoris' : ''}${hiddenCount ? ` · ${hiddenCount.toLocaleString('fr-FR')} masqué${hiddenCount > 1 ? 's' : ''}` : ''}`;
 
     els.articleGrid.innerHTML = filtered.map(article => {
       const favorite = state.favorites.has(article.id);
@@ -417,12 +429,15 @@
             <th>Région</th>
             <th>Statut</th>
             <th>Articles</th>
+            <th>Afficher</th>
             <th>Lien</th>
           </tr>
         </thead>
         <tbody>
-          ${sourceList.map(source => `
-            <tr>
+          ${sourceList.map(source => {
+            const hidden = state.hiddenSources.has(source.id);
+            return `
+            <tr class="${hidden ? 'source-row-hidden' : ''}">
               <td>
                 <div class="source-name-cell">
                   <span class="logo-badge">${escapeHtml(source.name.slice(0, 2).toUpperCase())}</span>
@@ -433,9 +448,10 @@
               <td>${escapeHtml(source.region || 'National')}</td>
               <td>${source.official ? '<span class="pill access-official">Officielle</span>' : '<span class="pill theme">Suivie</span>'}</td>
               <td>${(counts[source.id] || 0).toLocaleString('fr-FR')}</td>
+              <td><button class="source-visibility-btn ${hidden ? 'is-hidden' : ''}" type="button" data-toggle-source="${escapeHtml(source.id)}" title="${hidden ? 'Réafficher cette source' : 'Masquer cette source'}" aria-label="${hidden ? 'Réafficher cette source' : 'Masquer cette source'}">${hidden ? '👁️‍🗨️ Masquée' : '👁️ Visible'}</button></td>
               <td><a class="source-direct-link" href="${escapeHtml(source.url || source.siteUrl || '#')}" target="_blank" rel="noopener noreferrer">Ouvrir</a></td>
             </tr>
-          `).join('')}
+          `}).join('')}
         </tbody>
       </table>
     `;
@@ -794,6 +810,18 @@
         const target = document.getElementById(targetName);
         if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
       });
+    });
+
+
+    els.followedSources?.addEventListener('click', (event) => {
+      const button = event.target.closest('[data-toggle-source]');
+      if (!button) return;
+      const sourceId = button.dataset.toggleSource;
+      if (state.hiddenSources.has(sourceId)) state.hiddenSources.delete(sourceId);
+      else state.hiddenSources.add(sourceId);
+      saveHiddenSources();
+      renderArticles();
+      renderSources();
     });
 
     els.sourceSearchInput?.addEventListener('input', (event) => {

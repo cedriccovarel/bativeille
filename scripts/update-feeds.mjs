@@ -216,6 +216,7 @@ async function main() {
       url: source.siteUrl,
       category: source.category || '',
       region: source.region || 'National',
+      access: source.access || '',
       official: !!source.official
     })),
     articles: deduped

@@ -1623,3 +1623,46 @@ body.no-scroll {
     padding: 10px;
   }
 }
+
+.source-visibility-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 105px;
+  padding: 8px 11px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: #f8fbf9;
+  color: var(--primary);
+  font-weight: 700;
+  font-size: 0.86rem;
+}
+
+.source-visibility-btn:hover {
+  border-color: #bfd4c7;
+  background: var(--primary-soft);
+}
+
+.source-visibility-btn.is-hidden {
+  color: #7a5a12;
+  background: #fff5dc;
+  border-color: #f0d69c;
+}
+
+.source-row-hidden {
+  opacity: 0.58;
+  background: #fbf6ed;
+}
+
+.source-row-hidden .source-name-cell strong {
+  text-decoration: line-through;
+  text-decoration-thickness: 1px;
+}
+
+@media (max-width: 760px) {
+  .source-visibility-btn {
+    min-width: 96px;
+    padding: 7px 9px;
+    font-size: 0.8rem;
+  }
+}

@@ -122,7 +122,7 @@ Ajouts :
 
 Cette protection est une protection d’interface côté navigateur, adaptée à un site statique GitHub Pages. Elle masque les fonctions et empêche l’usage courant hors profil, mais ce n’est pas une vraie authentification serveur. Pour une sécurité réelle multi-utilisateurs, il faudra passer à Supabase, Firebase, Netlify Identity ou équivalent.
 
-## V3.8 — menu filtres compact
+## V3.9 — menu filtres compact
 
 - La colonne de filtres gauche est maintenant masquée par défaut.
 - Une icône **3 tirets** dans la barre supérieure ouvre/ferme le panneau de filtres.
@@ -130,7 +130,7 @@ Cette protection est une protection d’interface côté navigateur, adaptée à
 - Le contenu principal gagne toute la largeur disponible pour les articles.
 
 
-## V3.8
+## V3.9
 
 - Accueil réinitialise les filtres et revient à l’écran principal.
 - Interface favoris compactée.
@@ -138,7 +138,7 @@ Cette protection est une protection d’interface côté navigateur, adaptée à
 - Responsive téléphone renforcé : barre haute, filtres, cartes, favoris et sources.
 
 
-## V3.8
+## V3.9
 
 - Logo bativeille agrandi et recadré dans la barre haute.
 - Descriptif haut de page retiré.
@@ -146,7 +146,7 @@ Cette protection est une protection d’interface côté navigateur, adaptée à
 - Bloc Articles à fort impact retiré.
 
 
-## V3.8 — Observatoires et filtre région
+## V3.9 — Observatoires et filtre région
 
 - Ajout des observatoires nationaux du bâtiment, de la rénovation, de la qualité, du bas carbone, de l’urbanisme, de l’énergie-climat et des données de marché.
 - Ajout des centres ressources régionaux bâtiment durable, agences d’urbanisme, CERC régionales, observatoires air/climat/déchets quand identifiés.
@@ -155,7 +155,7 @@ Cette protection est une protection d’interface côté navigateur, adaptée à
 - Le script GitHub Action propage désormais la région des sources vers les articles récupérés.
 
 
-## V3.8
+## V3.9
 
 - Ajout d’un onglet **Sources suivies** dans la navigation principale.
 - Suppression des tuiles sources de la page d’accueil.
@@ -163,7 +163,7 @@ Cette protection est une protection d’interface côté navigateur, adaptée à
 - Recherche et filtre par région dans l’onglet Sources suivies.
 
 
-## V3.8
+## V3.9
 
 - Correction de l'onglet Sources suivies : affichage forcé de la vue dédiée.
 - Identifiant/mot de passe local : Admin / Admin.
