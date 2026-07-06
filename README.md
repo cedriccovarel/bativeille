@@ -169,3 +169,8 @@ Cette protection est une protection d’interface côté navigateur, adaptée à
 - Identifiant/mot de passe local : Admin / Admin.
 
 Note : cette authentification reste un verrouillage d'interface côté navigateur, pas une sécurité serveur.
+
+
+## Mise a jour automatique
+
+Cette version conserve la mise a jour GitHub Actions toutes les 3 heures (`0 */3 * * *`) et le script RSS ne conserve que les articles dont la date de publication est egale ou posterieure au 2026-07-01. Les flux RSS ne fournissant pas de date exploitable sont ignores pour eviter d'importer des contenus non verifies.

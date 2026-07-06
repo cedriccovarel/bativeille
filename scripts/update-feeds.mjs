@@ -16,6 +16,9 @@ const parser = new Parser({
   }
 });
 
+const SINCE_DATE = new Date('2026-07-01T00:00:00.000Z');
+const MAX_ITEMS_PER_SOURCE = 100;
+
 const keywordMap = {
   'Réglementation': ['décret', 'arrêté', 'loi', 'réglement', 'norme'],
   'RE2020': ['re2020', 'rset', 'rsee', 'bbio', 'cep', 'cepnr', 'dh'],
@@ -129,6 +132,19 @@ function inferTags(text, defaults = []) {
   return uniq([...defaults, ...auto]).slice(0, 6);
 }
 
+function getItemDate(item) {
+  const rawDate = item.isoDate || item.pubDate || item.date || item.updated || item.published;
+  const parsed = rawDate ? new Date(rawDate) : null;
+  if (parsed && !Number.isNaN(parsed.getTime())) return parsed;
+  return null;
+}
+
+function isSinceCutoff(item) {
+  const itemDate = getItemDate(item);
+  if (!itemDate) return false;
+  return itemDate >= SINCE_DATE;
+}
+
 function buildSummary(item) {
   const parts = [
     item.contentSnippet,
@@ -151,7 +167,7 @@ async function fetchSourceEntries(source) {
 
   try {
     const feed = await parser.parseURL(feedUrl);
-    const items = (feed.items || []).slice(0, 10);
+    const items = (feed.items || []).filter(isSinceCutoff).slice(0, MAX_ITEMS_PER_SOURCE);
     const articles = [];
     for (const [index, item] of items.entries()) {
       const compositeText = `${item.title || ''} ${item.contentSnippet || ''} ${item.content || ''}`;
@@ -161,7 +177,7 @@ async function fetchSourceEntries(source) {
       const feedImage = imageFromFeedItem(item, exactUrl);
       const image = feedImage || await fetchOpenGraphImage(exactUrl);
       articles.push({
-        id: `${source.id}-${index}-${Date.parse(item.isoDate || item.pubDate || new Date().toISOString())}`,
+        id: `${source.id}-${index}-${getItemDate(item)?.getTime() || Date.now()}`,
         title: cleanText(item.title || 'Sans titre'),
         source: source.name,
         sourceId: source.id,
@@ -169,7 +185,7 @@ async function fetchSourceEntries(source) {
         region: source.region || 'National',
         url: exactUrl,
         image,
-        date: (item.isoDate || item.pubDate || new Date().toISOString()).slice(0, 10),
+        date: (getItemDate(item) || new Date()).toISOString().slice(0, 10),
         access: source.official ? 'official' : 'open',
         official: !!source.official,
         highImpact: tags.includes('Réglementation') || tags.includes('RE2020') || tags.includes('Carbone'),
@@ -225,7 +241,7 @@ async function main() {
   const out = `window.BATIVEILLE_DATA = ${JSON.stringify(payload, null, 2)};\n`;
   await fs.writeFile(path.join(ROOT, 'data.js'), out, 'utf8');
   await fs.writeFile(path.join(ROOT, 'data.generated.json'), JSON.stringify(payload, null, 2), 'utf8');
-  console.log(`data.js mis à jour avec ${payload.articles.length} article(s).`);
+  console.log(`data.js mis à jour avec ${payload.articles.length} article(s) depuis le 2026-07-01.`);
 }
 
 main().catch(error => {
