@@ -212,3 +212,16 @@ Cette version stabilise la collecte automatique :
 
 La mise à jour automatique reste configurée toutes les 3 heures (`0 */3 * * *`).
 
+
+
+## V4.5 - configuration GitHub Pages stable
+
+Cette version est prévue pour GitHub Pages en mode :
+
+- Settings > Pages > Deploy from a branch
+- Branch : main
+- Folder : /root
+
+Le workflow `.github/workflows/update-feeds.yml` ne déploie pas Pages directement. Il met uniquement à jour `data.js`, `data.generated.json` et `feed-status.json` toutes les 3 heures ou sur lancement manuel.
+
+Le fichier `.nojekyll` est présent à la racine pour éviter tout traitement Jekyll inutile.
