@@ -1987,7 +1987,29 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "batiactu-0-1783343906000",
+      "id": "batiactu-0-1783344719000",
+      "title": "A Creil, le deuxième plus puissant parc solaire de France est mis en service",
+      "source": "Batiactu",
+      "sourceId": "batiactu",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiactu.com/edito/a-creil-deuxieme-plus-puissant-parc-solaire-france-74909.php",
+      "image": "https://www.batiactu.com/images/auto/300-226-c/20260706_151052_vue-drone-6.jpg",
+      "date": "2026-07-06",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 74,
+      "tags": [
+        "Construction",
+        "Marché",
+        "Réglementation"
+      ],
+      "summary": "ÉNERGIE SOLAIRE . L'installation déployée en partie sur l'ancienne base aérienne de la commune de l'Oise permettra une production moyenne annuelle de 202 GWh grâce à une puissance installée de 202 MWc. La centrale fait partie des 32 sites sélectionnés dans le cadre du plan nation…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "batiactu-1-1783343906000",
       "title": "Bonifications CEE : la liste des pompes à chaleur agréées est publiée",
       "source": "Batiactu",
       "sourceId": "batiactu",
@@ -2007,28 +2029,6 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "SOUVERAINETÉ INDUSTRIELLE. Le ministère de l'Économie détaille les équipements concernés dans un texte réglementaire. SOUVERAINETÉ INDUSTRIELLE. Le ministère de l'Économie détaille les équipements concernés dans un texte réglementaire. 2026-07-06T13:18:26.000Z Bonifications CEE :…",
-      "premiumSummary": ""
-    },
-    {
-      "id": "batiactu-1-1783344719000",
-      "title": "A Creil, le deuxième plus puissant parc solaire de France est mis en service",
-      "source": "Batiactu",
-      "sourceId": "batiactu",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiactu.com/edito/a-creil-deuxieme-plus-puissant-parc-solaire-france-74909.php",
-      "image": "https://www.batiactu.com/images/auto/300-226-c/20260706_151052_vue-drone-6.jpg",
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 74,
-      "tags": [
-        "Construction",
-        "Marché",
-        "Réglementation"
-      ],
-      "summary": "ÉNERGIE SOLAIRE . L'installation déployée en partie sur l'ancienne base aérienne de la commune de l'Oise permettra une production moyenne annuelle de 202 GWh grâce à une puissance installée de 202 MWc. La centrale fait partie des 32 sites sélectionnés dans le cadre du plan nation…",
       "premiumSummary": ""
     },
     {
@@ -2054,14 +2054,14 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "batiactu-3-1783347095000",
-      "title": "Comment gagner jusqu’à 10°C dans les combles sans climatisation ?",
+      "id": "batiactu-3-1783347880000",
+      "title": "Les CEE, un levier stratégique pour la souveraineté énergétique française",
       "source": "Batiactu",
       "sourceId": "batiactu",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=156280",
-      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=156280",
+      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=150524",
+      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=150524",
       "date": "2026-07-06",
       "access": "open",
       "official": false,
@@ -2071,9 +2071,9 @@ window.BATIVEILLE_DATA = {
         "Construction",
         "Marché",
         "Réglementation",
-        "Confort d’été"
+        "Économie du bâtiment"
       ],
-      "summary": "Avec des étés toujours plus chauds, le confort thermique devient un enjeu clé dans les logements. Isover et Placo® démontrent, étude à l'appui, qu'il est possible de gagner jusqu'à 10°C dans ... Avec des étés toujours plus chauds, le confort thermique devient un enjeu clé dans le…",
+      "summary": "Avec un budget annuel de plus de huit milliards d'euros, les certificats d'économies d'énergie (CEE) constituent le principal outil de financement de l'efficacité énergétique en France. Depuis ... Avec un budget annuel de plus de huit milliards d'euros, les certificats d'économie…",
       "premiumSummary": ""
     },
     {
@@ -2145,14 +2145,14 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "batiactu-7-1783347095000",
-      "title": "Les CEE, un levier stratégique pour la souveraineté énergétique française",
+      "id": "batiactu-7-1783347880000",
+      "title": "Comment gagner jusqu’à 10°C dans les combles sans climatisation ?",
       "source": "Batiactu",
       "sourceId": "batiactu",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=150524",
-      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=150524",
+      "url": "https://batiregie.batiactu.com/cap_pub/scripts/clic.php?v=156280",
+      "image": "https://batiregie.batiactu.com/cap_pub/scripts/visu.php?v=156280",
       "date": "2026-07-06",
       "access": "open",
       "official": false,
@@ -2162,9 +2162,9 @@ window.BATIVEILLE_DATA = {
         "Construction",
         "Marché",
         "Réglementation",
-        "Économie du bâtiment"
+        "Confort d’été"
       ],
-      "summary": "Avec un budget annuel de plus de huit milliards d'euros, les certificats d'économies d'énergie (CEE) constituent le principal outil de financement de l'efficacité énergétique en France. Depuis ... Avec un budget annuel de plus de huit milliards d'euros, les certificats d'économie…",
+      "summary": "Avec des étés toujours plus chauds, le confort thermique devient un enjeu clé dans les logements. Isover et Placo® démontrent, étude à l'appui, qu'il est possible de gagner jusqu'à 10°C dans ... Avec des étés toujours plus chauds, le confort thermique devient un enjeu clé dans le…",
       "premiumSummary": ""
     },
     {
@@ -2235,7 +2235,7 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "batiactu-11-1783347095000",
+      "id": "batiactu-11-1783347880000",
       "title": "Les bons réflexes sécurité sur chantier",
       "source": "Batiactu",
       "sourceId": "batiactu",
@@ -2326,7 +2326,7 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "batiactu-15-1783347095000",
+      "id": "batiactu-15-1783347880000",
       "title": "Le béton, signature de vos aménagements",
       "source": "Batiactu",
       "sourceId": "batiactu",
@@ -2348,7 +2348,29 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "actu-environnement-0-1783346695000",
+      "id": "actu-environnement-0-1783347258000",
+      "title": "CSRD : la Commission européenne adopte des normes ESRS allégées, applicables dès 2027",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/esrs-simplifies-commission-europeenne-csrd-48262.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48262_large.jpg",
+      "date": "2026-07-06",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 74,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "C'est avec un peu d'avance que la Commission européenne a annoncé l'adoption des nouvelles normes ESRS. Attendues pour mi-juillet, ces normes de reporting en matière de durabilité, auxquelles doivent se conformer les entreprises soumises à la dire... C'est avec un peu d'avance qu…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "actu-environnement-1-1783346695000",
       "title": "Territorialisation de la planification écologique : la circulaire de Sébastien Lecornu",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2370,7 +2392,7 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "actu-environnement-1-1783327552000",
+      "id": "actu-environnement-2-1783327552000",
       "title": "Espèces protégées&amp;#8239;: une seconde annulation pour le parc photovoltaïque de Lézignan-la-Cèbe",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2393,7 +2415,7 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "actu-environnement-2-1783321200000",
+      "id": "actu-environnement-3-1783321200000",
       "title": "BATIMAT 2026 : une conférence d'ouverture pour penser les mutations du bâtiment",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2416,7 +2438,7 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "actu-environnement-3-1783321200000",
+      "id": "actu-environnement-4-1783321200000",
       "title": "Biocarburant B100, Solution française disponible",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2439,7 +2461,7 @@ window.BATIVEILLE_DATA = {
       "premiumSummary": ""
     },
     {
-      "id": "actu-environnement-4-1783310460000",
+      "id": "actu-environnement-5-1783310460000",
       "title": "Omnibus : quand la simplification sert de prétexte aux reculs environnementaux",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -3102,7 +3124,7 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Provence-Alpes-Côte d’Azur",
       "url": "https://www.agam.org/lessentiel-de-lagam-juin-2026/",
-      "image": "https://img-cache.net/im/1630857/e169bc75972adb8fa0235163ca2b980af32eb4350ddf8a890483be9108ada956.jpg?e=GrAVDLyMnDUp9X2J2bK7dA4q1ZgoyC4lV-Emsw6tclU47YDLSgnLLJ6oAc_ijKN8XPujRb5_c7HEI85redlyfHw-G6LUeCMu5FOmPuYbNgiFRhdDTpYAr78syqW2X2HfJ04rMij2WSH5hGjzZa4-X0IWIv1fVtVI6SjAuiAogrbdGwXeJn_ZPJXRKf34WfEj0Bz9qngkGdEsMw2waq6z-CWhhrHLcBQAzVF33A1TeBbxXbE",
+      "image": "https://www.agam.org/wp-content/uploads/2026/06/webinaire.jpg",
       "date": "2026-07-02",
       "access": "open",
       "official": false,
