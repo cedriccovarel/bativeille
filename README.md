@@ -197,3 +197,18 @@ Cette version conserve la mise a jour GitHub Actions toutes les 3 heures (`0 */3
 - Le script teste `rss`, `rssCandidates`, les flux détectés dans le HTML et plusieurs chemins RSS standards.
 - Si aucun flux RSS n’est exploitable, il tente une détection limitée sur la page d’accueil / actualités de la source, sans crawler tout le site.
 - Génération d’un fichier `feed-status.json` pour voir quelles sources ont réellement un flux exploitable.
+
+## V4.4 - Collecte stable
+
+Cette version stabilise la collecte automatique :
+
+- RSS / Atom ;
+- API WordPress ;
+- sitemap rapide uniquement ;
+- aucun scraping massif des pages actualités ;
+- timeout court par requête ;
+- timeout global du job GitHub Actions à 12 minutes ;
+- génération de `feed-status.json` pour diagnostiquer les sources exploitables.
+
+La mise à jour automatique reste configurée toutes les 3 heures (`0 */3 * * *`).
+

@@ -3,10 +3,14 @@ import path from 'node:path';
 import Parser from 'rss-parser';
 
 const ROOT = path.resolve(process.cwd());
-const USER_AGENT = 'bativeille-bot/1.3 (+https://github.com/)';
+const USER_AGENT = 'bativeille-bot/1.4 (+https://github.com/)';
+
+const FETCH_TIMEOUT_MS = Number(process.env.BATIVEILLE_FETCH_TIMEOUT_MS || 6500);
+const SOURCE_TIMEOUT_MS = Number(process.env.BATIVEILLE_SOURCE_TIMEOUT_MS || 25000);
+const CONCURRENCY = Number(process.env.BATIVEILLE_CONCURRENCY || 8);
 
 const parser = new Parser({
-  timeout: 12000,
+  timeout: FETCH_TIMEOUT_MS,
   headers: { 'User-Agent': USER_AGENT },
   customFields: {
     item: [
@@ -19,16 +23,14 @@ const parser = new Parser({
 });
 
 const SINCE_DATE = new Date(process.env.BATIVEILLE_SINCE || '2026-07-01T00:00:00.000Z');
-const MAX_ITEMS_PER_SOURCE = Number(process.env.BATIVEILLE_MAX_ITEMS || 100);
-const MAX_RSS_CANDIDATES = Number(process.env.BATIVEILLE_MAX_RSS_CANDIDATES || 10);
-const MAX_API_CANDIDATES = Number(process.env.BATIVEILLE_MAX_API_CANDIDATES || 4);
-const MAX_SITEMAP_CANDIDATES = Number(process.env.BATIVEILLE_MAX_SITEMAP_CANDIDATES || 6);
-const MAX_LISTING_PAGES = Number(process.env.BATIVEILLE_MAX_LISTING_PAGES || 6);
-const MAX_PAGE_DETAILS_PER_SOURCE = Number(process.env.BATIVEILLE_MAX_PAGE_DETAILS || 12);
+const MAX_ITEMS_PER_SOURCE = Number(process.env.BATIVEILLE_MAX_ITEMS || 80);
+const MAX_RSS_CANDIDATES = Number(process.env.BATIVEILLE_MAX_RSS_CANDIDATES || 6);
+const MAX_API_CANDIDATES = Number(process.env.BATIVEILLE_MAX_API_CANDIDATES || 2);
+const MAX_SITEMAP_CANDIDATES = Number(process.env.BATIVEILLE_MAX_SITEMAP_CANDIDATES || 3);
+const MAX_SITEMAP_URLS_PER_SOURCE = Number(process.env.BATIVEILLE_MAX_SITEMAP_URLS || 30);
 const ENABLE_RSS = process.env.BATIVEILLE_ENABLE_RSS !== 'false';
 const ENABLE_WORDPRESS_API = process.env.BATIVEILLE_ENABLE_WORDPRESS_API !== 'false';
 const ENABLE_SITEMAP = process.env.BATIVEILLE_ENABLE_SITEMAP !== 'false';
-const ENABLE_LISTING_PAGE = process.env.BATIVEILLE_ENABLE_LISTING_PAGE !== 'false';
 const VERBOSE = process.env.BATIVEILLE_VERBOSE === 'true';
 
 const keywordMap = {
@@ -91,14 +93,11 @@ function sourceBaseUrl(source) {
 
 async function fetchText(url, accept = 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8') {
   const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 15000);
+  const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
   try {
     const response = await fetch(url, {
       signal: controller.signal,
-      headers: {
-        'User-Agent': USER_AGENT,
-        'Accept': accept
-      }
+      headers: { 'User-Agent': USER_AGENT, Accept: accept }
     });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     return await response.text();
@@ -109,14 +108,11 @@ async function fetchText(url, accept = 'text/html,application/xhtml+xml,applicat
 
 async function fetchJson(url) {
   const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 15000);
+  const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
   try {
     const response = await fetch(url, {
       signal: controller.signal,
-      headers: {
-        'User-Agent': USER_AGENT,
-        'Accept': 'application/json, */*;q=0.8'
-      }
+      headers: { 'User-Agent': USER_AGENT, Accept: 'application/json,*/*;q=0.8' }
     });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     return await response.json();
@@ -132,16 +128,7 @@ function normalizeCandidates(value, siteUrl) {
 
 function commonFeedCandidates(siteUrl) {
   const base = siteUrl.endsWith('/') ? siteUrl : `${siteUrl}/`;
-  return [
-    new URL('feed/', base).href,
-    new URL('rss.xml', base).href,
-    new URL('rss', base).href,
-    new URL('actualites/feed/', base).href,
-    new URL('actualite/feed/', base).href,
-    new URL('news/feed/', base).href,
-    new URL('articles/feed/', base).href,
-    new URL('blog/feed/', base).href
-  ];
+  return ['feed/', 'rss.xml', 'rss', 'actualites/feed/', 'news/feed/', 'articles/feed/'].map(p => new URL(p, base).href);
 }
 
 function commonWpCandidates(siteUrl) {
@@ -151,69 +138,13 @@ function commonWpCandidates(siteUrl) {
 
 function commonSitemapCandidates(siteUrl) {
   const base = siteUrl.endsWith('/') ? siteUrl : `${siteUrl}/`;
-  return [
-    new URL('sitemap.xml', base).href,
-    new URL('sitemap_index.xml', base).href,
-    new URL('post-sitemap.xml', base).href,
-    new URL('page-sitemap.xml', base).href,
-    new URL('sitemap-posts.xml', base).href,
-    new URL('sitemap-news.xml', base).href
-  ];
-}
-
-function commonListingPages(siteUrl) {
-  const base = siteUrl.endsWith('/') ? siteUrl : `${siteUrl}/`;
-  return [
-    siteUrl,
-    new URL('actualites', base).href,
-    new URL('actualite', base).href,
-    new URL('news', base).href,
-    new URL('articles', base).href,
-    new URL('publications', base).href,
-    new URL('ressources', base).href,
-    new URL('blog', base).href,
-    new URL('presse', base).href
-  ];
-}
-
-async function detectFeedUrls(siteUrl) {
-  try {
-    const html = await fetchText(siteUrl);
-    const urls = [];
-    const linkRegex = /<link[^>]+>/gi;
-    const hrefRegex = /href=["']([^"']+)["']/i;
-    const typeRegex = /type=["']application\/(?:rss\+xml|atom\+xml)["']/i;
-    const matches = html.match(linkRegex) || [];
-    for (const tag of matches) {
-      if (!typeRegex.test(tag)) continue;
-      const href = tag.match(hrefRegex)?.[1];
-      const resolved = absoluteUrl(href, siteUrl);
-      if (resolved) urls.push(resolved);
-    }
-    return urls;
-  } catch {
-    return [];
-  }
-}
-
-async function detectWpApi(siteUrl) {
-  try {
-    const html = await fetchText(siteUrl);
-    const link = html.match(/<link[^>]+rel=["']https:\/\/api\.w\.org\/["'][^>]+href=["']([^"']+)["']/i)?.[1]
-      || html.match(/<link[^>]+href=["']([^"']+)["'][^>]+rel=["']https:\/\/api\.w\.org\/["']/i)?.[1];
-    const root = absoluteUrl(link, siteUrl);
-    if (!root) return [];
-    return [new URL('wp/v2/posts', root.endsWith('/') ? root : `${root}/`).href];
-  } catch {
-    return [];
-  }
+  return ['sitemap.xml', 'sitemap_index.xml', 'post-sitemap.xml'].map(p => new URL(p, base).href);
 }
 
 function getItemDate(item) {
   const rawDate = item.isoDate || item.pubDate || item.date || item.updated || item.published;
   const parsed = rawDate ? new Date(rawDate) : null;
-  if (parsed && !Number.isNaN(parsed.getTime())) return parsed;
-  return null;
+  return parsed && !Number.isNaN(parsed.getTime()) ? parsed : null;
 }
 
 function isSinceCutoffDate(date) {
@@ -229,25 +160,6 @@ function inferTags(text, defaults = []) {
   return uniq([...defaults, ...auto]).slice(0, 6);
 }
 
-function metaContent(html, names) {
-  for (const name of names) {
-    const escaped = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const pattern1 = new RegExp(`<meta[^>]+(?:property|name)=["']${escaped}["'][^>]+content=["']([^"']+)["']`, 'i');
-    const pattern2 = new RegExp(`<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["']${escaped}["']`, 'i');
-    const match = html.match(pattern1) || html.match(pattern2);
-    if (match?.[1]) return decodeHtml(match[1]);
-  }
-  return null;
-}
-
-function pageTitle(html) {
-  return metaContent(html, ['og:title', 'twitter:title']) || cleanText(html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1] || '');
-}
-
-function pageDescription(html) {
-  return metaContent(html, ['og:description', 'twitter:description', 'description']) || '';
-}
-
 function extractFirstImageFromHtml(html = '', baseUrl = '') {
   const srcsetMatch = String(html).match(/<img[^>]+srcset=["']([^"']+)["']/i);
   if (srcsetMatch) {
@@ -257,25 +169,6 @@ function extractFirstImageFromHtml(html = '', baseUrl = '') {
   }
   const srcMatch = String(html).match(/<img[^>]+src=["']([^"']+)["']/i);
   return srcMatch ? absoluteUrl(srcMatch[1], baseUrl) : null;
-}
-
-function pageImage(html, url) {
-  const meta = metaContent(html, ['og:image', 'twitter:image']);
-  return absoluteUrl(meta, url) || extractFirstImageFromHtml(html, url);
-}
-
-function dateFromHtml(html) {
-  const rawCandidates = [
-    metaContent(html, ['article:published_time', 'datePublished', 'pubdate', 'date', 'dc.date', 'DC.date', 'sailthru.date']),
-    html.match(/<time[^>]+datetime=["']([^"']+)["']/i)?.[1],
-    html.match(/"datePublished"\s*:\s*"([^"]+)"/i)?.[1],
-    html.match(/"dateModified"\s*:\s*"([^"]+)"/i)?.[1]
-  ].filter(Boolean);
-  for (const raw of rawCandidates) {
-    const parsed = new Date(raw);
-    if (!Number.isNaN(parsed.getTime())) return parsed;
-  }
-  return null;
 }
 
 function imageFromFeedItem(item, baseUrl) {
@@ -301,29 +194,10 @@ function imageFromFeedItem(item, baseUrl) {
   return null;
 }
 
-async function fetchOpenGraphImage(url) {
-  if (!url) return null;
-  try {
-    const html = await fetchText(url);
-    return pageImage(html, url);
-  } catch {
-    return null;
-  }
-}
-
 function buildSummaryFromText(text) {
   const full = cleanText(text || '');
   if (!full) return 'Résumé indisponible. À enrichir manuellement si besoin.';
   return full.slice(0, 280) + (full.length > 280 ? '…' : '');
-}
-
-function buildSummary(item) {
-  return buildSummaryFromText([
-    item.contentSnippet,
-    item.content,
-    item.summary,
-    item.title
-  ].filter(Boolean).join(' '));
 }
 
 function baseArticle(source, { idPart, title, url, date, image, summary, tags, method }) {
@@ -359,15 +233,14 @@ function articleFromFeedItem(source, item, index) {
     url: exactUrl,
     date,
     image: imageFromFeedItem(item, exactUrl),
-    summary: buildSummary(item),
+    summary: [item.contentSnippet, item.content, item.summary, item.title].filter(Boolean).join(' '),
     tags,
     method: 'rss'
   });
 }
 
 function wpImage(post) {
-  const embedded = post?._embedded;
-  const media = embedded?.['wp:featuredmedia'];
+  const media = post?._embedded?.['wp:featuredmedia'];
   if (Array.isArray(media) && media[0]) {
     return media[0].source_url || media[0].media_details?.sizes?.large?.source_url || media[0].media_details?.sizes?.medium?.source_url || null;
   }
@@ -400,11 +273,9 @@ function withQuery(url, params) {
 async function collectByRss(source, status) {
   if (!ENABLE_RSS) return [];
   const siteUrl = sourceBaseUrl(source);
-  const detected = await detectFeedUrls(siteUrl);
   const candidates = uniq([
     ...normalizeCandidates(source.rss, siteUrl),
     ...normalizeCandidates(source.rssCandidates, siteUrl),
-    ...detected,
     ...commonFeedCandidates(siteUrl)
   ]).slice(0, MAX_RSS_CANDIDATES);
   status.rssCandidatesTested = candidates.length;
@@ -434,10 +305,8 @@ async function collectByRss(source, status) {
 async function collectByWordPressApi(source, status) {
   if (!ENABLE_WORDPRESS_API) return [];
   const siteUrl = sourceBaseUrl(source);
-  const detected = await detectWpApi(siteUrl);
   const candidates = uniq([
     ...normalizeCandidates(source.apiCandidates, siteUrl),
-    ...detected,
     ...commonWpCandidates(siteUrl)
   ]).slice(0, MAX_API_CANDIDATES);
   status.wpApiCandidatesTested = candidates.length;
@@ -486,9 +355,17 @@ function isLikelyArticleUrl(url) {
   if (!value || value.includes('mailto:') || value.includes('javascript:')) return false;
   if (/\.(jpg|jpeg|png|gif|webp|zip|docx?|xlsx?|pptx?|css|js)(\?|#|$)/i.test(value)) return false;
   if (/\.(pdf)(\?|#|$)/i.test(value)) return true;
-  return [
-    '/actualite', '/actualites', '/news', '/article', '/articles', '/presse', '/publication', '/publications', '/communique', '/blog', '/veille', '/info', '/dossier', '/ressource', '/ressources', '/etude', '/etudes', '/rapport'
-  ].some(marker => value.includes(marker));
+  return ['/actualite', '/actualites', '/news', '/article', '/articles', '/presse', '/publication', '/publications', '/communique', '/blog', '/veille', '/info', '/dossier', '/ressource', '/ressources', '/etude', '/etudes', '/rapport'].some(marker => value.includes(marker));
+}
+
+function titleFromUrl(url) {
+  try {
+    const u = new URL(url);
+    const last = u.pathname.split('/').filter(Boolean).pop() || u.hostname;
+    return cleanText(last.replace(/[-_]+/g, ' ').replace(/\.(html|php|aspx|pdf)$/i, ' ')) || u.hostname;
+  } catch {
+    return 'Publication récente';
+  }
 }
 
 async function parseSitemapUrls(sitemapUrl, depth = 0) {
@@ -498,7 +375,7 @@ async function parseSitemapUrls(sitemapUrl, depth = 0) {
     const nested = sitemapBlocks
       .map(block => xmlTagValue(block, 'loc'))
       .filter(Boolean)
-      .slice(0, 8);
+      .slice(0, 4);
     const all = [];
     for (const nestedUrl of nested) {
       try {
@@ -509,31 +386,26 @@ async function parseSitemapUrls(sitemapUrl, depth = 0) {
     }
     return all;
   }
-
-  return xmlTagBlocks(xml, 'url').map(block => ({
+  return xmlTagBlocks(xml, 'url').slice(0, 600).map(block => ({
     url: xmlTagValue(block, 'loc'),
     lastmod: xmlTagValue(block, 'lastmod')
   })).filter(entry => entry.url);
 }
 
-async function articleFromPage(source, link, index, method) {
-  const html = await fetchText(link.url);
-  const htmlDate = dateFromHtml(html);
-  const fallbackDate = link.date ? new Date(link.date) : null;
-  const date = htmlDate || (fallbackDate && !Number.isNaN(fallbackDate.getTime()) ? fallbackDate : null);
-  if (!date || date < SINCE_DATE) return null;
-  const title = pageTitle(html) || link.title || cleanText(link.url.split('/').filter(Boolean).pop() || 'Sans titre');
-  const summary = pageDescription(html) || link.title || title;
-  const tags = inferTags(`${title} ${summary}`, source.defaultTags || []);
+function articleFromSitemapEntry(source, entry, index) {
+  const date = entry.lastmod ? new Date(entry.lastmod) : null;
+  if (!date || Number.isNaN(date.getTime()) || date < SINCE_DATE) return null;
+  const title = titleFromUrl(entry.url);
+  const tags = inferTags(`${title} ${entry.url}`, source.defaultTags || []);
   return baseArticle(source, {
-    idPart: `${method}-${index}`,
+    idPart: `sitemap-${index}`,
     title,
-    url: link.url,
+    url: entry.url,
     date,
-    image: pageImage(html, link.url),
-    summary,
+    image: null,
+    summary: `Publication détectée dans le sitemap de ${source.name}. Date issue de lastmod ; à vérifier sur la page source si nécessaire.`,
     tags,
-    method
+    method: 'sitemap_fast'
   });
 }
 
@@ -546,121 +418,47 @@ async function collectBySitemap(source, status) {
   ]).slice(0, MAX_SITEMAP_CANDIDATES);
   status.sitemapCandidatesTested = candidates.length;
 
-  const links = [];
   for (const sitemapUrl of candidates) {
     try {
       const entries = await parseSitemapUrls(sitemapUrl);
-      for (const entry of entries) {
-        if (!isLikelyArticleUrl(entry.url)) continue;
-        if (entry.lastmod) {
-          const lastmod = new Date(entry.lastmod);
-          if (!Number.isNaN(lastmod.getTime()) && lastmod < SINCE_DATE) continue;
-        }
-        links.push({ url: entry.url, date: entry.lastmod || null });
-      }
-      if (links.length) {
-        status.sitemapUrl = sitemapUrl;
-        break;
-      }
+      const articles = entries
+        .filter(entry => isLikelyArticleUrl(entry.url))
+        .map((entry, index) => articleFromSitemapEntry(source, entry, index))
+        .filter(Boolean)
+        .slice(0, MAX_SITEMAP_URLS_PER_SOURCE);
+      if (!articles.length) continue;
+      status.method = 'sitemap_fast';
+      status.status = 'ok';
+      status.urlUsed = sitemapUrl;
+      status.articleCount = articles.length;
+      return articles;
     } catch (error) {
       status.lastSitemapError = error.message;
     }
   }
-
-  const uniqueLinks = dedupeLinks(links).slice(0, MAX_PAGE_DETAILS_PER_SOURCE);
-  const articles = [];
-  for (const [index, link] of uniqueLinks.entries()) {
-    try {
-      const article = await articleFromPage(source, link, index, 'sitemap');
-      if (article) articles.push(article);
-    } catch (error) {
-      status.lastPageDetailError = error.message;
-    }
-  }
-
-  if (articles.length) {
-    status.method = 'sitemap';
-    status.status = 'ok';
-    status.urlUsed = status.sitemapUrl;
-    status.articleCount = articles.length;
-  }
-  return articles;
+  return [];
 }
 
-function extractLinks(html, baseUrl) {
-  const links = [];
-  const regex = /<a\s+[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
-  let match;
-  while ((match = regex.exec(html))) {
-    const href = absoluteUrl(match[1], baseUrl);
-    const title = cleanText(match[2]);
-    if (!href || !title || title.length < 10) continue;
-    try {
-      if (new URL(href).origin !== new URL(baseUrl).origin) continue;
-    } catch {
-      continue;
-    }
-    if (!isLikelyArticleUrl(href) && !/(décret|arrêté|rénovation|énergie|construction|bâtiment|carbone|logement|actualité|article|rapport|publication|étude)/i.test(title)) continue;
-    links.push({ url: href, title });
-  }
-  return dedupeLinks(links);
-}
-
-function dedupeLinks(links) {
-  const seen = new Set();
+function dedupeArticles(articles) {
   const out = [];
-  for (const link of links) {
-    if (!link?.url || seen.has(link.url)) continue;
-    seen.add(link.url);
-    out.push(link);
+  const seen = new Set();
+  for (const article of articles) {
+    const key = article.url || article.id;
+    if (!key || seen.has(key)) continue;
+    seen.add(key);
+    out.push(article);
   }
   return out;
 }
 
-async function collectByListingPage(source, status) {
-  if (!ENABLE_LISTING_PAGE) return [];
-  const siteUrl = sourceBaseUrl(source);
-  const pages = uniq([
-    ...normalizeCandidates(source.listingPages, siteUrl),
-    ...commonListingPages(siteUrl)
-  ]).slice(0, MAX_LISTING_PAGES);
-  status.listingPagesTested = pages.length;
-
-  const candidateLinks = [];
-  for (const pageUrl of pages) {
-    try {
-      const html = await fetchText(pageUrl);
-      const links = extractLinks(html, pageUrl);
-      if (links.length) {
-        candidateLinks.push(...links);
-        status.listingPageUrl = pageUrl;
-      }
-    } catch (error) {
-      status.lastListingError = error.message;
-    }
-  }
-
-  const uniqueLinks = dedupeLinks(candidateLinks).slice(0, MAX_PAGE_DETAILS_PER_SOURCE);
-  const articles = [];
-  for (const [index, link] of uniqueLinks.entries()) {
-    try {
-      const article = await articleFromPage(source, link, index, 'listing_page');
-      if (article) articles.push(article);
-    } catch (error) {
-      status.lastPageDetailError = error.message;
-    }
-  }
-
-  if (articles.length) {
-    status.method = 'listing_page';
-    status.status = 'ok';
-    status.urlUsed = status.listingPageUrl;
-    status.articleCount = articles.length;
-  }
-  return articles;
+function withTimeout(promise, ms, message) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) => setTimeout(() => reject(new Error(message)), ms))
+  ]);
 }
 
-async function fetchSourceEntries(source) {
+async function fetchSourceEntriesInternal(source) {
   const status = {
     sourceId: source.id,
     source: source.name,
@@ -670,26 +468,51 @@ async function fetchSourceEntries(source) {
     articleCount: 0,
     rssCandidatesTested: 0,
     wpApiCandidatesTested: 0,
-    sitemapCandidatesTested: 0,
-    listingPagesTested: 0
+    sitemapCandidatesTested: 0
   };
 
-  const collectors = [collectByRss, collectByWordPressApi, collectBySitemap, collectByListingPage];
+  const collectors = [collectByRss, collectByWordPressApi, collectBySitemap];
   for (const collect of collectors) {
     const articles = await collect(source, status);
     if (articles.length) {
-      for (const article of articles) {
-        if (!article.image) article.image = await fetchOpenGraphImage(article.url);
-      }
       feedStatus.push(status);
       if (VERBOSE) console.log(`${source.name}: ${articles.length} article(s) via ${status.method}`);
       return articles;
     }
   }
-
   feedStatus.push(status);
   if (VERBOSE) console.warn(`${source.name}: aucune publication exploitable`);
   return [];
+}
+
+async function fetchSourceEntries(source) {
+  try {
+    return await withTimeout(fetchSourceEntriesInternal(source), SOURCE_TIMEOUT_MS, `Timeout source ${source.name}`);
+  } catch (error) {
+    feedStatus.push({
+      sourceId: source.id,
+      source: source.name,
+      status: 'timeout_or_error',
+      method: 'none',
+      urlUsed: null,
+      articleCount: 0,
+      error: error.message
+    });
+    return [];
+  }
+}
+
+async function mapWithConcurrency(items, limit, mapper) {
+  const results = new Array(items.length);
+  let index = 0;
+  const workers = Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (index < items.length) {
+      const current = index++;
+      results[current] = await mapper(items[current], current);
+    }
+  });
+  await Promise.all(workers);
+  return results;
 }
 
 async function main() {
@@ -699,22 +522,10 @@ async function main() {
   ]);
 
   const activeSources = sources.filter(source => source.active !== false && source.collectMode !== 'reference_only');
-  const fetchedGroups = [];
-  for (const source of activeSources) {
-    fetchedGroups.push(await fetchSourceEntries(source));
-  }
+  const fetchedGroups = await mapWithConcurrency(activeSources, CONCURRENCY, source => fetchSourceEntries(source));
   const fetchedArticles = fetchedGroups.flat();
 
-  const merged = [...manualEntries, ...fetchedArticles];
-  const deduped = [];
-  const seen = new Set();
-  for (const article of merged) {
-    const key = article.url || article.id;
-    if (!key || seen.has(key)) continue;
-    seen.add(key);
-    deduped.push(article);
-  }
-
+  const deduped = dedupeArticles([...manualEntries, ...fetchedArticles]);
   deduped.sort((a, b) => new Date(b.date) - new Date(a.date));
 
   const payload = {
@@ -743,20 +554,27 @@ async function main() {
     byMethod: {
       rss: feedStatus.filter(x => x.method === 'rss').length,
       wordpress_api: feedStatus.filter(x => x.method === 'wordpress_api').length,
-      sitemap: feedStatus.filter(x => x.method === 'sitemap').length,
-      listing_page: feedStatus.filter(x => x.method === 'listing_page').length,
+      sitemap_fast: feedStatus.filter(x => x.method === 'sitemap_fast').length,
       none: feedStatus.filter(x => x.method === 'none').length
+    },
+    settings: {
+      fetchTimeoutMs: FETCH_TIMEOUT_MS,
+      sourceTimeoutMs: SOURCE_TIMEOUT_MS,
+      concurrency: CONCURRENCY,
+      maxRssCandidates: MAX_RSS_CANDIDATES,
+      maxApiCandidates: MAX_API_CANDIDATES,
+      maxSitemapCandidates: MAX_SITEMAP_CANDIDATES,
+      listingPageScraping: false
     },
     details: feedStatus.sort((a, b) => a.source.localeCompare(b.source, 'fr'))
   };
 
-  const out = `window.BATIVEILLE_DATA = ${JSON.stringify(payload, null, 2)};\n`;
-  await fs.writeFile(path.join(ROOT, 'data.js'), out, 'utf8');
+  await fs.writeFile(path.join(ROOT, 'data.js'), `window.BATIVEILLE_DATA = ${JSON.stringify(payload, null, 2)};\n`, 'utf8');
   await fs.writeFile(path.join(ROOT, 'data.generated.json'), JSON.stringify(payload, null, 2), 'utf8');
   await fs.writeFile(path.join(ROOT, 'feed-status.json'), JSON.stringify(statusPayload, null, 2), 'utf8');
 
   console.log(`data.js mis à jour avec ${payload.articles.length} article(s) depuis le ${payload.since}.`);
-  console.log(`Sources exploitables: ${statusPayload.ok}/${statusPayload.sourceCount}. Méthodes: RSS ${statusPayload.byMethod.rss}, WordPress API ${statusPayload.byMethod.wordpress_api}, sitemap ${statusPayload.byMethod.sitemap}, pages actualités ${statusPayload.byMethod.listing_page}, sans résultat ${statusPayload.byMethod.none}.`);
+  console.log(`Sources exploitables: ${statusPayload.ok}/${statusPayload.sourceCount}. Méthodes: RSS ${statusPayload.byMethod.rss}, WordPress API ${statusPayload.byMethod.wordpress_api}, sitemap rapide ${statusPayload.byMethod.sitemap_fast}, sans résultat ${statusPayload.byMethod.none}.`);
 }
 
 main().catch(error => {
