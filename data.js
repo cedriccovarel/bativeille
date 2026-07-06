@@ -7,8 +7,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.observatoirebbc.org/",
       "category": "Observatoires nationaux bâtiment",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "effinergie",
@@ -17,8 +17,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.effinergie.org/",
       "category": "Certification, labellisation & performance",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "association-bbca",
@@ -27,8 +27,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.batimentbascarbone.org/",
       "category": "Certification, labellisation & performance",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "base-inies",
@@ -37,8 +37,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.inies.fr/",
       "category": "Certification, labellisation & performance",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "observatoire-de-l-immobilier-durable-oid",
@@ -47,8 +47,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://o-immobilierdurable.fr/",
       "category": "Observatoires nationaux bâtiment",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "plan-batiment-durable",
@@ -57,8 +57,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.planbatimentdurable.developpement-durable.gouv.fr/",
       "category": "Développement durable, transition énergétique & RSE",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "observatoire-de-la-qualite-de-l-air-interieur-oqai",
@@ -67,8 +67,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.oqai.fr/",
       "category": "Qualité, risques, santé, confort",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "agence-qualite-construction-aqc",
@@ -77,8 +77,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://qualiteconstruction.com/",
       "category": "Technique, Normalisation & Qualité de la Construction",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "onre-observatoire-national-de-la-renovation-energetique",
@@ -87,8 +87,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.ecologie.gouv.fr/observatoire-national-renovation-energetique",
       "category": "Observatoires nationaux bâtiment",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "onpe-observatoire-national-de-la-precarite-energetique",
@@ -97,8 +97,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://onpe.org/",
       "category": "Qualité, risques, santé, confort",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "onerc-observatoire-national-sur-les-effets-du-rechauffement-climatique",
@@ -107,8 +107,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.ecologie.gouv.fr/observatoire-national-sur-effets-du-rechauffement-climatique-onerc",
       "category": "Climat, risques & résilience",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "onas-observatoire-national-de-l-artificialisation-des-sols",
@@ -117,8 +117,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://artificialisation.developpement-durable.gouv.fr/",
       "category": "Foncier, urbanisme & territoires",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "observatoire-national-de-la-biodiversite-onb",
@@ -127,8 +127,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://naturefrance.fr/observatoire-national-de-la-biodiversite",
       "category": "Biodiversité & environnement",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "observatoire-des-diagnostics-de-performance-energetique-ademe",
@@ -137,8 +137,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://observatoire-dpe-audit.ademe.fr/",
       "category": "Observatoires nationaux bâtiment",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "booster-du-reemploi",
@@ -147,8 +147,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.boosterdureemploi.immo/",
       "category": "Développement durable, transition énergétique & RSE",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cycle-up",
@@ -157,8 +157,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cycle-up.fr/",
       "category": "Développement durable, transition énergétique & RSE",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "bellastock",
@@ -167,8 +167,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.bellastock.com/",
       "category": "Développement durable, transition énergétique & RSE",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "sdes-donnees-et-etudes-statistiques",
@@ -177,8 +177,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.statistiques.developpement-durable.gouv.fr/",
       "category": "Observatoires, statistiques & données de marché",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "insee-construction-logement",
@@ -187,8 +187,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.insee.fr/",
       "category": "Observatoires, statistiques & données de marché",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "sit-del2-construction-neuve",
@@ -197,8 +197,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-neuve",
       "category": "Observatoires, statistiques & données de marché",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "rpls-repertoire-du-parc-locatif-social",
@@ -207,8 +207,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.statistiques.developpement-durable.gouv.fr/repertoire-du-parc-locatif-social-rpls",
       "category": "Observatoires, statistiques & données de marché",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "anil",
@@ -217,8 +217,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.anil.org/",
       "category": "Observatoires, statistiques & données de marché",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "observatoires-locaux-des-loyers",
@@ -227,8 +227,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.observatoires-des-loyers.org/",
       "category": "Observatoires, statistiques & données de marché",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "olap-observatoire-des-loyers-de-l-agglomeration-parisienne",
@@ -237,8 +237,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.observatoire-des-loyers.fr/",
       "category": "Observatoires, statistiques & données de marché",
       "region": "Île-de-France",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "ffb-federation-francaise-du-batiment",
@@ -247,8 +247,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.ffbatiment.fr/",
       "category": "Observatoires, statistiques & données de marché",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "capeb",
@@ -257,8 +257,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.capeb.fr/",
       "category": "Observatoires, statistiques & données de marché",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "reseau-des-cerc",
@@ -267,8 +267,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "Observatoires, statistiques & données de marché",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "banque-des-territoires",
@@ -277,8 +277,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.banquedesterritoires.fr/",
       "category": "Observatoires, statistiques & données de marché",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "union-sociale-pour-l-habitat-ush",
@@ -287,8 +287,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.union-habitat.org/",
       "category": "Observatoires, statistiques & données de marché",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "anru",
@@ -297,8 +297,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.anru.fr/",
       "category": "Foncier, urbanisme & territoires",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "anah",
@@ -307,8 +307,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.anah.gouv.fr/",
       "category": "Observatoires, statistiques & données de marché",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "action-logement",
@@ -317,8 +317,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.actionlogement.fr/",
       "category": "Observatoires, statistiques & données de marché",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "legifrance",
@@ -327,8 +327,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.legifrance.gouv.fr/",
       "category": "Institutionnelles & réglementaires générales",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "ministere-de-la-transition-ecologique",
@@ -337,8 +337,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.ecologie.gouv.fr/",
       "category": "Institutionnelles & réglementaires générales",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "ministere-de-la-culture-architecture",
@@ -347,8 +347,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.culture.gouv.fr/",
       "category": "Institutionnelles & réglementaires générales",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "bomet-bulletin-officiel-du-ministere",
@@ -357,8 +357,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://bulletin-officiel.developpement-durable.gouv.fr/",
       "category": "Institutionnelles & réglementaires générales",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "rt-re-batiment",
@@ -367,8 +367,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.rt-re-batiment.developpement-durable.gouv.fr/",
       "category": "Certification, labellisation & performance",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "ademe",
@@ -377,8 +377,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.ademe.fr/",
       "category": "Développement durable, transition énergétique & RSE",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "cerema",
@@ -387,8 +387,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerema.fr/",
       "category": "Foncier, urbanisme & territoires",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "brgm-infoterre",
@@ -397,8 +397,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://infoterre.brgm.fr/",
       "category": "Climat, risques & résilience",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "georisques",
@@ -407,8 +407,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.georisques.gouv.fr/",
       "category": "Climat, risques & résilience",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "drias-les-futurs-du-climat",
@@ -417,8 +417,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.drias-climat.fr/",
       "category": "Climat, risques & résilience",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "meteo-france",
@@ -427,8 +427,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://meteofrance.com/",
       "category": "Climat, risques & résilience",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "atmo-france",
@@ -437,8 +437,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Qualité, risques, santé, confort",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cstb",
@@ -447,8 +447,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cstb.fr/",
       "category": "Technique, Normalisation & Qualité de la Construction",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "boutique-afnor",
@@ -457,8 +457,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.boutique.afnor.org/",
       "category": "Technique, Normalisation & Qualité de la Construction",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "inc-institut-national-de-la-consommation",
@@ -467,8 +467,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.inc-conso.fr/",
       "category": "Technique, Normalisation & Qualité de la Construction",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "alliance-hqe-gbc",
@@ -477,8 +477,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.hqegbc.org/",
       "category": "Certification, labellisation & performance",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "certivea",
@@ -487,8 +487,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.certivea.fr/",
       "category": "Certification, labellisation & performance",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "qualitel-cerqual",
@@ -497,8 +497,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.qualitel.org/",
       "category": "Certification, labellisation & performance",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "promotelec",
@@ -507,8 +507,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.promotelec.com/",
       "category": "Certification, labellisation & performance",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cequami",
@@ -517,8 +517,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cequami.fr/",
       "category": "Certification, labellisation & performance",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "la-maison-passive",
@@ -527,8 +527,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.lamaisonpassive.fr/",
       "category": "Certification, labellisation & performance",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "le-moniteur",
@@ -537,8 +537,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.lemoniteur.fr/",
       "category": "Presse spécialisée professionnelle",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "le-moniteur-reglementation",
@@ -547,8 +547,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.lemoniteur.fr/reglementation",
       "category": "Presse spécialisée professionnelle",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "batiactu",
@@ -557,8 +557,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.batiactu.com/",
       "category": "Presse spécialisée professionnelle",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "batiweb",
@@ -567,8 +567,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.batiweb.com/",
       "category": "Presse spécialisée professionnelle",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cadre-de-ville",
@@ -577,8 +577,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cadredeville.com/",
       "category": "Presse spécialisée professionnelle",
       "region": "National",
-      "official": false,
-      "access": "Accès mixte"
+      "access": "Accès mixte",
+      "official": false
     },
     {
       "id": "construction21-france",
@@ -587,8 +587,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.construction21.org/france/",
       "category": "Développement durable, transition énergétique & RSE",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "actu-environnement",
@@ -597,8 +597,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.actu-environnement.com/",
       "category": "Développement durable, transition énergétique & RSE",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "ordre-des-architectes-cnoa",
@@ -607,8 +607,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.architectes.org/",
       "category": "Architecture, urbanisme & patrimoine",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "fncaue",
@@ -617,8 +617,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.fncaue.com/",
       "category": "Architecture, urbanisme & patrimoine",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cite-de-l-architecture-et-du-patrimoine",
@@ -627,8 +627,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.citedelarchitecture.fr/",
       "category": "Architecture, urbanisme & patrimoine",
       "region": "National",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "fnau",
@@ -637,8 +637,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.fnau.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "amc-architecture",
@@ -647,8 +647,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.amc-archi.com/",
       "category": "Architecture, urbanisme & patrimoine",
       "region": "National",
-      "official": false,
-      "access": "Accès mixte"
+      "access": "Accès mixte",
+      "official": false
     },
     {
       "id": "d-a-d-architectures",
@@ -657,8 +657,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.darchitectures.com/",
       "category": "Architecture, urbanisme & patrimoine",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "le-courrier-de-l-architecte",
@@ -667,8 +667,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.lecourrierdelarchitecte.com/",
       "category": "Architecture, urbanisme & patrimoine",
       "region": "National",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cyberarchi",
@@ -677,8 +677,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cyberarchi.com/",
       "category": "Architecture, urbanisme & patrimoine",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "ekopolis",
@@ -687,8 +687,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.ekopolis.fr/",
       "category": "Centres ressources régionaux bâtiment durable",
       "region": "Île-de-France",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "institut-paris-region",
@@ -697,8 +697,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.institutparisregion.fr/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Île-de-France",
-      "official": true,
-      "access": ""
+      "access": "",
+      "official": true
     },
     {
       "id": "apur",
@@ -707,8 +707,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.apur.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Île-de-France",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "arec-ile-de-france",
@@ -717,8 +717,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.arec-idf.fr/",
       "category": "Observatoires régionaux environnement",
       "region": "Île-de-France",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "bruitparif",
@@ -727,8 +727,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.bruitparif.fr/",
       "category": "Qualité, risques, santé, confort",
       "region": "Île-de-France",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "arb-ile-de-france",
@@ -737,8 +737,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.arb-idf.fr/",
       "category": "Biodiversité & environnement",
       "region": "Île-de-France",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "ville-amenagement-durable-vad",
@@ -747,8 +747,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.ville-amenagement-durable.org/",
       "category": "Centres ressources régionaux bâtiment durable",
       "region": "Auvergne-Rhône-Alpes",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "aura-ee",
@@ -757,8 +757,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.auvergnerhonealpes-ee.fr/",
       "category": "Observatoires régionaux environnement",
       "region": "Auvergne-Rhône-Alpes",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "orcae-auvergne-rhone-alpes",
@@ -767,8 +767,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.orcae-auvergne-rhone-alpes.fr/",
       "category": "Observatoires régionaux environnement",
       "region": "Auvergne-Rhône-Alpes",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "urbalyon",
@@ -777,8 +777,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.urbalyon.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Auvergne-Rhône-Alpes",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "acoucite",
@@ -787,8 +787,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.acoucite.org/",
       "category": "Qualité, risques, santé, confort",
       "region": "Auvergne-Rhône-Alpes",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "novabuild",
@@ -797,8 +797,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.novabuild.fr/",
       "category": "Centres ressources régionaux bâtiment durable",
       "region": "Pays de la Loire",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "auran",
@@ -807,8 +807,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.auran.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Pays de la Loire",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "addrn",
@@ -817,8 +817,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.addrn.fr/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Pays de la Loire",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "envirobat-occitanie",
@@ -827,8 +827,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.envirobat-oc.fr/",
       "category": "Centres ressources régionaux bâtiment durable",
       "region": "Occitanie",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "arec-occitanie",
@@ -837,8 +837,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.arec-occitanie.fr/",
       "category": "Observatoires régionaux environnement",
       "region": "Occitanie",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "ordeco-occitanie",
@@ -847,8 +847,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.ordeco.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Occitanie",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "auat-toulouse",
@@ -857,8 +857,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.aua-toulouse.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Occitanie",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "a-u-montpellier",
@@ -867,8 +867,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.audrna.com/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Occitanie",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "envirobatbdm",
@@ -877,8 +877,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.envirobatbdm.eu/",
       "category": "Centres ressources régionaux bâtiment durable",
       "region": "Provence-Alpes-Côte d’Azur",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "arbe-region-sud",
@@ -887,8 +887,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.arbe-regionsud.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Provence-Alpes-Côte d’Azur",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "oreca-provence-alpes-cote-d-azur",
@@ -897,8 +897,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://oreca.maregionsud.fr/",
       "category": "Observatoires régionaux environnement",
       "region": "Provence-Alpes-Côte d’Azur",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "agam-marseille",
@@ -907,8 +907,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.agam.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Provence-Alpes-Côte d’Azur",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "aupa-pays-d-aix",
@@ -917,8 +917,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.aupa.fr/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Provence-Alpes-Côte d’Azur",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "odeys",
@@ -927,8 +927,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.odeys.fr/",
       "category": "Centres ressources régionaux bâtiment durable",
       "region": "Nouvelle-Aquitaine",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "arec-nouvelle-aquitaine",
@@ -937,8 +937,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.arec-nouvelleaquitaine.com/",
       "category": "Observatoires régionaux environnement",
       "region": "Nouvelle-Aquitaine",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "arb-nouvelle-aquitaine",
@@ -947,8 +947,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.biodiversite-nouvelle-aquitaine.fr/",
       "category": "Biodiversité & environnement",
       "region": "Nouvelle-Aquitaine",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "a-urba-bordeaux-aquitaine",
@@ -957,8 +957,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.aurba.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Nouvelle-Aquitaine",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "batylab",
@@ -967,8 +967,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.batylab.bzh/",
       "category": "Centres ressources régionaux bâtiment durable",
       "region": "Bretagne",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "oreo-bretagne",
@@ -977,8 +977,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://bretagne-environnement.fr/",
       "category": "Observatoires régionaux environnement",
       "region": "Bretagne",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "audiar-rennes",
@@ -987,8 +987,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.audiar.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Bretagne",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "adeupa-brest-bretagne",
@@ -997,8 +997,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.adeupa-brest.fr/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Bretagne",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cd2e",
@@ -1007,8 +1007,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://cd2e.com/",
       "category": "Centres ressources régionaux bâtiment durable",
       "region": "Hauts-de-France",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "adulm-lille-metropole",
@@ -1017,8 +1017,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.adu-lille-metropole.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Hauts-de-France",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "agur-dunkerque",
@@ -1027,8 +1027,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.agur-dunkerque.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Hauts-de-France",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "envirobat-grand-est-lqe",
@@ -1037,8 +1037,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.envirobatgrandest.fr/",
       "category": "Centres ressources régionaux bâtiment durable",
       "region": "Grand Est",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "adeus-strasbourg",
@@ -1047,8 +1047,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.adeus.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Grand Est",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "aguram-metz",
@@ -1057,8 +1057,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.aguram.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Grand Est",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "scalen-nancy-sud-lorraine",
@@ -1067,8 +1067,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.agencescalen.fr/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Grand Est",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "pole-energie-bourgogne-franche-comte",
@@ -1077,8 +1077,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.pole-energie-bfc.fr/",
       "category": "Centres ressources régionaux bâtiment durable",
       "region": "Bourgogne-Franche-Comté",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "alterre-bourgogne-franche-comte",
@@ -1087,8 +1087,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.alterrebourgognefranchecomte.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Bourgogne-Franche-Comté",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "envirobat-centre",
@@ -1097,8 +1097,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.envirobatcentre.com/",
       "category": "Centres ressources régionaux bâtiment durable",
       "region": "Centre-Val de Loire",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "lig-air",
@@ -1107,8 +1107,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.ligair.fr/",
       "category": "Qualité, risques, santé, confort",
       "region": "Centre-Val de Loire",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atu-tours",
@@ -1117,8 +1117,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atu37.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Centre-Val de Loire",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "aue-corse",
@@ -1127,8 +1127,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.aue.corsica/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Corse",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "aucame-caen-normandie",
@@ -1137,8 +1137,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.aucame.fr/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Normandie",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "aurh-le-havre-estuaire-de-la-seine",
@@ -1147,8 +1147,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.aurh.fr/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Normandie",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "aurbse-rouen-seine-eure",
@@ -1157,8 +1157,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.aurbse.org/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Normandie",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "adduam-martinique",
@@ -1167,8 +1167,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.adduam.com/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Outre-mer",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "audeg-guyane",
@@ -1177,8 +1177,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.audeg.fr/",
       "category": "Foncier, urbanisme & territoires",
       "region": "Outre-mer",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cerc-auvergne-rhone-alpes",
@@ -1187,8 +1187,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "CERC régionales",
       "region": "Auvergne-Rhône-Alpes",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cerc-bourgogne-franche-comte",
@@ -1197,8 +1197,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "CERC régionales",
       "region": "Bourgogne-Franche-Comté",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cerc-bretagne",
@@ -1207,8 +1207,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "CERC régionales",
       "region": "Bretagne",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cerc-centre-val-de-loire",
@@ -1217,8 +1217,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "CERC régionales",
       "region": "Centre-Val de Loire",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cerc-corse",
@@ -1227,8 +1227,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "CERC régionales",
       "region": "Corse",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cerc-grand-est",
@@ -1237,8 +1237,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "CERC régionales",
       "region": "Grand Est",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cerc-hauts-de-france",
@@ -1247,8 +1247,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "CERC régionales",
       "region": "Hauts-de-France",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cerc-ile-de-france",
@@ -1257,8 +1257,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "CERC régionales",
       "region": "Île-de-France",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cerc-normandie",
@@ -1267,8 +1267,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "CERC régionales",
       "region": "Normandie",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cerc-nouvelle-aquitaine",
@@ -1277,8 +1277,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "CERC régionales",
       "region": "Nouvelle-Aquitaine",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cerc-occitanie",
@@ -1287,8 +1287,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "CERC régionales",
       "region": "Occitanie",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cerc-pays-de-la-loire",
@@ -1297,8 +1297,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "CERC régionales",
       "region": "Pays de la Loire",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "cerc-provence-alpes-cote-d-azur",
@@ -1307,8 +1307,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cerc-actu.com/",
       "category": "CERC régionales",
       "region": "Provence-Alpes-Côte d’Azur",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atmo-auvergne-rhone-alpes",
@@ -1317,8 +1317,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Auvergne-Rhône-Alpes",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atmo-bourgogne-franche-comte",
@@ -1327,8 +1327,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Bourgogne-Franche-Comté",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atmo-bretagne",
@@ -1337,8 +1337,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Bretagne",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atmo-centre-val-de-loire",
@@ -1347,8 +1347,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Centre-Val de Loire",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atmo-corse",
@@ -1357,8 +1357,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Corse",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atmo-grand-est",
@@ -1367,8 +1367,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Grand Est",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atmo-hauts-de-france",
@@ -1377,8 +1377,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Hauts-de-France",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atmo-ile-de-france",
@@ -1387,8 +1387,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Île-de-France",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atmo-normandie",
@@ -1397,8 +1397,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Normandie",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atmo-nouvelle-aquitaine",
@@ -1407,8 +1407,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Nouvelle-Aquitaine",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atmo-occitanie",
@@ -1417,8 +1417,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Occitanie",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atmo-pays-de-la-loire",
@@ -1427,8 +1427,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Pays de la Loire",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "atmo-provence-alpes-cote-d-azur",
@@ -1437,8 +1437,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.atmo-france.org/",
       "category": "Observatoires régionaux environnement",
       "region": "Provence-Alpes-Côte d’Azur",
-      "official": false,
-      "access": ""
+      "access": "",
+      "official": false
     },
     {
       "id": "batirama",
@@ -1447,8 +1447,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.batirama.com/",
       "category": "Presse bâtiment / BTP",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "batiinfo",
@@ -1457,8 +1457,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.batiinfo.com/",
       "category": "Presse bâtiment / BTP",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "batitoday",
@@ -1467,8 +1467,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.batitoday.com/",
       "category": "Presse bâtiment / BTP",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "zepros-bati",
@@ -1477,8 +1477,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.zepros.fr/bati",
       "category": "Presse bâtiment / BTP",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "negoce",
@@ -1487,8 +1487,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.negoce.fr/",
       "category": "Presse bâtiment / BTP",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "construction-cayola",
@@ -1497,8 +1497,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.constructioncayola.com/",
       "category": "Presse bâtiment / BTP",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "btp-magazine",
@@ -1507,8 +1507,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.btpmagazine.fr/",
       "category": "Presse bâtiment / BTP",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "acpresse",
@@ -1517,8 +1517,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.acpresse.fr/",
       "category": "Presse bâtiment / BTP",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "verre-protections-magazine",
@@ -1527,8 +1527,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.verreetprotections.com/",
       "category": "Presse bâtiment / BTP",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "filiere-3e",
@@ -1537,8 +1537,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.filiere-3e.fr/",
       "category": "Presse bâtiment / énergie",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "xpair",
@@ -1547,8 +1547,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.xpair.com/",
       "category": "Presse technique bâtiment",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "les-cahiers-techniques-du-batiment",
@@ -1557,8 +1557,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cahiers-techniques-batiment.fr/",
       "category": "Presse technique bâtiment",
       "region": "National",
-      "official": false,
-      "access": "Accès mixte"
+      "access": "Accès mixte",
+      "official": false
     },
     {
       "id": "le-moniteur-des-artisans",
@@ -1567,8 +1567,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.lemoniteur.fr/artisans",
       "category": "Presse bâtiment / BTP",
       "region": "National",
-      "official": false,
-      "access": "Accès mixte"
+      "access": "Accès mixte",
+      "official": false
     },
     {
       "id": "journal-de-lenvironnement",
@@ -1577,8 +1577,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.journaldelenvironnement.net/",
       "category": "Presse environnement / développement durable",
       "region": "National",
-      "official": false,
-      "access": "Accès mixte"
+      "access": "Accès mixte",
+      "official": false
     },
     {
       "id": "environnement-magazine",
@@ -1587,8 +1587,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.environnement-magazine.fr/",
       "category": "Presse environnement / développement durable",
       "region": "National",
-      "official": false,
-      "access": "Accès mixte"
+      "access": "Accès mixte",
+      "official": false
     },
     {
       "id": "techniques-de-lingenieur-actualites",
@@ -1597,8 +1597,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.techniques-ingenieur.fr/actualite/",
       "category": "Presse technique / ingénierie",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "novethic",
@@ -1607,8 +1607,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.novethic.fr/",
       "category": "Presse RSE / finance durable",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "mediatico",
@@ -1617,8 +1617,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.mediatico.fr/",
       "category": "Presse RSE / transition",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "reporterre",
@@ -1627,8 +1627,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://reporterre.net/",
       "category": "Presse écologie",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "vert",
@@ -1637,8 +1637,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://vert.eco/",
       "category": "Presse écologie",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "we-demain",
@@ -1647,8 +1647,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.wedemain.fr/",
       "category": "Presse transition",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "la-tribune-transition-ecologique",
@@ -1657,8 +1657,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.latribune.fr/green-business.html",
       "category": "Presse économie / transition",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "energie-plus",
@@ -1667,8 +1667,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.energie-plus.com/",
       "category": "Presse énergie",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "greenunivers",
@@ -1677,8 +1677,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.greenunivers.com/",
       "category": "Presse énergie",
       "region": "National",
-      "official": false,
-      "access": "Accès mixte"
+      "access": "Accès mixte",
+      "official": false
     },
     {
       "id": "pv-magazine-france",
@@ -1687,8 +1687,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.pv-magazine.fr/",
       "category": "Presse énergie",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "revolution-energetique",
@@ -1697,8 +1697,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.revolution-energetique.com/",
       "category": "Presse énergie",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "connaissance-des-energies",
@@ -1707,8 +1707,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.connaissancedesenergies.org/",
       "category": "Presse énergie",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "enerzine",
@@ -1717,8 +1717,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.enerzine.com/",
       "category": "Presse énergie",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "observer-journal-des-energies-renouvelables",
@@ -1727,8 +1727,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.energies-renouvelables.org/",
       "category": "Presse énergie",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "tecsol-blog",
@@ -1737,8 +1737,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://tecsol.blogs.com/",
       "category": "Presse énergie",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "effy-actualites",
@@ -1747,8 +1747,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.effy.fr/actualite",
       "category": "Presse rénovation énergétique",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "quelle-energie",
@@ -1757,8 +1757,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.quelleenergie.fr/",
       "category": "Presse rénovation énergétique",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "hellio-actualites",
@@ -1767,8 +1767,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.hellio.com/actualites",
       "category": "Presse rénovation énergétique",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "lenergeek",
@@ -1777,8 +1777,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://lenergeek.com/",
       "category": "Presse énergie",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "karibati",
@@ -1787,8 +1787,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.karibati.fr/",
       "category": "Presse / ressources matériaux biosourcés",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "fibois-france",
@@ -1797,8 +1797,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.fibois-france.fr/",
       "category": "Presse / filière bois",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "bois-com",
@@ -1807,8 +1807,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.bois.com/",
       "category": "Presse / filière bois",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "le-commerce-du-bois",
@@ -1817,8 +1817,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.lecommercedubois.org/",
       "category": "Presse / filière bois",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "darchitectures",
@@ -1827,8 +1827,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.darchitectures.com/",
       "category": "Presse architecture / urbanisme",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "le-courrier-de-larchitecte",
@@ -1837,8 +1837,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.lecourrierdelarchitecte.com/",
       "category": "Presse architecture / urbanisme",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "archistorm",
@@ -1847,8 +1847,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.archistorm.com/",
       "category": "Presse architecture / urbanisme",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "larchitecture-daujourdhui",
@@ -1857,8 +1857,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.larchitecturedaujourdhui.fr/",
       "category": "Presse architecture / urbanisme",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "traits-urbains",
@@ -1867,8 +1867,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.traitsurbanes.fr/",
       "category": "Presse urbanisme",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "le-journal-du-grand-paris",
@@ -1877,8 +1877,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.lejournaldugrandparis.fr/",
       "category": "Presse urbanisme / immobilier",
       "region": "Île-de-France",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "business-immo",
@@ -1887,8 +1887,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.businessimmo.com/",
       "category": "Presse immobilier",
       "region": "National",
-      "official": false,
-      "access": "Accès mixte"
+      "access": "Accès mixte",
+      "official": false
     },
     {
       "id": "immoweek",
@@ -1897,8 +1897,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.immoweek.fr/",
       "category": "Presse immobilier",
       "region": "National",
-      "official": false,
-      "access": "Accès mixte"
+      "access": "Accès mixte",
+      "official": false
     },
     {
       "id": "cfnews-immo",
@@ -1907,8 +1907,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.cfnewsimmo.net/",
       "category": "Presse immobilier",
       "region": "National",
-      "official": false,
-      "access": "Accès mixte"
+      "access": "Accès mixte",
+      "official": false
     },
     {
       "id": "la-gazette-des-communes",
@@ -1917,8 +1917,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.lagazettedescommunes.com/",
       "category": "Presse collectivités",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     },
     {
       "id": "localtis-banque-des-territoires",
@@ -1927,8 +1927,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.banquedesterritoires.fr/localtis",
       "category": "Presse collectivités",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "maire-info",
@@ -1937,8 +1937,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.maire-info.com/",
       "category": "Presse collectivités",
       "region": "National",
-      "official": false,
-      "access": "Gratuit"
+      "access": "Gratuit",
+      "official": false
     },
     {
       "id": "acteurs-publics",
@@ -1947,8 +1947,8 @@ window.BATIVEILLE_DATA = {
       "url": "https://acteurspublics.fr/",
       "category": "Presse politiques publiques",
       "region": "National",
-      "official": false,
-      "access": "Accès mixte"
+      "access": "Accès mixte",
+      "official": false
     },
     {
       "id": "id-cite",
@@ -1957,262 +1957,231 @@ window.BATIVEILLE_DATA = {
       "url": "https://www.idcite.com/",
       "category": "Veille collectivités",
       "region": "National",
-      "official": false,
-      "access": "Accès gratuit partiel"
+      "access": "Accès gratuit partiel",
+      "official": false
     }
   ],
   "articles": [
     {
-      "id": "art-001",
-      "title": "Décret n° 2024-450 relatif à la performance énergétique des bâtiments tertiaires",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "url": "https://www.ecologie.gouv.fr/",
-      "date": "2026-06-18",
+      "id": "fncaue-0-1783344570000",
+      "title": "Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/taxe-damenagement-un-courrier-conjoint-adresse-au-ministre-david-amiel/",
+      "image": "https://www.fncaue.com/wp-content/uploads/2025/10/VIGNETTE_SITE_FNCAUE-940x418.png",
+      "date": "2026-07-06",
       "access": "open",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 98,
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
       "tags": [
-        "Réglementation",
-        "Performance énergétique",
-        "Tertiaire"
+        "Architecture",
+        "Urbanisme",
+        "Conseil"
       ],
-      "summary": "Le texte précise les modalités d’application des obligations de réduction de la consommation d’énergie finale dans le parc tertiaire. Intérêt Prestaterre : impacts sur les exigences de suivi énergétique, les audits et l’accompagnement des maîtres d’ouvrage.",
-      "premiumSummary": "",
-      "region": "National"
+      "summary": "Les associations nationales unies pour une réponse rapide de l'État Cet article Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL est apparu en premier sur CAUE. Les associations nationales unies pour une réponse rapide de l'État Cet article Taxe d&rsquo;a…",
+      "premiumSummary": ""
     },
     {
-      "id": "art-002",
-      "title": "Guide pratique — Réemploi des matériaux dans la construction neuve",
-      "source": "CSTB",
-      "sourceId": "cstb",
-      "sourceType": "Organisme technique",
-      "url": "https://www.cstb.fr/",
-      "date": "2026-06-16",
-      "access": "paywall",
+      "id": "fncaue-1-1780043422000",
+      "title": "Les CAUE vous donnent rendez-vous au jardin",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/les-caue-vous-donnent-rendez-vous-au-jardin/",
+      "image": "https://www.fncaue.com/wp-content/uploads/2026/05/Capture-d%E2%80%99e%CC%81cran-2026-05-29-a%CC%80-10.25.12-940x415.png",
+      "date": "2026-05-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil"
+      ],
+      "summary": "Les 5,6 et 7 juin 2026 Cet article Les CAUE vous donnent rendez-vous au jardin est apparu en premier sur CAUE. Les 5,6 et 7 juin 2026 Cet article Les CAUE vous donnent rendez-vous au jardin est apparu en premier sur CAUE . 2026-05-29T08:30:22.000Z Les CAUE vous donnent rendez-vou…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fncaue-2-1775741387000",
+      "title": "La « méthode paysage » ou le paysage comme levier des transitions",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/la-methode-paysage-ou-le-paysage-comme-levier-des-transitions/",
+      "image": "https://www.fncaue.com/wp-content/uploads/2026/04/Capture-d%E2%80%99e%CC%81cran-2026-04-09-a%CC%80-15.26.48.png",
+      "date": "2026-04-09",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil"
+      ],
+      "summary": "Le RAP parle aux élus Cet article La « méthode paysage » ou le paysage comme levier des transitions est apparu en premier sur CAUE. Le RAP parle aux élus Cet article La « méthode paysage » ou le paysage comme levier des transitions est apparu en premier sur CAUE . 2026-04-09T13:2…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fncaue-3-1773153343000",
+      "title": "APPEL A PARTICIPATION – Les Enfants du patrimoine 2026",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/appel-a-participation-les-enfants-du-patrimoine-2026/",
+      "image": "https://www.fncaue.com/wp-content/uploads/2026/03/EDP-2026_Facebook-couverture_sans-date_851x315-940x348.png",
+      "date": "2026-03-10",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil"
+      ],
+      "summary": "La 9e édition se prépare ! Cet article APPEL A PARTICIPATION – Les Enfants du patrimoine 2026 est apparu en premier sur CAUE. La 9e édition se prépare ! Cet article APPEL A PARTICIPATION &#8211; Les Enfants du patrimoine 2026 est apparu en premier sur CAUE . 2026-03-10T14:35:43.0…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fncaue-4-1771584316000",
+      "title": "La Fédération nationale des CAUE et les Vieilles Maisons Françaises (VMF) officialisent un partenariat",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/la-federation-nationale-des-caue-et-les-vieilles-maisons-francaises-vmf-officialisent-un-partenariat/",
+      "image": "https://www.fncaue.com/wp-content/uploads/2026/02/Capture-d%E2%80%99e%CC%81cran-2026-02-20-a%CC%80-11.39.10-669x418.png",
+      "date": "2026-02-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil"
+      ],
+      "summary": "Le 14 novembre dernier, la Fédération nationale des CAUE et l’association Vieilles Maisons Françaises (VMF) ont officialisé la signature d’un partenariat en présence de leurs présidents respectifs, Joël BAUD-GRASSET et Xavier MARIN. Cet article La Fédération nationale des CAUE et…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fncaue-5-1768229735000",
+      "title": "La FNCAUE partenaire du festival Les Voix de la Ville",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/la-fncaue-partenaire-du-festival-les-voix-de-la-ville/",
+      "image": "https://www.fncaue.com/wp-content/uploads/2026/01/Capture-d%E2%80%99e%CC%81cran-2026-01-12-a%CC%80-15.51.26-574x418.png",
+      "date": "2026-01-12",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil"
+      ],
+      "summary": "Quels récits pour nos villes ? Cet article La FNCAUE partenaire du festival Les Voix de la Ville est apparu en premier sur CAUE. Quels récits pour nos villes ? Cet article La FNCAUE partenaire du festival Les Voix de la Ville est apparu en premier sur CAUE . 2026-01-12T14:55:35.0…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fncaue-6-1768224850000",
+      "title": "Interview de Joël BAUD-GRASSET sur France-Culture",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/interview-de-joel-baud-grasset-sur-france-culture/",
+      "image": "https://www.fncaue.com/wp-content/uploads/2026/01/4096px-E%CC%81charpe_tricolore_de_maire_France-743x418.jpg",
+      "date": "2026-01-12",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil"
+      ],
+      "summary": "Les CAUE au service des élus Cet article Interview de Joël BAUD-GRASSET sur France-Culture est apparu en premier sur CAUE. Les CAUE au service des élus Cet article Interview de Joël BAUD-GRASSET sur France-Culture est apparu en premier sur CAUE . 2026-01-12T13:34:10.000Z Intervie…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fncaue-7-1765296696000",
+      "title": "Les Enfants du Patrimoine – bilan 2025",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/les-enfants-du-patrimoine-bilan-2025/",
+      "image": "https://www.fncaue.com/wp-content/uploads/2025/04/EDP-2025_X-feed_1200%C3%97628-1-799x418.jpg",
+      "date": "2025-12-09",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil"
+      ],
+      "summary": "Un succès non démenti pour l'événement national ! Cet article Les Enfants du Patrimoine – bilan 2025 est apparu en premier sur CAUE. Un succès non démenti pour l'événement national ! Cet article Les Enfants du Patrimoine &#8211; bilan 2025 est apparu en premier sur CAUE . 2025-12…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fncaue-8-1764234880000",
+      "title": "SÉNAT – Table-ronde de la commission de la Culture sur la crise des CAUE",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/senat-table-ronde-de-la-commission-de-la-culture-sur-la-crise-des-caue/",
+      "image": "https://www.fncaue.com/wp-content/uploads/2025/11/Capture-d%E2%80%99e%CC%81cran-2025-11-27-a%CC%80-10.11.28-741x418.png",
+      "date": "2025-11-27",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil"
+      ],
+      "summary": "A l’initiative du Président Laurent Lafon, la commission de la Culture du Sénat a organisé une table-ronde, mardi 18 novembre, sur la crise que traversent les CAUE. Cet article SÉNAT – Table-ronde de la commission de la Culture sur la crise des CAUE est apparu en premier sur CAUE…",
+      "premiumSummary": ""
+    },
+    {
+      "id": "fncaue-9-1762790531000",
+      "title": "Les réseaux expriment leur soutien aux CAUE",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/les-reseaux-expriment-leur-soutien-aux-caue/",
+      "image": "https://www.fncaue.com/wp-content/uploads/2025/10/VIGNETTE_SITE_FNCAUE-940x418.png",
+      "date": "2025-11-10",
+      "access": "open",
       "official": false,
       "highImpact": false,
       "impactScore": 82,
       "tags": [
-        "Matériaux & produits",
-        "Économie circulaire",
-        "Réemploi"
+        "Architecture",
+        "Urbanisme",
+        "Conseil",
+        "Eau"
       ],
-      "summary": "Méthodologie et retours d’expérience pour intégrer le réemploi à toutes les étapes d’un projet de construction.",
-      "premiumSummary": "Points clés utiles : 1) structurer le diagnostic ressources dès l’esquisse ; 2) anticiper les contraintes assurantielles et de traçabilité ; 3) intégrer un allotissement compatible avec le réemploi ; 4) prévoir des critères de contrôle qualité et de stockage ; 5) intérêt direct pour les cibles Prestaterre liées à l’économie circulaire, aux matériaux et à la réduction des impacts carbone.",
-      "region": "National"
-    },
-    {
-      "id": "art-003",
-      "title": "Conjoncture de la filière bâtiment — 1er trimestre 2026",
-      "source": "Réseau des CERC",
-      "sourceId": "reseau-des-cerc",
-      "sourceType": "Observatoire économique",
-      "url": "https://www.cerc-actu.com/",
-      "date": "2026-06-14",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 73,
-      "tags": [
-        "Économie du bâtiment",
-        "Conjoncture",
-        "Coûts"
-      ],
-      "summary": "Analyse des tendances économiques du marché du logement neuf et de la rénovation : coûts, délais, tensions sur les entreprises et évolution des mises en chantier.",
-      "premiumSummary": "",
-      "region": "National"
-    },
-    {
-      "id": "art-004",
-      "title": "Loi Climat et Résilience : nouvelles obligations pour le secteur du bâtiment",
-      "source": "Légifrance",
-      "sourceId": "legifrance",
-      "sourceType": "Institution publique",
-      "url": "https://www.vie-publique.fr/",
-      "date": "2026-06-11",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Décarbonation"
-      ],
-      "summary": "Synthèse des obligations réglementaires récentes concernant la rénovation énergétique, le ZAN, la sobriété foncière et les trajectoires de décarbonation.",
-      "premiumSummary": "",
-      "region": "National"
-    },
-    {
-      "id": "art-005",
-      "title": "Actualisation des données environnementales 2026 pour la RE2020",
-      "source": "RT-RE Bâtiment",
-      "sourceId": "rt-re-batiment",
-      "sourceType": "Site réglementaire",
-      "url": "https://www.rt-re-batiment.developpement-durable.gouv.fr/",
-      "date": "2026-06-10",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Performance énergétique",
-        "RE2020",
-        "Données"
-      ],
-      "summary": "Mise à jour des données environnementales et de plusieurs modalités d’usage de la RE2020. À surveiller pour les impacts sur l’analyse RSET/RSEE, l’ACV et les indicateurs carbone.",
-      "premiumSummary": "",
-      "region": "National"
-    },
-    {
-      "id": "art-006",
-      "title": "Été : des bâtiments en quête de fraîcheur",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "url": "https://www.cerema.fr/",
-      "date": "2026-06-08",
-      "access": "open",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 92,
-      "tags": [
-        "Confort d’été",
-        "Adaptation climatique",
-        "Résilience"
-      ],
-      "summary": "Panorama des leviers de confort d’été : protection solaire, inertie, ventilation, usages et adaptation des bâtiments aux épisodes de chaleur.",
-      "premiumSummary": "",
-      "region": "National"
-    },
-    {
-      "id": "art-007",
-      "title": "Observatoire Qualité Construction 2026 — rapport annuel",
-      "source": "AQC — Agence Qualité Construction",
-      "sourceId": "aqc",
-      "sourceType": "Organisme & syndicat",
-      "url": "https://qualiteconstruction.com/",
-      "date": "2026-06-06",
-      "access": "pdf",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 90,
-      "tags": [
-        "Qualité",
-        "Sinistralité",
-        "Pathologies"
-      ],
-      "summary": "Rapport de référence sur les pathologies récurrentes, les sinistres et les non-qualités. Particulièrement utile pour alimenter les réflexions sur la robustesse, la maintenance et les coûts évités.",
-      "premiumSummary": "",
-      "region": "National"
-    },
-    {
-      "id": "art-008",
-      "title": "Construction biosourcée et géosourcée : retours d’expérience opérationnels",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "url": "https://www.cerema.fr/",
-      "date": "2026-06-04",
-      "access": "open",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 79,
-      "tags": [
-        "Biosourcé",
-        "Matériaux & produits",
-        "Carbone"
-      ],
-      "summary": "Le document met en avant des conditions de réussite pour prescrire des matériaux biosourcés et géosourcés, y compris sur la structuration des filières et la performance d’usage.",
-      "premiumSummary": "",
-      "region": "National"
-    },
-    {
-      "id": "art-009",
-      "title": "Rénover les copropriétés : nouvelles aides et priorités 2026",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "url": "https://www.anah.gouv.fr/",
-      "date": "2026-05-30",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Rénovation",
-        "Financement",
-        "Habitat"
-      ],
-      "summary": "Évolutions des aides, critères d’éligibilité et orientations pour les copropriétés. Intérêt direct pour les arbitrages économiques et l’ingénierie de projet.",
-      "premiumSummary": "",
-      "region": "National"
-    },
-    {
-      "id": "art-010",
-      "title": "Décarbonation du bâtiment : où en sont les filières ?",
-      "source": "Construction21 France",
-      "sourceId": "construction21-france",
-      "sourceType": "Presse / centre ressources",
-      "url": "https://www.construction21.org/france/",
-      "date": "2026-05-26",
-      "access": "paywall",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 77,
-      "tags": [
-        "Décarbonation",
-        "Filières",
-        "Économie du bâtiment"
-      ],
-      "summary": "Analyse croisée des dynamiques filières autour des matériaux, du réemploi et de la massification de la rénovation.",
-      "premiumSummary": "Résumé utile : l’article compare les filières béton, bois, terre, isolants biosourcés et réemploi. Il met surtout en évidence les freins structurels : disponibilité matière, stabilisation des coûts, assurance, montée en compétence et visibilité réglementaire. Pour Prestaterre, cela peut servir de base aux argumentaires sur la faisabilité réelle des ambitions environnementales.",
-      "region": "National"
-    },
-    {
-      "id": "art-011",
-      "title": "Sobriété hydrique des bâtiments : leviers, indicateurs et maintenance",
-      "source": "ADEME",
-      "sourceId": "ademe",
-      "sourceType": "Institution publique",
-      "url": "https://www.ademe.fr/",
-      "date": "2026-05-21",
-      "access": "open",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Eau",
-        "Maintenance",
-        "Résilience"
-      ],
-      "summary": "Panorama des dispositifs de réduction des consommations d’eau, de récupération et de maintenance. Pertinent pour les cibles eau et résilience hydrique.",
-      "premiumSummary": "",
-      "region": "National"
-    },
-    {
-      "id": "art-012",
-      "title": "Guide d’interprétation des résultats RE2020 pour les maîtres d’ouvrage",
-      "source": "ADEME",
-      "sourceId": "ademe",
-      "sourceType": "Institution publique",
-      "url": "https://www.ademe.fr/",
-      "date": "2026-05-18",
-      "access": "pdf",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 91,
-      "tags": [
-        "RE2020",
-        "Pédagogie",
-        "Maîtrise d’ouvrage"
-      ],
-      "summary": "Document pédagogique pour lire Bbio, Cep, Cepnr, DH et impacts carbone. Très utile comme support de vulgarisation pour des profils non spécialistes.",
-      "premiumSummary": "",
-      "region": "National"
+      "summary": "Une mobilisation collective au service du cadre de vie Cet article Les réseaux expriment leur soutien aux CAUE est apparu en premier sur CAUE. Une mobilisation collective au service du cadre de vie Cet article Les réseaux expriment leur soutien aux CAUE est apparu en premier sur …",
+      "premiumSummary": ""
     }
   ]
 };
