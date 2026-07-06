@@ -214,7 +214,7 @@ La mise à jour automatique reste configurée toutes les 3 heures (`0 */3 * * *`
 
 
 
-## V4.5 - configuration GitHub Pages stable
+## V4.6 - configuration GitHub Pages stable
 
 Cette version est prévue pour GitHub Pages en mode :
 
@@ -225,3 +225,9 @@ Cette version est prévue pour GitHub Pages en mode :
 Le workflow `.github/workflows/update-feeds.yml` ne déploie pas Pages directement. Il met uniquement à jour `data.js`, `data.generated.json` et `feed-status.json` toutes les 3 heures ou sur lancement manuel.
 
 Le fichier `.nojekyll` est présent à la racine pour éviter tout traitement Jekyll inutile.
+
+
+## V4.6
+
+- Fin forcée du script après écriture des fichiers pour éviter que GitHub Actions reste bloqué avant l’étape de commit.
+- Log explicite : `Fichiers écrits. Fin du script. Passage au commit GitHub Actions.`

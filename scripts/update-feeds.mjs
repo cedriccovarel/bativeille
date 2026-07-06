@@ -577,7 +577,14 @@ async function main() {
   console.log(`Sources exploitables: ${statusPayload.ok}/${statusPayload.sourceCount}. Méthodes: RSS ${statusPayload.byMethod.rss}, WordPress API ${statusPayload.byMethod.wordpress_api}, sitemap rapide ${statusPayload.byMethod.sitemap_fast}, sans résultat ${statusPayload.byMethod.none}.`);
 }
 
-main().catch(error => {
-  console.error(error);
-  process.exit(1);
-});
+main()
+  .then(() => {
+    console.log('Fichiers écrits. Fin du script. Passage au commit GitHub Actions.');
+    // Force la sortie du processus Node : certaines connexions HTTP ouvertes
+    // par les tests RSS/sitemap peuvent sinon garder le runner actif.
+    process.exit(0);
+  })
+  .catch(error => {
+    console.error(error);
+    process.exit(1);
+  });
