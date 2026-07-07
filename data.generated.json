@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T21:42:21.865Z",
+  "generatedAt": "2026-07-07T03:48:16.945Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,207 @@
   ],
   "articles": [
     {
+      "id": "acpresse-rss-0-1783386780000",
+      "title": "Le collège des Grésillons mise sur la trame",
+      "source": "ACPresse",
+      "sourceId": "acpresse",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.acpresse.fr/le-college-des-gresillons-mise-sur-la-trame/",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Béton",
+        "Matériaux",
+        "Technique"
+      ],
+      "summary": "A Asnières-sur-Seine, Brenac & Gonzalez et Associés signe le projet du Collège des Grésillons. Un ensemble tramé où domine le béton blanc. The post Le collège des Grésillons mise sur la trame appeared first on ACPresse. A Asnières-sur-Seine, Brenac &#038; Gonzalez et Associés sig…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "acpresse-rss-1-1783385820000",
+      "title": "Fier de mon béton ! en Paca, Corse et Outre-Mer",
+      "source": "ACPresse",
+      "sourceId": "acpresse",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.acpresse.fr/fier-de-mon-beton-en-paca-corse-et-outre-mer/",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Béton",
+        "Matériaux",
+        "Technique",
+        "Bâtiment"
+      ],
+      "summary": "Prolongez la lecture de la rubrique “En région” avec son pendant numérique : “Fier de mon béton !” L’occasion de découvrir les chantiers emblématiques, les personnages ou les réalisations historiques locales. A l’honneur, ceux et celles de la région Paca , Corse et de l’Outre-Mer…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-0-1783386000000",
+      "title": "Le réchauffement climatique menace le dernier glacier tropical d'Océanie",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Le-rechauffement-climatique-menace-le-dernier-glacier-d-Oceanie",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/indofondue-f3e5a.png?1783386002",
+      "date": "2026-07-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Confort d’été"
+      ],
+      "summary": "Le mont Puncak Jaya, en Papouasie indonésienne, point culminant du pays et même de toute l'Océanie, abrite les derniers glaciers tropicaux de la région. Ils pourraient définitivement disparaître fin 2026 ou début 2027, indique un rapport sur l'état du climat 2025 dans la région P…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1783393800000",
+      "title": "Des molécules intelligentes pour les capteurs et les processeurs",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-molecules-intelligentes-pour-les-capteurs-et-les-processeurs/189619-2026-07",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "La demande de matériaux « intelligents » capables de modifier leurs propriétés physiques en réponse à divers stimuli externes tels que la lumière, la chaleur, la pression, les champs magnétiques et électriques est croissante. L’une de ces propriétés physiques est l’état magnétiqu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1783390200000",
+      "title": "A Vouneuil-sous-Biard, une ancienne décharge devient centrale solaire",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/a-vouneuil-sous-biard-une-ancienne-decharge-devient-centrale-solaire/189860-2026-07",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Le 1er juillet, le Groupe Sorégies et Grand Poitiers ont inauguré la centrale photovoltaïque de Vouneuil-sous-Biard, dans la Vienne. Troisième installation du partenariat Grand Poitiers Photovoltaïque, elle reconvertit une ancienne décharge en site de production d’électricité ren…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1783396073000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1783396073000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1783396073000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "base-inies-rss-0-1783348074000",
       "title": "Devenez un vérificateur ou une vérificatrice habilité-e du programme INIES !",
       "source": "Base INIES",
@@ -2282,6 +2483,170 @@
       "summary": "Nos 80 ans d'histoire collective ont vocation à vivre toute l'année 2026, au-delà de la seule soirée anniversaire que nous préparons pour le 29 septembre prochain aux Folies Gruss. Nos 80 ans d'histoire collective ont vocation à vivre toute l'année 2026, au-delà de la seule soiré…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-0-1783344287000",
+      "title": "un colloque pour les 500 ans de la reconstruction du clocher de la cathedrale de rodez",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/regions/drac-occitanie/actualites/actualite-a-la-une/un-colloque-pour-les-500-ans-de-la-reconstruction-du-clocher-de-la-cathedrale-de-rodez",
+      "image": null,
+      "date": "2026-07-06",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-1-1783341582000",
+      "title": "bicentenaire de la photographie le ministere de la culture et le centre national du livre cnl annoncent les laureats du fonds de soutien except",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/presse/communiques-de-presse/bicentenaire-de-la-photographie-le-ministere-de-la-culture-et-le-centre-national-du-livre-cnl-annoncent-les-laureats-du-fonds-de-soutien-except",
+      "image": null,
+      "date": "2026-07-06",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation",
+        "RE2020"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-2-1783330427000",
+      "title": "157 territoires deja engages une nouvelle campagne de labellisation pour accelerer le deploiement du 100 education artistique et culturelle",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/presse/communiques-de-presse/157-territoires-deja-engages-une-nouvelle-campagne-de-labellisation-pour-accelerer-le-deploiement-du-100-education-artistique-et-culturelle",
+      "image": null,
+      "date": "2026-07-06",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-3-1783349807000",
+      "title": "la liste fouiller en benevole ou visiter un chantier archeologique",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/thematiques/archeologie/ressources-documentaires/introduction-a-l-archeologie/la-liste-fouiller-en-benevole-ou-visiter-un-chantier-archeologique",
+      "image": null,
+      "date": "2026-07-06",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-8-1783341474000",
+      "title": "les musees d ile de france au plus pres de leurs collections",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/regions/drac-ile-de-france/actualites/actualite-a-la-une/les-musees-d-ile-de-france-au-plus-pres-de-leurs-collections",
+      "image": null,
+      "date": "2026-07-06",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-9-1783328964000",
+      "title": "auvergne rhone alpes notre selection d expositions pour un ete artistique",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/regions/drac-auvergne-rhone-alpes/actualites/auvergne-rhone-alpes-notre-selection-d-expositions-pour-un-ete-artistique",
+      "image": null,
+      "date": "2026-07-06",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-117-1783331584000",
+      "title": "rapport d activite de la drac pays de la loire",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/regions/drac-pays-de-la-loire/la-direction-regionale-des-affaires-culturelles-drac-des-pays-de-la-loire/rapport-d-activite-de-la-drac-pays-de-la-loire",
+      "image": null,
+      "date": "2026-07-06",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "cerema-sitemap-1174-1783333538000",
@@ -3001,75 +3366,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "envirobat-grand-est-lqe-sitemap-0-1783327038000",
-      "title": "actualites",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualites/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale"
-      ],
-      "summary": "Publication détectée dans le sitemap de Envirobat Grand Est / LQE. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "envirobat-grand-est-lqe-sitemap-318-1783327038000",
-      "title": "20 ans du prix envirobat grand est",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualite/20-ans-du-prix-envirobat-grand-est/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale"
-      ],
-      "summary": "Publication détectée dans le sitemap de Envirobat Grand Est / LQE. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "envirobat-grand-est-lqe-sitemap-323-1783342625000",
-      "title": "newsletters archives",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/documentation/newsletters/newsletters-archives/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale"
-      ],
-      "summary": "Publication détectée dans le sitemap de Envirobat Grand Est / LQE. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "adeus-strasbourg-rss-0-1783326393000",
       "title": "3+30+300 : les arbres au service de la santé",
       "source": "ADEUS Strasbourg",
@@ -3093,7 +3389,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-0-1783345500000",
+      "id": "acpresse-rss-2-1783345500000",
       "title": "ACFC : « Je suis un ludo-pédagoque actif »",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -3119,7 +3415,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-1-1783342500000",
+      "id": "acpresse-rss-3-1783342500000",
       "title": "Groupe GSE : « Nous sommes devenus des experts du béton décarboné ! »",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -3145,7 +3441,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-2-1783331880000",
+      "id": "acpresse-rss-4-1783331880000",
       "title": "Focus en Paca, Corse et Outre-Mer",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -3169,7 +3465,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-3-1783330500000",
+      "id": "acpresse-rss-5-1783330500000",
       "title": "Le langage de l’architecture décrypté",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -3195,7 +3491,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-4-1783327860000",
+      "id": "acpresse-rss-6-1783327860000",
       "title": "La Casa del Acantilado ou l’antre du dragon !",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -3219,7 +3515,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-5-1783325460000",
+      "id": "acpresse-rss-7-1783325460000",
       "title": "L’église Hallgrímskirkja, icône architecturale de Reykjavik",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -3244,7 +3540,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-6-1783324860000",
+      "id": "acpresse-rss-8-1783324860000",
       "title": "Design & Béton : Quimper, ses traditions et ses bétons cirés",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -3448,7 +3744,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1783348231000",
+      "id": "reporterre-rss-1-1783348231000",
       "title": "PFAS : même des investissements massifs ne permettraient pas de s'en débarrasser",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3473,7 +3769,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1783348035000",
+      "id": "reporterre-rss-2-1783348035000",
       "title": "Fête nationale des États-Unis : 850 000 fusées d'artifice ont fortement dégradé la qualité de l'air",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3498,7 +3794,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1783343795000",
+      "id": "reporterre-rss-3-1783343795000",
       "title": "« Des conditions caniculaires » de retour sur la France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3524,7 +3820,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1783343375000",
+      "id": "reporterre-rss-4-1783343375000",
       "title": "Lorenzo Bramanti, chercheur et défenseur des forêts animales marines, est mort",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3548,7 +3844,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1783343353000",
+      "id": "reporterre-rss-5-1783343353000",
       "title": "Canicule : « Le gouvernement a brillé par son abandon de poste »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3574,7 +3870,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1783342593000",
+      "id": "reporterre-rss-6-1783342593000",
       "title": "Un « permis de tuer » : le gouvernement veut encore faciliter les tirs des policiers",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3599,7 +3895,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1783328777000",
+      "id": "reporterre-rss-7-1783328777000",
       "title": "« Un climatiseur naturel et joyau de biodiversité » menacé par une LGV",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3625,7 +3921,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1783323849000",
+      "id": "reporterre-rss-8-1783323849000",
       "title": "50 attaques contre l'environnement : à Bruxelles, un grand saccage soutenu par l'extrême droite",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3651,7 +3947,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1783322549000",
+      "id": "reporterre-rss-9-1783322549000",
       "title": "En pleine canicule, ils et elles se remobilisent pour le climat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4083,7 +4379,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1783335300000",
+      "id": "enerzine-rss-2-1783335300000",
       "title": "Vigilance canicule juillet 2026 : un nouvel épisode de fortes chaleurs, restez vigilants",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4108,7 +4404,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1783323600000",
+      "id": "enerzine-rss-3-1783323600000",
       "title": "Mobilité douce : le vélo électrique, nouveau pilier de la transition énergétique urbaine",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4134,7 +4430,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1783316700000",
+      "id": "enerzine-rss-4-1783316700000",
       "title": "Optique quantique : une molécule unique mesurée à la limite de Fourier",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4159,7 +4455,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1783314600000",
+      "id": "enerzine-rss-5-1783314600000",
       "title": "Fusion nucléaire : 538 millions de dollars injectés dans la chaîne d’approvisionnement",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4184,7 +4480,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1783311000000",
+      "id": "enerzine-rss-6-1783311000000",
       "title": "35 supercalculateurs NVIDIA en déploiement à travers l’Europe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4209,7 +4505,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1783307400000",
+      "id": "enerzine-rss-7-1783307400000",
       "title": "NatPower et Tesla annoncent 25 GWh de stockage en Italie et au Royaume-Uni",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4234,7 +4530,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1783303800000",
+      "id": "enerzine-rss-8-1783303800000",
       "title": "XPENG dévoilera son SUV électrique L03 le 16 juillet à Munich",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4457,84 +4753,6 @@
       "summary": "L'OPEP+ a approuvé le 5 juillet une cinquième hausse mensuelle consécutive de production (188 000 bpd pour août), mais la production reste 9,64 millions de barils sous les niveaux de février. Les prix du Brent chutent à 72 dollars tandis que le cartel fait face à une fragmentatio…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1783374117000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1783374117000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1783374117000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1783366371000",
@@ -5125,7 +5343,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1783231200000",
+      "id": "reporterre-rss-10-1783231200000",
       "title": "Savoirs effacés et noms sexistes : comment le patriarcat s'infiltre dans la botanique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5177,7 +5395,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1783289400000",
+      "id": "enerzine-rss-9-1783289400000",
       "title": "Correction d’erreurs : IQM annonce une chute des taux logiques d’un facteur mille",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5197,56 +5415,6 @@
         "ENR"
       ],
       "summary": "IQM Quantum Computers a présenté le 22 juin des codes de correction d’erreurs réduisant jusqu’à mille fois les taux d’erreur logiques. Des équipes de Sydney et d’IBM identifient le bruit de mesure comme obstacle principal, tandis qu’un cadre mathématique unifié émerge des travaux…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1783224600000",
-      "title": "TOP500 : le chinois LineShine en tête, AMD toujours maître de l’exascale",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/top500-le-chinois-lineshine-en-tete-amd-toujours-maitre-de-lexascale/189445-2026-07",
-      "image": null,
-      "date": "2026-07-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Le 67e classement TOP500, publié lors de la conférence ISC 2026 à Hambourg, consacre le supercalculateur chinois LineShine, premier système à franchir les 2 exaflops. AMD conserve néanmoins une emprise solide sur le calcul haute performance mondial avec quatre systèmes dans le to…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1783221000000",
-      "title": "CATL dévoile Tener, son stockage sodium-ion sans lithium à Munich",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/catl-devoile-tener-son-stockage-sodium-ion-sans-lithium-a-munich/189451-2026-07",
-      "image": null,
-      "date": "2026-07-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "CATL a présenté lundi à Munich son système de stockage d’énergie Tener, une batterie sodium-ion destinée aux installations à grande échelle. Affichant une durée de vie de 25 à 30 ans et 15 000 cycles, ce produit sans lithium vise le marché mondial à partir de 2027. Quinze mille c…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5325,7 +5493,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1783144800000",
+      "id": "reporterre-rss-11-1783144800000",
       "title": "États-Unis : 250 ans de « transformation profonde de l'environnement »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5350,7 +5518,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1783144800000",
+      "id": "reporterre-rss-12-1783144800000",
       "title": "« La guerre la plus meurtrière après la Seconde Guerre mondiale est en cours » - et personne n'en parle",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5376,7 +5544,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1783144800000",
+      "id": "reporterre-rss-13-1783144800000",
       "title": "« Et si on interdisait les pubs climaticides au Tour de France ? »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5811,7 +5979,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -5857,7 +6025,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-0-1783090725000",
+      "id": "ministere-de-la-culture-architecture-sitemap-4-1783090725000",
       "title": "resultats des concours d adjoint technique des administrations de l etat",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -5880,7 +6048,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-1-1783090184000",
+      "id": "ministere-de-la-culture-architecture-sitemap-5-1783090184000",
       "title": "resultats des concours et examens professionnel d adjoint technique des administrations de l etat principal de 2eme classe3",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -5903,7 +6071,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-2-1783082807000",
+      "id": "ministere-de-la-culture-architecture-sitemap-6-1783082807000",
       "title": "comment valoriser les friches dans leurs diversite avec le label villes ou pays d art et d histoire",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -5926,7 +6094,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-4-1783066954000",
+      "id": "ministere-de-la-culture-architecture-sitemap-10-1783066954000",
       "title": "albert camus ce qu il a pu et ce qu il peut encore apporter au monde",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -5949,7 +6117,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-34-1783091527000",
+      "id": "ministere-de-la-culture-architecture-sitemap-39-1783091527000",
       "title": "l etrange defaite temoignage d un historien de son temps",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -6434,7 +6602,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acpresse-rss-7-1783083060000",
+      "id": "acpresse-rss-9-1783083060000",
       "title": "Inauguration du Totem “Renéssance” à Merville",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -6454,30 +6622,6 @@
         "Technique"
       ],
       "summary": "Le 22 juin dernier, la petite ville de Merville a vibré au rythme de la créativité lors de l’inauguration du Totem “Renéssance”`. The post Inauguration du Totem “Renéssance” à Merville appeared first on ACPresse. Le 22 juin dernier, la petite ville de Merville a vibré au rythme d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "acpresse-rss-8-1783082880000",
-      "title": "Brice Gay-Matos nommé directeur commercial et marketing de Cem’In’Eu",
-      "source": "ACPresse",
-      "sourceId": "acpresse",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.acpresse.fr/brice-gay-matos-nomme-directeur-commercial-et-marketing-de-cemineu/",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Béton",
-        "Matériaux",
-        "Technique"
-      ],
-      "summary": "Cem’In’Eu annonce la nomination de Brice Gay Matos au poste de directeur commercial et marketing. Il succède à Olivier Evrain. The post Brice Gay-Matos nommé directeur commercial et marketing de Cem’In’Eu appeared first on ACPresse. Cem’In’Eu annonce la nomination de Brice Gay Ma…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6610,7 +6754,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1783086748000",
+      "id": "reporterre-rss-14-1783086748000",
       "title": "Pourquoi les retards de train se multiplient pendant la canicule ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6636,7 +6780,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1783085710000",
+      "id": "reporterre-rss-15-1783085710000",
       "title": "La loi d'urgence agricole, « une nouvelle loi Duplomb », selon la ministre de la Transition écologique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6662,7 +6806,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1783082670000",
+      "id": "reporterre-rss-16-1783082670000",
       "title": "Nausées, maux de tête... une microalgue toxique fait trembler le Pays basque",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6688,7 +6832,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1783079742000",
+      "id": "reporterre-rss-17-1783079742000",
       "title": "Canicule de juin : les décès en hausse de presque 30 %",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6714,7 +6858,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1783071203000",
+      "id": "reporterre-rss-18-1783071203000",
       "title": "Mégaferme à saumons : un avis favorable « signe l'arrêt de mort de l'estuaire de la Gironde »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6740,7 +6884,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1783067339000",
+      "id": "reporterre-rss-19-1783067339000",
       "title": "Kérosène durable, cimenterie « bas carbone » : le mirage vert du port de Saint-Nazaire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6766,7 +6910,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1783058400000",
+      "id": "reporterre-rss-20-1783058400000",
       "title": "« Si on n'a pas de pluie, on va être très, très mal » : la France fait face à une sécheresse intense",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7517,7 +7661,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-3-1782999491000",
+      "id": "ministere-de-la-culture-architecture-sitemap-7-1782999491000",
       "title": "entree du fonds albert camus dans les collections nationales a la bibliotheque nationale de france2",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7540,7 +7684,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-10-1782985843000",
+      "id": "ministere-de-la-culture-architecture-sitemap-15-1782985843000",
       "title": "rapport 2026 de la commission de recolement des depots d aeuvres d art sur la manche",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8232,7 +8376,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1783008103000",
+      "id": "reporterre-rss-21-1783008103000",
       "title": "Canicule : Les Écologistes déposent leur motion de censure contre le gouvernement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8257,7 +8401,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1783008067000",
+      "id": "reporterre-rss-22-1783008067000",
       "title": "Près de 7 000 départs de feu : la saison des incendies commence violemment en France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8282,7 +8426,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1783007565000",
+      "id": "reporterre-rss-23-1783007565000",
       "title": "Hareng, cabillaud... des poissons presque disparus des eaux britanniques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8307,7 +8451,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1783004400000",
+      "id": "reporterre-rss-24-1783004400000",
       "title": "« Toutes les plantes vont mourir » : la sécheresse précoce inquiète les paysans",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8333,7 +8477,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1783004336000",
+      "id": "reporterre-rss-25-1783004336000",
       "title": "CNews : QuotaClimat en appelle au Conseil d'État pour faire condamner le climatoscepticisme de la chaîne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8358,7 +8502,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1782999813000",
+      "id": "reporterre-rss-26-1782999813000",
       "title": "Contre les incendies, des milliers de bénévoles patrouillent",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8383,7 +8527,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1782997833000",
+      "id": "reporterre-rss-27-1782997833000",
       "title": "« Un effet machine à laver » : la baignade dans la Loire, populaire mais dangereuse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8409,7 +8553,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1782981534000",
+      "id": "reporterre-rss-28-1782981534000",
       "title": "La fusion des agences de sûreté nucléaire crée le mal-être chez les salariés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8433,7 +8577,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1782979680000",
+      "id": "reporterre-rss-29-1782979680000",
       "title": "Obsolescence programmée : le fabricant Epson en procès pour ses imprimantes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8457,7 +8601,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1782977065000",
+      "id": "reporterre-rss-30-1782977065000",
       "title": "« On en voit un, puis deux, puis trois… » Au fond de l'Atlantique, un cimetière de fûts radioactifs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8481,7 +8625,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1782964800000",
+      "id": "reporterre-rss-31-1782964800000",
       "title": "Boîtes de pizza, opercules de yaourt... Comment des fragments d'emballages plastiques se retrouvent dans les champs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8973,7 +9117,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-5-1782920259000",
+      "id": "ministere-de-la-culture-architecture-sitemap-11-1782920259000",
       "title": "admissibilites admissions aux concours et examens professionnels de chef de travaux d art",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8996,7 +9140,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-6-1782914621000",
+      "id": "ministere-de-la-culture-architecture-sitemap-12-1782914621000",
       "title": "agenda previsionnel de mme catherine pegard ministre de la culture14",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9019,7 +9163,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-7-1782913006000",
+      "id": "ministere-de-la-culture-architecture-sitemap-13-1782913006000",
       "title": "nomination de laetitia guedon et thomas jolly a la direction du theatre national populaire centre dramatique national de villeurbanne",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9042,31 +9186,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-8-1782900679000",
-      "title": "la liste fouiller en benevole ou visiter un chantier archeologique",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/thematiques/archeologie/ressources-documentaires/introduction-a-l-archeologie/la-liste-fouiller-en-benevole-ou-visiter-un-chantier-archeologique",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 90,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-9-1782900239000",
+      "id": "ministere-de-la-culture-architecture-sitemap-14-1782900239000",
       "title": "panorama des credits d impot culturels 2005 2023 cc 2026 2",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9089,7 +9209,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-27-1782918445000",
+      "id": "ministere-de-la-culture-architecture-sitemap-32-1782918445000",
       "title": "mettre en aeuvre l edition informatisee reglementaire des registres d inventaire et de depot d un musee de france",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9644,30 +9764,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acpresse-rss-9-1782897660000",
-      "title": "La Courneuve va accueillir la Colonne Babcock",
-      "source": "ACPresse",
-      "sourceId": "acpresse",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.acpresse.fr/la-courneuve-va-accueillir-la-colonne-babcock/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Béton",
-        "Matériaux",
-        "Technique"
-      ],
-      "summary": "La Colonne Babcock, nouvelle sculpture signée Stefan Shankland, de Marbre d'Ici, va bientôt embellir la place Babcock de La Courneuve (93). The post La Courneuve va accueillir la Colonne Babcock appeared first on ACPresse. La Colonne Babcock, nouvelle sculpture signée Stefan Shan…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "verre-protections-magazine-rss-2-1782915164000",
       "title": "Rentrée des Innovations 2026 : mettez votre nouveauté à l’honneur dans Verre & Protections Mag !",
       "source": "Verre & Protections Magazine",
@@ -9900,7 +9996,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1782924877000",
+      "id": "reporterre-rss-32-1782924877000",
       "title": "Canicule et loi agricole : « Les “assoiffeurs” profitent des crises pour renforcer leur mainmise sur l'eau »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9926,7 +10022,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1782921428000",
+      "id": "reporterre-rss-33-1782921428000",
       "title": "Sainte-Soline : la cour d'appel confirme les condamnations de quatre organisateurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9951,7 +10047,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1782920739000",
+      "id": "reporterre-rss-34-1782920739000",
       "title": "Jusqu'à 46 °C ressentis : la Coupe du monde en alerte canicule",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9977,7 +10073,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1782919247000",
+      "id": "reporterre-rss-35-1782919247000",
       "title": "Chlordécone : 500 parties civiles se pourvoient en cassation",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10002,7 +10098,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1782916104000",
+      "id": "reporterre-rss-36-1782916104000",
       "title": "« Soleil tunisien, profits français : drôle de transition verte ! »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10028,7 +10124,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1782910996000",
+      "id": "reporterre-rss-37-1782910996000",
       "title": "Face à un « système qui les broie », des agriculteurs soutenus par des bénévoles",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10054,7 +10150,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1782893188000",
+      "id": "reporterre-rss-38-1782893188000",
       "title": "Consigne sur le plastique : élus et ONG claquent la porte de la concertation",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10078,7 +10174,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1782893087000",
+      "id": "reporterre-rss-39-1782893087000",
       "title": "Canicule : 5 000 tonnes de cadavres d'animaux enfouis en Bretagne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10103,7 +10199,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1782891718000",
+      "id": "reporterre-rss-40-1782891718000",
       "title": "Météo France : « Dès vendredi, les températures repartent à la hausse »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10129,7 +10225,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1782890967000",
+      "id": "reporterre-rss-41-1782890967000",
       "title": "Sécheresse et températures trop élevées : le nucléaire souffre aussi des canicules",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10155,7 +10251,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1782871200000",
+      "id": "reporterre-rss-42-1782871200000",
       "title": "21 °C à la surface des océans : un record absolu pour la saison",
       "source": "Reporterre",
       "sourceId": "reporterre",
