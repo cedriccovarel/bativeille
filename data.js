@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-08T16:45:38.159Z",
+  "generatedAt": "2026-07-08T21:13:43.638Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2236,6 +2236,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
+      "title": "sobriete energetique plan reduire notre consommation denergie",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/sobriete-energetique-plan-reduire-notre-consommation-denergie",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "atmo-france-sitemap-32-1783498288000",
       "title": "grand public",
       "source": "Atmo France",
@@ -2326,55 +2349,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "batiweb-rss-0-1783515300000",
-      "title": "Des organisations de la filière isolation s'opposent à la loi Relance logement",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/isolation/reforme-maprimerenov-filiere-isolation-alerte-relance-logement-49060",
-      "image": "https://img.batiweb.com/repo-images/article/49060/isolationrelancelogemt.png",
-      "date": "2026-07-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "Rénovation",
-        "Bâtiment"
-      ],
-      "summary": "Les principaux acteurs de la filière isolation dénoncent les mesures du projet de loi Relance logement et la réforme de MaPrimeRénov', qu'ils jugent néfastes pour l'emploi et la rénovation énergétique. Les principaux acteurs de la filière isolation dénoncent les mesures du projet…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-1-1783503000000",
-      "title": "Biogaz : la filière s'inquiète de la réforme du soutien au biométhane",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/energie/biogaz-filiere-alerte-reforme-soutien-biomethane-49058",
-      "image": "https://img.batiweb.com/repo-images/article/49058/bio.jpg",
-      "date": "2026-07-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "L’AAMF, France Gaz Renouvelables, le SER et France Gaz s’inquiètent des évolutions du soutien au biométhane et demandent une concertation avant toute réforme. L’AAMF, France Gaz Renouvelables, le SER et France Gaz s’inquiètent des évolutions du soutien au biométhane et demandent …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "actu-environnement-rss-0-1783521000000",
@@ -2734,7 +2708,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-0-1783517713000",
+      "id": "odeys-rss-0-1783531648000",
+      "title": "[CONCOURS] Tremplin INNOPY 2026",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/actualites/concours-tremplin-innopy-2026",
+      "image": "https://www.odeys.fr/sites/default/files/2026-07/Flyer%20concours%20NAEH_Innopy%20-12_page-0001.jpg",
+      "date": "2026-07-08",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine"
+      ],
+      "summary": "15.09.2026 Odéys a le plaisir de relayer auprès des entreprises innovantes du territoire l'ouverture des candidatures au Concours Tremplin INNOPY 2026, organisé par Newfund NAEH Innopy en partenariat avec la Région Nouvelle Aquitaine, la banque des territoires et les Conseils dép…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "odeys-rss-1-1783517713000",
       "title": "[COLLOQUE] Le chanvre dans la construction",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -3013,6 +3010,30 @@ window.BATIVEILLE_DATA = {
         "Énergie",
         "Climat",
         "Environnement"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-225-1783520586000",
+      "title": "Changement climatique eau hydrologie future bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/article/Changement-climatique-eau-hydrologie-future-bretagne",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
       ],
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
@@ -3758,7 +3779,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "reporterre-rss-12-1783488600000",
-      "title": "« On ne va pas se flinguer la santé » : dans des salles d'escalade à 40°C, des salariés en colère",
+      "title": "« On ne va pas se flinguer la santé » : dans les salles d'escalade Arkose, des salariés en colère",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -3930,7 +3951,7 @@ window.BATIVEILLE_DATA = {
         "Marché énergie",
         "Énergie"
       ],
-      "summary": "Valeco conclut un PPA solaire de 15 ans avec Pomona, distributeur de produits alimentaires aux professionnels. Alterna Energie (groupe Sorégies) fait le lien, s’occupant de l’agrégation et du complément de fourniture. Mais le développeur-producteur filiale d’EnBW se prépare à pro…",
+      "summary": "*Article modifié le 8/7/2026 suite à des précisions de Valeco Valeco conclut un PPA solaire de 15 ans avec Alterna Energie et Pomona, distributeur de produits alimentaires aux professionnels. Alterna Energie (groupe Sorégies) fait le lien, s’occupant de l’agrégation et du complém…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4516,7 +4537,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1783529122000",
+      "id": "le-commerce-du-bois-sitemap-0-1783545203000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4542,7 +4563,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1783529122000",
+      "id": "le-commerce-du-bois-sitemap-1-1783545203000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4568,7 +4589,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1783529122000",
+      "id": "le-commerce-du-bois-sitemap-2-1783545203000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -5189,6 +5210,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
+      "title": "securite sites industriels risques mise place vigilance renforcee",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/securite-sites-industriels-risques-mise-place-vigilance-renforcee",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-culture-architecture-sitemap-0-1783435995000",
       "title": "biblis en folie troisieme edition des journees nationales dediees aux bibliotheques et mediatheques du 2 au 4 octobre 2026",
       "source": "Ministère de la Culture — Architecture",
@@ -5377,124 +5421,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Qu’est-ce qu’un orage ? Éclairs, coups de tonnerre, fortes pluies, bourrasques… autant de manifestations qui peuvent survenir lors d'un orage. Un éclair peut se déclencher à l'intérieur du nuage, entre deux nuages, ou entre le nuage et le sol ou un aéronef (on parle alors de foud…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-2-1783433100000",
-      "title": "HLM : des bailleurs sous-investissent malgré des finances confortables",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/renovation-energetique/bailleurs-sociaux-sous-investissement-ancols-renovation-49054",
-      "image": "https://img.batiweb.com/repo-images/article/49054/ble.jpg",
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Rénovation"
-      ],
-      "summary": "Une étude de l’Ancols révèle que 92 bailleurs sociaux investissent sous la médiane du secteur malgré une situation financière confortable, avec des fonds mobilisables pour la rénovation. Une étude de l’Ancols révèle que 92 bailleurs sociaux investissent sous la médiane du secteur…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-3-1783428900000",
-      "title": "Capeb, Coédis et Sofinco s'allient pour accélérer les installations de PAC",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/energie/pompes-chaleur-capeb-coedis-sofinco-charte-installations-49052",
-      "image": "https://img.batiweb.com/repo-images/article/49052/capebcoedis.png",
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "La Capeb, Coédis et Sofinco signent une charte pour faciliter le financement des pompes à chaleur, accompagner les artisans et accélérer les installations d'ici 2030. La Capeb, Coédis et Sofinco signent une charte pour faciliter le financement des pompes à chaleur, accompagner le…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-4-1783426200000",
-      "title": "MaPrimeRénov' monogeste : « un signal contradictoire », selon l'UFME",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/renovation-energetique/maprimerenov-monogeste-ufme-exclusion-fenetres-49043",
-      "image": "https://img.batiweb.com/repo-images/article/49043/remplacementfenetre.jpg",
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Rénovation",
-        "Bâtiment"
-      ],
-      "summary": "Comme d'autres acteurs du bâtiment et du logement, l'UFME s'oppose à l'exclusion de certains travaux monogestes du dispositif MaPrimeRénov', envisagée par le gouvernement. Pour rappel, le remplacement des fenêtres est concerné. Comme d'autres acteurs du bâtiment et du logement, l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-5-1783422000000",
-      "title": "L'artisanat progresse, même dans les départements qui perdent des habitants",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/etude/l-artisanat-progresse-meme-dans-les-departements-qui-perdent-des-habitants-49029",
-      "image": "https://img.batiweb.com/repo-images/article/49029/cccccc.jpg",
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Le nombre d'entreprises artisanales a progressé de 22 % depuis 2019, y compris dans les territoires en déclin démographique, selon le baromètre ISM-MAAF. Le nombre d'entreprises artisanales a progressé de 22 % depuis 2019, y compris dans les territoires en déclin démographique, s…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-6-1783413900000",
-      "title": "Soudal franchit 1,5 milliard d'euros de chiffre d'affaires en 2025",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/conjoncture/soudal-franchit-15-milliard-deuros-de-chiffre-daffaires-en-2025-49047",
-      "image": "https://img.batiweb.com/repo-images/article/49047/Soudal_r%C3%A9sultats%C3%A9co2026.png",
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Soudal dépasse 1,5 milliard d'euros de chiffre d'affaires en 2025. Le groupe célèbre ses 60 ans avec une croissance de 3 % sur l'année dernière et poursuit son expansion internationale. Soudal dépasse 1,5 milliard d'euros de chiffre d'affaires en 2025. Le groupe célèbre ses 60 an…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8304,155 +8230,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-7-1783355400000",
-      "title": "Réhabilitation de friches : un nouveau levier de croissance pour le BTP ?",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/urbanisme/rehabilitation-friches-levier-croissance-btp-49048",
-      "image": "https://img.batiweb.com/repo-images/article/49048/rehabilitationfriches-une.jpg",
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Face à la raréfaction du foncier disponible, à la pression environnementale et à l'objectif de zéro artificialisation nette des sols (ZAN), la réhabilitation des friches apparaît aujourd’hui comme une opportunité majeure pour le secteur du BTP. Longtemps considérés comme des espa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-8-1783347600000",
-      "title": "Alain Plantier prend la présidence du Réseau des CERC",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/nomination/alain-plantier-president-reseau-cerc-2027-49046",
-      "image": "https://img.batiweb.com/repo-images/article/49046/Nouveau%20projet.jpg",
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Eau"
-      ],
-      "summary": "Le GIE Réseau des CERC a élu Alain Plantier à sa présidence jusqu'au 30 juin 2027. Également président de l'UNICEM et de l'UNPG, il succède à Jean-Christophe Repon. Le GIE Réseau des CERC a élu Alain Plantier à sa présidence jusqu'au 30 juin 2027. Également président de l'UNICEM …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-9-1783345800000",
-      "title": "Île de Bendor : plus de 1 300 volets en bois pour la réhabilitation",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/menuiserie/ile-de-bendor-plus-de-1300-volets-en-bois-pour-la-rehabilitation-49044",
-      "image": "https://img.batiweb.com/repo-images/article/49044/post_Bendor_004.png",
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "Biosourcé",
-        "Bâtiment"
-      ],
-      "summary": "Après cinq ans de travaux, l'île de Bendor rouvre avec 25 bâtiments réhabilités et plus de 1 300 volets en bois installés par Lallemant Fermetures. Après cinq ans de travaux, l'île de Bendor rouvre avec 25 bâtiments réhabilités et plus de 1 300 volets en bois installés par Lallem…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-10-1783345200000",
-      "title": "Logement social : le nombre de Franciliens en attente dépasse les 2 millions",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/immobilier/logement-social-ile-de-france-normandie-2025-49045",
-      "image": "https://img.batiweb.com/repo-images/article/49045/logementsocialidfnormandie.jpg",
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Bâtiment"
-      ],
-      "summary": "Quel est le paysage du logement social ? La demande grimpe en Île-de-France, tandis que la Normandie souligne le poids économique de son parc social. Quel est le paysage du logement social ? La demande grimpe en Île-de-France, tandis que la Normandie souligne le poids économique …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-11-1783342200000",
-      "title": "Heidelberg Materials modernise sa centrale à béton de Clichy",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/construction/heidelberg-materials-modernise-sa-centrale-a-beton-de-clichy-49039",
-      "image": "https://img.batiweb.com/repo-images/article/49039/centrale_Clichy.png",
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Économie du bâtiment"
-      ],
-      "summary": "Heidelberg Materials achève la modernisation de sa centrale à béton de Clichy après 4 millions d'euros d'investissements, avec un mur végétalisé et une capacité de 100 000 m³ par an. Heidelberg Materials achève la modernisation de sa centrale à béton de Clichy après 4 millions d'…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-12-1783332900000",
-      "title": "Notre-Dame de Paris : un nouveau programme de restauration jusqu'en 2033",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/patrimoine/notre-dame-de-paris-un-nouveau-programme-de-restauration-jusqu-en-2033-49042",
-      "image": "https://img.batiweb.com/repo-images/article/49042/ndp.jpg",
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "Un nouveau programme de restauration s'engage pour la cathédrale parisienne jusqu'en 2033. Façades, rosaces, arcs-boutants et tours figurent parmi les prochains chantiers. Un nouveau programme de restauration s'engage pour la cathédrale parisienne jusqu'en 2033. Façades, rosaces,…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "fncaue-rss-0-1783344570000",
       "title": "Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL",
       "source": "FNCAUE",
@@ -8574,7 +8351,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-1-1783362928000",
+      "id": "odeys-rss-2-1783362928000",
       "title": "[REPLAY WEBINAIRE] Retrait-Gonflement des Argiles : mécanismes, impacts et leviers d'action",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -9490,56 +9267,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-13-1783236600000",
-      "title": "Canicule à Paris : ce qui freine la rénovation des copropriétés selon Jacques Baudrier",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/collectivites-territoriales/canicule-paris-renovation-coproprietes-residences-ville-49037",
-      "image": "https://img.batiweb.com/repo-images/article/49037/jacquesbaudrier.jpg",
-      "date": "2026-07-05",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Confort d’été",
-        "Rénovation"
-      ],
-      "summary": "Jacques Baudrier, élu à la mairie de Paris, alerte sur les blocages de la rénovation thermique des copropriétés privées face aux vagues de chaleur. Jacques Baudrier, élu à la mairie de Paris, alerte sur les blocages de la rénovation thermique des copropriétés privées face aux vag…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-14-1783231500000",
-      "title": "Protéger le logement de la canicule : la doctrine du collectif Nos villes à 50°C",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/developpement-durable/logements-fortes-chaleurs-climatisation-solutions-passives-49034",
-      "image": "https://img.batiweb.com/repo-images/article/49034/villes50degres.jpg",
-      "date": "2026-07-05",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "Comment adapter les logements aux fortes chaleurs sans climatiser partout ? Voilà une question sur laquelle s'est penchée le collectif Nos villes à 50°C. Il diffuse sa doctrine à l'approche d'une potentielle nouvelle vague caniculaire. Comment adapter les logements aux fortes cha…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-35-1783231200000",
       "title": "Savoirs effacés et noms sexistes : comment le patriarcat s'infiltre dans la botanique",
       "source": "Reporterre",
@@ -9588,55 +9315,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Effet récif, oiseaux détournés de leur trajectoire : l’Ifremer a étudié l’impact des éoliennes marines et a conclu qu’elles transforment durablement la biodiversité locale. Les […] L’article Éoliennes en mer : elles affectent la biodiversité selon cette étude, mais à quel point ?…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-15-1783146600000",
-      "title": "Marché immobilier : la reprise cale au premier semestre",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/immobilier/marche-immobilier-reprise-difficile-premier-semestre-2026-49038",
-      "image": "https://img.batiweb.com/repo-images/article/49038/laforet.jpg",
-      "date": "2026-07-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Transactions en recul et taux sous pression : les réseaux immobiliers redoutent un second semestre 2026 plus difficile. Transactions en recul et taux sous pression : les réseaux immobiliers redoutent un second semestre 2026 plus difficile. Marché immobilier : la reprise cale au p…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-16-1783143000000",
-      "title": "Ombrières photovoltaïques sur les parkings : des « objectifs inatteignables » ?",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/energie/ombrieres-photovoltaiques-les-grands-parkings-loin-des-objectifs-de-la-loi-49035",
-      "image": "https://img.batiweb.com/repo-images/article/49035/J%C3%A9r%C3%A9my_G%C3%BCnther_Heinz_J%C3%A4hnick.png",
-      "date": "2026-07-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Énergie"
-      ],
-      "summary": "Malgré l'obligation entrée en vigueur le 1er juillet, seuls 10 à 15 % des grands parkings seraient équipés d'ombrières photovoltaïques. Malgré l'obligation entrée en vigueur le 1er juillet, seuls 10 à 15 % des grands parkings seraient équipés d'ombrières photovoltaïques. Ombrière…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9786,6 +9464,29 @@ window.BATIVEILLE_DATA = {
         "Entreprises"
       ],
       "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-37-1783084774000",
+      "title": "secheresse france",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -9951,80 +9652,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Identifiez les leviers pertinents pour réduire l’empreinte eau de vos projets ! En partenariat avec L’eau : un enjeu encore trop peu intégré dans les choix de conception ! Face aux tensions croissantes sur la ressource, la question de l’eau devient un sujet de plus en plus struct…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-17-1783088100000",
-      "title": "Doubs : un stagiaire de 16 ans blessé par un malaxeur à béton",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/prevention/stagiaire-16-ans-blesse-malaxeur-beton-doubs-49036",
-      "image": "https://img.batiweb.com/repo-images/article/49036/db.jpg",
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Confort d’été"
-      ],
-      "summary": "Un adolescent de 16 ans a été blessé lors d'un stage dans une entreprise de travaux publics, dans le Doubs. Son bras a été happé par un malaxeur à béton. Une enquête est en cours. Un adolescent de 16 ans a été blessé lors d'un stage dans une entreprise de travaux publics, dans le…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-18-1783072500000",
-      "title": "MaPrimeRénov' : le CNH rejette la réduction des aides aux travaux par geste",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/legislation/maprimerenov-par-geste-cnh-rejette-reforme-49033",
-      "image": "https://img.batiweb.com/repo-images/article/49033/frg.jpg",
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Rénovation",
-        "Bâtiment"
-      ],
-      "summary": "Le Conseil national de l'habitat a rendu un avis défavorable aux projets de textes du gouvernement visant à restreindre les travaux éligibles à MaPrimeRénov' par geste. Les professionnels du bâtiment dénoncent une réforme contre-productive. Le Conseil national de l'habitat a rend…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-19-1783064700000",
-      "title": "Bosch Home Comfort mise sur la commercialisation d'une nouvelle PAC monobloc",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/nouveaux-produits-du-btp/bosch-home-comfort-pompe-a-chaleur-r290-monobloc-49031",
-      "image": "https://img.batiweb.com/repo-images/article/49031/BoschHC.png",
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Avec sa nouvelle pompe à chaleur monobloc R290 3800i AW, Bosch Home Comfort espère gagner des parts de marché en France, en misant sur les aides publiques et la fidélisation des installateurs. Avec sa nouvelle pompe à chaleur monobloc R290 3800i AW, Bosch Home Comfort espère gagn…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10245,7 +9872,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-2-1783090032000",
+      "id": "odeys-rss-3-1783090032000",
       "title": "[RETOUR EN IMAGES] Visite de chantier du pôle petite enfance, enfance et jeunesse de Thiviers",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -10271,7 +9898,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-3-1783077815000",
+      "id": "odeys-rss-4-1783077815000",
       "title": "[VISITE] 𝗖𝗵𝗮𝗻𝘁𝗶𝗲𝗿 𝗕𝗗𝗡𝗔 « Résidence CANTEGRIT » opération de 27 logements",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -10296,7 +9923,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-4-1783069911000",
+      "id": "odeys-rss-5-1783069911000",
       "title": "[RETOUR EN IMAGES] Lancement régional du programme CEE Adapt Bâti Confort",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -10827,6 +10454,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-316-1782983737000",
+      "title": "vacances sereines applis lete",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/vacances-sereines-applis-lete",
+      "image": null,
+      "date": "2026-07-02",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-culture-architecture-sitemap-10-1782999491000",
       "title": "entree du fonds albert camus dans les collections nationales a la bibliotheque nationale de france2",
       "source": "Ministère de la Culture — Architecture",
@@ -11067,7 +10717,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-5-1783001841000",
+      "id": "odeys-rss-6-1783001841000",
       "title": "[RENCONTRE] Adhérent : Optera. Du bâtiment conçu au bâtiment exploité, le rôle clé de la GTB",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -11093,7 +10743,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-6-1782997073000",
+      "id": "odeys-rss-7-1782997073000",
       "title": "[WEBINAIRE] Résilience, architecture transitoire et bâtiments anciens",
       "source": "Odéys",
       "sourceId": "odeys",
