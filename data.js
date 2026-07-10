@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-10T17:01:07.334Z",
+  "generatedAt": "2026-07-10T21:10:56.659Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2590,7 +2590,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-0-1783696889000",
+      "id": "actu-environnement-rss-0-1783708208000",
+      "title": "Projet de loi agricole : une coalition d'acteurs monte au créneau avant la CMP",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/plateforme-acteurs-eau-projet-loi-protection-souverainete-agricole-parlementaire-appel-retrait-dispositions-eau-texte-48301.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/decryptage/48301_large.jpg",
+      "date": "2026-07-10",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau"
+      ],
+      "summary": "Alors que la commission mixte paritaire doit se tenir le 16 juillet, les appels au retrait du texte ou de ses dispositions sur l'eau se font plus pressants. Certains dénoncent un texte en décalage avec la réalité du terrain et du dérèglement clima... Alors que la commission mixte…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-1-1783696889000",
       "title": "Pollution automobile : Airparif mesure les particules émises par le freinage",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2613,7 +2637,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-1-1783695932000",
+      "id": "actu-environnement-rss-2-1783695932000",
       "title": "Refonte REP textiles (1/5) : un décret pour réduire les exportations et tracer les flux",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2636,7 +2660,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-2-1783694792000",
+      "id": "actu-environnement-rss-3-1783694792000",
       "title": "Trafic d'espèces protégées : trois ans après ses recommandations, l'UICN fait le bilan",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2659,7 +2683,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-3-1783694094000",
+      "id": "actu-environnement-rss-4-1783694094000",
       "title": "Application du régime forestier : la cour administrative d'appel de Bordeaux apporte des précisions",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2684,7 +2708,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-4-1783690186000",
+      "id": "actu-environnement-rss-5-1783690186000",
       "title": "Usine de laine de roche Rockwool à Soissons : les recours des opposants rejetés en appel",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2708,7 +2732,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-5-1783681448000",
+      "id": "actu-environnement-rss-6-1783681448000",
       "title": "À Guérande, la culture industrielle au service de la rénovation de logements sociaux",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2734,7 +2758,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-6-1783680663000",
+      "id": "actu-environnement-rss-7-1783680663000",
       "title": "La diplomatie climatique française doit davantage intégrer l'outremer et la participation citoyenne",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2757,7 +2781,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-7-1783679762000",
+      "id": "actu-environnement-rss-8-1783679762000",
       "title": "Nuisibles : vers la reconduction d'une liste de neuf espèces, dont la martre",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2781,7 +2805,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-8-1783679683000",
+      "id": "actu-environnement-rss-9-1783679683000",
       "title": "DPE : une nouvelle révision du coefficient de conversion de l'électricité prévue en 2027",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2804,7 +2828,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-9-1783679439000",
+      "id": "actu-environnement-rss-10-1783679439000",
       "title": "Parc éolien : la recherche d'une solution la moins impactante pour les espèces protégées n'avait pas été faite",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2828,7 +2852,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-10-1783671402000",
+      "id": "actu-environnement-rss-11-1783671402000",
       "title": "Lire notre dossier d'actu \"Canicule : la France face au défi du confort d'été\"",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -3045,6 +3069,30 @@ window.BATIVEILLE_DATA = {
       "summary": "22.09.2026 Rencontre régionale économie circulaire : rendez-vous le 22 septembre à Bordeaux La Rencontre régionale économie circulaire de Nouvelle-Aquitaine revient le mardi 22 septembre 2026 à l'Hôtel de Région, à Bordeaux. Une journée d'échanges, de retours d'expérience et de s…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-54-1783674700000",
+      "title": "ressource eau pluie bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/article/ressource-eau-pluie-bretagne",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "envirobat-grand-est-lqe-sitemap-0-1783666874000",
@@ -3844,7 +3892,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "reporterre-rss-8-1783661400000",
-      "title": "« Il l'a découverte par terre, au pied du lit » : dans les HLM, la violence de la canicule",
+      "title": "« Je n'oublierai jamais » : dans les HLM, la violence de la canicule et l'indifférence des bailleurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -4278,6 +4326,57 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "connaissance-des-energies-rss-0-1783641600000",
+      "title": "Stockage d'électricité : « la batterie à eau » bat de nouveaux records",
+      "source": "Connaissance des Énergies",
+      "sourceId": "connaissance-des-energies",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.connaissancedesenergies.org/stockage-electricite-la-batterie-a-eau-bat-de-nouveaux-records",
+      "image": "https://images.connaissancedesenergies.org/articles/image-article/hydroelectricite-step.webp",
+      "date": "2026-07-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Statistiques",
+        "Pédagogie",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Les STEP hydroélectriques sont devenues « une priorité stratégique sur les principaux marchés de l'électricité à travers le monde », souligne l'International Hydropower Association (IHA) dans son bilan annuel. Les capacités hydroélectriques mondiales atteignent près de 1 470 GW f…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "connaissance-des-energies-rss-1-1783641600000",
+      "title": "Leasing social des pompes à chaleur : le pari d'une nouvelle économie de l'électrification",
+      "source": "Connaissance des Énergies",
+      "sourceId": "connaissance-des-energies",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.connaissancedesenergies.org/tribune-actualite-energies/leasing-social-des-pompes-a-chaleur-le-pari-dune-nouvelle-economie-de-lelectrification",
+      "image": "https://images.connaissancedesenergies.org/articles/prises-position/clement-le-roy-0-0-0.webp",
+      "date": "2026-07-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Statistiques",
+        "Pédagogie",
+        "Économie du bâtiment"
+      ],
+      "summary": "Après le véhicule électrique, le Gouvernement transpose une logique nouvelle au chauffage résidentiel : celle du leasing social. L'ambition : permettre aux ménages modestes de remplacer leur chaudière gaz ou fioul par une pompe à chaleur réversible sans investissement initial, gr…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "enerzine-rss-0-1783662300000",
       "title": "En Inde, le tandem solaire-batterie devient le format dominant",
       "source": "Enerzine",
@@ -4658,7 +4757,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1783702854000",
+      "id": "le-commerce-du-bois-sitemap-0-1783717843000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4684,7 +4783,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1783702854000",
+      "id": "le-commerce-du-bois-sitemap-1-1783717843000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4710,7 +4809,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1783702854000",
+      "id": "le-commerce-du-bois-sitemap-2-1783717843000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -5107,6 +5206,53 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "association-bbca-rss-0-1783616549000",
+      "title": "Meeting & Afterwork BBCA – retour en images",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/meeting-afterwork-bbca-retour-en-images/",
+      "image": null,
+      "date": "2026-07-09",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire",
+        "Réglementation"
+      ],
+      "summary": "Le 11 juin 2026, BBCA a organisé un \"Meeting & afterwork\" chez DREAM. Une soirée riche en échanges et en inspirations pour accélérer la transition bas-carbone ! L’article Meeting & Afterwork BBCA – retour en images est apparu en premier sur Association BBCA. Le 11 juin 2026, BBCA…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "association-bbca-rss-1-1783585105000",
+      "title": "Revue des médias – juin 2026",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/revue-des-medias-juin-2026/",
+      "image": null,
+      "date": "2026-07-09",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire"
+      ],
+      "summary": "Il n’y a pas d’extrait, car cette publication est protégée. L’article Revue des médias – juin 2026 est apparu en premier sur Association BBCA. Il n’y a pas d’extrait, car cette publication est protégée. L’article Revue des médias &#8211; juin 2026 est apparu en premier sur Associ…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "observatoire-de-l-immobilier-durable-oid-rss-0-1783610921000",
@@ -5543,7 +5689,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-11-1783613564000",
+      "id": "actu-environnement-rss-12-1783613564000",
       "title": "Projet de loi Relance du logement : tour d'horizon des mesures adoptées par le Sénat",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5567,7 +5713,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-12-1783611240000",
+      "id": "actu-environnement-rss-13-1783611240000",
       "title": "Emballages professionnels (2/2) : le report rebat les cartes de la concurrence entre éco-organismes",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5591,7 +5737,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-13-1783611223000",
+      "id": "actu-environnement-rss-14-1783611223000",
       "title": "Impacts du changement climatique : le Gouvernement publie le premier bilan annuel",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5614,7 +5760,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-14-1783605374000",
+      "id": "actu-environnement-rss-15-1783605374000",
       "title": "ENR : enseignements des derniers appels d'offres et perspectives",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5640,7 +5786,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-15-1783605200000",
+      "id": "actu-environnement-rss-16-1783605200000",
       "title": "Forêt : la mortalité des arbres explose sous l'effet d'un cumul d'anomalies climatiques",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5663,7 +5809,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-16-1783585800000",
+      "id": "actu-environnement-rss-17-1783585800000",
       "title": "L'urgence administrative face à l'urgence écologique : les limites des référés en droit de l'environnement",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5686,7 +5832,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-17-1783573200000",
+      "id": "actu-environnement-rss-18-1783573200000",
       "title": "Le Haut Conseil pour le climat favorable à des arrêts de travail en cas de fort stress thermique",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -6972,7 +7118,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-0-1783555200000",
+      "id": "connaissance-des-energies-rss-2-1783555200000",
       "title": "Chèque énergie : le vrai sujet n'est plus seulement l'aide, mais son accès",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -6996,7 +7142,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-1-1783555200000",
+      "id": "connaissance-des-energies-rss-3-1783555200000",
       "title": "Le Québec publie son premier Plan de gestion intégrée des ressources énergétiques",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -7020,7 +7166,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-2-1783555200000",
+      "id": "connaissance-des-energies-rss-4-1783555200000",
       "title": "Les émissions de GES au premier trimestre",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -7768,6 +7914,81 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "association-bbca-rss-2-1783523624000",
+      "title": "Parole de nouveaux membres #épisode 3",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/parole-de-nouveaux-membres-episode-3/",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "Ensemble, nous accélérons la révolution bas-carbone de l’immobilier ! L’article Parole de nouveaux membres #épisode 3 est apparu en premier sur Association BBCA. Ensemble, nous accélérons la révolution bas-carbone de l’immobilier ! Jamais nous n’avons été aussi nombreux à agir po…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "association-bbca-rss-3-1783521812000",
+      "title": "« 2050, L’Odyssée de la ville »",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/2050-lodyssee-de-la-ville/",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire",
+        "Eau"
+      ],
+      "summary": "« 2050, L’Odyssée de la ville » est un magazine de design-fiction publié par Icade, qui explore les transformations urbaines et architecturales, ainsi que les nouveaux usages de la ville en 2050. L’article « 2050, L’Odyssée de la ville » est apparu en premier sur Association BBCA…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "association-bbca-rss-4-1783521422000",
+      "title": "« Rafraîchir : maintenant ! Regards et solutions face à la surchauffe des villes »",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/rafraichir-maintenant-regards-et-solutions-face-a-la-surchauffe-des-villes/",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Bouygues Immobilier publie un livre blanc sur le rafraîchissement des villes et appelle à repenser le confort d’été face au dérèglement climatique. L’article « Rafraîchir : maintenant ! Regards et solutions face à la surchauffe des villes » est apparu en premier sur Association B…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "base-inies-rss-0-1783517350000",
       "title": "Baromètre 2026 de la base INIES",
       "source": "Base INIES",
@@ -7839,6 +8060,29 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
+      "title": "sobriete energetique plan reduire notre consommation denergie",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/sobriete-energetique-plan-reduire-notre-consommation-denergie",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -9285,7 +9529,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-3-1783468800000",
+      "id": "connaissance-des-energies-rss-5-1783468800000",
       "title": "Tarification dynamique : « une opportunité pour profiter des prix négatifs »",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -9307,6 +9551,31 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "Arrivé en France en février 2026, le fournisseur d'énergie Frank Énergie propose des offres à tarification dynamique, directement indexées sur les prix du marché de gros de l'électricité. Si ces offres sont « encouragées par la réglementation européenne et répandues dans les pays…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "connaissance-des-energies-rss-6-1783468800000",
+      "title": "Que deviennent les fûts de déchets radioactifs immergés dans l'Atlantique dans les années 1970 et 1980 ?",
+      "source": "Connaissance des Énergies",
+      "sourceId": "connaissance-des-energies",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.connaissancedesenergies.org/tribune/que-deviennent-les-futs-de-dechets-radioactifs-immerges-dans-latlantique-dans-les-annees-1970-et-1980-les-debuts-de-reponse-dune-expedition-scientifique",
+      "image": "https://images.connaissancedesenergies.org/articles/image-article/que-deviennent-les-futs-de-dechets-radioactifs-immerges-dans-latlantique-dans-les-annees-1970-et-1980-les-debuts-de-reponse-dune-expedition-scientifique.webp",
+      "date": "2026-07-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Statistiques",
+        "Pédagogie",
+        "Confort d’été"
+      ],
+      "summary": "Entre 1971 et 1982, plus de 200 000 fûts de déchets radioactifs ont été immergés dans l'Atlantique Nord-Est, jusqu'à plus de 4 700 mètres de profondeur. Les campagnes scientifiques NODSSUM 2025 et 2026, menées par le CNRS avec la Flotte océanographique française, livrent les prem…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9650,6 +9919,29 @@ window.BATIVEILLE_DATA = {
         "Transition"
       ],
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
+      "title": "securite sites industriels risques mise place vigilance renforcee",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/securite-sites-industriels-risques-mise-place-vigilance-renforcee",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -12206,6 +12498,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-37-1783084774000",
+      "title": "secheresse france",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-culture-architecture-sitemap-20-1783090725000",
       "title": "resultats des concours d adjoint technique des administrations de l etat",
       "source": "Ministère de la Culture — Architecture",
@@ -12787,6 +13102,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-316-1782983737000",
+      "title": "vacances sereines applis lete",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/vacances-sereines-applis-lete",
+      "image": null,
+      "date": "2026-07-02",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-culture-architecture-sitemap-23-1782999491000",
       "title": "entree du fonds albert camus dans les collections nationales a la bibliotheque nationale de france2",
       "source": "Ministère de la Culture — Architecture",
@@ -13300,7 +13638,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-4-1782950400000",
+      "id": "connaissance-des-energies-rss-7-1782950400000",
       "title": "Exportations d'électricité : nouveau record battu au 1ᵉʳ semestre 2026",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -13321,31 +13659,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "La France a exporté 56,8 TWh d'électricité au cours des 6 premiers mois de l'année, selon les dernières données de RTE publiées ce 2 juillet. La France a exporté 56,8 TWh d&#039;électricité au cours des 6 premiers mois de l&#039;année, selon les dernières données de RTE publiées …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "connaissance-des-energies-rss-5-1782950400000",
-      "title": "Que deviennent les fûts de déchets radioactifs immergés dans l'Atlantique dans les années 1970 et 1980 ?",
-      "source": "Connaissance des Énergies",
-      "sourceId": "connaissance-des-energies",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.connaissancedesenergies.org/tribune/que-deviennent-les-futs-de-dechets-radioactifs-immerges-dans-latlantique-dans-les-annees-1970-et-1980-les-debuts-de-reponse-dune-expedition-scientifique",
-      "image": "https://images.connaissancedesenergies.org/articles/image-article/que-deviennent-les-futs-de-dechets-radioactifs-immerges-dans-latlantique-dans-les-annees-1970-et-1980-les-debuts-de-reponse-dune-expedition-scientifique.webp",
-      "date": "2026-07-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Statistiques",
-        "Pédagogie",
-        "Confort d’été"
-      ],
-      "summary": "Entre 1971 et 1982, plus de 200 000 fûts de déchets radioactifs ont été immergés dans l'Atlantique Nord-Est, jusqu'à plus de 4 700 mètres de profondeur. Les campagnes scientifiques NODSSUM 2025 et 2026, menées par le CNRS avec la Flotte océanographique française, livrent les prem…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13956,7 +14269,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-6-1782864000000",
+      "id": "connaissance-des-energies-rss-8-1782864000000",
       "title": "Infrastructures gazières : quels coûts futurs pour un nombre de consommateurs en baisse ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
