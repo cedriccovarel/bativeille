@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T16:01:07.306Z",
+  "generatedAt": "2026-07-11T20:56:15.920Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,7 +2161,32 @@
   ],
   "articles": [
     {
-      "id": "reporterre-rss-0-1783749600000",
+      "id": "reporterre-rss-0-1783788605000",
+      "title": "« Ce projet n'a aucun sens » : la mobilisation s'amplifie contre le canal Seine-Nord Europe",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Ce-projet-n-a-aucun-sens-contre-le-canal-Seine-Nord-Europe-la-mobilisation-s-amplifie",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/72564_1_-e0df9.jpg?1783788606",
+      "date": "2026-07-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Bâtiment"
+      ],
+      "summary": "Plusieurs milliers de manifestants se sont réunis à Oisy-le-Vergers, dans le Pas-de-Calais, contre le mégaprojet fluvial. Une action a ciblé une voie d'accès au chantier, sans rencontrer de répression. Lire la suite - Reportage / Luttes , Transports Plusieurs milliers de manifest…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1783749600000",
       "title": "Sensibilité animale : travaillons à ôter nos œillères !",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2185,7 +2210,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1783749600000",
+      "id": "reporterre-rss-2-1783749600000",
       "title": "Marche aquatique sur ordonnance : oui, la mer a des vertus thérapeutiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2211,7 +2236,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1783749600000",
+      "id": "reporterre-rss-3-1783749600000",
       "title": "La brutalisation de la vie sensible nous mène-t-elle au fascisme ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2461,7 +2486,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1783785654000",
+      "id": "le-commerce-du-bois-sitemap-0-1783803359000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2487,7 +2512,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1783785654000",
+      "id": "le-commerce-du-bois-sitemap-1-1783803359000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2513,7 +2538,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1783785654000",
+      "id": "le-commerce-du-bois-sitemap-2-1783803359000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2537,6 +2562,31 @@
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1783789426000",
+      "title": "Canicule : la Caisse d’Epargne Île-de-France offre 33 climatiseurs à la Pitié-Salpêtrière",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/canicule-la-caisse-depargne-ile-de-france-offre-33-climatiseurs-a-la-pitie-salpetriere/",
+      "image": null,
+      "date": "2026-07-11",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Confort d’été"
+      ],
+      "summary": "En pleine vague de chaleur, la Caisse d'Epargne Île-de-France a livré en urgence 33 climatiseurs mobiles au groupe hospitalier de la Pitié-Salpêtrière, à Paris. Cette opération de mécénat vise à soulager en priorité le service d'oncologie médicale du professeur Jean-Philippe Span…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1783684801000",
@@ -4203,7 +4253,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1783691756000",
+      "id": "mediatico-rss-0-1783666800000",
+      "title": "France Tiers-Lieux disparaît : la fin silencieuse d’une politique publique de huit ans",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/france-tiers-lieux-disparait-la-fin-silencieuse-dune-politique-publique-de-huit-ans/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Pas une déclaration, pas un communiqué, aucun débat public. L’assemblée générale de France Tiers-Lieux a voté sa propre dissolution lundi 29 juin, sans un bruit. À la veille des départs en vacances, pour ne pas déranger. Sans attendre la fin de sa convention avec l’Etat dans deux…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-4-1783691756000",
       "title": "Moules, escargots... 125 espèces de mollusques menacées par l'exploitation minière",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4229,7 +4303,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1783690432000",
+      "id": "reporterre-rss-5-1783690432000",
       "title": "Protection de la nature : la loi fondatrice a 50 ans, mais « elle n'a pas suffi »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4255,7 +4329,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1783690287000",
+      "id": "reporterre-rss-6-1783690287000",
       "title": "La biodiversité victime de la rigueur budgétaire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4280,7 +4354,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1783687050000",
+      "id": "reporterre-rss-7-1783687050000",
       "title": "La pétition contre la « présomption de légitime défense » de la police recueille plus de 500 000 signatures",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4305,7 +4379,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1783685608000",
+      "id": "reporterre-rss-8-1783685608000",
       "title": "« Vol d'eau » dans le Marais poitevin : des sabotages au profit de l'agro-industrie ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4331,7 +4405,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1783684516000",
+      "id": "reporterre-rss-9-1783684516000",
       "title": "Chasse : 4 morts au cours de la saison 2025-2026",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4357,7 +4431,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1783676380000",
+      "id": "reporterre-rss-10-1783676380000",
       "title": "11 morts et au moins 19 disparus : un feu de forêt fulgurant endeuille l'Espagne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4383,7 +4457,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1783672637000",
+      "id": "reporterre-rss-11-1783672637000",
       "title": "« Ne nous oubliez pas après les canicules » : 37 000 « sinistrés climatiques » interpellent l'État",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4409,7 +4483,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1783661400000",
+      "id": "reporterre-rss-12-1783661400000",
       "title": "« Je n'oublierai jamais » : dans les HLM, la violence de la canicule et l'indifférence des bailleurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4435,7 +4509,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1783661400000",
+      "id": "reporterre-rss-13-1783661400000",
       "title": "50 ans après la catastrophe de Seveso, « il y a autant de dioxine dans les terres qu'à l'époque »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5299,7 +5373,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1783693747000",
+      "id": "le-journal-du-grand-paris-rss-1-1783693747000",
       "title": "J. Baudrier : « L’objectif de la nouvelle taxe sur la vacance, c’est que les logements reviennent sur le marché »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5325,7 +5399,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1783691505000",
+      "id": "le-journal-du-grand-paris-rss-2-1783691505000",
       "title": "Financement public de l’innovation : un paysage complexe et mouvant",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5349,7 +5423,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1783688961000",
+      "id": "le-journal-du-grand-paris-rss-3-1783688961000",
       "title": "Pierre Lombard : « Nous nous attaquons aux anomalies de propreté récurrentes »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5375,7 +5449,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1783687331000",
+      "id": "le-journal-du-grand-paris-rss-4-1783687331000",
       "title": "Comment les ports s’intègrent dans leur environnement",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5400,7 +5474,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1783686814000",
+      "id": "le-journal-du-grand-paris-rss-5-1783686814000",
       "title": "Électricité : l’Île-de-France consomme 15 fois plus qu’elle ne produit",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5426,7 +5500,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1783674170000",
+      "id": "le-journal-du-grand-paris-rss-6-1783674170000",
       "title": "Les marchés du Grand Paris – Le Port de Gennevilliers se met au vert pour protéger la Seine",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6956,7 +7030,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1783620000000",
+      "id": "mediatico-rss-1-1783580400000",
+      "title": "Kylian Mbappé : un sourire qui rappelle que les valeurs du sport collectif éclairent la société",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/kylian-mbappe-un-sourire-qui-rappelle-que-les-valeurs-du-sport-collectif-eclairent-toute-la-societe/",
+      "image": null,
+      "date": "2026-07-09",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "La France n’est pas encore triple championne du monde de football – mais on y croit pour ce soir – que le sourire de Kilian Mbappé a déjà reconquis bien des coeurs. Face au Paraguay samedi soir, bousculé, accroché, l’attaquant français a répondu par le jeu, sans (presque) jamais …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-14-1783620000000",
       "title": "Algues vertes : la Cour des Comptes critique encore et toujours les carences de l'État",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6981,7 +7081,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1783609173000",
+      "id": "reporterre-rss-15-1783609173000",
       "title": "Canicule et crudités : la hausse des températures entraîne celle des prix",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7007,7 +7107,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1783608742000",
+      "id": "reporterre-rss-16-1783608742000",
       "title": "Canicule : le réacteur nucléaire de Golfech à l'arrêt pour la 2e fois cet été",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7033,7 +7133,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1783601164000",
+      "id": "reporterre-rss-17-1783601164000",
       "title": "Une « bactérie mangeuse de chair » sur les plages espagnoles : « Les cas graves sont très rares »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7057,7 +7157,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1783600076000",
+      "id": "reporterre-rss-18-1783600076000",
       "title": "Anti-écolo, anti-LGBT… Qui est le futur Défenseur des droits proposé par Macron ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7081,7 +7181,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1783599722000",
+      "id": "reporterre-rss-19-1783599722000",
       "title": "Loi logement : les sénateurs votent le retour sur le marché de 700 000 passoires énergétiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7107,7 +7207,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1783584056000",
+      "id": "reporterre-rss-20-1783584056000",
       "title": "Juin 2026 est le mois le plus chaud jamais enregistré en Europe occidentale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7133,7 +7233,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1783581886000",
+      "id": "reporterre-rss-21-1783581886000",
       "title": "L'écologie selon Marine Le Pen ? Tout pour les fossiles et l'agriculture productiviste",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7158,7 +7258,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1783575000000",
+      "id": "reporterre-rss-22-1783575000000",
       "title": "Canal Seine-Nord Europe : un chantier titanesque, dont personne ne sait à quoi il doit servir",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7184,7 +7284,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1783573200000",
+      "id": "reporterre-rss-23-1783573200000",
       "title": "La politique climatique de la France est très insuffisante, alerte le Haut Conseil pour le climat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7934,7 +8034,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1783622309000",
+      "id": "le-journal-du-grand-paris-rss-7-1783622309000",
       "title": "L’essentiel de la semaine du 6 juillet en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7960,7 +8060,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1783621811000",
+      "id": "le-journal-du-grand-paris-rss-8-1783621811000",
       "title": "Valérie Létard et Vincent Jeanbrun distingués par les Acteurs du Grand Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7985,7 +8085,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1783611299000",
+      "id": "le-journal-du-grand-paris-rss-9-1783611299000",
       "title": "Paris va mettre en œuvre une taxe sur les logements vacants",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8007,32 +8107,6 @@
         "Économie du bâtiment"
       ],
       "summary": "En exploitant à plein les nouvelles possibilités de taxer les logements vacants grâce à la taxe sur la vacance des locaux d'habitation (TVLH), Paris espère remettre 20 000 logements sur le marché. En exploitant à plein les nouvelles possibilités de taxer les logements vacants grâ…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1783611065000",
-      "title": "La canicule va faire monter la température au prochain conseil de Paris",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/la-canicule-va-faire-monter-la-temperature-au-prochain-conseil-de-paris/",
-      "image": null,
-      "date": "2026-07-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Les leçons de la canicule vont alimenter les polémiques lors du prochain Conseil de Paris, qui se tient du 15 au 17 juillet prochains. Les élus insoumis entendent mettre en demeure la municipalité d'élaborer une programmation pluriannuelle de rénovation thermique et d'adaptation …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9386,7 +9460,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1783526400000",
+      "id": "mediatico-rss-2-1783494000000",
+      "title": "L’UDES lance « SOS Employeurs ESS » en Ile-de-France et organise la riposte face aux fragilités de l’économie sociale",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/ludes-lance-sos-employeurs-ess-en-ile-de-france-et-organise-la-riposte-face-aux-fragilites-de-leconomie-sociale/",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Économie du bâtiment"
+      ],
+      "summary": "Dans l’économie sociale et solidaire, la crise se vit au quotidien. Tensions de trésorerie, difficultés de recrutement, arbitrages budgétaires déchirants, et parfois même des risques de fragilisation durable de structures associatives, coopératives ou mutualistes… Dans ce context…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-24-1783526400000",
       "title": "L'acidification des océans pourrait réduire le cerveau des calmars",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9412,7 +9511,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1783524600000",
+      "id": "reporterre-rss-25-1783524600000",
       "title": "Des Pyrénées à la Sicile, la carte des incendies en Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9438,7 +9537,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1783523866000",
+      "id": "reporterre-rss-26-1783523866000",
       "title": "Couverture de survie, papier alu… Que valent ces astuces contre la chaleur ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9464,7 +9563,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1783522612000",
+      "id": "reporterre-rss-27-1783522612000",
       "title": "« C'est très rare » : le procès de Tran To Nga renvoyé devant l'assemblée plénière de la Cour de cassation",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9488,7 +9587,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1783520737000",
+      "id": "reporterre-rss-28-1783520737000",
       "title": "Sécheresse : plus de la moitié des nappes sous les normales",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9514,7 +9613,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1783519857000",
+      "id": "reporterre-rss-29-1783519857000",
       "title": "El Niño pourrait battre « des records » d'intensité en 2026",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9540,7 +9639,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1783517774000",
+      "id": "reporterre-rss-30-1783517774000",
       "title": "Comment la droite instrumentalise George Sand pour relativiser la canicule",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9565,7 +9664,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1783516550000",
+      "id": "reporterre-rss-31-1783516550000",
       "title": "Des crèmes solaires dangereuses vendues sur Shein, Temu et AliExpress",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9591,7 +9690,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1783514783000",
+      "id": "reporterre-rss-32-1783514783000",
       "title": "Incendies, fuites... Les accidents industriels ont augmenté en 2025",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9617,7 +9716,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1783499633000",
+      "id": "reporterre-rss-33-1783499633000",
       "title": "« C'est une improvisation totale, mais ça fonctionne » : face au feu dans la Drôme, les habitants s'organisent",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9643,7 +9742,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1783498966000",
+      "id": "reporterre-rss-34-1783498966000",
       "title": "Bouilloires thermiques : en pleine canicule, le gouvernement « offre un énième cadeau aux propriétaires »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9669,7 +9768,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1783497175000",
+      "id": "reporterre-rss-35-1783497175000",
       "title": "« Nous n'avons jamais été climatosceptiques » : comment le RN a retourné sa veste",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9695,7 +9794,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1783488600000",
+      "id": "reporterre-rss-36-1783488600000",
       "title": "« On ne va pas se flinguer la santé » : dans les salles d'escalade Arkose, des salariés en colère",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11053,7 +11152,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1783442664000",
+      "id": "mediatico-rss-3-1783406700000",
+      "title": "Fusions dans l’ESS : l’économie sociale et solidaire entame sa consolidation !",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/fusions-dans-less-leconomie-sociale-et-solidaire-entame-sa-consolidation/",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Les grandes réorganisations naissent rarement dans le confort, plutôt sous la contrainte. Et cet été, la crise de l’économie sociale et solidaire en est une bonne illustration. Après la fusion entre Admical et le Centre français des fonds et fondations annoncée au printemps (lire…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-37-1783442664000",
       "title": "Corinne Morel Darleux : « Je regarde dehors, un hoquet m'étrangle, on dirait un champignon atomique »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11078,7 +11203,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1783438023000",
+      "id": "reporterre-rss-38-1783438023000",
       "title": "Cours d'école végétalisées : le maire de Bordeaux abandonne en pleine canicule",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11104,7 +11229,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1783432871000",
+      "id": "reporterre-rss-39-1783432871000",
       "title": "Data center, nouvel incinérateur : les territoires pollués sont-ils condamnés à le rester ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11128,7 +11253,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1783432719000",
+      "id": "reporterre-rss-40-1783432719000",
       "title": "Canicule : quand les scientifiques passent pour des « idéologues » et des « petits dictateurs »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11153,7 +11278,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1783432645000",
+      "id": "reporterre-rss-41-1783432645000",
       "title": "Au Liban, « c'est la vie même qui est dans la ligne de mire d'Israël »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11179,7 +11304,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1783429228000",
+      "id": "reporterre-rss-42-1783429228000",
       "title": "Colère agricole : seulement 15 % des contrôles de l'OFB ont visé des agriculteurs en 2025",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11204,7 +11329,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1783427766000",
+      "id": "reporterre-rss-43-1783427766000",
       "title": "Marine Le Pen condamnée, mais éligible à la présidentielle",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11228,7 +11353,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1783427530000",
+      "id": "reporterre-rss-44-1783427530000",
       "title": "Eaux de baignade : tous les sites testés en France sont positifs aux PFAS",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11254,7 +11379,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1783426943000",
+      "id": "reporterre-rss-45-1783426943000",
       "title": "Des PFAS dans les fraises : 6 échantillons sur 10 cultivés en Europe contaminés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11278,7 +11403,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1783412238000",
+      "id": "reporterre-rss-46-1783412238000",
       "title": "« Ces incendies dépassent les capacités de lutte humaines » : face aux feux, ils plaident pour repenser le territoire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11302,7 +11427,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1783404000000",
+      "id": "reporterre-rss-47-1783404000000",
       "title": "Avec la canicule, les places manquent dans les funérariums",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11327,7 +11452,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1783404000000",
+      "id": "reporterre-rss-48-1783404000000",
       "title": "Qu'est-ce que le « pesticide paradox », ce phénomène qui menace notre santé ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11352,7 +11477,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1783386000000",
+      "id": "reporterre-rss-49-1783386000000",
       "title": "Le réchauffement climatique menace le dernier glacier tropical d'Océanie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12085,7 +12210,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1783348231000",
+      "id": "mediatico-rss-4-1783321200000",
+      "title": "Épargne durable : « Les Français doivent enfin savoir ce que finance leur argent »",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/epargne-durable-les-francais-doivent-enfin-savoir-ce-que-finance-leur-argent/",
+      "image": null,
+      "date": "2026-07-06",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Confort d’été"
+      ],
+      "summary": "Alors que la France traverse cet été plusieurs épisodes de canicule historique et que les débats sur la transition écologique se durcissent, une question reste absente des conversations : et si notre épargne pouvait jouer un rôle utile ? Pourrait-elle contribuer à financer la tra…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-50-1783348231000",
       "title": "PFAS : même des investissements massifs ne permettraient pas de s'en débarrasser",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12110,7 +12260,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1783348035000",
+      "id": "reporterre-rss-51-1783348035000",
       "title": "Fête nationale des États-Unis : 850 000 fusées d'artifice ont fortement dégradé la qualité de l'air",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12135,7 +12285,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1783343795000",
+      "id": "reporterre-rss-52-1783343795000",
       "title": "« Des conditions caniculaires » de retour sur la France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12161,7 +12311,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1783343375000",
+      "id": "reporterre-rss-53-1783343375000",
       "title": "Lorenzo Bramanti, chercheur et défenseur des forêts animales marines, est mort",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12185,7 +12335,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1783343353000",
+      "id": "reporterre-rss-54-1783343353000",
       "title": "Canicule : « Le gouvernement a brillé par son abandon de poste »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12211,7 +12361,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1783342593000",
+      "id": "reporterre-rss-55-1783342593000",
       "title": "Un « permis de tuer » : le gouvernement veut encore faciliter les tirs des policiers",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12236,7 +12386,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1783328777000",
+      "id": "reporterre-rss-56-1783328777000",
       "title": "« Un climatiseur naturel » menacé par une LGV",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12262,7 +12412,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1783323849000",
+      "id": "reporterre-rss-57-1783323849000",
       "title": "50 attaques contre l'environnement : à Bruxelles, un grand saccage soutenu par l'extrême droite",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12288,7 +12438,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1783322549000",
+      "id": "reporterre-rss-58-1783322549000",
       "title": "En pleine canicule, ils et elles se remobilisent pour le climat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12412,7 +12562,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-58-1783231200000",
+      "id": "reporterre-rss-59-1783231200000",
       "title": "Savoirs effacés et noms sexistes : comment le patriarcat s'infiltre dans la botanique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12460,31 +12610,6 @@
         "Eau"
       ],
       "summary": "Effet récif, oiseaux détournés de leur trajectoire : l’Ifremer a étudié l’impact des éoliennes marines et a conclu qu’elles transforment durablement la biodiversité locale. Les […] L’article Éoliennes en mer : elles affectent la biodiversité selon cette étude, mais à quel point ?…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1783144800000",
-      "title": "États-Unis : 250 ans de « transformation profonde de l'environnement »",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/250-ans-des-Etats-Unis-La-transformation-de-l-environnement-est-un-element-structurant-de",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/250ansdesusacafaitcombienensystememetrique-cb8d7.jpg?1783144801",
-      "date": "2026-07-04",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation"
-      ],
-      "summary": "Les États-Unis fêtent leur 250ᵉ anniversaire en pleine régression écologique. Pas illogique, pour un pays qui s'est construit par l'appropriation et la transformation de la nature, explique l'historienne Emmanuelle Perez-Tisserant. Les États-Unis célèbrent leur 250ᵉ anniversaire …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13013,6 +13138,31 @@
       "summary": "Publication détectée dans le sitemap de AURBSE Rouen Seine-Eure. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "mediatico-rss-5-1783062000000",
+      "title": "Le Boomerang : un espace de gratuité itinérant comme rempart aux rivalités inter-quartiers à Paris",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/le-boomerang-la-gratuite-la-mobilite-et-la-convivialite-comme-remparts-aux-rivalites-inter-quartiers/",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "Face aux rivalités territoriales, qui nourrissent des violences chroniques et fragilisent les liens entre habitants, et si la solution résidait dans le renforcement des solidarités de proximité ? Des initiatives associatives expérimentent de nouvelles formes de cohésion. Encore f…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-10-1783086933000",
@@ -13546,6 +13696,31 @@
         "Protection solaire"
       ],
       "summary": "Depuis plusieurs mois le Groupement Actibaie, le SNFA, l’UFME, l’UMB-FFB et l’UDTVP informent et accompagnent les entreprises de la filière française de la menuiserie et de la transformation du verre plat à la préparation de la REP Emballages Professionnels (REP... L’article REP …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-6-1782975600000",
+      "title": "Trésorerie des associations : ne laissez plus dormir des milliers d’euros !",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/tresorerie-des-associations-comment-ne-plus-laisser-dormir-des-milliers-deuros/",
+      "image": null,
+      "date": "2026-07-02",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Économie du bâtiment"
+      ],
+      "summary": "Dans certains établissements d’économie sociale et solidaire, les flux financiers sont réglés comme du papier à musique. Au campus de la Châtaigneraie, le directeur Xavier Blondel explique qu’ils tombent à date fixe : prélèvements des familles, subventions, encaissements divers, …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -14104,6 +14279,32 @@
         "Réglementation"
       ],
       "summary": "Le compte à rebours est lancé pour notre numéro 162 spécial \"RENTRÉE DES INNOVATIONS 2026\" de Verre & Protections Mag – une édition incontournable pour valoriser vos nouveautés produits ou solutions. ​Votre participation : Mettez en lumière votre nouveauté 2026,... L’article Rent…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-7-1782889200000",
+      "title": "125 ans de la loi 1901 : bienvenue dans l’ère des associations 4.0",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/125-ans-de-la-loi-1901-bienvenue-dans-lere-des-associations-4-0/",
+      "image": null,
+      "date": "2026-07-01",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Mais quel anniversaire ! Voilà 125 ans tout juste, en ce 1er juillet, naissait la loi de 1901. Une loi de libertés associatives qui fait aujourd’hui pâlir d’envie tant de pays du monde. À l’époque, pas de site internet, pas de réseaux sociaux, encore moins d’intelligence artifici…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
