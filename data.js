@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-10T21:10:56.659Z",
+  "generatedAt": "2026-07-11T02:56:04.170Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1783738551000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-07-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1783738551000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-07-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1783738551000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-07-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1783684801000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -2401,7 +2479,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-0-1783673129000",
+      "id": "ministere-de-la-culture-architecture-sitemap-0-1783700410000",
+      "title": "cet ete je lis ! et vous",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/actualites/cet-ete-je-lis-!-et-vous",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-1-1783699122000",
       "title": "la tapisserie de bayeux est arrivee cette nuit au british museum londres",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -2424,7 +2525,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-1-1783665487000",
+      "id": "ministere-de-la-culture-architecture-sitemap-2-1783665487000",
       "title": "fortes chaleurs la culture au frais",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -2447,7 +2548,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-3-1783674115000",
+      "id": "ministere-de-la-culture-architecture-sitemap-4-1783674115000",
       "title": "tapisserie de bayeux un pret historique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -2470,13 +2571,36 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-6-1783684010000",
+      "id": "ministere-de-la-culture-architecture-sitemap-7-1783684010000",
       "title": "48 maisons des illustres en ile de france mille histoires une nouvelle edition pour un guide qui fait reference",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
       "sourceType": "Institution publique",
       "region": "National",
       "url": "https://www.culture.gouv.fr/regions/drac-ile-de-france/actualites/actualite-a-la-une/48-maisons-des-illustres-en-ile-de-france-mille-histoires-une-nouvelle-edition-pour-un-guide-qui-fait-reference",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-12-1783697520000",
+      "title": "mobilites des publics de festivals un guide pour accompagner la transition en normandie",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/regions/drac-normandie/publications/mobilites-des-publics-de-festivals-un-guide-pour-accompagner-la-transition-en-normandie",
       "image": null,
       "date": "2026-07-10",
       "access": "official",
@@ -3078,6 +3202,77 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Observatoire environnement",
       "region": "Bretagne",
       "url": "https://bretagne-environnement.fr/article/ressource-eau-pluie-bretagne",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-158-1783698781000",
+      "title": "suivi secheresse hydrologique bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/article/suivi-secheresse-hydrologique-bretagne",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-225-1783697305000",
+      "title": "Changement climatique aggravation future pressions milieux usages eau",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/changement-climatique/article/Changement-climatique-aggravation-future-pressions-milieux-usages-eau",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-228-1783695580000",
+      "title": "besoins futurs eau bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/article/besoins-futurs-eau-bretagne",
       "image": null,
       "date": "2026-07-10",
       "access": "open",
@@ -4377,7 +4572,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1783662300000",
+      "id": "enerzine-rss-0-1783721400000",
+      "title": "Quand l’IA lit les ECG pour prédire la mort subite cardiaque",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/quand-lia-lit-les-ecg-pour-predire-la-mort-subite-cardiaque/189373-2026-07",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des chercheurs de l’UC Berkeley ont entraîné un algorithme d’apprentissage profond sur 440 000 électrocardiogrammes suédois, jumelés aux certificats de décès. L’étude révèle un signal électrique invisible à l’œil humain capable d’identifier les patients menacés d’arrêt cardiaque …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1783662300000",
       "title": "En Inde, le tandem solaire-batterie devient le format dominant",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4401,7 +4620,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1783660200000",
+      "id": "enerzine-rss-2-1783660200000",
       "title": "Une station mobile d’hydrogène accélère le déploiement des bus en Basse-Saxe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4426,7 +4645,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1783656600000",
+      "id": "enerzine-rss-3-1783656600000",
       "title": "REDEN inaugure deux serres agrivoltaïques en Charente-Maritime et dans le Var",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4451,7 +4670,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1783653000000",
+      "id": "enerzine-rss-4-1783653000000",
       "title": "DJI dévoile deux nouveaux drones agricoles Agras T55 et T100",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4753,84 +4972,6 @@ window.BATIVEILLE_DATA = {
         "Biosourcé"
       ],
       "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1783717843000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1783717843000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1783717843000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -5331,7 +5472,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-2-1783611566000",
+      "id": "ministere-de-la-culture-architecture-sitemap-3-1783611566000",
       "title": "france 2030 annonce des 20 laureats de la deuxieme vague du dispositif culture immersive",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -5354,7 +5495,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-4-1783610836000",
+      "id": "ministere-de-la-culture-architecture-sitemap-5-1783610836000",
       "title": "voir le monde autrement une annee dans les mots des influenceurs",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -5377,7 +5518,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-5-1783591032000",
+      "id": "ministere-de-la-culture-architecture-sitemap-6-1783591032000",
       "title": "la qualite du logement au coeur des echanges entre les directeurs europeens de l architecture",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -5401,7 +5542,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-10-1783589627000",
+      "id": "ministere-de-la-culture-architecture-sitemap-11-1783589627000",
       "title": "actes de la journee de lancement du parlement de la strategie nationale pour l architecture",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -5424,7 +5565,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-17-1783610127000",
+      "id": "ministere-de-la-culture-architecture-sitemap-19-1783610127000",
       "title": "cathedrale de nimes un patrimoine reexplore des connaissances renouvelees 22 et 23 octobre",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -5447,7 +5588,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-24-1783598740000",
+      "id": "ministere-de-la-culture-architecture-sitemap-26-1783598740000",
       "title": "les musees d ile de france au plus pres de leurs collections",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -6125,29 +6266,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-158-1783611554000",
-      "title": "suivi secheresse hydrologique bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/article/suivi-secheresse-hydrologique-bretagne",
-      "image": null,
-      "date": "2026-07-09",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "oreo-bretagne-sitemap-190-1783555559000",
       "title": "evolution future temperatures bretagne 2050 2100",
       "source": "OREO Bretagne",
@@ -6165,54 +6283,6 @@ window.BATIVEILLE_DATA = {
         "Énergie",
         "Climat",
         "Environnement"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreo-bretagne-sitemap-225-1783612722000",
-      "title": "Changement climatique aggravation future pressions milieux usages eau",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/thematique/changement-climatique/article/Changement-climatique-aggravation-future-pressions-milieux-usages-eau",
-      "image": null,
-      "date": "2026-07-09",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreo-bretagne-sitemap-228-1783608128000",
-      "title": "besoins futurs eau bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/article/besoins-futurs-eau-bretagne",
-      "image": null,
-      "date": "2026-07-09",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Eau"
       ],
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
@@ -7190,7 +7260,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1783635000000",
+      "id": "enerzine-rss-5-1783635000000",
       "title": "Record absolu de la consommation énergétique mondiale (+ 1 ,7 %)",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -7215,7 +7285,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1783601400000",
+      "id": "enerzine-rss-6-1783601400000",
       "title": "Peexweb affiche une croissance de 30% un an après son installation à Saint-Priest",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -7241,7 +7311,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1783585800000",
+      "id": "enerzine-rss-7-1783585800000",
       "title": "BYD Shark : le pick-up hybride qui parcourt 90 km en tout électrique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -7266,7 +7336,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1783575900000",
+      "id": "enerzine-rss-8-1783575900000",
       "title": "Commutation des états de spin des ions manganèse par la lumière",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -7291,7 +7361,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1783573800000",
+      "id": "enerzine-rss-9-1783573800000",
       "title": "Câble C1 : le téléphérique francilien décroche la certification HQE",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -7312,31 +7382,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Île-de-France Mobilités a reçu la certification HQE Infrastructures Durables pour le Câble C1, premier téléphérique urbain de la région. Long de 4,5 km entre Créteil et Villeneuve-Saint-Georges, l’ouvrage 100 % électrique a été distingué pour sa sobriété énergétique et son intégr…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1783570200000",
-      "title": "À Boeil-Bezing, le solaire couvre les terrains de tennis",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/a-boeil-bezing-le-solaire-couvre-les-terrains-de-tennis/189715-2026-07",
-      "image": null,
-      "date": "2026-07-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "La commune béarnaise de Boeil-Bezing a inauguré deux ombrières photovoltaïques d’une puissance totale de 380 kWc. Installées sur les courts de tennis et le parking de la salle des fêtes, elles produiront 418 MWh annuels, soit l’équivalent de la consommation électrique de 183 habi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8064,30 +8109,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
-      "title": "sobriete energetique plan reduire notre consommation denergie",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/sobriete-energetique-plan-reduire-notre-consommation-denergie",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-7-1783503189000",
+      "id": "ministere-de-la-culture-architecture-sitemap-8-1783503189000",
       "title": "preprogramme des 43e journees europeennes du patrimoine les samedi 19 et dimanche 20 septembre 2026",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8110,7 +8132,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-8-1783519656000",
+      "id": "ministere-de-la-culture-architecture-sitemap-9-1783519656000",
       "title": "rapport d activite 2025 du cspla",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8133,7 +8155,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-9-1783523035000",
+      "id": "ministere-de-la-culture-architecture-sitemap-10-1783523035000",
       "title": "la liste fouiller en benevole ou visiter un chantier archeologique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8157,7 +8179,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-14-1783502248000",
+      "id": "ministere-de-la-culture-architecture-sitemap-16-1783502248000",
       "title": "agathe simon a l estrade ex nihilo quand les regards fabriquent le monde",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8180,7 +8202,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-15-1783506433000",
+      "id": "ministere-de-la-culture-architecture-sitemap-17-1783506433000",
       "title": "un colloque pour les 500 ans de la reconstruction du clocher de la cathedrale de rodez",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8204,7 +8226,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-18-1783516493000",
+      "id": "ministere-de-la-culture-architecture-sitemap-20-1783516493000",
       "title": "maylis descazeaux nouvelle directrice regionale des affaires culturelles d occitanie",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9923,30 +9945,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
-      "title": "securite sites industriels risques mise place vigilance renforcee",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/securite-sites-industriels-risques-mise-place-vigilance-renforcee",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-11-1783435995000",
+      "id": "ministere-de-la-culture-architecture-sitemap-13-1783435995000",
       "title": "biblis en folie troisieme edition des journees nationales dediees aux bibliotheques et mediatheques du 2 au 4 octobre 2026",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9969,7 +9968,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-12-1783422109000",
+      "id": "ministere-de-la-culture-architecture-sitemap-14-1783422109000",
       "title": "nomination de servane ducorps et mikael serre a la direction de la comedie de colmar centre dramatique national grand est alsace",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9992,7 +9991,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-13-1783417157000",
+      "id": "ministere-de-la-culture-architecture-sitemap-15-1783417157000",
       "title": "agenda previsionnel de mme catherine pegard ministre de la culture15",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10015,7 +10014,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-16-1783436974000",
+      "id": "ministere-de-la-culture-architecture-sitemap-18-1783436974000",
       "title": "bicentenaire de la photographie le ministere de la culture et le centre national du livre cnl annoncent les laureats du fonds de soutien except",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10039,7 +10038,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-25-1783417495000",
+      "id": "ministere-de-la-culture-architecture-sitemap-27-1783417495000",
       "title": "auvergne rhone alpes notre selection d expositions pour un ete artistique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -11560,7 +11559,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-19-1783330427000",
+      "id": "ministere-de-la-culture-architecture-sitemap-21-1783330427000",
       "title": "157 territoires deja engages une nouvelle campagne de labellisation pour accelerer le deploiement du 100 education artistique et culturelle",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12475,7 +12474,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -12498,30 +12497,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-37-1783084774000",
-      "title": "secheresse france",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-20-1783090725000",
+      "id": "ministere-de-la-culture-architecture-sitemap-22-1783090725000",
       "title": "resultats des concours d adjoint technique des administrations de l etat",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12544,7 +12520,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-21-1783090184000",
+      "id": "ministere-de-la-culture-architecture-sitemap-23-1783090184000",
       "title": "resultats des concours et examens professionnel d adjoint technique des administrations de l etat principal de 2eme classe3",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12567,7 +12543,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-22-1783082807000",
+      "id": "ministere-de-la-culture-architecture-sitemap-24-1783082807000",
       "title": "comment valoriser les friches dans leurs diversite avec le label villes ou pays d art et d histoire",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12590,7 +12566,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-26-1783066954000",
+      "id": "ministere-de-la-culture-architecture-sitemap-28-1783066954000",
       "title": "albert camus ce qu il a pu et ce qu il peut encore apporter au monde",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -13102,30 +13078,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-316-1782983737000",
-      "title": "vacances sereines applis lete",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/vacances-sereines-applis-lete",
-      "image": null,
-      "date": "2026-07-02",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-23-1782999491000",
+      "id": "ministere-de-la-culture-architecture-sitemap-25-1782999491000",
       "title": "entree du fonds albert camus dans les collections nationales a la bibliotheque nationale de france2",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -13687,59 +13640,13 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-27-1782920259000",
+      "id": "ministere-de-la-culture-architecture-sitemap-29-1782920259000",
       "title": "admissibilites admissions aux concours et examens professionnels de chef de travaux d art",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
       "sourceType": "Institution publique",
       "region": "National",
       "url": "https://www.culture.gouv.fr/nous-connaitre/emploi-et-formation/concours-et-examens-professionnels/actualites-des-concours-et-examens-professionnels/admissibilites-admissions-aux-concours-et-examens-professionnels-de-chef-de-travaux-d-art",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-28-1782914621000",
-      "title": "agenda previsionnel de mme catherine pegard ministre de la culture14",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/presse/agenda-ministre/agenda-previsionnel-de-mme-catherine-pegard-ministre-de-la-culture14",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-29-1782913006000",
-      "title": "nomination de laetitia guedon et thomas jolly a la direction du theatre national populaire centre dramatique national de villeurbanne",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/presse/communiques-de-presse/nomination-de-laetitia-guedon-et-thomas-jolly-a-la-direction-du-theatre-national-populaire-centre-dramatique-national-de-villeurbanne",
       "image": null,
       "date": "2026-07-01",
       "access": "official",
