@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T07:32:13.397Z",
+  "generatedAt": "2026-07-12T11:16:16.949Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2262,7 +2262,57 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1783829400000",
+      "id": "enerzine-rss-0-1783851300000",
+      "title": "Canicule : la France suffoque, des records de chaleur nocturne pulvérisés",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/canicule-la-france-suffoque-des-records-de-chaleur-nocturne-pulverises/190748-2026-07",
+      "image": null,
+      "date": "2026-07-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "Une masse d’air brûlant persiste sur l’Hexagone en ce week-end du 11 au 12 juillet. Des températures dépassant les 40 °C sont attendues dimanche dans l’Ouest, tandis que plusieurs records de chaleur nocturne viennent déjà d’être battus. Le risque d’orages violents et de feux de f…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1783844820000",
+      "title": "Sable du Sahara : une vague de poussière venue d’Afrique devrait colorer le ciel européen",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/sable-du-sahara-poussiere-ciel-europe/190739-2026-07",
+      "image": null,
+      "date": "2026-07-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Une remontée massive de sable du Sahara devrait atteindre plusieurs régions d’Europe, teintant le ciel d’orangé et réduisant la visibilité en début de semaine prochaine. Nous devrions donc voir fleurir sur les réseaux sociaux des photos de ciel ocre, de voitures recouvertes d’une…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1783829400000",
       "title": "Seulement 38 % de la population mondiale vivra dans les grandes villes d’ici 2100, une étude défie les prévisions actuelles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2286,7 +2336,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1783825800000",
+      "id": "enerzine-rss-3-1783825800000",
       "title": "Le LHC entame un long silence pour mieux renaître en 2030",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2312,7 +2362,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1783841519000",
+      "id": "lenergeek-rss-0-1783850539000",
+      "title": "Combien coûtent 1000 L de fioul ce dimanche 12 juillet 2026 ?",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/07/12/prix-fioul-domestique-combien-coutent-1000-fioul-dimanche-12-juillet-2026/",
+      "image": null,
+      "date": "2026-07-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le prix du fioul domestique s'établit ce dimanche 12 juillet 2026 à 1,478 €/L pour le fioul ordinaire (1 478 € les 1000 litres livrés). Les tarifs varient fortement selon les départements et la distance aux raffineries. Analyse des composantes du prix, des stratégies d'achat et d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1783854954000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2338,7 +2413,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1783841519000",
+      "id": "le-commerce-du-bois-sitemap-1-1783854954000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2364,7 +2439,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1783841519000",
+      "id": "le-commerce-du-bois-sitemap-2-1783854954000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2566,7 +2641,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1783807800000",
+      "id": "enerzine-rss-4-1783807800000",
       "title": "James Webb perce le mystère d’une planète autour d’une étoile morte",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2590,7 +2665,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1783743000000",
+      "id": "enerzine-rss-5-1783743000000",
       "title": "Une batterie souple qui tire son énergie de l’air ambiant",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2614,7 +2689,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1783739400000",
+      "id": "enerzine-rss-6-1783739400000",
       "title": "Boston Dynamics dévoile un Atlas repensé pour la grande série",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2640,7 +2715,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1783772460000",
+      "id": "lenergeek-rss-1-1783772460000",
       "title": "Batteries : comment la pression mécanique freine la dégradation cellulaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2664,7 +2739,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1783764172000",
+      "id": "lenergeek-rss-2-1783764172000",
       "title": "Combien coûtent 1000 L de fioul ce samedi 11 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2689,7 +2764,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1783749019000",
+      "id": "lenergeek-rss-3-1783749019000",
       "title": "TotalEnergies contourne le détroit d’Ormuz par le Mexique : une route du gaz que personne n’avait anticipée, et qui redistribue les cartes en Asie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2714,7 +2789,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1783747257000",
+      "id": "lenergeek-rss-4-1783747257000",
       "title": "Les éoliennes offshore attirent les poissons et font fuir les oiseaux",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5144,7 +5219,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1783721400000",
+      "id": "enerzine-rss-7-1783721400000",
       "title": "Quand l’IA lit les ECG pour prédire la mort subite cardiaque",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5168,7 +5243,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1783662300000",
+      "id": "enerzine-rss-8-1783662300000",
       "title": "En Inde, le tandem solaire-batterie devient le format dominant",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5192,7 +5267,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1783660200000",
+      "id": "enerzine-rss-9-1783660200000",
       "title": "Une station mobile d’hydrogène accélère le déploiement des bus en Basse-Saxe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5217,57 +5292,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1783656600000",
-      "title": "REDEN inaugure deux serres agrivoltaïques en Charente-Maritime et dans le Var",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/reden-inaugure-deux-serres-agrivoltaiques-en-charente-maritime-et-dans-le-var/189791-2026-07",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Le 30 juin 2026, REDEN a inauguré deux serres agrivoltaïques au Domaine Chaillou à Gémozac (Charente-Maritime) et chez la famille Spalemi à Saint-Maximin-la-Sainte-Baume (Var). Ces installations allient cultures maraîchères et production d’électricité solaire, avec pour objectif …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1783653000000",
-      "title": "DJI dévoile deux nouveaux drones agricoles Agras T55 et T100",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/dji-devoile-deux-nouveaux-drones-agricoles-agras-t55-et-t100/189775-2026-07",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "DJI Agriculture annonce le lancement mondial des drones Agras T55 et Agras T100 Dual Battery, destinés à la pulvérisation, l’épandage et le levage. Le fabricant chinois revendique un parc de plus de 600 000 appareils déployés dans une centaine de pays, appuyé par un réseau de 3 5…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-4-1783677750000",
+      "id": "lenergeek-rss-5-1783677750000",
       "title": "Combien coûtent 1000 L de fioul ce vendredi 10 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5292,7 +5317,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1783670531000",
+      "id": "lenergeek-rss-6-1783670531000",
       "title": "Inde : comment l’uranium australien accélère sa transition nucléaire vers 100 GW",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5317,7 +5342,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1783670092000",
+      "id": "lenergeek-rss-7-1783670092000",
       "title": "Airbus et MTU misent sur la pile à combustible pour décarboner l’aviation",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5343,7 +5368,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1783665532000",
+      "id": "lenergeek-rss-8-1783665532000",
       "title": "Camions lourds : l’EPA veut assouplir les normes antipollution de Biden",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5368,7 +5393,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1783664452000",
+      "id": "lenergeek-rss-9-1783664452000",
       "title": "Instagram vous géolocalise en temps réel et veut que vos abonnés le sachent : c’est du flicage déguisé en fonctionnalité",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5393,7 +5418,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1783662477000",
+      "id": "lenergeek-rss-10-1783662477000",
       "title": "L’éolien veut verdir son empreinte carbone par le béton sans clinker",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5419,7 +5444,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1783662091000",
+      "id": "lenergeek-rss-11-1783662091000",
       "title": "L’alerte rouge canicule est de retour dans 9 départements",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5445,7 +5470,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1783662021000",
+      "id": "lenergeek-rss-12-1783662021000",
       "title": "Nook et Swaptopus lancent la batterie Octopus : pourquoi les ingénieurs affirment que ce système change toutes les règles du jeu électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5470,7 +5495,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1783660858000",
+      "id": "lenergeek-rss-13-1783660858000",
       "title": "Pourquoi de plus en plus de Français collent du papier aluminium sur leurs fenêtres en pleine canicule : les thermiciens confirment jusqu’à 5°C de moins",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7858,7 +7883,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1783605707000",
+      "id": "lenergeek-rss-14-1783605707000",
       "title": "EDF arrête Golfech : quand le seuil de 28°C paralyse le nucléaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7883,7 +7908,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1783602149000",
+      "id": "lenergeek-rss-15-1783602149000",
       "title": "Russie : les frappes ukrainiennes pulvérisent les capacités de raffinage",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7907,7 +7932,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1783602000000",
+      "id": "lenergeek-rss-16-1783602000000",
       "title": "Ionity mise sur le lissage nocturne pour soulager le réseau électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7933,7 +7958,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1783600231000",
+      "id": "lenergeek-rss-17-1783600231000",
       "title": "Méthanisation : le gouvernement coupe les tarifs d’achat, la colère monte",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7957,7 +7982,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1783591335000",
+      "id": "lenergeek-rss-18-1783591335000",
       "title": "Combien coûtent 1000 L de fioul ce jeudi 9 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7982,7 +8007,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1783589943000",
+      "id": "lenergeek-rss-19-1783589943000",
       "title": "Raffinerie Dangote au Kenya : 700 000 barils/jour et un défi d’approvisionnement colossal",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8008,7 +8033,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1783588500000",
+      "id": "lenergeek-rss-20-1783588500000",
       "title": "TotalEnergies inaugure le terminal ECA LNG : 3,25 Mtpa de capacité au Mexique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8032,7 +8057,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1783586452000",
+      "id": "lenergeek-rss-21-1783586452000",
       "title": "La canicule s’étend, 72 départements en vigilance orange ce 9 juillet 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8058,7 +8083,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1783578028000",
+      "id": "lenergeek-rss-22-1783578028000",
       "title": "Pourquoi le VPN ne suffit plus à protéger votre vie privée sous Windows : un identifiant caché est entrain de vous pister",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8082,7 +8107,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1783576244000",
+      "id": "lenergeek-rss-23-1783576244000",
       "title": "Les passoires thermiques pourraient être de retour à la location : voilà le projet en cours du Sénat",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8104,31 +8129,6 @@
         "Confort d’été"
       ],
       "summary": "Louer un logement classé « passoire thermique » pendant cinq ans sans travaux réalisés ? C'est ce que prévoit un projet de loi qui divise déjà le Sénat, en pleine canicule. Polémique garantie. L’article Les passoires thermiques pourraient être de retour à la location : voilà le p…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1783574423000",
-      "title": "Les salariés de RTE exercent leur droit d’alerte en pleine canicule : « nos infrastructures ne tiendront pas »",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/07/09/les-salaries-de-rte-exercent-leur-droit-dalerte-en-pleine-canicule-nos-infrastructures-ne-tiendront-pas/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/07/face-a-la-canicule-des-salaries-de-rte-tirent-la-sonnette-dalarme-sur-letat-du-reseau-electrique.webp",
-      "date": "2026-07-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "Deux appareils de mesure explosent en pleine canicule dans un poste électrique du Finistère. 550 équipements similaires seraient concernés partout en France. Salariés inquiets, direction rassurante : qui dit vrai ? L’article Les salariés de RTE exercent leur droit d’alerte en ple…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
