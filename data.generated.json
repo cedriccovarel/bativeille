@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T03:21:28.947Z",
+  "generatedAt": "2026-07-12T07:32:13.397Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,7 +2161,132 @@
   ],
   "articles": [
     {
-      "id": "enerzine-rss-0-1783825800000",
+      "id": "oreo-bretagne-sitemap-172-1783814619000",
+      "title": "vague chaleur canicule adaptation climat bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/changement-climatique/article/vague-chaleur-canicule-adaptation-climat-bretagne",
+      "image": null,
+      "date": "2026-07-12",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Confort d’été"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "reporterre-rss-0-1783836000000",
+      "title": "Apprenons à aimer la laisse de mer, ce tapis d'algues et sa vie foisonnante",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/La-laisse-de-mer-pilier-mal-aime-de-la-biodiversite-des-plages-Une-plage-sans-elle-c-est",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/20260611_reporterre_laisse_de_mer_web013-608cd.jpg?1783836001",
+      "date": "2026-07-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "C'est un tapis qui habille les plages, souvent jugé disgracieux. Pourtant, la laisse de mer abrite un écosystème unique et son élimination pour le confort des baigneurs a des conséquences pour la vie sur terre et en mer. Lire la suite - Reportage / Océans C'est un tapis qui habil…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "vert-rss-0-1783832400000",
+      "title": "Guillaume Martin-Guyonnet, coureur du Tour de France 2026 : «Je suis devenu asthmatique à force de rouler exposé à la pollution»",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/culture/guillaume-martin-guyonnet-coureur-du-tour-de-france-2026-je-suis-devenu-asthmatique-a-force-de-rouler-expose-a-la-pollution/",
+      "image": null,
+      "date": "2026-07-12",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Réglementation"
+      ],
+      "summary": "Le cycliste normand de l’équipe Groupama-FDJ United a pris le départ de sa dixième Grande boucle, le 4 juillet. Pour Vert, il revient sur l'empreinte environnementale de son sport et raconte comment les années de course au contact de la pollution ont nui à sa santé. Le cycliste n…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "revolution-energetique-rss-0-1783841437000",
+      "title": "Une nouvelle mise à jour du DPE va favoriser l’électricité",
+      "source": "Révolution Énergétique",
+      "sourceId": "revolution-energetique",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.revolution-energetique.com/actus/une-nouvelle-mise-a-jour-du-dpe-va-favoriser-lelectricite/",
+      "image": null,
+      "date": "2026-07-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "ENR",
+        "Stockage",
+        "Réseaux",
+        "Réglementation"
+      ],
+      "summary": "Le gouvernement continue de vouloir favoriser l’électricité au détriment des énergies fossiles. Dans cette dynamique, le coefficient de conversion de l’électricité va passer de 1,9 […] L’article Une nouvelle mise à jour du DPE va favoriser l’électricité est apparu en premier sur …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1783829400000",
+      "title": "Seulement 38 % de la population mondiale vivra dans les grandes villes d’ici 2100, une étude défie les prévisions actuelles",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/seulement-38-de-la-population-mondiale-vivra-dans-les-grandes-villes-dici-2100-une-etude-defie-les-previsions-actuelles/189699-2026-07",
+      "image": null,
+      "date": "2026-07-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Une nouvelle étude du Complexity Science Hub et de l’ETH Zurich suggère que le monde comptera 450 millions d’habitants de moins dans les grandes villes d’ici la fin du siècle que ne le laissent entendre les tendances actuelles. La raison : la croissance des grandes villes ralenti…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1783825800000",
       "title": "Le LHC entame un long silence pour mieux renaître en 2030",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2187,7 +2312,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1783826475000",
+      "id": "le-commerce-du-bois-sitemap-0-1783841519000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2213,7 +2338,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1783826475000",
+      "id": "le-commerce-du-bois-sitemap-1-1783841519000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2239,7 +2364,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1783826475000",
+      "id": "le-commerce-du-bois-sitemap-2-1783841519000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2265,7 +2390,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-0-1783788605000",
+      "id": "reporterre-rss-1-1783788605000",
       "title": "« Ce projet n'a aucun sens » : la mobilisation s'amplifie contre le canal Seine-Nord Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2290,7 +2415,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1783749600000",
+      "id": "reporterre-rss-2-1783749600000",
       "title": "Sensibilité animale : travaillons à ôter nos œillères !",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2314,7 +2439,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1783749600000",
+      "id": "reporterre-rss-3-1783749600000",
       "title": "Marche aquatique sur ordonnance : oui, la mer a des vertus thérapeutiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2340,7 +2465,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1783749600000",
+      "id": "reporterre-rss-4-1783749600000",
       "title": "La brutalisation de la vie sensible nous mène-t-elle au fascisme ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2365,7 +2490,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1783746000000",
+      "id": "vert-rss-1-1783746000000",
       "title": "«Le changement climatique est sexiste» : comment la canicule attise les violences contre les femmes",
       "source": "Vert",
       "sourceId": "vert",
@@ -2390,7 +2515,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-0-1783783714000",
+      "id": "revolution-energetique-rss-1-1783783714000",
       "title": "EPR2 : les désaccords persistent entre la France et la Commission Européenne",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -2416,7 +2541,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-1-1783757089000",
+      "id": "revolution-energetique-rss-2-1783757089000",
       "title": "La deuxième plus grande centrale solaire de France vient d’être inaugurée",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -2441,7 +2566,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1783807800000",
+      "id": "enerzine-rss-2-1783807800000",
       "title": "James Webb perce le mystère d’une planète autour d’une étoile morte",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2465,7 +2590,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1783743000000",
+      "id": "enerzine-rss-3-1783743000000",
       "title": "Une batterie souple qui tire son énergie de l’air ambiant",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2489,7 +2614,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1783739400000",
+      "id": "enerzine-rss-4-1783739400000",
       "title": "Boston Dynamics dévoile un Atlas repensé pour la grande série",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2877,6 +3002,29 @@
       "summary": "Avis de parution Transports 40 millions de voitures en circulation en France au 1er janvier 2026 Article web Au 1er janvier 2026, 40,0 millions de voitures sont en circulation en France, soit 0,4 % de plus que l’an dernier. L’âge moyen du parc continue de croître légèrement pour …",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-369-1783695699000",
+      "title": "7 idees recues vagues chaleur",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/7-idees-recues-vagues-chaleur",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-0-1783700410000",
@@ -4304,7 +4452,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1783691756000",
+      "id": "reporterre-rss-5-1783691756000",
       "title": "Moules, escargots... 125 espèces de mollusques menacées par l'exploitation minière",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4330,7 +4478,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1783690432000",
+      "id": "reporterre-rss-6-1783690432000",
       "title": "Protection de la nature : la loi fondatrice a 50 ans, mais « elle n'a pas suffi »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4356,7 +4504,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1783690287000",
+      "id": "reporterre-rss-7-1783690287000",
       "title": "La biodiversité victime de la rigueur budgétaire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4381,7 +4529,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1783687050000",
+      "id": "reporterre-rss-8-1783687050000",
       "title": "La pétition contre la « présomption de légitime défense » de la police recueille plus de 500 000 signatures",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4406,7 +4554,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1783685608000",
+      "id": "reporterre-rss-9-1783685608000",
       "title": "« Vol d'eau » dans le Marais poitevin : des sabotages au profit de l'agro-industrie ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4432,7 +4580,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1783684516000",
+      "id": "reporterre-rss-10-1783684516000",
       "title": "Chasse : 4 morts au cours de la saison 2025-2026",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4458,7 +4606,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1783676380000",
+      "id": "reporterre-rss-11-1783676380000",
       "title": "11 morts et au moins 19 disparus : un feu de forêt fulgurant endeuille l'Espagne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4484,7 +4632,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1783672637000",
+      "id": "reporterre-rss-12-1783672637000",
       "title": "« Ne nous oubliez pas après les canicules » : 37 000 « sinistrés climatiques » interpellent l'État",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4510,7 +4658,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1783661400000",
+      "id": "reporterre-rss-13-1783661400000",
       "title": "« Je n'oublierai jamais » : dans les HLM, la violence de la canicule et l'indifférence des bailleurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4536,7 +4684,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1783661400000",
+      "id": "reporterre-rss-14-1783661400000",
       "title": "50 ans après la catastrophe de Seveso, « il y a autant de dioxine dans les terres qu'à l'époque »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4562,7 +4710,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1783673726000",
+      "id": "vert-rss-2-1783673726000",
       "title": "Rongée par l’érosion, menacée de submersion… L’île d’Oléron mise sur les solutions douces face aux risques climatiques",
       "source": "Vert",
       "sourceId": "vert",
@@ -4894,7 +5042,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-2-1783697721000",
+      "id": "revolution-energetique-rss-3-1783697721000",
       "title": "La France bat (encore) son record d’exportation d’électricité sur un semestre",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -4919,7 +5067,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-3-1783661875000",
+      "id": "revolution-energetique-rss-4-1783661875000",
       "title": "Les ombrières photovoltaïques sur parkings ne sont pas aussi nombreuses que prévu",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -4996,7 +5144,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1783721400000",
+      "id": "enerzine-rss-5-1783721400000",
       "title": "Quand l’IA lit les ECG pour prédire la mort subite cardiaque",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5020,7 +5168,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1783662300000",
+      "id": "enerzine-rss-6-1783662300000",
       "title": "En Inde, le tandem solaire-batterie devient le format dominant",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5044,7 +5192,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1783660200000",
+      "id": "enerzine-rss-7-1783660200000",
       "title": "Une station mobile d’hydrogène accélère le déploiement des bus en Basse-Saxe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5069,7 +5217,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1783656600000",
+      "id": "enerzine-rss-8-1783656600000",
       "title": "REDEN inaugure deux serres agrivoltaïques en Charente-Maritime et dans le Var",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5094,7 +5242,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1783653000000",
+      "id": "enerzine-rss-9-1783653000000",
       "title": "DJI dévoile deux nouveaux drones agricoles Agras T55 et T100",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -7083,7 +7231,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1783620000000",
+      "id": "reporterre-rss-15-1783620000000",
       "title": "Algues vertes : la Cour des Comptes critique encore et toujours les carences de l'État",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7108,7 +7256,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1783609173000",
+      "id": "reporterre-rss-16-1783609173000",
       "title": "Canicule et crudités : la hausse des températures entraîne celle des prix",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7134,7 +7282,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1783608742000",
+      "id": "reporterre-rss-17-1783608742000",
       "title": "Canicule : le réacteur nucléaire de Golfech à l'arrêt pour la 2e fois cet été",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7160,7 +7308,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1783601164000",
+      "id": "reporterre-rss-18-1783601164000",
       "title": "Une « bactérie mangeuse de chair » sur les plages espagnoles : « Les cas graves sont très rares »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7184,7 +7332,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1783600076000",
+      "id": "reporterre-rss-19-1783600076000",
       "title": "Anti-écolo, anti-LGBT… Qui est le futur Défenseur des droits proposé par Macron ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7208,7 +7356,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1783599722000",
+      "id": "reporterre-rss-20-1783599722000",
       "title": "Loi logement : les sénateurs votent le retour sur le marché de 700 000 passoires énergétiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7234,7 +7382,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1783584056000",
+      "id": "reporterre-rss-21-1783584056000",
       "title": "Juin 2026 est le mois le plus chaud jamais enregistré en Europe occidentale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7260,7 +7408,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1783581886000",
+      "id": "reporterre-rss-22-1783581886000",
       "title": "L'écologie selon Marine Le Pen ? Tout pour les fossiles et l'agriculture productiviste",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7285,7 +7433,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1783575000000",
+      "id": "reporterre-rss-23-1783575000000",
       "title": "Canal Seine-Nord Europe : un chantier titanesque, dont personne ne sait à quoi il doit servir",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7311,7 +7459,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1783573200000",
+      "id": "reporterre-rss-24-1783573200000",
       "title": "La politique climatique de la France est très insuffisante, alerte le Haut Conseil pour le climat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7336,7 +7484,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1783616418000",
+      "id": "vert-rss-3-1783616418000",
       "title": "Zones coupe-feu, soutien au pastoralisme, initiatives locales : ces solutions face à des incendies dopés par le changement climatique",
       "source": "Vert",
       "sourceId": "vert",
@@ -7360,7 +7508,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1783587417000",
+      "id": "vert-rss-4-1783587417000",
       "title": "Concours : vos places pour le festival Cabaret Vert",
       "source": "Vert",
       "sourceId": "vert",
@@ -7384,7 +7532,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1783573200000",
+      "id": "vert-rss-5-1783573200000",
       "title": "Réchauffement climatique : en pleine canicule, le Haut Conseil pour le climat hausse le ton face au manque d’action du gouvernement",
       "source": "Vert",
       "sourceId": "vert",
@@ -7587,7 +7735,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-4-1783574660000",
+      "id": "revolution-energetique-rss-5-1783574660000",
       "title": "Déchets radioactifs : ces fûts immergés ne freinent pas la vie sous-marine",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -7680,31 +7828,6 @@
         "Pédagogie"
       ],
       "summary": "D'après le baromètre du CITEPA, les émissions de gaz à effet de serre ont reculé de 4,8 % au premier trimestre. C'est nettement plus rapide que la baisse de 2,1 % observée en 2025, et proche du rythme d'un peu plus de 5 % qu'il faudrait tenir d'ici 2030 pour respecter nos engagem…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1783635000000",
-      "title": "Record absolu de la consommation énergétique mondiale (+ 1 ,7 %)",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/record-absolu-de-la-consommation-energetique-mondiale-1-7/189778-2026-07",
-      "image": null,
-      "date": "2026-07-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Rien ne semble en mesure de contrarier la croissance des besoins mondiaux en énergie. La nouvelle édition de la Statistical Review of World Energy montre en effet que la demande a battu un nouveau record en 2025, avec une progression de 1,7 % par rapport à 2024, à plus de 600 exa…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8402,6 +8525,29 @@
         "Bâtiment"
       ],
       "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
+      "title": "sobriete energetique plan reduire notre consommation denergie",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/sobriete-energetique-plan-reduire-notre-consommation-denergie",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -9438,7 +9584,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1783526400000",
+      "id": "reporterre-rss-25-1783526400000",
       "title": "L'acidification des océans pourrait réduire le cerveau des calmars",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9464,7 +9610,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1783524600000",
+      "id": "reporterre-rss-26-1783524600000",
       "title": "Des Pyrénées à la Sicile, la carte des incendies en Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9490,7 +9636,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1783523866000",
+      "id": "reporterre-rss-27-1783523866000",
       "title": "Couverture de survie, papier alu… Que valent ces astuces contre la chaleur ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9516,7 +9662,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1783522612000",
+      "id": "reporterre-rss-28-1783522612000",
       "title": "« C'est très rare » : le procès de Tran To Nga renvoyé devant l'assemblée plénière de la Cour de cassation",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9540,7 +9686,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1783520737000",
+      "id": "reporterre-rss-29-1783520737000",
       "title": "Sécheresse : plus de la moitié des nappes sous les normales",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9566,7 +9712,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1783519857000",
+      "id": "reporterre-rss-30-1783519857000",
       "title": "El Niño pourrait battre « des records » d'intensité en 2026",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9592,7 +9738,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1783517774000",
+      "id": "reporterre-rss-31-1783517774000",
       "title": "Comment la droite instrumentalise George Sand pour relativiser la canicule",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9617,7 +9763,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1783516550000",
+      "id": "reporterre-rss-32-1783516550000",
       "title": "Des crèmes solaires dangereuses vendues sur Shein, Temu et AliExpress",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9643,7 +9789,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1783514783000",
+      "id": "reporterre-rss-33-1783514783000",
       "title": "Incendies, fuites... Les accidents industriels ont augmenté en 2025",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9669,7 +9815,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1783499633000",
+      "id": "reporterre-rss-34-1783499633000",
       "title": "« C'est une improvisation totale, mais ça fonctionne » : face au feu dans la Drôme, les habitants s'organisent",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9695,7 +9841,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1783498966000",
+      "id": "reporterre-rss-35-1783498966000",
       "title": "Bouilloires thermiques : en pleine canicule, le gouvernement « offre un énième cadeau aux propriétaires »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9721,7 +9867,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1783497175000",
+      "id": "reporterre-rss-36-1783497175000",
       "title": "« Nous n'avons jamais été climatosceptiques » : comment le RN a retourné sa veste",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9747,7 +9893,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1783488600000",
+      "id": "reporterre-rss-37-1783488600000",
       "title": "« On ne va pas se flinguer la santé » : dans les salles d'escalade Arkose, des salariés en colère",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9772,7 +9918,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1783502604000",
+      "id": "vert-rss-6-1783502604000",
       "title": "Une «blessure invisible» : un an après l’incendie à Marseille, la lente reconstruction psychologique des victimes",
       "source": "Vert",
       "sourceId": "vert",
@@ -9823,7 +9969,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-5-1783489772000",
+      "id": "revolution-energetique-rss-6-1783489772000",
       "title": "Produire de l’hydrogène avec du nucléaire : comment l’Inde y est arrivé",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10137,6 +10283,29 @@
         "Transition"
       ],
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
+      "title": "securite sites industriels risques mise place vigilance renforcee",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/securite-sites-industriels-risques-mise-place-vigilance-renforcee",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -10858,30 +11027,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-172-1783414343000",
-      "title": "vague chaleur canicule adaptation climat bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/thematique/changement-climatique/article/vague-chaleur-canicule-adaptation-climat-bretagne",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Confort d’été"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "oreo-bretagne-sitemap-194-1783382730000",
       "title": "marees vertes lutte fuites azote bretagne",
       "source": "OREO Bretagne",
@@ -11108,7 +11253,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1783442664000",
+      "id": "reporterre-rss-38-1783442664000",
       "title": "Corinne Morel Darleux : « Je regarde dehors, un hoquet m'étrangle, on dirait un champignon atomique »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11133,7 +11278,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1783438023000",
+      "id": "reporterre-rss-39-1783438023000",
       "title": "Cours d'école végétalisées : le maire de Bordeaux abandonne en pleine canicule",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11159,7 +11304,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1783432871000",
+      "id": "reporterre-rss-40-1783432871000",
       "title": "Data center, nouvel incinérateur : les territoires pollués sont-ils condamnés à le rester ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11183,7 +11328,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1783432719000",
+      "id": "reporterre-rss-41-1783432719000",
       "title": "Canicule : quand les scientifiques passent pour des « idéologues » et des « petits dictateurs »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11208,7 +11353,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1783432645000",
+      "id": "reporterre-rss-42-1783432645000",
       "title": "Au Liban, « c'est la vie même qui est dans la ligne de mire d'Israël »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11234,7 +11379,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1783429228000",
+      "id": "reporterre-rss-43-1783429228000",
       "title": "Colère agricole : seulement 15 % des contrôles de l'OFB ont visé des agriculteurs en 2025",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11259,7 +11404,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1783427766000",
+      "id": "reporterre-rss-44-1783427766000",
       "title": "Marine Le Pen condamnée, mais éligible à la présidentielle",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11283,7 +11428,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1783427530000",
+      "id": "reporterre-rss-45-1783427530000",
       "title": "Eaux de baignade : tous les sites testés en France sont positifs aux PFAS",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11309,7 +11454,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1783426943000",
+      "id": "reporterre-rss-46-1783426943000",
       "title": "Des PFAS dans les fraises : 6 échantillons sur 10 cultivés en Europe contaminés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11333,7 +11478,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1783412238000",
+      "id": "reporterre-rss-47-1783412238000",
       "title": "« Ces incendies dépassent les capacités de lutte humaines » : face aux feux, ils plaident pour repenser le territoire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11357,7 +11502,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1783404000000",
+      "id": "reporterre-rss-48-1783404000000",
       "title": "Avec la canicule, les places manquent dans les funérariums",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11382,7 +11527,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1783404000000",
+      "id": "reporterre-rss-49-1783404000000",
       "title": "Qu'est-ce que le « pesticide paradox », ce phénomène qui menace notre santé ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11407,7 +11552,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1783386000000",
+      "id": "reporterre-rss-50-1783386000000",
       "title": "Le réchauffement climatique menace le dernier glacier tropical d'Océanie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11432,7 +11577,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1783440083000",
+      "id": "vert-rss-7-1783440083000",
       "title": "Face aux critiques sur la pollution des datacenters, une mystérieuse start-up rêve de les déplacer… en pleine mer",
       "source": "Vert",
       "sourceId": "vert",
@@ -11458,7 +11603,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1783415040000",
+      "id": "vert-rss-8-1783415040000",
       "title": "«En grandissant, j’ai vu ma culture disparaître» : la lutte des Polynésiens face à la privatisation des plages et au surtourisme",
       "source": "Vert",
       "sourceId": "vert",
@@ -11483,7 +11628,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-6-1783403860000",
+      "id": "revolution-energetique-rss-7-1783403860000",
       "title": "Hydroélectricité : EDF compte sur la Dordogne pour augmenter ses capacités de stockage",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12165,7 +12310,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1783348231000",
+      "id": "reporterre-rss-51-1783348231000",
       "title": "PFAS : même des investissements massifs ne permettraient pas de s'en débarrasser",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12190,7 +12335,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1783348035000",
+      "id": "reporterre-rss-52-1783348035000",
       "title": "Fête nationale des États-Unis : 850 000 fusées d'artifice ont fortement dégradé la qualité de l'air",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12215,7 +12360,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1783343795000",
+      "id": "reporterre-rss-53-1783343795000",
       "title": "« Des conditions caniculaires » de retour sur la France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12241,7 +12386,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1783343375000",
+      "id": "reporterre-rss-54-1783343375000",
       "title": "Lorenzo Bramanti, chercheur et défenseur des forêts animales marines, est mort",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12265,7 +12410,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1783343353000",
+      "id": "reporterre-rss-55-1783343353000",
       "title": "Canicule : « Le gouvernement a brillé par son abandon de poste »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12291,7 +12436,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1783342593000",
+      "id": "reporterre-rss-56-1783342593000",
       "title": "Un « permis de tuer » : le gouvernement veut encore faciliter les tirs des policiers",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12316,7 +12461,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1783328777000",
+      "id": "reporterre-rss-57-1783328777000",
       "title": "« Un climatiseur naturel » menacé par une LGV",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12342,7 +12487,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1783323849000",
+      "id": "reporterre-rss-58-1783323849000",
       "title": "50 attaques contre l'environnement : à Bruxelles, un grand saccage soutenu par l'extrême droite",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12368,7 +12513,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-58-1783322549000",
+      "id": "reporterre-rss-59-1783322549000",
       "title": "En pleine canicule, ils et elles se remobilisent pour le climat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12393,7 +12538,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1783350352000",
+      "id": "vert-rss-9-1783350352000",
       "title": "Mer, lacs, rivières… Votre plage préférée est-elle polluée aux PFAS ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -12417,33 +12562,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-9-1783332019000",
-      "title": "Troisième canicule, feux gigantesques… Voici à quoi s’attendre cette semaine du 6 juillet",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/climat/troisieme-canicule-feux-gigantesques-voici-a-quoi-sattendre-cette-semaine-du-6-juillet/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques",
-        "Confort d’été",
-        "Énergie"
-      ],
-      "summary": "Alors que le mois de juin a été le plus chaud jamais enregistré en France hexagonale, les fortes températures sont de retour cette semaine. La chaleur persistante et le vent ont créé des conditions propices à de puissants incendies dans le sud du territoire. Alors que le mois de …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "revolution-energetique-rss-7-1783335138000",
+      "id": "revolution-energetique-rss-8-1783335138000",
       "title": "Ce fournisseur veut installer une batterie chez vous pour trader l’électricité sur les marchés",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12492,33 +12611,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-59-1783231200000",
-      "title": "Savoirs effacés et noms sexistes : comment le patriarcat s'infiltre dans la botanique",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Misogynie-et-botanique-comment-le-patriarcat-s-est-infiltre-dans-nos-jardins",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/rid260612-22-8e877.jpg?1783231201",
-      "date": "2026-07-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Misogynie et botanique : c'était le thème d'une balade organisée par l'association Les Mutines indigènes, dans le Gard, qui a permis de mesurer les biais qui parcourent encore le monde de l'étude des plantes. figure de la sorcière (…) Lire la suite - Reportage / La balade du natu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "revolution-energetique-rss-8-1783238390000",
+      "id": "revolution-energetique-rss-9-1783238390000",
       "title": "Éoliennes en mer : elles affectent la biodiversité selon cette étude, mais à quel point ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12544,7 +12637,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-9-1783143165000",
+      "id": "revolution-energetique-rss-10-1783143165000",
       "title": "Neuf heures d’autonomie pour cette méga batterie au CO2 qui alimentera un datacenter",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12588,6 +12681,29 @@
         "Entreprises"
       ],
       "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-37-1783084774000",
+      "title": "secheresse france",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -13072,7 +13188,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-10-1783086933000",
+      "id": "revolution-energetique-rss-11-1783086933000",
       "title": "Ce port européen sera-t-il le premier à recevoir un mini réacteur nucléaire SMR ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13098,7 +13214,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-11-1783065661000",
+      "id": "revolution-energetique-rss-12-1783065661000",
       "title": "Ces 100 territoires où l’Etat veut tester l’hyper-électrification",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13143,6 +13259,29 @@
         "Habitat privé"
       ],
       "summary": "Publication détectée dans le sitemap de ANAH. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-316-1782983737000",
+      "title": "vacances sereines applis lete",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/vacances-sereines-applis-lete",
+      "image": null,
+      "date": "2026-07-02",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -13609,7 +13748,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-12-1783008283000",
+      "id": "revolution-energetique-rss-13-1783008283000",
       "title": "Chaos à Lidl pour des climatiseurs : les premières émeutes liées au réchauffement climatique en France ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13634,7 +13773,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-13-1782979520000",
+      "id": "revolution-energetique-rss-14-1782979520000",
       "title": "Pourquoi la France fait tourner ses centrales à gaz en plein été ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14193,7 +14332,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-14-1782911709000",
+      "id": "revolution-energetique-rss-15-1782911709000",
       "title": "Cette mini éolienne à axe vertical française veut décarboner l’agriculture et l’industrie",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14219,7 +14358,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-15-1782883037000",
+      "id": "revolution-energetique-rss-16-1782883037000",
       "title": "Ce dirigeable veut remplacer les hélicoptères pour inspecter les réseaux électriques",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
