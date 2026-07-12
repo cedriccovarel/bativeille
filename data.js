@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-12T11:16:16.949Z",
+  "generatedAt": "2026-07-12T16:03:59.136Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2236,7 +2236,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-0-1783841437000",
+      "id": "revolution-energetique-rss-0-1783870646000",
+      "title": "La CRE cherche la bonne formule pour maintenir le réseau gaz jusqu’en 2050",
+      "source": "Révolution Énergétique",
+      "sourceId": "revolution-energetique",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.revolution-energetique.com/actus/la-cre-envisage-de-reduire-la-taille-du-reseau-de-gaz/",
+      "image": null,
+      "date": "2026-07-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "ENR",
+        "Stockage",
+        "Réseaux",
+        "Réglementation"
+      ],
+      "summary": "Malgré le déploiement progressif d’alternatives moins carbonées (comme le biogaz), le gaz devrait connaître une importante baisse de consommation au cours des prochaines décennies. Pour […] L’article La CRE cherche la bonne formule pour maintenir le réseau gaz jusqu’en 2050 est a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "revolution-energetique-rss-1-1783841437000",
       "title": "Une nouvelle mise à jour du DPE va favoriser l’électricité",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -2387,7 +2413,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1783854954000",
+      "id": "le-commerce-du-bois-sitemap-0-1783872226000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2413,7 +2439,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1783854954000",
+      "id": "le-commerce-du-bois-sitemap-1-1783872226000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2439,7 +2465,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1783854954000",
+      "id": "le-commerce-du-bois-sitemap-2-1783872226000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2590,7 +2616,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-1-1783783714000",
+      "id": "revolution-energetique-rss-2-1783783714000",
       "title": "EPR2 : les désaccords persistent entre la France et la Commission Européenne",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -2616,7 +2642,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-2-1783757089000",
+      "id": "revolution-energetique-rss-3-1783757089000",
       "title": "La deuxième plus grande centrale solaire de France vient d’être inaugurée",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -5117,7 +5143,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-3-1783697721000",
+      "id": "revolution-energetique-rss-4-1783697721000",
       "title": "La France bat (encore) son record d’exportation d’électricité sur un semestre",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -5142,7 +5168,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-4-1783661875000",
+      "id": "revolution-energetique-rss-5-1783661875000",
       "title": "Les ombrières photovoltaïques sur parkings ne sont pas aussi nombreuses que prévu",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -7760,7 +7786,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-5-1783574660000",
+      "id": "revolution-energetique-rss-6-1783574660000",
       "title": "Déchets radioactifs : ces fûts immergés ne freinent pas la vie sous-marine",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -9969,7 +9995,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-6-1783489772000",
+      "id": "revolution-energetique-rss-7-1783489772000",
       "title": "Produire de l’hydrogène avec du nucléaire : comment l’Inde y est arrivé",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11628,7 +11654,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-7-1783403860000",
+      "id": "revolution-energetique-rss-8-1783403860000",
       "title": "Hydroélectricité : EDF compte sur la Dordogne pour augmenter ses capacités de stockage",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12562,7 +12588,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-8-1783335138000",
+      "id": "revolution-energetique-rss-9-1783335138000",
       "title": "Ce fournisseur veut installer une batterie chez vous pour trader l’électricité sur les marchés",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12611,7 +12637,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-9-1783238390000",
+      "id": "revolution-energetique-rss-10-1783238390000",
       "title": "Éoliennes en mer : elles affectent la biodiversité selon cette étude, mais à quel point ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12637,7 +12663,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-10-1783143165000",
+      "id": "revolution-energetique-rss-11-1783143165000",
       "title": "Neuf heures d’autonomie pour cette méga batterie au CO2 qui alimentera un datacenter",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13188,7 +13214,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-11-1783086933000",
+      "id": "revolution-energetique-rss-12-1783086933000",
       "title": "Ce port européen sera-t-il le premier à recevoir un mini réacteur nucléaire SMR ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13214,7 +13240,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-12-1783065661000",
+      "id": "revolution-energetique-rss-13-1783065661000",
       "title": "Ces 100 territoires où l’Etat veut tester l’hyper-électrification",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13748,7 +13774,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-13-1783008283000",
+      "id": "revolution-energetique-rss-14-1783008283000",
       "title": "Chaos à Lidl pour des climatiseurs : les premières émeutes liées au réchauffement climatique en France ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13773,7 +13799,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-14-1782979520000",
+      "id": "revolution-energetique-rss-15-1782979520000",
       "title": "Pourquoi la France fait tourner ses centrales à gaz en plein été ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14332,7 +14358,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-15-1782911709000",
+      "id": "revolution-energetique-rss-16-1782911709000",
       "title": "Cette mini éolienne à axe vertical française veut décarboner l’agriculture et l’industrie",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14358,7 +14384,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-16-1782883037000",
+      "id": "revolution-energetique-rss-17-1782883037000",
       "title": "Ce dirigeable veut remplacer les hélicoptères pour inspecter les réseaux électriques",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
