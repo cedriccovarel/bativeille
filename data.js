@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-13T17:17:44.175Z",
+  "generatedAt": "2026-07-13T21:01:54.905Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2401,6 +2401,57 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "alliance-hqe-gbc-rss-0-1783967331000",
+      "title": "[Quebec] Balado Cecobois – Le carbone intrinsèque et la réhabilitation des bâtiments existants",
+      "source": "Alliance HQE-GBC",
+      "sourceId": "alliance-hqe-gbc",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.hqegbc.org/64767/",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "HQE",
+        "Bâtiment durable",
+        "Performance",
+        "Réglementation",
+        "Carbone",
+        "Confort d’été"
+      ],
+      "summary": "Balado de Construction bas carbone avec le bois, une initiative de Cecobois, un centre d’expertise québécois sur la construction commerciale en bois. Marjolaine Meynier-Millefert, Présidente de l’Alliance HQE-GBC, a été invitée à participer à l’épisode 7 de la saison 2 du Balado …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "alliance-hqe-gbc-rss-1-1783966750000",
+      "title": "Revivez l’Assemblée Générale 2026 de l’Alliance HQE-GBC",
+      "source": "Alliance HQE-GBC",
+      "sourceId": "alliance-hqe-gbc",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.hqegbc.org/revivez-lassemblee-generale-2026-de-lalliance-hqe-gbc/",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "HQE",
+        "Bâtiment durable",
+        "Performance",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "📢 L’Alliance HQE-GBC a tenu ses Assemblées Générales le 15 juin dernier. L’Assemblée Générale Ordinaire a approuvé le rapport moral de la Présidente ainsi que les rapports d’activité et financier 2025. Les adhérents ont également élu un nouveau Conseil d’Administration qui prend…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "batiweb-rss-0-1783937400000",
       "title": "Le gouvernement met fin à l’organisme de soutien aux tiers-lieux",
       "source": "Batiweb",
@@ -2546,7 +2597,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-0-1783952639000",
+      "id": "actu-environnement-rss-0-1783966082000",
+      "title": "Face à la canicule, le groupe Veolia accélère ses réseaux de chaleur et de froid",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/veolia-reseaux-chaleur-froid-urbains-48305.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48305_large.jpg",
+      "date": "2026-07-13",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Le 10 juillet 2026, le groupe Veolia a annoncé son plan pour déployer les réseaux urbains combinés de chaleur et de froid, capables d'alimenter, à partir d'énergies locales, près de trois millions de Français. Le groupe a identifié plus de 100 sit... Le 10 juillet 2026, le groupe…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-1-1783952639000",
       "title": "Nucléaire : l'ASNR autorise la centrale du Bugey à rejeter temporairement des eaux plus chaudes",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2572,7 +2648,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-1-1783952147000",
+      "id": "actu-environnement-rss-2-1783952147000",
       "title": "La Cour des comptes européenne plaide pour les rénovations lourdes des logements",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2597,7 +2673,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-2-1783945729000",
+      "id": "actu-environnement-rss-3-1783945729000",
       "title": "Protection de la nature : 50 ans après, la loi de 1976 marquée par de nombreux reculs",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2620,7 +2696,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-3-1783928700000",
+      "id": "actu-environnement-rss-4-1783928700000",
       "title": "Refonte REP textiles (2/5) : de nouveaux objectifs et une nouvelle organisation pour les atteindre",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -3693,7 +3769,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1783963049000",
+      "id": "le-commerce-du-bois-sitemap-0-1783976501000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3719,7 +3795,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1783963049000",
+      "id": "le-commerce-du-bois-sitemap-1-1783976501000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3745,7 +3821,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1783963049000",
+      "id": "le-commerce-du-bois-sitemap-2-1783976501000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -7159,30 +7235,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-14-1783638300000",
-      "title": "Protection collective en toiture : Anoxa rappelle la réglementation R408",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/protection-collective-toiture-reglementation-r408-anoxa-49069",
-      "image": "https://img.batiweb.com/repo-images/publi/49069/anoxa-07-13-une.jpg",
-      "date": "2026-07-09",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation"
-      ],
-      "summary": "Chutes en hauteur : Anoxa rappelle les obligations réglementaires et les solutions de protection collective pour sécuriser les interventions. Chutes en hauteur : Anoxa rappelle les obligations réglementaires et les solutions de protection collective pour sécuriser les interventio…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-15-1783638300000",
       "title": "Etex réunit sept marques à Batimat 2026 pour une construction durable",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7203,6 +7255,30 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "BATIMAT 2026 : Etex réunit 7 de ses marques françaises sur un stand unique pour présenter ses solutions pour la construction et la rénovation. BATIMAT 2026 : Etex réunit 7 de ses marques françaises sur un stand unique pour présenter ses solutions pour la construction et la rénova…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-15-1783638300000",
+      "title": "Protection collective en toiture : Anoxa rappelle la réglementation R408",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/protection-collective-toiture-reglementation-r408-anoxa-49069",
+      "image": "https://img.batiweb.com/repo-images/publi/49069/anoxa-07-13-une.jpg",
+      "date": "2026-07-09",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation"
+      ],
+      "summary": "Chutes en hauteur : Anoxa rappelle les obligations réglementaires et les solutions de protection collective pour sécuriser les interventions. Chutes en hauteur : Anoxa rappelle les obligations réglementaires et les solutions de protection collective pour sécuriser les interventio…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12561,7 +12637,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "alliance-hqe-gbc-rss-0-1783065618000",
+      "id": "alliance-hqe-gbc-rss-2-1783065618000",
       "title": "Appel à candidature Test HQE Performance Empreinte Eau – jusqu’au 15 septembre pour vous inscrire",
       "source": "Alliance HQE-GBC",
       "sourceId": "alliance-hqe-gbc",
@@ -13384,29 +13460,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Découvrez la revue de nos projets 2025, nos expertises et références dans les territoires à travers ce document synthétique de 36 pages. Au sommaire : mot du président, temps forts, présentation de notre socle commun de connaissance et de notre plateforme de ressources, détail de…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-centre-sitemap-477-1782983704000",
-      "title": "webinaire reemploi des sanitaires",
-      "source": "Envirobat Centre",
-      "sourceId": "envirobat-centre",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Centre-Val de Loire",
-      "url": "https://www.envirobatcentre.com/actualites/webinaire-reemploi-des-sanitaires",
-      "image": null,
-      "date": "2026-07-02",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "Centre-Val de Loire",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Envirobat Centre. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "verre-protections-magazine-rss-0-1783008056000",
