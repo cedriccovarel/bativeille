@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T20:56:48.428Z",
+  "generatedAt": "2026-07-13T03:23:53.168Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,110 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1783912200000",
+      "title": "Asteroids2029 : la planète se mobilise avant le passage d’Apophis",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/asteroids2029-la-planete-se-mobilise-avant-le-passage-dapophis/190110-2026-07",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été",
+        "Biosourcé"
+      ],
+      "summary": "Lancée le 30 juin par l’Union astronomique internationale et NOIRLab, l’initiative mondiale Asteroids2029 fédère gouvernements, agences spatiales et éducateurs avant l’Année internationale de la sensibilisation aux astéroïdes et de la défense planétaire, décrétée par l’ONU pour 2…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1783913014000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1783913014000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1783913014000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "oreo-bretagne-sitemap-172-1783814619000",
       "title": "vague chaleur canicule adaptation climat bretagne",
       "source": "OREO Bretagne",
@@ -2288,7 +2392,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1783851300000",
+      "id": "enerzine-rss-1-1783894200000",
+      "title": "Samsung SDS mise sur le quantique pour perfectionner la gravure des puces",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/samsung-sds-mise-sur-le-quantique-pour-perfectionner-la-gravure-des-puces/190054-2026-07",
+      "image": null,
+      "date": "2026-07-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020"
+      ],
+      "summary": "La filiale d’intégration de systèmes du groupe Samsung développe à Séoul des algorithmes d’informatique quantique destinés à simuler la photolithographie. Une preuve de concept est attendue pour le second semestre 2026, avec l’ambition d’améliorer la densité d’intégration et le r…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1783851300000",
       "title": "Canicule : la France suffoque, des records de chaleur nocturne pulvérisés",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2313,7 +2442,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1783844820000",
+      "id": "enerzine-rss-3-1783844820000",
       "title": "Sable du Sahara : une vague de poussière venue d’Afrique devrait colorer le ciel européen",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2338,7 +2467,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1783829400000",
+      "id": "enerzine-rss-4-1783829400000",
       "title": "Seulement 38 % de la population mondiale vivra dans les grandes villes d’ici 2100, une étude défie les prévisions actuelles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2362,7 +2491,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1783825800000",
+      "id": "enerzine-rss-5-1783825800000",
       "title": "Le LHC entame un long silence pour mieux renaître en 2030",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2411,84 +2540,6 @@
       "summary": "Le prix du fioul domestique s'établit ce dimanche 12 juillet 2026 à 1,478 €/L pour le fioul ordinaire (1 478 € les 1000 litres livrés). Les tarifs varient fortement selon les départements et la distance aux raffineries. Analyse des composantes du prix, des stratégies d'achat et d…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1783889796000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-07-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1783889796000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-07-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1783889796000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-07-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "reporterre-rss-1-1783788605000",
@@ -2667,7 +2718,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1783807800000",
+      "id": "enerzine-rss-6-1783807800000",
       "title": "James Webb perce le mystère d’une planète autour d’une étoile morte",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2691,7 +2742,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1783743000000",
+      "id": "enerzine-rss-7-1783743000000",
       "title": "Une batterie souple qui tire son énergie de l’air ambiant",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2715,7 +2766,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1783739400000",
+      "id": "enerzine-rss-8-1783739400000",
       "title": "Boston Dynamics dévoile un Atlas repensé pour la grande série",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3103,6 +3154,29 @@
       "summary": "Avis de parution Transports 40 millions de voitures en circulation en France au 1er janvier 2026 Article web Au 1er janvier 2026, 40,0 millions de voitures sont en circulation en France, soit 0,4 % de plus que l’an dernier. L’âge moyen du parc continue de croître légèrement pour …",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-369-1783695699000",
+      "title": "7 idees recues vagues chaleur",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/7-idees-recues-vagues-chaleur",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-0-1783700410000",
@@ -4812,6 +4886,211 @@
       "collectMethod": "rss"
     },
     {
+      "id": "greenunivers-rss-0-1783697760000",
+      "title": "JPEE et la Générale du Solaire s’entendent en vue d’une fusion",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/jpee-et-la-generale-du-solaire-sentendent-en-vue-dune-fusion-429243/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "Exclusif – JPEE et la Générale du Solaire se préparent à fusionner tout ou partie de leurs activités, selon nos informations. Le périmètre exact du rapprochement reste à mieux connaître et l’opération va demander un peu de temps. Les deux développeurs-producteurs d’électricité re…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-1-1783697552000",
+      "title": "Ocean Winds achève son projet éolien flottant pilote, prépare l’AO10",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/ocean-winds-acheve-son-projet-eolien-flottant-pilote-prepare-lao10-429058/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "Reportage – « Technologiquement, l’éolien flottant a fait ses preuves, ce qui manque c’est la maturité industrielle pour laquelle il faut des volumes », affirme Marc Hirt, directeur pour la France d’Ocean Winds. La L’article Ocean Winds achève son projet éolien flottant pilote, p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-2-1783694758000",
+      "title": "Reden ferme son usine d’assemblage de panneaux solaires",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/reden-ferme-son-usine-dassemblage-de-panneaux-solaires-429362/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Eau",
+        "Énergie"
+      ],
+      "summary": "L’activité est « structurellement déficitaire » et ne peut plus être maintenue. Reden explique L’article Reden ferme son usine d’assemblage de panneaux solaires est apparu en premier sur GreenUnivers. L’activité est « structurellement déficitaire » et ne peut plus être maintenue.…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-3-1783694436000",
+      "title": "Les documents de la semaine",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/les-documents-de-la-semaine-381215/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-4-1783691876000",
+      "title": "Capacité : première enchère en demi-teinte pour la flexibilité décarbonée",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/capacite-une-premiere-enchere-en-demi-teinte-pour-la-flexibilite-decarbonee-429308/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Il y a du bon et du moins bon pour les flexibilités décarbonées après la première enchère du nouveau mécanisme de capacité français, pour livraison l’hiver prochain. Un volume L’article Capacité : première enchère en demi-teinte pour la flexibilité décarbonée est apparu en premie…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-5-1783688400000",
+      "title": "Alba Infra rachète un portefeuille à RWE, s’associe à une filiale de Tevali",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/alba-infra-rachete-un-portefeuille-a-rwe-sassocie-a-une-filiale-de-tevali-429066/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Confort d’été",
+        "Énergie"
+      ],
+      "summary": "Altevera. C’est le nom que portera la plateforme de production d’énergies renouvelables (EnR) lancée, selon nos informations, par la société de gestion Alba Infra Partners avec Tevalia Capital, une filiale du conseil en M&A Tevali Partners. Son ambition ? Devenir un producteur d’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-6-1783684887000",
+      "title": "AO solaire bâtiment : Arkolia sort vainqueur de la 12e période",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/arkolia-grand-vainqueur-de-la-12e-periode-de-lao-batiment-429272/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie",
+        "Bâtiment"
+      ],
+      "summary": "La dernière session de l’appel d’offres photovoltaïque de plus de 500 MWc sur bâtiment a récompensé 326 projets pour un total de 300 MWc. Trois développeurs se partagent 38% de la puissance attribuée. Arkolia [/restrict-content] L’article AO solaire bâtiment : Arkolia sort vainqu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-7-1783668600000",
+      "title": "L’agenda de la transition énergétique",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/lagenda-de-la-transition-energetique-280-424554/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Rénovation",
+        "Énergie"
+      ],
+      "summary": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. A…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "pv-magazine-france-rss-0-1783693800000",
       "title": "Le site USIN Lyon Parilly lance deux nouvelles centrales solaires",
       "source": "PV Magazine France",
@@ -5017,7 +5296,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1783721400000",
+      "id": "enerzine-rss-9-1783721400000",
       "title": "Quand l’IA lit les ECG pour prédire la mort subite cardiaque",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5037,55 +5316,6 @@
         "ENR"
       ],
       "summary": "Des chercheurs de l’UC Berkeley ont entraîné un algorithme d’apprentissage profond sur 440 000 électrocardiogrammes suédois, jumelés aux certificats de décès. L’étude révèle un signal électrique invisible à l’œil humain capable d’identifier les patients menacés d’arrêt cardiaque …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1783662300000",
-      "title": "En Inde, le tandem solaire-batterie devient le format dominant",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/en-inde-le-tandem-solaire-batterie-devient-le-format-dominant/189816-2026-07",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "L’Inde mise massivement sur les projets hybrides associant solaire photovoltaïque et stockage par batteries. Selon GlobalData, le format hybride est voué à dominer les enchères indiennes d’ici 2027-2030. Une dynamique portée par l’explosion de la demande électrique nationale, qui…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1783660200000",
-      "title": "Une station mobile d’hydrogène accélère le déploiement des bus en Basse-Saxe",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/une-station-mobile-dhydrogene-accelere-le-deploiement-des-bus-en-basse-saxe/189798-2026-07",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Weser-Ems-Bus, filiale de DB Regio AG, a mis en service six bus à pile à combustible dès décembre 2025 à Jever, en Basse-Saxe. Pour contourner l’absence de station fixe, un dispositif mobile de ravitaillement, exploité par MoviaTec et alimenté par l’hydrogène vert de Lhyfe, assur…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7380,6 +7610,56 @@
       "collectMethod": "rss"
     },
     {
+      "id": "greenunivers-rss-8-1783612444000",
+      "title": "Des mouvements en préparation au capital de Langa International",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/des-mouvements-en-preparation-au-capital-de-langa-international-429136/",
+      "image": null,
+      "date": "2026-07-09",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "Exclusif – Langa International prépare une importante opération financière pour 2027, confiée à Rothschild. Le but est de lever des fonds tout en gérant les sorties programmées d’investisseurs, en premier lieu celle de RGreen Invest, arrivé en 2020 avec Bpifrance et par l’intermé…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-9-1783611174000",
+      "title": "Tenergie boucle aussi un plan social",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/tenergie-boucle-aussi-un-plan-social-429186/",
+      "image": null,
+      "date": "2026-07-09",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Exclusif – Lui aussi. Selon nos informations, Tenergie vient de conclure un plan de sauvegarde de l’emploi (PSE). Une cinquantaine de postes, sur les 300 environ du développeur-producteur d’énergies renouvelables basé à Meyreuil (Bouches-du-Rhône), sont supprimés. Le L’article Te…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "pv-magazine-france-rss-4-1783607400000",
       "title": "L’Italie sélectionne 566 projets PV en AC dans le cadre d’un dispositif d’incitation pour les entreprises du Sud",
       "source": "PV Magazine France",
@@ -8273,6 +8553,29 @@
         "Bâtiment"
       ],
       "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
+      "title": "sobriete energetique plan reduire notre consommation denergie",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/sobriete-energetique-plan-reduire-notre-consommation-denergie",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -10008,6 +10311,29 @@
         "Transition"
       ],
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
+      "title": "securite sites industriels risques mise place vigilance renforcee",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/securite-sites-industriels-risques-mise-place-vigilance-renforcee",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -12387,6 +12713,29 @@
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-37-1783084774000",
+      "title": "secheresse france",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-culture-architecture-sitemap-22-1783090725000",
       "title": "resultats des concours d adjoint technique des administrations de l etat",
       "source": "Ministère de la Culture — Architecture",
@@ -12938,6 +13287,29 @@
         "Habitat privé"
       ],
       "summary": "Publication détectée dans le sitemap de ANAH. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-316-1782983737000",
+      "title": "vacances sereines applis lete",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/vacances-sereines-applis-lete",
+      "image": null,
+      "date": "2026-07-02",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
