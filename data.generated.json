@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T21:01:54.905Z",
+  "generatedAt": "2026-07-14T02:48:04.006Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1783997271000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-07-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1783997271000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-07-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1783997271000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-07-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1783944001000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -2399,6 +2477,29 @@
       "summary": "Avis de parution Changement climatique Comment les statistiques officielles peuvent contribuer à la lutte contre la désinformation environnementale et climatique Document de travail La désinformation et la mésinformation environnementales et climatiques sont en progression, tandi…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-0-1783978052000",
+      "title": "festival paris l ete 2026 fait scene de tout un territoire",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/regions/drac-ile-de-france/actualites/actualite-a-la-une/festival-paris-l-ete-2026-fait-scene-de-tout-un-territoire",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "alliance-hqe-gbc-rss-0-1783967331000",
@@ -3362,7 +3463,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1783929900000",
+      "id": "enerzine-rss-0-1783980600000",
+      "title": "Un processeur quantique IBM simule l’hadronisation des quarks",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-processeur-quantique-ibm-simule-lhadronisation-des-quarks/190046-2026-07",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Anthony Ciavarella, physicien au Lawrence Berkeley National Laboratory, a mobilisé 104 des 156 qubits d’un processeur IBM Heron pour reproduire le phénomène d’hadronisation, par lequel les quarks s’agrègent en protons et neutrons sous l’effet de la force nucléaire forte. Les résu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1783929900000",
       "title": "Canicule : l’ASNR desserre temporairement les contraintes thermiques du Bugey",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3388,7 +3514,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1783921500000",
+      "id": "enerzine-rss-2-1783921500000",
       "title": "Des scientifiques développent une combinaison de plongée pour cafards cyborgs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3414,7 +3540,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1783919400000",
+      "id": "enerzine-rss-3-1783919400000",
       "title": "Strasbourg : l’Hôtel d’Alsace se dote d’une centrale photovoltaïque de 130 kWc",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3440,7 +3566,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1783915800000",
+      "id": "enerzine-rss-4-1783915800000",
       "title": "ABB Robotics et PSYONIC unissent main bionique et cobot pour l’industrie",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3466,7 +3592,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1783912200000",
+      "id": "enerzine-rss-5-1783912200000",
       "title": "Asteroids2029 : la planète se mobilise avant le passage d’Apophis",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3769,84 +3895,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1783976501000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-07-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1783976501000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-07-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1783976501000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-07-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "batiweb-rss-6-1783897500000",
       "title": "Baumit CreativTop : une personnalisation sans limite",
       "source": "Batiweb",
@@ -4046,7 +4094,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1783894200000",
+      "id": "enerzine-rss-6-1783894200000",
       "title": "Samsung SDS mise sur le quantique pour perfectionner la gravure des puces",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4071,7 +4119,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1783851300000",
+      "id": "enerzine-rss-7-1783851300000",
       "title": "Canicule : la France suffoque, des records de chaleur nocturne pulvérisés",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4096,7 +4144,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1783844820000",
+      "id": "enerzine-rss-8-1783844820000",
       "title": "Sable du Sahara : une vague de poussière venue d’Afrique devrait colorer le ciel européen",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4121,7 +4169,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1783829400000",
+      "id": "enerzine-rss-9-1783829400000",
       "title": "Seulement 38 % de la population mondiale vivra dans les grandes villes d’ici 2100, une étude défie les prévisions actuelles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4141,32 +4189,6 @@
         "ENR"
       ],
       "summary": "Une nouvelle étude du Complexity Science Hub et de l’ETH Zurich suggère que le monde comptera 450 millions d’habitants de moins dans les grandes villes d’ici la fin du siècle que ne le laissent entendre les tendances actuelles. La raison : la croissance des grandes villes ralenti…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1783825800000",
-      "title": "Le LHC entame un long silence pour mieux renaître en 2030",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/le-lhc-entame-un-long-silence-pour-mieux-renaitre-en-2030/190113-2026-07",
-      "image": null,
-      "date": "2026-07-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été",
-        "Rénovation"
-      ],
-      "summary": "Le Grand Collisionneur de Hadrons du CERN, près de Genève, a été mis à l’arrêt. Durant quatre ans, le plus puissant accélérateur de particules au monde va subir une vaste rénovation ( le Long Arrêt 3 ) destinée à le convertir en machine à haute luminosité. Le HL-LHC, capable de p…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4519,7 +4541,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-0-1783700410000",
+      "id": "ministere-de-la-culture-architecture-sitemap-1-1783700410000",
       "title": "cet ete je lis ! et vous",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4542,7 +4564,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-1-1783699122000",
+      "id": "ministere-de-la-culture-architecture-sitemap-2-1783699122000",
       "title": "la tapisserie de bayeux est arrivee cette nuit au british museum londres",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4565,7 +4587,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-2-1783665487000",
+      "id": "ministere-de-la-culture-architecture-sitemap-3-1783665487000",
       "title": "fortes chaleurs la culture au frais",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4588,7 +4610,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-4-1783674115000",
+      "id": "ministere-de-la-culture-architecture-sitemap-5-1783674115000",
       "title": "tapisserie de bayeux un pret historique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4611,7 +4633,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-7-1783684010000",
+      "id": "ministere-de-la-culture-architecture-sitemap-8-1783684010000",
       "title": "48 maisons des illustres en ile de france mille histoires une nouvelle edition pour un guide qui fait reference",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4634,7 +4656,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-12-1783697520000",
+      "id": "ministere-de-la-culture-architecture-sitemap-13-1783697520000",
       "title": "mobilites des publics de festivals un guide pour accompagner la transition en normandie",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7049,7 +7071,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-3-1783611566000",
+      "id": "ministere-de-la-culture-architecture-sitemap-4-1783611566000",
       "title": "france 2030 annonce des 20 laureats de la deuxieme vague du dispositif culture immersive",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7072,7 +7094,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-5-1783610836000",
+      "id": "ministere-de-la-culture-architecture-sitemap-6-1783610836000",
       "title": "voir le monde autrement une annee dans les mots des influenceurs",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7095,7 +7117,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-6-1783591032000",
+      "id": "ministere-de-la-culture-architecture-sitemap-7-1783591032000",
       "title": "la qualite du logement au coeur des echanges entre les directeurs europeens de l architecture",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7119,7 +7141,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-11-1783589627000",
+      "id": "ministere-de-la-culture-architecture-sitemap-12-1783589627000",
       "title": "actes de la journee de lancement du parlement de la strategie nationale pour l architecture",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7142,7 +7164,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-19-1783610127000",
+      "id": "ministere-de-la-culture-architecture-sitemap-20-1783610127000",
       "title": "cathedrale de nimes un patrimoine reexplore des connaissances renouvelees 22 et 23 octobre",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7165,7 +7187,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-26-1783598740000",
+      "id": "ministere-de-la-culture-architecture-sitemap-27-1783598740000",
       "title": "les musees d ile de france au plus pres de leurs collections",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7235,6 +7257,30 @@
     },
     {
       "id": "batiweb-rss-14-1783638300000",
+      "title": "Protection collective en toiture : Anoxa rappelle la réglementation R408",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/protection-collective-toiture-reglementation-r408-anoxa-49069",
+      "image": "https://img.batiweb.com/repo-images/publi/49069/anoxa-07-13-une.jpg",
+      "date": "2026-07-09",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation"
+      ],
+      "summary": "Chutes en hauteur : Anoxa rappelle les obligations réglementaires et les solutions de protection collective pour sécuriser les interventions. Chutes en hauteur : Anoxa rappelle les obligations réglementaires et les solutions de protection collective pour sécuriser les interventio…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-15-1783638300000",
       "title": "Etex réunit sept marques à Batimat 2026 pour une construction durable",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7255,30 +7301,6 @@
         "Bâtiment"
       ],
       "summary": "BATIMAT 2026 : Etex réunit 7 de ses marques françaises sur un stand unique pour présenter ses solutions pour la construction et la rénovation. BATIMAT 2026 : Etex réunit 7 de ses marques françaises sur un stand unique pour présenter ses solutions pour la construction et la rénova…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-15-1783638300000",
-      "title": "Protection collective en toiture : Anoxa rappelle la réglementation R408",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/protection-collective-toiture-reglementation-r408-anoxa-49069",
-      "image": "https://img.batiweb.com/repo-images/publi/49069/anoxa-07-13-une.jpg",
-      "date": "2026-07-09",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation"
-      ],
-      "summary": "Chutes en hauteur : Anoxa rappelle les obligations réglementaires et les solutions de protection collective pour sécuriser les interventions. Chutes en hauteur : Anoxa rappelle les obligations réglementaires et les solutions de protection collective pour sécuriser les interventio…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8938,7 +8960,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-8-1783503189000",
+      "id": "ministere-de-la-culture-architecture-sitemap-9-1783503189000",
       "title": "preprogramme des 43e journees europeennes du patrimoine les samedi 19 et dimanche 20 septembre 2026",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8961,7 +8983,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-9-1783519656000",
+      "id": "ministere-de-la-culture-architecture-sitemap-10-1783519656000",
       "title": "rapport d activite 2025 du cspla",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8984,7 +9006,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-10-1783523035000",
+      "id": "ministere-de-la-culture-architecture-sitemap-11-1783523035000",
       "title": "la liste fouiller en benevole ou visiter un chantier archeologique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9008,7 +9030,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-16-1783502248000",
+      "id": "ministere-de-la-culture-architecture-sitemap-17-1783502248000",
       "title": "agathe simon a l estrade ex nihilo quand les regards fabriquent le monde",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9031,7 +9053,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-17-1783506433000",
+      "id": "ministere-de-la-culture-architecture-sitemap-18-1783506433000",
       "title": "un colloque pour les 500 ans de la reconstruction du clocher de la cathedrale de rodez",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9055,7 +9077,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-20-1783516493000",
+      "id": "ministere-de-la-culture-architecture-sitemap-21-1783516493000",
       "title": "maylis descazeaux nouvelle directrice regionale des affaires culturelles d occitanie",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10546,7 +10568,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-13-1783435995000",
+      "id": "ministere-de-la-culture-architecture-sitemap-14-1783435995000",
       "title": "biblis en folie troisieme edition des journees nationales dediees aux bibliotheques et mediatheques du 2 au 4 octobre 2026",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10569,7 +10591,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-14-1783422109000",
+      "id": "ministere-de-la-culture-architecture-sitemap-15-1783422109000",
       "title": "nomination de servane ducorps et mikael serre a la direction de la comedie de colmar centre dramatique national grand est alsace",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10592,7 +10614,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-15-1783417157000",
+      "id": "ministere-de-la-culture-architecture-sitemap-16-1783417157000",
       "title": "agenda previsionnel de mme catherine pegard ministre de la culture15",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10615,7 +10637,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-18-1783436974000",
+      "id": "ministere-de-la-culture-architecture-sitemap-19-1783436974000",
       "title": "bicentenaire de la photographie le ministere de la culture et le centre national du livre cnl annoncent les laureats du fonds de soutien except",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10639,7 +10661,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-27-1783417495000",
+      "id": "ministere-de-la-culture-architecture-sitemap-28-1783417495000",
       "title": "auvergne rhone alpes notre selection d expositions pour un ete artistique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -11965,7 +11987,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-21-1783330427000",
+      "id": "ministere-de-la-culture-architecture-sitemap-22-1783330427000",
       "title": "157 territoires deja engages une nouvelle campagne de labellisation pour accelerer le deploiement du 100 education artistique et culturelle",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12521,7 +12543,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-22-1783090725000",
+      "id": "ministere-de-la-culture-architecture-sitemap-23-1783090725000",
       "title": "resultats des concours d adjoint technique des administrations de l etat",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12544,7 +12566,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-23-1783090184000",
+      "id": "ministere-de-la-culture-architecture-sitemap-24-1783090184000",
       "title": "resultats des concours et examens professionnel d adjoint technique des administrations de l etat principal de 2eme classe3",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12567,7 +12589,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-24-1783082807000",
+      "id": "ministere-de-la-culture-architecture-sitemap-25-1783082807000",
       "title": "comment valoriser les friches dans leurs diversite avec le label villes ou pays d art et d histoire",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12590,7 +12612,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-28-1783066954000",
+      "id": "ministere-de-la-culture-architecture-sitemap-29-1783066954000",
       "title": "albert camus ce qu il a pu et ce qu il peut encore apporter au monde",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -13099,7 +13121,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-25-1782999491000",
+      "id": "ministere-de-la-culture-architecture-sitemap-26-1782999491000",
       "title": "entree du fonds albert camus dans les collections nationales a la bibliotheque nationale de france2",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -13462,6 +13484,29 @@
       "collectMethod": "rss"
     },
     {
+      "id": "envirobat-centre-sitemap-477-1782983704000",
+      "title": "webinaire reemploi des sanitaires",
+      "source": "Envirobat Centre",
+      "sourceId": "envirobat-centre",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Centre-Val de Loire",
+      "url": "https://www.envirobatcentre.com/actualites/webinaire-reemploi-des-sanitaires",
+      "image": null,
+      "date": "2026-07-02",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "Centre-Val de Loire",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Envirobat Centre. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "verre-protections-magazine-rss-0-1783008056000",
       "title": "Les vainqueurs des Awards de l’Innovation Batimat 2026 dans les catégories “Menuiseries & façades” et “Protection solaire”",
       "source": "Verre & Protections Magazine",
@@ -13634,29 +13679,6 @@
         "Urbanisme"
       ],
       "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-29-1782920259000",
-      "title": "admissibilites admissions aux concours et examens professionnels de chef de travaux d art",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/nous-connaitre/emploi-et-formation/concours-et-examens-professionnels/actualites-des-concours-et-examens-professionnels/admissibilites-admissions-aux-concours-et-examens-professionnels-de-chef-de-travaux-d-art",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
