@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-15T16:28:01.882Z",
+  "generatedAt": "2026-07-15T21:05:24.432Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2411,6 +2411,52 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-349-1784107847000",
+      "title": "economies denergie vrai du faux avoir bons reflexes",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/economies-denergie-vrai-du-faux-avoir-bons-reflexes",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-369-1784129974000",
+      "title": "ministere partenaire du film danimation fille nuages",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/ministere-partenaire-du-film-danimation-fille-nuages",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "cerema-sitemap-758-1784120363000",
       "title": "1 caracterisation sols roches",
       "source": "CEREMA",
@@ -2872,7 +2918,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-3-1784123974000",
+      "id": "actu-environnement-rss-3-1784124000000",
+      "title": "Refonte REP textiles (3/5) : les modalités de soutien au tri chamboulées",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/nouvelles-modalites-soutien-financier-tri-textiles-48294.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48294_large.jpg",
+      "date": "2026-07-15",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau",
+        "Réemploi"
+      ],
+      "summary": "Le nouveau projet de cahier des charges ne se contente pas de revoir les objectifs de la REP TLC. Il propose aussi une révision des modalités de soutien pour pousser les trieurs à orienter les flux vers le réemploi et le recyclage de proximité. Le nouveau projet de cahier des cha…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-4-1784123974000",
       "title": "Eaux usées : la Commission européenne met à nouveau la France en demeure sur la Deru",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2896,7 +2967,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-4-1784121459000",
+      "id": "actu-environnement-rss-5-1784121459000",
       "title": "La justice annule un projet de centre de valorisation des déchets en zone inondable",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2919,7 +2990,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-5-1784116993000",
+      "id": "actu-environnement-rss-6-1784116993000",
       "title": "Atteintes aux espèces protégées : la condamnation de SNCF Réseau confirmée en appel",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2943,7 +3014,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-6-1784110461000",
+      "id": "actu-environnement-rss-7-1784110461000",
       "title": "Prévention des feux de forêt : les contrats de mise en valeur agricole en consultation",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2966,7 +3037,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-7-1784109230000",
+      "id": "actu-environnement-rss-8-1784109230000",
       "title": "Déviation routière&#8239;en Ardèche : une autorisation environnementale requise mais une partie des travaux permise",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2985,31 +3056,6 @@ window.BATIVEILLE_DATA = {
         "Énergie"
       ],
       "summary": "Par une décision du 9&#8239;juillet&#8239;2026, le tribunal administratif de Lyon juge que le préfet de l'Ardèche doit mettre en demeure la communauté de communes Rhône-Crussol de déposer une demande d'autorisation environnementale pour ... Par une décision du 9&#8239;juillet&#82…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-8-1784101500000",
-      "title": "Refonte REP textiles (3/5) : les modalités de soutien au tri chamboulées",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/nouvelles-modalites-soutien-financier-tri-textiles-48294.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48294_large.jpg",
-      "date": "2026-07-15",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau",
-        "Réemploi"
-      ],
-      "summary": "Le nouveau projet de cahier des charges ne se contente pas de revoir les objectifs de la REP TLC. Il propose aussi une révision des modalités de soutien pour pousser les trieurs à orienter les flux vers le réemploi et le recyclage de proximité. Le nouveau projet de cahier des cha…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3273,6 +3319,174 @@ window.BATIVEILLE_DATA = {
       "summary": "Lettre Info TEN N°36",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-132-1784110382000",
+      "title": "phosphore eau surface",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/eau/article/phosphore-eau-surface",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-133-1784110391000",
+      "title": "nitrates eau surface",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/eau/article/nitrates-eau-surface",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-144-1784110373000",
+      "title": "biologie eau surface",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/eau/article/biologie-eau-surface",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-225-1784110785000",
+      "title": "Changement climatique aggravation future pressions milieux usages eau",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/changement-climatique/article/Changement-climatique-aggravation-future-pressions-milieux-usages-eau",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-226-1784110884000",
+      "title": "Changement climatique eau hydrologie future bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/article/Changement-climatique-eau-hydrologie-future-bretagne",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-227-1784110946000",
+      "title": "empreinte eau bleue bretons monde",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/article/empreinte-eau-bleue-bretons-monde",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-228-1784110783000",
+      "title": "besoins futurs eau bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/article/besoins-futurs-eau-bretagne",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "cd2e-rss-0-1784117968000",
@@ -3629,12 +3843,12 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "reporterre-rss-7-1784093400000",
-      "title": "« La terre, c'est la vie » À Bagnolet, des potagers « pirates » pour trouer le béton",
+      "title": "« La terre, c'est la vie » : à Bagnolet, des potagers « pirates » pour trouer le béton",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://reporterre.net/Avec-leur-potager-pirate-les-habitants-de-ce-quartier-populaire-se-reapproprient-leur",
+      "url": "https://reporterre.net/La-terre-c-est-la-vie-a-Bagnolet-des-potagers-pirates-pour-trouer-le-beton",
       "image": "https://reporterre.net/local/cache-vignettes/L700xH467/jardinabagnolet-35b3a.jpg?1784093402",
       "date": "2026-07-15",
       "access": "Gratuit",
@@ -3700,6 +3914,182 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Depuis vendredi, la cour de l’école Robert-Doisneau, à Lyon, est ouverte au public. C’est l’un des plus de 700 lieux frais recensés par la municipalité dans le cadre de son plan «objectif fraîcheur» qui vise à faire face aux fortes chaleurs. Vert a pris la température auprès des …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-0-1784130032000",
+      "title": "Les raccordements électriques des EnR sont saturés sur 10% du territoire",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/les-raccordements-electriques-des-enr-sont-satures-sur-10-du-territoire-429596/",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Les gestionnaires de réseaux ont un message pour les développeurs de projets solaires et éoliens : « écoutez le réseau. On a utilisé au maximum les marges dont on disposait. Intégrez dès le départ de vos projets la question du réseau », demande Cédric Boissier, directeur du racco…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-1-1784126015000",
+      "title": "Une batterie de 700 MW/2 800 MWh financée en Belgique",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/une-batterie-de-700-mw-2-800-mwh-financee-en-belgique-429525/",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation"
+      ],
+      "summary": "Giga Storage, spécialiste du stockage de l’électricité par batterie détenu par le français InfraVia, boucle le financement de son plus important projet à date, et un des plus puissants en Europe : le L’article Une batterie de 700 MW/2 800 MWh financée en Belgique est apparu en pr…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-2-1784125548000",
+      "title": "La nouvelle stratégie bas carbone compte sur l’électrification",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/la-nouvelle-strategie-bas-carbone-compte-sur-lelectrification-429512/",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "« Le fruit d’un travail de 5 ans. » C’est avec ces mots, prononcés au ministère de la Transition écologique, que Diane Simiu a introduit ce 15 juillet la présentation de la nouvelle stratégie nationale bas carbone (SNBC) française. Basée sur « 2000 hypothèses » et « une cinquanta…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-3-1784114695000",
+      "title": "Pourquoi JPEE et Générale du solaire vont fusionner",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/pourquoi-jpee-et-generale-du-solaire-vont-fusionner-429536/",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Entretien – JP Energie Environnement (JPEE) et Générale du Solaire vont fusionner, comme l’a dévoilé GreenUnivers la semaine dernière. La Banque des Territoires se projette comme partenaire et actionnaire. Une opération encore rarissime parmi les producteurs indépendants d’électr…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-4-1784105666000",
+      "title": "Le stockage couvre un tiers des transactions M&A en Europe [Tevali]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/le-stockage-couvre-un-tiers-des-transactions-ma-en-europe-tevali-429461/",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "Le conseil en M&A Tevali Partners a identifié L’article Le stockage couvre un tiers des transactions M&A en Europe [Tevali] est apparu en premier sur GreenUnivers. Le conseil en M&#38;A Tevali Partners a identifié L’article Le stockage couvre un tiers des transactions M&A en Euro…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-5-1784101338000",
+      "title": "Le groupe BayWa veut vendre les EnR, évaluées 800 M€ de moins que prévu",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/le-groupe-baywa-veut-vendre-les-enr-evaluees-800-me-de-moins-que-prevu-429391/",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "Le groupe allemand BayWa prévoit de céder d’ici fin 2028 sa filiale dédiée aux énergies renouvelables, BayWa r.e., dans le cadre de sa restructuration entamée en 2024. Et qui devrait L’article Le groupe BayWa veut vendre les EnR, évaluées 800 M€ de moins que prévu est apparu en p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-6-1784100003000",
+      "title": "La Commission européenne attendue sur le prix du CO2 et l’électrification",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/la-commission-europeenne-attendue-sur-le-prix-du-co2-et-lelectrification-429354/",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "Bruxelles finalise de nouvelles mesures à la croisée des enjeux industriels, énergétiques et climatiques. Elle doit présenter le 17 juillet des propositions pour réviser le L’article La Commission européenne attendue sur le prix du CO2 et l’électrification est apparu en premier s…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4011,7 +4401,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1784126900000",
+      "id": "lenergeek-rss-0-1784134800000",
+      "title": "Pendant la canicule, les riches s’offrent la fraîcheur des pôles",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/07/15/canicule-riches-fraicheur-tourisme-polaire/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/07/tourisme-polaire.jpg",
+      "date": "2026-07-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Pendant que les épisodes de chaleur se multiplient en France, les expéditions vers l'Arctique et l'Antarctique connaissent un succès inédit auprès d'une clientèle fortunée. De plus en plus de voyageurs fortunés déboursent plusieurs dizaines de milliers d'euros pour découvrir les …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1784126900000",
       "title": "Climat : vers la fin des énergies fossiles d’ici quelques années ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4037,7 +4453,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1784125600000",
+      "id": "lenergeek-rss-2-1784125600000",
       "title": "Cuba : troisième effondrement du réseau électrique en moins de 10 jours",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4062,7 +4478,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1784125311000",
+      "id": "lenergeek-rss-3-1784125311000",
       "title": "Carburant : pourquoi les prix ont-ils de nouveau augmenté ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4087,7 +4503,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1784125162000",
+      "id": "lenergeek-rss-4-1784125162000",
       "title": "Carburant : l’aide gouvernementale jugée « échec total » par un rapport parlementaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4113,7 +4529,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1784122882000",
+      "id": "lenergeek-rss-5-1784122882000",
       "title": "DS N°7 Elysée : la nouvelle voiture présidentielle 100% électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4137,7 +4553,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1784109731000",
+      "id": "lenergeek-rss-6-1784109731000",
       "title": "Combien coûtent 1000 L de fioul ce mercredi 15 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4162,7 +4578,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1784108731000",
+      "id": "lenergeek-rss-7-1784108731000",
       "title": "Carburant, plafonnement des prix : les stations indépendantes dénoncent une atteinte à la concurrence",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4187,7 +4603,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1784103681000",
+      "id": "lenergeek-rss-8-1784103681000",
       "title": "Centre de données : l’État de New York en suspend la construction",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4213,7 +4629,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1784098200000",
+      "id": "lenergeek-rss-9-1784098200000",
       "title": "Pétrole : l’OPEP baisse ses prévisions 2026 malgré une production record",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4238,7 +4654,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1784096640000",
+      "id": "lenergeek-rss-10-1784096640000",
       "title": "Méthane : le niveau 5 de l’OGMP 2.0 impose une traçabilité que l’Europe ne peut pas vérifier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4263,7 +4679,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1784094600000",
+      "id": "lenergeek-rss-11-1784094600000",
       "title": "En juin, le solaire a couvert 25 % de l’électricité en Europe : les ingénieurs confirment que personne n’avait prévu ce seuil",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4288,7 +4704,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1784092800000",
+      "id": "lenergeek-rss-12-1784092800000",
       "title": "L’Europe jure qu’elle n’achètera plus de gaz russe en 2027, mais elle n’en a jamais importé autant qu’aujourd’hui",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4312,7 +4728,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1784088480000",
+      "id": "lenergeek-rss-13-1784088480000",
       "title": "Ormuz : Le pétrole repasse au-dessus des 85 dollars le baril",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4336,7 +4752,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1784080800000",
+      "id": "lenergeek-rss-14-1784080800000",
       "title": "Énergie solaire, terrains et infrastructures énergétiques : pourquoi l’immobilier devient un élément clé de la transition énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4386,7 +4802,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1784132866000",
+      "id": "le-commerce-du-bois-sitemap-0-1784149512000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4412,7 +4828,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1784132866000",
+      "id": "le-commerce-du-bois-sitemap-1-1784149512000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4438,7 +4854,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1784132866000",
+      "id": "le-commerce-du-bois-sitemap-2-1784149512000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -5056,7 +5472,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1784023320000",
+      "id": "lenergeek-rss-15-1784023320000",
       "title": "Combien coûtent 1000 L de fioul ce mardi 14 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5081,7 +5497,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1784010005000",
+      "id": "lenergeek-rss-16-1784010005000",
       "title": "Une retraitée reçoit une facture Veolia de 557 000 € après qu’un technicien a monté son compteur à l’envers",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5105,7 +5521,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1784008252000",
+      "id": "lenergeek-rss-17-1784008252000",
       "title": "Mauvaise nouvelle pour les propriétaires qui ont fait des travaux : en 2027, les logements chauffés à l’électricité pourront sortir du statut de passoire sans rien dépenser",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5131,7 +5547,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1784006455000",
+      "id": "lenergeek-rss-18-1784006455000",
       "title": "Pourquoi votre réflexe volets fermés le jour ne suffit pas : le ministère recommande un geste que presque personne ne fait encore",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5498,31 +5914,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Après le départ de Frédéric Carré vers la Fédération française du bâtiment, Action Logement Immobilier nomme Guy Durand à sa présidence et renouvelle sa direction générale. Après le départ de Frédéric Carré vers la Fédération française du bâtiment, Action Logement Immobilier nomm…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "techniques-de-lingenieur-actualites-sitemap-22-1783938885000",
-      "title": "articles",
-      "source": "Techniques de l’Ingénieur Actualités",
-      "sourceId": "techniques-de-lingenieur-actualites",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.techniques-ingenieur.fr/actualite/articles/",
-      "image": null,
-      "date": "2026-07-13",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Technique",
-        "Énergie",
-        "Environnement",
-        "Innovation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "novethic-rss-3-1783943067000",
@@ -5911,6 +6302,83 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "greenunivers-rss-7-1783959207000",
+      "title": "Solaire : « la situation a un goût de moratoire déguisé » [Daniel Bour, Enerplan]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/solaire-la-situation-a-le-gout-dun-moratoire-deguise-daniel-bour-enerplan-429456/",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Entretien – Mécontent du sort réservé au photovoltaïque, le syndicat professionnel de la filière, Enerplan, a décidé de se faire entendre des pouvoirs publics. Pour ce faire, il s’est offert une pleine page dans La Tribune Dimanche du 12 juillet sur laquelle il est indiqué, en tê…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-8-1783953984000",
+      "title": "Inquiétude sur le nucléaire et reprise du conflit en Iran tirent les prix vers le haut [Marchés]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/inquietude-sur-le-nucleaire-et-reprise-du-conflit-en-iran-tirent-les-prix-vers-le-haut-marches-429440/",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "La reprise du conflit en Iran a dopé les prix de l’énergie la semaine dernière. Le gaz retrouve ses couleurs vives d’avant l’accord, tandis que l’électricité souffre en plus des difficultés de production du nucléaire, de l’hydroélectricité et de l’éolien. Le gaz remonte aux nivea…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-9-1783953559000",
+      "title": "Lhyfe trouve un client-actionnaire pour plusieurs projets",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/lhyfe-trouve-un-client-actionnaire-pour-plusieurs-projets-429432/",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Confort d’été"
+      ],
+      "summary": "Messer, le groupe international basé en Allemagne spécialisé dans la production et la distribution de gaz, va prendre 30% du capital de quatre projets de Lhyfe, viennent d’indiquer les deux sociétés. Trois des quatre projets se situent en France, L’article Lhyfe trouve un client-…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "pv-magazine-france-rss-5-1783951200000",
       "title": "Corsica Sole active Hertz 2, doublant la capacité de stockage en Estonie",
       "source": "PV Magazine France",
@@ -6065,7 +6533,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1783943040000",
+      "id": "lenergeek-rss-19-1783943040000",
       "title": "Hélium : la pénurie qui menace la révolution de l’intelligence artificielle",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6090,7 +6558,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1783942665000",
+      "id": "lenergeek-rss-20-1783942665000",
       "title": "EPR de Flamanville : une fuite de fluides frigorigènes a été détectée dans l’atmosphère",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6116,7 +6584,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1783936956000",
+      "id": "lenergeek-rss-21-1783936956000",
       "title": "Combien coûtent 1000 L de fioul ce lundi 13 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6141,7 +6609,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1783932146000",
+      "id": "lenergeek-rss-22-1783932146000",
       "title": "Nouvelle Fiat Pandina électrique : tout savoir sur sa consommation et son système de recharge",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6167,7 +6635,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1783930072000",
+      "id": "lenergeek-rss-23-1783930072000",
       "title": "Fusées réutilisables : la Chine et le Japon franchissent le cap",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6188,31 +6656,6 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "La Chine et le Japon réussissent en juillet 2026 leurs premiers essais de fusées réutilisables, réduisant drastiquement le coût énergétique de l'accès à l'espace. La Long March-10B et le prototype RV-X menacent la domination de SpaceX en transformant l'économie du lancement spati…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1783923600000",
-      "title": "Pourquoi SpaceX a volontairement fait brûler 260 satellites Starlink dans l’atmosphère : les ingénieurs expliquent cette décision",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/07/13/pourquoi-spacex-a-volontairement-fait-bruler-260-satellites-starlink-dans-latmosphere-les-ingenieurs-expliquent-cette-decision/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/07/spacex-a-fait-bruler-260-satellites-starlink-en-six-mois.webp",
-      "date": "2026-07-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "260 satellites Starlink réduits en cendres en six mois, et ce n'est qu'un début. Derrière cette routine se cache un vide réglementaire qui inquiète sérieusement les scientifiques. Quels risques pour notre atmosphère ? L’article Pourquoi SpaceX a volontairement fait brûler 260 sat…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6617,7 +7060,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-369-1783695699000",
+      "id": "ministere-de-la-transition-ecologique-sitemap-370-1783695699000",
       "title": "7 idees recues vagues chaleur",
       "source": "Ministère de la Transition Écologique",
       "sourceId": "ministere-de-la-transition-ecologique",
@@ -7043,54 +7486,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-225-1783697305000",
-      "title": "Changement climatique aggravation future pressions milieux usages eau",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/thematique/changement-climatique/article/Changement-climatique-aggravation-future-pressions-milieux-usages-eau",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreo-bretagne-sitemap-228-1783695580000",
-      "title": "besoins futurs eau bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/article/besoins-futurs-eau-bretagne",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "envirobat-grand-est-lqe-sitemap-0-1783666874000",
       "title": "actualites",
       "source": "Envirobat Grand Est / LQE",
@@ -7502,56 +7897,6 @@ window.BATIVEILLE_DATA = {
       "summary": "La série d'ordinateurs embarqués BX-T5000 est dotée d'une conception sans ventilateur, refroidie par air naturel, permettant un fonctionnement sur une large plage de températures (de -20 à 55 °C). L’article ADM21 et Contec lancent une nouvelle série de PC embarqués est apparu en …",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "techniques-de-lingenieur-actualites-sitemap-0-1783693681000",
-      "title": "actualite",
-      "source": "Techniques de l’Ingénieur Actualités",
-      "sourceId": "techniques-de-lingenieur-actualites",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.techniques-ingenieur.fr/actualite/",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Technique",
-        "Énergie",
-        "Environnement",
-        "Innovation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "techniques-de-lingenieur-actualites-sitemap-21-1783694103000",
-      "title": "wp home",
-      "source": "Techniques de l’Ingénieur Actualités",
-      "sourceId": "techniques-de-lingenieur-actualites",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.techniques-ingenieur.fr/actualite/wp-home/",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Technique",
-        "Énergie",
-        "Environnement",
-        "Innovation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "novethic-rss-5-1783688046000",
@@ -10757,30 +11102,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-226-1783520586000",
-      "title": "Changement climatique eau hydrologie future bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/article/Changement-climatique-eau-hydrologie-future-bretagne",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "scalen-nancy-sud-lorraine-rss-1-1783490361000",
       "title": "Cahier Scalen 70: Observatoire de l’immobilier d’entreprise du bassin nancéien",
       "source": "SCALEN Nancy Sud Lorraine",
@@ -12940,29 +13261,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Google et la start-up italienne Energy Dome installent une batterie au CO₂ à très longue durée en Irlande pour satisfaire les besoins de son datacenter. […] L’article Neuf heures d’autonomie pour cette méga batterie au CO2 qui alimentera un datacenter est apparu en premier sur Ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
-      "title": "avancees ffb 2026",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-transition-ecologique-sitemap-37-1783084774000",
