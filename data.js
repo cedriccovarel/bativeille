@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-14T21:05:11.177Z",
+  "generatedAt": "2026-07-15T02:47:11.657Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1784083608000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1784083608000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1784083608000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "novethic-rss-0-1784004262000",
       "title": "\"Le technofascisme est un fascisme entrepreneurial, un fascisme sans peuple\", Nastasia Hadjadji",
       "source": "Novethic",
@@ -2287,7 +2365,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1784007900000",
+      "id": "enerzine-rss-0-1784067000000",
+      "title": "Ondes gravitationnelles : une mesure inédite de la constante de Hubble",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/ondes-gravitationnelles-une-mesure-inedite-de-la-constante-de-hubble/190107-2026-07",
+      "image": null,
+      "date": "2026-07-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Une équipe internationale menée par le CSIRO et l’Université Swinburne a publié dans The Astrophysical Journal l’estimation la plus précise jamais obtenue du taux d’expansion de l’univers à partir d’ondes gravitationnelles. Fondée sur la fusion d’étoiles à neutrons GW170817, uniq…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1784007900000",
       "title": "Chaleur programmable : une avancée majeure en thermique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2311,7 +2413,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1784005800000",
+      "id": "enerzine-rss-2-1784005800000",
       "title": "Blular connecte climatisation et solaire sans batterie ni onduleur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2337,7 +2439,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1784002200000",
+      "id": "enerzine-rss-3-1784002200000",
       "title": "Recherches de climatisation en hausse de 380 %, le solaire comme réponse",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2363,7 +2465,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1783998600000",
+      "id": "enerzine-rss-4-1783998600000",
       "title": "Une nouvelle conception d’entraînement moteur réduit la chaleur et l’usure dans les systèmes haute puissance",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2488,84 +2590,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Volets entrouverts, ventilateur mal placé, boissons glacées : ces réflexes du quotidien aggravent en fait la chaleur chez vous. Les vraies astuces qui font baisser le thermomètre de plusieurs degrés existent, et elles surprennent. L’article Pourquoi votre réflexe volets fermés le…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1784063098000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-07-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1784063098000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-07-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1784063098000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-07-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1784050096000",
@@ -3328,6 +3352,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-0-1783926000000",
+      "title": "Prix Grande Cause 2026 : un accompagnement de 30 000 € pour faire grandir un projet d’intérêt général",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/prix-grande-cause-2026-un-accompagnement-de-30-000-e-pour-faire-grandir-un-projet-dinteret-general/",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Dans l’économie sociale et solidaire, les projets d’intérêt général ne manquent pas. En revanche, ils peinent à trouver les moyens de se faire connaître, de mobiliser de nouveaux soutiens ou de convaincre des partenaires financiers. Pourtant, au-delà de la qualité d’une action, s…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-2-1783960298000",
       "title": "Fontainebleau, symbole de la remontée des incendies vers le nord",
       "source": "Reporterre",
@@ -3636,6 +3686,83 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "greenunivers-rss-0-1783959207000",
+      "title": "Solaire : « la situation a un goût de moratoire déguisé » [Daniel Bour, Enerplan]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/solaire-la-situation-a-le-gout-dun-moratoire-deguise-daniel-bour-enerplan-429456/",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Entretien – Mécontent du sort réservé au photovoltaïque, le syndicat professionnel de la filière, Enerplan, a décidé de se faire entendre des pouvoirs publics. Pour ce faire, il s’est offert une pleine page dans La Tribune Dimanche du 12 juillet sur laquelle il est indiqué, en tê…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-1-1783953984000",
+      "title": "Inquiétude sur le nucléaire et reprise du conflit en Iran tirent les prix vers le haut [Marchés]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/inquietude-sur-le-nucleaire-et-reprise-du-conflit-en-iran-tirent-les-prix-vers-le-haut-marches-429440/",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "La reprise du conflit en Iran a dopé les prix de l’énergie la semaine dernière. Le gaz retrouve ses couleurs vives d’avant l’accord, tandis que l’électricité souffre en plus des difficultés de production du nucléaire, de l’hydroélectricité et de l’éolien. Le gaz remonte aux nivea…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-2-1783953559000",
+      "title": "Lhyfe trouve un client-actionnaire pour plusieurs projets",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/lhyfe-trouve-un-client-actionnaire-pour-plusieurs-projets-429432/",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Confort d’été"
+      ],
+      "summary": "Messer, le groupe international basé en Allemagne spécialisé dans la production et la distribution de gaz, va prendre 30% du capital de quatre projets de Lhyfe, viennent d’indiquer les deux sociétés. Trois des quatre projets se situent en France, L’article Lhyfe trouve un client-…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "pv-magazine-france-rss-0-1783951200000",
       "title": "Corsica Sole active Hertz 2, doublant la capacité de stockage en Estonie",
       "source": "PV Magazine France",
@@ -3790,7 +3917,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1783980600000",
+      "id": "enerzine-rss-5-1783980600000",
       "title": "Un processeur quantique IBM simule l’hadronisation des quarks",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3815,7 +3942,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1783929900000",
+      "id": "enerzine-rss-6-1783929900000",
       "title": "Canicule : l’ASNR desserre temporairement les contraintes thermiques du Bugey",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3841,7 +3968,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1783921500000",
+      "id": "enerzine-rss-7-1783921500000",
       "title": "Des scientifiques développent une combinaison de plongée pour cafards cyborgs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3867,7 +3994,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1783919400000",
+      "id": "enerzine-rss-8-1783919400000",
       "title": "Strasbourg : l’Hôtel d’Alsace se dote d’une centrale photovoltaïque de 130 kWc",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3893,7 +4020,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1783915800000",
+      "id": "enerzine-rss-9-1783915800000",
       "title": "ABB Robotics et PSYONIC unissent main bionique et cobot pour l’industrie",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3915,32 +4042,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "ABB Robotics s’associe à la société californienne PSYONIC pour intégrer la main bionique Ability Hand sur son cobot GoFa. Les données tactiles collectées lors de l’utilisation de prothèses par des personnes amputées servent à entraîner des robots capables de manipuler des objets …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1783912200000",
-      "title": "Asteroids2029 : la planète se mobilise avant le passage d’Apophis",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/asteroids2029-la-planete-se-mobilise-avant-le-passage-dapophis/190110-2026-07",
-      "image": null,
-      "date": "2026-07-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été",
-        "Biosourcé"
-      ],
-      "summary": "Lancée le 30 juin par l’Union astronomique internationale et NOIRLab, l’initiative mondiale Asteroids2029 fédère gouvernements, agences spatiales et éducateurs avant l’Année internationale de la sensibilisation aux astéroïdes et de la défense planétaire, décrétée par l’ONU pour 2…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4744,6 +4845,29 @@ window.BATIVEILLE_DATA = {
       "summary": "En pleine vague de chaleur, la Caisse d'Epargne Île-de-France a livré en urgence 33 climatiseurs mobiles au groupe hospitalier de la Pitié-Salpêtrière, à Paris. Cette opération de mécénat vise à soulager en priorité le service d'oncologie médicale du professeur Jean-Philippe Span…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-369-1783695699000",
+      "title": "7 idees recues vagues chaleur",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/7-idees-recues-vagues-chaleur",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "batiweb-rss-9-1783692600000",
@@ -5697,6 +5821,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-1-1783666800000",
+      "title": "France Tiers-Lieux disparaît : la fin silencieuse d’une politique publique de huit ans",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/france-tiers-lieux-disparait-la-fin-silencieuse-dune-politique-publique-de-huit-ans/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Pas une déclaration, pas un communiqué, aucun débat public. L’assemblée générale de France Tiers-Lieux a voté sa propre dissolution lundi 29 juin, sans un bruit. À la veille des départs en vacances, pour ne pas déranger. Sans attendre la fin de sa convention avec l’Etat dans deux…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-17-1783691756000",
       "title": "Moules, escargots... 125 espèces de mollusques menacées par l'exploitation minière",
       "source": "Reporterre",
@@ -5975,6 +6123,185 @@ window.BATIVEILLE_DATA = {
         "Politiques publiques"
       ],
       "summary": "Plus grande île hexagonale après la Corse, Oléron fait face à une érosion record et à un risque de submersion accrus par le changement climatique. Puisqu’elle est peu urbanisée sur ses côtes, les pouvoirs publics misent sur ses dunes et marais pour parer la menace. Plus grande îl…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-3-1783697760000",
+      "title": "JPEE et la Générale du Solaire s’entendent en vue d’une fusion",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/jpee-et-la-generale-du-solaire-sentendent-en-vue-dune-fusion-429243/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "Exclusif – JPEE et la Générale du Solaire se préparent à fusionner tout ou partie de leurs activités, selon nos informations. Le périmètre exact du rapprochement reste à mieux connaître et l’opération va demander un peu de temps. Les deux développeurs-producteurs d’électricité re…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-4-1783697552000",
+      "title": "Ocean Winds achève son projet éolien flottant pilote, prépare l’AO10",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/ocean-winds-acheve-son-projet-eolien-flottant-pilote-prepare-lao10-429058/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "Reportage – « Technologiquement, l’éolien flottant a fait ses preuves, ce qui manque c’est la maturité industrielle pour laquelle il faut des volumes », affirme Marc Hirt, directeur pour la France d’Ocean Winds. La L’article Ocean Winds achève son projet éolien flottant pilote, p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-5-1783694758000",
+      "title": "Reden ferme son usine d’assemblage de panneaux solaires",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/reden-ferme-son-usine-dassemblage-de-panneaux-solaires-429362/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Eau",
+        "Énergie"
+      ],
+      "summary": "L’activité est « structurellement déficitaire » et ne peut plus être maintenue. Reden explique L’article Reden ferme son usine d’assemblage de panneaux solaires est apparu en premier sur GreenUnivers. L’activité est « structurellement déficitaire » et ne peut plus être maintenue.…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-6-1783694436000",
+      "title": "Les documents de la semaine",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/les-documents-de-la-semaine-381215/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-7-1783691876000",
+      "title": "Capacité : première enchère en demi-teinte pour la flexibilité décarbonée",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/capacite-une-premiere-enchere-en-demi-teinte-pour-la-flexibilite-decarbonee-429308/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Il y a du bon et du moins bon pour les flexibilités décarbonées après la première enchère du nouveau mécanisme de capacité français, pour livraison l’hiver prochain. Un volume L’article Capacité : première enchère en demi-teinte pour la flexibilité décarbonée est apparu en premie…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-8-1783688400000",
+      "title": "Alba Infra rachète un portefeuille à RWE, s’associe à une filiale de Tevali",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/alba-infra-rachete-un-portefeuille-a-rwe-sassocie-a-une-filiale-de-tevali-429066/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Confort d’été",
+        "Énergie"
+      ],
+      "summary": "Altevera. C’est le nom que portera la plateforme de production d’énergies renouvelables (EnR) lancée, selon nos informations, par la société de gestion Alba Infra Partners avec Tevalia Capital, une filiale du conseil en M&A Tevali Partners. Son ambition ? Devenir un producteur d’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-9-1783684887000",
+      "title": "AO solaire bâtiment : Arkolia sort vainqueur de la 12e période",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/arkolia-grand-vainqueur-de-la-12e-periode-de-lao-batiment-429272/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie",
+        "Bâtiment"
+      ],
+      "summary": "La dernière session de l’appel d’offres photovoltaïque de plus de 500 MWc sur bâtiment a récompensé 326 projets pour un total de 300 MWc. Trois développeurs se partagent 38% de la puissance attribuée. Arkolia [/restrict-content] L’article AO solaire bâtiment : Arkolia sort vainqu…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6828,30 +7155,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-14-1783638300000",
-      "title": "Protection collective en toiture : Anoxa rappelle la réglementation R408",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/protection-collective-toiture-reglementation-r408-anoxa-49069",
-      "image": "https://img.batiweb.com/repo-images/publi/49069/anoxa-07-13-une.jpg",
-      "date": "2026-07-09",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation"
-      ],
-      "summary": "Chutes en hauteur : Anoxa rappelle les obligations réglementaires et les solutions de protection collective pour sécuriser les interventions. Chutes en hauteur : Anoxa rappelle les obligations réglementaires et les solutions de protection collective pour sécuriser les interventio…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-15-1783638300000",
       "title": "Etex réunit sept marques à Batimat 2026 pour une construction durable",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6872,6 +7175,30 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "BATIMAT 2026 : Etex réunit 7 de ses marques françaises sur un stand unique pour présenter ses solutions pour la construction et la rénovation. BATIMAT 2026 : Etex réunit 7 de ses marques françaises sur un stand unique pour présenter ses solutions pour la construction et la rénova…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-15-1783638300000",
+      "title": "Protection collective en toiture : Anoxa rappelle la réglementation R408",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/protection-collective-toiture-reglementation-r408-anoxa-49069",
+      "image": "https://img.batiweb.com/repo-images/publi/49069/anoxa-07-13-une.jpg",
+      "date": "2026-07-09",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation"
+      ],
+      "summary": "Chutes en hauteur : Anoxa rappelle les obligations réglementaires et les solutions de protection collective pour sécuriser les interventions. Chutes en hauteur : Anoxa rappelle les obligations réglementaires et les solutions de protection collective pour sécuriser les interventio…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7608,6 +7935,32 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Carte de Callendar Les conséquences de la canicule se lisent rarement tout de suite. Elles apparaissent au fil des jours, dans la presse locale. Callendar, société spécialisée dans les données climatiques, a justement développé une carte interactive pour rassembler les impacts de…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-2-1783580400000",
+      "title": "Kylian Mbappé : un sourire qui rappelle que les valeurs du sport collectif éclairent la société",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/kylian-mbappe-un-sourire-qui-rappelle-que-les-valeurs-du-sport-collectif-eclairent-toute-la-societe/",
+      "image": null,
+      "date": "2026-07-09",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "La France n’est pas encore triple championne du monde de football – mais on y croit pour ce soir – que le sourire de Kilian Mbappé a déjà reconquis bien des coeurs. Face au Paraguay samedi soir, bousculé, accroché, l’attaquant français a répondu par le jeu, sans (presque) jamais …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8405,6 +8758,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
+      "title": "sobriete energetique plan reduire notre consommation denergie",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/sobriete-energetique-plan-reduire-notre-consommation-denergie",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "atmo-france-sitemap-32-1783498288000",
       "title": "grand public",
       "source": "Atmo France",
@@ -9121,6 +9497,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-3-1783494000000",
+      "title": "L’UDES lance « SOS Employeurs ESS » en Ile-de-France et organise la riposte face aux fragilités de l’économie sociale",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/ludes-lance-sos-employeurs-ess-en-ile-de-france-et-organise-la-riposte-face-aux-fragilites-de-leconomie-sociale/",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Économie du bâtiment"
+      ],
+      "summary": "Dans l’économie sociale et solidaire, la crise se vit au quotidien. Tensions de trésorerie, difficultés de recrutement, arbitrages budgétaires déchirants, et parfois même des risques de fragilisation durable de structures associatives, coopératives ou mutualistes… Dans ce context…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-37-1783526400000",
       "title": "L'acidification des océans pourrait réduire le cerveau des calmars",
       "source": "Reporterre",
@@ -9794,6 +10195,29 @@ window.BATIVEILLE_DATA = {
         "Transition"
       ],
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
+      "title": "securite sites industriels risques mise place vigilance renforcee",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/securite-sites-industriels-risques-mise-place-vigilance-renforcee",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -10474,6 +10898,32 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Lancée en 2023, la motorisation solaire pour volets roulants RS100 Solar io évolue aujourd'hui en offrant une longévité unique avec un allongement de la durée de vie de la batterie de 8 à 15 ans. L'impact carbone de la solution complète « Moteur-Panneau-Batterie » est ainsi rédui…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-4-1783406700000",
+      "title": "Fusions dans l’ESS : l’économie sociale et solidaire entame sa consolidation !",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/fusions-dans-less-leconomie-sociale-et-solidaire-entame-sa-consolidation/",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Les grandes réorganisations naissent rarement dans le confort, plutôt sous la contrainte. Et cet été, la crise de l’économie sociale et solidaire en est une bonne illustration. Après la fusion entre Admical et le Centre français des fonds et fondations annoncée au printemps (lire…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11361,6 +11811,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-5-1783321200000",
+      "title": "Épargne durable : « Les Français doivent enfin savoir ce que finance leur argent »",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/epargne-durable-les-francais-doivent-enfin-savoir-ce-que-finance-leur-argent/",
+      "image": null,
+      "date": "2026-07-06",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Confort d’été"
+      ],
+      "summary": "Alors que la France traverse cet été plusieurs épisodes de canicule historique et que les débats sur la transition écologique se durcissent, une question reste absente des conversations : et si notre épargne pouvait jouer un rôle utile ? Pourrait-elle contribuer à financer la tra…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-11-1783335138000",
       "title": "Ce fournisseur veut installer une batterie chez vous pour trader l’électricité sur les marchés",
       "source": "Révolution Énergétique",
@@ -11480,6 +11955,29 @@ window.BATIVEILLE_DATA = {
         "Entreprises"
       ],
       "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-37-1783084774000",
+      "title": "secheresse france",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -11847,6 +12345,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "mediatico-rss-6-1783062000000",
+      "title": "Le Boomerang : un espace de gratuité itinérant comme rempart aux rivalités inter-quartiers à Paris",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/le-boomerang-la-gratuite-la-mobilite-et-la-convivialite-comme-remparts-aux-rivalites-inter-quartiers/",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "Face aux rivalités territoriales, qui nourrissent des violences chroniques et fragilisent les liens entre habitants, et si la solution résidait dans le renforcement des solidarités de proximité ? Des initiatives associatives expérimentent de nouvelles formes de cohésion. Encore f…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-14-1783086933000",
       "title": "Ce port européen sera-t-il le premier à recevoir un mini réacteur nucléaire SMR ?",
       "source": "Révolution Énergétique",
@@ -11918,6 +12441,29 @@ window.BATIVEILLE_DATA = {
         "Habitat privé"
       ],
       "summary": "Publication détectée dans le sitemap de ANAH. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-316-1782983737000",
+      "title": "vacances sereines applis lete",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/vacances-sereines-applis-lete",
+      "image": null,
+      "date": "2026-07-02",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -12332,6 +12878,31 @@ window.BATIVEILLE_DATA = {
         "Protection solaire"
       ],
       "summary": "Depuis plusieurs mois le Groupement Actibaie, le SNFA, l’UFME, l’UMB-FFB et l’UDTVP informent et accompagnent les entreprises de la filière française de la menuiserie et de la transformation du verre plat à la préparation de la REP Emballages Professionnels (REP... L’article REP …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-7-1782975600000",
+      "title": "Trésorerie des associations : ne laissez plus dormir des milliers d’euros !",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/tresorerie-des-associations-comment-ne-plus-laisser-dormir-des-milliers-deuros/",
+      "image": null,
+      "date": "2026-07-02",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Économie du bâtiment"
+      ],
+      "summary": "Dans certains établissements d’économie sociale et solidaire, les flux financiers sont réglés comme du papier à musique. Au campus de la Châtaigneraie, le directeur Xavier Blondel explique qu’ils tombent à date fixe : prélèvements des familles, subventions, encaissements divers, …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12867,6 +13438,32 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Le compte à rebours est lancé pour notre numéro 162 spécial \"RENTRÉE DES INNOVATIONS 2026\" de Verre & Protections Mag – une édition incontournable pour valoriser vos nouveautés produits ou solutions. ​Votre participation : Mettez en lumière votre nouveauté 2026,... L’article Rent…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-8-1782889200000",
+      "title": "125 ans de la loi 1901 : bienvenue dans l’ère des associations 4.0",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/125-ans-de-la-loi-1901-bienvenue-dans-lere-des-associations-4-0/",
+      "image": null,
+      "date": "2026-07-01",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Mais quel anniversaire ! Voilà 125 ans tout juste, en ce 1er juillet, naissait la loi de 1901. Une loi de libertés associatives qui fait aujourd’hui pâlir d’envie tant de pays du monde. À l’époque, pas de site internet, pas de réseaux sociaux, encore moins d’intelligence artifici…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
