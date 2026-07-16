@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T16:21:52.137Z",
+  "generatedAt": "2026-07-16T21:06:57.391Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3113,14 +3113,14 @@
       "collectMethod": "rss"
     },
     {
-      "id": "arb-nouvelle-aquitaine-wp-16338-1784189767000",
-      "title": "Jussies &#8211; Détection précoce et intervention rapide en Creuse",
+      "id": "arb-nouvelle-aquitaine-rss-0-1784189767000",
+      "title": "Jussies – Détection précoce et intervention rapide en Creuse",
       "source": "ARB Nouvelle-Aquitaine",
       "sourceId": "arb-nouvelle-aquitaine",
       "sourceType": "Agence biodiversité",
       "region": "Nouvelle-Aquitaine",
       "url": "https://www.biodiversite-nouvelle-aquitaine.fr/jussies-detection-precoce-et-intervention-rapide-en-creuse/",
-      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/07/Jussies-Creuse.png",
+      "image": null,
       "date": "2026-07-16",
       "access": "open",
       "official": false,
@@ -3133,19 +3133,19 @@
         "Confort d’été",
         "Réemploi"
       ],
-      "summary": "La jussie est encore peu présente en Creuse, mais sa détection dans l&rsquo;Étang des Landes en 2023 a conduit à la mise en place d&rsquo;une démarche collective de détection précoce et d&rsquo;intervention rapide. Un premier bilan des actions de l’été [&hellip;]",
+      "summary": "La jussie est encore peu présente en Creuse, mais sa détection dans l’Étang des Landes en 2023 a conduit à la mise en place d’une démarche collective de détection précoce et d’intervention rapide. Un premier bilan des actions de l’été […] La jussie est encore peu présente en Creu…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
-      "id": "arb-nouvelle-aquitaine-wp-16331-1784186550000",
+      "id": "arb-nouvelle-aquitaine-rss-1-1784186550000",
       "title": "Publication de l’état d’avancement 2024-2025 de la Stratégie Régionale EEE",
       "source": "ARB Nouvelle-Aquitaine",
       "sourceId": "arb-nouvelle-aquitaine",
       "sourceType": "Agence biodiversité",
       "region": "Nouvelle-Aquitaine",
       "url": "https://www.biodiversite-nouvelle-aquitaine.fr/publication-de-letat-davancement-2024-2025-de-la-strategie-regionale-eee/",
-      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/07/SREEE_bilan-2024-2025_VF_Page_01-scaled.jpg",
+      "image": null,
       "date": "2026-07-16",
       "access": "open",
       "official": false,
@@ -3158,7 +3158,30 @@
       ],
       "summary": "La Stratégie Régionale relative aux Espèces Exotiques Envahissantes en Nouvelle-Aquitaine constitue un cadre d’action sur 10 ans (2024-2033) en matière de prévention et de lutte contre les EEE, co-construit avec les acteurs du territoire régional, en cohérence avec les politiques…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-203-1784203885000",
+      "title": "indicateurs paysages bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/paysages/article/indicateurs-paysages-bretagne",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "aguram-metz-rss-0-1784194962000",
@@ -3490,7 +3513,59 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1784217206000",
+      "id": "reporterre-rss-0-1784220972000",
+      "title": "Loi d'urgence agricole : Laurent Duplomb impose son texte",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Loi-d-urgence-agricole-Laurent-Duplomb-impose-son-texte",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/allolemais-f817f.jpg?1784220976",
+      "date": "2026-07-16",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Réintroduction de pesticides interdits, accaparement de l'eau, soutien aux mégabassines et aux élevages industriels… La loi d'urgence agricole votée en commission mixte paritaire reprend les lubies de la droite sénatoriale. Après six heures de discussions à huis clos au Sénat, je…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1784219067000",
+      "title": "La Suisse condamnée pour avoir refusé de donner des repas véganes à des prisonniers",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/La-Suisse-condamnee-pour-avoir-refuse-de-donner-des-repas-veganes-a-des-prisonniers",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/49523129151_fbcfa5efcc_5k_1_1_-004c7.jpg?1784219069",
+      "date": "2026-07-16",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "RE2020"
+      ],
+      "summary": "La Cour européenne des droits de l'Homme (CEDH) a condamné, jeudi 16 juillet, la Suisse pour avoir refusé sans produits d'origine animale à deux détenus, malgré leurs convictions antispécistes. la liberté de pensée, de conscience et de religion » et considèrent que le véganisme c…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-2-1784217206000",
       "title": "Pêche, cultures : la sécurité alimentaire des petites îles menacée par le changement climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3514,7 +3589,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1784215755000",
+      "id": "reporterre-rss-3-1784215755000",
       "title": "Transformer une ancienne décharge en lagune : un pari réussi dans les Landes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3539,7 +3614,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1784212674000",
+      "id": "reporterre-rss-4-1784212674000",
       "title": "Nitrates : une concentration en hausse dans un tiers des nappes phréatiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3565,7 +3640,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1784203993000",
+      "id": "reporterre-rss-5-1784203993000",
       "title": "À Monaco, une course de bateaux électriques ultrarapides menace les cétacés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3591,7 +3666,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1784203404000",
+      "id": "reporterre-rss-6-1784203404000",
       "title": "« La situation est catastrophique » : une hécatombe de poissons tués par la chaleur",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3617,7 +3692,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1784197194000",
+      "id": "reporterre-rss-7-1784197194000",
       "title": "Le Parlement réintroduit les pesticides de la loi Duplomb",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3642,7 +3717,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1784190104000",
+      "id": "reporterre-rss-8-1784190104000",
       "title": "La France vise une sortie du pétrole en 2045",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3668,7 +3743,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1784185200000",
+      "id": "reporterre-rss-9-1784185200000",
       "title": "« Entre tristesse et colère », les agriculteurs percutés par les canicules",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3694,7 +3769,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1784179800000",
+      "id": "reporterre-rss-10-1784179800000",
       "title": "Tique : anatomie d'une mal-aimée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3720,7 +3795,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1784179800000",
+      "id": "reporterre-rss-11-1784179800000",
       "title": "« Apprenons à gérer notre peur du loup autrement que par l'abattage »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3745,7 +3820,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1784196837000",
+      "id": "vert-rss-0-1784222916000",
+      "title": "Loi d’urgence agricole : les parlementaires s’accordent sur le retour de pesticides interdits… mais le vote final reste incertain",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/agriculture/loi-durgence-agricole-les-parlementaires-saccordent-sur-le-retour-de-pesticides-interdits-mais-le-vote-final-reste-incertain/",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Réglementation"
+      ],
+      "summary": "Député·es et sénateur·ices réuni·es en commission mixte paritaire ont trouvé un accord sur le décrié projet de loi d’urgence agricole, ce jeudi. Mais son adoption définitive en début de semaine prochaine n’est pas garantie. On vous explique. Député·es et sénateur·ices réuni·es en…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "vert-rss-1-1784196837000",
       "title": "Particules fines, monoxyde de carbone… Quand les fumées des incendies nuisent à notre santé",
       "source": "Vert",
       "sourceId": "vert",
@@ -4355,7 +4455,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1784218889000",
+      "id": "le-commerce-du-bois-sitemap-0-1784235991000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4381,7 +4481,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1784218889000",
+      "id": "le-commerce-du-bois-sitemap-1-1784235991000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4407,7 +4507,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1784218889000",
+      "id": "le-commerce-du-bois-sitemap-2-1784235991000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4433,7 +4533,57 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1784202658000",
+      "id": "le-journal-du-grand-paris-rss-0-1784226305000",
+      "title": "L’essentiel de la semaine du 13 juillet 2026 en quelques clics",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-13-juillet-2026-en-quelques-clics/",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. Durant celle du 13 juillet, le Centre aquatique olympique se préparait à accueillir les championnats d’Europe de natation. Retrouvez chaque vendredi dans Le journal du Grand…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1784226200000",
+      "title": "Paris La Défense signe pour la réalisation de 64 000 m² de programmes mixtes",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/paris-la-defense-signe-pour-la-realisation-de-64-000-m%c2%b2-de-programmes-mixtes/",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Biosourcé"
+      ],
+      "summary": "Paris La Défense vient d’annoncer la signature de cinq actes concernant la réalisation de 64 000 m² de programmes mixtes et 900 logements à venir d’ici 2032 dans les quartiers des Groues et de la ZAC Seine-Arche à Nanterre (Hauts-de-Seine). Répartis sur plusieurs opérations, ces …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-2-1784202658000",
       "title": "ESS : un poids économique discret mais structurant dans le Grand Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4459,7 +4609,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1784202286000",
+      "id": "le-journal-du-grand-paris-rss-3-1784202286000",
       "title": "À Paris, les cadres de la tech et de la finance redessinent le marché de la location de luxe",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4485,7 +4635,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1784200137000",
+      "id": "le-journal-du-grand-paris-rss-4-1784200137000",
       "title": "Le CAO métropole du Grand Paris repasse en mode compétition",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4534,7 +4684,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-2-1784208660000",
+      "id": "acteurs-publics-sitemap-2-1784224380000",
       "title": "la grande majorite des ministeres seront soumis a des economies denvergure en 2027",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -4679,7 +4829,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-8-1784196840000",
+      "id": "acteurs-publics-sitemap-8-1784224680000",
       "title": "finances publiques les experts missionnes par lexecutif privilegient la priorisation et ecartent la politique du rabot",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -4748,52 +4898,6 @@
         "Transition"
       ],
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-349-1784107847000",
-      "title": "economies denergie vrai du faux avoir bons reflexes",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/economies-denergie-vrai-du-faux-avoir-bons-reflexes",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-369-1784129974000",
-      "title": "ministere partenaire du film danimation fille nuages",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/ministere-partenaire-du-film-danimation-fille-nuages",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -5813,14 +5917,14 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "arb-nouvelle-aquitaine-wp-16291-1784108466000",
-      "title": "Lettre d&rsquo;information n°40",
+      "id": "arb-nouvelle-aquitaine-rss-2-1784108466000",
+      "title": "Lettre d’information n°40",
       "source": "ARB Nouvelle-Aquitaine",
       "sourceId": "arb-nouvelle-aquitaine",
       "sourceType": "Agence biodiversité",
       "region": "Nouvelle-Aquitaine",
       "url": "https://www.biodiversite-nouvelle-aquitaine.fr/lettre-dinformation-n40/",
-      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/06/bandeau-infolettre_Carre.png",
+      "image": null,
       "date": "2026-07-15",
       "access": "open",
       "official": false,
@@ -5831,19 +5935,19 @@
         "Nature",
         "Données"
       ],
-      "summary": "Lettre d&rsquo;information n°40",
+      "summary": "Lettre d’information n°40",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
-      "id": "arb-nouvelle-aquitaine-wp-16287-1784107301000",
-      "title": "Lettre d&rsquo;information n°39",
+      "id": "arb-nouvelle-aquitaine-rss-3-1784107301000",
+      "title": "Lettre d’information n°39",
       "source": "ARB Nouvelle-Aquitaine",
       "sourceId": "arb-nouvelle-aquitaine",
       "sourceType": "Agence biodiversité",
       "region": "Nouvelle-Aquitaine",
       "url": "https://www.biodiversite-nouvelle-aquitaine.fr/lettre-dinformation-n39/",
-      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/05/bandeau-infolettre_Carre.jpg",
+      "image": null,
       "date": "2026-07-15",
       "access": "open",
       "official": false,
@@ -5854,19 +5958,19 @@
         "Nature",
         "Données"
       ],
-      "summary": "Lettre d&rsquo;information n°39",
+      "summary": "Lettre d’information n°39",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
-      "id": "arb-nouvelle-aquitaine-wp-16285-1784106515000",
+      "id": "arb-nouvelle-aquitaine-rss-4-1784106515000",
       "title": "Lettre Info TEN N°38",
       "source": "ARB Nouvelle-Aquitaine",
       "sourceId": "arb-nouvelle-aquitaine",
       "sourceType": "Agence biodiversité",
       "region": "Nouvelle-Aquitaine",
       "url": "https://www.biodiversite-nouvelle-aquitaine.fr/lettre-info-ten-n38/",
-      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/04/bandeau-infolettre_Carre.jpg",
+      "image": null,
       "date": "2026-07-15",
       "access": "open",
       "official": false,
@@ -5879,17 +5983,17 @@
       ],
       "summary": "Lettre Info TEN N°38",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
-      "id": "arb-nouvelle-aquitaine-wp-16283-1784105582000",
+      "id": "arb-nouvelle-aquitaine-rss-5-1784105582000",
       "title": "Lettre Info TEN N°37",
       "source": "ARB Nouvelle-Aquitaine",
       "sourceId": "arb-nouvelle-aquitaine",
       "sourceType": "Agence biodiversité",
       "region": "Nouvelle-Aquitaine",
       "url": "https://www.biodiversite-nouvelle-aquitaine.fr/lettre-info-ten-n37/",
-      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/03/bandeau-infolettre_Carre.jpg",
+      "image": null,
       "date": "2026-07-15",
       "access": "open",
       "official": false,
@@ -5902,17 +6006,17 @@
       ],
       "summary": "Lettre Info TEN N°37",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
-      "id": "arb-nouvelle-aquitaine-wp-16277-1784104564000",
+      "id": "arb-nouvelle-aquitaine-rss-6-1784104564000",
       "title": "Lettre Info TEN N°36",
       "source": "ARB Nouvelle-Aquitaine",
       "sourceId": "arb-nouvelle-aquitaine",
       "sourceType": "Agence biodiversité",
       "region": "Nouvelle-Aquitaine",
       "url": "https://www.biodiversite-nouvelle-aquitaine.fr/lettre-info-ten-n36/",
-      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2025/09/bandeau-infolettre.jpg",
+      "image": null,
       "date": "2026-07-15",
       "access": "open",
       "official": false,
@@ -5925,7 +6029,7 @@
       ],
       "summary": "Lettre Info TEN N°36",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
       "id": "oreo-bretagne-sitemap-132-1784110382000",
@@ -5994,29 +6098,6 @@
         "Climat",
         "Environnement",
         "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreo-bretagne-sitemap-203-1784129206000",
-      "title": "indicateurs paysages bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/thematique/paysages/article/indicateurs-paysages-bretagne",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement"
       ],
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
@@ -6292,7 +6373,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1784127600000",
+      "id": "reporterre-rss-12-1784127600000",
       "title": "L'augmentation de la poussière en Europe pourrait menacer la santé publique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6318,7 +6399,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1784127524000",
+      "id": "reporterre-rss-13-1784127524000",
       "title": "Les futurs trains Eurostar pourront supporter des étés à 55 °C",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6343,7 +6424,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1784126342000",
+      "id": "reporterre-rss-14-1784126342000",
       "title": "Pesticides, eau... Des mesures « cataclysmiques » arrivent devant les parlementaires",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6369,7 +6450,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1784122378000",
+      "id": "reporterre-rss-15-1784122378000",
       "title": "T-shirt technique, mouillé ou en lin : ces vêtements qui peuvent nous rafraîchir",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6395,7 +6476,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1784122229000",
+      "id": "reporterre-rss-16-1784122229000",
       "title": "Data centers : le soutien « effréné » du gouvernement dénoncé dans un rapport parlementaire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6420,7 +6501,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1784117816000",
+      "id": "reporterre-rss-17-1784117816000",
       "title": "Canicule : trois réacteurs nucléaires toujours à l'arrêt en France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6446,7 +6527,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1784097000000",
+      "id": "reporterre-rss-18-1784097000000",
       "title": "640 habitants et des montagnes de déchets dangereux : un village refuse de devenir la « poubelle » du Grand Paris",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6472,7 +6553,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1784093400000",
+      "id": "reporterre-rss-19-1784093400000",
       "title": "« La terre, c'est la vie » : à Bagnolet, des potagers « pirates » pour trouer le béton",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6497,7 +6578,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1784093400000",
+      "id": "reporterre-rss-20-1784093400000",
       "title": "Pesticides interdits : « Le gouvernement offre un consentement à l'empoisonnement alimentaire de la population »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6522,7 +6603,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1784108879000",
+      "id": "vert-rss-2-1784108879000",
       "title": "Musées gratuits, parcs ouverts la nuit, écoles-refuges : Lyon ressort son plan d’urgence face à la canicule",
       "source": "Vert",
       "sourceId": "vert",
@@ -7408,7 +7489,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1784123325000",
+      "id": "le-journal-du-grand-paris-rss-5-1784123325000",
       "title": "Saint-Agne immobilier inaugure une nouvelle résidence à Torcy",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7434,7 +7515,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1784120866000",
+      "id": "le-journal-du-grand-paris-rss-6-1784120866000",
       "title": "Icade reprend la main sur la tour Eqho",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7458,7 +7539,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1784120452000",
+      "id": "le-journal-du-grand-paris-rss-7-1784120452000",
       "title": "À La Défense, la tour CB21 entame sa mue sous la houlette de l’architecte Nicolas Sisto",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7774,7 +7855,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1784007000000",
+      "id": "reporterre-rss-21-1784007000000",
       "title": "Devenir une « ville éponge » : la solution de Berlin face à la sécheresse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7800,7 +7881,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1784007000000",
+      "id": "reporterre-rss-22-1784007000000",
       "title": "« C'est une forme de résistance » : il reconstruit le musée d'histoire naturelle de Palestine",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7824,7 +7905,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1784005200000",
+      "id": "vert-rss-3-1784005200000",
       "title": "Vert vous embarque dans les coulisses de Météo-France : «Les jeunes générations vivent peut-être leur été le plus frais»",
       "source": "Vert",
       "sourceId": "vert",
@@ -7923,7 +8004,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1784050096000",
+      "id": "le-journal-du-grand-paris-rss-8-1784050096000",
       "title": "Plastique : le débat sur la consigne s’invite à la conférence nationale des déchets ménagers",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7948,7 +8029,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1784047356000",
+      "id": "le-journal-du-grand-paris-rss-9-1784047356000",
       "title": "14 juillet : les Grands-Parisiens décorés de la Légion d’honneur",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7969,56 +8050,6 @@
         "Réglementation"
       ],
       "summary": "Ils sont entrepreneurs, élus, opérateurs de services urbains, artistes, prélats : consultez la liste des personnalités décorées de la Légion d'honneur ce 14 juillet et concourant de près ou de loin, au Grand Paris. Ils sont entrepreneurs, élus, opérateurs de services urbains, art…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1784044085000",
-      "title": "Jean-Philippe Dugoin-Clément élu à la présidence du Siarce",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/jean-philippe-dugoin-clement-elu-a-la-presidence-du-siarce/",
-      "image": null,
-      "date": "2026-07-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Le maire (UDI) de Mennecy et vice-président du conseil régional d'Île-de-France Jean-Philippe Dugoin-Clément a été élu le 9 juillet à la présidence du syndicat de l'eau et des réseaux de l'Essonne. Le maire (UDI) de Mennecy et vice-président du conseil régional d'Île-de-France Je…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1784030355000",
-      "title": "Pascal Popelin – Insatiable",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/pascal-popelin-insatiable/",
-      "image": null,
-      "date": "2026-07-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "A l’âge où certains mesurent le chemin parcouru et préparent leur retraite, Pascal Popelin continue la seule chose qu’il sait faire. Livrer des combats, désormais non plus en tant qu’élu séquano-dionysien mais en tant qu’aménageur, à la tête d’une Maison Séquano qu’il a redressée…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8200,7 +8231,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1783960298000",
+      "id": "reporterre-rss-23-1783960298000",
       "title": "Fontainebleau, symbole de la remontée des incendies vers le nord",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8226,7 +8257,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1783956136000",
+      "id": "reporterre-rss-24-1783956136000",
       "title": "12 projets de mégabassines retoqués en Poitou-Charentes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8252,7 +8283,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1783955109000",
+      "id": "reporterre-rss-25-1783955109000",
       "title": "Plus de 60 °C sur un toboggan : Paris n'est pas adaptée aux fortes chaleurs, dénonce Greenpeace",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8278,7 +8309,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1783953940000",
+      "id": "reporterre-rss-26-1783953940000",
       "title": "Tefal : autour de l'usine, la pollution aux PFAS peut présenter des risques pour la santé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8304,8 +8335,8 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1783951683000",
-      "title": "Les pôles fondent ? les riches touristes se précipitent pour aller s'y rafraîchir",
+      "id": "reporterre-rss-27-1783951683000",
+      "title": "Les pôles fondent ? Les riches touristes s'y précipitent pour se rafraîchir",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -8330,7 +8361,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1783948006000",
+      "id": "reporterre-rss-28-1783948006000",
       "title": "Des traces d'acétamipride dans le Nutella et des miels importés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8355,7 +8386,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1783947602000",
+      "id": "reporterre-rss-29-1783947602000",
       "title": "Sécheresse : un quart des petits cours d'eau sont à sec en France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8381,7 +8412,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1783927666000",
+      "id": "reporterre-rss-30-1783927666000",
       "title": "Coûteux et peu nombreux : les Canadair indispensables pour lutter contre les incendies monstres",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8407,7 +8438,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1783926772000",
+      "id": "reporterre-rss-31-1783926772000",
       "title": "« Le dispositif nous a rappelé Sainte-Soline » : 900 policiers et gendarmes pour contrôler la mobilisation du canal Seine-Nord Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8432,7 +8463,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1783926041000",
+      "id": "reporterre-rss-32-1783926041000",
       "title": "L'Inde s'étonne : pourquoi la France est-elle si peu préparée aux canicules ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8458,7 +8489,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1783951690000",
+      "id": "vert-rss-4-1783951690000",
       "title": "La forêt de Fontainebleau sous les flammes : «Le plus grand incendie de son histoire moderne»",
       "source": "Vert",
       "sourceId": "vert",
@@ -8484,7 +8515,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1783934297000",
+      "id": "vert-rss-5-1783934297000",
       "title": "«Le projet le plus fou des grands aménagements inutiles» : dans le Pas-de-Calais, la lutte contre le canal Seine-Nord s’intensifie",
       "source": "Vert",
       "sourceId": "vert",
@@ -8558,7 +8589,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-31-1783836000000",
+      "id": "reporterre-rss-33-1783836000000",
       "title": "Apprenons à aimer la laisse de mer, ce tapis d'algues et sa vie foisonnante",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8584,7 +8615,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1783832400000",
+      "id": "vert-rss-6-1783832400000",
       "title": "Guillaume Martin-Guyonnet, coureur du Tour de France 2026 : «Je suis devenu asthmatique à force de rouler exposé à la pollution»",
       "source": "Vert",
       "sourceId": "vert",
@@ -8661,7 +8692,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1783788605000",
+      "id": "reporterre-rss-34-1783788605000",
       "title": "« Ce projet n'a aucun sens » : la mobilisation s'amplifie contre le canal Seine-Nord Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8686,7 +8717,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1783749600000",
+      "id": "reporterre-rss-35-1783749600000",
       "title": "Sensibilité animale : travaillons à ôter nos œillères !",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8710,7 +8741,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1783749600000",
+      "id": "reporterre-rss-36-1783749600000",
       "title": "Marche aquatique sur ordonnance : oui, la mer a des vertus thérapeutiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8736,7 +8767,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1783749600000",
+      "id": "reporterre-rss-37-1783749600000",
       "title": "La brutalisation de la vie sensible nous mène-t-elle au fascisme ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8761,7 +8792,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1783746000000",
+      "id": "vert-rss-7-1783746000000",
       "title": "«Le changement climatique est sexiste» : comment la canicule attise les violences contre les femmes",
       "source": "Vert",
       "sourceId": "vert",
@@ -8835,29 +8866,6 @@
       "summary": "Le développeur Photosol a inauguré la deuxième centrale solaire la plus puissante de France à Creil, dans l’Oise, sur l’ancienne base militaire BA110. Elle affiche […] L’article La deuxième plus grande centrale solaire de France vient d’être inaugurée est apparu en premier sur Ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-370-1783695699000",
-      "title": "7 idees recues vagues chaleur",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/7-idees-recues-vagues-chaleur",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-3-1783700410000",
@@ -9782,7 +9790,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1783691756000",
+      "id": "reporterre-rss-38-1783691756000",
       "title": "Moules, escargots... 125 espèces de mollusques menacées par l'exploitation minière",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9808,7 +9816,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1783690432000",
+      "id": "reporterre-rss-39-1783690432000",
       "title": "Protection de la nature : la loi fondatrice a 50 ans, mais « elle n'a pas suffi »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9834,7 +9842,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1783690287000",
+      "id": "reporterre-rss-40-1783690287000",
       "title": "La biodiversité victime de la rigueur budgétaire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9859,7 +9867,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1783687050000",
+      "id": "reporterre-rss-41-1783687050000",
       "title": "La pétition contre la « présomption de légitime défense » de la police recueille plus de 500 000 signatures",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9884,7 +9892,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1783685608000",
+      "id": "reporterre-rss-42-1783685608000",
       "title": "« Vol d'eau » dans le Marais poitevin : des sabotages au profit de l'agro-industrie ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9910,7 +9918,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1783684516000",
+      "id": "reporterre-rss-43-1783684516000",
       "title": "Chasse : 4 morts au cours de la saison 2025-2026",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9936,7 +9944,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1783676380000",
+      "id": "reporterre-rss-44-1783676380000",
       "title": "11 morts et au moins 19 disparus : un feu de forêt fulgurant endeuille l'Espagne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9962,7 +9970,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1783672637000",
+      "id": "reporterre-rss-45-1783672637000",
       "title": "« Ne nous oubliez pas après les canicules » : 37 000 « sinistrés climatiques » interpellent l'État",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9988,7 +9996,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1783661400000",
+      "id": "reporterre-rss-46-1783661400000",
       "title": "« Je n'oublierai jamais » : dans les HLM, la violence de la canicule et l'indifférence des bailleurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10014,7 +10022,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1783661400000",
+      "id": "reporterre-rss-47-1783661400000",
       "title": "50 ans après la catastrophe de Seveso, « il y a autant de dioxine dans les terres qu'à l'époque »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10040,7 +10048,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1783673726000",
+      "id": "vert-rss-8-1783673726000",
       "title": "Rongée par l’érosion, menacée de submersion… L’île d’Oléron mise sur les solutions douces face aux risques climatiques",
       "source": "Vert",
       "sourceId": "vert",
@@ -10164,6 +10172,58 @@
       "summary": "Les STEP hydroélectriques sont devenus « une priorité stratégique sur les principaux marchés de l'électricité à travers le monde », souligne l'International hydropower association (IHA) dans son bilan annuel publié le 24 juin dernier. Les STEP hydroélectriques sont devenus « une …",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "bois-com-sitemap-0-1783697474000",
+      "title": "articles",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/fil-du-bois/articles/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "bois-com-sitemap-74-1783697474000",
+      "title": "cuisine dete en bois des inspirations pour transformer votre jardin",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/amenagement/articles/cuisine-dete-en-bois-des-inspirations-pour-transformer-votre-jardin/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "acteurs-publics-sitemap-19-1783680960000",
@@ -10893,14 +10953,14 @@
       "collectMethod": "rss"
     },
     {
-      "id": "arb-nouvelle-aquitaine-wp-16210-1783581023000",
-      "title": "Replay, diaporama et questions/réponses : retrouvez toutes les ressources du webinaire de présentation du Géoportail de l&rsquo;ARB NA",
+      "id": "arb-nouvelle-aquitaine-rss-7-1783581023000",
+      "title": "Replay, diaporama et questions/réponses : retrouvez toutes les ressources du webinaire de présentation du Géoportail de l’ARB NA",
       "source": "ARB Nouvelle-Aquitaine",
       "sourceId": "arb-nouvelle-aquitaine",
       "sourceType": "Agence biodiversité",
       "region": "Nouvelle-Aquitaine",
       "url": "https://www.biodiversite-nouvelle-aquitaine.fr/replay-diaporama-et-questions-reponses-retrouvez-toutes-les-ressources-du-webinaire-de-presentation-du-geoportail-de-larb-na/",
-      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/07/webinaire_7juill_Carre-1080x1080-replay-scaled.png",
+      "image": null,
       "date": "2026-07-09",
       "access": "open",
       "official": false,
@@ -10912,9 +10972,9 @@
         "Données",
         "Eau"
       ],
-      "summary": "Le 7 juillet 2026, l&rsquo;ARB NA organisait un webinaire de présentation du Géoportail de la Biodiversité en Nouvelle-Aquitaine. Près de 130 participants &#8211; collectivités, partenaires institutionnels, acteurs de l&rsquo;environnement, bureaux d&rsquo;études, associations, e…",
+      "summary": "Le 7 juillet 2026, l’ARB NA organisait un webinaire de présentation du Géoportail de la Biodiversité en Nouvelle-Aquitaine. Près de 130 participants – collectivités, partenaires institutionnels, acteurs de l’environnement, bureaux d’études, associations, etc. – ont rejoint la ses…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
       "id": "oreo-bretagne-sitemap-190-1783555559000",
@@ -11157,7 +11217,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1783620000000",
+      "id": "reporterre-rss-48-1783620000000",
       "title": "Algues vertes : la Cour des Comptes critique encore et toujours les carences de l'État",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11182,7 +11242,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1783609173000",
+      "id": "reporterre-rss-49-1783609173000",
       "title": "Canicule et crudités : la hausse des températures entraîne celle des prix",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11208,7 +11268,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1783608742000",
+      "id": "reporterre-rss-50-1783608742000",
       "title": "Canicule : le réacteur nucléaire de Golfech à l'arrêt pour la 2e fois cet été",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11234,7 +11294,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1783601164000",
+      "id": "reporterre-rss-51-1783601164000",
       "title": "Une « bactérie mangeuse de chair » sur les plages espagnoles : « Les cas graves sont très rares »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11258,7 +11318,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1783600076000",
+      "id": "reporterre-rss-52-1783600076000",
       "title": "Anti-écolo, anti-LGBT… Qui est le futur Défenseur des droits proposé par Macron ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11282,7 +11342,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1783599722000",
+      "id": "reporterre-rss-53-1783599722000",
       "title": "Loi logement : les sénateurs votent le retour sur le marché de 700 000 passoires énergétiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11308,7 +11368,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1783584056000",
+      "id": "reporterre-rss-54-1783584056000",
       "title": "Juin 2026 est le mois le plus chaud jamais enregistré en Europe occidentale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11334,7 +11394,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1783581886000",
+      "id": "reporterre-rss-55-1783581886000",
       "title": "L'écologie selon Marine Le Pen ? Tout pour les fossiles et l'agriculture productiviste",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11359,7 +11419,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1783575000000",
+      "id": "reporterre-rss-56-1783575000000",
       "title": "Canal Seine-Nord Europe : un chantier titanesque, dont personne ne sait à quoi il doit servir",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11385,7 +11445,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1783573200000",
+      "id": "reporterre-rss-57-1783573200000",
       "title": "La politique climatique de la France est très insuffisante, alerte le Haut Conseil pour le climat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11410,7 +11470,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1783616418000",
+      "id": "vert-rss-9-1783616418000",
       "title": "Zones coupe-feu, soutien au pastoralisme, initiatives locales : ces solutions face à des incendies dopés par le changement climatique",
       "source": "Vert",
       "sourceId": "vert",
@@ -11430,30 +11490,6 @@
         "Politiques publiques"
       ],
       "summary": "Depuis début juillet, des feux intensifiés par le dérèglement climatique embrasent plusieurs départements du sud de l’Hexagone. Vert fait le tour des solutions pour endiguer les incendies. Depuis début juillet, des feux intensifiés par le dérèglement climatique embrasent plusieur…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "vert-rss-9-1783587417000",
-      "title": "Concours : vos places pour le festival Cabaret Vert",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/vert-vous-parle/concours-vos-places-pour-le-festival-cabaret-vert/",
-      "image": null,
-      "date": "2026-07-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques"
-      ],
-      "summary": "🎸Vert est partenaire du festival de musique indépendant et durable Cabaret Vert, qui se tiendra du 20 au 23 août à Charleville-Mézières (Ardennes). Nous avons le plaisir de vous faire gagner 5 x deux pass de trois jours pour le festival, pour que vous puissiez danser sur une pro…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11799,29 +11835,6 @@
         "Bâtiment"
       ],
       "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
-      "title": "sobriete energetique plan reduire notre consommation denergie",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/sobriete-energetique-plan-reduire-notre-consommation-denergie",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -12299,14 +12312,14 @@
       "collectMethod": "rss"
     },
     {
-      "id": "arb-nouvelle-aquitaine-wp-16201-1783500565000",
+      "id": "arb-nouvelle-aquitaine-rss-8-1783500565000",
       "title": "BSH juin 2026",
       "source": "ARB Nouvelle-Aquitaine",
       "sourceId": "arb-nouvelle-aquitaine",
       "sourceType": "Agence biodiversité",
       "region": "Nouvelle-Aquitaine",
       "url": "https://www.biodiversite-nouvelle-aquitaine.fr/bsh-juin-2026/",
-      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/07/2026-06_BSHNA-39_Juin-2026_1ere-page.png",
+      "image": null,
       "date": "2026-07-08",
       "access": "open",
       "official": false,
@@ -12319,7 +12332,7 @@
       ],
       "summary": "BSH juin 2026",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
       "id": "oreo-bretagne-sitemap-73-1783468908000",
@@ -12658,7 +12671,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1783526400000",
+      "id": "reporterre-rss-58-1783526400000",
       "title": "L'acidification des océans pourrait réduire le cerveau des calmars",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12684,7 +12697,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1783524600000",
+      "id": "reporterre-rss-59-1783524600000",
       "title": "Des Pyrénées à la Sicile, la carte des incendies en Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -12706,56 +12719,6 @@
         "Confort d’été"
       ],
       "summary": "La chaleur et la sécheresse présentent des conditions particulièrement propices au départ de feu. Comme Météo-France le craignait depuis plusieurs jours, les incendies sont nombreux aux quatre coins de la France. Lire la suite - En bref / Incendies La chaleur et la sécheresse pré…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-58-1783523866000",
-      "title": "Couverture de survie, papier alu… Que valent ces astuces contre la chaleur ?",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Couverture-de-survie-papier-alu-Que-penser-de-ces-astuces-anti-chaleur-Couverture-de",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260622__hl_fscheiber_3206300__v1__highres__francehotwavesthermalprotection_1_-27794.jpg?1783523870",
-      "date": "2026-07-08",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Pour réduire la chaleur dans les logements, on conseille de mettre du papier d'alu ou une couverture de survie sur ses fenêtres. De bonnes idées qui, mal mises en œuvre, peuvent s'avérer contre-productives. Ventilateur, clim, rideaux, stores… Tous les moyens sont bons pour contre…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1783522612000",
-      "title": "« C'est très rare » : le procès de Tran To Nga renvoyé devant l'assemblée plénière de la Cour de cassation",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Agent-orange-le-pourvoi-de-Tran-To-Nga-renvoye-devant-l-assemblee-pleniere-de-la-Cour-de-cassation",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/25042026_nmn_4359_stelememorielle_agentorange_trantonga__r_nnoman-1e895.jpg?1783522637",
-      "date": "2026-07-08",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat"
-      ],
-      "summary": "La Cour de cassation a rendu un arrêt surprenant le 8 juillet, dans l'affaire qui confronte Tran To Nga aux firmes productrices de l'agent orange durant la guerre du Vietnam. Elle a ordonné le renvoi vers son assemblée plénière, rallongeant le calendrier judiciaire de 6 mois à un…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12834,29 +12797,6 @@
       "summary": "Entre 1971 et 1982, plus de 200 000 fûts de déchets radioactifs ont été immergés dans l'Atlantique Nord-Est, jusqu'à plus de 4 700 mètres de profondeur. Les campagnes scientifiques NODSSUM 2025 et 2026, menées par le CNRS avec la Flotte océanographique française, livrent les prem…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
-      "title": "securite sites industriels risques mise place vigilance renforcee",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/securite-sites-industriels-risques-mise-place-vigilance-renforcee",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-15-1783435995000",
@@ -12973,58 +12913,6 @@
       "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "meteo-france-rss-0-1783423285000",
-      "title": "Changement climatique : quel impact sur les vagues de chaleur ?",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/le-changement-climatique/quel-climat-futur/changement-climatique-quel-impact-sur-les-vagues-de",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/vagues-de-chaleur-evolution-meteo-france.jpg?itok=-P0T-i4x",
-      "date": "2026-07-07",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "RE2020",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Changement climatique : quel impact sur les vagues de chaleur ? Une vague de chaleur correspond à un épisode où les températures sont anormalement élevées pendant plusieurs jours. Pour identifier une vague de chaleur, les météorologues s’appuient sur l’indicateur thermique nation…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "meteo-france-rss-1-1783411505000",
-      "title": "Qu’est-ce qu’un orage ?",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/comprendre-la-meteo/orages/quest-ce-quun-orage",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/Vignette-Orages.jpg?itok=agIIIonB",
-      "date": "2026-07-07",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Réglementation",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Qu’est-ce qu’un orage ? Éclairs, coups de tonnerre, fortes pluies, bourrasques… autant de manifestations qui peuvent survenir lors d'un orage. Un éclair peut se déclencher à l'intérieur du nuage, entre deux nuages, ou entre le nuage et le sol ou un aéronef (on parle alors de foud…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "ordre-des-architectes-cnoa-rss-1-1783410026000",
@@ -13272,14 +13160,14 @@
       "collectMethod": "rss"
     },
     {
-      "id": "arb-nouvelle-aquitaine-wp-16196-1783427242000",
+      "id": "arb-nouvelle-aquitaine-rss-9-1783427242000",
       "title": "Lettre d’information – Juillet 2026",
       "source": "ARB Nouvelle-Aquitaine",
       "sourceId": "arb-nouvelle-aquitaine",
       "sourceType": "Agence biodiversité",
       "region": "Nouvelle-Aquitaine",
       "url": "https://www.biodiversite-nouvelle-aquitaine.fr/lettre-dinformation-juillet-2026/",
-      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/07/bandeau-infolettre_Carre.png",
+      "image": null,
       "date": "2026-07-07",
       "access": "open",
       "official": false,
@@ -13292,31 +13180,7 @@
       ],
       "summary": "Lettre d’information – Juillet 2026",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "arb-nouvelle-aquitaine-wp-16184-1783407166000",
-      "title": "Canicule : quand la faune sauvage n&rsquo;a plus d&rsquo;endroit où se réfugier",
-      "source": "ARB Nouvelle-Aquitaine",
-      "sourceId": "arb-nouvelle-aquitaine",
-      "sourceType": "Agence biodiversité",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/canicule-quand-la-faune-sauvage-na-plus-dendroit-ou-se-refugier/",
-      "image": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/07/Hirondelle-de-fenetre2-L.-MARCHAIS-scaled.jpg",
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Biodiversité",
-        "Nature",
-        "Données",
-        "Confort d’été"
-      ],
-      "summary": "Depuis la fin du mois de juin, la Nouvelle-Aquitaine traverse un épisode caniculaire d&rsquo;une intensité rare. Les départements de la région ont été placés en vigilance orange, voire rouge, avec des températures locales dépassant 41 °C. Cette chaleur extrême frappe [&hellip;]",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
       "id": "oreo-bretagne-sitemap-16-1783382730000",
@@ -14188,7 +14052,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -14207,29 +14071,6 @@
         "Entreprises"
       ],
       "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-37-1783084774000",
-      "title": "secheresse france",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -14762,29 +14603,6 @@
         "Habitat privé"
       ],
       "summary": "Publication détectée dans le sitemap de ANAH. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-316-1782983737000",
-      "title": "vacances sereines applis lete",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/vacances-sereines-applis-lete",
-      "image": null,
-      "date": "2026-07-02",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
