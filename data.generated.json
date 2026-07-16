@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T21:05:24.432Z",
+  "generatedAt": "2026-07-16T02:53:38.731Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1784170396000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1784170396000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1784170396000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1784116801000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -3393,6 +3471,29 @@
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "oreo-bretagne-sitemap-203-1784129206000",
+      "title": "indicateurs paysages bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/paysages/article/indicateurs-paysages-bretagne",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "oreo-bretagne-sitemap-225-1784110785000",
       "title": "Changement climatique aggravation future pressions milieux usages eau",
       "source": "OREO Bretagne",
@@ -4272,7 +4373,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1784110800000",
+      "id": "enerzine-rss-0-1784153400000",
+      "title": "Quantique : la limite espace-temps de l’électron enfin observée",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/quantique-la-limite-espace-temps-de-lelectron-enfin-observee/190125-2026-07",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Une équipe de physiciens de l’Université de Ratisbonne a observé pour la première fois une limite quantique fondamentale qui encadre la mesure simultanée de la position et de l’évolution temporelle d’un électron unique. Les résultats établissent un compromis distinct du principe …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1784110800000",
       "title": "Arrosage des jardins et potagers : en période de canicule, quelles sont les restrictions imposées ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4298,7 +4424,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1784094300000",
+      "id": "enerzine-rss-2-1784094300000",
       "title": "Le soleil booste les superaliments du sol : fertilité et microbes améliorés par l’hydrochar vieilli",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4324,7 +4450,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1784092200000",
+      "id": "enerzine-rss-3-1784092200000",
       "title": "La propulsion électrique n’est pas toujours la réponse pour les petits navires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4350,7 +4476,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1784088600000",
+      "id": "enerzine-rss-4-1784088600000",
       "title": "Est-ce que l’énergie des éléphants a déterminé l’itinéraire emprunté par Hannibal pour traverser les Alpes ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4376,7 +4502,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1784085000000",
+      "id": "enerzine-rss-5-1784085000000",
       "title": "Le JWST révèle les cicatrices cachées des galaxies éteintes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4800,84 +4926,6 @@
       "summary": "Depuis l’incendie de la Cathédrale Notre-Dame de Paris en 2019, la fondation France Bois Forêt pour notre Patrimoine soutient les volontaires qui sauvent les trésors de nos régions. L’article Fondation France Bois Forêt pour notre Patrimoine est apparu en premier sur Fibois Franc…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1784149512000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1784149512000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1784149512000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1784123325000",
@@ -5346,7 +5394,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1784067000000",
+      "id": "enerzine-rss-6-1784067000000",
       "title": "Ondes gravitationnelles : une mesure inédite de la constante de Hubble",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5370,7 +5418,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1784007900000",
+      "id": "enerzine-rss-7-1784007900000",
       "title": "Chaleur programmable : une avancée majeure en thermique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5394,7 +5442,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1784005800000",
+      "id": "enerzine-rss-8-1784005800000",
       "title": "Blular connecte climatisation et solaire sans batterie ni onduleur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5420,7 +5468,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1784002200000",
+      "id": "enerzine-rss-9-1784002200000",
       "title": "Recherches de climatisation en hausse de 380 %, le solaire comme réponse",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5442,32 +5490,6 @@
         "Confort d’été"
       ],
       "summary": "Ensol, spécialiste du solaire résidentiel, enregistre une progression de 380 % des requêtes liées à la climatisation entre avril et mai 2026, alors qu’une vague de canicule frappe la France. L’entreprise défend une approche conciliant rafraîchissement des logements et transition …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1783998600000",
-      "title": "Une nouvelle conception d’entraînement moteur réduit la chaleur et l’usure dans les systèmes haute puissance",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/une-nouvelle-conception-dentrainement-moteur-reduit-la-chaleur-et-lusure-dans-les-systemes-haute-puissance/190860-2026-07",
-      "image": null,
-      "date": "2026-07-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "Des chercheurs du National Transportation Research Center de l’Oak Ridge National Laboratory (ORNL) du Département de l’Énergie des États-Unis ont développé une nouvelle conception d’entraînement moteur électrique qui répond aux exigences de performance des avions, des navires et…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5914,6 +5936,31 @@
       "summary": "Après le départ de Frédéric Carré vers la Fédération française du bâtiment, Action Logement Immobilier nomme Guy Durand à sa présidence et renouvelle sa direction générale. Après le départ de Frédéric Carré vers la Fédération française du bâtiment, Action Logement Immobilier nomm…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "techniques-de-lingenieur-actualites-sitemap-22-1783938885000",
+      "title": "articles",
+      "source": "Techniques de l’Ingénieur Actualités",
+      "sourceId": "techniques-de-lingenieur-actualites",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.techniques-ingenieur.fr/actualite/articles/",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Technique",
+        "Énergie",
+        "Environnement",
+        "Innovation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "novethic-rss-3-1783943067000",
@@ -7899,6 +7946,56 @@
       "collectMethod": "rss"
     },
     {
+      "id": "techniques-de-lingenieur-actualites-sitemap-0-1783693681000",
+      "title": "actualite",
+      "source": "Techniques de l’Ingénieur Actualités",
+      "sourceId": "techniques-de-lingenieur-actualites",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.techniques-ingenieur.fr/actualite/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Technique",
+        "Énergie",
+        "Environnement",
+        "Innovation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "techniques-de-lingenieur-actualites-sitemap-21-1783694103000",
+      "title": "wp home",
+      "source": "Techniques de l’Ingénieur Actualités",
+      "sourceId": "techniques-de-lingenieur-actualites",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.techniques-ingenieur.fr/actualite/wp-home/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Technique",
+        "Énergie",
+        "Environnement",
+        "Innovation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "novethic-rss-5-1783688046000",
       "title": "Canicule : Eurostar revoit sa commande de trains pour s’adapter à des étés à... 55°C",
       "source": "Novethic",
@@ -8383,58 +8480,6 @@
       "summary": "Les STEP hydroélectriques sont devenus « une priorité stratégique sur les principaux marchés de l'électricité à travers le monde », souligne l'International hydropower association (IHA) dans son bilan annuel publié le 24 juin dernier. Les STEP hydroélectriques sont devenus « une …",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "bois-com-sitemap-0-1783697474000",
-      "title": "articles",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/fil-du-bois/articles/",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-74-1783697474000",
-      "title": "cuisine dete en bois des inspirations pour transformer votre jardin",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/amenagement/articles/cuisine-dete-en-bois-des-inspirations-pour-transformer-votre-jardin/",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-9-1783693747000",
@@ -13261,6 +13306,29 @@
       "summary": "Google et la start-up italienne Energy Dome installent une batterie au CO₂ à très longue durée en Irlande pour satisfaire les besoins de son datacenter. […] L’article Neuf heures d’autonomie pour cette méga batterie au CO2 qui alimentera un datacenter est apparu en premier sur Ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
+      "title": "avancees ffb 2026",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-transition-ecologique-sitemap-37-1783084774000",
