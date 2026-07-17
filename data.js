@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-17T16:19:48.496Z",
+  "generatedAt": "2026-07-17T21:02:20.677Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2565,7 +2565,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-0-1784303027000",
+      "id": "actu-environnement-rss-0-1784310279000",
+      "title": "Directive Nitrates : 35 ans après son adoption les efforts doivent s'intensifier",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/directive-nitrates-bilan-bretagne-zones-vulnerables-48328.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/decryptage/48328_large.jpg",
+      "date": "2026-07-17",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau"
+      ],
+      "summary": "La contamination aux nitrates peine à reculer au niveau européen et national. Avec de multiples conséquences sur la ressource en eau potable ou le développement des algues vertes. Plusieurs parties prenantes appellent à intensifier les actions. La contamination aux nitrates peine…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-1-1784303027000",
       "title": "Marché carbone européen : la Commission propose une réforme pour décarboner l'industrie",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2590,7 +2614,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-1-1784301389000",
+      "id": "actu-environnement-rss-2-1784301420000",
+      "title": "Refonte REP textiles (5/5) : les finances de Refashion sous surveillance",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/rep-textiles-refashion-provisions-ecocontributions-48297.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48297_large.jpg",
+      "date": "2026-07-17",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "L'État entend mieux contrôler la façon dont Refashion utilise les écocontributions. Un suivi plus strict des finances de l'éco-organisme est prévu, notamment pour répondre aux critiques concernant ses provisions. L'État entend mieux contrôler la façon dont Refashion utilise les é…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-3-1784301389000",
       "title": "ZFE : une nouvelle étude scientifique confirme leur utilité sur la santé",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2614,7 +2661,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-2-1784295710000",
+      "id": "actu-environnement-rss-4-1784295710000",
       "title": "TVA réduite des pompes à chaleur air-air : l'arrêté est paru",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2637,7 +2684,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-3-1784294162000",
+      "id": "actu-environnement-rss-5-1784294162000",
       "title": "Aires protégées : 5,9 % du territoire national sous protection forte",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2660,7 +2707,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-4-1784283938000",
+      "id": "actu-environnement-rss-6-1784283938000",
       "title": "Fragmentation des espaces naturels : la biodiversité sous pression",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2683,7 +2730,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-5-1784280625000",
+      "id": "actu-environnement-rss-7-1784280625000",
       "title": "Le chiffre du jour : 1,5 milliard d’euros",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2702,29 +2749,6 @@ window.BATIVEILLE_DATA = {
         "Énergie"
       ],
       "summary": "C’est la hausse des crédits de la mission « Écologie, développement et mobilités durables » que le Gouvernement envisage dans le projet de loi de finances pour 2027 (PLF 2027) d’après le rapport sur les plafonds de dépense qu’il a remis ce jeudi 1... C’est la hausse des crédits d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-6-1784274300000",
-      "title": "Refonte REP textiles (5/5) : les finances de Refashion sous surveillance",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/rep-textiles-refashion-provisions-ecocontributions-48297.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48297_large.jpg",
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "L'État entend mieux contrôler la façon dont Refashion utilise les écocontributions. Un suivi plus strict des finances de l'éco-organisme est prévu, notamment pour répondre aux critiques concernant ses provisions. L'État entend mieux contrôler la façon dont Refashion utilise les é…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -2969,6 +2993,29 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-35-1784299510000",
+      "title": "plateforme bretagne donnees biodiversite",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/patrimoine-naturel/article/plateforme-bretagne-donnees-biodiversite",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -3652,7 +3699,7 @@ window.BATIVEILLE_DATA = {
         "Marché énergie",
         "Eau"
       ],
-      "summary": "La phase de levées de fonds a commencé pour Lénéo, selon nos informations. Ce nouveau développeur-producteur de biométhane industriel vise un montant de L’article Méthanisation industrielle : Lénéo entame une importante levée de fonds est apparu en premier sur GreenUnivers. La ph…",
+      "summary": "Article modifié suite aux précisions apportées par Lénéo – La phase de levées de fonds a commencé pour Lénéo, selon nos informations. Ce nouveau développeur-producteur de biométhane industriel vise un montant de L’article Méthanisation industrielle : Lénéo entame une importante l…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4293,7 +4340,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1784305176000",
+      "id": "le-commerce-du-bois-sitemap-0-1784322119000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4319,7 +4366,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1784305176000",
+      "id": "le-commerce-du-bois-sitemap-1-1784322119000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4345,7 +4392,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1784305176000",
+      "id": "le-commerce-du-bois-sitemap-2-1784322119000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -5013,7 +5060,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-7-1784212686000",
+      "id": "actu-environnement-rss-8-1784212686000",
       "title": "Lire notre dossier d'actu \"Agriculture : de nouvelles simplifications à l'étude\"",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5037,7 +5084,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-8-1784212579000",
+      "id": "actu-environnement-rss-9-1784212579000",
       "title": "Système électrique : une production au top et une consommation qui frémit au premier semestre",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5061,7 +5108,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-9-1784212302000",
+      "id": "actu-environnement-rss-10-1784212302000",
       "title": "Souveraineté agricole : députés et sénateurs trouvent un compromis en CMP",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5084,7 +5131,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-10-1784211795000",
+      "id": "actu-environnement-rss-11-1784211795000",
       "title": "Les bruits et vibrations d'un système de climatisation peuvent constituer un trouble anormal du voisinage",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5107,7 +5154,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-11-1784208338000",
+      "id": "actu-environnement-rss-12-1784208338000",
       "title": "Financement de la stratégie biodiversité : un rapport sénatorial mise sur les crédits biodiversité",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5130,7 +5177,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-12-1784206993000",
+      "id": "actu-environnement-rss-13-1784206993000",
       "title": "Lire notre dossier d'actu \"REP textile : une filière en pleine refondation\"",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5154,7 +5201,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-13-1784206972000",
+      "id": "actu-environnement-rss-14-1784206972000",
       "title": "Le Conseil d'État annule le décret visant à instaurer un régime d'aides au renouvellement forestier",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5177,7 +5224,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-14-1784203658000",
+      "id": "actu-environnement-rss-15-1784203658000",
       "title": "Rénovation des bâtiments : le projet Rénov'le vise à encourager l'innovation pédagogique",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5203,7 +5250,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-15-1784194774000",
+      "id": "actu-environnement-rss-16-1784194774000",
       "title": "Hydroélectricité : les petites installations rénovées pourront bénéficier d'un complément de rémunération",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5227,7 +5274,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-16-1784190600000",
+      "id": "actu-environnement-rss-17-1784190600000",
       "title": "Préjudice d'anxiété : une décision qui pourrait rebattre les cartes du contentieux environnemental",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5251,7 +5298,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-17-1784187900000",
+      "id": "actu-environnement-rss-18-1784187900000",
       "title": "Refonte REP textiles (4/5) : le malus « ultra fast-fashion » arrive",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -8292,30 +8339,6 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Observatoire environnement",
       "region": "Bretagne",
       "url": "https://bretagne-environnement.fr/article/empreinte-eau-bleue-bretons-monde",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreo-bretagne-sitemap-228-1784110783000",
-      "title": "besoins futurs eau bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/article/besoins-futurs-eau-bretagne",
       "image": null,
       "date": "2026-07-15",
       "access": "open",
@@ -14561,29 +14584,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Google et la start-up italienne Energy Dome installent une batterie au CO₂ à très longue durée en Irlande pour satisfaire les besoins de son datacenter. […] L’article Neuf heures d’autonomie pour cette méga batterie au CO2 qui alimentera un datacenter est apparu en premier sur Ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
-      "title": "avancees ffb 2026",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-transition-ecologique-sitemap-37-1783084774000",
