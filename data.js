@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-17T21:02:20.677Z",
+  "generatedAt": "2026-07-18T02:48:28.783Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1784342884000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-07-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1784342884000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-07-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1784342884000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-07-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1784289601000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -2421,7 +2499,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-0-1784277489000",
+      "id": "ministere-de-la-culture-architecture-sitemap-0-1784298529000",
+      "title": "a vierzon plus de 100 enfants a la recherche du petit prince",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/regions/drac-centre-val-de-loire/actualites-regionales-centre-val-de-loire/a-vierzon-plus-de-100-enfants-a-la-recherche-du-petit-prince",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-1-1784277489000",
       "title": "le ministere de la culture annonce le lancement de la 11e edition des journees nationales de l architecture du 15 au 18 octobre 2026 sur le theme",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -2444,13 +2545,83 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-15-1784271892000",
+      "id": "ministere-de-la-culture-architecture-sitemap-2-1784283345000",
+      "title": "analyse conjoncturelle du chiffre d affaires de la culture au 4e trimestre 2025",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/espace-documentation/statistiques-ministerielles-de-la-culture2/publications/collections-de-synthese/note-de-conjoncture/analyse-conjoncturelle-du-chiffre-d-affaires-de-la-culture-au-4e-trimestre-2025",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-6-1784299051000",
+      "title": "des vacances culturelles en ile de france",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/regions/drac-ile-de-france/actualites/actualite-a-la-une/des-vacances-culturelles-en-ile-de-france",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-18-1784271892000",
       "title": "voir le monde autrement une annee dans les mots des influenceurs",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
       "sourceType": "Institution publique",
       "region": "National",
       "url": "https://www.culture.gouv.fr/actualites/voir-le-monde-autrement-une-annee-dans-les-mots-des-influenceurs",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-20-1784294389000",
+      "title": "48 maisons des illustres en ile de france mille histoires une nouvelle edition pour un guide qui fait reference",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/regions/drac-ile-de-france/actualites/actualite-a-la-une/48-maisons-des-illustres-en-ile-de-france-mille-histoires-une-nouvelle-edition-pour-un-guide-qui-fait-reference",
       "image": null,
       "date": "2026-07-17",
       "access": "official",
@@ -2561,194 +2732,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "NGE Bâtiment lance un pôle dédié à la réhabilitation thermique et au renouvellement urbain en Île-de-France, avec l'ambition d'accélérer son développement sur ce marché stratégique. NGE Bâtiment lance un pôle dédié à la réhabilitation thermique et au renouvellement urbain en Île-…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-0-1784310279000",
-      "title": "Directive Nitrates : 35 ans après son adoption les efforts doivent s'intensifier",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/directive-nitrates-bilan-bretagne-zones-vulnerables-48328.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/decryptage/48328_large.jpg",
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "La contamination aux nitrates peine à reculer au niveau européen et national. Avec de multiples conséquences sur la ressource en eau potable ou le développement des algues vertes. Plusieurs parties prenantes appellent à intensifier les actions. La contamination aux nitrates peine…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-1-1784303027000",
-      "title": "Marché carbone européen : la Commission propose une réforme pour décarboner l'industrie",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/reforme-ets-quotas-decarbonation-incineration-48327.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48327_large.jpg",
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Carbone",
-        "Économie du bâtiment"
-      ],
-      "summary": "La Commission européenne propose une réforme du marché européen du carbone pour encourager l'industrie à investir dans la décarbonation des sites européens. Le secteur de l'incinération fait aussi son entrée dans le dispositif. La Commission européenne propose une réforme du marc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-2-1784301420000",
-      "title": "Refonte REP textiles (5/5) : les finances de Refashion sous surveillance",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/rep-textiles-refashion-provisions-ecocontributions-48297.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48297_large.jpg",
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "L'État entend mieux contrôler la façon dont Refashion utilise les écocontributions. Un suivi plus strict des finances de l'éco-organisme est prévu, notamment pour répondre aux critiques concernant ses provisions. L'État entend mieux contrôler la façon dont Refashion utilise les é…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-3-1784301389000",
-      "title": "ZFE : une nouvelle étude scientifique confirme leur utilité sur la santé",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/zfe-sante-etude-scientifique-hospitalisations-48324.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48324_large.jpg",
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Confort d’été"
-      ],
-      "summary": "Les zones à faibles émissions (ZFE), dispositif destiné à restreindre la circulation des véhicules les plus polluants dans certaines grandes agglomérations, ont été sauvées de justesse par le Conseil constitutionnel. Si leurs effets sur l'améliora... Les zones à faibles émissions…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-4-1784295710000",
-      "title": "TVA réduite des pompes à chaleur air-air : l'arrêté est paru",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/tva-reduite-pompe-chaleur-air-air-arrete-48325.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48325_large.jpg",
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "L'arrêté, publié ce 17 juillet au Journal officiel, définit les conditions du taux réduit de taxe sur la valeur ajoutée (TVA) à 5,5 % pour l'acquisition d'une pompe à chaleur air-air réversible, répondant à des critères environnementaux et de dura... L'arrêté, publié ce 17 juille…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-5-1784294162000",
-      "title": "Aires protégées : 5,9 % du territoire national sous protection forte",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/aires-protegees-protection-forte-territoire-2026-48323.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48323_large.jpg",
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "L'objectif de placer 10 % du territoire national sous protection forte est loin d'être atteint mais la proportion augmente doucement. Celle-ci était de 5,9 % au 1er janvier 2026 selon les chiffres publiés ce jeudi 16 juillet par le service statist... L'objectif de placer 10 % du …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-6-1784283938000",
-      "title": "Fragmentation des espaces naturels : la biodiversité sous pression",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/fragmentation-espaces-naturels-biodiversite-cgdd-48322.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48322_large.jpg",
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Dans un rapport publié le 3 juillet 2026, le Commissariat général au développement durable (CGDD) alerte sur le phénomène de fragmentation des milieux naturels lié, notamment à l'urbanisation et au développement des infrastructures de transport, q... Dans un rapport publié le 3 j…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-7-1784280625000",
-      "title": "Le chiffre du jour : 1,5 milliard d’euros",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/dit-aujourdhui/1819.html#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/interface/common/logo_standard_carre.jpg",
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "C’est la hausse des crédits de la mission « Écologie, développement et mobilités durables » que le Gouvernement envisage dans le projet de loi de finances pour 2027 (PLF 2027) d’après le rapport sur les plafonds de dépense qu’il a remis ce jeudi 1... C’est la hausse des crédits d…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3274,55 +3257,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-0-1784284200000",
-      "title": "ESS France lance « ESS – L’économie en mieux » avec le soutien des Caisses d’Epargne",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/ess-france-lance-ess-leconomie-en-mieux-avec-le-soutien-des-caisses-depargne/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Économie du bâtiment"
-      ],
-      "summary": "ESS France, la chambre représentative de l’Économie Sociale et Solidaire, a dévoilé « ESS – L’économie en mieux », une marque unique pour reconnaître l’ensemble des acteurs de l’ESS. Cette initiative, dont Caisse d’Epargne est partenaire premium, vise à apporter de la lisibilité …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-1-1784271608000",
-      "title": "Comment Makesense forme les jeunes de quartiers populaires franciliens à agir pour l’écologie",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/former-les-jeunes-de-quartiers-populaires-franciliens-a-agir-pour-lecologie/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Le dernier rapport du GIEC rappelle que l’urgence climatique est l’une des principales préoccupations des moins de 25 ans. Mais dans les quartiers prioritaires de la politique de la ville, cette inquiétude s’accompagne pourtant d’un sentiment d’impuissance :👉 Les difficultés soc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-0-1784301599000",
       "title": "Luttes en montagne : les Naturalistes des terres investissent les Alpes",
       "source": "Reporterre",
@@ -3627,187 +3561,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-0-1784301780000",
-      "title": "Bruxelles veut créer une « banque de décarbonation industrielle »",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/bruxelles-veut-creer-une-banque-de-decarbonation-industrielle-429876/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "La Commission européenne a dévoilé ce 17 juillet ses propositions pour réviser le système ETS d’échanges de quotas carbone et corriger ses « faiblesses », présente Wopke Hoekstra, commissaire européen au Climat. Notamment la faible part des revenus de l’ETS vraiment utilisée pour…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-1-1784299719000",
-      "title": "La Commission européenne veut doubler le taux d’électrification",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/la-commission-europeenne-veut-doubler-le-taux-delectrification-429840/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "« Choisissez l’électricité » : c’est l’appel lancé par Dan Jorgensen, commissaire européen à l’Énergie et au Logement, devant la presse. La Commission européenne a présenté ce 17 juillet un « plan d’action pour l’électrification », qui fixe avant tout des L’article La Commission …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-2-1784299459000",
-      "title": "Méthanisation industrielle : Lénéo entame une importante levée de fonds",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/methanisation-industrielle-leneo-entame-une-importante-levee-de-fonds-429845/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Eau"
-      ],
-      "summary": "Article modifié suite aux précisions apportées par Lénéo – La phase de levées de fonds a commencé pour Lénéo, selon nos informations. Ce nouveau développeur-producteur de biométhane industriel vise un montant de L’article Méthanisation industrielle : Lénéo entame une importante l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-3-1784299350000",
-      "title": "Bruxelles confirme sur la géothermie mais ne dévoile pas son plan",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/bruxelles-confirme-sur-la-geothermie-mais-ne-devoile-pas-son-plan-429835/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "La publication ce vendredi 17 juillet du plan d’électrification européen a été également l’occasion pour le secteur de la géothermie de voir son intérêt confirmé par Bruxelles. Energie locale et pilotable, capable de produire de l’électricité, de la chaleur et du froid à partir d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-4-1784290578000",
-      "title": "TVA réduite, TRVE et fuites de carbone au menu du CSE",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/tva-reduite-trve-et-fuites-de-carbone-au-menu-du-cse-429809/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Déjà bien fourni, l’ordre du jour du CSE du 23 juillet s’est encore lesté de nouveaux textes. Parmi eux figure notamment un projet d’arrêté L’article TVA réduite, TRVE et fuites de carbone au menu du CSE est apparu en premier sur GreenUnivers. Déjà bien fourni, l’ordre du jour du…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-5-1784281200000",
-      "title": "Les documents de la semaine",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/les-documents-de-la-semaine-381215/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-6-1784273400000",
-      "title": "L’agenda de la transition énergétique",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/lagenda-de-la-transition-energetique-280-424554/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Rénovation",
-        "Énergie"
-      ],
-      "summary": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. A…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "pv-magazine-france-rss-0-1784289600000",
       "title": "Effacement : Voltalis désormais actif sur tous les marchés de l’électricité",
       "source": "PV Magazine France",
@@ -3961,7 +3714,59 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1784298000000",
+      "id": "enerzine-rss-0-1784326200000",
+      "title": "Hyundai dévoile son camion hydrogène XCIENT en version Ampliroll à Lyon",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/hyundai-devoile-son-camion-hydrogene-xcient-en-version-ampliroll-a-lyon/190666-2026-07",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "La station Hympulsion de Lyon Saint-Exupéry, Hyundai Hydrogen Mobility a présenté une nouvelle variante Ampliroll de son porteur XCIENT FCEV. Destiné à la collecte des déchets, ce camion à hydrogène de 27 tonnes illustre la montée en puissance de l’offre sud-coréenne sur le march…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1784322600000",
+      "title": "Électricité : vers une hausse de 2,5 % des tarifs au 1er août 2026",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/electricite-hausse-tarifs-2-5-pourcent-1er-aout-2026/191438-2026-07",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le régulateur de l’énergie (CRE) a proposé une augmentation moyenne des tarifs réglementés de l’électricité qui interviendrait dès le 1er août 2026. Cette proposition qui doit encore faire l’objet d’un avis du Conseil supérieur de l’énergie puis être entérinée par un arrêté conjo…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1784298000000",
       "title": "eSIM et Batterie : Comment la SIM Numérique Transforme la Consommation Énergétique des Smartphones",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3986,7 +3791,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1784297100000",
+      "id": "enerzine-rss-3-1784297100000",
       "title": "Cigarette électronique en été : les règles d’or pour vapoter sans risque",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4012,7 +3817,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1784273700000",
+      "id": "enerzine-rss-4-1784273700000",
       "title": "Xpeng L03 : le SUV électrique à 34 990 € qui défie Tesla",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4038,7 +3843,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1784267100000",
+      "id": "enerzine-rss-5-1784267100000",
       "title": "Europorte et Cérévia roulent au colza pour décarboner le fret céréalier",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4064,7 +3869,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1784265000000",
+      "id": "enerzine-rss-6-1784265000000",
       "title": "Corsica Sole double sa capacité de stockage en Estonie avec Hertz 2",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4088,7 +3893,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1784261400000",
+      "id": "enerzine-rss-7-1784261400000",
       "title": "Triumph dévoile ses nouveaux coloris pour six modèles du millésime 2027",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4113,7 +3918,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1784257800000",
+      "id": "enerzine-rss-8-1784257800000",
       "title": "Une gestion plus intelligente des micro-réseaux pourrait réduire les coûts énergétiques des ménages et les émissions de diesel",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4338,84 +4143,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Le gouvernement valide une hausse de 2,5% des tarifs réglementés de l'électricité dès le 1er août 2026, sur proposition de la CRE. Cette augmentation, portée principalement par l'évolution du TURPE, s'inscrit dans la réorganisation structurelle du marché français post-Arenh et af…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1784322119000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1784322119000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1784322119000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1784300310000",
@@ -4710,7 +4437,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-1-1784215464000",
+      "id": "ministere-de-la-culture-architecture-sitemap-3-1784215464000",
       "title": "pratiques culturelles la recherche a l epreuve du numerique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4733,7 +4460,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-2-1784210414000",
+      "id": "ministere-de-la-culture-architecture-sitemap-4-1784210414000",
       "title": "deuxieme edition du prix du livre pour les bebes le ministere de la culture devoile la composition du jury et les ouvrages retenus dans la selection",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4756,7 +4483,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-3-1784205412000",
+      "id": "ministere-de-la-culture-architecture-sitemap-5-1784205412000",
       "title": "nomination de claire nicolas a la direction du centre d art et de photographie de lectoure capl centre d art contemporain d interet national c",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4779,7 +4506,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-4-1784209660000",
+      "id": "ministere-de-la-culture-architecture-sitemap-7-1784209660000",
       "title": "la cathedrale de chartres decrochera t elle le titre de monument prefere des francais",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4802,7 +4529,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-5-1784192022000",
+      "id": "ministere-de-la-culture-architecture-sitemap-8-1784192022000",
       "title": "agenda previsionnel de mme catherine pegard ministre de la culture16",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4825,7 +4552,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-6-1784215456000",
+      "id": "ministere-de-la-culture-architecture-sitemap-9-1784215456000",
       "title": "rapport de mission sur le statut des productions de l intelligence artificielle",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -5056,267 +4783,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Les défaillances progressent de 5,4 % au T2 2026. Certes, la construction résiste (-0,8 %), mais la promotion immobilière et les travaux publics peinent. Les défaillances progressent de 5,4 % au T2 2026. Certes, la construction résiste (-0,8 %), mais la promotion immobilière et l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-8-1784212686000",
-      "title": "Lire notre dossier d'actu \"Agriculture : de nouvelles simplifications à l'étude\"",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/dossier-actu/projet-loi-souverainete-agricole-2026-127#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/gestion/gestion_dossier_actu/127_dossier_actu.jpg",
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "Un nouveau projet de loi sur l'agriculture est actuellement examiné par le Parlement. Outre des mesures sur les prix, le texte prévoit de protéger les agriculteurs français contre la concurrence déloyale, de favoriser les approvisionnements locaux... Un nouveau projet de loi sur …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-9-1784212579000",
-      "title": "Système électrique : une production au top et une consommation qui frémit au premier semestre",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/bilan-electrique-semestriel-rte-2026-48319.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48319_large.jpg",
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Carbone"
-      ],
-      "summary": "RTE note un frémissement de la consommation électrique depuis le début de l'année, porté notamment par l'industrie. La production décarbonée est au plus haut, même si les vagues de chaleur successives réduisent les rendements et les disponibilités. RTE note un frémissement de la …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-10-1784212302000",
-      "title": "Souveraineté agricole : députés et sénateurs trouvent un compromis en CMP",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/souverainete-agricole-cmp-accord-eau-48320.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48320_large.jpg",
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Après plusieurs heures de débat, les sept députés et sept sénateurs réunis en commission mixte paritaire (CMP) sont parvenus à un accord sur le projet de loi de souveraineté agricole, ce jeudi 16 juillet. Le texte de l'accord a obtenu huit voix fa... Après plusieurs heures de déb…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-11-1784211795000",
-      "title": "Les bruits et vibrations d'un système de climatisation peuvent constituer un trouble anormal du voisinage",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/climatisation-bruit-vibrations-trouble-voisinage-48321.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48321_large.jpg",
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "En période caniculaire, alors que la climatisation fait débat quant à son impact environnemental, cette dernière est sujette à une autre controverse&#8239;: les troubles anormaux du voisinage qu'elle peut engendrer. C'est le sens d'une décis... En période caniculaire, alors que l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-12-1784208338000",
-      "title": "Financement de la stratégie biodiversité : un rapport sénatorial mise sur les crédits biodiversité",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/financement-strategie-biodiversite-rapport-senatorial-48318.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48318_large.jpg",
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Moins de 40 % des besoins de financement de la stratégie biodiversité sont couverts. Sans vouloir dépenser plus, la sénatrice Christine Lavarde préconise de réorienter les dépenses dommageables et surtout de mobiliser les financements privés. Moins de 40 % des besoins de financem…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-13-1784206993000",
-      "title": "Lire notre dossier d'actu \"REP textile : une filière en pleine refondation\"",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/dossier-actu/dossier-rep-textile-fast-fashion-132#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/gestion/gestion_dossier_actu/132_dossier_actu.jpg",
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "Depuis plus d'un an, la filière REP des textiles, chaussures et linge de maison (REP TLC) traverse une transformation majeure. Prise entre l'essor de l'ultra fast fashion et la fermeture des débouchés à l'export, elle cherche un nouveau modèle. Le... Depuis plus d'un an, la filiè…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-14-1784206972000",
-      "title": "Le Conseil d'État annule le décret visant à instaurer un régime d'aides au renouvellement forestier",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/conseil-etat-annulation-decret-renouvellement-forestier-48317.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48317_large.jpg",
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Par un arrêt du 15 juillet 2026, le Conseil d'État a annulé, à la demande de l'association Canopée, le décret portant application de l'article L. 121-6 du code forestier et instaurant un régime d'aides au renouvellement forestier. Ce décr... Par un arrêt du 15 juillet 2026, le Co…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-15-1784203658000",
-      "title": "Rénovation des bâtiments : le projet Rénov'le vise à encourager l'innovation pédagogique",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/renov-le-renovation-energetique-formation-chalons-en-champagne-marne-48316.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48316_large.jpg",
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau",
-        "Rénovation",
-        "Bâtiment"
-      ],
-      "summary": "Le nouveau projet baptisé « Rénov'le » vise à mettre en oeuvre, dans la commune de Châlons-en-Champagne (Marne), « un démonstrateur physique alliant innovation, rénovation énergétique et formation professionnelle pour de l'habitat individuel, de l... Le nouveau projet baptisé « R…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-16-1784194774000",
-      "title": "Hydroélectricité : les petites installations rénovées pourront bénéficier d'un complément de rémunération",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/hydroelectricite-complement-remuneration-installations-renovees-48315.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48315_large.jpg",
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Rénovation"
-      ],
-      "summary": "Un projet d'arrêté, fixant les conditions du complément de rémunération pour la production d'installations hydroélectriques non-concédées et ayant fait l'objet d'une rénovation, est en consultation jusqu'au 2 août. Il concerne les installations hy... Un projet d'arrêté, fixant le…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-17-1784190600000",
-      "title": "Préjudice d'anxiété : une décision qui pourrait rebattre les cartes du contentieux environnemental",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/prejudice-anxiete-contentieux-environnemental-pfas-48306.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/commentaire/48306_large.jpg",
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Confort d’été"
-      ],
-      "summary": "En qualifiant le préjudice d'anxiété de dommage corporel, la Cour de cassation ouvre une nouvelle perspective pour les contentieux liés aux expositions environnementales. PFAS, pesticides, pollutions : quels enjeux pour les entreprises et l'ESG ? En qualifiant le préjudice d'anxi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-18-1784187900000",
-      "title": "Refonte REP textiles (4/5) : le malus « ultra fast-fashion » arrive",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/bonus-malus-rep-textiles-fast-fashion-48296.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48296_large.jpg",
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Le ministère propose déjà une modification de son projet de cahier des charges de la REP TLC. Objectif : introduire le malus prévu par la nouvelle loi censée lutter contre l'ultra fast-fashion. Le caractère opposable du dispositif interroge. Le ministère propose déjà une modifica…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6038,31 +5504,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-2-1784185200000",
-      "title": "150 ans après leur création, les colonies de vacances séduisent toujours… mais accueillent de moins en moins d’enfants",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/150-ans-apres-leur-creation-les-colonies-de-vacances-seduisent-toujours-les-francais-mais-accueillent-de-moins-en-moins-denfants/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation"
-      ],
-      "summary": "Alors que s’ouvre la saison estivale, les colonies de vacances célèbrent leurs 150 ans. Bon anniversaire ! Ou pas… Car, plébiscitées par l’opinion publique et par les jeunes, elles voient leur fréquentation diminuer année après année. Un paradoxe qui interroge l’avenir des séjour…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-9-1784220972000",
       "title": "Loi d'urgence agricole : Laurent Duplomb impose son texte",
       "source": "Reporterre",
@@ -6421,84 +5862,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-7-1784221070000",
-      "title": "Les résultats des principaux producteurs d’énergie renouvelable en 2025",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/les-resultats-des-principaux-producteurs-denergie-renouvelable-en-2025-428712/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Confort d’été",
-        "Énergie"
-      ],
-      "summary": "Exclusif – GreenUnivers publie l’édition 2025 de sa synthèse des résultats financiers annuels des principaux producteurs d’énergies renouvelables – principalement de l’électricité -, français ou actifs en France. Les données ont été collectées L’article Les résultats des principa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-8-1784216760000",
-      "title": "Lauréat du dernier AO solaire sur bâtiment, Diméo Énergie ouvre son capital",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/laureat-du-dernier-ao-solaire-batiment-dimeo-energie-ouvre-son-capital-429738/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Exclusif – Le développeur photovoltaïque Diméo Energie, lauréat de la dernière session de l’appel d’offres (AO) solaire sur bâtiment, cherche des investisseurs. Selon nos informations, le dossier circule L’article Lauréat du dernier AO solaire sur bâtiment, Diméo Énergie ouvre so…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-9-1784201438000",
-      "title": "La modulation des EnR en hausse au premier semestre, celle du nucléaire baisse [RTE]",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/la-modulation-des-enr-en-hausse-au-premier-semestre-celle-du-nucleaire-baisse-rte-429704/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "« Une chose qui a changé est la flexibilité des EnR », affirme Thomas Veyrenc, directeur général chargé de l’économie, de la stratégie et des finances de RTE. Le gestionnaire de réseau a L’article La modulation des EnR en hausse au premier semestre, celle du nucléaire baisse [RTE…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "pv-magazine-france-rss-4-1784206800000",
       "title": "Ouverture du guichet pour le nouveau dispositif de leasing social pour les pompes à chaleur",
       "source": "PV Magazine France",
@@ -6675,7 +6038,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1784239800000",
+      "id": "enerzine-rss-9-1784239800000",
       "title": "Des transistors extrêmement fins rapprochent les puces économes en énergie du futur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6695,57 +6058,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "Les semi-conducteurs atomiquement fins peuvent être réduits à des dimensions pertinentes pour les futures puces électroniques sans perte de performance, selon une nouvelle étude publiée dans Nature Nanotechnology. Cette découverte lève un obstacle clé à l’utilisation des semi-con…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1784180700000",
-      "title": "Le retour du riz à Hawaï : des variétés japonaises produisent des grains de grande qualité en seulement trois mois",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/le-retour-du-riz-a-hawai-des-varietes-japonaises-produisent-des-grains-de-grande-qualite-en-seulement-trois-mois/190286-2026-07",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Dans une étape majeure vers l’amélioration de la sécurité alimentaire et l’exploration du potentiel de ramener la culture du riz à Hawaï, une équipe de recherche internationale a cultivé avec succès des variétés de riz japonais de qualité supérieure sur l’île de Kauaʻi en utilisa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1784178600000",
-      "title": "KAIST identifie pour la première fois le « coût énergétique caché » des agents d’IA",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/kaist-identifie-pour-la-premiere-fois-le-cout-energetique-cache-des-agents-dia/190254-2026-07",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "Alors que l’ère des agents d’IA des systèmes capables de raisonner et d’agir de manière autonome commence, la consommation électrique des centres de données émerge comme un défi critique. Une équipe de recherche de KAIST a, pour la première fois, analysé le coût de calcul et la c…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7297,53 +6609,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-349-1784107847000",
-      "title": "economies denergie vrai du faux avoir bons reflexes",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/economies-denergie-vrai-du-faux-avoir-bons-reflexes",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-369-1784129974000",
-      "title": "ministere partenaire du film danimation fille nuages",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/ministere-partenaire-du-film-danimation-fille-nuages",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-7-1784109433000",
+      "id": "ministere-de-la-culture-architecture-sitemap-10-1784109433000",
       "title": "la creation architecturale au service des politiques publiques du logement et de l adaptation climatique du bati existant",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7367,7 +6633,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-8-1784111345000",
+      "id": "ministere-de-la-culture-architecture-sitemap-11-1784111345000",
       "title": "la liste fouiller en benevole ou visiter un chantier archeologique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7391,7 +6657,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-9-1784146799000",
+      "id": "ministere-de-la-culture-architecture-sitemap-12-1784146799000",
       "title": "festival paris l ete 2026 fait scene de tout un territoire",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7414,7 +6680,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-12-1784117888000",
+      "id": "ministere-de-la-culture-architecture-sitemap-15-1784117888000",
       "title": "fortes chaleurs la culture au frais",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7437,7 +6703,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-14-1784124208000",
+      "id": "ministere-de-la-culture-architecture-sitemap-17-1784124208000",
       "title": "tapisserie de bayeux un pret historique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7703,32 +6969,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-11-1784156700000",
-      "title": "Comment rénover et réparer le bâti ancien et contemporain",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/renover-reparer-bati-ancien-contemporain-49032",
-      "image": "https://img.batiweb.com/repo-images/publi/49032/weber-07-17-une.jpg",
-      "date": "2026-07-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réemploi",
-        "Rénovation",
-        "Bâtiment"
-      ],
-      "summary": "Depuis de nombreuses années, Saint-Gobain Weber s’engage en faveur d’une construction et d’une rénovation plus durables. Préservation du bâti ancien, amélioration de la performance énergétique et réduction des émissions de CO₂ : les enjeux du secteur nécessitent des solutions con…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-12-1784156700000",
       "title": "Délai Premium JELD-WEN : vos portes et huisseries sans attendre",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7752,7 +6992,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-13-1784156700000",
+      "id": "batiweb-rss-12-1784156700000",
       "title": "Innovation Awards : record battu pour Paris Builders Show",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7771,6 +7011,32 @@ window.BATIVEILLE_DATA = {
         "Marché"
       ],
       "summary": "En battant le record du nombre de participants, les Innovation Awards confirment l’élan d’innovation porté par les exposants de Paris Builders Show 2026. En battant le record du nombre de participants, les Innovation Awards confirment l’élan d’innovation porté par les exposants d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-13-1784156700000",
+      "title": "Comment rénover et réparer le bâti ancien et contemporain",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/renover-reparer-bati-ancien-contemporain-49032",
+      "image": "https://img.batiweb.com/repo-images/publi/49032/weber-07-17-une.jpg",
+      "date": "2026-07-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réemploi",
+        "Rénovation",
+        "Bâtiment"
+      ],
+      "summary": "Depuis de nombreuses années, Saint-Gobain Weber s’engage en faveur d’une construction et d’une rénovation plus durables. Préservation du bâti ancien, amélioration de la performance énergétique et réduction des émissions de CO₂ : les enjeux du secteur nécessitent des solutions con…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8504,31 +7770,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-3-1784097900000",
-      "title": "La France accouche enfin d’une stratégie nationale pour l’ESS, après un désaveu politique cinglant",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/la-france-accouche-enfin-dune-strategie-nationale-pour-less-apres-un-desaveu-politique-cinglant/",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Eau"
-      ],
-      "summary": "C’est un moment historique. Avec près de deux ans de retard, la France vient enfin de se doter de sa toute première « Stratégie nationale de développement de l’ESS ». Cocorico ! Sauf que les conditions d’adoption du document sont venues gâcher la fête : 42 abstentions sur 50 vota…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-21-1784127600000",
       "title": "L'augmentation de la poussière en Europe pourrait menacer la santé publique",
       "source": "Reporterre",
@@ -9088,31 +8329,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "fibois-france-rss-0-1784112260000",
-      "title": "Fondation France Bois Forêt pour notre Patrimoine",
-      "source": "Fibois France",
-      "sourceId": "fibois-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://fibois-france.fr/fondation-france-bois-foret-pour-notre-patrimoine/",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Biosourcé",
-        "Filières",
-        "Réglementation"
-      ],
-      "summary": "Depuis l’incendie de la Cathédrale Notre-Dame de Paris en 2019, la fondation France Bois Forêt pour notre Patrimoine soutient les volontaires qui sauvent les trésors de nos régions. L’article Fondation France Bois Forêt pour notre Patrimoine est apparu en premier sur Fibois Franc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "le-journal-du-grand-paris-rss-8-1784123325000",
       "title": "Saint-Agne immobilier inaugure une nouvelle résidence à Torcy",
       "source": "Le Journal du Grand Paris",
@@ -9557,32 +8773,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "L'adaptation des horaires de travail est l'un des axes que les employeurs devront aborder. @Pexels / Kaboompics Alors que la France vit sa troisième canicule en moins deux mois et que l’été a à peine commencé, le Haut-commissaire à la stratégie et au plan, Clément Beaune, a appel…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-4-1783926000000",
-      "title": "Prix Grande Cause 2026 : un accompagnement de 30 000 € pour faire grandir un projet d’intérêt général",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/prix-grande-cause-2026-un-accompagnement-de-30-000-e-pour-faire-grandir-un-projet-dinteret-general/",
-      "image": null,
-      "date": "2026-07-13",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Dans l’économie sociale et solidaire, les projets d’intérêt général ne manquent pas. En revanche, ils peinent à trouver les moyens de se faire connaître, de mobiliser de nouveaux soutiens ou de convaincre des partenaires financiers. Pourtant, au-delà de la qualité d’une action, s…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10199,30 +9389,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-370-1783695699000",
-      "title": "7 idees recues vagues chaleur",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/7-idees-recues-vagues-chaleur",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-10-1783700410000",
+      "id": "ministere-de-la-culture-architecture-sitemap-13-1783700410000",
       "title": "cet ete je lis ! et vous",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10245,7 +9412,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-11-1783699122000",
+      "id": "ministere-de-la-culture-architecture-sitemap-14-1783699122000",
       "title": "la tapisserie de bayeux est arrivee cette nuit au british museum londres",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10268,30 +9435,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-17-1783684010000",
-      "title": "48 maisons des illustres en ile de france mille histoires une nouvelle edition pour un guide qui fait reference",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/regions/drac-ile-de-france/actualites/actualite-a-la-une/48-maisons-des-illustres-en-ile-de-france-mille-histoires-une-nouvelle-edition-pour-un-guide-qui-fait-reference",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-21-1783697520000",
+      "id": "ministere-de-la-culture-architecture-sitemap-24-1783697520000",
       "title": "mobilites des publics de festivals un guide pour accompagner la transition en normandie",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10946,30 +10090,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-5-1783666800000",
-      "title": "France Tiers-Lieux disparaît : la fin silencieuse d’une politique publique de huit ans",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/france-tiers-lieux-disparait-la-fin-silencieuse-dune-politique-publique-de-huit-ans/",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Pas une déclaration, pas un communiqué, aucun débat public. L’assemblée générale de France Tiers-Lieux a voté sa propre dissolution lundi 29 juin, sans un bruit. À la veille des départs en vacances, pour ne pas déranger. Sans attendre la fin de sa convention avec l’Etat dans deux…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-47-1783691756000",
       "title": "Moules, escargots... 125 espèces de mollusques menacées par l'exploitation minière",
       "source": "Reporterre",
@@ -11604,7 +10724,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-13-1783611566000",
+      "id": "ministere-de-la-culture-architecture-sitemap-16-1783611566000",
       "title": "france 2030 annonce des 20 laureats de la deuxieme vague du dispositif culture immersive",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -11627,7 +10747,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-16-1783591032000",
+      "id": "ministere-de-la-culture-architecture-sitemap-19-1783591032000",
       "title": "la qualite du logement au coeur des echanges entre les directeurs europeens de l architecture",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -11651,36 +10771,13 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-20-1783589627000",
+      "id": "ministere-de-la-culture-architecture-sitemap-23-1783589627000",
       "title": "actes de la journee de lancement du parlement de la strategie nationale pour l architecture",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
       "sourceType": "Institution publique",
       "region": "National",
       "url": "https://www.culture.gouv.fr/thematiques/architecture/actualites-de-l-architecture/actes-de-la-journee-de-lancement-du-parlement-de-la-strategie-nationale-pour-l-architecture",
-      "image": null,
-      "date": "2026-07-09",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-28-1783610127000",
-      "title": "cathedrale de nimes un patrimoine reexplore des connaissances renouvelees 22 et 23 octobre",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/regions/drac-occitanie/actualites/actualite-a-la-une/cathedrale-de-nimes-un-patrimoine-reexplore-des-connaissances-renouvelees-22-et-23-octobre",
       "image": null,
       "date": "2026-07-09",
       "access": "official",
@@ -12154,32 +11251,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-6-1783580400000",
-      "title": "Kylian Mbappé : un sourire qui rappelle que les valeurs du sport collectif éclairent la société",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/kylian-mbappe-un-sourire-qui-rappelle-que-les-valeurs-du-sport-collectif-eclairent-toute-la-societe/",
-      "image": null,
-      "date": "2026-07-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "La France n’est pas encore triple championne du monde de football – mais on y croit pour ce soir – que le sourire de Kilian Mbappé a déjà reconquis bien des coeurs. Face au Paraguay samedi soir, bousculé, accroché, l’attaquant français a répondu par le jeu, sans (presque) jamais …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-57-1783620000000",
       "title": "Algues vertes : la Cour des Comptes critique encore et toujours les carences de l'État",
       "source": "Reporterre",
@@ -12530,30 +11601,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
-      "title": "sobriete energetique plan reduire notre consommation denergie",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/sobriete-energetique-plan-reduire-notre-consommation-denergie",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-18-1783503189000",
+      "id": "ministere-de-la-culture-architecture-sitemap-21-1783503189000",
       "title": "preprogramme des 43e journees europeennes du patrimoine les samedi 19 et dimanche 20 septembre 2026",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12576,7 +11624,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-19-1783519656000",
+      "id": "ministere-de-la-culture-architecture-sitemap-22-1783519656000",
       "title": "rapport d activite 2025 du cspla",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12599,7 +11647,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-25-1783502248000",
+      "id": "ministere-de-la-culture-architecture-sitemap-28-1783502248000",
       "title": "agathe simon a l estrade ex nihilo quand les regards fabriquent le monde",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12622,7 +11670,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-26-1783506433000",
+      "id": "ministere-de-la-culture-architecture-sitemap-29-1783506433000",
       "title": "un colloque pour les 500 ans de la reconstruction du clocher de la cathedrale de rodez",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12640,30 +11688,6 @@ window.BATIVEILLE_DATA = {
         "Patrimoine",
         "Réglementation",
         "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-29-1783516493000",
-      "title": "maylis descazeaux nouvelle directrice regionale des affaires culturelles d occitanie",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/regions/drac-occitanie/actualites/actualite-a-la-une/maylis-descazeaux-nouvelle-directrice-regionale-des-affaires-culturelles-d-occitanie",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 90,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation",
-        "Eau"
       ],
       "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
@@ -13308,31 +12332,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-7-1783494000000",
-      "title": "L’UDES lance « SOS Employeurs ESS » en Ile-de-France et organise la riposte face aux fragilités de l’économie sociale",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/ludes-lance-sos-employeurs-ess-en-ile-de-france-et-organise-la-riposte-face-aux-fragilites-de-leconomie-sociale/",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Économie du bâtiment"
-      ],
-      "summary": "Dans l’économie sociale et solidaire, la crise se vit au quotidien. Tensions de trésorerie, difficultés de recrutement, arbitrages budgétaires déchirants, et parfois même des risques de fragilisation durable de structures associatives, coopératives ou mutualistes… Dans ce context…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-15-1783489772000",
       "title": "Produire de l’hydrogène avec du nucléaire : comment l’Inde y est arrivé",
       "source": "Révolution Énergétique",
@@ -13409,30 +12408,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
-      "title": "securite sites industriels risques mise place vigilance renforcee",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/securite-sites-industriels-risques-mise-place-vigilance-renforcee",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-22-1783435995000",
+      "id": "ministere-de-la-culture-architecture-sitemap-25-1783435995000",
       "title": "biblis en folie troisieme edition des journees nationales dediees aux bibliotheques et mediatheques du 2 au 4 octobre 2026",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -13455,7 +12431,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-23-1783422109000",
+      "id": "ministere-de-la-culture-architecture-sitemap-26-1783422109000",
       "title": "nomination de servane ducorps et mikael serre a la direction de la comedie de colmar centre dramatique national grand est alsace",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -13478,7 +12454,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-24-1783417157000",
+      "id": "ministere-de-la-culture-architecture-sitemap-27-1783417157000",
       "title": "agenda previsionnel de mme catherine pegard ministre de la culture15",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -13495,30 +12471,6 @@ window.BATIVEILLE_DATA = {
         "Architecture",
         "Patrimoine",
         "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-27-1783436974000",
-      "title": "bicentenaire de la photographie le ministere de la culture et le centre national du livre cnl annoncent les laureats du fonds de soutien except",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/presse/communiques-de-presse/bicentenaire-de-la-photographie-le-ministere-de-la-culture-et-le-centre-national-du-livre-cnl-annoncent-les-laureats-du-fonds-de-soutien-except",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 90,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation",
-        "RE2020"
       ],
       "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
@@ -13924,32 +12876,6 @@ window.BATIVEILLE_DATA = {
         "Habitat"
       ],
       "summary": "The post Nouvelles instances de Scalen appeared first on Agence Scalen. The post Nouvelles instances de Scalen appeared first on Agence Scalen . Nouvelles instances de Scalen",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-8-1783406700000",
-      "title": "Fusions dans l’ESS : l’économie sociale et solidaire entame sa consolidation !",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/fusions-dans-less-leconomie-sociale-et-solidaire-entame-sa-consolidation/",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Les grandes réorganisations naissent rarement dans le confort, plutôt sous la contrainte. Et cet été, la crise de l’économie sociale et solidaire en est une bonne illustration. Après la fusion entre Admical et le Centre français des fonds et fondations annoncée au printemps (lire…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -14461,31 +13387,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-9-1783321200000",
-      "title": "Épargne durable : « Les Français doivent enfin savoir ce que finance leur argent »",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/epargne-durable-les-francais-doivent-enfin-savoir-ce-que-finance-leur-argent/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Confort d’été"
-      ],
-      "summary": "Alors que la France traverse cet été plusieurs épisodes de canicule historique et que les débats sur la transition écologique se durcissent, une question reste absente des conversations : et si notre épargne pouvait jouer un rôle utile ? Pourrait-elle contribuer à financer la tra…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-17-1783335138000",
       "title": "Ce fournisseur veut installer une batterie chez vous pour trader l’électricité sur les marchés",
       "source": "Révolution Énergétique",
@@ -14586,25 +13487,25 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-37-1783084774000",
-      "title": "secheresse france",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "title": "avancees ffb 2026",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
       "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
       "image": null,
       "date": "2026-07-03",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
       "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
       ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -15043,29 +13944,6 @@ window.BATIVEILLE_DATA = {
         "Habitat privé"
       ],
       "summary": "Publication détectée dans le sitemap de ANAH. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-316-1782983737000",
-      "title": "vacances sereines applis lete",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/vacances-sereines-applis-lete",
-      "image": null,
-      "date": "2026-07-02",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -16046,32 +14924,6 @@ window.BATIVEILLE_DATA = {
         "Carbone"
       ],
       "summary": "Le transport est le premier secteur émetteur de gaz à effet de serre (GES) en France, avec 30 % des émissions. Face aux enjeux climatiques, la loi d’orientation des mobilités (LOM) du 24 décembre 2019 fixe un objectif de neutralité carbone des transports d’ici 2050. Elle impose a…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "fibois-france-rss-1-1782911061000",
-      "title": "Actualités régionales : les temps forts du mois de Juin",
-      "source": "Fibois France",
-      "sourceId": "fibois-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://fibois-france.fr/actualites-regionales-les-temps-forts-du-mois-de-juin/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Biosourcé",
-        "Filières",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "Visite de chantier, webinaires, rencontres avec d'autres professionnels, échange sur les innovations ...Découvrez les temps forts qui ont eu lieu dans votre région ! L’article Actualités régionales : les temps forts du mois de Juin est apparu en premier sur Fibois France. Visite …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
