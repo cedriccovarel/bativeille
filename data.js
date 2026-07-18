@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-18T11:08:53.960Z",
+  "generatedAt": "2026-07-18T16:02:13.468Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2288,7 +2288,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-0-1784352749000",
+      "id": "revolution-energetique-rss-0-1784387274000",
+      "title": "Canicule : le DPE ne sert à rien pour le confort d’été, ou presque",
+      "source": "Révolution Énergétique",
+      "sourceId": "revolution-energetique",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.revolution-energetique.com/actus/canicule-le-dpe-ne-sert-a-rien-pour-le-confort-dete-ou-presque/",
+      "image": null,
+      "date": "2026-07-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "ENR",
+        "Stockage",
+        "Réseaux",
+        "Eau"
+      ],
+      "summary": "Beaucoup l’auront remarqué ces dernières semaines : un logement classé DPE A ou B ne garantit pas un intérieur supportable pendant la canicule. Historiquement, le […] L’article Canicule : le DPE ne sert à rien pour le confort d’été, ou presque est apparu en premier sur Révolution…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "revolution-energetique-rss-1-1784352749000",
       "title": "En juin, un quart de l’électricité européenne provenait du soleil",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -2364,7 +2390,82 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1784364180000",
+      "id": "lenergeek-rss-0-1784383800000",
+      "title": "Éclipse du 12 août 2026 : comment la France gérera la chute brutale de sa production solaire",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/07/18/eclipse-12-aout-chute-production-solaire/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/07/eclipse-solaire.jpg",
+      "date": "2026-07-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Le 12 août 2026, l'éclipse solaire occultera jusqu'à 99,7% du Soleil sur la façade atlantique française. Pour RTE et les opérateurs électriques, le défi sera de compenser la chute brutale de production photovoltaïque entre 19h20 et 21h13, en pleine pointe du soir. Ce test grandeu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1784368959000",
+      "title": "Combien coûtent 1000 L de fioul ce samedi 18 juillet 2026 ?",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/07/18/prix-fioul-domestique-combien-coutent-1000-fioul-samedi-18-juillet-2026-2/",
+      "image": null,
+      "date": "2026-07-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le prix du fioul domestique s'établit à 1,579 €/L pour une commande de 1000 litres ce samedi 18 juillet 2026, selon la moyenne nationale. Les tarifs varient fortement selon la localisation géographique, le type de fioul (ordinaire ou supérieur) et les modalités d'achat, avec des …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1784368926000",
+      "title": "Combien coûtent 1000 L de fioul ce samedi 18 juillet 2026 ?",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/07/18/prix-fioul-domestique-combien-coutent-1000-fioul-samedi-18-juillet-2026/",
+      "image": null,
+      "date": "2026-07-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le prix du fioul domestique atteint 1579 euros pour 1000 litres ce samedi 18 juillet 2026, avec des variations importantes selon les régions françaises. Les tensions sur le marché pétrolier et les disparités logistiques expliquent ces écarts tarifaires significatifs entre départe…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1784364180000",
       "title": "Recharge électrique ultra-rapide : 50 000 véhicules supplémentaires, quel impact énergétique pour le réseau français ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2389,7 +2490,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1784355655000",
+      "id": "lenergeek-rss-4-1784355655000",
       "title": "Taïwan n’a aucun satellite et dépend de câbles sous-marins pour communiquer : le Parlement ouvre la porte à Starlink",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2413,7 +2514,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1784353812000",
+      "id": "lenergeek-rss-5-1784353812000",
       "title": "Mauvaise nouvelle pour les utilisateurs Microsoft : 50 logiciels disparaissent en 2026, et certains sont probablement installés sur votre PC en ce moment",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2437,7 +2538,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1784352000000",
+      "id": "lenergeek-rss-6-1784352000000",
       "title": "Les électriciens et gaziers menacent de couper le courant : leur « tarif agent » sur l’énergie pourrait disparaître et la colère monte dans les rangs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2462,7 +2563,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1784372912000",
+      "id": "le-commerce-du-bois-sitemap-0-1784390521000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2488,7 +2589,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1784372912000",
+      "id": "le-commerce-du-bois-sitemap-1-1784390521000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2514,7 +2615,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1784372912000",
+      "id": "le-commerce-du-bois-sitemap-2-1784390521000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4099,187 +4200,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-0-1784301780000",
-      "title": "Bruxelles veut créer une « banque de décarbonation industrielle »",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/bruxelles-veut-creer-une-banque-de-decarbonation-industrielle-429876/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "La Commission européenne a dévoilé ce 17 juillet ses propositions pour réviser le système ETS d’échanges de quotas carbone et corriger ses « faiblesses », présente Wopke Hoekstra, commissaire européen au Climat. Notamment la faible part des revenus de l’ETS vraiment utilisée pour…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-1-1784299719000",
-      "title": "La Commission européenne veut doubler le taux d’électrification",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/la-commission-europeenne-veut-doubler-le-taux-delectrification-429840/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "« Choisissez l’électricité » : c’est l’appel lancé par Dan Jorgensen, commissaire européen à l’Énergie et au Logement, devant la presse. La Commission européenne a présenté ce 17 juillet un « plan d’action pour l’électrification », qui fixe avant tout des L’article La Commission …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-2-1784299459000",
-      "title": "Méthanisation industrielle : Lénéo entame une importante levée de fonds",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/methanisation-industrielle-leneo-entame-une-importante-levee-de-fonds-429845/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Eau"
-      ],
-      "summary": "Article modifié suite aux précisions apportées par Lénéo – La phase de levées de fonds a commencé pour Lénéo, selon nos informations. Ce nouveau développeur-producteur de biométhane industriel vise un montant de L’article Méthanisation industrielle : Lénéo entame une importante l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-3-1784299350000",
-      "title": "Bruxelles confirme sur la géothermie mais ne dévoile pas son plan",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/bruxelles-confirme-sur-la-geothermie-mais-ne-devoile-pas-son-plan-429835/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "La publication ce vendredi 17 juillet du plan d’électrification européen a été également l’occasion pour le secteur de la géothermie de voir son intérêt confirmé par Bruxelles. Energie locale et pilotable, capable de produire de l’électricité, de la chaleur et du froid à partir d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-4-1784290578000",
-      "title": "TVA réduite, TRVE et fuites de carbone au menu du CSE",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/tva-reduite-trve-et-fuites-de-carbone-au-menu-du-cse-429809/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Déjà bien fourni, l’ordre du jour du CSE du 23 juillet s’est encore lesté de nouveaux textes. Parmi eux figure notamment un projet d’arrêté L’article TVA réduite, TRVE et fuites de carbone au menu du CSE est apparu en premier sur GreenUnivers. Déjà bien fourni, l’ordre du jour du…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-5-1784281200000",
-      "title": "Les documents de la semaine",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/les-documents-de-la-semaine-381215/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-6-1784273400000",
-      "title": "L’agenda de la transition énergétique",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/lagenda-de-la-transition-energetique-280-424554/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Rénovation",
-        "Énergie"
-      ],
-      "summary": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. A…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "pv-magazine-france-rss-0-1784289600000",
       "title": "Effacement : Voltalis désormais actif sur tous les marchés de l’électricité",
       "source": "PV Magazine France",
@@ -4382,7 +4302,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-1-1784303878000",
+      "id": "revolution-energetique-rss-2-1784303878000",
       "title": "Cette startup inconnue veut imprimer des réacteurs nucléaires en 3D",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -4408,7 +4328,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-2-1784273928000",
+      "id": "revolution-energetique-rss-3-1784273928000",
       "title": "AO10 : La Commission Européenne valide le programme de financement français",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -4637,7 +4557,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1784293931000",
+      "id": "lenergeek-rss-7-1784293931000",
       "title": "Orages du 16-17 juillet : 53.000 foyers privés d’électricité, la résilience des réseaux en question",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4663,7 +4583,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1784288467000",
+      "id": "lenergeek-rss-8-1784288467000",
       "title": "Énergie : la cybersécurité, pilier de la continuité énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4688,7 +4608,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1784282561000",
+      "id": "lenergeek-rss-9-1784282561000",
       "title": "Combien coûtent 1000 L de fioul ce vendredi 17 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4713,7 +4633,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1784269214000",
+      "id": "lenergeek-rss-10-1784269214000",
       "title": "Cette nuit où la Tunisie entière a plongé dans le noir : des millions de foyers sans électricité en pleine canicule, la colère monte",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4738,7 +4658,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1784268420000",
+      "id": "lenergeek-rss-11-1784268420000",
       "title": "Énergie : le PDG d’Eni alerte sur une triple crise sans précédent depuis 1980",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4762,7 +4682,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1784267442000",
+      "id": "lenergeek-rss-12-1784267442000",
       "title": "Panneaux solaires : le démarchage téléphonique est déjà interdit, mais avec la fin de Bloctel le 11 août 2026, voici ce qui change vraiment pour vous",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4787,7 +4707,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1784265622000",
+      "id": "lenergeek-rss-13-1784265622000",
       "title": "Ni luxe ni caprice : la clim sauve des vies pendant les canicules, et même les Verts finissent par l’admettre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4812,7 +4732,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1784261640000",
+      "id": "lenergeek-rss-14-1784261640000",
       "title": "Tarif réglementé de l’électricité : une hausse de 2,5% confirmée",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4834,6 +4754,106 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "Le gouvernement valide une hausse de 2,5% des tarifs réglementés de l'électricité dès le 1er août 2026, sur proposition de la CRE. Cette augmentation, portée principalement par l'évolution du TURPE, s'inscrit dans la réorganisation structurelle du marché français post-Arenh et af…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1784300310000",
+      "title": "Une nouvelle data visualisation pour les QPV parisiens",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/une-nouvelle-data-visualisation-pour-les-qpv-parisiens/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "L'Atelier parisien d'urbanisme lance une version interactive de l'Observatoire des quartiers de la politique de la ville à Paris. Cet outil rassemble 70 indicateurs et propose des données actualisées sur les quartiers prioritaires, les quartiers populaires et les secteurs de veil…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1784298932000",
+      "title": "Un transformateur électrique de 130 tonnes livré à Paris par la Seine",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/un-transformateur-electrique-de-130-tonnes-livre-a-paris-par-la-seine/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau"
+      ],
+      "summary": "L'opérateur Enedis a emprunté la voie d'eau afin d'acheminer au cœur de la Capitale un transformateur électrique nouvelle génération qui a rejoint le poste-source Pyramides de la rue saint-Honoré. L'opérateur Enedis a emprunté la voie d'eau afin d'acheminer au cœur de la Capitale…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-2-1784296871000",
+      "title": "Exclusif – Apex, ABF, ZAC : F. Vauglin détaille sa feuille de route pour l’urbanisme parisien",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/exclusif-apex-abf-zax-f-vauglin-detaille-sa-feuille-de-route-pour-lurbanisme-parisien/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Bâtiment"
+      ],
+      "summary": "Adjoint au maire de Paris chargé de l'urbanisme et de l'architecture, François Vauglin lance la troisième édition d'Apex, le label des « architectures parisiennes exemplaires ». Il détaille son « droit au beau », le dialogue avec les architectes des Bâtiments de France (ABF), rev…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-3-1784278633000",
+      "title": "Les marchés du Grand Paris – Guyancourt : le futur pôle d’échanges de la ligne 18 entre dans sa phase opérationnelle",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/les-marches-du-grand-paris-guyancourt-le-futur-pole-dechanges-de-la-ligne-18-entre-dans-sa-phase-operationnelle/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Économie du bâtiment"
+      ],
+      "summary": "Saint-Quentin-en-Yvelines vient de lancer le marché de maîtrise d'œuvre pour l'aménagement des espaces publics du pôle d'échanges multimodal de la gare de Guyancourt, future station de la ligne 18 du Grand Paris express. Saint-Quentin-en-Yvelines vient de lancer le marché de maît…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6767,84 +6787,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-7-1784221070000",
-      "title": "Les résultats des principaux producteurs d’énergie renouvelable en 2025",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/les-resultats-des-principaux-producteurs-denergie-renouvelable-en-2025-428712/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Confort d’été",
-        "Énergie"
-      ],
-      "summary": "Exclusif – GreenUnivers publie l’édition 2025 de sa synthèse des résultats financiers annuels des principaux producteurs d’énergies renouvelables – principalement de l’électricité -, français ou actifs en France. Les données ont été collectées L’article Les résultats des principa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-8-1784216760000",
-      "title": "Lauréat du dernier AO solaire sur bâtiment, Diméo Énergie ouvre son capital",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/laureat-du-dernier-ao-solaire-batiment-dimeo-energie-ouvre-son-capital-429738/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Exclusif – Le développeur photovoltaïque Diméo Energie, lauréat de la dernière session de l’appel d’offres (AO) solaire sur bâtiment, cherche des investisseurs. Selon nos informations, le dossier circule L’article Lauréat du dernier AO solaire sur bâtiment, Diméo Énergie ouvre so…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-9-1784201438000",
-      "title": "La modulation des EnR en hausse au premier semestre, celle du nucléaire baisse [RTE]",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/la-modulation-des-enr-en-hausse-au-premier-semestre-celle-du-nucleaire-baisse-rte-429704/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "« Une chose qui a changé est la flexibilité des EnR », affirme Thomas Veyrenc, directeur général chargé de l’économie, de la stratégie et des finances de RTE. Le gestionnaire de réseau a L’article La modulation des EnR en hausse au premier semestre, celle du nucléaire baisse [RTE…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "pv-magazine-france-rss-4-1784206800000",
       "title": "Ouverture du guichet pour le nouveau dispositif de leasing social pour les pompes à chaleur",
       "source": "PV Magazine France",
@@ -6970,7 +6912,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-3-1784216386000",
+      "id": "revolution-energetique-rss-4-1784216386000",
       "title": "SNBC3 : la stratégie nationale bas carbone se dévoile enfin avec des objectifs très ambitieux",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -6996,7 +6938,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-4-1784187163000",
+      "id": "revolution-energetique-rss-5-1784187163000",
       "title": "L’UE veut plus que jamais accélérer son électrification pour retrouver son indépendance",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -7021,7 +6963,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1784202361000",
+      "id": "lenergeek-rss-15-1784202361000",
       "title": "Nucléaire : trois réacteurs français immobilisés par les contraintes de refroidissement",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7047,7 +6989,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1784196141000",
+      "id": "lenergeek-rss-16-1784196141000",
       "title": "Combien coûtent 1000 L de fioul ce jeudi 16 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7072,7 +7014,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1784182801000",
+      "id": "lenergeek-rss-17-1784182801000",
       "title": "40 moutons lâchés sous des panneaux solaires : les éleveurs ont découvert un effet que personne n’avait prévu sur la production d’énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7098,7 +7040,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1784182800000",
+      "id": "lenergeek-rss-18-1784182800000",
       "title": "L’UE renonce finalement aux batteries remplaçables dans les montres connectées",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7123,7 +7065,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1784181087000",
+      "id": "lenergeek-rss-19-1784181087000",
       "title": "Carburant renouvelable Nexa 95 : l’infrastructure technique d’une énergie décarbonée traçable",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7149,7 +7091,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1784181001000",
+      "id": "lenergeek-rss-20-1784181001000",
       "title": "Aide carburant de 100€ : le gouvernement « assume » de ne pas la verser automatiquement, les automobilistes doivent la réclamer eux-mêmes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7174,7 +7116,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1784179201000",
+      "id": "lenergeek-rss-21-1784179201000",
       "title": "Les chauffagistes sont unanimes : l’eau qui coule de votre climatiseur a une seconde vie que la plupart des gens ignorent complètement",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7195,6 +7137,133 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Jusqu'à 20 litres par jour finissent à l'égout sans que personne y pense. Pourtant cette eau presque pure cache des pièges insoupçonnés. Voici ce qu'il faut absolument savoir avant de la réutiliser chez vous. L’article Les chauffagistes sont unanimes : l’eau qui coule de votre cl…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-4-1784226305000",
+      "title": "L’essentiel de la semaine du 13 juillet 2026 en quelques clics",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-13-juillet-2026-en-quelques-clics/",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. Durant celle du 13 juillet, le Centre aquatique olympique se préparait à accueillir les championnats d’Europe de natation. Retrouvez chaque vendredi dans Le journal du Grand…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-5-1784226200000",
+      "title": "Paris La Défense signe pour la réalisation de 64 000 m² de programmes mixtes",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/paris-la-defense-signe-pour-la-realisation-de-64-000-m%c2%b2-de-programmes-mixtes/",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Biosourcé"
+      ],
+      "summary": "Paris La Défense vient d’annoncer la signature de cinq actes concernant la réalisation de 64 000 m² de programmes mixtes et 900 logements à venir d’ici 2032 dans les quartiers des Groues et de la ZAC Seine-Arche à Nanterre (Hauts-de-Seine). Répartis sur plusieurs opérations, ces …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-6-1784202658000",
+      "title": "ESS : un poids économique discret mais structurant dans le Grand Paris",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/ess-un-poids-economique-discret-mais-structurant-dans-le-grand-paris/",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "L’Atelier parisien d’urbanisme (Apur) et la Chambre régionale de l’économie sociale et solidaire d'Île-de-France viennent de publier une étude faisant l'état des lieux de l’économie sociale et solidaire (ESS) dans la métropole du Grand Paris. Si ce secteur représente une part enc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-7-1784202286000",
+      "title": "À Paris, les cadres de la tech et de la finance redessinent le marché de la location de luxe",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/a-paris-les-cadres-de-la-tech-et-de-la-finance-redessinent-le-marche-de-la-location-de-luxe/",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Porté par une demande étrangère record et l'essor de la mobilité professionnelle, le marché locatif parisien de prestige se transforme en profondeur, déplaçant ses frontières des quartiers historiques vers de nouveaux bastions de l'est parisien. Porté par une demande étrangère re…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-8-1784200137000",
+      "title": "Le CAO métropole du Grand Paris repasse en mode compétition",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/le-cao-metropole-du-grand-paris-repasse-en-mode-competition/",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation"
+      ],
+      "summary": "Les travaux vont bon train au Centre aquatique olympique métropole du Grand Paris, sur la Plaine Saulnier, pour préparer l'accueil des championnats d'Europe de natation, qui se dérouleront du 31 juillet au 16 août 2026. Les travaux vont bon train au Centre aquatique olympique mét…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7437,52 +7506,6 @@ window.BATIVEILLE_DATA = {
         "Transition"
       ],
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-349-1784107847000",
-      "title": "economies denergie vrai du faux avoir bons reflexes",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/economies-denergie-vrai-du-faux-avoir-bons-reflexes",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-369-1784129974000",
-      "title": "ministere partenaire du film danimation fille nuages",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/ministere-partenaire-du-film-danimation-fille-nuages",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -8954,7 +8977,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-5-1784130135000",
+      "id": "revolution-energetique-rss-6-1784130135000",
       "title": "Cette entreprise mise sur la « réflectricité » pour augmenter la production d’énergie solaire",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -8979,7 +9002,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-6-1784113247000",
+      "id": "revolution-energetique-rss-7-1784113247000",
       "title": "Toiture photovoltaïque : transformer son toit en actif patrimonial",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -9004,7 +9027,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1784134800000",
+      "id": "lenergeek-rss-22-1784134800000",
       "title": "Pendant la canicule, les riches s’offrent la fraîcheur des pôles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -9030,7 +9053,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1784126900000",
+      "id": "lenergeek-rss-23-1784126900000",
       "title": "Climat : vers la fin des énergies fossiles d’ici quelques années ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -9056,82 +9079,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1784125600000",
-      "title": "Cuba : troisième effondrement du réseau électrique en moins de 10 jours",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/07/15/cuba-troisieme-reseau-electrique/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/07/shutterstock_2327723479-1.jpg",
-      "date": "2026-07-15",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Le 14 juillet 2026, Cuba a subi sa troisième coupure électrique totale en moins de dix jours, privant 9,6 millions d'habitants de courant pendant 20 heures. Une oscillation de tension provoquée par l'arrêt brutal d'une unité thermoélectrique a déclenché l'effondrement du réseau, …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1784125311000",
-      "title": "Carburant : pourquoi les prix ont-ils de nouveau augmenté ?",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/07/15/carburant-prix-ont-nouveau-augmente/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/07/shutterstock_1769011256.jpg",
-      "date": "2026-07-15",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Le gazole a repassé la barre des 2 euros le litre ce 15 juillet 2026 en France. Deux chocs géopolitiques expliquent cette flambée : l'interdiction russe d'exporter du gazole raffiné suite aux frappes ukrainiennes sur ses raffineries, et la reprise des tensions entre États-Unis et…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1784125162000",
-      "title": "Carburant : l’aide gouvernementale jugée « échec total » par un rapport parlementaire",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/07/15/carburant-aide-gouvernement-echec-total/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/07/shutterstock_2215042305.jpg",
-      "date": "2026-07-15",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Un rapport parlementaire publié ce 15 juillet 2026 qualifie d'« échec total » l'aide carburant de 100 euros du gouvernement : seuls 24% des éligibles l'ont perçue, pour un coût de 70 à 80 millions d'euros. Alors que le gazole franchit à nouveau les 2 euros le litre sous l'effet d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "fibois-france-rss-0-1784112260000",
       "title": "Fondation France Bois Forêt pour notre Patrimoine",
       "source": "Fibois France",
@@ -9153,6 +9100,32 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Depuis l’incendie de la Cathédrale Notre-Dame de Paris en 2019, la fondation France Bois Forêt pour notre Patrimoine soutient les volontaires qui sauvent les trésors de nos régions. L’article Fondation France Bois Forêt pour notre Patrimoine est apparu en premier sur Fibois Franc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-9-1784123325000",
+      "title": "Saint-Agne immobilier inaugure une nouvelle résidence à Torcy",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/saint-agne-immobilier-inaugure-une-nouvelle-residence-a-torcy/",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Le groupe Saint-Agne immobilier a inauguré, jeudi 9 juillet, sa nouvelle résidence \"Reflet Marne\" à Torcy, en Seine-et-Marne. Situé dans la ZAC des Coteaux de la Marne, ce programme de 66 logements en structure mixte bois-béton marque la septième livraison du promoteur en Île-de-…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9427,7 +9400,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-7-1784040800000",
+      "id": "revolution-energetique-rss-8-1784040800000",
       "title": "Hydrogène vert : La gigafactory McPhy renaît déjà de ses cendres",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -9889,7 +9862,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-8-1783956758000",
+      "id": "revolution-energetique-rss-9-1783956758000",
       "title": "Canicule : la centrale de Bugey obtient une dérogation environnementale pour continuer de fonctionner",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -9965,7 +9938,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-9-1783870646000",
+      "id": "revolution-energetique-rss-10-1783870646000",
       "title": "La CRE cherche la bonne formule pour maintenir le réseau gaz jusqu’en 2050",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -9991,7 +9964,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-10-1783841437000",
+      "id": "revolution-energetique-rss-11-1783841437000",
       "title": "Une nouvelle mise à jour du DPE va favoriser l’électricité",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10117,7 +10090,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-11-1783783714000",
+      "id": "revolution-energetique-rss-12-1783783714000",
       "title": "EPR2 : les désaccords persistent entre la France et la Commission Européenne",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10143,7 +10116,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-12-1783757089000",
+      "id": "revolution-energetique-rss-13-1783757089000",
       "title": "La deuxième plus grande centrale solaire de France vient d’être inaugurée",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10166,29 +10139,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Le développeur Photosol a inauguré la deuxième centrale solaire la plus puissante de France à Creil, dans l’Oise, sur l’ancienne base militaire BA110. Elle affiche […] L’article La deuxième plus grande centrale solaire de France vient d’être inaugurée est apparu en premier sur Ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-370-1783695699000",
-      "title": "7 idees recues vagues chaleur",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/7-idees-recues-vagues-chaleur",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-13-1783700410000",
@@ -11148,7 +11098,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-13-1783697721000",
+      "id": "revolution-energetique-rss-14-1783697721000",
       "title": "La France bat (encore) son record d’exportation d’électricité sur un semestre",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11173,7 +11123,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-14-1783661875000",
+      "id": "revolution-energetique-rss-15-1783661875000",
       "title": "Les ombrières photovoltaïques sur parkings ne sont pas aussi nombreuses que prévu",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12077,7 +12027,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-15-1783574660000",
+      "id": "revolution-energetique-rss-16-1783574660000",
       "title": "Déchets radioactifs : ces fûts immergés ne freinent pas la vie sous-marine",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12346,29 +12296,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
-      "title": "sobriete energetique plan reduire notre consommation denergie",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/sobriete-energetique-plan-reduire-notre-consommation-denergie",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -13129,7 +13056,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-16-1783489772000",
+      "id": "revolution-energetique-rss-17-1783489772000",
       "title": "Produire de l’hydrogène avec du nucléaire : comment l’Inde y est arrivé",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13203,29 +13130,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Entre 1971 et 1982, plus de 200 000 fûts de déchets radioactifs ont été immergés dans l'Atlantique Nord-Est, jusqu'à plus de 4 700 mètres de profondeur. Les campagnes scientifiques NODSSUM 2025 et 2026, menées par le CNRS avec la Flotte océanographique française, livrent les prem…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
-      "title": "securite sites industriels risques mise place vigilance renforcee",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/securite-sites-industriels-risques-mise-place-vigilance-renforcee",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-25-1783435995000",
@@ -13726,7 +13630,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-17-1783403860000",
+      "id": "revolution-energetique-rss-18-1783403860000",
       "title": "Hydroélectricité : EDF compte sur la Dordogne pour augmenter ses capacités de stockage",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14258,7 +14162,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-18-1783335138000",
+      "id": "revolution-energetique-rss-19-1783335138000",
       "title": "Ce fournisseur veut installer une batterie chez vous pour trader l’électricité sur les marchés",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14307,7 +14211,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-19-1783238390000",
+      "id": "revolution-energetique-rss-20-1783238390000",
       "title": "Éoliennes en mer : elles affectent la biodiversité selon cette étude, mais à quel point ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14333,7 +14237,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-20-1783143165000",
+      "id": "revolution-energetique-rss-21-1783143165000",
       "title": "Neuf heures d’autonomie pour cette méga batterie au CO2 qui alimentera un datacenter",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14377,29 +14281,6 @@ window.BATIVEILLE_DATA = {
         "Entreprises"
       ],
       "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-37-1783084774000",
-      "title": "secheresse france",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -14767,7 +14648,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-21-1783086933000",
+      "id": "revolution-energetique-rss-22-1783086933000",
       "title": "Ce port européen sera-t-il le premier à recevoir un mini réacteur nucléaire SMR ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14793,7 +14674,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-22-1783065661000",
+      "id": "revolution-energetique-rss-23-1783065661000",
       "title": "Ces 100 territoires où l’Etat veut tester l’hyper-électrification",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14838,29 +14719,6 @@ window.BATIVEILLE_DATA = {
         "Habitat privé"
       ],
       "summary": "Publication détectée dans le sitemap de ANAH. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-316-1782983737000",
-      "title": "vacances sereines applis lete",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/vacances-sereines-applis-lete",
-      "image": null,
-      "date": "2026-07-02",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -15256,7 +15114,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-23-1783008283000",
+      "id": "revolution-energetique-rss-24-1783008283000",
       "title": "Chaos à Lidl pour des climatiseurs : les premières émeutes liées au réchauffement climatique en France ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15281,7 +15139,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-24-1782979520000",
+      "id": "revolution-energetique-rss-25-1782979520000",
       "title": "Pourquoi la France fait tourner ses centrales à gaz en plein été ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15742,7 +15600,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-25-1782911709000",
+      "id": "revolution-energetique-rss-26-1782911709000",
       "title": "Cette mini éolienne à axe vertical française veut décarboner l’agriculture et l’industrie",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15768,7 +15626,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-26-1782883037000",
+      "id": "revolution-energetique-rss-27-1782883037000",
       "title": "Ce dirigeable veut remplacer les hélicoptères pour inspecter les réseaux électriques",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
