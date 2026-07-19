@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-19T11:13:30.844Z",
+  "generatedAt": "2026-07-19T16:02:30.557Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2185,7 +2185,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-0-1784444786000",
+      "id": "revolution-energetique-rss-0-1784474783000",
+      "title": "Le prix de l’électricité va bien augmenter au 1er août 2026",
+      "source": "Révolution Énergétique",
+      "sourceId": "revolution-energetique",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.revolution-energetique.com/actus/le-prix-de-lelectricite-va-bien-augmenter-au-1er-aout-2026/",
+      "image": null,
+      "date": "2026-07-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "ENR",
+        "Stockage",
+        "Réseaux",
+        "Réemploi"
+      ],
+      "summary": "En pleine crise des énergies fossiles, l’électricité joue les rôles de valeur refuge. Mais malheureusement, même la fée électrique voit son tarif augmenter à partir […] L’article Le prix de l’électricité va bien augmenter au 1er août 2026 est apparu en premier sur Révolution Éner…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "revolution-energetique-rss-1-1784444786000",
       "title": "Cette carte interactive de la France dévoile les régions qui ne peuvent plus accueillir d’ENR",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -2337,7 +2363,56 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "lenergeek-rss-0-1784440210000",
+      "id": "lenergeek-rss-0-1784467500000",
+      "title": "Satellites : pourquoi la peinture ultra-noire ne suffit pas contre la pollution radio",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/07/19/satellites-peinture-noire-contre-pollution/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/07/pollution-satellites.jpg",
+      "date": "2026-07-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "L'Université de Surrey a développé Vantablack 310, un revêtement ultra-noir qui réduit à 2% la réflexion lumineuse des satellites. Mais cette innovation optique ne résout pas la pollution radioélectrique : les 14 000 satellites en orbite basse émettent des ondes radio qui perturb…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1784455355000",
+      "title": "Combien coûtent 1000 L de fioul ce dimanche 19 juillet 2026 ?",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/07/19/prix-fioul-domestique-combien-coutent-1000-fioul-dimanche-19-juillet-2026/",
+      "image": null,
+      "date": "2026-07-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le prix du fioul domestique s'établit à 1,584 euro par litre ce dimanche 19 juillet 2026, soit 1584 euros pour 1000 litres de fioul ordinaire. Les tarifs varient significativement selon les régions et dépendent des cours du pétrole, de la géographie et des stratégies d'achat. L’a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1784440210000",
       "title": "Pourquoi les logements neufs sont plus étouffants que les anciens : les experts pointent une erreur que personne ne corrige",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2363,7 +2438,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1784438400000",
+      "id": "lenergeek-rss-3-1784438400000",
       "title": "L’EPR de Flamanville s’arrête encore après à peine quelques mois : ce serait des contrôles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2387,7 +2462,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1784459597000",
+      "id": "le-commerce-du-bois-sitemap-0-1784476937000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2413,7 +2488,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1784459597000",
+      "id": "le-commerce-du-bois-sitemap-1-1784476937000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2439,7 +2514,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1784459597000",
+      "id": "le-commerce-du-bois-sitemap-2-1784476937000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2618,7 +2693,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-1-1784387274000",
+      "id": "revolution-energetique-rss-2-1784387274000",
       "title": "Canicule : le DPE ne sert à rien pour le confort d’été, ou presque",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -2644,7 +2719,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-2-1784352749000",
+      "id": "revolution-energetique-rss-3-1784352749000",
       "title": "En juin, un quart de l’électricité européenne provenait du soleil",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -2772,7 +2847,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "lenergeek-rss-2-1784383800000",
+      "id": "lenergeek-rss-4-1784383800000",
       "title": "Éclipse du 12 août 2026 : comment la France gérera la chute brutale de sa production solaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2797,7 +2872,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1784368959000",
+      "id": "lenergeek-rss-5-1784368959000",
       "title": "Combien coûtent 1000 L de fioul ce samedi 18 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2822,7 +2897,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1784368926000",
+      "id": "lenergeek-rss-6-1784368926000",
       "title": "Combien coûtent 1000 L de fioul ce samedi 18 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2847,7 +2922,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1784364180000",
+      "id": "lenergeek-rss-7-1784364180000",
       "title": "Recharge électrique ultra-rapide : 50 000 véhicules supplémentaires, quel impact énergétique pour le réseau français ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2872,7 +2947,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1784355655000",
+      "id": "lenergeek-rss-8-1784355655000",
       "title": "Taïwan n’a aucun satellite et dépend de câbles sous-marins pour communiquer : le Parlement ouvre la porte à Starlink",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2896,7 +2971,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1784353812000",
+      "id": "lenergeek-rss-9-1784353812000",
       "title": "Mauvaise nouvelle pour les utilisateurs Microsoft : 50 logiciels disparaissent en 2026, et certains sont probablement installés sur votre PC en ce moment",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2920,7 +2995,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1784352000000",
+      "id": "lenergeek-rss-10-1784352000000",
       "title": "Les électriciens et gaziers menacent de couper le courant : leur « tarif agent » sur l’énergie pourrait disparaître et la colère monte dans les rangs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4813,7 +4888,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-3-1784303878000",
+      "id": "revolution-energetique-rss-4-1784303878000",
       "title": "Cette startup inconnue veut imprimer des réacteurs nucléaires en 3D",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -4839,7 +4914,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-4-1784273928000",
+      "id": "revolution-energetique-rss-5-1784273928000",
       "title": "AO10 : La Commission Européenne valide le programme de financement français",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -4993,7 +5068,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1784293931000",
+      "id": "lenergeek-rss-11-1784293931000",
       "title": "Orages du 16-17 juillet : 53.000 foyers privés d’électricité, la résilience des réseaux en question",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5019,7 +5094,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1784288467000",
+      "id": "lenergeek-rss-12-1784288467000",
       "title": "Énergie : la cybersécurité, pilier de la continuité énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5044,7 +5119,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1784282561000",
+      "id": "lenergeek-rss-13-1784282561000",
       "title": "Combien coûtent 1000 L de fioul ce vendredi 17 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5069,7 +5144,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1784269214000",
+      "id": "lenergeek-rss-14-1784269214000",
       "title": "Cette nuit où la Tunisie entière a plongé dans le noir : des millions de foyers sans électricité en pleine canicule, la colère monte",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5094,7 +5169,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1784268420000",
+      "id": "lenergeek-rss-15-1784268420000",
       "title": "Énergie : le PDG d’Eni alerte sur une triple crise sans précédent depuis 1980",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5118,7 +5193,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1784267442000",
+      "id": "lenergeek-rss-16-1784267442000",
       "title": "Panneaux solaires : le démarchage téléphonique est déjà interdit, mais avec la fin de Bloctel le 11 août 2026, voici ce qui change vraiment pour vous",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5143,7 +5218,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1784265622000",
+      "id": "lenergeek-rss-17-1784265622000",
       "title": "Ni luxe ni caprice : la clim sauve des vies pendant les canicules, et même les Verts finissent par l’admettre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5168,7 +5243,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1784261640000",
+      "id": "lenergeek-rss-18-1784261640000",
       "title": "Tarif réglementé de l’électricité : une hausse de 2,5% confirmée",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7426,7 +7501,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-5-1784216386000",
+      "id": "revolution-energetique-rss-6-1784216386000",
       "title": "SNBC3 : la stratégie nationale bas carbone se dévoile enfin avec des objectifs très ambitieux",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -7452,7 +7527,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-6-1784187163000",
+      "id": "revolution-energetique-rss-7-1784187163000",
       "title": "L’UE veut plus que jamais accélérer son électrification pour retrouver son indépendance",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -7477,7 +7552,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1784202361000",
+      "id": "lenergeek-rss-19-1784202361000",
       "title": "Nucléaire : trois réacteurs français immobilisés par les contraintes de refroidissement",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7503,7 +7578,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1784196141000",
+      "id": "lenergeek-rss-20-1784196141000",
       "title": "Combien coûtent 1000 L de fioul ce jeudi 16 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7528,7 +7603,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1784182801000",
+      "id": "lenergeek-rss-21-1784182801000",
       "title": "40 moutons lâchés sous des panneaux solaires : les éleveurs ont découvert un effet que personne n’avait prévu sur la production d’énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7554,7 +7629,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1784182800000",
+      "id": "lenergeek-rss-22-1784182800000",
       "title": "L’UE renonce finalement aux batteries remplaçables dans les montres connectées",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7579,7 +7654,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1784181087000",
+      "id": "lenergeek-rss-23-1784181087000",
       "title": "Carburant renouvelable Nexa 95 : l’infrastructure technique d’une énergie décarbonée traçable",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7601,56 +7676,6 @@ window.BATIVEILLE_DATA = {
         "Carbone"
       ],
       "summary": "Toyota, BMW, Bosch et Repsol testent depuis juillet 2024 l'essence 100% renouvelable Nexa 95 sur 20 véhicules en Espagne. Ce projet pilote de six mois repose sur une infrastructure technique inédite : un carburant compatible avec les moteurs existants, certifié par le système Dig…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1784181001000",
-      "title": "Aide carburant de 100€ : le gouvernement « assume » de ne pas la verser automatiquement, les automobilistes doivent la réclamer eux-mêmes",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/07/16/aide-carburant-de-100e-le-gouvernement-assume-de-ne-pas-la-verser-automatiquement-les-automobilistes-doivent-la-reclamer-eux-memes/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/07/aide-carburant-seulement-40-des-grands-rouleurs-eligibles-lont-demandee.webp",
-      "date": "2026-07-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "100 euros promis, moins de 40 % des « gros rouleurs » les ont touchés. Pourquoi un tel gâchis ? Entre démarche volontaire boudée et comparaison cinglante avec l'Espagne, le dispositif fait grincer des dents à l'Assemblée. L’article Aide carburant de 100€ : le gouvernement « assum…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1784179201000",
-      "title": "Les chauffagistes sont unanimes : l’eau qui coule de votre climatiseur a une seconde vie que la plupart des gens ignorent complètement",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/07/16/les-chauffagistes-sont-unanimes-leau-qui-coule-de-votre-climatiseur-a-une-seconde-vie-que-la-plupart-des-gens-ignorent-completement/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/07/leau-qui-goutte-de-votre-climatiseur-ne-doit-surtout-pas-finir-a-legout.webp",
-      "date": "2026-07-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Jusqu'à 20 litres par jour finissent à l'égout sans que personne y pense. Pourtant cette eau presque pure cache des pièges insoupçonnés. Voici ce qu'il faut absolument savoir avant de la réutiliser chez vous. L’article Les chauffagistes sont unanimes : l’eau qui coule de votre cl…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8430,6 +8455,32 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-11-1784156700000",
+      "title": "Comment rénover et réparer le bâti ancien et contemporain",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/renover-reparer-bati-ancien-contemporain-49032",
+      "image": "https://img.batiweb.com/repo-images/publi/49032/weber-07-17-une.jpg",
+      "date": "2026-07-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réemploi",
+        "Rénovation",
+        "Bâtiment"
+      ],
+      "summary": "Depuis de nombreuses années, Saint-Gobain Weber s’engage en faveur d’une construction et d’une rénovation plus durables. Préservation du bâti ancien, amélioration de la performance énergétique et réduction des émissions de CO₂ : les enjeux du secteur nécessitent des solutions con…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-12-1784156700000",
       "title": "Délai Premium JELD-WEN : vos portes et huisseries sans attendre",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8453,7 +8504,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-12-1784156700000",
+      "id": "batiweb-rss-13-1784156700000",
       "title": "Innovation Awards : record battu pour Paris Builders Show",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8472,32 +8523,6 @@ window.BATIVEILLE_DATA = {
         "Marché"
       ],
       "summary": "En battant le record du nombre de participants, les Innovation Awards confirment l’élan d’innovation porté par les exposants de Paris Builders Show 2026. En battant le record du nombre de participants, les Innovation Awards confirment l’élan d’innovation porté par les exposants d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-13-1784156700000",
-      "title": "Comment rénover et réparer le bâti ancien et contemporain",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/renover-reparer-bati-ancien-contemporain-49032",
-      "image": "https://img.batiweb.com/repo-images/publi/49032/weber-07-17-une.jpg",
-      "date": "2026-07-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réemploi",
-        "Rénovation",
-        "Bâtiment"
-      ],
-      "summary": "Depuis de nombreuses années, Saint-Gobain Weber s’engage en faveur d’une construction et d’une rénovation plus durables. Préservation du bâti ancien, amélioration de la performance énergétique et réduction des émissions de CO₂ : les enjeux du secteur nécessitent des solutions con…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9537,7 +9562,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-7-1784130135000",
+      "id": "revolution-energetique-rss-8-1784130135000",
       "title": "Cette entreprise mise sur la « réflectricité » pour augmenter la production d’énergie solaire",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -9562,7 +9587,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-8-1784113247000",
+      "id": "revolution-energetique-rss-9-1784113247000",
       "title": "Toiture photovoltaïque : transformer son toit en actif patrimonial",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -9882,7 +9907,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-9-1784040800000",
+      "id": "revolution-energetique-rss-10-1784040800000",
       "title": "Hydrogène vert : La gigafactory McPhy renaît déjà de ses cendres",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10320,7 +10345,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-10-1783956758000",
+      "id": "revolution-energetique-rss-11-1783956758000",
       "title": "Canicule : la centrale de Bugey obtient une dérogation environnementale pour continuer de fonctionner",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10396,7 +10421,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-11-1783870646000",
+      "id": "revolution-energetique-rss-12-1783870646000",
       "title": "La CRE cherche la bonne formule pour maintenir le réseau gaz jusqu’en 2050",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10422,7 +10447,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-12-1783841437000",
+      "id": "revolution-energetique-rss-13-1783841437000",
       "title": "Une nouvelle mise à jour du DPE va favoriser l’électricité",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10548,7 +10573,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-13-1783783714000",
+      "id": "revolution-energetique-rss-14-1783783714000",
       "title": "EPR2 : les désaccords persistent entre la France et la Commission Européenne",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10574,7 +10599,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-14-1783757089000",
+      "id": "revolution-energetique-rss-15-1783757089000",
       "title": "La deuxième plus grande centrale solaire de France vient d’être inaugurée",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11553,7 +11578,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-15-1783697721000",
+      "id": "revolution-energetique-rss-16-1783697721000",
       "title": "La France bat (encore) son record d’exportation d’électricité sur un semestre",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11578,7 +11603,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-16-1783661875000",
+      "id": "revolution-energetique-rss-17-1783661875000",
       "title": "Les ombrières photovoltaïques sur parkings ne sont pas aussi nombreuses que prévu",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12482,7 +12507,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-17-1783574660000",
+      "id": "revolution-energetique-rss-18-1783574660000",
       "title": "Déchets radioactifs : ces fûts immergés ne freinent pas la vie sous-marine",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13534,7 +13559,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-18-1783489772000",
+      "id": "revolution-energetique-rss-19-1783489772000",
       "title": "Produire de l’hydrogène avec du nucléaire : comment l’Inde y est arrivé",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14131,7 +14156,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-19-1783403860000",
+      "id": "revolution-energetique-rss-20-1783403860000",
       "title": "Hydroélectricité : EDF compte sur la Dordogne pour augmenter ses capacités de stockage",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14663,7 +14688,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-20-1783335138000",
+      "id": "revolution-energetique-rss-21-1783335138000",
       "title": "Ce fournisseur veut installer une batterie chez vous pour trader l’électricité sur les marchés",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14712,7 +14737,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-21-1783238390000",
+      "id": "revolution-energetique-rss-22-1783238390000",
       "title": "Éoliennes en mer : elles affectent la biodiversité selon cette étude, mais à quel point ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14738,7 +14763,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-22-1783143165000",
+      "id": "revolution-energetique-rss-23-1783143165000",
       "title": "Neuf heures d’autonomie pour cette méga batterie au CO2 qui alimentera un datacenter",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15172,7 +15197,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-23-1783086933000",
+      "id": "revolution-energetique-rss-24-1783086933000",
       "title": "Ce port européen sera-t-il le premier à recevoir un mini réacteur nucléaire SMR ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15198,7 +15223,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-24-1783065661000",
+      "id": "revolution-energetique-rss-25-1783065661000",
       "title": "Ces 100 territoires où l’Etat veut tester l’hyper-électrification",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15661,7 +15686,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-25-1783008283000",
+      "id": "revolution-energetique-rss-26-1783008283000",
       "title": "Chaos à Lidl pour des climatiseurs : les premières émeutes liées au réchauffement climatique en France ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15686,7 +15711,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-26-1782979520000",
+      "id": "revolution-energetique-rss-27-1782979520000",
       "title": "Pourquoi la France fait tourner ses centrales à gaz en plein été ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16147,7 +16172,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-27-1782911709000",
+      "id": "revolution-energetique-rss-28-1782911709000",
       "title": "Cette mini éolienne à axe vertical française veut décarboner l’agriculture et l’industrie",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16173,7 +16198,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-28-1782883037000",
+      "id": "revolution-energetique-rss-29-1782883037000",
       "title": "Ce dirigeable veut remplacer les hélicoptères pour inspecter les réseaux électriques",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
