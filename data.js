@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-19T07:31:08.818Z",
+  "generatedAt": "2026-07-19T11:13:30.844Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2387,7 +2387,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1784446253000",
+      "id": "le-commerce-du-bois-sitemap-0-1784459597000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2413,7 +2413,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1784446253000",
+      "id": "le-commerce-du-bois-sitemap-1-1784459597000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2439,7 +2439,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1784446253000",
+      "id": "le-commerce-du-bois-sitemap-2-1784459597000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -8430,32 +8430,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-11-1784156700000",
-      "title": "Comment rénover et réparer le bâti ancien et contemporain",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/renover-reparer-bati-ancien-contemporain-49032",
-      "image": "https://img.batiweb.com/repo-images/publi/49032/weber-07-17-une.jpg",
-      "date": "2026-07-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réemploi",
-        "Rénovation",
-        "Bâtiment"
-      ],
-      "summary": "Depuis de nombreuses années, Saint-Gobain Weber s’engage en faveur d’une construction et d’une rénovation plus durables. Préservation du bâti ancien, amélioration de la performance énergétique et réduction des émissions de CO₂ : les enjeux du secteur nécessitent des solutions con…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-12-1784156700000",
       "title": "Délai Premium JELD-WEN : vos portes et huisseries sans attendre",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8479,7 +8453,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-13-1784156700000",
+      "id": "batiweb-rss-12-1784156700000",
       "title": "Innovation Awards : record battu pour Paris Builders Show",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8498,6 +8472,32 @@ window.BATIVEILLE_DATA = {
         "Marché"
       ],
       "summary": "En battant le record du nombre de participants, les Innovation Awards confirment l’élan d’innovation porté par les exposants de Paris Builders Show 2026. En battant le record du nombre de participants, les Innovation Awards confirment l’élan d’innovation porté par les exposants d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-13-1784156700000",
+      "title": "Comment rénover et réparer le bâti ancien et contemporain",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/renover-reparer-bati-ancien-contemporain-49032",
+      "image": "https://img.batiweb.com/repo-images/publi/49032/weber-07-17-une.jpg",
+      "date": "2026-07-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réemploi",
+        "Rénovation",
+        "Bâtiment"
+      ],
+      "summary": "Depuis de nombreuses années, Saint-Gobain Weber s’engage en faveur d’une construction et d’une rénovation plus durables. Préservation du bâti ancien, amélioration de la performance énergétique et réduction des émissions de CO₂ : les enjeux du secteur nécessitent des solutions con…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
