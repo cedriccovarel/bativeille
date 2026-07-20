@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-20T12:21:10.147Z",
+  "generatedAt": "2026-07-20T16:28:25.682Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,7 +2161,289 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
-      "id": "actu-environnement-rss-0-1784546780000",
+      "id": "capeb-rss-0-1784559761000",
+      "title": "CAPEB, IRIS-ST, CNATP et OPPBTP unissent leurs forces pour faire des TPE la priorité de la prévention dans le bâtiment",
+      "source": "CAPEB",
+      "sourceId": "capeb",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.capeb.fr/actualites/capeb-iris-st-cnatp-et-oppbtp-unissent-leurs-forces-pour-faire-des-tpe-la-priorite-de-la-prevention-dans-le-batiment",
+      "image": "https://www.capeb.fr/www/capeb/media/national/presse-renovation-energetique-1-.png",
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Artisanat",
+        "Rénovation",
+        "Économie du bâtiment",
+        "Bâtiment"
+      ],
+      "summary": "À l’occasion des Rencontres des Métiers du Bâtiment organisées par la CAPEB à Marseille, la CAPEB, la CNATP, l’IRIS-ST et l’OPPBTP ont signé une nouvelle convention de partenariat visant à renforcer l’accompagnement des très petites entreprises du bâtiment et des travaux publics …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-37-1784548775000",
+      "title": "secheresse france",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-369-1784539673000",
+      "title": "semaine europeenne mobilite deposez vos initiatives deplacements plus durables",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/semaine-europeenne-mobilite-deposez-vos-initiatives-deplacements-plus-durables",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "promotelec-sitemap-50-1784554386000",
+      "title": "hausse des prix du carburant quelles solutions electriques pour faire baisser le budget",
+      "source": "Promotelec",
+      "sourceId": "promotelec",
+      "sourceType": "Association / label",
+      "region": "National",
+      "url": "https://www.promotelec.com/actualite/hausse-des-prix-du-carburant-quelles-solutions-electriques-pour-faire-baisser-le-budget/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Électricité",
+        "Logement",
+        "Rénovation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Promotelec. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "batiweb-rss-0-1784556600000",
+      "title": "Additifs pour béton : Bruxelles soupçonne une entente sur les prix entre plusieurs fabricants",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/industrie/cartel-prix-additifs-beton-commission-europeenne-49109",
+      "image": "https://img.batiweb.com/repo-images/article/49109/cemx.jpg",
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "La Commission européenne accuse plusieurs fabricants d'additifs pour les ciments et bétons d'avoir formé un cartel afin d'imposer des prix plus élevés à leurs clients. La Commission européenne accuse plusieurs fabricants d'additifs pour les ciments et bétons d'avoir formé un cart…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-1-1784541000000",
+      "title": "Paris va augmenter la taxe sur les logements vacants en 2027",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/immobilier/paris-hausse-taxe-logements-vacants-2027-49108",
+      "image": "https://img.batiweb.com/repo-images/article/49108/pars.jpg",
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Économie du bâtiment",
+        "Bâtiment"
+      ],
+      "summary": "Le Conseil de Paris a voté l'augmentation de la taxe sur les logements vacants à partir de 2027. La Ville espère remettre 20 000 logements sur le marché locatif pour répondre à la crise logement. Le Conseil de Paris a voté l'augmentation de la taxe sur les logements vacants à par…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-2-1784527500000",
+      "title": "Le groupe HBF honore son trentième anniversaire dans un marché incertain",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/nouveaux-produits-du-btp/hbf-cap-2030-150-millions-chiffre-affaires-marche-incertain-49057",
+      "image": "https://img.batiweb.com/repo-images/article/49057/groupeHBF2030.png",
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Économie du bâtiment"
+      ],
+      "summary": "HBF célèbre ses 30 ans, maintient son objectif de 150 millions d'euros de chiffre d'affaires d'ici 2030 et prépare plusieurs lancements de produits malgré un marché incertain. HBF célèbre ses 30 ans, maintient son objectif de 150 millions d'euros de chiffre d'affaires d'ici 2030 …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-3-1784527200000",
+      "title": "Spie batignolles paysage continue de s'épanouir ?",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/vie-des-societes/spie-batignolles-paysage-recrutement-developpement-49110",
+      "image": "https://img.batiweb.com/repo-images/article/49110/marclavigne.jpg",
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation"
+      ],
+      "summary": "Avec Marc Lavigne en tant que DG, Spie batignolles paysage poursuit son développement par croissance externe et recherche 70 collaborateurs partout en France. Avec Marc Lavigne en tant que DG, Spie batignolles paysage poursuit son développement par croissance externe et recherche…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-0-1784560998000",
+      "title": "Ecomaison a collecté près de 2 millions de tonnes en 2025",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/collecte-2025-ecomaison-rep-pmcb-dea-abj-jouets-48334.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48334_large.jpg",
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "En 2025, Ecomaison a soutenu la collecte de 1,97 million de tonnes (Mt) de déchets issus des quatre filières de responsabilité élargie des producteurs (REP) pour lesquelles il est agréé (les déchets d'éléments d'ameublement (DEA), les produits et ... En 2025, Ecomaison a soutenu …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-1-1784560324000",
+      "title": "La France adopte une troisième stratégie bas-carbone renforcée",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/snbc3-strategie-bas-carbone-budgets-neutralite-48333.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48333_large.jpg",
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Carbone"
+      ],
+      "summary": "Réduire de moitié les émissions d'ici 2030, viser la neutralité carbone en 2050 : la troisième stratégie nationale bas-carbone hausse l'ambition. Elle innove aussi en s'attaquant à deux angles morts, les soutes internationales et les émissions imp... Réduire de moitié les émissio…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-2-1784559540000",
+      "title": "Électrification : la Commission européenne présente son plan pour accélérer",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/plan-electrification-commission-europeenne-2040-48332.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48332_large.jpg",
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "L'UE a présenté son plan d'électrification, dans l'objectif de doubler la part d'électricité dans la consommation finale d'énergie d'ici 2040. Il s'agit de réduire le prix de l'électricité, déployer les usages massivement et flexibiliser le système. L'UE a présenté son plan d'éle…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-3-1784557792000",
+      "title": "Zone de protection spéciale : les objectifs de conservation des sites sont une condition préalable nécessaire",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/cjue-zps-objectifs-conservation-evaluation-habitats-48331.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48331_large.jpg",
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Par un arrêt commun du 16&#8239;juillet&#8239;2026, la Cour de justice de l'Union européenne (CJUE) a apporté des éclaircissements sur l'interprétation de l'article 6 de la directive «&#8239;Habitats&#8239;». Par un arrêt commun du 16&#8239;juillet&#8239;2026, la Cour de justice …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-4-1784546780000",
       "title": "Lire notre dossier d'actu \"REP textile : une filière en pleine refondation\"",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2185,7 +2467,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-1-1784545282000",
+      "id": "actu-environnement-rss-5-1784545282000",
       "title": "Santé environnement : quatre projets sélectionnés pour faciliter les croisements de données",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2208,7 +2490,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-2-1784542648000",
+      "id": "actu-environnement-rss-6-1784542648000",
       "title": "Suspension d'un retrait de permis de construire d'une centrale de stockage d'électricité en zone agricole",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2232,7 +2514,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-3-1784530800000",
+      "id": "actu-environnement-rss-7-1784530800000",
       "title": "Standard Biodiversité et RSE : New Forests et NatureHelm lancent un projet pilote inédit dans 5 pays",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2255,7 +2537,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-4-1784530800000",
+      "id": "actu-environnement-rss-8-1784530800000",
       "title": "Tour de France 2026 : sapeurs-pompiers, buralistes et Alcome contre les feux de forêt",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2303,7 +2585,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "urbalyon-rss-0-1784549985000",
+      "id": "urbalyon-rss-0-1784559668000",
+      "title": "Retour sur l'AG d'installation de l'Agence d'urbanisme de Lyon",
+      "source": "UrbaLyon",
+      "sourceId": "urbalyon",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.urbalyon.org/fr/retour-sur-lag-dinstallation-de-lagence-durbanisme-de-lyon",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Lyon",
+        "Urbanisme",
+        "Habitat",
+        "Foncier"
+      ],
+      "summary": "Retour sur l'AG d'installation de l'Agence d'urbanisme de Lyon webmaster lun 20/07/2026 - 17:01 Retour sur l'AG d'installation de l'Agence d'urbanisme de Lyon webmaster lun 20/07/2026 - 17:01 Retour sur l'AG d'installation de l'Agence d'urbanisme de Lyon",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "urbalyon-rss-1-1784549985000",
       "title": "Les Chiffres clés 2026 de l’observatoire de la mobilité",
       "source": "UrbaLyon",
       "sourceId": "urbalyon",
@@ -2476,7 +2782,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-0-1784542255000",
+      "id": "filiere-3e-rss-0-1784559636000",
+      "title": "FD Éclairage enrichit ses gammes de mini-spots LED avec des modèles en laiton aux finitions Meljac",
+      "source": "Filière 3e",
+      "sourceId": "filiere-3e",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.filiere-3e.fr/2026/07/20/fd-eclairage-enrichit-ses-gammes-de-mini-spots-led-avec-des-modeles-en-laiton-aux-finitions-meljac/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Électricité",
+        "CVC",
+        "Bâtiment intelligent",
+        "Énergie"
+      ],
+      "summary": "FD Éclairage franchit une nouvelle étape dans l’évolution de ses gammes en proposant ses mini-spots encastrés LED des collections Claro et Platine avec des teintes sur laiton réalisées par Meljac, à partir de septembre 2026. Cette offre associe les performances techniques d'un sp…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "filiere-3e-rss-1-1784542255000",
       "title": "ABB va faire l’acquisition d’Advantics en France, renforçant son portefeuille de solutions en courant continu",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -2499,6 +2830,31 @@ window.BATIVEILLE_DATA = {
       "summary": "- Consolide la position d’ABB sur les technologies de référence pour les applications en courant continu L’article ABB va faire l’acquisition d’Advantics en France, renforçant son portefeuille de solutions en courant continu est apparu en premier sur Filière 3e. - Consolide la po…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "techniques-de-lingenieur-actualites-sitemap-22-1784550744000",
+      "title": "articles",
+      "source": "Techniques de l’Ingénieur Actualités",
+      "sourceId": "techniques-de-lingenieur-actualites",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.techniques-ingenieur.fr/actualite/articles/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Technique",
+        "Énergie",
+        "Environnement",
+        "Innovation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "novethic-rss-0-1784547931000",
@@ -2578,7 +2934,162 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1784533673000",
+      "id": "reporterre-rss-0-1784556136000",
+      "title": "« 45 °C sous les tentes » : Israël restreint l'accès des Palestiniens à l'eau et à la fraîcheur en pleine canicule",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/45-oC-sous-les-tentes-Israel-restreint-l-acces-des-Palestiniens-a-l-eau-et-a-la-fraicheur",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH466/afp__20260611__aa_11062026_2822876__v1__highres__harshlivingconditionsfordisplacedpa_1_-4ad40.jpg?1784556144",
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Alors que la bande de Gaza suffoque sous une chaleur de plomb, Israël empêche les Palestiniens de se rafraîchir. Humanitaires et experts dénoncent un « apartheid environnemental », qui vise à rendre la Palestine invivable. L'été (…) Lire la suite - Info / Climat , Guerres et Armé…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1784556000000",
+      "title": "« Je l'ai trouvé par terre à côté des serres » : les canicules laissent les paysans KO",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Je-l-ai-trouve-par-terre-a-cote-des-serres-les-canicules-laissent-les-paysans-KO",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/paysans_ko_canicule2026_alexis_serre_1_resized-a7a51.jpg?1784556000",
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Dans les Deux-Sèvres, les malaises se succèdent chez les paysans et paysannes qui tentent de sauver des cultures mises en danger par la chaleur. Au fil des canicules, ils voient leur santé physique et mentale se dégrader. Mon collègue Valentin voulait partir en congés en juillet,…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-2-1784553976000",
+      "title": "En Camargue, des lignes à haute tension exemptées d'évaluation environnementale",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/En-Camargue-des-lignes-a-haute-tension-exemptees-d-evaluation-environnementale",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pylone_electrique_trianon_-_ligne_400kv_4_ternes-e568d.jpg?1784554109",
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Le gouvernement a décidé de ne pas imposer d'évaluation environnementale à plusieurs lignes électriques à très haute tension (THT) prévues pour alimenter des projets industriels dans la zone industrialoportuaire de Fos-sur-Mer (Bouches-du-Rhône). Il estime que cela permettra de g…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-3-1784553017000",
+      "title": "Après un léger ralentissement, la fonte de la banquise arctique reprend de plus belle",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Apres-un-leger-ralentissement-la-fonte-de-la-banquise-arctique-reprend-de-plus-belle",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/nounoursallo-197f7.jpg?1784553026",
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Le recul de la banquise arctique reprend. Une étude publiée le 20 juillet dans la revue PNAS révèle que la relative pause de la fonte observée au début des années 2020 n'a été que de courte durée. Des niveaux historiquement bas ont été enregistrés en 2025 et au début de l'année 2…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-4-1784552381000",
+      "title": "Barrage illégal de Caussade : la justice alourdit les sanctions contre la Coordination rurale",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Barrage-illegal-de-Caussade-la-justice-alourdit-les-sanctions-contre-la-Coordination",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/lac_de_caussade_-_panorama_1_1_-87b03.jpg?1784552399",
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "La Cour d'appel financière a confirmé et aggravé, dans un arrêt rendu le 17 juillet, les sanctions prononcées contre cinq anciens responsables de la chambre d'agriculture du Lot-et-Garonne dans le dossier de la retenue d'eau illégale de Caussade. Lire la suite - En bref / Agricul…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-5-1784550038000",
+      "title": "Canicule : près de 700 000 poules pondeuses sont mortes en France",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Canicule-pres-de-700-000-poules-pondeuses-sont-mortes-en-France",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH460/poulets_d_elevage_intensif_1_-20013.jpg?1784550042",
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Confort d’été"
+      ],
+      "summary": "Jusqu'à 700 000 poules pondeuses sont mortes en France à cause de la canicule. Voici le macabre décompte réalisé par le Comité national pour la promotion de l'œuf. Ce chiffre représente 1,5 % du cheptel français. En Bretagne, certains producteurs d'œufs ont perdu 30 % de leurs po…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-6-1784533673000",
       "title": "Nager dans le Rhin pour aller au travail : à Bâle, le fleuve est « ancré dans le quotidien »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2599,12 +3110,12 @@ window.BATIVEILLE_DATA = {
         "Eau",
         "Confort d’été"
       ],
-      "summary": "[Rivières : le grand plouf 1/5] Très encadrée en France, la baignade dans les fleuves et les rivières et beaucoup plus largement autorisée en Suisse. À Bâle, se laisser porter par le Rhin au cœur de la ville a même été élevé au rang d'art de vivre. Lire la suite - Reportage / Eau…",
+      "summary": "[Rivières : le grand plouf 1/5] Très encadrée en France, la baignade dans les fleuves et les rivières est beaucoup plus largement autorisée en Suisse. À Bâle, se laisser porter par le Rhin au cœur de la ville a même été élevé au rang d'art de vivre. Lire la suite - Reportage / Ea…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1784525400000",
+      "id": "reporterre-rss-7-1784525400000",
       "title": "« Vakita », un média financé par des milliardaires et des partenariats",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2629,7 +3140,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1784525400000",
+      "id": "reporterre-rss-8-1784525400000",
       "title": "Hugo Clément, et le jeu dangereux de l'écologie « dépolitisée »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2654,7 +3165,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-0-1784529000000",
+      "id": "greenunivers-rss-0-1784561880000",
       "title": "Agrivoltaïsme : la FFPA mise en péril par la multiplication des départs",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -2666,21 +3177,171 @@ window.BATIVEILLE_DATA = {
       "access": "Accès mixte",
       "official": false,
       "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Eau"
+      ],
+      "summary": "Article modifié suite à une précision de Valorem – Enquête – La Fédération française des producteurs agrivoltaïques (FFPA) est en grande difficulté. Plusieurs sources internes et externes à l’association font état auprès de GreenUnivers d’une situation budgétaire inquiétante et d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-1-1784561855000",
+      "title": "Les CSPE pour 2026 attendues à 12,3 Mds€, l’outremer absorbe 3,2 Mds€",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/les-cspe-pour-2026-attendues-a-123-mdse-loutremer-absorbe-32-mdse-430108/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "La Commission de régulation de l’énergie (CRE) a revu à la baisse ses estimations de charges de service public de l’énergie (CSPE) pour 2026, lesquelles restent néanmoins plus L’article Les CSPE pour 2026 attendues à 12,3 Mds€, l’outremer absorbe 3,2 Mds€ est apparu en premier su…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-2-1784561577000",
+      "title": "Légère accalmie sur le prix des modules photovoltaïques",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/legere-accalmie-sur-le-prix-des-modules-photovoltaiques-430106/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
       "impactScore": 96,
       "tags": [
         "Presse professionnelle",
         "ENR",
         "Financement",
         "Marché énergie",
-        "Eau",
+        "Économie du bâtiment",
         "Énergie"
       ],
-      "summary": "Enquête – La Fédération française des producteurs agrivoltaïques (FFPA) est en grande difficulté. Plusieurs sources internes et externes à l’association font état auprès de GreenUnivers d’une situation budgétaire inquiétante et d’un bureau affaibli. La présidente, Audrey Juillac,…",
+      "summary": "Les prix des modules solaires n’ont guère augmenté en juin, « pour la deuxième fois cette année », observe la place de marché et grossiste allemand pvXchange dans son dernier bulletin. Dans une tendance largement marquée à la hausse depuis le début 2026, le mois passé signe une L…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-0-1784548800000",
+      "id": "greenunivers-rss-3-1784561519000",
+      "title": "Les renouvelables n’ont pas progressé dans le mix électrique français en 2025",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/les-renouvelables-nont-pas-progresse-dans-le-mix-electrique-francais-en-2025-430096/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "En France métropolitaine, les renouvelables ont représenté 33,2% de la consommation d’électricité en 2025 et 27% de la production. C’est un léger recul par rapport à L’article Les renouvelables n’ont pas progressé dans le mix électrique français en 2025 est apparu en premier sur …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-4-1784552805000",
+      "title": "Le prix de l’électricité française au plus haut sur l’année [Marchés]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/le-prix-de-lelectricite-francaise-au-plus-haut-sur-lannee-marches-430059/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le risque haussier qui pesait sur le cours de gaz se concrétise et n’est pas sans effets sur l’électricité française. D’un côté, les Etats-Unis et l’Iran reprennent les hostilités et le détroit d’Ormuz reste bloqué. De l’autre, la L’article Le prix de l’électricité française au p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-0-1784556000000",
+      "title": "Une plateforme pour mutualiser les opérations d’autoconsommation collectives citoyennes",
+      "source": "PV Magazine France",
+      "sourceId": "pv-magazine-france",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.pv-magazine.fr/2026/07/20/une-plateforme-pour-mutualiser-les-operations-dautoconsommation-collectives-citoyennes/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Photovoltaïque",
+        "Autoconsommation",
+        "ENR",
+        "Énergie"
+      ],
+      "summary": "Deux associations citoyennes s’allient pour simplifier les démarches et la gestion des opérations d’autoconsommation collective avec l'objectif de rendre le modèle plus accessible aux petits producteurs photovoltaïques, tout en sécurisant leur équilibre économique. Deux associati…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-1-1784552400000",
+      "title": "Deux producteurs français regroupent leurs intérêts",
+      "source": "PV Magazine France",
+      "sourceId": "pv-magazine-france",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.pv-magazine.fr/2026/07/20/deux-producteurs-francais-regroupent-leurs-interets/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Photovoltaïque",
+        "Autoconsommation",
+        "ENR",
+        "Économie du bâtiment",
+        "Énergie"
+      ],
+      "summary": "JP Energie Environnement et Générale du Solaire, avec la Banque des Territoires, initient un projet de rapprochement en vue de créer un leader du marché européen des énergies renouvelables. JP Energie Environnement et Générale du Solaire, avec la Banque des Territoires, initient …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-2-1784548800000",
       "title": "Decathlon inaugure les premiers projets solaires d’EDP en France",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -2705,7 +3366,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-1-1784538000000",
+      "id": "pv-magazine-france-rss-3-1784538000000",
       "title": "BESS : 4,8 MWh de capacité de stockage pour AGC Glass Europe",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -2731,7 +3392,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-2-1784529000000",
+      "id": "pv-magazine-france-rss-4-1784529000000",
       "title": "Légère baisse des prix des plaquettes de silicium en Chine",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -2909,7 +3570,83 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1784541768000",
+      "id": "lenergeek-rss-0-1784556327000",
+      "title": "Carburant : comment les frappes ukrainiennes et la tension US-Iran déstabilisent les marchés énergétiques mondiaux",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/07/20/carburant-frappes-ukrainiennes-us-iran/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/07/carburant-comment-frappes-ukrainiennes-tension-us-iran-destabilisent.jpg",
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Les frappes ukrainiennes contre les raffineries russes et la reprise des tensions US-Iran au Moyen-Orient provoquent une flambée des prix du carburant en France. Le SP95-E10 franchit à nouveau les 2 euros le litre ce 20 juillet, tandis que le gazole atteint 2,105 euros. L’article…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1784554873000",
+      "title": "Ryanair : quand le blocage d’Ormuz fait exploser le kérosène et les coûts",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/07/20/ryanair-blocage-ormuz-kerosene-couts/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/07/ryanair-quand-blocage-ormuz-exploser-kerosene-couts.jpg",
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Ryanair enregistre une chute de 34% de son bénéfice net au premier trimestre 2026, victime du doublement du prix du kérosène provoqué par le blocage du détroit d'Ormuz. Malgré une couverture énergétique à 80%, la compagnie subit de plein fouet la volatilité des marchés pétroliers…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1784551328000",
+      "title": "Énergies renouvelables : la production établit un record en 2024",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/07/20/energies-renouvelables-record-2024/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/07/shutterstock_1933377149-3.jpg",
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "En 2024, les énergies renouvelables atteignent 31,7 % de la production électrique mondiale avec une croissance record de 9,8 %, sept fois supérieure à celle des énergies fossiles. L'Asie domine avec 4 589 TWh produits, portée par le solaire et l'éolien. Mais cette accélération po…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1784541768000",
       "title": "Combien coûtent 1000 L de fioul ce lundi 20 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2934,7 +3671,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1784539560000",
+      "id": "lenergeek-rss-4-1784539560000",
       "title": "À Fos-sur-Mer, le nucléaire modulaire veut reconquérir l’industrie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2960,7 +3697,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1784538189000",
+      "id": "lenergeek-rss-5-1784538189000",
       "title": "Le gazoduc Nigéria-Maroc avance, mais reste à financer",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2985,7 +3722,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1784533433000",
+      "id": "lenergeek-rss-6-1784533433000",
       "title": "Iran : une centrale nucléaire visée, enquête de l’AIEA et risques énergétiques majeurs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3011,7 +3748,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1784528400000",
+      "id": "lenergeek-rss-7-1784528400000",
       "title": "La France devait produire 2 millions de voitures électriques par an : à quatre ans de l’échéance, les usines n’en sortent même pas 700 000",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3036,7 +3773,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1784526600000",
+      "id": "lenergeek-rss-8-1784526600000",
       "title": "Mauvaise nouvelle pour les vacanciers : les réserves de kérosène en Europe sont au plus bas et certains vols pourraient ne jamais décoller cet été",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3061,7 +3798,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1784524827000",
+      "id": "lenergeek-rss-9-1784524827000",
       "title": "Pas de wifi sur votre lieu de vacances : un technicien réseau partage les astuces que la plupart des voyageurs ignorent encore",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3087,7 +3824,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1784521164000",
+      "id": "lenergeek-rss-10-1784521164000",
       "title": "90 dollars le baril de Brent : le pétrole flambe à nouveau",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3113,7 +3850,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1784550051000",
+      "id": "le-commerce-du-bois-sitemap-0-1784564893000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3139,7 +3876,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1784550051000",
+      "id": "le-commerce-du-bois-sitemap-1-1784564893000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3165,7 +3902,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1784550051000",
+      "id": "le-commerce-du-bois-sitemap-2-1784564893000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3191,14 +3928,65 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-247171-1784540278000",
+      "id": "le-journal-du-grand-paris-rss-0-1784550444000",
+      "title": "L’État accorde 30,2 millons d’euros au réseau de chaleur géothermique de Clichy-sous-Bois et Livry-Gargan",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/letat-accorde-302-millons-deuros-au-reseau-de-chaleur-geothermique-de-clichy-sous-bois-et-livry-gargan/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Le préfet de Seine-Saint-Denis, Julien Charles, et l’Agence de la transition écologique (Ademe) ont signé le 10 juillet une convention accordant une subvention de 30,2 millions d’euros au projet de réseau de chaleur géothermique de Clichy-sous-Bois et Livry-Gargan. Portée par Dal…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1784549038000",
+      "title": "Nicolas Portier : « La balkanisation actuelle du Grand Paris n’est plus tenable »",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/nicolas-portier-la-balkanisation-actuelle-du-grand-paris-nest-plus-tenable/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation"
+      ],
+      "summary": "Dix ans après les lois Maptam et NOTRe, le Grand Paris reste le seul territoire français où les communes relèvent de deux strates d'intercommunalité concurrentes. Dans un rapport qu'il vient de rendre public, Nicolas Portier, professeur affilié à l’Ecole urbaine de Sciences Po (*…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-2-1784540278000",
       "title": "Méhadée Bernard – La force du consensus",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
       "region": "Île-de-France",
       "url": "https://www.lejournaldugrandparis.fr/mehadee-bernard-la-force-du-consensus/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/MehadeeBernard-©-Jgp.jpg",
+      "image": null,
       "date": "2026-07-20",
       "access": "Accès gratuit partiel",
       "official": false,
@@ -3210,19 +3998,19 @@ window.BATIVEILLE_DATA = {
         "Urbanisme",
         "Immobilier"
       ],
-      "summary": "Élue le 14 avril présidente du Grand Orly Seine-Bièvre, première femme à diriger un Territoire du Grand Paris, Méhadée Bernard, adjointe (PCF) au maire d’Ivry-sur-Seine, place le travail partagé au cœur de sa méthode dans un EPT à l’identité à la fois composite et affirmée.",
+      "summary": "Élue le 14 avril présidente du Grand Orly Seine-Bièvre, première femme à diriger un Territoire du Grand Paris, Méhadée Bernard, adjointe (PCF) au maire d’Ivry-sur-Seine, place le travail partagé au cœur de sa méthode dans un EPT à l’identité à la fois composite et affirmée. Élue …",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-175950-1784531862000",
+      "id": "le-journal-du-grand-paris-rss-3-1784531862000",
       "title": "Les coulisses du Grand Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
       "region": "Île-de-France",
       "url": "https://www.lejournaldugrandparis.fr/les-coulisses-du-grand-paris/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2015/09/Tel3.jpg",
+      "image": null,
       "date": "2026-07-20",
       "access": "Accès gratuit partiel",
       "official": false,
@@ -3234,12 +4022,36 @@ window.BATIVEILLE_DATA = {
         "Urbanisme",
         "Immobilier"
       ],
-      "summary": "Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % numérique.",
+      "summary": "Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % numérique. Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % n…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-1-1784548380000",
+      "id": "acteurs-publics-sitemap-1-1784554140000",
+      "title": "charge de travail competences autonomie le dialogue social sur lia en passe dentrer dans une nouvelle dimension",
+      "source": "Acteurs Publics",
+      "sourceId": "acteurs-publics",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://acteurspublics.fr/articles/charge-de-travail-competences-autonomie-le-dialogue-social-sur-lia-en-passe-dentrer-dans-une-nouvelle-dimension/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Politiques publiques",
+        "Collectivités",
+        "Transition"
+      ],
+      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "acteurs-publics-sitemap-2-1784548380000",
       "title": "investissements dici 2030 ladministration repond aux critiques sur la transparence et lefficacite du plan",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3264,7 +4076,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-2-1784546640000",
+      "id": "acteurs-publics-sitemap-3-1784546640000",
       "title": "carriere langage administratif services publics",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3288,7 +4100,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-3-1784545440000",
+      "id": "acteurs-publics-sitemap-4-1784545440000",
       "title": "39 femmes admises aux concours 2026 de linstitut national du service public",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3312,7 +4124,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-4-1784544900000",
+      "id": "acteurs-publics-sitemap-5-1784555700000",
       "title": "la justice valide le transfert de la gestion rh des services deconcentres aux prefectures",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3336,7 +4148,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-5-1784541480000",
+      "id": "acteurs-publics-sitemap-6-1784541480000",
       "title": "lespace numerique des agents publics setend aux assemblees parlementaires et aux operateurs de la securite sociale",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3360,7 +4172,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-6-1784539800000",
+      "id": "acteurs-publics-sitemap-7-1784539800000",
       "title": "le conseil detat ferme la porte a une indemnite pour certaines formations internes assurees par les fonctionnaires de la dgfip",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3384,7 +4196,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-0-1784502300000",
+      "id": "batiweb-rss-4-1784502300000",
       "title": "JAVEY investit pour la production des portes sectionnelles sans ressorts",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -3408,7 +4220,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "vert-rss-0-1784437200000",
-      "title": "«Ils ciblent ceux qui défendent la vie» : les écologistes, victimes silencieuses de la guerre au Proche-Orient",
+      "title": "Les militants écologistes, victimes silencieuses de l’armée israélienne dans la guerre au Proche-Orient",
       "source": "Vert",
       "sourceId": "vert",
       "sourceType": "Presse professionnelle",
@@ -3635,7 +4447,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "lenergeek-rss-8-1784467500000",
+      "id": "lenergeek-rss-11-1784467500000",
       "title": "Satellites : pourquoi la peinture ultra-noire ne suffit pas contre la pollution radio",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3659,7 +4471,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1784455355000",
+      "id": "lenergeek-rss-12-1784455355000",
       "title": "Combien coûtent 1000 L de fioul ce dimanche 19 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3684,7 +4496,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1784440210000",
+      "id": "lenergeek-rss-13-1784440210000",
       "title": "Pourquoi les logements neufs sont plus étouffants que les anciens : les experts pointent une erreur que personne ne corrige",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3710,7 +4522,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1784438400000",
+      "id": "lenergeek-rss-14-1784438400000",
       "title": "L’EPR de Flamanville s’arrête encore après à peine quelques mois : ce serait des contrôles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3734,32 +4546,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "techniques-de-lingenieur-actualites-sitemap-22-1784357973000",
-      "title": "articles",
-      "source": "Techniques de l’Ingénieur Actualités",
-      "sourceId": "techniques-de-lingenieur-actualites",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.techniques-ingenieur.fr/actualite/articles/",
-      "image": null,
-      "date": "2026-07-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Technique",
-        "Énergie",
-        "Environnement",
-        "Innovation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "reporterre-rss-3-1784394000000",
+      "id": "reporterre-rss-9-1784394000000",
       "title": "Ces Bleus-là font encore trembler la planète : voici l'équipe de France des ennemis de l'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3785,7 +4572,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1784352600000",
+      "id": "reporterre-rss-10-1784352600000",
       "title": "Forêts rasées, montagnes bétonnées : la vraie carte des JO 2030 dans les Alpes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3811,7 +4598,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1784350800000",
+      "id": "reporterre-rss-11-1784350800000",
       "title": "« Est-ce que vous réalisez que des gens sont morts ? » : après les incendies, le traumatisme des sinistrés en Andalousie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3835,7 +4622,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1784350800000",
+      "id": "reporterre-rss-12-1784350800000",
       "title": "Cancers, pesticides : Louis-Adrien Delarue, médecin en lutte contre les « irresponsables politiques »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3861,7 +4648,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1784350800000",
+      "id": "reporterre-rss-13-1784350800000",
       "title": "« Les jardiniers, eux, n'ont pas eu le choix de prédire la canicule »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4041,7 +4828,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "lenergeek-rss-12-1784383800000",
+      "id": "lenergeek-rss-15-1784383800000",
       "title": "Éclipse du 12 août 2026 : comment la France gérera la chute brutale de sa production solaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4066,7 +4853,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1784368959000",
+      "id": "lenergeek-rss-16-1784368959000",
       "title": "Combien coûtent 1000 L de fioul ce samedi 18 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4091,7 +4878,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1784368926000",
+      "id": "lenergeek-rss-17-1784368926000",
       "title": "Combien coûtent 1000 L de fioul ce samedi 18 juillet 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4116,7 +4903,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1784364180000",
+      "id": "lenergeek-rss-18-1784364180000",
       "title": "Recharge électrique ultra-rapide : 50 000 véhicules supplémentaires, quel impact énergétique pour le réseau français ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4141,7 +4928,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1784355655000",
+      "id": "lenergeek-rss-19-1784355655000",
       "title": "Taïwan n’a aucun satellite et dépend de câbles sous-marins pour communiquer : le Parlement ouvre la porte à Starlink",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4165,7 +4952,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1784353812000",
+      "id": "lenergeek-rss-20-1784353812000",
       "title": "Mauvaise nouvelle pour les utilisateurs Microsoft : 50 logiciels disparaissent en 2026, et certains sont probablement installés sur votre PC en ce moment",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4189,7 +4976,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1784352000000",
+      "id": "lenergeek-rss-21-1784352000000",
       "title": "Les électriciens et gaziers menacent de couper le courant : leur « tarif agent » sur l’énergie pourrait disparaître et la colère monte dans les rangs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4214,14 +5001,14 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-246916-1784384947000",
-      "title": "J. Baudrier : « L’objectif de la nouvelle taxe sur la vacance, c&rsquo;est que les logements reviennent sur le marché »",
+      "id": "le-journal-du-grand-paris-rss-4-1784384947000",
+      "title": "J. Baudrier : « L’objectif de la nouvelle taxe sur la vacance, c’est que les logements reviennent sur le marché »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
       "region": "Île-de-France",
       "url": "https://www.lejournaldugrandparis.fr/j-baudrier-lobjectif-de-la-nouvelle-taxe-sur-la-vacance-cest-que-les-logements-reviennent-sur-le-marche/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2025/01/Baudrier-2.jpg",
+      "image": null,
       "date": "2026-07-18",
       "access": "Accès gratuit partiel",
       "official": false,
@@ -4235,9 +5022,9 @@ window.BATIVEILLE_DATA = {
         "Réglementation",
         "Eau"
       ],
-      "summary": "Le Conseil de Paris s&rsquo;apprête à voter, lors de sa séance des 15, 16 et 17 juillet, la nouvelle taxe sur la vacance des logements d’habitation (TLVH), dont le produit revient désormais à la Ville et non plus à l&rsquo;État. Adjoint au maire de Paris chargé du logement, de la…",
+      "summary": "Le Conseil de Paris s'apprête à voter, lors de sa séance des 15, 16 et 17 juillet, la nouvelle taxe sur la vacance des logements d’habitation (TLVH), dont le produit revient désormais à la Ville et non plus à l'État. Adjoint au maire de Paris chargé du logement, de la rénovation …",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1784289601000",
@@ -4639,7 +5426,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-1-1784300400000",
+      "id": "batiweb-rss-5-1784300400000",
       "title": "Photovoltaïque et préfabrication : les innovations gros oeuvre de Batimat 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4665,7 +5452,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-2-1784296800000",
+      "id": "batiweb-rss-6-1784296800000",
       "title": "Interclima 2026 : les lauréats Génie climatique tertiaire des Innovation Awards",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4690,7 +5477,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-3-1784292900000",
+      "id": "batiweb-rss-7-1784292900000",
       "title": "TVA à 5,5% pour les PAC air-air : quelles conditions pour en bénéficier ?",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4714,7 +5501,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-4-1784281500000",
+      "id": "batiweb-rss-8-1784281500000",
       "title": "Eiffage Immobilier et Logeo Seine lancent un programme de 319 logements à Dieppe",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4739,7 +5526,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-5-1784275500000",
+      "id": "batiweb-rss-9-1784275500000",
       "title": "Avant Idéobain, les Innovation Awards ont récompensé la sobriété",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4765,7 +5552,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-6-1784274900000",
+      "id": "batiweb-rss-10-1784274900000",
       "title": "Le SDI s'oppose à un « nouveau tour de vis fiscal » pour le budget 2027",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4789,7 +5576,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-7-1784262600000",
+      "id": "batiweb-rss-11-1784262600000",
       "title": "NGE Bâtiment crée un pôle dédié à la réhabilitation thermique en Île-de-France",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5182,7 +5969,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-1-1784292352000",
+      "id": "filiere-3e-rss-2-1784292352000",
       "title": "ADM21 distribue un nouvel adaptateur TRENDnet",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -5207,7 +5994,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-2-1784292156000",
+      "id": "filiere-3e-rss-3-1784292156000",
       "title": "ADM21 présente un nouveau détecteur de tension alternative",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -5233,7 +6020,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-3-1784277121000",
+      "id": "filiere-3e-rss-4-1784277121000",
       "title": "DOSSIER – Industrie et compétitivité : performance énergétique, flexibilité, automatisation et robotique",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -5359,7 +6146,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1784301599000",
+      "id": "reporterre-rss-14-1784301599000",
       "title": "Luttes en montagne : les Naturalistes des terres investissent les Alpes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5385,7 +6172,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1784296956000",
+      "id": "reporterre-rss-15-1784296956000",
       "title": "En limitant les data centers, New York lance un mouvement aux États-Unis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5411,7 +6198,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1784295605000",
+      "id": "reporterre-rss-16-1784295605000",
       "title": "Des écologistes ciblés par Israël : « Ils veulent vider le Sud-Liban de sa faune, de sa flore, et détruire son environnement »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5437,7 +6224,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1784293461000",
+      "id": "reporterre-rss-17-1784293461000",
       "title": "Canada : près de 900 incendies en cours et 2,7 millions d'hectares brûlés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5461,7 +6248,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1784292643000",
+      "id": "reporterre-rss-18-1784292643000",
       "title": "Canicule : une explosion de désinformation climatique sur CNews, Sud Radio et Europe 1",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5486,7 +6273,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1784283597000",
+      "id": "reporterre-rss-19-1784283597000",
       "title": "Canicule : plus de 12 000 décès excédentaires enregistrés en Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5512,7 +6299,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1784283384000",
+      "id": "reporterre-rss-20-1784283384000",
       "title": "L'EPR de Flamanville arrêté 10 jours après des mesures anormales",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5538,7 +6325,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1784271600000",
+      "id": "reporterre-rss-21-1784271600000",
       "title": "Industries : la canicule augmente le risque d'accidents graves",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5563,7 +6350,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1784266200000",
+      "id": "reporterre-rss-22-1784266200000",
       "title": "Incendies : quel est ce produit rouge largué sur les forêts ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5663,7 +6450,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-1-1784301780000",
+      "id": "greenunivers-rss-5-1784301780000",
       "title": "Bruxelles veut créer une « banque de décarbonation industrielle »",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5689,7 +6476,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-2-1784299719000",
+      "id": "greenunivers-rss-6-1784299719000",
       "title": "La Commission européenne veut doubler le taux d’électrification",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5715,7 +6502,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-3-1784299459000",
+      "id": "greenunivers-rss-7-1784299459000",
       "title": "Méthanisation industrielle : Lénéo entame une importante levée de fonds",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5740,7 +6527,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-4-1784299350000",
+      "id": "greenunivers-rss-8-1784299350000",
       "title": "Bruxelles confirme sur la géothermie mais ne dévoile pas son plan",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5766,7 +6553,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-5-1784290578000",
+      "id": "greenunivers-rss-9-1784290578000",
       "title": "TVA réduite, TRVE et fuites de carbone au menu du CSE",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5792,59 +6579,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-6-1784281200000",
-      "title": "Les documents de la semaine",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/les-documents-de-la-semaine-381215/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-7-1784273400000",
-      "title": "L’agenda de la transition énergétique",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/lagenda-de-la-transition-energetique-280-424554/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Rénovation",
-        "Énergie"
-      ],
-      "summary": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. A…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-3-1784289600000",
+      "id": "pv-magazine-france-rss-5-1784289600000",
       "title": "Effacement : Voltalis désormais actif sur tous les marchés de l’électricité",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -5869,7 +6604,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-4-1784278800000",
+      "id": "pv-magazine-france-rss-6-1784278800000",
       "title": "[En images] Une centrale agrivoltaïque de 2 MWc au-dessus des vignes",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -5894,7 +6629,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-5-1784275200000",
+      "id": "pv-magazine-france-rss-7-1784275200000",
       "title": "Le Quebec publie sa feuille de route énergétique",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -5920,7 +6655,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-6-1784269800000",
+      "id": "pv-magazine-france-rss-8-1784269800000",
       "title": "Longi établit un nouveau record mondial avec une cellule tandem pérovskite-silicium à 35,5 % d’efficacité",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -5997,7 +6732,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1784293931000",
+      "id": "lenergeek-rss-22-1784293931000",
       "title": "Orages du 16-17 juillet : 53.000 foyers privés d’électricité, la résilience des réseaux en question",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6023,7 +6758,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1784288467000",
+      "id": "lenergeek-rss-23-1784288467000",
       "title": "Énergie : la cybersécurité, pilier de la continuité énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6048,88 +6783,14 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1784282561000",
-      "title": "Combien coûtent 1000 L de fioul ce vendredi 17 juillet 2026 ?",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/07/17/prix-fioul-domestique-combien-coutent-1000-fioul-vendredi-17-juillet-2026/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le prix du fioul domestique s'établit à 1561 euros pour 1000 litres de fioul ordinaire ce vendredi 17 juillet 2026, selon la moyenne nationale. Les tarifs varient toutefois fortement selon les régions, les départements et les modalités de commande, avec des écarts pouvant atteind…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1784269214000",
-      "title": "Cette nuit où la Tunisie entière a plongé dans le noir : des millions de foyers sans électricité en pleine canicule, la colère monte",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/07/17/cette-nuit-ou-la-tunisie-entiere-a-plonge-dans-le-noir-des-millions-de-foyers-sans-electricite-en-pleine-canicule-la-colere-monte/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/07/coupure-delectricite-historique-en-tunisie-la-steg-evoque-une-canicule-et-une-panne-en-algerie.webp",
-      "date": "2026-07-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "Un match de foot coupé net, des ascenseurs bloqués, des rues plongées dans le noir : que s'est-il vraiment passé cette nuit-là en Tunisie ? La STEG s'explique enfin, entre canicule et panne chez le voisin algérien. L’article Cette nuit où la Tunisie entière a plongé dans le noir …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1784268420000",
-      "title": "Énergie : le PDG d’Eni alerte sur une triple crise sans précédent depuis 1980",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/07/17/energie-pdg-eni-alerte-triple-crise-precedent-depuis-1980/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/07/eni-energie-alerte-crise-gaz-descalzi.jpg",
-      "date": "2026-07-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Claudio Descalzi, PDG d'Eni, a détaillé devant les députés italiens une triple crise énergétique sans précédent : le blocage du Détroit d'Hormuz (8 à 9 millions de barils bloqués), l'arrêt du gaz russe en janvier 2027 (36 milliards de m³ à compenser) et l'effondrement des capacit…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-247141-1784300310000",
+      "id": "le-journal-du-grand-paris-rss-5-1784300310000",
       "title": "Une nouvelle data visualisation pour les QPV parisiens",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
       "region": "Île-de-France",
       "url": "https://www.lejournaldugrandparis.fr/une-nouvelle-data-visualisation-pour-les-qpv-parisiens/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2024/07/carte-qpv.jpg",
+      "image": null,
       "date": "2026-07-17",
       "access": "Accès gratuit partiel",
       "official": false,
@@ -6143,17 +6804,17 @@ window.BATIVEILLE_DATA = {
       ],
       "summary": "L'Atelier parisien d'urbanisme lance une version interactive de l'Observatoire des quartiers de la politique de la ville à Paris. Cet outil rassemble 70 indicateurs et propose des données actualisées sur les quartiers prioritaires, les quartiers populaires et les secteurs de veil…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-247144-1784298932000",
+      "id": "le-journal-du-grand-paris-rss-6-1784298932000",
       "title": "Un transformateur électrique de 130 tonnes livré à Paris par la Seine",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
       "region": "Île-de-France",
       "url": "https://www.lejournaldugrandparis.fr/un-transformateur-electrique-de-130-tonnes-livre-a-paris-par-la-seine/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/ENEDIS1.jpg",
+      "image": null,
       "date": "2026-07-17",
       "access": "Accès gratuit partiel",
       "official": false,
@@ -6166,19 +6827,19 @@ window.BATIVEILLE_DATA = {
         "Immobilier",
         "Eau"
       ],
-      "summary": "L'opérateur Enedis a emprunté la voie d'eau afin d'acheminer au cœur de la Capitale un transformateur électrique nouvelle génération qui a rejoint le poste-source Pyramides de la rue saint-Honoré.",
+      "summary": "L'opérateur Enedis a emprunté la voie d'eau afin d'acheminer au cœur de la Capitale un transformateur électrique nouvelle génération qui a rejoint le poste-source Pyramides de la rue saint-Honoré. L'opérateur Enedis a emprunté la voie d'eau afin d'acheminer au cœur de la Capitale…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-247150-1784296871000",
-      "title": "Exclusif &#8211; Apex, ABF, ZAC : F. Vauglin détaille sa feuille de route pour l&rsquo;urbanisme parisien",
+      "id": "le-journal-du-grand-paris-rss-7-1784296871000",
+      "title": "Exclusif – Apex, ABF, ZAC : F. Vauglin détaille sa feuille de route pour l’urbanisme parisien",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
       "region": "Île-de-France",
       "url": "https://www.lejournaldugrandparis.fr/exclusif-apex-abf-zax-f-vauglin-detaille-sa-feuille-de-route-pour-lurbanisme-parisien/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Vauglin.jpg",
+      "image": null,
       "date": "2026-07-17",
       "access": "Accès gratuit partiel",
       "official": false,
@@ -6192,19 +6853,19 @@ window.BATIVEILLE_DATA = {
         "Eau",
         "Bâtiment"
       ],
-      "summary": "Adjoint au maire de Paris chargé de l&rsquo;urbanisme et de l&rsquo;architecture, François Vauglin lance la troisième édition d&rsquo;Apex, le label des « architectures parisiennes exemplaires ». Il détaille son « droit au beau », le dialogue avec les architectes des Bâtiments de…",
+      "summary": "Adjoint au maire de Paris chargé de l'urbanisme et de l'architecture, François Vauglin lance la troisième édition d'Apex, le label des « architectures parisiennes exemplaires ». Il détaille son « droit au beau », le dialogue avec les architectes des Bâtiments de France (ABF), rev…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-247057-1784278633000",
-      "title": "Les marchés du Grand Paris – Guyancourt : le futur pôle d&rsquo;échanges de la ligne 18 entre dans sa phase opérationnelle",
+      "id": "le-journal-du-grand-paris-rss-8-1784278633000",
+      "title": "Les marchés du Grand Paris – Guyancourt : le futur pôle d’échanges de la ligne 18 entre dans sa phase opérationnelle",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
       "region": "Île-de-France",
       "url": "https://www.lejournaldugrandparis.fr/les-marches-du-grand-paris-guyancourt-le-futur-pole-dechanges-de-la-ligne-18-entre-dans-sa-phase-operationnelle/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/p10_Perspective-Gare-Guyancour-©-Dietmar-Feichtinger-Architectes-SGP.webp",
+      "image": null,
       "date": "2026-07-17",
       "access": "Accès gratuit partiel",
       "official": false,
@@ -6217,12 +6878,12 @@ window.BATIVEILLE_DATA = {
         "Immobilier",
         "Économie du bâtiment"
       ],
-      "summary": "Saint-Quentin-en-Yvelines vient de lancer le marché de maîtrise d'œuvre pour l'aménagement des espaces publics du pôle d'échanges multimodal de la gare de Guyancourt, future station de la ligne 18 du Grand Paris express.",
+      "summary": "Saint-Quentin-en-Yvelines vient de lancer le marché de maîtrise d'œuvre pour l'aménagement des espaces publics du pôle d'échanges multimodal de la gare de Guyancourt, future station de la ligne 18 du Grand Paris express. Saint-Quentin-en-Yvelines vient de lancer le marché de maît…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-7-1784284440000",
+      "id": "acteurs-publics-sitemap-8-1784284440000",
       "title": "services publics intelligence artificielle deontologie",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6246,7 +6907,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-8-1784284260000",
+      "id": "acteurs-publics-sitemap-9-1784284260000",
       "title": "le gouvernement lance la troisieme phase du programme villages davenir avec un role du prefet renforce",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6270,7 +6931,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-9-1784286420000",
+      "id": "acteurs-publics-sitemap-10-1784286420000",
       "title": "sondage exclusif mon espace sante bien installe lia acceptee sous conditions",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6295,7 +6956,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-10-1784282760000",
+      "id": "acteurs-publics-sitemap-11-1784282760000",
       "title": "pour accelerer la dematerialisation de la justice gerald darmanin negocie un budget record",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6319,7 +6980,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-11-1784281140000",
+      "id": "acteurs-publics-sitemap-12-1784281140000",
       "title": "les ecologistes veulent en finir avec le new public management et les cabinets de conseil",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6343,7 +7004,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-12-1784279520000",
+      "id": "acteurs-publics-sitemap-13-1784279520000",
       "title": "haute fonction publique ladministration renforce les liens entre ses cadres superieurs et le monde associatif",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6367,7 +7028,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-13-1784277420000",
+      "id": "acteurs-publics-sitemap-14-1784277420000",
       "title": "finances publiques letat a construit un systeme de gouvernance illisible et peu incitatif",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6391,7 +7052,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-14-1784272800000",
+      "id": "acteurs-publics-sitemap-15-1784272800000",
       "title": "insp administration centrale logement de service quoi de neuf au jo cette semaine",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6410,30 +7071,6 @@ window.BATIVEILLE_DATA = {
         "Collectivités",
         "Transition",
         "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "acteurs-publics-sitemap-30-1784297160000",
-      "title": "plf 2027 la direction du budget compte clarifier le financement des retraites des fonctionnaires",
-      "source": "Acteurs Publics",
-      "sourceId": "acteurs-publics",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://acteurspublics.fr/articles/plf-2027-la-direction-du-budget-compte-clarifier-le-financement-des-retraites-des-fonctionnaires/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Politiques publiques",
-        "Collectivités",
-        "Transition"
       ],
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
@@ -6625,7 +7262,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-8-1784243100000",
+      "id": "batiweb-rss-12-1784243100000",
       "title": "Blum mise sur l’innovation pour poursuivre son développement dans un environnement économique exigeant.",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6648,7 +7285,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-9-1784211900000",
+      "id": "batiweb-rss-13-1784211900000",
       "title": "Les ventes de PAC ont progressé de 13 % en Europe en 2025 selon l’EHPA",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6671,7 +7308,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-10-1784210100000",
+      "id": "batiweb-rss-14-1784210100000",
       "title": "Éolien maritime : Bruxelles valide les projets à 63 milliards d'euros en France",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6694,7 +7331,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-11-1784196000000",
+      "id": "batiweb-rss-15-1784196000000",
       "title": "Paris Builders Show attire-t-il toujours les architectes ?",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6718,7 +7355,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-12-1784196000000",
+      "id": "batiweb-rss-16-1784196000000",
       "title": "De monument industriel à projet résidentiel, la transformation du domaine de Wendel",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6742,7 +7379,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-13-1784194800000",
+      "id": "batiweb-rss-17-1784194800000",
       "title": "Lyon intègre la température intérieure aux critères de salubrité",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6766,7 +7403,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-14-1784188800000",
+      "id": "batiweb-rss-18-1784188800000",
       "title": "EnR : plus de 10 % du territoire français est désormais saturé",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6790,7 +7427,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-15-1784185800000",
+      "id": "batiweb-rss-19-1784185800000",
       "title": "Défaillances d'entreprises : la construction robuste, mais disparate au T2 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7350,7 +7987,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-4-1784194944000",
+      "id": "filiere-3e-rss-5-1784194944000",
       "title": "Le marché européen des pompes à chaleur retrouve la croissance, protégeant des millions de foyers contre la volatilité des prix de l’énergie",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -7376,7 +8013,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-5-1784193871000",
+      "id": "filiere-3e-rss-6-1784193871000",
       "title": "Qair et PowerUp s’associent pour renforcer la sécurité et la performance des installations BESS de Stor’Sun à Maurice",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -7402,7 +8039,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-6-1784192500000",
+      "id": "filiere-3e-rss-7-1784192500000",
       "title": "LG ELECTRONICS DÉVOILE LE STANBYME 2 MAX, UN TV LIFESTYLE IMMERSIF DOTÉ D’UN GRAND ÉCRAN 4K DE 32 POUCES",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -7428,7 +8065,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-7-1784191867000",
+      "id": "filiere-3e-rss-8-1784191867000",
       "title": "Challenge CUBE Flex 2026 : Voltalis récompensé par six médailles pour son engagement en faveur de la flexibilité électrique",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -7531,7 +8168,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1784220972000",
+      "id": "reporterre-rss-23-1784220972000",
       "title": "Loi d'urgence agricole : Laurent Duplomb impose son texte",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7557,7 +8194,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1784219067000",
+      "id": "reporterre-rss-24-1784219067000",
       "title": "La Suisse condamnée pour avoir refusé de donner des repas véganes à des prisonniers",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7583,7 +8220,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1784217206000",
+      "id": "reporterre-rss-25-1784217206000",
       "title": "Pêche, cultures : la sécurité alimentaire des petites îles menacée par le changement climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7607,7 +8244,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1784215755000",
+      "id": "reporterre-rss-26-1784215755000",
       "title": "Transformer une ancienne décharge en lagune : un pari réussi dans les Landes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7632,7 +8269,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1784212674000",
+      "id": "reporterre-rss-27-1784212674000",
       "title": "Nitrates : une concentration en hausse dans un tiers des nappes phréatiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7658,7 +8295,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1784203993000",
+      "id": "reporterre-rss-28-1784203993000",
       "title": "À Monaco, une course de bateaux électriques ultrarapides menace les cétacés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7684,7 +8321,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1784203404000",
+      "id": "reporterre-rss-29-1784203404000",
       "title": "« La situation est catastrophique » : une hécatombe de poissons tués par la chaleur",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7710,7 +8347,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1784197194000",
+      "id": "reporterre-rss-30-1784197194000",
       "title": "Le Parlement réintroduit les pesticides de la loi Duplomb",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7735,7 +8372,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1784190104000",
+      "id": "reporterre-rss-31-1784190104000",
       "title": "La France vise une sortie du pétrole en 2045",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7761,7 +8398,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1784185200000",
+      "id": "reporterre-rss-32-1784185200000",
       "title": "« Entre tristesse et colère », les agriculteurs percutés par les canicules",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7787,7 +8424,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1784179800000",
+      "id": "reporterre-rss-33-1784179800000",
       "title": "Tique : anatomie d'une mal-aimée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7813,7 +8450,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1784179800000",
+      "id": "reporterre-rss-34-1784179800000",
       "title": "« Apprenons à gérer notre peur du loup autrement que par l'abattage »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7889,59 +8526,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-8-1784221070000",
-      "title": "Les résultats des principaux producteurs d’énergie renouvelable en 2025",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/les-resultats-des-principaux-producteurs-denergie-renouvelable-en-2025-428712/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Confort d’été",
-        "Énergie"
-      ],
-      "summary": "Exclusif – GreenUnivers publie l’édition 2025 de sa synthèse des résultats financiers annuels des principaux producteurs d’énergies renouvelables – principalement de l’électricité -, français ou actifs en France. Les données ont été collectées L’article Les résultats des principa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-9-1784216760000",
-      "title": "Lauréat du dernier AO solaire sur bâtiment, Diméo Énergie ouvre son capital",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/laureat-du-dernier-ao-solaire-batiment-dimeo-energie-ouvre-son-capital-429738/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Exclusif – Le développeur photovoltaïque Diméo Energie, lauréat de la dernière session de l’appel d’offres (AO) solaire sur bâtiment, cherche des investisseurs. Selon nos informations, le dossier circule L’article Lauréat du dernier AO solaire sur bâtiment, Diméo Énergie ouvre so…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-7-1784206800000",
+      "id": "pv-magazine-france-rss-9-1784206800000",
       "title": "Ouverture du guichet pour le nouveau dispositif de leasing social pour les pompes à chaleur",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -7962,56 +8547,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Le guichet de candidature pour les partenaires s'ouvre officiellement aujourd'hui, le 16 juillet 2026 et les lauréats de l'appel à projets seront sélectionnés et annoncés le 15 septembre 2026. Le guichet de candidature pour les partenaires s'ouvre officiellement aujourd'hui, le 1…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-8-1784203200000",
-      "title": "Une centrale solaire de 130 kWc sur le toit de l’Hôtel d’Alsace",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/07/16/une-centrale-solaire-de-130-kwc-sur-le-toit-de-lhotel-dalsace/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Énergie"
-      ],
-      "summary": "La Collectivité européenne d’Alsace équipe son siège d’une centrale solaire en autoconsommation de 130 kWc. La Collectivité européenne d’Alsace équipe son siège d’une centrale solaire en autoconsommation de 130 kWc. Une centrale solaire de 130 kWc sur le toit de l’Hôtel d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-9-1784193300000",
-      "title": "Raccordement des EnR : 10 % du territoire français déjà saturé",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/07/16/raccordement-des-enr-10-du-territoire-francais-deja-sature/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Énergie"
-      ],
-      "summary": "Enedis et RTE ont publié, hier, une cartographie montrant que 10 % du territoire français est saturé et ne peut plus accueillir de nouvelles capacités de production d'énergies renouvelables en l’état. Enedis et RTE ont publié, hier, une cartographie montrant que 10 % du territoir…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8067,14 +8602,14 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-247074-1784226305000",
-      "title": "L&rsquo;essentiel de la semaine du 13 juillet 2026 en quelques clics",
+      "id": "le-journal-du-grand-paris-rss-9-1784226305000",
+      "title": "L’essentiel de la semaine du 13 juillet 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
       "region": "Île-de-France",
       "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-13-juillet-2026-en-quelques-clics/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/CAO-4.jpg",
+      "image": null,
       "date": "2026-07-16",
       "access": "Accès gratuit partiel",
       "official": false,
@@ -8086,115 +8621,12 @@ window.BATIVEILLE_DATA = {
         "Urbanisme",
         "Immobilier"
       ],
-      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l&rsquo;essentiel de l&rsquo;actualité de la semaine écoulée. Durant celle du 13 juillet, le Centre aquatique olympique se préparait à accueillir les championnats d’Europe de natation.",
+      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. Durant celle du 13 juillet, le Centre aquatique olympique se préparait à accueillir les championnats d’Europe de natation. Retrouvez chaque vendredi dans Le journal du Grand…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-247080-1784226200000",
-      "title": "Paris La Défense signe pour la réalisation de 64 000 m² de programmes mixtes",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/paris-la-defense-signe-pour-la-realisation-de-64-000-m%c2%b2-de-programmes-mixtes/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Visuel-de-concours-KAUFMAN-BROAD-et-ECDM.png",
-      "date": "2026-07-16",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Biosourcé"
-      ],
-      "summary": "Paris La Défense vient d’annoncer la signature de cinq actes concernant la réalisation de 64 000 m² de programmes mixtes et 900 logements à venir d’ici 2032 dans les quartiers des Groues et de la ZAC Seine-Arche à Nanterre (Hauts-de-Seine). Répartis sur plusieurs opérations, ces …",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246979-1784202658000",
-      "title": "ESS : un poids économique discret mais structurant dans le Grand Paris",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/ess-un-poids-economique-discret-mais-structurant-dans-le-grand-paris/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/01/ZACFraternite_©Jgp_3235.jpg",
-      "date": "2026-07-16",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "L’Atelier parisien d’urbanisme (Apur) et la Chambre régionale de l’économie sociale et solidaire d'Île-de-France viennent de publier une étude faisant l'état des lieux de l’économie sociale et solidaire (ESS) dans la métropole du Grand Paris. Si ce secteur représente une part enc…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-247051-1784202286000",
-      "title": "À Paris, les cadres de la tech et de la finance redessinent le marché de la location de luxe",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/a-paris-les-cadres-de-la-tech-et-de-la-finance-redessinent-le-marche-de-la-location-de-luxe/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2023/06/230622__barnes_rentals___paris_8e.jpg",
-      "date": "2026-07-16",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Porté par une demande étrangère record et l'essor de la mobilité professionnelle, le marché locatif parisien de prestige se transforme en profondeur, déplaçant ses frontières des quartiers historiques vers de nouveaux bastions de l'est parisien.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-247082-1784200137000",
-      "title": "Le CAO métropole du Grand Paris repasse en mode compétition",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/le-cao-metropole-du-grand-paris-repasse-en-mode-competition/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/CAO-6.jpg",
-      "date": "2026-07-16",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Les travaux vont bon train au Centre aquatique olympique métropole du Grand Paris, sur la Plaine Saulnier, pour préparer l&rsquo;accueil des championnats d&rsquo;Europe de natation, qui se dérouleront du 31 juillet au 16 août 2026.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "acteurs-publics-sitemap-15-1784215080000",
+      "id": "acteurs-publics-sitemap-16-1784215080000",
       "title": "doublons effectifs de fonctionnaires donnees ia externalisation la revue de presse internationale",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8218,7 +8650,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-16-1784224380000",
+      "id": "acteurs-publics-sitemap-17-1784224380000",
       "title": "la grande majorite des ministeres seront soumis a des economies denvergure en 2027",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8242,7 +8674,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-17-1784205720000",
+      "id": "acteurs-publics-sitemap-18-1784205720000",
       "title": "face a linflation des amendements sebastien lecornu appelle le gouvernement a solliciter des avis du conseil detat",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8266,7 +8698,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-18-1784203920000",
+      "id": "acteurs-publics-sitemap-19-1784203920000",
       "title": "lexecutif repousse a plus tard lalignement des primes des ingrnieurs des ponts sur celles des administrateurs de letat",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8290,7 +8722,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-19-1784200800000",
+      "id": "acteurs-publics-sitemap-20-1784200800000",
       "title": "un nouveau rapport dinspection pointe du doigt labsence de gouvernance en matiere dia",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8315,7 +8747,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-20-1784198940000",
+      "id": "acteurs-publics-sitemap-21-1784198940000",
       "title": "education nationale douanes fonction publique territoriale",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8339,7 +8771,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-21-1784199600000",
+      "id": "acteurs-publics-sitemap-22-1784199600000",
       "title": "gestion des contractuels silence de ladministration mal etre la mediatrice de leducation nationale dresse un bilan preoccupant",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8363,7 +8795,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-22-1784224680000",
+      "id": "acteurs-publics-sitemap-23-1784224680000",
       "title": "finances publiques les experts missionnes par lexecutif privilegient la priorisation et ecartent la politique du rabot",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8388,7 +8820,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-23-1784195760000",
+      "id": "acteurs-publics-sitemap-24-1784195760000",
       "title": "20260707 quotidienne",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8412,7 +8844,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-24-1784215980000",
+      "id": "acteurs-publics-sitemap-25-1784215980000",
       "title": "recours a linspection du travail dans la fonction publique le conseil detat valide une reforme contestee",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8459,7 +8891,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-369-1784129974000",
+      "id": "ministere-de-la-transition-ecologique-sitemap-370-1784129974000",
       "title": "ministere partenaire du film danimation fille nuages",
       "source": "Ministère de la Transition Écologique",
       "sourceId": "ministere-de-la-transition-ecologique",
@@ -8841,104 +9273,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-16-1784156700000",
-      "title": "Innovation Awards : record battu pour Paris Builders Show",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/innovation-awards-record-paris-builders-show-49063",
-      "image": "https://img.batiweb.com/repo-images/publi/49063/parisbuildersshow-08-06-une.jpg",
-      "date": "2026-07-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "En battant le record du nombre de participants, les Innovation Awards confirment l’élan d’innovation porté par les exposants de Paris Builders Show 2026. En battant le record du nombre de participants, les Innovation Awards confirment l’élan d’innovation porté par les exposants d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-17-1784156700000",
-      "title": "Délai Premium JELD-WEN : vos portes et huisseries sans attendre",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/jeld-wen-delai-premium-portes-huisseries-49040",
-      "image": "https://img.batiweb.com/repo-images/publi/49040/jeldwen-08-25-une.jpg",
-      "date": "2026-07-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Bâtiment"
-      ],
-      "summary": "Besoin d’accélérer vos chantiers ? JELD-WEN livre vos portes stratifiées et huisseries en délai premium, rapidement et simplement. Besoin d’accélérer vos chantiers ? JELD-WEN livre vos portes stratifiées et huisseries en délai premium, rapidement et simplement. Délai Premium JELD…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-18-1784156700000",
-      "title": "Comment rénover et réparer le bâti ancien et contemporain",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/renover-reparer-bati-ancien-contemporain-49032",
-      "image": "https://img.batiweb.com/repo-images/publi/49032/weber-07-17-une.jpg",
-      "date": "2026-07-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réemploi",
-        "Rénovation",
-        "Bâtiment"
-      ],
-      "summary": "Depuis de nombreuses années, Saint-Gobain Weber s’engage en faveur d’une construction et d’une rénovation plus durables. Préservation du bâti ancien, amélioration de la performance énergétique et réduction des émissions de CO₂ : les enjeux du secteur nécessitent des solutions con…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-19-1784125200000",
-      "title": "31 % des dirigeants de TPE ne prendront pas de congés cet été, selon un Sondage Ifop",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/etude/dirigeants-tpe-conges-ete-2026-49092",
-      "image": "https://img.batiweb.com/repo-images/article/49092/vvcv.jpg",
-      "date": "2026-07-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Confort d’été"
-      ],
-      "summary": "Le baromètre Ifop-Fiducial révèle que les dirigeants de TPE prennent en moyenne 20 jours de congés par an. Près d’un tiers ne partiront pas cet été, notamment faute de moyens ou de personnel. Le baromètre Ifop-Fiducial révèle que les dirigeants de TPE prennent en moyenne 20 jours…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "urbalyon-rss-1-1784125293000",
+      "id": "urbalyon-rss-2-1784125293000",
       "title": "Coopérations inter-territoires pour l'agriculture et l'alimentation",
       "source": "UrbaLyon",
       "sourceId": "urbalyon",
@@ -8959,7 +9294,7 @@ window.BATIVEILLE_DATA = {
         "Réglementation",
         "Eau"
       ],
-      "summary": "Coopérations inter-territoires pour l'agriculture et l'alimentation webmaster mer 15/07/2026 - 16:21 Vous ne savez pas ce que sont les coopérations inter-territoires agri-alim? Visionnez l'ensemble des rencontres en un clin d'oeil : Les rencontres ALIM AGRI inter-Territoires : re…",
+      "summary": "Coopérations inter-territoires pour l'agriculture et l'alimentation webmaster mer 15/07/2026 - 16:21 Vous ne savez pas ce que sont les coopérations inter-territoires agri-alim? Visionnez l'ensemble des rencontres en un clin d'oeil : Web TV Les rencontres ALIM AGRI inter-Territoir…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9415,7 +9750,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-8-1784106993000",
+      "id": "filiere-3e-rss-9-1784106993000",
       "title": "Nouvelle pompe à chaleur air/eau Compress 3800i AW",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -9517,7 +9852,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1784127600000",
+      "id": "reporterre-rss-35-1784127600000",
       "title": "L'augmentation de la poussière en Europe pourrait menacer la santé publique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9543,7 +9878,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1784127524000",
+      "id": "reporterre-rss-36-1784127524000",
       "title": "Les futurs trains Eurostar pourront supporter des étés à 55 °C",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9568,7 +9903,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1784126342000",
+      "id": "reporterre-rss-37-1784126342000",
       "title": "Pesticides, eau... Des mesures « cataclysmiques » arrivent devant les parlementaires",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9594,7 +9929,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1784122378000",
+      "id": "reporterre-rss-38-1784122378000",
       "title": "T-shirt technique, mouillé ou en lin : ces vêtements qui peuvent nous rafraîchir",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9620,7 +9955,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1784122229000",
+      "id": "reporterre-rss-39-1784122229000",
       "title": "Data centers : le soutien « effréné » du gouvernement dénoncé dans un rapport parlementaire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9645,7 +9980,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1784117816000",
+      "id": "reporterre-rss-40-1784117816000",
       "title": "Canicule : trois réacteurs nucléaires toujours à l'arrêt en France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9671,7 +10006,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1784097000000",
+      "id": "reporterre-rss-41-1784097000000",
       "title": "640 habitants et des montagnes de déchets dangereux : un village refuse de devenir la « poubelle » du Grand Paris",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9697,7 +10032,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1784093400000",
+      "id": "reporterre-rss-42-1784093400000",
       "title": "« La terre, c'est la vie » : à Bagnolet, des potagers « pirates » pour trouer le béton",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9722,7 +10057,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1784093400000",
+      "id": "reporterre-rss-43-1784093400000",
       "title": "Pesticides interdits : « Le gouvernement offre un consentement à l'empoisonnement alimentaire de la population »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9848,83 +10183,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-246760-1784123325000",
-      "title": "Saint-Agne immobilier inaugure une nouvelle résidence à Torcy",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/saint-agne-immobilier-inaugure-une-nouvelle-residence-a-torcy/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/REFLETMARNE-VueCoeurIlot_HD-scaled.jpg",
-      "date": "2026-07-15",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Le groupe Saint-Agne immobilier a inauguré, jeudi 9 juillet, sa nouvelle résidence \"Reflet Marne\" à Torcy, en Seine-et-Marne. Situé dans la ZAC des Coteaux de la Marne, ce programme de 66 logements en structure mixte bois-béton marque la septième livraison du promoteur en Île-de-…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-247004-1784120866000",
-      "title": "Icade reprend la main sur la tour Eqho",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/icade-reprend-la-main-sur-la-tour-eqho/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2025/12/Capture-décran-2025-12-09-à-12.25.17.png",
-      "date": "2026-07-15",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Le groupe immobilier a annoncé le rachat des parts de ses partenaires sud-coréens pour devenir l’unique propriétaire de ce gratte-ciel emblématique de La Défense. Cette opération, facilitée par le remplissage complet de l’immeuble, promet selon Icade une rentabilité immédiate.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246823-1784120452000",
-      "title": "À La Défense, la tour CB21 entame sa mue sous la houlette de l&rsquo;architecte Nicolas Sisto",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/a-la-defense-la-tour-cb21-entame-sa-mue-sous-la-houlette-de-larchitecte-nicolas-sisto/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Perspective-SkySuite-CB21-©-Sisto-Studios.jpg",
-      "date": "2026-07-15",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Cinq décennies après sa livraison, la tour CB21, l'un des immeubles emblématiques de La Défense, propriété de la foncière Covivio depuis 2009, fait l'objet d'un projet de rénovation confié à l'architecte Nicolas Sisto, qui entend renouer avec les qualités du design d'origine tout…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "acteurs-publics-sitemap-25-1784122620000",
+      "id": "acteurs-publics-sitemap-26-1784122620000",
       "title": "avec lannonce delintegration dune part des primes dans le calcul des retraites des militaires le president leve un tabou",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -9949,7 +10208,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-26-1784121660000",
+      "id": "acteurs-publics-sitemap-27-1784121660000",
       "title": "dependance numerique des parlementaires veulent imposer lopen source des 2030 dans ladministration",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -9973,7 +10232,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-27-1784122800000",
+      "id": "acteurs-publics-sitemap-28-1784122800000",
       "title": "on coupera a la hache on assume jean philippe tanguy reaffirme le projet du rn de supprimer les agences de letat",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -9997,7 +10256,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-28-1784121540000",
+      "id": "acteurs-publics-sitemap-29-1784121540000",
       "title": "souffrance au travail remunerations procedure de sortie insp",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -10021,7 +10280,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-29-1784120100000",
+      "id": "acteurs-publics-sitemap-30-1784120100000",
       "title": "maladie contractuels surcharge de travail absenteisme la justice recadre lusage du regime de primes des fonctionnaires",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -10071,7 +10330,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1784007000000",
+      "id": "reporterre-rss-44-1784007000000",
       "title": "Devenir une « ville éponge » : la solution de Berlin face à la sécheresse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10097,7 +10356,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1784007000000",
+      "id": "reporterre-rss-45-1784007000000",
       "title": "« C'est une forme de résistance » : il reconstruit le musée d'histoire naturelle de Palestine",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10171,104 +10430,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-246962-1784050096000",
-      "title": "Plastique : le débat sur la consigne s’invite à la conférence nationale des déchets ménagers",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
+      "id": "connaissance-des-energies-rss-0-1783987200000",
+      "title": "Empreinte carbone des vacances : comment aider les touristes à laisser leur voiture au garage ?",
+      "source": "Connaissance des Énergies",
+      "sourceId": "connaissance-des-energies",
       "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/plastique-la-souverainete-industrielle-passe-t-elle-par-la-reduction-des-usages/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/conf-dechets-2026-C-Duprey-©Jgp4923.jpg",
+      "region": "National",
+      "url": "https://www.connaissancedesenergies.org/tribune-actualite-energies/empreinte-carbone-des-vacances-comment-aider-les-touristes-a-laisser-leur-voiture-au-garage",
+      "image": "https://images.connaissancedesenergies.org/articles/image-article/aude-andrup-tribune.webp",
       "date": "2026-07-14",
-      "access": "Accès gratuit partiel",
+      "access": "Gratuit",
       "official": false,
       "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "La 9e Conférence nationale des déchets, qui s'est tenue le 8 juillet 2026, a une nouvelle fois mis en lumière les tensions autour du projet de consigne pour recyclage des bouteilles en plastique, tandis que la première table ronde était consacrée aux enjeux de souveraineté indust…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246957-1784047356000",
-      "title": "14 juillet : les Grands-Parisiens décorés de la Légion d&rsquo;honneur",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/14-juillet-les-grands-parisiens-decores-de-la-legion-dhonneur/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2021/01/LH.jpg",
-      "date": "2026-07-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Ils sont entrepreneurs, élus, opérateurs de services urbains, artistes, prélats : consultez la liste des personnalités décorées de la Légion d'honneur ce 14 juillet et concourant de près ou de loin, au Grand Paris.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246952-1784044085000",
-      "title": "Jean-Philippe Dugoin-Clément élu à la présidence du Siarce",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/jean-philippe-dugoin-clement-elu-a-la-presidence-du-siarce/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Siarce.jpeg",
-      "date": "2026-07-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
       "impactScore": 96,
       "tags": [
         "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Confort d’été"
+        "Énergie",
+        "Statistiques",
+        "Pédagogie",
+        "Réglementation",
+        "Carbone"
       ],
-      "summary": "Le maire (UDI) de Mennecy et vice-président du conseil régional d'Île-de-France Jean-Philippe Dugoin-Clément a été élu le 9 juillet à la présidence du syndicat de l'eau et des réseaux de l'Essonne.",
+      "summary": "En France, la mobilité constitue la principale source d'émissions de gaz à effet de serre du tourisme. La place prépondérante de la voiture individuelle, qui représente 79 % des arrivées touristiques, doit être questionnée : des leviers existent pour faciliter le recours à des mo…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246944-1784030355000",
-      "title": "Pascal Popelin – Insatiable",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/pascal-popelin-insatiable/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Pascal-Popelin-paysage-©-Jgp.jpg",
-      "date": "2026-07-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "A l’âge où certains mesurent le chemin parcouru et préparent leur retraite, Pascal Popelin continue la seule chose qu’il sait faire. Livrer des combats, désormais non plus en tant qu’élu séquano-dionysien mais en tant qu’aménageur, à la tête d’une Maison Séquano qu’il a redressée…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
       "id": "alliance-hqe-gbc-rss-0-1783967331000",
@@ -10374,7 +10559,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1783960298000",
+      "id": "reporterre-rss-46-1783960298000",
       "title": "Fontainebleau, symbole de la remontée des incendies vers le nord",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10400,7 +10585,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1783956136000",
+      "id": "reporterre-rss-47-1783956136000",
       "title": "12 projets de mégabassines retoqués en Poitou-Charentes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10426,7 +10611,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1783955109000",
+      "id": "reporterre-rss-48-1783955109000",
       "title": "Plus de 60 °C sur un toboggan : Paris n'est pas adaptée aux fortes chaleurs, dénonce Greenpeace",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10452,7 +10637,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1783953940000",
+      "id": "reporterre-rss-49-1783953940000",
       "title": "Tefal : autour de l'usine, la pollution aux PFAS peut présenter des risques pour la santé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10478,7 +10663,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1783951683000",
+      "id": "reporterre-rss-50-1783951683000",
       "title": "Les pôles fondent ? Les riches touristes s'y précipitent pour se rafraîchir",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10504,7 +10689,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1783948006000",
+      "id": "reporterre-rss-51-1783948006000",
       "title": "Des traces d'acétamipride dans le Nutella et des miels importés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10529,7 +10714,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1783947602000",
+      "id": "reporterre-rss-52-1783947602000",
       "title": "Sécheresse : un quart des petits cours d'eau sont à sec en France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10555,7 +10740,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1783927666000",
+      "id": "reporterre-rss-53-1783927666000",
       "title": "Coûteux et peu nombreux : les Canadair indispensables pour lutter contre les incendies monstres",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10581,7 +10766,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1783926772000",
+      "id": "reporterre-rss-54-1783926772000",
       "title": "« Le dispositif nous a rappelé Sainte-Soline » : 900 policiers et gendarmes pour contrôler la mobilisation du canal Seine-Nord Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10606,7 +10791,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1783926041000",
+      "id": "reporterre-rss-55-1783926041000",
       "title": "L'Inde s'étonne : pourquoi la France est-elle si peu préparée aux canicules ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10708,7 +10893,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-50-1783836000000",
+      "id": "reporterre-rss-56-1783836000000",
       "title": "Apprenons à aimer la laisse de mer, ce tapis d'algues et sa vie foisonnante",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10786,6 +10971,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "urbalyon-rss-3-1783730920000",
+      "title": "WEB TV Les rencontres ALIM AGRI inter Territoires : rejoignez-nous !",
+      "source": "UrbaLyon",
+      "sourceId": "urbalyon",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.urbalyon.org/fr/web-tv-les-rencontres-alim-agri-inter-territoires-rejoignez-nous",
+      "image": null,
+      "date": "2026-07-11",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Lyon",
+        "Urbanisme",
+        "Habitat",
+        "Foncier",
+        "Eau"
+      ],
+      "summary": "WEB TV Les rencontres ALIM AGRI inter Territoires : rejoignez-nous ! Anonyme (non vérifié) sam 11/07/2026 - 02:48 2022 - 0:15 Evolution des pratiques agricoles à Valeins 0:53 Outil des logistique et de transformation à Brignais et Mornant 1:44 ... Image couverture Texte chapeau T…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "mediatico-rss-6-1783753200000",
       "title": "Hugues Sibille : « L’ESS va-t-elle réussir à changer la trajectoire du Titanic » pour construire un avenir désirable ?",
       "source": "Mediatico",
@@ -10811,7 +11021,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1783788605000",
+      "id": "reporterre-rss-57-1783788605000",
       "title": "« Ce projet n'a aucun sens » : la mobilisation s'amplifie contre le canal Seine-Nord Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10836,7 +11046,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1783749600000",
+      "id": "reporterre-rss-58-1783749600000",
       "title": "Sensibilité animale : travaillons à ôter nos œillères !",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10860,7 +11070,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1783749600000",
+      "id": "reporterre-rss-59-1783749600000",
       "title": "Marche aquatique sur ordonnance : oui, la mer a des vertus thérapeutiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10882,31 +11092,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Une association marseillaise propose marche aquatique, randonnée palmée ou plongée... sur ordonnance. Les activités sont adaptées à chaque patient et la mer Méditerranée devient une partenaire thérapeutique à part entière. Lentement, mais sûrement, mettez les pieds dans l'eau. Re…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-54-1783749600000",
-      "title": "La brutalisation de la vie sensible nous mène-t-elle au fascisme ?",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/La-brutalisation-de-la-vie-sensible-nous-mene-t-elle-au-fascisme",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH466/illustration_recension-paul-klotz_juin_2026_def-v02-6917e.jpg?1783749601",
-      "date": "2026-07-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Confort d’été"
-      ],
-      "summary": "La vie sensible disparaît. Du béton à perte de vue, des pixels plein les yeux. Il s'agit d'un « dessèchement progressif de la réalité », écrit Paul Klotz. Cette « brutalisation », selon d'autres auteurs, pourrait même nous faire basculer dans le totalitarisme. On se souvient du p…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10962,32 +11147,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-246934-1783789426000",
-      "title": "Canicule : la Caisse d&rsquo;Epargne Île-de-France offre 33 climatiseurs à la Pitié-Salpêtrière",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/canicule-la-caisse-depargne-ile-de-france-offre-33-climatiseurs-a-la-pitie-salpetriere/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/1783694174396.jpeg",
-      "date": "2026-07-11",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été"
-      ],
-      "summary": "En pleine vague de chaleur, la Caisse d&rsquo;Epargne Île-de-France a livré en urgence 33 climatiseurs mobiles au groupe hospitalier de la Pitié-Salpêtrière, à Paris. Cette opération de mécénat vise à soulager en priorité le service d&rsquo;oncologie médicale du professeur Jean-P…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-370-1783695699000",
+      "id": "ministere-de-la-transition-ecologique-sitemap-371-1783695699000",
       "title": "7 idees recues vagues chaleur",
       "source": "Ministère de la Transition Écologique",
       "sourceId": "ministere-de-la-transition-ecologique",
@@ -11585,32 +11745,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-9-1783674416000",
-      "title": "ADM21 et Contec lancent une nouvelle série de PC embarqués",
-      "source": "Filière 3e",
-      "sourceId": "filiere-3e",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.filiere-3e.fr/2026/07/10/adm21-et-contec-lancent-une-nouvelle-serie-de-pc-embarques/",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Électricité",
-        "CVC",
-        "Bâtiment intelligent",
-        "Énergie",
-        "RE2020"
-      ],
-      "summary": "La série d'ordinateurs embarqués BX-T5000 est dotée d'une conception sans ventilateur, refroidie par air naturel, permettant un fonctionnement sur une large plage de températures (de -20 à 55 °C). L’article ADM21 et Contec lancent une nouvelle série de PC embarqués est apparu en …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "techniques-de-lingenieur-actualites-sitemap-0-1783693681000",
       "title": "actualite",
       "source": "Techniques de l’Ingénieur Actualités",
@@ -11685,134 +11819,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1783691756000",
-      "title": "Moules, escargots... 125 espèces de mollusques menacées par l'exploitation minière",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Moules-escargots-125-especes-de-mollusques-menacees-par-l-exploitation-miniere",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/8467448241_9c8b11d8cb_k_1_-c3607.jpg?1783691761",
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Une mise à jour inquiétante. Le 9 juillet, l'Union internationale pour la conservation de la nature (UICN) a dévoilé les dernières connaissances acquises concernant la liste rouge des espèces menacées. On y découvre qu'un risque d'extinction pèse sur plus de la moitié des mollusq…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-56-1783690432000",
-      "title": "Protection de la nature : la loi fondatrice a 50 ans, mais « elle n'a pas suffi »",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Protection-de-la-nature-la-loi-fondatrice-a-50-ans-mais-elle-n-a-pas-suffi",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250930__2603386__v1__highres__whitestorksciconiaciconiaforaginginfrontofthetr_1_-04dcb.jpg?1783690441",
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "La loi sur la protection de la nature fête ses 50 ans, mais n'a jamais été aussi affaiblie. Les reculs qui se multiplient lors du second quinquennat d'Emmanuel Macron mettent en péril ce texte fondateur, estime l'historien Rémi Luglia. Adoptée le 10 juillet 1976, la loi relative …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-57-1783690287000",
-      "title": "La biodiversité victime de la rigueur budgétaire",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/La-biodiversite-victime-de-la-rigueur-budgetaire",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/minotaure2-9a06a.jpg?1783690289",
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Confort d’été"
-      ],
-      "summary": "C'est l'une des victimes de la rigueur budgétaire. La Stratégie nationale biodiversité pour la période 2023-2030 n'a reçu jusqu'ici que 40 % du budget qui lui avait été promis. Le calcul a été fait par la sénatrice Les Républicains Christine Lavarde, vice-présidente de la commiss…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-58-1783687050000",
-      "title": "La pétition contre la « présomption de légitime défense » de la police recueille plus de 500 000 signatures",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/La-petition-contre-la-presomption-de-legitime-defense-de-la-police-recueille-plus-de-500",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/img_0212-1e8d5.jpg?1783687053",
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation"
-      ],
-      "summary": "Un petit air de déjà-vu. À l'image de celle contre la loi Duplomb, déposée il y a un an, une pétition sur le site de l'Assemblée nationale a dépassé le 9 juillet la barre des 500 000 signatures. présomption de légitime défense » en cas d'usage de leurs armes à feu. Nous exigeons …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1783685608000",
-      "title": "« Vol d'eau » dans le Marais poitevin : des sabotages au profit de l'agro-industrie ?",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Vol-d-eau-dans-le-Marais-poitevin-des-sabotages-au-profit-de-l-agro-industrie",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH466/afp__20240909__hl_epays_2507116__v1__highres__francetourismholidaysmarshpoitevin-32efe.jpg?1783685628",
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Deux barrages du Marais poitevin ont été ouverts en pleine nuit au cœur d'une sécheresse historique. Fragilisant écosystèmes et activité économique, ces actes de sabotage auraient profité aux grandes exploitations céréalières du marais desséché. IIBSN), alerté par l'effondrement …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-17-1783697721000",
       "title": "La France bat (encore) son record d’exportation d’électricité sur un semestre",
       "source": "Révolution Énergétique",
@@ -11864,7 +11870,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-0-1783641600000",
+      "id": "connaissance-des-energies-rss-1-1783641600000",
       "title": "Leasing social des pompes à chaleur : le pari d'une nouvelle économie de l'électrification",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -11889,7 +11895,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-1-1783641600000",
+      "id": "connaissance-des-energies-rss-2-1783641600000",
       "title": "Stockage d'électricité : « la batterie à eau » bat de nouveaux records",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -11965,133 +11971,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246910-1783691505000",
-      "title": "Financement public de l’innovation : un paysage complexe et mouvant",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/financement-public-de-linnovation-un-paysage-complexe-et-mouvant/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2022/03/©-bpifrance.jpeg",
-      "date": "2026-07-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "État, Région, Ville de Paris, Banque publique de l’innovation… De nombreux acteurs apportent leur appui à des start-up qui ont besoin de soutien pour développer une innovation. Mais avec des conditions d’accès qui se durcissent, en matière de solidité financière en particulier.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246893-1783688961000",
-      "title": "Pierre Lombard : « Nous nous attaquons aux anomalies de propreté récurrentes »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/pierre-lombard-nous-nous-attaquons-aux-anomalies-de-proprete-recurrentes/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Lombard.jpg",
-      "date": "2026-07-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "Adjoint au maire de Paris chargé de la propreté, de l'assainissement, de la réduction des déchets et de l'économie circulaire, Pierre Lombard détaille la démarche « points noirs », inspirée d'une étude conduite avec le Pavillon de l'Arsenal par Baptiste Potier, Deborah Feldman et…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246904-1783687331000",
-      "title": "Comment les ports s&rsquo;intègrent dans leur environnement",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/comment-les-ports-sintegrent-dans-leur-environnement/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/SEINE2.jpg",
-      "date": "2026-07-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été"
-      ],
-      "summary": "Le dernier opus des désormais traditionnels \"Ateliers flottants\" organisés par Haropa port à Paris s'est tenu mercredi 8 juillet. Le temps d'une croisière fluviale aller-retour entre le port Debilly (16e arr.) et celui de Bercy (12e arr.), la mixité des usages aura été au coeur d…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246897-1783686814000",
-      "title": "Électricité : l&rsquo;Île-de-France consomme 15 fois plus qu&rsquo;elle ne produit",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/electricite-lile-de-france-consomme-15-fois-plus-quelle-ne-produit/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2020/04/Enedis-2.jpg",
-      "date": "2026-07-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Publié en juillet 2026, le bilan électrique 2025 de RTE en Île-de-France confirme la dépendance structurelle de la région : 66,3 TWh consommés, 2,9 TWh produits. Le gestionnaire du réseau de transport y prévoit jusqu&rsquo;à 6 milliards d&rsquo;euros d&rsquo;investissements sur 1…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246889-1783674170000",
-      "title": "Les marchés du Grand Paris – Le Port de Gennevilliers se met au vert pour protéger la Seine",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-marches-du-grand-paris-le-port-de-gennevilliers-se-met-au-vert-pour-proteger-la-seine/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/04/GEN3-bis.jpg",
-      "date": "2026-07-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Haropa port a officiellement lancé un projet de construction d'un nouvel ouvrage de dépollution au sein du port de Gennevilliers. Cette initiative vise à traiter les eaux de pluie avant leur rejet dans la Seine, renforçant ainsi la protection de l'environnement local.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
     },
     {
       "id": "association-bbca-rss-0-1783616549000",
@@ -12745,7 +12624,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-2-1783555200000",
+      "id": "connaissance-des-energies-rss-3-1783555200000",
       "title": "Chèque énergie : le vrai sujet n'est plus seulement l'aide, mais son accès",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -12769,7 +12648,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-3-1783555200000",
+      "id": "connaissance-des-energies-rss-4-1783555200000",
       "title": "Le Québec publie son premier Plan de gestion intégrée des ressources énergétiques",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -12793,7 +12672,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-4-1783555200000",
+      "id": "connaissance-des-energies-rss-5-1783555200000",
       "title": "Les émissions de GES au premier trimestre",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -12841,185 +12720,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Face à la hausse des coûts de carburant et au durcissement des réglementations environnementales, le poids lourd électrique s’impose progressivement comme une alternative au diesel pour les professionnels du transport. Il gagne aujourd’hui en pertinence grâce aux progrès de l’aut…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246791-1783622309000",
-      "title": "L&rsquo;essentiel de la semaine du 6 juillet en quelques clics",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-6-juillet-en-quelques-clics/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Capture-decran_6-7-2026_15640_www.datapressepremium.com_.jpeg",
-      "date": "2026-07-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l&rsquo;essentiel de l&rsquo;actualité de la semaine écoulée. L’information majeure de celle du 6 juillet aura été l’adoption au Sénat du projet de loi logement, un texte très attendu qui entend répondre aux tensions du mar…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246850-1783621811000",
-      "title": "Valérie Létard et Vincent Jeanbrun distingués par les Acteurs du Grand Paris",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/valerie-letard-et-vincent-jeanbrun-distingues-par-les-acteurs-du-grand-paris/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Hantz-5.jpg",
-      "date": "2026-07-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Bâtiment"
-      ],
-      "summary": "Réunis pour leur cocktail estival dans les jardins de la Maison de l'Amérique latine, les Acteurs du Grand Paris ont décerné leur Grand Prix Grand Paris de la personnalité de l'année à Valérie Létard, ancienne ministre du Logement, députée (UDI) du Nord. Cette année, la distincti…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246828-1783611299000",
-      "title": "Paris va mettre en œuvre une taxe sur les logements vacants",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/paris-va-mettre-en-oeuvre-une-taxe-sur-les-logements-vacants/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2024/10/Baudrier-2.jpg",
-      "date": "2026-07-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "En exploitant à plein les nouvelles possibilités de taxer les logements vacants grâce à la taxe sur la vacance des locaux d'habitation (TVLH), Paris espère remettre 20 000 logements sur le marché.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246824-1783611065000",
-      "title": "La canicule va faire monter la température au prochain conseil de Paris",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/la-canicule-va-faire-monter-la-temperature-au-prochain-conseil-de-paris/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Emile-Meunier.jpg",
-      "date": "2026-07-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Les leçons de la canicule vont alimenter les polémiques lors du prochain Conseil de Paris, qui se tient du 15 au 17 juillet prochains. Les élus insoumis entendent mettre en demeure la municipalité d&rsquo;élaborer une programmation pluriannuelle de rénovation thermique et d&rsquo…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246764-1783594431000",
-      "title": "Le Sénat adopte le projet de loi logement, malgré l&rsquo;opposition de la gauche",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/le-senat-adopte-le-projet-de-loi-logement-malgre-lopposition-de-la-gauche/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Capture-decran_9-7-2026_123844_videos.senat_.fr_.jpeg",
-      "date": "2026-07-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Rénovation"
-      ],
-      "summary": "Mercredi 8 juillet, le Sénat a adopté le projet de loi porté par le ministre du Logement, Vincent Jeanbrun. Fiscalité, logement social, rénovation énergétique et décentralisation : les sénateurs ont remanié le texte avant son examen à l'Assemblée nationale, prévu en septembre.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246758-1783591019000",
-      "title": "Pierre-Christophe Baguet élu président de l&rsquo;Alliance des Territoires",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/pierre-christophe-baguet-elu-president-de-lalliance-des-territoires/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/04/Baguet-5.jpg",
-      "date": "2026-07-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Le maire LR de Boulogne-Billancourt et président de l’EPT Grand Paris Seine Ouest (Hauts-de-Seine) a été élu président de l’Alliance des territoires du Grand Paris par les présidents des établissements publics territoriaux réunis en assemblée générale annuelle le 23 juin. Pierre-…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246748-1783586160000",
-      "title": "Guillaume Aubert nommé directeur général de Sogaris à titre provisoire",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/guillaume-aubert-nomme-directeur-general-de-sogaris-a-titre-provisoire/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Guillaume-Aubert.-©-Sogaris.jpg",
-      "date": "2026-07-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Suite à la nomination de Jonathan Sebbane à la tête du CSTB, Sogaris a désigné Guillaume Aubert, directeur général adjoint de l'entreprise de logistique urbaine depuis 2016, pour assurer les fonctions de directeur général à titre provisoire.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
     },
     {
       "id": "association-bbca-rss-2-1783523624000",
@@ -13976,7 +13676,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-5-1783468800000",
+      "id": "connaissance-des-energies-rss-6-1783468800000",
       "title": "Tarification dynamique : « une opportunité pour profiter des prix négatifs »",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -14002,7 +13702,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-6-1783468800000",
+      "id": "connaissance-des-energies-rss-7-1783468800000",
       "title": "Que deviennent les fûts de déchets radioactifs immergés dans l'Atlantique dans les années 1970 et 1980 ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -14025,105 +13725,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Entre 1971 et 1982, plus de 200 000 fûts de déchets radioactifs ont été immergés dans l'Atlantique Nord-Est, jusqu'à plus de 4 700 mètres de profondeur. Les campagnes scientifiques NODSSUM 2025 et 2026, menées par le CNRS avec la Flotte océanographique française, livrent les prem…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246690-1783528906000",
-      "title": "Athis-Mons dresse le bilan des Quartiers métropolitains d&rsquo;innovation",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/athis-mons-dresse-le-bilan-des-quartiers-metropolitains-dinnovation/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/IMG_1974-scaled.jpg",
-      "date": "2026-07-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été"
-      ],
-      "summary": "Un peu plus d’un an après l’entrée d’Athis-Mons dans la deuxième promotion des Quartiers métropolitains d’innovation (QMI), la Ville, Paris&Co et la métropole du Grand Paris ont dressé le bilan des six expérimentations menées sur le territoire. Si quatre d’entre elles ont été dép…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246733-1783528015000",
-      "title": "L’EPI 78/92 disparaît, le rêve de fusion entre les Yvelines et les Hauts-de-Seine aussi",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/lepi-78-92-disparait-le-reve-de-fusion-entre-les-yvelines-et-les-hauts-de-seine-aussi/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2021/11/EPIWL132037.jpg",
-      "date": "2026-07-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Près de dix ans après sa création, l’EPI 78/92 va disparaître, refermant la parenthèse d’un rapprochement inédit entre les Yvelines et les Hauts-de-Seine.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246687-1783523972000",
-      "title": "Transformation du bâti : autant un changement de culture qu&rsquo;un défi technique",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/transformation-du-bati-autant-un-changement-de-culture-quun-defi-technique/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Grimshaw_2-©-Jgp.jpg",
-      "date": "2026-07-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Rénovation"
-      ],
-      "summary": "C’est l’un des enseignements du premier rendez-vous de \"Convictions\", un cycle de tables rondes pour échanger entre professionnels sur les enjeux de la rénovation de l’existant, lancé par Grimshaw le 1er juillet. Un casting de choix était réuni autour d’Alice Barrois, directrice …",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246674-1783522505000",
-      "title": "À Créteil, une nouvelle résidence de 44 logements accompagne la transformation du Haut Mont-Mesly",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/a-creteil-une-nouvelle-residence-de-44-logements-accompagne-la-transformation-du-haut-mont-mesly/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/IMG_5164-1.jpg",
-      "date": "2026-07-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Bâtiment"
-      ],
-      "summary": "Mardi 7 juillet, l'association Foncière logement a inauguré une résidence de 44 logements à loyer libre au 116, rue de Brie, dans le quartier du Haut Mont-Mesly à Créteil (Val-de-Marne), en présence du maire Laurent Cathala. Cette livraison s'inscrit dans un programme de plus de …",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
     },
     {
       "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
@@ -14672,57 +14273,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-246587-1783438669000",
-      "title": "Le commerce extérieur francilien résiste en 2025 malgré les tensions commerciales américaines",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/le-commerce-exterieur-francilien-resiste-en-2025-malgre-les-tensions-commerciales-americaines/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Capture-decran-2026-07-07-a-16.35.43-1-scaled.jpeg",
-      "date": "2026-07-07",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Économie du bâtiment",
-        "Énergie"
-      ],
-      "summary": "Le Centre régional d’observation du commerce, de l’industrie et des services (Crocis) a publié fin juin une étude consacrée au commerce extérieur francilien. Malgré une année 2025 marquée par les premières secousses de la guerre commerciale américaine, l’Île-de-France est parvenu…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246624-1783432533000",
-      "title": "Pascal Pelain élu président de l&rsquo;Association française du développement urbain",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/pascal-pelain-elu-president-de-lassociation-francaise-du-developpement-urbain/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2025/01/Pascal-Pelain.png",
-      "date": "2026-07-07",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été"
-      ],
-      "summary": "Le maire de Villeneuve-la-Garenne a été élu président du conseil d’administration de l'Association française du développement urbain (Afdu) qui rassemble des maires, des dirigeants d’opérateurs publics, des architectes, des aménageurs et des promoteurs. Pascal Pelain succède à Pa…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
       "id": "base-inies-rss-1-1783348074000",
       "title": "Devenez un vérificateur ou une vérificatrice habilité-e du programme INIES !",
       "source": "Base INIES",
@@ -14799,7 +14349,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "capeb-rss-0-1783346687000",
+      "id": "capeb-rss-1-1783346687000",
       "title": "Rénovation énergétique : la CAPEB et Crédit Agricole Personal Finance & Mobility s’allient pour lever le frein du financement des travaux",
       "source": "CAPEB",
       "sourceId": "capeb",
@@ -14823,7 +14373,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "capeb-rss-1-1783328095000",
+      "id": "capeb-rss-2-1783328095000",
       "title": "80 ans : l'anniversaire de notre collectif se prépare",
       "source": "CAPEB",
       "sourceId": "capeb",
@@ -15205,281 +14755,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-246615-1783366371000",
-      "title": "Présidentielle : Philippe Castanet, ex-DGS de la métropole du Grand Paris, dirigera la campagne de David Lisnard",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/presidentielle-philippe-castanet-ex-dgs-de-la-metropole-du-grand-paris-dirigera-la-campagne-de-david-lisnard/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Lisnard-Castanet.jpg",
-      "date": "2026-07-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Énergie"
-      ],
-      "summary": "L'ancien directeur général des services de la Métropole du Grand Paris, qu'il a quittée fin avril, s'apprête à prendre la direction de la campagne présidentielle du maire de Cannes et président de Nouvelle énergie David Lisnard.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246612-1783365051000",
-      "title": "Foncier : les cessions de l&rsquo;Epfif ont permis la programmation de 31 400 logements en cinq ans",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/foncier-les-cessions-de-lepfif-ont-permis-la-programmation-de-31-400-logements-en-cinq-ans/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2021/10/Jean-Philippe-Dugoin-Clement-ok.jpg",
-      "date": "2026-07-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Bâtiment"
-      ],
-      "summary": "Réuni le 29 juin 2026 sous la présidence de Jean-Philippe Dugoin-Clément, le conseil d'administration de l'Etablissement public foncier d'Ile-de-France a approuvé les comptes 2025 et dressé le bilan du programme pluriannuel d'intervention 2021-2025. Les fonciers cédés par l'opéra…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246560-1783353580000",
-      "title": "Spécial canicule (1/3) – Les écoles franciliennes face au défi de l&rsquo;adaptation",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/special-canicule-1-3-les-ecoles-franciliennes-face-au-defi-de-ladaptation/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Cour-oasis-©-Jgp.jpg",
-      "date": "2026-07-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "RE2020",
-        "Confort d’été"
-      ],
-      "summary": "La vague de chaleur exceptionnelle qui a frappé l’Île-de-France à la fin de ce mois de juin a mis en lumière la vulnérabilité du patrimoine scolaire parisien. Salles de classe surchauffées, recommandations du rectorat invitant les familles à garder leurs enfants à domicile, adapt…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246568-1783353357000",
-      "title": "Spécial canicule (2/3) – Le collectif Nos villes à 50°C prône une « doctrine d’habitabilité »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/special-canicule-2-3-le-collectif-nos-villes-a-50c-prone-une-doctrine-dhabitabilite/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Carte-severite-climatique-©-DR.jpg",
-      "date": "2026-07-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été"
-      ],
-      "summary": "En amont d’une conférence organisée le 2 juillet à l’Académie du climat sur la climatisation, des membres du collectif Nos Villes à 50°C créé il y a un an ont présenté une \"doctrine d’habitabilité face à la chaleur\" reposant notamment sur une carte de sévérité climatique définiss…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246580-1783353263000",
-      "title": "Spécial canicule (3/3) – F. Boutté : « Le vrai enjeu n&rsquo;est pas de climatiser les bâtiments, mais de rafraîchir les villes »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/special-canicule-3-3-f-boutte-le-vrai-enjeu-nest-pas-de-climatiser-les-batiments-mais-de-rafraichir-les-villes/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Franck-boutte-2.jpg",
-      "date": "2026-07-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "Alors que les épisodes de canicule se multiplient, le débat sur la climatisation s'intensifie. Pour Franck Boutté, architecte et ingénieur spécialiste de la conception bioclimatique, la question n'est pas d'être pour ou contre la climatisation, mais de réduire autant que possible…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246434-1783350492000",
-      "title": "À Montreuil, l&rsquo;immeuble Marceau mise sur la flexibilité et la durabilité",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/a-montreuil-limmeuble-marceau-mise-sur-la-flexibilite-et-la-durabilite/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/IMG_3599-scaled.jpg",
-      "date": "2026-07-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "AG Real Estate a ouvert, jeudi 2 juillet, les portes de Montreuil Marceau, son futur immeuble de bureaux en cours d'achèvement dans le Bas-Montreuil (Seine-Saint-Denis). Développé par le groupe belge et conçu par l'agence d'architecture AZC, cet ensemble tertiaire de 8 900 m² mis…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246582-1783346140000",
-      "title": "Christel Zordan – La pierre et la manière",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/christel-zordan-la-pierre-et-la-maniere/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Christel-Zordan-2025-15-©-Franck-Dunouau.jpg",
-      "date": "2026-07-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été"
-      ],
-      "summary": "Le parcours exemplaire de la directrice générale de la Société de la Tour Eiffel a été couronné le 30 juin par la Pierre d’Or du manager de l’année 2026. Un juste retour des choses pour cette passionnée d’immobilier et de management au franc-parler rafraichissant.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246549-1783344299000",
-      "title": "Les Hauts-de-Seine dévoilent leur stratégie nature 2026-2030",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-hauts-de-seine-devoilent-leur-strategie-nature-2026-2030/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Capture-decran_6-7-2026_15824_www.datapressepremium.com_.jpeg",
-      "date": "2026-07-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Planter 30 000 arbres, créer 20 ha d'espaces naturels, relier les principaux sites verts du territoire... Avec sa stratégie nature 2026-2030, adoptée le 3 juillet, le département des Hauts-de-Seine affiche son ambition de faire de la nature un levier d'adaptation au changement cl…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246547-1783342052000",
-      "title": "Thermo-sur-Seine : le projet industriel qui fait bouillir Vitry",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/thermo-sur-seine-le-projet-industriel-qui-fait-bouillir-vitry/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Un-habitant-Vitry-réunion-publique-©-Jgp.jpg",
-      "date": "2026-07-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "La ville du Val-de-Marne organisait une concertation publique sur le projet de \"chaufferie\" qui doit s'installer sur le territoire vitriot.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246531-1783339351000",
-      "title": "Alain Auzet est élu président du conseil d’administration de l’EPA Sénart",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/alain-auzet-est-elu-president-du-conseil-dadministration-de-lepa-senart/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Alain_Auzet-©-Grand-Paris-Sud.jpg",
-      "date": "2026-07-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Le conseil d'administration de l’établissement public d'aménagement de l’opération d’intérêt national de Sénart (EPA Sénart) a élu le 30 juin Alain Auzet, maire de Réau, à la présidence de l’établissement. Il prend la suite de Marie-Line Pichery, maire de Savigny-le-Temple, qui o…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246524-1783327542000",
-      "title": "P. Rollot : « Nous voulons créer davantage de liens avec les grandes institutions patrimoniales parisiennes »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/p-rollot-nous-voulons-creer-davantage-de-liens-avec-les-grandes-institutions-patrimoniales-parisiennes/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/PatrickRollot_©-Geoffroy-Lasne.jpg",
-      "date": "2026-07-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Créée fin 2025, la Fédération Paris Histoire & Patrimoine rassemble 11 associations consacrées à la préservation du patrimoine parisien. Son président, Patrick Rollot, revient sur les ambitions de cette nouvelle structure.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
       "id": "ademe-rss-0-1783277614000",
       "title": "Juillet 2026",
       "source": "ADEME",
@@ -15529,56 +14804,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-wp-246002-1783284238000",
-      "title": "Le chantier de la gare Le Bourget Aéroport passé au crible de Bureau Veritas",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/le-chantier-de-la-gare-le-bourget-aeroport-passe-au-crible-de-bureau-veritas/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/06/SGP_LBA©Olivier-Brunet-250929-7225.jpg",
-      "date": "2026-07-05",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Depuis 12 ans, Bureau Véritas accompagne la Société des grands projets (SGP) pour assurer des missions de contrôle technique sur des chantiers de gares du Grand Paris express. Illustration sur la ligne 17, dans la station Le Bourget Aéroport (Seine-Saint-Denis), qui jouxte le Mus…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246507-1783284153000",
-      "title": "Grand Paris express : comment Enedis électrifie le futur métro",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/grand-paris-express-comment-enedis-electrifie-le-futur-metro/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Enedis-2-©-Jgp.jpg",
-      "date": "2026-07-05",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Enedis assure l’alimentation électrique des travaux et des futures lignes du Grand Paris express. Le gestionnaire organisait une visite de presse en Seine-Saint-Denis.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
       "id": "revolution-energetique-rss-24-1783143165000",
       "title": "Neuf heures d’autonomie pour cette méga batterie au CO2 qui alimentera un datacenter",
       "source": "Révolution Énergétique",
@@ -15602,52 +14827,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Google et la start-up italienne Energy Dome installent une batterie au CO₂ à très longue durée en Irlande pour satisfaire les besoins de son datacenter. […] L’article Neuf heures d’autonomie pour cette méga batterie au CO2 qui alimentera un datacenter est apparu en premier sur Ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
-      "title": "avancees ffb 2026",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-37-1783084774000",
-      "title": "secheresse france",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "cerema-sitemap-806-1783067940000",
@@ -16063,108 +15242,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Pompe à chaleur, bornes de recharge, engins agricoles zéro émission : le gouvernement doit sélectionner 100 collectivités pilotes où la faisabilité d’une transition complète des […] L’article Ces 100 territoires où l’Etat veut tester l’hyper-électrification est apparu en premier …",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246431-1783073515000",
-      "title": "Stéphan de Faÿ prend la présidence d&rsquo;ULI France",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/stephan-de-fay-prend-la-presidence-duli-france/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/SdF©DjibrannHass.jpg",
-      "date": "2026-07-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "L'ex-directeur général de Grand Paris Aménagement succède à Eric Donnet à la tête du chapitre français de l'Urban Land Institute, pour un mandat de deux ans entamé le 1er juillet 2026.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246454-1783071479000",
-      "title": "Bally Bagayoko : « Considérer le Territoire comme un eldorado, c&rsquo;est terminé »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/bally-bagayoko-considerer-le-territoire-comme-un-eldorado-cest-termine/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Bally.jpg",
-      "date": "2026-07-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "Maire (LFI) de Saint-Denis, président de Plaine Commune et de Plaine Commune développement, Bally Bagayoko détaille ses orientations : 30 à 50 % de logement public dans les programmes, moratoire sur le BRS, révision du PLUi, transformation des bureaux vacants. L&rsquo;élu revient…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246421-1783069209000",
-      "title": "Porte de Saint-Ouen : avec 17&#038;Co, BNP Paribas fait le pari du tertiaire en entrée de ville",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/porte-de-saint-ouen-avec-17co-bnp-paribas-fait-le-pari-du-tertiaire-en-entree-de-ville/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/17Co-2.jpg",
-      "date": "2026-07-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "BNP Paribas Immobilier Promotion a présenté à la presse, jeudi 2 juillet, 17&Co, lauréat de la première édition d'Inventons la Métropole du Grand Paris. Près de 19 000 m² mêlant bureaux, hôtellerie, commerces et loisirs sortent de terre avenue de la Porte de Saint-Ouen (Paris 17e…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246409-1783059104000",
-      "title": "Les marchés du Grand Paris – Paris Terres d&rsquo;Envol veut faire évoluer son PLUi",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-marches-du-grand-paris-paris-terres-denvol-lance-une-assistance-a-maitrise-douvrage-pour-faire-evoluer-son-plui/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2024/03/allee-principale-siae.25.2023.06-431-1.jpg",
-      "date": "2026-07-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Économie du bâtiment",
-        "Biosourcé"
-      ],
-      "summary": "Un an après son approbation, le document d'urbanisme du territoire de Seine-Saint-Denis doit déjà s'adapter aux recours déposés par l'État et le Département, ainsi qu'aux premiers retours d'expérience de sa mise en œuvre.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
     },
     {
       "id": "anah-sitemap-0-1782994560000",
@@ -16630,7 +15707,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-7-1782950400000",
+      "id": "connaissance-des-energies-rss-8-1782950400000",
       "title": "Exportations d'électricité : nouveau record battu au 1ᵉʳ semestre 2026",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -16653,109 +15730,6 @@ window.BATIVEILLE_DATA = {
       "summary": "La France a exporté 56,8 TWh d'électricité au cours des 6 premiers mois de l'année, selon les dernières données de RTE publiées ce 2 juillet. La France a exporté 56,8 TWh d&#039;électricité au cours des 6 premiers mois de l&#039;année, selon les dernières données de RTE publiées …",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246400-1783022144000",
-      "title": "L’essentiel de la semaine du 29 juin en quelques clics",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-29-juin-en-quelques-clics-2/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/06/Grégoire-2.jpg",
-      "date": "2026-07-02",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l&rsquo;essentiel de l&rsquo;actualité de la semaine écoulée. Au tournant des mois des juin et juillet, la vive contestation contre le projet de consigne des bouteilles plastiques a cristallisé les tensions entre l&rsquo;Ét…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246415-1783009065000",
-      "title": "Canicule, SCoT, transition énergétique : la Métropole du Grand Paris engage près de 16 millions d&rsquo;euros pour ses communes",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/canicule-scot-transition-energetique-la-metropole-du-grand-paris-engage-pres-de-16-me-pour-ses-communes/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/02/MGP-2.jpg",
-      "date": "2026-07-02",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "RE2020",
-        "Confort d’été"
-      ],
-      "summary": "Réuni le 29 juin, le conseil métropolitain a voté un soutien exceptionnel de 2 M€ aux communes frappées par la canicule, engagé la révision du Schéma de cohérence territoriale et attribué de nouvelles aides au titre des fonds Énergies et Biodiversité. La nouvelle mandature instal…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246328-1782987912000",
-      "title": "Dans le Grand Paris, le bouclier fissuré des aides au logement",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/dans-le-grand-paris-le-bouclier-fissure-des-aides-au-logement/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2021/09/LogSamaritaine_4065.jpg",
-      "date": "2026-07-02",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "Une étude de l’Atelier parisien d’urbanisme (Apur) avec les CAF d’Île-de-France (CTRAD), publiée fin juin, révèle l’essoufflement du système de solvabilisation des ménages modestes face à l’explosion des loyers. Si l'aide publique réduit de moitié le poids du logement, elle laiss…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246391-1782986441000",
-      "title": "Canicule : en Île-de-France, la double peine des quartiers populaires",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/canicule-en-ile-de-france-la-double-peine-des-quartiers-populaires/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Canicule.jpg",
-      "date": "2026-07-02",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "En Île-de-France, la canicule ne touche pas tout le monde de la même manière. Derrière les records de température se dessine une fracture sociale où les logements mal isolés, les quartiers les plus minéraux et la précarité transforment les épisodes de chaleur en véritable risque …",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
     },
     {
       "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-37-1782884876000",
@@ -17220,7 +16194,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-8-1782864000000",
+      "id": "connaissance-des-energies-rss-9-1782864000000",
       "title": "Infrastructures gazières : quels coûts futurs pour un nombre de consommateurs en baisse ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -17346,81 +16320,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Spécialiste du mobilier extérieur depuis plus de 30 ans, Fermob fait partie des références mondiales, tant pour les particuliers que pour les professionnels. Alors que les beaux jours se rapprochent, la maison française nous présente sa collection 2026, fidèle à l’ADN de la marqu…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246381-1782912457000",
-      "title": "Gayané Manukyan nommée directrice d&rsquo;Orange Île-de-France",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/gayane-manukyan-nommee-directrice-dorange-ile-de-france/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Orange.jpg",
-      "date": "2026-07-01",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Gayané Manukyan prend la direction d&rsquo;Orange Île-de-France à compter du 1er juillet 2026. Diplômée de l&rsquo;École nationale d&rsquo;administration, elle succède à Karine Dussert-Sarthe à la tête d&rsquo;une région de plus de 12 millions d&rsquo;habitants, où l&rsquo;opérat…",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246365-1782896991000",
-      "title": "Myriam Berghout nommée directrice régionale de CDC habitat Île-de-France",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/myriam-berghout-nommee-directrice-regionale-de-cdc-habitat-ile-de-france/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/Myriam-Berghout-format-paysage©-CDC-Habitat..jpg",
-      "date": "2026-07-01",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Le groupe CDC habitat a procédé à la nomination de Myriam Berghout en qualité de directrice régionale de CDC habitat Île-de-France, à compter du 1er juillet. Elle devient aussi membre du directoire de CDC habitat social.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "le-journal-du-grand-paris-wp-246372-1782893866000",
-      "title": "1001 Vies habitat reprend le patrimoine d&rsquo;Erilia en Île-de-France",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/1001-vies-habitat-reprend-le-patrimoine-derilia-en-ile-de-france/",
-      "image": "https://www.lejournaldugrandparis.fr/wp-content/uploads/2026/07/1001-Vies-Habitat_Erilia-IDF.jpg",
-      "date": "2026-07-01",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "Le bailleur 1001 Vies habitat a annoncé le 1er juillet renforcer son ancrage en Île-de-France en reprenant le patrimoine francilien d’Erilia, portant son nouveau patrimoine de 67 711 logements sociaux gérés dans 239 communes de la région.",
-      "premiumSummary": "",
-      "collectMethod": "wordpress_api"
     }
   ]
 };
