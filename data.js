@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-20T16:28:25.682Z",
+  "generatedAt": "2026-07-20T21:16:55.239Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2185,52 +2185,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-37-1784548775000",
-      "title": "secheresse france",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-369-1784539673000",
-      "title": "semaine europeenne mobilite deposez vos initiatives deplacements plus durables",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/semaine-europeenne-mobilite-deposez-vos-initiatives-deplacements-plus-durables",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "promotelec-sitemap-50-1784554386000",
       "title": "hausse des prix du carburant quelles solutions electriques pour faire baisser le budget",
       "source": "Promotelec",
@@ -3165,6 +3119,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "vert-rss-0-1784567021000",
+      "title": "La France officialise sa nouvelle stratégie bas carbone : toujours plus ambitieuse… et toujours moins crédible",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/energie/la-france-officialise-sa-nouvelle-strategie-bas-carbone-toujours-plus-ambitieuse-et-toujours-moins-credible/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "En gestation depuis plusieurs années, la nouvelle stratégie française pour atteindre la neutralité carbone a (enfin) été officialisée ce week-end. Les objectifs y sont toujours plus exigeants, alors que les émissions du pays baissent de moins en moins vite. Et, à l'issue d'un sec…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "greenunivers-rss-0-1784561880000",
       "title": "Agrivoltaïsme : la FFPA mise en péril par la multiplication des départs",
       "source": "GreenUnivers",
@@ -3850,7 +3830,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1784564893000",
+      "id": "le-commerce-du-bois-sitemap-0-1784582201000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3876,7 +3856,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1784564893000",
+      "id": "le-commerce-du-bois-sitemap-1-1784582201000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3902,7 +3882,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1784564893000",
+      "id": "le-commerce-du-bois-sitemap-2-1784582201000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4219,7 +4199,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1784437200000",
+      "id": "vert-rss-1-1784437200000",
       "title": "Les militants écologistes, victimes silencieuses de l’armée israélienne dans la guerre au Proche-Orient",
       "source": "Vert",
       "sourceId": "vert",
@@ -4674,7 +4654,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1784350800000",
+      "id": "vert-rss-2-1784350800000",
       "title": "«Envisager la montée du niveau de la mer autrement» : voyage sur une étrange maison flottante au large de Saint-Malo",
       "source": "Vert",
       "sourceId": "vert",
@@ -6375,7 +6355,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1784282477000",
+      "id": "vert-rss-3-1784282477000",
       "title": "62 cas de mésinformation climatique recensés sur CNews, Europe 1 et Sud Radio pendant la vague de chaleur de mai",
       "source": "Vert",
       "sourceId": "vert",
@@ -6399,7 +6379,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1784281565000",
+      "id": "vert-rss-4-1784281565000",
       "title": "Canicules, incendies, inondations : comment la SNCF adapte son réseau au changement climatique",
       "source": "Vert",
       "sourceId": "vert",
@@ -6425,7 +6405,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1784260800000",
+      "id": "vert-rss-5-1784260800000",
       "title": "«Les racines des pins sont à nu, les plantes ont disparu» : à Marseille, le défi de la protection des calanques, stars des réseaux sociaux",
       "source": "Vert",
       "sourceId": "vert",
@@ -8475,7 +8455,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1784222916000",
+      "id": "vert-rss-6-1784222916000",
       "title": "Loi d’urgence agricole : les parlementaires s’accordent sur le retour de pesticides interdits… mais le vote final reste incertain",
       "source": "Vert",
       "sourceId": "vert",
@@ -8500,7 +8480,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1784196837000",
+      "id": "vert-rss-7-1784196837000",
       "title": "Particules fines, monoxyde de carbone… Quand les fumées des incendies nuisent à notre santé",
       "source": "Vert",
       "sourceId": "vert",
@@ -8864,52 +8844,6 @@ window.BATIVEILLE_DATA = {
         "Transition"
       ],
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-349-1784107847000",
-      "title": "economies denergie vrai du faux avoir bons reflexes",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/economies-denergie-vrai-du-faux-avoir-bons-reflexes",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-370-1784129974000",
-      "title": "ministere partenaire du film danimation fille nuages",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/ministere-partenaire-du-film-danimation-fille-nuages",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -10082,7 +10016,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1784108879000",
+      "id": "vert-rss-8-1784108879000",
       "title": "Musées gratuits, parcs ouverts la nuit, écoles-refuges : Lyon ressort son plan d’urgence face à la canicule",
       "source": "Vert",
       "sourceId": "vert",
@@ -10380,7 +10314,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1784005200000",
+      "id": "vert-rss-9-1784005200000",
       "title": "Vert vous embarque dans les coulisses de Météo-France : «Les jeunes générations vivent peut-être leur été le plus frais»",
       "source": "Vert",
       "sourceId": "vert",
@@ -10817,32 +10751,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-9-1783951690000",
-      "title": "La forêt de Fontainebleau sous les flammes : «Le plus grand incendie de son histoire moderne»",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/climat/la-foret-de-fontainebleau-sous-les-flammes-le-plus-grand-incendie-de-son-histoire-moderne/",
-      "image": "https://r2.vert.eco/2026/07/13135834/Incendies.mp4",
-      "date": "2026-07-13",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Un incendie d'une ampleur sans précédent ravage la forêt de Fontainebleau depuis dimanche. Selon les informations en date de ce lundi, 800 hectares sont déjà partis en fumée, près de 900 personnes ont été évacuées et des moyens aériens inédits pour la moitié nord du pays ont été …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-12-1783956758000",
       "title": "Canicule : la centrale de Bugey obtient une dérogation environnementale pour continuer de fonctionner",
       "source": "Révolution Énergétique",
@@ -11145,29 +11053,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Le développeur Photosol a inauguré la deuxième centrale solaire la plus puissante de France à Creil, dans l’Oise, sur l’ancienne base militaire BA110. Elle affiche […] L’article La deuxième plus grande centrale solaire de France vient d’être inaugurée est apparu en premier sur Ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-371-1783695699000",
-      "title": "7 idees recues vagues chaleur",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/7-idees-recues-vagues-chaleur",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-13-1783700410000",
@@ -12872,29 +12757,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
-      "title": "sobriete energetique plan reduire notre consommation denergie",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/sobriete-energetique-plan-reduire-notre-consommation-denergie",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "ministere-de-la-culture-architecture-sitemap-21-1783503189000",
       "title": "preprogramme des 43e journees europeennes du patrimoine les samedi 19 et dimanche 20 septembre 2026",
       "source": "Ministère de la Culture — Architecture",
@@ -13339,7 +13201,7 @@ window.BATIVEILLE_DATA = {
         "Eau",
         "Biosourcé"
       ],
-      "summary": "01 DECEMBRE 2026 Bordeaux (33) Chanvre Nouvelle-Aquitaine organise la 2ᵉ édition de son colloque « Le chanvre dans la construction ». Odéys, partenaire officiel de l'événement, vous invite à participer à cette journée d'échanges consacrée aux enjeux et aux perspectives de la fili…",
+      "summary": "1er DÉCEMBRE 2026 Bordeaux (33) Chanvre Nouvelle-Aquitaine organise la 2ᵉ édition de son colloque « Le chanvre dans la construction ». Odéys, partenaire officiel de l'événement, vous invite à participer à cette journée d'échanges consacrée aux enjeux et aux perspectives de la fil…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13725,29 +13587,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Entre 1971 et 1982, plus de 200 000 fûts de déchets radioactifs ont été immergés dans l'Atlantique Nord-Est, jusqu'à plus de 4 700 mètres de profondeur. Les campagnes scientifiques NODSSUM 2025 et 2026, menées par le CNRS avec la Flotte océanographique française, livrent les prem…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
-      "title": "securite sites industriels risques mise place vigilance renforcee",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/securite-sites-industriels-risques-mise-place-vigilance-renforcee",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-25-1783435995000",
@@ -14829,6 +14668,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
+      "title": "avancees ffb 2026",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "cerema-sitemap-806-1783067940000",
       "title": "connaissance mobilisation du foncier mai juin 2026",
       "source": "CEREMA",
@@ -15263,29 +15125,6 @@ window.BATIVEILLE_DATA = {
         "Habitat privé"
       ],
       "summary": "Publication détectée dans le sitemap de ANAH. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-316-1782983737000",
-      "title": "vacances sereines applis lete",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/vacances-sereines-applis-lete",
-      "image": null,
-      "date": "2026-07-02",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
