@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T20:57:08.831Z",
+  "generatedAt": "2026-07-20T03:49:06.825Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,108 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1784517000000",
+      "title": "Premier moteur thermique quantique supraconducteur au monde",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/premier-moteur-thermique-quantique-supraconducteur-au-monde/190819-2026-07",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Un moteur thermique quantique supraconducteur nouvellement développé fait progresser notre compréhension de la thermodynamique et permet les technologies nécessaires aux ordinateurs quantiques à haut nombre de qubits. Les améliorations récentes dans notre compréhension de la mani…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1784519333000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1784519333000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1784519333000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "vert-rss-0-1784437200000",
       "title": "«Ils ciblent ceux qui défendent la vie» : les écologistes, victimes silencieuses de la guerre au Proche-Orient",
       "source": "Vert",
@@ -2237,7 +2339,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1784437800000",
+      "id": "enerzine-rss-1-1784499000000",
+      "title": "Han dirige la technologie organe-sur-puce au nouveau centre NIH de 15 millions de dollars",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/han-dirige-la-technologie-organe-sur-puce-au-nouveau-centre-nih-de-15-millions-de-dollars/190825-2026-07",
+      "image": null,
+      "date": "2026-07-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Par Amy Leifeste, Département de génie électrique et informatique, Texas A&M University Depuis l’Antiquité, les animaux sont utilisés pour tester la sécurité des produits chimiques destinés à un usage humain. Mais les tests sur les animaux sont un processus lent, coûteux et éthiq…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1784437800000",
       "title": "L’IA se dote d’un cervelet",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2262,7 +2390,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1784434200000",
+      "id": "enerzine-rss-3-1784434200000",
       "title": "L’impact sous-estimé des fluctuations de température",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2460,84 +2588,6 @@
       "summary": "Nouvel arrêt pour l'EPR de Flamanville, encore. Pompes primaires sous surveillance, redémarrage promis mais jamais tenu jusqu'ici. Et une visite de 350 jours pointe déjà à l'horizon de septembre. L’article L’EPR de Flamanville s’arrête encore après à peine quelques mois : ce sera…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1784494615000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-07-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1784494615000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-07-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1784494615000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-07-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "reporterre-rss-0-1784394000000",
@@ -2744,7 +2794,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1784412600000",
+      "id": "enerzine-rss-4-1784412600000",
       "title": "Le fer comme complément à l’hydrogène en tant que vecteur énergétique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2770,7 +2820,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1784351400000",
+      "id": "enerzine-rss-5-1784351400000",
       "title": "La BEI prête 450 millions d’euros à OMV pour son électrolyseur autrichien",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2796,7 +2846,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1784347800000",
+      "id": "enerzine-rss-6-1784347800000",
       "title": "Conduite autonome : Momenta entre en Bourse à Hong Kong",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4939,7 +4989,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1784326200000",
+      "id": "enerzine-rss-7-1784326200000",
       "title": "Hyundai dévoile son camion hydrogène XCIENT en version Ampliroll à Lyon",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4965,7 +5015,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1784322600000",
+      "id": "enerzine-rss-8-1784322600000",
       "title": "Électricité : vers une hausse de 2,5 % des tarifs au 1er août 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4991,7 +5041,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1784298000000",
+      "id": "enerzine-rss-9-1784298000000",
       "title": "eSIM et Batterie : Comment la SIM Numérique Transforme la Consommation Énergétique des Smartphones",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5012,58 +5062,6 @@
         "RE2020"
       ],
       "summary": "Les smartphones modernes sont devenus de véritables compagnons du quotidien. Ils nous permettent de communiquer, de travailler, de nous divertir et même de gérer nos déplacements. Cependant, leur autonomie reste l’une des principales préoccupations des utilisateurs. Chaque nouvel…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1784297100000",
-      "title": "Cigarette électronique en été : les règles d’or pour vapoter sans risque",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/cigarette-electronique-en-ete-les-regles-dor-pour-vapoter-sans-risque/191244-2026-07",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Que ce soit la chaleur, le sable, l’eau salée ou encore les nombreux déplacements, ces facteurs mettent les cigarettes électroniques à rude épreuve durant l’été. Pourtant, quelques précautions simples pourraient éviter la plupart des désagréments. Alors que les vacances incitent …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1784273700000",
-      "title": "Xpeng L03 : le SUV électrique à 34 990 € qui défie Tesla",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/xpeng-l03-suv-electrique-34990-euros/191321-2026-07",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le constructeur chinois Xpeng a dévoilé à Munich son nouveau SUV coupé électrique L03, qui marque une offensive commerciale sans précédent sur le marché européen. Proposé à partir de 34 990 €, ce modèle d’entrée de gamme ambitionne de concurrencer directement le Tesla Model Y, to…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8455,32 +8453,6 @@
     },
     {
       "id": "batiweb-rss-11-1784156700000",
-      "title": "Comment rénover et réparer le bâti ancien et contemporain",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/renover-reparer-bati-ancien-contemporain-49032",
-      "image": "https://img.batiweb.com/repo-images/publi/49032/weber-07-17-une.jpg",
-      "date": "2026-07-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réemploi",
-        "Rénovation",
-        "Bâtiment"
-      ],
-      "summary": "Depuis de nombreuses années, Saint-Gobain Weber s’engage en faveur d’une construction et d’une rénovation plus durables. Préservation du bâti ancien, amélioration de la performance énergétique et réduction des émissions de CO₂ : les enjeux du secteur nécessitent des solutions con…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-12-1784156700000",
       "title": "Délai Premium JELD-WEN : vos portes et huisseries sans attendre",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8504,7 +8476,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-13-1784156700000",
+      "id": "batiweb-rss-12-1784156700000",
       "title": "Innovation Awards : record battu pour Paris Builders Show",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8523,6 +8495,32 @@
         "Marché"
       ],
       "summary": "En battant le record du nombre de participants, les Innovation Awards confirment l’élan d’innovation porté par les exposants de Paris Builders Show 2026. En battant le record du nombre de participants, les Innovation Awards confirment l’élan d’innovation porté par les exposants d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-13-1784156700000",
+      "title": "Comment rénover et réparer le bâti ancien et contemporain",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/renover-reparer-bati-ancien-contemporain-49032",
+      "image": "https://img.batiweb.com/repo-images/publi/49032/weber-07-17-une.jpg",
+      "date": "2026-07-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réemploi",
+        "Rénovation",
+        "Bâtiment"
+      ],
+      "summary": "Depuis de nombreuses années, Saint-Gobain Weber s’engage en faveur d’une construction et d’une rénovation plus durables. Préservation du bâti ancien, amélioration de la performance énergétique et réduction des émissions de CO₂ : les enjeux du secteur nécessitent des solutions con…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
