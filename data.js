@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-21T16:27:16.835Z",
+  "generatedAt": "2026-07-21T21:16:43.507Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,56 +2161,6 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
-      "id": "agence-qualite-construction-aqc-sitemap-0-1784635573000",
-      "title": "actualites evenements",
-      "source": "Agence Qualité Construction — AQC",
-      "sourceId": "agence-qualite-construction-aqc",
-      "sourceType": "Observatoire / organisme technique",
-      "region": "National",
-      "url": "https://qualiteconstruction.com/actualites-evenements/",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Qualité construction",
-        "Sinistralité",
-        "Pathologies",
-        "Observatoire",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "agence-qualite-construction-aqc-sitemap-27-1784635573000",
-      "title": "concours photo 2026 desordres batiment palmares aqc 06 2026",
-      "source": "Agence Qualité Construction — AQC",
-      "sourceId": "agence-qualite-construction-aqc",
-      "sourceType": "Observatoire / organisme technique",
-      "region": "National",
-      "url": "https://qualiteconstruction.com/actualite/concours-photo-2026-desordres-batiment-palmares-aqc-06-2026/",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Qualité construction",
-        "Sinistralité",
-        "Pathologies",
-        "Observatoire",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "ministere-de-la-transition-ecologique-sitemap-369-1784625146000",
       "title": "adoption feuille route climatique francaise",
       "source": "Ministère de la Transition Écologique",
@@ -4023,7 +3973,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1784651215000",
+      "id": "le-commerce-du-bois-sitemap-0-1784668589000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4049,7 +3999,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1784651215000",
+      "id": "le-commerce-du-bois-sitemap-1-1784668589000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4075,7 +4025,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1784651215000",
+      "id": "le-commerce-du-bois-sitemap-2-1784668589000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4099,6 +4049,56 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1784651934000",
+      "title": "À Dugny, Vincent Jeanbrun visite le Village des médias et en lance la deuxième tranche",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/a-dugny-vincent-jeanbrun-visite-le-village-des-medias-et-lance-sa-deuxieme-phase/",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Bâtiment"
+      ],
+      "summary": "Deux ans après les Jeux olympiques de Paris 2024, le ministre de la Ville et du Logement, Vincent Jeanbrun, s’est rendu, ce 21 juillet, à Dugny, en Seine-Saint-Denis, afin de visiter les premiers logements et équipements du Village des médias. L’occasion également de mesurer la r…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1784649386000",
+      "title": "Le tunnel de Saint-Cloud (A13) fermé pour travaux du 16 novembre 2026 au 31 août 2027",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/le-tunnel-de-saint-cloud-a13-ferme-pour-travaux-du-16-novembre-2026-au-31-aout-2027/",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau"
+      ],
+      "summary": "Dans le sens Paris-province uniquement, le tunnel de Saint-Cloud de l'autoroute A13 va être fermé du 16 novembre 2026 à fin août 2027, a annoncé mardi 21 juillet le nouveau préfet de la région d'Île-de-France, préfet de Paris, Georges-François Leclerc. Dans le sens Paris-province…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "acteurs-publics-sitemap-1-1784641680000",
@@ -6525,7 +6525,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1784550444000",
+      "id": "le-journal-du-grand-paris-rss-2-1784550444000",
       "title": "L’État accorde 30,2 millons d’euros au réseau de chaleur géothermique de Clichy-sous-Bois et Livry-Gargan",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6551,7 +6551,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1784549038000",
+      "id": "le-journal-du-grand-paris-rss-3-1784549038000",
       "title": "Nicolas Portier : « La balkanisation actuelle du Grand Paris n’est plus tenable »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6576,7 +6576,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1784540278000",
+      "id": "le-journal-du-grand-paris-rss-4-1784540278000",
       "title": "Méhadée Bernard – La force du consensus",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6600,7 +6600,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1784531862000",
+      "id": "le-journal-du-grand-paris-rss-5-1784531862000",
       "title": "Les coulisses du Grand Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7248,7 +7248,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1784384947000",
+      "id": "le-journal-du-grand-paris-rss-6-1784384947000",
       "title": "J. Baudrier : « L’objectif de la nouvelle taxe sur la vacance, c’est que les logements reviennent sur le marché »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8730,7 +8730,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1784300310000",
+      "id": "le-journal-du-grand-paris-rss-7-1784300310000",
       "title": "Une nouvelle data visualisation pour les QPV parisiens",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8754,7 +8754,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1784298932000",
+      "id": "le-journal-du-grand-paris-rss-8-1784298932000",
       "title": "Un transformateur électrique de 130 tonnes livré à Paris par la Seine",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8779,7 +8779,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1784296871000",
+      "id": "le-journal-du-grand-paris-rss-9-1784296871000",
       "title": "Exclusif – Apex, ABF, ZAC : F. Vauglin détaille sa feuille de route pour l’urbanisme parisien",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8801,31 +8801,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Adjoint au maire de Paris chargé de l'urbanisme et de l'architecture, François Vauglin lance la troisième édition d'Apex, le label des « architectures parisiennes exemplaires ». Il détaille son « droit au beau », le dialogue avec les architectes des Bâtiments de France (ABF), rev…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1784278633000",
-      "title": "Les marchés du Grand Paris – Guyancourt : le futur pôle d’échanges de la ligne 18 entre dans sa phase opérationnelle",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-marches-du-grand-paris-guyancourt-le-futur-pole-dechanges-de-la-ligne-18-entre-dans-sa-phase-operationnelle/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Économie du bâtiment"
-      ],
-      "summary": "Saint-Quentin-en-Yvelines vient de lancer le marché de maîtrise d'œuvre pour l'aménagement des espaces publics du pôle d'échanges multimodal de la gare de Guyancourt, future station de la ligne 18 du Grand Paris express. Saint-Quentin-en-Yvelines vient de lancer le marché de maît…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10301,30 +10276,6 @@ window.BATIVEILLE_DATA = {
         "Réseaux"
       ],
       "summary": "Alors que la situation géopolitique est plus complexe que jamais au Moyen-Orient, l’Union Européenne s’organise pour retrouver son indépendance énergétique. Sans surprise, c’est sur l’électricité […] L’article L’UE veut plus que jamais accélérer son électrification pour retrouver…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1784226305000",
-      "title": "L’essentiel de la semaine du 13 juillet 2026 en quelques clics",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-13-juillet-2026-en-quelques-clics/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. Durant celle du 13 juillet, le Centre aquatique olympique se préparait à accueillir les championnats d’Europe de natation. Retrouvez chaque vendredi dans Le journal du Grand…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13689,31 +13640,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "agence-qualite-construction-aqc-sitemap-26-1783525860000",
-      "title": "concours photo 2025 desordres batiment palmares aqc 06 2025",
-      "source": "Agence Qualité Construction — AQC",
-      "sourceId": "agence-qualite-construction-aqc",
-      "sourceType": "Observatoire / organisme technique",
-      "region": "National",
-      "url": "https://qualiteconstruction.com/actualite/concours-photo-2025-desordres-batiment-palmares-aqc-06-2025/",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Qualité construction",
-        "Sinistralité",
-        "Pathologies",
-        "Observatoire",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
       "title": "sobriete energetique plan reduire notre consommation denergie",
       "source": "Ministère de la Transition Écologique",
@@ -15576,6 +15502,29 @@ window.BATIVEILLE_DATA = {
       "summary": "Google et la start-up italienne Energy Dome installent une batterie au CO₂ à très longue durée en Irlande pour satisfaire les besoins de son datacenter. […] L’article Neuf heures d’autonomie pour cette méga batterie au CO2 qui alimentera un datacenter est apparu en premier sur Ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
+      "title": "avancees ffb 2026",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "cerema-sitemap-806-1783067940000",
