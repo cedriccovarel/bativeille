@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-21T21:16:43.507Z",
+  "generatedAt": "2026-07-22T02:56:39.734Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,134 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1784688986000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-07-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1784688986000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-07-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1784688986000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-07-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "agence-qualite-construction-aqc-sitemap-0-1784635573000",
+      "title": "actualites evenements",
+      "source": "Agence Qualité Construction — AQC",
+      "sourceId": "agence-qualite-construction-aqc",
+      "sourceType": "Observatoire / organisme technique",
+      "region": "National",
+      "url": "https://qualiteconstruction.com/actualites-evenements/",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Qualité construction",
+        "Sinistralité",
+        "Pathologies",
+        "Observatoire",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "agence-qualite-construction-aqc-sitemap-27-1784635573000",
+      "title": "concours photo 2026 desordres batiment palmares aqc 06 2026",
+      "source": "Agence Qualité Construction — AQC",
+      "sourceId": "agence-qualite-construction-aqc",
+      "sourceType": "Observatoire / organisme technique",
+      "region": "National",
+      "url": "https://qualiteconstruction.com/actualite/concours-photo-2026-desordres-batiment-palmares-aqc-06-2026/",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Qualité construction",
+        "Sinistralité",
+        "Pathologies",
+        "Observatoire",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-transition-ecologique-sitemap-369-1784625146000",
       "title": "adoption feuille route climatique francaise",
       "source": "Ministère de la Transition Écologique",
@@ -2226,6 +2354,76 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-1-1784639737000",
+      "title": "l eau ce bien commun qu il faut apprendre a transmettre",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/regions/drac-centre-val-de-loire/actualites-regionales-centre-val-de-loire/l-eau-ce-bien-commun-qu-il-faut-apprendre-a-transmettre",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-6-1784640307000",
+      "title": "deuxieme edition du prix du livre pour les bebes le ministere de la culture devoile la composition du jury et les ouvrages retenus dans la selection",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/presse/communiques-de-presse/deuxieme-edition-du-prix-du-livre-pour-les-bebes-le-ministere-de-la-culture-devoile-la-composition-du-jury-et-les-ouvrages-retenus-dans-la-selection",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-8-1784627329000",
+      "title": "des vacances culturelles en ile de france",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/regions/drac-ile-de-france/actualites/actualite-a-la-une/des-vacances-culturelles-en-ile-de-france",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -2325,7 +2523,56 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-0-1784650753000",
+      "id": "actu-environnement-rss-0-1784669667000",
+      "title": "Souveraineté agricole : les parlementaires adoptent le texte avec un volet eau polémique",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/loi-souverainte-protection-agricole-adoption-definitive-dispositions-eau-captages-zones-humides-48343.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/decryptage/48343_large.jpg",
+      "date": "2026-07-21",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "La loi de protection et souveraineté agricole est désormais adoptée. Si certaines dispositions sur l'eau, très polémiques ont été retirées, le texte reste contesté. Des actions contentieuses sont envisagées. La loi de protection et souveraineté agricole est désormais adoptée. Si …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-1-1784650850000",
+      "title": "Loi du 19 juillet 1976 sur les installations classées : un héritage parfois malmené",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/loi-icpe-1976-50ans-installations-classees-48335.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/decryptage/48335_large.jpg",
+      "date": "2026-07-21",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Réemploi"
+      ],
+      "summary": "Le fondement juridique du droit de l'environnement industriel moderne célèbre 50 ans. Aujourd'hui intégré dans le code de l'environnement, il régit toujours les installations sources de risques et de nuisances après avoir subi de nombreuses révisi... Le fondement juridique du dro…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-2-1784650753000",
       "title": "Plan Eau : la Banque des territoires porte ses aquaprêts à 6 milliards d'euros",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2349,7 +2596,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-1-1784650324000",
+      "id": "actu-environnement-rss-3-1784650324000",
       "title": "Reut : dans l'Hérault, Suez anticipe l'élargissement du spectre des usages autorisés",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2374,7 +2621,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-2-1784648533000",
+      "id": "actu-environnement-rss-4-1784648533000",
       "title": "Financement du ZAN : la mission sénatoriale publie ses conclusions",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2397,7 +2644,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-3-1784647174000",
+      "id": "actu-environnement-rss-5-1784647174000",
       "title": "La justice annule partiellement le règlement local de publicité de la Métropole de Lyon",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2420,7 +2667,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-4-1784646740000",
+      "id": "actu-environnement-rss-6-1784646740000",
       "title": "Photovoltaïque : Soren a collecté plus de 13 500 tonnes de panneaux usagés en 2025",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2444,7 +2691,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-5-1784644959000",
+      "id": "actu-environnement-rss-7-1784644959000",
       "title": "Le Gouvernement précise la réforme de la taxe sur les bateaux de plaisance",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2469,7 +2716,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-6-1784631545000",
+      "id": "actu-environnement-rss-8-1784631545000",
       "title": "CSPE 2027 : la CRE anticipe une hausse tirée par les volumes d'ENR",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2489,30 +2736,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "La Commission de régulation de l'énergie (CRE) a publié sa première estimation du niveau des charges de service public de l'énergie (CSPE) pour 2027. Ces charges devraient atteindre 14,2 milliards d'euros l'année prochaine financées par le budget ... La Commission de régulation d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-7-1784621750000",
-      "title": "Loi du 19 juillet 1976 sur les installations classées : un héritage parfois malmené",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/loi-icpe-1976-50ans-installations-classees-48335.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/decryptage/48335_large.jpg",
-      "date": "2026-07-21",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Réemploi"
-      ],
-      "summary": "Le fondement juridique du droit de l'environnement industriel moderne célèbre 50 ans. Aujourd'hui intégré dans le code de l'environnement, il régit toujours les installations sources de risques et de nuisances après avoir subi de nombreuses révisi... Le fondement juridique du dro…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -2962,7 +3185,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novethic-rss-0-1784634321000",
+      "id": "novethic-rss-0-1784672294000",
+      "title": "Monique Barbut va démissionner : la loi d'urgence agricole aura été la goutte de trop",
+      "source": "Novethic",
+      "sourceId": "novethic",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.novethic.fr/environnement/climat/monique-barbut-va-demissionner-la-loi-durgence-agricole-aura-ete-la-goutte-de-trop",
+      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/07/monique-barbut-QUENTIN-DE-GROEVE-HANS-LUCAS-VIA-AFP-150x150.jpg",
+      "date": "2026-07-21",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "ESG",
+        "Finance durable",
+        "Climat",
+        "Réglementation"
+      ],
+      "summary": "La ministère de la Transition écologique, Monique Barbut, a annoncé sa démission le 21 juillet. Quentin de Groeve / Hans Lucas via AFP Cette fois, Monique Barbut est allée au bout. Quelques heures après l'adoption définitive de la loi d'urgence agricole, l'entourage de la Ministr…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "novethic-rss-1-1784634321000",
       "title": "Règlement déforestation, salaire décent, classement des assureurs… Cinq actus sur la finance durable à ne pas manquer",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -2988,7 +3237,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-1-1784609154000",
+      "id": "novethic-rss-2-1784609154000",
       "title": "Parfum Israël ou Palestine, Ben & Jerry's dans la tourmente",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -3596,7 +3845,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1784612700000",
+      "id": "enerzine-rss-0-1784671800000",
+      "title": "Une nouvelle méthode pour l’authentification des appareils en ligne",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/une-nouvelle-methode-pour-lauthentification-des-appareils-en-ligne/190892-2026-07",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des chercheurs de l’Université des sciences et technologies du Roi Abdallah (KAUST) ont développé une nouvelle technologie qui permet aux appareils numériques de vérifier leur identité en utilisant leurs propres caractéristiques physiques, offrant potentiellement une alternative …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1784612700000",
       "title": "Lhyfe cède 30 % de quatre sites de production à l’allemand Messer",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3620,7 +3893,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1784610600000",
+      "id": "enerzine-rss-2-1784610600000",
       "title": "Clichy-Livry : 30,2 millions d’euros pour un réseau de chaleur géothermique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3646,7 +3919,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1784607000000",
+      "id": "enerzine-rss-3-1784607000000",
       "title": "Solaire et éolien offshore, moteurs des renouvelables français en 2025",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3671,7 +3944,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1784603400000",
+      "id": "enerzine-rss-4-1784603400000",
       "title": "Comment l’énergie propre et bon marché peut susciter un secteur énergétique plus équitable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3971,84 +4244,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Les prix à la pompe explosent en plein été : jusqu'à 12 centimes de plus en une semaine pour le gazole. Tensions en Iran, exportations russes bloquées... Combien va coûter votre plein cet été ? L’article Mauvaise nouvelle pour les automobilistes : après le gazole, le SP95-E10 rep…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1784668589000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1784668589000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1784668589000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1784651934000",
@@ -4410,7 +4605,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-1-1784539256000",
+      "id": "ministere-de-la-culture-architecture-sitemap-2-1784539256000",
       "title": "a vierzon plus de 100 enfants a la recherche du petit prince",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4433,30 +4628,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-7-1784542722000",
-      "title": "des vacances culturelles en ile de france",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/regions/drac-ile-de-france/actualites/actualite-a-la-une/des-vacances-culturelles-en-ile-de-france",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-17-1784537749000",
+      "id": "ministere-de-la-culture-architecture-sitemap-18-1784537749000",
       "title": "france 2030 annonce des 20 laureats de la deuxieme vague du dispositif culture immersive",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4479,7 +4651,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-18-1784543016000",
+      "id": "ministere-de-la-culture-architecture-sitemap-19-1784543016000",
       "title": "tapisserie de bayeux un pret historique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4502,7 +4674,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-21-1784535690000",
+      "id": "ministere-de-la-culture-architecture-sitemap-22-1784535690000",
       "title": "48 maisons des illustres en ile de france mille histoires une nouvelle edition pour un guide qui fait reference",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4834,7 +5006,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-8-1784560998000",
+      "id": "actu-environnement-rss-9-1784560998000",
       "title": "Ecomaison a collecté près de 2 millions de tonnes en 2025",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4857,7 +5029,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-9-1784560324000",
+      "id": "actu-environnement-rss-10-1784560324000",
       "title": "La France adopte une troisième stratégie bas-carbone renforcée",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4881,7 +5053,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-10-1784559540000",
+      "id": "actu-environnement-rss-11-1784559540000",
       "title": "Électrification : la Commission européenne présente son plan pour accélérer",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4904,7 +5076,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-11-1784557792000",
+      "id": "actu-environnement-rss-12-1784557792000",
       "title": "Zone de protection spéciale : les objectifs de conservation des sites sont une condition préalable nécessaire",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4927,7 +5099,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-12-1784546780000",
+      "id": "actu-environnement-rss-13-1784546780000",
       "title": "Lire notre dossier d'actu \"REP textile : une filière en pleine refondation\"",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4951,7 +5123,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-13-1784545282000",
+      "id": "actu-environnement-rss-14-1784545282000",
       "title": "Santé environnement : quatre projets sélectionnés pour faciliter les croisements de données",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4974,7 +5146,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-14-1784542648000",
+      "id": "actu-environnement-rss-15-1784542648000",
       "title": "Suspension d'un retrait de permis de construire d'une centrale de stockage d'électricité en zone agricole",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4998,7 +5170,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-15-1784530800000",
+      "id": "actu-environnement-rss-16-1784530800000",
       "title": "Standard Biodiversité et RSE : New Forests et NatureHelm lancent un projet pilote inédit dans 5 pays",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5021,7 +5193,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-16-1784530800000",
+      "id": "actu-environnement-rss-17-1784530800000",
       "title": "Tour de France 2026 : sapeurs-pompiers, buralistes et Alcome contre les feux de forêt",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5480,7 +5652,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-2-1784547931000",
+      "id": "novethic-rss-3-1784547931000",
       "title": "\"Gagner la bataille du temps pour rêver à un monde meilleur\", Julien Vidal",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -5506,7 +5678,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-3-1784522718000",
+      "id": "novethic-rss-4-1784522718000",
       "title": "Les géants de la tech misent sur les \"data centers durables\" pour répondre à la contestation",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -6094,7 +6266,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1784585400000",
+      "id": "enerzine-rss-5-1784585400000",
       "title": "Des bactéries transforment l’uranium en un composé chimique stable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6119,7 +6291,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1784548500000",
+      "id": "enerzine-rss-6-1784548500000",
       "title": "Comparatif des filtres sous évier : quelle solution choisir pour améliorer la qualité de l’eau du robinet ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6144,7 +6316,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1784528540000",
+      "id": "enerzine-rss-7-1784528540000",
       "title": "À Châtel, une toiture solaire en losange alimente le nouveau centre culturel",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6169,7 +6341,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1784526300000",
+      "id": "enerzine-rss-8-1784526300000",
       "title": "Triumph dévoile la Speed Twin 1200 TFC, limitée à 750 unités",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6195,7 +6367,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1784520600000",
+      "id": "enerzine-rss-9-1784520600000",
       "title": "L’électricité guidée par ordinateur transforme des nanofilms plats en formes 3D en quelques secondes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6217,30 +6389,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Des chercheurs de l’université de Nagoya au Japon ont développé une méthode pour former des bosses en forme de dôme sur des nanofilms dans l’eau à l’aide d’un faisceau d’électrons guidé par ordinateur. Les bosses se forment en moins de 10 secondes et peuvent être aplaties, remode…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1784517000000",
-      "title": "Premier moteur thermique quantique supraconducteur au monde",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/premier-moteur-thermique-quantique-supraconducteur-au-monde/190819-2026-07",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Un moteur thermique quantique supraconducteur nouvellement développé fait progresser notre compréhension de la thermodynamique et permet les technologies nécessaires aux ordinateurs quantiques à haut nombre de qubits. Les améliorations récentes dans notre compréhension de la mani…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7534,7 +7682,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-2-1784277489000",
+      "id": "ministere-de-la-culture-architecture-sitemap-3-1784277489000",
       "title": "le ministere de la culture annonce le lancement de la 11e edition des journees nationales de l architecture du 15 au 18 octobre 2026 sur le theme",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7557,7 +7705,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-3-1784283345000",
+      "id": "ministere-de-la-culture-architecture-sitemap-4-1784283345000",
       "title": "analyse conjoncturelle du chiffre d affaires de la culture au 4e trimestre 2025",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7581,7 +7729,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-19-1784271892000",
+      "id": "ministere-de-la-culture-architecture-sitemap-20-1784271892000",
       "title": "voir le monde autrement une annee dans les mots des influenceurs",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8224,7 +8372,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-4-1784289647000",
+      "id": "novethic-rss-5-1784289647000",
       "title": "Marché carbone : Bruxelles assouplit les règles pour les industriels, malgré les critiques",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -8250,7 +8398,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-5-1784263511000",
+      "id": "novethic-rss-6-1784263511000",
       "title": "L'Union européenne pourrait enfin intégrer la durabilité dans ses achats publics",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -8999,7 +9147,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-4-1784215464000",
+      "id": "ministere-de-la-culture-architecture-sitemap-5-1784215464000",
       "title": "pratiques culturelles la recherche a l epreuve du numerique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9022,30 +9170,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-5-1784210414000",
-      "title": "deuxieme edition du prix du livre pour les bebes le ministere de la culture devoile la composition du jury et les ouvrages retenus dans la selection",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/presse/communiques-de-presse/deuxieme-edition-du-prix-du-livre-pour-les-bebes-le-ministere-de-la-culture-devoile-la-composition-du-jury-et-les-ouvrages-retenus-dans-la-selection",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-6-1784205412000",
+      "id": "ministere-de-la-culture-architecture-sitemap-7-1784205412000",
       "title": "nomination de claire nicolas a la direction du centre d art et de photographie de lectoure capl centre d art contemporain d interet national c",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9068,7 +9193,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-8-1784209660000",
+      "id": "ministere-de-la-culture-architecture-sitemap-9-1784209660000",
       "title": "la cathedrale de chartres decrochera t elle le titre de monument prefere des francais",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9091,7 +9216,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-9-1784192022000",
+      "id": "ministere-de-la-culture-architecture-sitemap-10-1784192022000",
       "title": "agenda previsionnel de mme catherine pegard ministre de la culture16",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9114,7 +9239,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-10-1784215456000",
+      "id": "ministere-de-la-culture-architecture-sitemap-11-1784215456000",
       "title": "rapport de mission sur le statut des productions de l intelligence artificielle",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9794,7 +9919,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-6-1784205937000",
+      "id": "novethic-rss-7-1784205937000",
       "title": "Neutralité carbone : quelle est la part de l'effort secteur par secteur ?",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -9820,7 +9945,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-7-1784177152000",
+      "id": "novethic-rss-8-1784177152000",
       "title": "Eco-score, Green-score, Planet-score : la bataille des logos alimentaires est lancée",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -10472,7 +10597,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-11-1784109433000",
+      "id": "ministere-de-la-culture-architecture-sitemap-12-1784109433000",
       "title": "la creation architecturale au service des politiques publiques du logement et de l adaptation climatique du bati existant",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10496,7 +10621,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-12-1784111345000",
+      "id": "ministere-de-la-culture-architecture-sitemap-13-1784111345000",
       "title": "la liste fouiller en benevole ou visiter un chantier archeologique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10520,7 +10645,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-13-1784146799000",
+      "id": "ministere-de-la-culture-architecture-sitemap-14-1784146799000",
       "title": "festival paris l ete 2026 fait scene de tout un territoire",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10543,7 +10668,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-16-1784117888000",
+      "id": "ministere-de-la-culture-architecture-sitemap-17-1784117888000",
       "title": "fortes chaleurs la culture au frais",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -11311,7 +11436,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-8-1784115916000",
+      "id": "novethic-rss-9-1784115916000",
       "title": "En supprimant la double matérialité pour les entreprises étrangères, l'UE risque une CSRD à deux vitesses",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -11332,32 +11457,6 @@ window.BATIVEILLE_DATA = {
         "Climat"
       ],
       "summary": "CSRD : vers une suppression de la double matérialité pour les entreprises étrangères - Photo-de-Markus-Spiske-sur-Unsplash Alors que viennent d'être définitivement adoptés les ESRS (standards de reporting de durabilité) pour les entreprises européennes, la version préliminaire de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novethic-rss-9-1784090660000",
-      "title": "Dans le Nord, la plus grande fonderie d’Europe passe aux mains du Bahreïn... et de la France",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/environnement/transition-energetique/dans-le-nord-la-plus-grande-fonderie-deurope-passe-aux-mains-du-bahrein-et-de-la-france",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/fileadmin/Aluminium-vert-Rio-tinto-Alcoa-150x150.jpg",
-      "date": "2026-07-15",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Réglementation"
-      ],
-      "summary": "L'aluminium, un métal stratégique pour la transition énergétique Après cinq années aux mains d’American Industrial Partners, qui avait dès le départ affiché son intention de revendre l’entreprise une fois sa remise sur pied, Aluminium Dunkerque vient d'être rachetée par Aluminium…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12200,7 +12299,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-14-1783700410000",
+      "id": "ministere-de-la-culture-architecture-sitemap-15-1783700410000",
       "title": "cet ete je lis ! et vous",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12223,7 +12322,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-15-1783699122000",
+      "id": "ministere-de-la-culture-architecture-sitemap-16-1783699122000",
       "title": "la tapisserie de bayeux est arrivee cette nuit au british museum londres",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12246,7 +12345,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-25-1783697520000",
+      "id": "ministere-de-la-culture-architecture-sitemap-26-1783697520000",
       "title": "mobilites des publics de festivals un guide pour accompagner la transition en normandie",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -13033,7 +13132,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-20-1783591032000",
+      "id": "ministere-de-la-culture-architecture-sitemap-21-1783591032000",
       "title": "la qualite du logement au coeur des echanges entre les directeurs europeens de l architecture",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -13057,7 +13156,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-24-1783589627000",
+      "id": "ministere-de-la-culture-architecture-sitemap-25-1783589627000",
       "title": "actes de la journee de lancement du parlement de la strategie nationale pour l architecture",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -13615,29 +13714,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "base-inies-rss-0-1783517350000",
-      "title": "Baromètre 2026 de la base INIES",
-      "source": "Base INIES",
-      "sourceId": "base-inies",
-      "sourceType": "Base de données",
+      "id": "agence-qualite-construction-aqc-sitemap-26-1783525860000",
+      "title": "concours photo 2025 desordres batiment palmares aqc 06 2025",
+      "source": "Agence Qualité Construction — AQC",
+      "sourceId": "agence-qualite-construction-aqc",
+      "sourceType": "Observatoire / organisme technique",
       "region": "National",
-      "url": "https://www.inies.fr/barometre-2026-de-la-base-inies/",
+      "url": "https://qualiteconstruction.com/actualite/concours-photo-2025-desordres-batiment-palmares-aqc-06-2025/",
       "image": null,
       "date": "2026-07-08",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 98,
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
       "tags": [
-        "FDES",
-        "PEP",
-        "ACV",
-        "Carbone",
-        "Matériaux"
+        "Qualité construction",
+        "Sinistralité",
+        "Pathologies",
+        "Observatoire",
+        "Bâtiment"
       ],
-      "summary": "L’édition 2026 du Baromètre INIES est désormais disponible Une dynamique qui s’accélère au service de […] L’article Baromètre 2026 de la base INIES est apparu en premier sur Inies. L&#8217;édition 2026 du Baromètre INIES est désormais disponible Une dynamique qui s&#8217;accélère…",
+      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
-      "collectMethod": "rss"
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
@@ -13663,7 +13762,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-22-1783503189000",
+      "id": "ministere-de-la-culture-architecture-sitemap-23-1783503189000",
       "title": "preprogramme des 43e journees europeennes du patrimoine les samedi 19 et dimanche 20 septembre 2026",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -13686,36 +13785,13 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-23-1783519656000",
+      "id": "ministere-de-la-culture-architecture-sitemap-24-1783519656000",
       "title": "rapport d activite 2025 du cspla",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
       "sourceType": "Institution publique",
       "region": "National",
       "url": "https://www.culture.gouv.fr/nous-connaitre/organisation-du-ministere/conseil-superieur-de-la-propriete-litteraire-et-artistique-cspla/travaux-et-publications-du-cspla/rapports-d-activite-du-cspla/rapport-d-activite-2025-du-cspla",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-29-1783502248000",
-      "title": "agathe simon a l estrade ex nihilo quand les regards fabriquent le monde",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/regions/drac-normandie/actualites/agathe-simon-a-l-estrade-ex-nihilo-quand-les-regards-fabriquent-le-monde",
       "image": null,
       "date": "2026-07-08",
       "access": "official",
@@ -14494,7 +14570,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-26-1783435995000",
+      "id": "ministere-de-la-culture-architecture-sitemap-27-1783435995000",
       "title": "biblis en folie troisieme edition des journees nationales dediees aux bibliotheques et mediatheques du 2 au 4 octobre 2026",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -14517,7 +14593,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-27-1783422109000",
+      "id": "ministere-de-la-culture-architecture-sitemap-28-1783422109000",
       "title": "nomination de servane ducorps et mikael serre a la direction de la comedie de colmar centre dramatique national grand est alsace",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -14540,7 +14616,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-28-1783417157000",
+      "id": "ministere-de-la-culture-architecture-sitemap-29-1783417157000",
       "title": "agenda previsionnel de mme catherine pegard ministre de la culture15",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -14967,31 +15043,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Projet de loi Relance Logement : les copropriétés françaises sont-elles prêtes pour la prochaine étape de la transition énergétique ? La rénovation énergétique s’impose plus que jamais comme un enjeu central des politiques du logement. Alors que le projet de loi Relance Logement …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "base-inies-rss-1-1783348074000",
-      "title": "Devenez un vérificateur ou une vérificatrice habilité-e du programme INIES !",
-      "source": "Base INIES",
-      "sourceId": "base-inies",
-      "sourceType": "Base de données",
-      "region": "National",
-      "url": "https://www.inies.fr/devenez-un-verificateur-ou-une-verificatrice-habilite-e-du-programme-inies-2/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 98,
-      "tags": [
-        "FDES",
-        "PEP",
-        "ACV",
-        "Carbone",
-        "Matériaux"
-      ],
-      "summary": "INIES organise sa prochaine session d’habilitation des vérificateurs le jeudi 15 octobre 2026 Les personnes […] L’article Devenez un vérificateur ou une vérificatrice habilité-e du programme INIES ! est apparu en premier sur Inies. INIES organise sa prochaine session d&#8217;habi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
