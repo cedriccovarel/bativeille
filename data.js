@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-23T16:41:14.794Z",
+  "generatedAt": "2026-07-23T21:09:16.767Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2486,6 +2486,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-371-1784816306000",
+      "title": "ministere partenaire du film danimation fille nuages",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/ministere-partenaire-du-film-danimation-fille-nuages",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "meteo-france-rss-0-1784805685000",
       "title": "Changement climatique : quel impact sur les vagues de chaleur ?",
       "source": "Météo-France",
@@ -3046,6 +3069,54 @@ window.BATIVEILLE_DATA = {
       "summary": "L’AREC Nouvelle-Aquitaine vient de finaliser l’actualisation... L’article Nouvelles données énergie et gaz à effet de serre en Nouvelle-Aquitaine est apparu en premier sur AREC Nouvelle-Aquitaine. L’AREC Nouvelle-Aquitaine vient de finaliser l’actualisation... L’article Nouvelles…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-51-1784801280000",
+      "title": "ressource eau surface souterraine bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/article/ressource-eau-surface-souterraine-bretagne",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-54-1784801704000",
+      "title": "ressource eau pluie bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/article/ressource-eau-pluie-bretagne",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "verre-protections-magazine-rss-0-1784821718000",
@@ -3860,7 +3931,58 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1784804700000",
+      "id": "enerzine-rss-0-1784835300000",
+      "title": "Dassault Aviation accélère, porté par les livraisons de Rafale et le rebond des Falcon",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/dassault-aviation-accelere-porte-par-les-livraisons-de-rafale-et-le-rebond-des-falcon/191705-2026-07",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Dassault Aviation a connu un premier semestre 2026 en forte progression, à la faveur de la montée en cadence des livraisons de Rafale à l’exportation et d’un net regain commercial dans l’aviation d’affaires. Le chiffre d’affaires ajusté a atteint 4,16 milliards d’euros, en hausse…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1784828100000",
+      "title": "TotalEnergies plafonne à nouveau les prix de ses carburants en France",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/totalenergies-plafonne-a-nouveau-les-prix-de-ses-carburants-en-france/191694-2026-07",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Face à la flambée des prix internationaux du pétrole liée à la reprise du conflit au Moyen-Orient, TotalEnergies a annoncé le rétablissement du plafonnement des prix de l’essence et du diesel dans toutes ses stations-service de l’Hexagone. Une mesure qui s’accompagne d’opérations…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1784804700000",
       "title": "Timbre postal et date de péremption : ce qui change réellement à partir de septembre 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3884,7 +4006,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1784785500000",
+      "id": "enerzine-rss-3-1784785500000",
       "title": "Modal Group internalise la traction ferroviaire avec sa filiale TRAIX",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3909,7 +4031,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1784783400000",
+      "id": "enerzine-rss-4-1784783400000",
       "title": "Le data center de NFrance réduit sa facture électrique de 20%",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3935,7 +4057,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1784779800000",
+      "id": "enerzine-rss-5-1784779800000",
       "title": "Cellules solaires à triple jonction en pérovskite : les bicouches GO/SAM les rendent encore plus efficaces",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3960,7 +4082,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1784776200000",
+      "id": "enerzine-rss-6-1784776200000",
       "title": "Molécules tridimensionnelles via une « cascade de dominos »",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4111,7 +4233,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1784824859000",
+      "id": "le-commerce-du-bois-sitemap-0-1784840977000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4137,7 +4259,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1784824859000",
+      "id": "le-commerce-du-bois-sitemap-1-1784840977000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4163,7 +4285,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1784824859000",
+      "id": "le-commerce-du-bois-sitemap-2-1784840977000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4187,6 +4309,57 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1784831153000",
+      "title": "Les marchés du Grand Paris – Pontoise lance la requalification des espaces publics de son centre historique",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/les-marches-du-grand-paris-pontoise-lance-la-requalification-des-espaces-publics-de-son-centre-historique/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Économie du bâtiment"
+      ],
+      "summary": "La ville de Pontoise a engagé un marché de maîtrise d'œuvre pour transformer la place de l'Hôtel de Ville, la rue éponyme et les places du Grand et du Petit Martroy. Une opération d'ampleur, inscrite dans le dispositif national Action Cœur de Ville, qui devra composer avec un sou…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1784823078000",
+      "title": "Aux Grésillons, un passage souterrain ripé pour préparer l’arrivée de la ligne 15",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/aux-gresillons-un-passage-souterrain-ripe-pour-preparer-larrivee-de-la-ligne-15/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Les équipes de SNCF Réseau et de la Société des grands projets (SGP) ont réalisé, le 22 juillet, une spectaculaire opération de ripage du futur passage souterrain reliant la gare du RER C des Grésillons à la future station de la ligne 15 ouest du Grand Paris express. Une interven…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "acteurs-publics-sitemap-1-1784811600000",
@@ -5961,7 +6134,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1784758200000",
+      "id": "enerzine-rss-7-1784758200000",
       "title": "Des chirurgiens utilisent des robots humanoïdes téléopérés pour réaliser une chirurgie en direct une première mondiale",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5987,7 +6160,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1784725500000",
+      "id": "enerzine-rss-8-1784725500000",
       "title": "Climatiseur mobile : ce qui se passe vraiment derrière le souffle d’air frais",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6011,7 +6184,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1784699100000",
+      "id": "enerzine-rss-9-1784699100000",
       "title": "naca.boost, l’éolienne à axe vertical qui dompte les vents proches du sol",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6033,56 +6206,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "La société autrichienne novventos, basée à Neukirchen, a dévoilé naca.boost, une éolienne à axe vertical conçue pour exploiter les vents turbulents proches du sol. Aboutissement de trois années de recherche, ce système hybride éolien-solaire vise une production annuelle pouvant a…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1784697000000",
-      "title": "Battwoo donne une seconde vie aux batteries de voitures électriques",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/battwoo-donne-une-seconde-vie-aux-batteries-de-voitures-electriques/191394-2026-07",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Battwoo, jeune pousse française fondée en 2023, reconvertit des batteries de véhicules électriques usagées en systèmes de stockage stationnaire pour les professionnels. Une logique d’économie circulaire qui prolonge la durée de vie des accumulateurs de 15 à 30 ans, tout en réduis…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1784693400000",
-      "title": "Des nanofeuilles transparentes pour des capteurs optiques plus petits et à plus haute résolution",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-nanofeuilles-transparentes-pour-des-capteurs-optiques-plus-petits-et-a-plus-haute-resolution/190886-2026-07",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Des chercheurs de l’Université de Nagoya au Japon ont développé des nanofeuilles d’oxyde de zinc dopé au gallium (GZO) qui pourraient améliorer la résolution des appareils photo compacts, notamment les smartphones et les endoscopes médicaux. Ces nanofeuilles permettent à un pixel…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6234,7 +6357,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1784738912000",
+      "id": "le-journal-du-grand-paris-rss-2-1784738912000",
       "title": "Prolongement de la ligne 1 : une concertation préalable sur le nouveau projet prévue à l’automne 2026",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6259,7 +6382,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1784738630000",
+      "id": "le-journal-du-grand-paris-rss-3-1784738630000",
       "title": "Laurent Le Bon reconduit à Beaubourg, Alexander Neef à l’opéra de Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6285,7 +6408,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1784728997000",
+      "id": "le-journal-du-grand-paris-rss-4-1784728997000",
       "title": "Les ports parisiens s’adaptent à l’essor du marché des petits bateaux de tourisme",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6535,29 +6658,6 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Institution publique",
       "region": "National",
       "url": "https://www.ecologie.gouv.fr/actualites/adoption-feuille-route-climatique-francaise",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-371-1784626371000",
-      "title": "ministere partenaire du film danimation fille nuages",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/ministere-partenaire-du-film-danimation-fille-nuages",
       "image": null,
       "date": "2026-07-21",
       "access": "official",
@@ -7860,7 +7960,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1784651934000",
+      "id": "le-journal-du-grand-paris-rss-5-1784651934000",
       "title": "À Dugny, Vincent Jeanbrun visite le Village des médias et en lance la deuxième tranche",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7885,7 +7985,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1784649386000",
+      "id": "le-journal-du-grand-paris-rss-6-1784649386000",
       "title": "Le tunnel de Saint-Cloud (A13) fermé pour travaux du 16 novembre 2026 au 31 août 2027",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9349,7 +9449,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1784550444000",
+      "id": "le-journal-du-grand-paris-rss-7-1784550444000",
       "title": "L’État accorde 30,2 millons d’euros au réseau de chaleur géothermique de Clichy-sous-Bois et Livry-Gargan",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9375,7 +9475,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1784540278000",
+      "id": "le-journal-du-grand-paris-rss-8-1784540278000",
       "title": "Méhadée Bernard – La force du consensus",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9399,7 +9499,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1784531862000",
+      "id": "le-journal-du-grand-paris-rss-9-1784531862000",
       "title": "Les coulisses du Grand Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9947,32 +10047,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Observ’ER - Journal des Énergies Renouvelables. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1784384947000",
-      "title": "J. Baudrier : « L’objectif de la nouvelle taxe sur la vacance, c’est que les logements reviennent sur le marché »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/j-baudrier-lobjectif-de-la-nouvelle-taxe-sur-la-vacance-cest-que-les-logements-reviennent-sur-le-marche/",
-      "image": null,
-      "date": "2026-07-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Le Conseil de Paris s'apprête à voter, lors de sa séance des 15, 16 et 17 juillet, la nouvelle taxe sur la vacance des logements d’habitation (TLVH), dont le produit revient désormais à la Ville et non plus à l'État. Adjoint au maire de Paris chargé du logement, de la rénovation …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-9-1784277489000",
@@ -10890,30 +10964,6 @@ window.BATIVEILLE_DATA = {
         "Réseaux"
       ],
       "summary": "L’enjeu était de taille : permettre le soutien financier de l’État pour déployer jusqu’à 11 GW d’éoliennes offshore. Après étude, la Commission Européenne vient de […] L’article AO10 : La Commission Européenne valide le programme de financement français est apparu en premier sur …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1784300310000",
-      "title": "Une nouvelle data visualisation pour les QPV parisiens",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/une-nouvelle-data-visualisation-pour-les-qpv-parisiens/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "L'Atelier parisien d'urbanisme lance une version interactive de l'Observatoire des quartiers de la politique de la ville à Paris. Cet outil rassemble 70 indicateurs et propose des données actualisées sur les quartiers prioritaires, les quartiers populaires et les secteurs de veil…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12518,30 +12568,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-227-1784110946000",
-      "title": "empreinte eau bleue bretons monde",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/article/empreinte-eau-bleue-bretons-monde",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "cd2e-rss-0-1784117968000",
       "title": "APPEL D’OFFRE : concevez et réalisez notre démonstrateur mobile",
       "source": "CD2E",
@@ -13305,30 +13331,6 @@ window.BATIVEILLE_DATA = {
       "summary": "22.09.2026 Rencontre régionale économie circulaire : rendez-vous le 22 septembre à Bordeaux La Rencontre régionale économie circulaire de Nouvelle-Aquitaine revient le mardi 22 septembre 2026 à l'Hôtel de Région, à Bordeaux. Une journée d'échanges, de retours d'expérience et de s…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "oreo-bretagne-sitemap-54-1783674700000",
-      "title": "ressource eau pluie bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/article/ressource-eau-pluie-bretagne",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "oreo-bretagne-sitemap-158-1783698781000",
@@ -16110,7 +16112,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
