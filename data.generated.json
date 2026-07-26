@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T11:24:19.008Z",
+  "generatedAt": "2026-07-26T16:06:34.888Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2439,7 +2439,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1785065078000",
+      "id": "le-commerce-du-bois-sitemap-0-1785082004000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2465,7 +2465,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1785065078000",
+      "id": "le-commerce-du-bois-sitemap-1-1785082004000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2491,7 +2491,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1785065078000",
+      "id": "le-commerce-du-bois-sitemap-2-1785082004000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3951,6 +3951,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-0-1784876400000",
+      "title": "Le café des familles : renforcer le pouvoir d’agir des parents en quartier prioritaire de la ville",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/le-cafe-des-familles-renforcer-le-pouvoir-dagir-des-parents-en-quartier-prioritaire-de-la-ville/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "[Podcast] Qui mieux qu’un habitant pour savoir ce qui manque dans son quartier ? C’est le pari qu’a fait 13 AVENIR dans le 13e arrondissement de Paris avec “Le Café des Familles”.L’association a réuni 12 salariés-habitants de son Entreprise à but d’Emploi pour co-construire, grâc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-7-1784902946000",
       "title": "La quatrième canicule de l'été attendue en France",
       "source": "Reporterre",
@@ -4203,6 +4228,161 @@
         "Eau"
       ],
       "summary": "Perché sur son rocher de granit depuis plus de mille ans, le Mont-Saint-Michel semble immuable. Pourtant, autour de lui, la baie change : montée des eaux, recul des prés salés, épisodes de sécheresse. Des risques qui obligent le site à repenser son avenir. Perché sur son rocher d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-0-1784907161000",
+      "title": "La nouvelle vague des agrégateurs d’électricité",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/la-nouvelle-vague-des-agregateurs-delectricite-430475/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Aujourd’hui, « piloter un parc d’électricité renouvelable est devenu beaucoup plus complexe », affirme Nordine Mazeghrane, directeur des prévisions, de l’optimisation et du pricing chez Agregio. De la crise de l’énergie de 2022 et 2023 à la multiplication des réglementations néce…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-1-1784903030000",
+      "title": "Mexens boucle un financement de 288 M€, inclut l’éolien",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/mexens-boucle-un-financement-de-288-me-inclut-leolien-430620/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Mexens (ex Technique Solaire), boucle un financement en dette senior de 288 M€ auprès d’un consortium de banques L’article Mexens boucle un financement de 288 M€, inclut l’éolien est apparu en premier sur GreenUnivers. Mexens (ex Technique Solaire), boucle un financement en dette…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-2-1784898240000",
+      "title": "Biométhane : Waga souscrit une dette senior inédite pour l’Europe",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/biomethane-waga-souscrit-une-dette-senior-inedite-pour-leurope-430576/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation"
+      ],
+      "summary": "En incluant des projets pas encore contractualisés et des sites dans plusieurs pays, Waga Energy boucle un original financement bancaire senior pour ses activités en Europe, après l’avoir réussi aux Etats-Unis. « Nous franchissons un cap, en termes d’historique et de crédibilité …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-3-1784892668000",
+      "title": "DPE, garanties d’origine, rénovation : le sort des principaux textes au CSE",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/dpe-garanties-dorigine-renovation-le-sort-des-principaux-textes-au-cse-430555/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Rénovation",
+        "Énergie"
+      ],
+      "summary": "La séance du Conseil supérieur de l’énergie du 23 juillet, au programme chargé, s’est finalement terminée peu après 20h, après de longs débats surtout concentrés sur L’article DPE, garanties d’origine, rénovation : le sort des principaux textes au CSE est apparu en premier sur Gr…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-4-1784886000000",
+      "title": "Les documents de la semaine",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/les-documents-de-la-semaine-381215/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-5-1784878200000",
+      "title": "L’agenda de la transition énergétique",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/lagenda-de-la-transition-energetique-280-424554/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Rénovation",
+        "Énergie"
+      ],
+      "summary": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. A…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4998,6 +5178,29 @@
         "Bâtiment"
       ],
       "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-371-1784816306000",
+      "title": "ministere partenaire du film danimation fille nuages",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/ministere-partenaire-du-film-danimation-fille-nuages",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -6207,6 +6410,108 @@
       "collectMethod": "rss"
     },
     {
+      "id": "greenunivers-rss-6-1784822191000",
+      "title": "Iricc, e-SAF et électrolyse attendus dans le PLF 2027",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/iricc-e-saf-et-electrolyse-attendus-dans-le-plf-2027-430453/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "« C’est une bonne nouvelle. » L’association France Hydrogène est doublement satisfaite après l’annonce le 22 juillet des premiers lauréats du soutien à l’électrolyse et la tenue du comité de pilotage de la filière H2, en présence des ministres délégués chargés de l’Énergie Maud B…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-7-1784822071000",
+      "title": "Biométhane : la révision du tarif d’achat refusée par le CSE",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/biomethane-la-revision-du-tarif-dachat-refusee-par-le-cse-430504/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "Avec 27 textes à son ordre du jour, la séance de ce jour au Conseil supérieur de l’énergie (CSE) est une des plus denses jamais organisée. Elle reste en cours au moment où nous publions. Les discussions pourraient continuer jusqu’à 20h. Selon nos informations, le projet L’article…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-8-1784817370000",
+      "title": "Eolien flottant : BW Ideol fait équipe avec NGE en Méditerranée",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/eolien-flottant-bw-ideol-fait-equipe-avec-nge-en-mediterranee-430422/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le fabricant de flotteurs éoliens BW Ideol s’associe au groupe de BTP NGE pour son éventuelle usine destinée à voir le jour sur le port de Fos-sur-mer. Les deux parties seront à égalité dans le projet qui représente un investissement de 200 M€. Son aboutissement est étroitement l…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-9-1784815630000",
+      "title": "Hynamics, la filiale d’EDF dans l’hydrogène, n’est pas facile à vendre",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/hynamics-la-filiale-dedf-dans-lhydrogene-nest-pas-facile-a-vendre-430061/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Confort d’été"
+      ],
+      "summary": "EDF demande-t-il trop pour sa filiale Hynamics, spécialisée dans l’hydrogène et en vente depuis quelques mois ? Oui, selon un acteur de la filière qui a étudié le dossier : « Hynamics est largement survalorisé », confie-t-il à GreenUnivers. Plusieurs experts interrogés pointent l…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "pv-magazine-france-rss-6-1784815200000",
       "title": "Incendies : comment le débroussaillement a protégé une centrale photovoltaïque des flammes",
       "source": "PV Magazine France",
@@ -6755,6 +7060,29 @@
       "summary": "The Alliance HQE France GBC was created in 1996 and is a public-interest association that brings together stakeholders from across the sustainable built environment to collaboratively develop solutions to tomorrow’s environmental […] L’article [ESREI’s European Tour] What’s to co…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-37-1784713969000",
+      "title": "secheresse france",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
+      "image": null,
+      "date": "2026-07-22",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-5-1784744395000",
@@ -7483,6 +7811,32 @@
         "Réglementation"
       ],
       "summary": "La ministère de la Transition écologique, Monique Barbut, a annoncé sa démission le 21 juillet. Quentin de Groeve / Hans Lucas via AFP [Mise à jour le 22 juillet à 9h45] Cette fois, Monique Barbut est allée au bout. Quelques heures après l'adoption définitive de la loi d'urgence …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-1-1784703600000",
+      "title": "Comment Paris veut changer les règles du jeu de l’ESS",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/comment-paris-veut-changer-les-regles-du-jeu-de-less/",
+      "image": null,
+      "date": "2026-07-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "« Nous ne pourrons pas compenser le désengagement de l’État. » Dès les premières minutes de son intervention, Amina Bouri, adjointe au maire de Paris en charge de l’économie sociale et solidaire, fixe les contours de son action : la Ville de Paris n’a pas les moyens de remplacer …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8286,6 +8640,75 @@
         "Transition"
       ],
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-316-1784650478000",
+      "title": "vacances sereines applis lete",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/vacances-sereines-applis-lete",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-369-1784648815000",
+      "title": "adoption feuille route climatique francaise",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/adoption-feuille-route-climatique-francaise",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-373-1784627150000",
+      "title": "programme villages davenir perennise",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/programme-villages-davenir-perennise",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -9472,6 +9895,29 @@
       "collectMethod": "rss"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-370-1784539673000",
+      "title": "semaine europeenne mobilite deposez vos initiatives deplacements plus durables",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/semaine-europeenne-mobilite-deposez-vos-initiatives-deplacements-plus-durables",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-culture-architecture-sitemap-12-1784563128000",
       "title": "nomination de jerome montchal a la direction du phenix scene nationale de valenciennes metropole",
       "source": "Ministère de la Culture — Architecture",
@@ -10093,6 +10539,31 @@
         "Réglementation"
       ],
       "summary": "Julien Vidal - DR Votre nouvel ouvrage* appelle à réhabiliter la notion de \"rêve\". Quand avons-nous arrêté de rêver ? Je me suis justement posé la question. Et la dernière fois que nous avons rêvé collectivement d'un monde meilleur, c'était au sortir de la Seconde Guerre mondiale…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-2-1784530800000",
+      "title": "Groupe SOS : nouvelle gouvernance, ambitions renforcées… et prise de position sans ambiguïté contre le RN",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/groupe-sos-nouvelle-gouvernance-ambitions-renforcees-et-prise-de-position-sans-ambiguite-contre-le-rn/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Économie du bâtiment"
+      ],
+      "summary": "Quarante ans après sa création, le Groupe SOS poursuit sa transformation et amorce une nouvelle phase de son histoire. Engagé à l’origine dans la lutte contre le VIH et les addictions, il est devenu l’un des plus importants acteurs européens de l’économie sociale et solidaire, av…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11178,6 +11649,55 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-3-1784284200000",
+      "title": "ESS France lance « ESS – L’économie en mieux » avec le soutien des Caisses d’Epargne",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/ess-france-lance-ess-leconomie-en-mieux-avec-le-soutien-des-caisses-depargne/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Économie du bâtiment"
+      ],
+      "summary": "ESS France, la chambre représentative de l’Économie Sociale et Solidaire, a dévoilé « ESS – L’économie en mieux », une marque unique pour reconnaître l’ensemble des acteurs de l’ESS. Cette initiative, dont Caisse d’Epargne est partenaire premium, vise à apporter de la lisibilité …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-4-1784271608000",
+      "title": "Comment Makesense forme les jeunes de quartiers populaires franciliens à agir pour l’écologie",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/former-les-jeunes-de-quartiers-populaires-franciliens-a-agir-pour-lecologie/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Le dernier rapport du GIEC rappelle que l’urgence climatique est l’une des principales préoccupations des moins de 25 ans. Mais dans les quartiers prioritaires de la politique de la ville, cette inquiétude s’accompagne pourtant d’un sentiment d’impuissance :👉 Les difficultés soc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-12-1784303878000",
       "title": "Cette startup inconnue veut imprimer des réacteurs nucléaires en 3D",
       "source": "Révolution Énergétique",
@@ -11856,6 +12376,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-5-1784185200000",
+      "title": "150 ans après leur création, les colonies de vacances séduisent toujours… mais accueillent de moins en moins d’enfants",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/150-ans-apres-leur-creation-les-colonies-de-vacances-seduisent-toujours-les-francais-mais-accueillent-de-moins-en-moins-denfants/",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "Alors que s’ouvre la saison estivale, les colonies de vacances célèbrent leurs 150 ans. Bon anniversaire ! Ou pas… Car, plébiscitées par l’opinion publique et par les jeunes, elles voient leur fréquentation diminuer année après année. Un paradoxe qui interroge l’avenir des séjour…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-14-1784216386000",
       "title": "SNBC3 : la stratégie nationale bas carbone se dévoile enfin avec des objectifs très ambitieux",
       "source": "Révolution Énergétique",
@@ -11905,6 +12450,29 @@
       "summary": "Alors que la situation géopolitique est plus complexe que jamais au Moyen-Orient, l’Union Européenne s’organise pour retrouver son indépendance énergétique. Sans surprise, c’est sur l’électricité […] L’article L’UE veut plus que jamais accélérer son électrification pour retrouver…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-349-1784107847000",
+      "title": "economies denergie vrai du faux avoir bons reflexes",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/economies-denergie-vrai-du-faux-avoir-bons-reflexes",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-24-1784109433000",
@@ -12601,6 +13169,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-6-1784097900000",
+      "title": "La France accouche enfin d’une stratégie nationale pour l’ESS, après un désaveu politique cinglant",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/la-france-accouche-enfin-dune-strategie-nationale-pour-less-apres-un-desaveu-politique-cinglant/",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau"
+      ],
+      "summary": "C’est un moment historique. Avec près de deux ans de retard, la France vient enfin de se doter de sa toute première « Stratégie nationale de développement de l’ESS ». Cocorico ! Sauf que les conditions d’adoption du document sont venues gâcher la fête : 42 abstentions sur 50 vota…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-16-1784130135000",
       "title": "Cette entreprise mise sur la « réflectricité » pour augmenter la production d’énergie solaire",
       "source": "Révolution Énergétique",
@@ -12778,6 +13371,32 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-7-1783926000000",
+      "title": "Prix Grande Cause 2026 : un accompagnement de 30 000 € pour faire grandir un projet d’intérêt général",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/prix-grande-cause-2026-un-accompagnement-de-30-000-e-pour-faire-grandir-un-projet-dinteret-general/",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Dans l’économie sociale et solidaire, les projets d’intérêt général ne manquent pas. En revanche, ils peinent à trouver les moyens de se faire connaître, de mobiliser de nouveaux soutiens ou de convaincre des partenaires financiers. Pourtant, au-delà de la qualité d’une action, s…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-19-1783956758000",
       "title": "Canicule : la centrale de Bugey obtient une dérogation environnementale pour continuer de fonctionner",
       "source": "Révolution Énergétique",
@@ -12905,6 +13524,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-8-1783753200000",
+      "title": "Hugues Sibille : « L’ESS va-t-elle réussir à changer la trajectoire du Titanic » ?",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/hugues-sibille-less-va-t-elle-reussir-a-changer-la-trajectoire-du-titanic-pour-construire-un-avenir-desirable/",
+      "image": null,
+      "date": "2026-07-11",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Économie du bâtiment"
+      ],
+      "summary": "Cinquante ans d’engagement pour l’économie sociale et solidaire. Une vie ! Dans le dernier épisode de l’émission “ESS On Air” de Mediatico (vidéo en fin d’article), nous recevons cette semaine Hugues Sibille. Figure historique de l’ESS française, ancien délégué interministériel à…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-22-1783783714000",
       "title": "EPR2 : les désaccords persistent entre la France et la Commission Européenne",
       "source": "Révolution Énergétique",
@@ -12954,6 +13598,29 @@
       "summary": "Le développeur Photosol a inauguré la deuxième centrale solaire la plus puissante de France à Creil, dans l’Oise, sur l’ancienne base militaire BA110. Elle affiche […] L’article La deuxième plus grande centrale solaire de France vient d’être inaugurée est apparu en premier sur Ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-372-1783695699000",
+      "title": "7 idees recues vagues chaleur",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/7-idees-recues-vagues-chaleur",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-26-1783700410000",
@@ -13389,6 +14056,30 @@
       "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "mediatico-rss-9-1783666800000",
+      "title": "France Tiers-Lieux disparaît : la fin silencieuse d’une politique publique de huit ans",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/france-tiers-lieux-disparait-la-fin-silencieuse-dune-politique-publique-de-huit-ans/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Pas une déclaration, pas un communiqué, aucun débat public. L’assemblée générale de France Tiers-Lieux a voté sa propre dissolution lundi 29 juin, sans un bruit. À la veille des départs en vacances, pour ne pas déranger. Sans attendre la fin de sa convention avec l’Etat dans deux…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-24-1783697721000",
@@ -14201,6 +14892,29 @@
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
+      "title": "sobriete energetique plan reduire notre consommation denergie",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/sobriete-energetique-plan-reduire-notre-consommation-denergie",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "atmo-france-sitemap-32-1783498288000",
       "title": "grand public",
       "source": "Atmo France",
@@ -14890,6 +15604,29 @@
       "summary": "Entre 1971 et 1982, plus de 200 000 fûts de déchets radioactifs ont été immergés dans l'Atlantique Nord-Est, jusqu'à plus de 4 700 mètres de profondeur. Les campagnes scientifiques NODSSUM 2025 et 2026, menées par le CNRS avec la Flotte océanographique française, livrent les prem…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
+      "title": "securite sites industriels risques mise place vigilance renforcee",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/securite-sites-industriels-risques-mise-place-vigilance-renforcee",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "meteo-france-rss-3-1783411505000",
