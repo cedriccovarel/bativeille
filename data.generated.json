@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T20:58:45.561Z",
+  "generatedAt": "2026-07-26T03:22:48.307Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1785036178000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-07-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1785036178000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-07-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1785036178000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-07-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "oreo-bretagne-sitemap-164-1784937704000",
       "title": "energie renouvelable eolien terrestre mer bretagne",
       "source": "OREO Bretagne",
@@ -2364,7 +2442,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1785010500000",
+      "id": "enerzine-rss-0-1785017400000",
+      "title": "Des chercheurs créent un capteur souple qui transforme le toucher en action robotique sans électronique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-chercheurs-creent-un-capteur-souple-qui-transforme-le-toucher-en-action-robotique-sans-electronique/190880-2026-07",
+      "image": null,
+      "date": "2026-07-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Fabriqués à partir de matériaux flexibles et souples, les robots mous gagnent en pertinence pour des tâches allant de la chirurgie mini-invasive à l’exploration des grands fonds marins, mais restent freinés par une contrainte fondamentale. Pour détecter leur environnement et réag…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1785010500000",
       "title": "Samsung S27 Ultra : pourquoi les rumeurs autour du prochain flagship s’emballent déjà",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2389,7 +2492,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1784974500000",
+      "id": "enerzine-rss-2-1784974500000",
       "title": "Nouveaux billets en euros : la BCE dévoile deux visions de l’Europe et consulte les citoyens",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2414,7 +2517,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1784952600000",
+      "id": "enerzine-rss-3-1784952600000",
       "title": "Des scientifiques dévoilent l’« effet papillon » rapide des océans profonds",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2440,7 +2543,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1784949000000",
+      "id": "enerzine-rss-4-1784949000000",
       "title": "La baisse des niveaux d’eau déclenche une augmentation des émissions de méthane des réservoirs méditerranéens",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2512,84 +2615,6 @@
       "summary": "113 mètres sous la mer, un tunnelier qui ne s'arrête jamais, même à Noël. La Chine bat un record mondial en pleine construction d'une ligne à grande vitesse. Comment ses ingénieurs dominent treize couches géologiques différentes ? L’article La Chine vient d’établir un record mond…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1785013143000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-07-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1785013143000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-07-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1785013143000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-07-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1784894401000",
@@ -3065,31 +3090,6 @@
     },
     {
       "id": "batiweb-rss-2-1784887200000",
-      "title": "Immobilier : Nexity voit ses réservations de logements reculer au S1 2026",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/construction/nexity-reservations-logements-baisse-premier-semestre-2026-49128",
-      "image": "https://img.batiweb.com/repo-images/article/49128/nexi.jpg",
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Nexity a enregistré 3 858 réservations de logements au premier semestre 2026. Le promoteur conserve un portefeuille de projets représentant cinq années d’activité. Nexity a enregistré 3 858 réservations de logements au premier semestre 2026. Le promoteur conserve un portefeuille …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-3-1784887200000",
       "title": "Comment bien dans le smart building grâce aux systèmes de gestion de l'énergie ?",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -3111,6 +3111,31 @@
         "Énergie"
       ],
       "summary": "TRIBUNE - La hausse des coûts de l'énergie accroît la pression sur les équipes facility management (FM). Pour Kamal Mehta, Product & Offer Manager EMEA chez Eaton, c'est précisément dans ce contexte que les technologies de bâtiment intelligent (ou smart building) peuvent générer …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-3-1784887200000",
+      "title": "Immobilier : Nexity voit ses réservations de logements reculer au S1 2026",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/construction/nexity-reservations-logements-baisse-premier-semestre-2026-49128",
+      "image": "https://img.batiweb.com/repo-images/article/49128/nexi.jpg",
+      "date": "2026-07-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Énergie",
+        "Bâtiment"
+      ],
+      "summary": "Nexity a enregistré 3 858 réservations de logements au premier semestre 2026. Le promoteur conserve un portefeuille de projets représentant cinq années d’activité. Nexity a enregistré 3 858 réservations de logements au premier semestre 2026. Le promoteur conserve un portefeuille …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4262,7 +4287,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1784931000000",
+      "id": "enerzine-rss-5-1784931000000",
       "title": "Médaille Fields 2026 : quatre des meilleurs mathématiciens mondiaux récompensés",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4287,7 +4312,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1784883300000",
+      "id": "enerzine-rss-6-1784883300000",
       "title": "Autonomie des voitures hybrides : ce que vous devez savoir",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4312,7 +4337,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1784880600000",
+      "id": "enerzine-rss-7-1784880600000",
       "title": "Hong Wang reçoit la médaille Fields 2026 pour ses travaux sur la conjecture de Kakeya",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4336,7 +4361,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1784871900000",
+      "id": "enerzine-rss-8-1784871900000",
       "title": "Pompes à chaleur : l’Europe franchit les 29 millions d’installations",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4361,7 +4386,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1784869800000",
+      "id": "enerzine-rss-9-1784869800000",
       "title": "EODev et Baudouin s’allient sur la pile à combustible à oxyde solide",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4381,30 +4406,6 @@
         "ENR"
       ],
       "summary": "EODev et Baudouin a annoncé un partenariat industriel pour commercialiser des systèmes de production d’électricité fondés sur les Piles à Combustible à Oxyde Solide (SOFC). Destinée aux data centers, sites industriels et infrastructures critiques, la solution de 600 kW par module…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1784869800000",
-      "title": "Appel d’offres solaire PPE2 : un projet sur cinq seulement franchit la barre",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/appel-doffres-solaire-ppe2-un-projet-sur-cinq-seulement-franchit-la-barre/191522-2026-07",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "1 projet sur 5. C’est le taux de succès des dossiers déposés lors de la dernière période PPE2, 1 559 MWc soumis, 300 MW retenus (délibération CRE, 7 juillet 2026). Le prix moyen a reculé de 13,5 €/MWh par rapport à la période précédente. La concurrence est telle que même les proj…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4558,107 +4559,6 @@
       "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1784927632000",
-      "title": "Conférence sur les déchets ménagers (1/4) – Haro sur « la fausse consigne »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/conference-sur-les-dechets-menagers-1-4-haro-sur-la-fausse-consigne/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Énergie"
-      ],
-      "summary": "À la Maison de la chimie le 8 juillet dernier, la neuvième Conférence nationale sur les déchets ménagers a décliné le thème \"Déchets, énergie, matériaux, nouveaux enjeux de souveraineté dans un monde instable\". Un même constat a couru des discours d’ouverture au débat final sur l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-1-1784926814000",
-      "title": "Conférence sur les déchets ménagers (2/4) – La réduction du plastique, premier acte contesté d’une stratégie de souveraineté",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/conference-sur-les-dechets-menagers-2-4-la-reduction-du-plastique-premier-acte-conteste-dune-strategie-de-souverainete/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "La première table ronde, intitulée \"Plastiques : de la crise environnementale et sanitaire à l’enjeu de souveraineté ?\", a réuni élus, recycleurs, plasturgistes et scientifiques. Tous réclament une boussole publique, quand le plan plastique du gouvernement se focalise à leurs yeu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-2-1784924074000",
-      "title": "Conférence sur les déchets ménagers (3/4) – L’énergie des déchets s’affirme comme une assurance contre les chocs gaziers",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/conference-sur-les-dechets-menagers-3-4-lenergie-des-dechets-saffirme-comme-une-assurance-contre-les-chocs-gaziers/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Économie du bâtiment",
-        "Énergie"
-      ],
-      "summary": "La deuxième table ronde, intitulée \"Gaz, CSR et déchets : vers une souveraineté énergétique par l’économie circulaire ?\", a chiffré le potentiel des filières de valorisation. Toutes butent sur le même obstacle, des soutiens publics et des règles qui changent plus vite que le temp…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-3-1784906091000",
-      "title": "Conférence sur les déchets ménagers (4/4) – Le service public des déchets réclame un cap industriel et un financement refondé",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/conference-sur-les-dechets-menagers-4-4-le-service-public-des-dechets-reclame-un-cap-industriel-et-un-financement-refonde/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "La troisième table ronde, intitulée \"Service public de gestion des déchets ménagers : pilier de souveraineté ou modèle sous tension ?\", a réuni élus, éco-organismes, opérateurs et Medef. Tous convergent vers une stratégie industrielle partagée pour un service qui pèse 14 milliard…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "acteurs-publics-sitemap-1-1784889480000",
@@ -6609,57 +6509,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1784831153000",
-      "title": "Les marchés du Grand Paris – Pontoise lance la requalification des espaces publics de son centre historique",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-marches-du-grand-paris-pontoise-lance-la-requalification-des-espaces-publics-de-son-centre-historique/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Économie du bâtiment"
-      ],
-      "summary": "La ville de Pontoise a engagé un marché de maîtrise d'œuvre pour transformer la place de l'Hôtel de Ville, la rue éponyme et les places du Grand et du Petit Martroy. Une opération d'ampleur, inscrite dans le dispositif national Action Cœur de Ville, qui devra composer avec un sou…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-5-1784823078000",
-      "title": "Aux Grésillons, un passage souterrain ripé pour préparer l’arrivée de la ligne 15",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/aux-gresillons-un-passage-souterrain-ripe-pour-preparer-larrivee-de-la-ligne-15/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Les équipes de SNCF Réseau et de la Société des grands projets (SGP) ont réalisé, le 22 juillet, une spectaculaire opération de ripage du futur passage souterrain reliant la gare du RER C des Grésillons à la future station de la ligne 15 ouest du Grand Paris express. Une interven…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "acteurs-publics-sitemap-11-1784811600000",
       "title": "bataille feutree dans les inspections detat autour de lharmonisation des remunerations",
       "source": "Acteurs Publics",
@@ -8167,83 +8016,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1784738912000",
-      "title": "Prolongement de la ligne 1 : une concertation préalable sur le nouveau projet prévue à l’automne 2026",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/prolongement-de-la-ligne-1-une-concertation-prealable-sur-le-nouveau-projet-prevue-a-lautomne-2026/",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau"
-      ],
-      "summary": "Quatre ans après le coup d'arrêt provoqué par l'avis défavorable de la commission d'enquête publique, le prolongement de la ligne 1 du métro jusqu'à Val-de-Fontenay revient sur la table. Un dossier largement remanié sera soumis à une concertation préalable à l'automne 2026, sous …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-7-1784738630000",
-      "title": "Laurent Le Bon reconduit à Beaubourg, Alexander Neef à l’opéra de Paris",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/laurent-le-bon-reconduit-a-beaubourg-alexander-neef-a-lopera-de-paris/",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Le président de la République a décidé, sur proposition de la ministre de la Culture Catherine Pégard, de reconduire Laurent Le Bon à la présidence du Centre Pompidou et Alexander Neef à la direction générale de l'Opéra national de Paris. Les deux dirigeants sont chargés d'accomp…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1784728997000",
-      "title": "Les ports parisiens s’adaptent à l’essor du marché des petits bateaux de tourisme",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-ports-parisiens-sadaptent-a-lessor-du-marche-des-petits-bateaux-de-tourisme/",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Face à l'essor du marché des bateaux de moins de 20 m de long, les acteurs parisiens du tourisme fluvial ont travaillé avec Haropa port afin de prévoir des escales dédiées. Après l'inauguration mi-juillet de celle du port des Saints-Pères (6e arr.), deux autres escales sont prévu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "acteurs-publics-sitemap-17-1784753460000",
       "title": "un rapport senatorial censure montre que la souffrance au travail a cours dans le prive comme dans la fonction publique",
       "source": "Acteurs Publics",
@@ -9592,31 +9364,6 @@
         "Confort d’été"
       ],
       "summary": "Un ex-agent immobilier niçois veut installer des boucliers solaires à 36 000 km d'altitude pour freiner les canicules. Utopie ou coup de génie pour bousculer les politiques ? Sa démarche surprend et interroge. L’article Ce Niçois veut envoyer des boucliers solaires dans l’espace …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1784651934000",
-      "title": "À Dugny, Vincent Jeanbrun visite le Village des médias et en lance la deuxième tranche",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/a-dugny-vincent-jeanbrun-visite-le-village-des-medias-et-lance-sa-deuxieme-phase/",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Bâtiment"
-      ],
-      "summary": "Deux ans après les Jeux olympiques de Paris 2024, le ministre de la Ville et du Logement, Vincent Jeanbrun, s’est rendu, ce 21 juillet, à Dugny, en Seine-Saint-Denis, afin de visiter les premiers logements et équipements du Village des médias. L’occasion également de mesurer la r…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
