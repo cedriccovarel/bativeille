@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-26T16:06:34.888Z",
+  "generatedAt": "2026-07-26T21:03:59.621Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,53 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "envirobat-occitanie-rss-0-1785093599000",
+      "title": "Dgema",
+      "source": "Envirobat Occitanie",
+      "sourceId": "envirobat-occitanie",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Occitanie",
+      "url": "https://www.envirobat-oc.fr/dgema",
+      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-07/logo-dgema.jpg.webp?itok=UPanjQUF",
+      "date": "2026-07-26",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "BDO",
+        "REX",
+        "Eau"
+      ],
+      "summary": "Dgema plefort@enviro… dim, 26 Jul 2026 - 21:19 34-Hérault Siège social 134 rue de Font Caude 34080 Montpellier Contact 04 67 06 10 61 Site internet Dgema Cabinet de géomètres. Non Projet QDO Bureau d'études VRD Dgema plefort@enviro… dim, 26 Jul 2026 - 21:19 34-Hérault Siège socia…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-occitanie-rss-1-1785092811000",
+      "title": "Communauté de Communes Vallée de l'Hérault",
+      "source": "Envirobat Occitanie",
+      "sourceId": "envirobat-occitanie",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Occitanie",
+      "url": "https://www.envirobat-oc.fr/communaute-de-communes-vallee-de-l-herault",
+      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-07/logo-cc-vallee-herault.jpg.webp?itok=2lpw_Sw_",
+      "date": "2026-07-26",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "BDO",
+        "REX"
+      ],
+      "summary": "Communauté de Communes Vallée de l'Hérault plefort@enviro… dim, 26 Jul 2026 - 21:06 34-Hérault 2 Parc d'Activités de Camalcé 34150 Gignac 04 67 57 04 50 Site internet CC Vallée de l'Hérault La Communauté de communes Vallée de l’Hérault (de statut EPCI) est située à l'ouest de Mon…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "lig-air-sitemap-4-1785024000000",
       "title": "information allegee depassement du seuil dinformation et de recommandation en particules en suspension pm10 a chateauroux hier 2507",
       "source": "Lig’Air",
@@ -2439,7 +2486,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1785082004000",
+      "id": "le-commerce-du-bois-sitemap-0-1785099858000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2465,7 +2512,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1785082004000",
+      "id": "le-commerce-du-bois-sitemap-1-1785099858000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2491,7 +2538,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1785082004000",
+      "id": "le-commerce-du-bois-sitemap-2-1785099858000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3368,31 +3415,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-2-1784887200000",
-      "title": "Immobilier : Nexity voit ses réservations de logements reculer au S1 2026",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/construction/nexity-reservations-logements-baisse-premier-semestre-2026-49128",
-      "image": "https://img.batiweb.com/repo-images/article/49128/nexi.jpg",
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Nexity a enregistré 3 858 réservations de logements au premier semestre 2026. Le promoteur conserve un portefeuille de projets représentant cinq années d’activité. Nexity a enregistré 3 858 réservations de logements au premier semestre 2026. Le promoteur conserve un portefeuille …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-3-1784887200000",
       "title": "Comment bien dans le smart building grâce aux systèmes de gestion de l'énergie ?",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -3414,6 +3436,31 @@ window.BATIVEILLE_DATA = {
         "Énergie"
       ],
       "summary": "TRIBUNE - La hausse des coûts de l'énergie accroît la pression sur les équipes facility management (FM). Pour Kamal Mehta, Product & Offer Manager EMEA chez Eaton, c'est précisément dans ce contexte que les technologies de bâtiment intelligent (ou smart building) peuvent générer …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-3-1784887200000",
+      "title": "Immobilier : Nexity voit ses réservations de logements reculer au S1 2026",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/construction/nexity-reservations-logements-baisse-premier-semestre-2026-49128",
+      "image": "https://img.batiweb.com/repo-images/article/49128/nexi.jpg",
+      "date": "2026-07-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Énergie",
+        "Bâtiment"
+      ],
+      "summary": "Nexity a enregistré 3 858 réservations de logements au premier semestre 2026. Le promoteur conserve un portefeuille de projets représentant cinq années d’activité. Nexity a enregistré 3 858 réservations de logements au premier semestre 2026. Le promoteur conserve un portefeuille …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3699,7 +3746,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-occitanie-rss-0-1784884731000",
+      "id": "envirobat-occitanie-rss-2-1784915191000",
+      "title": "La Séranne | Gignac",
+      "source": "Envirobat Occitanie",
+      "sourceId": "envirobat-occitanie",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Occitanie",
+      "url": "https://www.envirobat-oc.fr/la-seranne-gignac-34",
+      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-07/visuel-la-seranne-qdo-gignac.png.webp?itok=A2AzRoVR",
+      "date": "2026-07-24",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "BDO",
+        "REX",
+        "Réglementation",
+        "RE2020",
+        "Carbone"
+      ],
+      "summary": "La Séranne | Gignac plefort@enviro… ven, 24 Jul 2026 - 19:46 Aménagement Surface de la tranche 3,8 hectares Espaces publics plus de 14 000 m2 d’espaces publics environ 8 000 m2 espaces publics végétalisés parc central structurant : élément hydraulique et paysager majeur Taux d’im…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-occitanie-rss-3-1784884731000",
       "title": "Cycle de webinaires sur l'adaptation des établissements de santé au changement climatique",
       "source": "Envirobat Occitanie",
       "sourceId": "envirobat-occitanie",
@@ -3725,7 +3798,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-occitanie-rss-1-1784881119000",
+      "id": "envirobat-occitanie-rss-4-1784881119000",
       "title": "Trophées EIT et Économie Circulaire 2026 : c'est le moment de candidater",
       "source": "Envirobat Occitanie",
       "sourceId": "envirobat-occitanie",
@@ -5786,7 +5859,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-occitanie-rss-2-1784822913000",
+      "id": "envirobat-occitanie-rss-5-1784822913000",
       "title": "Hangar station d'épuration de Ginestous | Toulouse",
       "source": "Envirobat Occitanie",
       "sourceId": "envirobat-occitanie",
@@ -5812,7 +5885,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-occitanie-rss-3-1784817750000",
+      "id": "envirobat-occitanie-rss-6-1784817750000",
       "title": "Îlot Fleury | Lodève",
       "source": "Envirobat Occitanie",
       "sourceId": "envirobat-occitanie",
@@ -7376,7 +7449,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-occitanie-rss-4-1784710838000",
+      "id": "envirobat-occitanie-rss-7-1784710838000",
       "title": "Damien Nogué",
       "source": "Envirobat Occitanie",
       "sourceId": "envirobat-occitanie",
@@ -7400,7 +7473,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-occitanie-rss-5-1784708845000",
+      "id": "envirobat-occitanie-rss-8-1784708845000",
       "title": "Entreprise Pitel",
       "source": "Envirobat Occitanie",
       "sourceId": "envirobat-occitanie",
@@ -7420,82 +7493,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Entreprise Pitel plefort@enviro… mer, 22 Jul 2026 - 10:27 31-Haute-Garonne Siège social 3 Rue du Dr Albert Schweitzer 91420 Morangis Antenne Toulouse 25 rue Marius Terce 31300 Toulouse Contact 05 61 49 41 64 Page LinkedIn Entreprise Pitel Entreprise générale de bâtiment spécialis…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-occitanie-rss-6-1784708239000",
-      "title": "A2M Proximétal",
-      "source": "Envirobat Occitanie",
-      "sourceId": "envirobat-occitanie",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Occitanie",
-      "url": "https://www.envirobat-oc.fr/a2m-proximetal",
-      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-07/logo-a2m-proximetal.jpg.webp?itok=b1T2rLtx",
-      "date": "2026-07-22",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Bâtiment durable",
-        "BDO",
-        "REX",
-        "Confort d’été"
-      ],
-      "summary": "A2M Proximétal plefort@enviro… mer, 22 Jul 2026 - 10:17 31-Haute-Garonne Siège social N°101, Parc 1, Gironde Synergies ZI les Pins 33820 Saint-Aubin-de-Blaye Agence Toulouse Les Halles de la Cartoucherie 10 Place de la Charte des Libertés Communales 31 300 Toulouse 05 57 94 06 40…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-occitanie-rss-7-1784707867000",
-      "title": "Société Régionale du Bâtiment (SRB)",
-      "source": "Envirobat Occitanie",
-      "sourceId": "envirobat-occitanie",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Occitanie",
-      "url": "https://www.envirobat-oc.fr/societe-regionale-du-batiment-srb",
-      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-01/icone-structure.png.webp?itok=bn8wN3LL",
-      "date": "2026-07-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "BDO",
-        "REX",
-        "Réglementation",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "Société Régionale du Bâtiment (SRB) plefort@enviro… mer, 22 Jul 2026 - 10:11 31-Haute-Garonne 3 impasse Jean Racaud 31200 Toulouse Contact 06 24 62 47 07 Page Facebook SRB Entreprise spécialisée dans les travaux de charpente, couverture, zinguerie. Non Projet BDO Enveloppe du bât…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-occitanie-rss-8-1784707163000",
-      "title": "Soirée du Festival du Nouveau Bauhaus Européen en Occitanie",
-      "source": "Envirobat Occitanie",
-      "sourceId": "envirobat-occitanie",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Occitanie",
-      "url": "https://www.envirobat-oc.fr/soiree-du-festival-du-nouveau-bauhaus-europeen-en-occitanie",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "BDO",
-        "REX",
-        "Réglementation",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "Soirée du Festival du Nouveau Bauhaus Européen en Occitanie eponsribot@env… mer, 22 Jul 2026 - 09:59 Une soirée mêlant culture, urbanisme, transition écologique et convivialité Le mercredi 7 octobre à Nîmes, le Festival du Nouveau Bauhaus Européen en Occitanie vous invite à une s…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
