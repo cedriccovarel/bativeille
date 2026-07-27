@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-27T12:59:11.818Z",
+  "generatedAt": "2026-07-27T17:02:57.857Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2187,7 +2187,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-0-1785142200000",
+      "id": "batiweb-rss-0-1785142800000",
+      "title": "Chantier de la Tour Montparnasse : réunion de crise prévue à la mairie de Paris",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/immobilier/tour-montparnasse-reunion-crise-renovation-49135",
+      "image": "https://img.batiweb.com/repo-images/article/49135/tourmontparnasseparis.jpg",
+      "date": "2026-07-27",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Économie du bâtiment",
+        "Rénovation",
+        "Bâtiment"
+      ],
+      "summary": "Le maire PS de Paris Emmanuel Grégoire réunit les copropriétaires de la Tour Montparnasse. Sa rénovation à 800 millions d’euros fait l'objet de désaccords, tant sur les coûts, que l'agencement d'espaces. Le maire PS de Paris Emmanuel Grégoire réunit les copropriétaires de la Tour…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-1-1785142200000",
       "title": "Grenoble fête la restauration de sa Tour Perret !",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2211,7 +2237,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-1-1785139200000",
+      "id": "batiweb-rss-2-1785139200000",
       "title": "La médiathèque de Trignac, un projet exemplaire signé Belenfant Daubas",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2234,7 +2260,124 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-0-1785151450000",
+      "id": "batiweb-rss-3-1785135600000",
+      "title": "Angélique Longeray nommée directrice générale France de Groupe Atlantic",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/nomination/groupe-atlantic-angelique-longeray-directrice-generale-france-49130",
+      "image": "https://img.batiweb.com/repo-images/article/49130/angeliquelongeray.jpg",
+      "date": "2026-07-27",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Après 26 années passées au sein du groupe Somfy, Angélique Longeray a rejoint depuis juin dernier Groupe Atlantic, en tant que directrice générale France. Après 26 années passées au sein du groupe Somfy, Angélique Longeray a rejoint depuis juin dernier Groupe Atlantic, en tant qu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-0-1785164652000",
+      "title": "IA générative : les recommandations de l'Ademe pour les limiter Impacts",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/impacts-environnementaux-ia-generative-ademe-48368.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48368_large.jpg",
+      "date": "2026-07-27",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "L'intelligence artificielle générative (IAG) s'est implantée à la vitesse grand V dans la grande majorité des secteurs ces dernières années. Son développement, à travers la fabrication de ses infrastructures de support, l'entraînement de ses modèl... L'intelligence artificielle g…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-1-1785164208000",
+      "title": "Incendies de forêts : plus de 116 000 hectares brûlés, assureurs et État mobilisés",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/incendies-foret-france-record-surfaces-brulees-48367.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48367_large.jpg",
+      "date": "2026-07-27",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Bâtiment"
+      ],
+      "summary": "Alors que les feux de forêts sévissent en Gironde, dans les Landes et le Var, la France a déjà tristement battu son record annuel de surfaces brûlées. Les assureurs prendront en charge le relogement des centaines de milliers de personnes évacuées. Alors que les feux de forêts sév…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-2-1785163787000",
+      "title": "Combustibles solides de récupération : Ecomaison compte accompagner des projets de chaudières",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/accompagnement-developpement-csr-ecomaison-48366.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48366_large.jpg",
+      "date": "2026-07-27",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Ce lundi 27 juillet, Ecomaison annonce le lancement de trois initiatives « pour accélérer la consommation industrielle des 360 000 tonnes de déchets valorisables collectés chaque année ». L'éco-organisme agréé pour quatre filières de responsabilit... Ce lundi 27 juillet, Ecomaiso…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-3-1785163500000",
+      "title": "Exploitation des fonds marins : l'AIFM prolonge le contrat d'exploration de Nauru Ocean Resources Inc.",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/aifm-prolongation-contrat-nori-fonds-marins-48365.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48365_large.jpg",
+      "date": "2026-07-27",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau"
+      ],
+      "summary": "Du 13 au 31 juillet 2026, se tient la deuxième partie de la 31ème session de négociations internationales sur l'exploitation minière en eaux profondes. Réuni chaque année depuis la création de l'Autorité internationale des fonds marins (AIFM), en... Du 13 au 31 juillet 2026, se t…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-4-1785151450000",
       "title": "REP Emballages professionnels : deux spécialistes du réemploi agréés en tant que systèmes individuels",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2258,7 +2401,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-1-1785143714000",
+      "id": "actu-environnement-rss-5-1785143714000",
       "title": "Règlement PIC : la mise à jour annuelle de l'annexe I est ouverte à la consultation du public",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2375,6 +2518,29 @@ window.BATIVEILLE_DATA = {
       "summary": "L’article « Freiner la croissance démographique pour sauver le climat n’a aucun sens » est apparu en premier sur AUAT. L’article « Freiner la croissance démographique pour sauver le climat n&#8217;a aucun sens » est apparu en premier sur AUAT . « Freiner la croissance démographiq…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-47-1785149817000",
+      "title": "ressources energetiques renouvelables fossiles bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/article/ressources-energetiques-renouvelables-fossiles-bretagne",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "lig-air-sitemap-4-1785110400000",
@@ -2529,8 +2695,82 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1785156313000",
-      "title": "EN DIRECT Incendie en Gironde : le feu est « stabilisé, mais pas fixé »",
+      "id": "reporterre-rss-0-1785168373000",
+      "title": "Face aux incendies, les Écologistes réclament un « État-providence climatique »",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Face-aux-incendies-les-Ecologistes-reclament-un-Etat-providence-climatique",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260727__hl_dperron_3243632__v1__highres__franceforesttondelierparis_resized-5d1c5.jpg?1785168376",
+      "date": "2026-07-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat"
+      ],
+      "summary": "Congé climatique, soutien aux agriculteurs... Les Écologistes appellent à la mise en place d'un « État-providence climatique », qui pourrait être financé grâce à une taxe sur les bénéfices des groupes pétroliers et gaziers. Les incendies qui frappent le sud-ouest de la France ne …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1785164417000",
+      "title": "Des pointes à 40 °C : une 4e vague de fortes chaleurs débute mardi",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Des-pointes-a-40-oC-une-4e-vague-de-fortes-chaleurs-debute-mardi",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260725__hl_dhamani_3242048__v1__highres__franceparisheatwavepedestrianssunpar_resized-27a47.jpg?1785164422",
+      "date": "2026-07-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Confort d’été"
+      ],
+      "summary": "Mardi 28 juillet marquera le début d'une nouvelle vague nationale de très fortes chaleurs. La quatrième, déjà, qui écrasera la France en 2026. Entre 32 °C et 35 °C sont attendus sur une grande partie du pays, voire 36 °C à 37 °C dans le Sud-Ouest, selon le communiqué publié le 27…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-2-1785159440000",
+      "title": "Incendies en Espagne : le Premier ministre Pedro Sánchez appelle à un « pacte d'État » sur l'urgence climatique",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Incendies-en-Espagne-le-Premier-ministre-Pedro-Sanchez-appelle-a-un-pacte-d-Etat-sur-l",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH465/capture_d_ecran_du_2026-07-27_15-22-57-c52cb.png?1785159455",
+      "date": "2026-07-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Confort d’été"
+      ],
+      "summary": "Un « grand pacte d'État » sur l'urgence climatique : c'est ce qu'a proposé le Premier ministre espagnol de gauche, Pedro Sánchez, à l'ensemble des acteurs politiques, et notamment au principal parti de l'opposition, le Parti populaire (PP) du libéral—conservateur Alberto Núñez Fe…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-3-1785156313000",
+      "title": "EN DIRECT Les incendies seront « catastrophiques » pour la faune sauvage",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2554,7 +2794,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1785154863000",
+      "id": "reporterre-rss-4-1785154863000",
       "title": "L'incendie de Gironde a produit son propre « orage de feu »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2578,7 +2818,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1785154755000",
+      "id": "reporterre-rss-5-1785154755000",
       "title": "Ces canaux provençaux vieux de cinq siècles rechargent les nappes et font vivre les paysans",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2604,8 +2844,8 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1785154728000",
-      "title": "Incendies : en brûlant, les forêts françaises alimentent le dérèglement climatique qui les détruit",
+      "id": "reporterre-rss-6-1785154728000",
+      "title": "Incendies : le cercle vicieux du carbone libéré par les flammes",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2630,7 +2870,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1785136856000",
+      "id": "reporterre-rss-7-1785136856000",
       "title": "12 jours de tempête au Chili : les premiers signes d'un « super Niño » dévastateur",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2656,7 +2896,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1785136470000",
+      "id": "reporterre-rss-8-1785136470000",
       "title": "Amazon s'est installé en catimini... Les habitants l'ont appris après le début des travaux",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2682,7 +2922,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1785136178000",
+      "id": "reporterre-rss-9-1785136178000",
       "title": "La Gironde face aux incendies : ceux qui restent, ceux qui fuient, ceux qui ont tout perdu",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2733,7 +2973,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-0-1785144081000",
+      "id": "greenunivers-rss-0-1785169221000",
       "title": "A Cestas, la centrale solaire de Neoen sauvée des flammes",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -2754,12 +2994,141 @@ window.BATIVEILLE_DATA = {
         "Réglementation",
         "Eau"
       ],
-      "summary": "La plus puissante centrale photovoltaïque de France a été sauvée des flammes ce week-end, mais elle a eu très chaud et est à l’arrêt. A Cestas, entre Bordeaux et Arcachon (Gironde), dans la nuit de samedi à dimanche, le méga-feu venant de l’ouest a réussi à pénétrer sous quelques…",
+      "summary": "Article complété en cours de journée le 27 juillet – La plus puissante centrale photovoltaïque de France a été sauvée des flammes ce week-end, mais, encerclée par l’incendie, elle a eu très chaud et est à l’arrêt. A Cestas, entre Bordeaux et Arcachon (Gironde), dans la nuit de sa…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-0-1785153600000",
+      "id": "greenunivers-rss-1-1785169165000",
+      "title": "En Gironde, des centrales solaires à l’arrêt",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/en-gironde-des-centrales-solaires-a-larret-430743/",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Plusieurs centrales solaires sont à l’arrêt en Gironde, dans le périmètre exposé au feu géant qui a ravagé le centre-ouest du département ce weekend et reste actif. La centrale exploitée par Neoen en milieu forestier dans la commune de Cestas s’est retrouvée encerclée par les fla…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-2-1785168278000",
+      "title": "Des CEE « mobilité électrique » à boucler sur les chapeaux de roues",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/des-cee-mobilite-electrique-a-boucler-sur-les-chapeaux-de-roues-430718/",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Après la création d’une bonification pour les utilitaires le 1er juin, de nouvelles fiches et bonifications pour la mobilité électrique sont attendus le 1er septembre dans les certificats d’économies d’énergie (CEE). « C’est une avalanche de textes », observe Romain Ryon, fondate…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-3-1785159361000",
+      "title": "Les prix de l’électricité bien partis pour rester élevés pour 2027 [Marchés]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/07/les-prix-de-lelectricite-bien-partis-pour-rester-eleves-pour-2027-marches-430689/",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Économie du bâtiment",
+        "Énergie"
+      ],
+      "summary": "« Chaque semaine qui avance augmente le risque pour 2027 », observe Clément Métayer, directeur des marchés de l’énergie chez Alterna Energies (groupe Sorégies). Un risque qui augmente L’article Les prix de l’électricité bien partis pour rester élevés pour 2027 [Marchés] est appar…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-0-1785160800000",
+      "title": "Solmeria Market : l’achat-vente de projets solaires et de stockage à l’unité",
+      "source": "PV Magazine France",
+      "sourceId": "pv-magazine-france",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.pv-magazine.fr/2026/07/27/solmeria-market-lachat-vente-de-projets-solaires-et-de-stockage-a-lunite/",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Photovoltaïque",
+        "Autoconsommation",
+        "ENR",
+        "Énergie"
+      ],
+      "summary": "Apporteur d'affaires des développeurs photovoltaïques, Solmeria (ex-Ferme Solaire) a lancé, début juillet, une plateforme originale d’achat et de vente de projets solaires et BESS en France et en Europe. Apporteur d'affaires des développeurs photovoltaïques, Solmeria (ex-Ferme …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-1-1785157200000",
+      "title": "Quand le solaire n’a nulle part où aller : transformer l’électricité photovoltaïque écrêtée en énergie pilotable",
+      "source": "PV Magazine France",
+      "sourceId": "pv-magazine-france",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.pv-magazine.fr/2026/07/27/quand-le-solaire-na-nulle-part-ou-aller-transformer-lelectricite-photovoltaique-ecretee-en-energie-pilotable/",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Photovoltaïque",
+        "Autoconsommation",
+        "ENR",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "La prochaine frontière économique du solaire pourrait ne pas consister à produire un autre kilowattheure à bas coût. Elle pourrait résider dans la recherche d’un usage productif pour les kilowattheures que le réseau ne peut pas accepter. La prochaine frontière économique du solai…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-2-1785153600000",
       "title": "[En images] 12 GWc en autoconsommation sur le toit d’ID Logistics, à Amiens",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -2784,7 +3153,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-1-1785142800000",
+      "id": "pv-magazine-france-rss-3-1785142800000",
       "title": "Une centrale solaire existante de 34,4 MWc hybridée avec un système de batteries de 15 MW/60 MWh au Portugal",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -2809,7 +3178,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-2-1785139200000",
+      "id": "pv-magazine-france-rss-4-1785139200000",
       "title": "Les prix des cellules TOPCon chinoises poursuivent leur baisse sur fond de faible demande et de surcapacités",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -2835,7 +3204,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-3-1785133800000",
+      "id": "pv-magazine-france-rss-5-1785133800000",
       "title": "Mexens (ex-Technique Solaire) sécurise un financement de 288 millions d’euros",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -2886,7 +3255,57 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1785131100000",
+      "id": "connaissance-des-energies-rss-0-1785110400000",
+      "title": "Impacts de l’IA générative : l’Ademe appelle à la « vigilance »",
+      "source": "Connaissance des Énergies",
+      "sourceId": "connaissance-des-energies",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.connaissancedesenergies.org/impacts-ia-generative-ademe-appelle-a-la-vigilance",
+      "image": "https://images.connaissancedesenergies.org/articles/image-article/impacts-ia-generative-ademe-appelle-a-la-vigilance.webp",
+      "date": "2026-07-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Statistiques",
+        "Pédagogie"
+      ],
+      "summary": "L’Agence de la transition écologique (Ademe) évoque les « impacts environnementaux importants » de l’intelligence artificielle générative dans un nouvel avis publié le 22 juillet (et « rédigé sans IA générative », précise l’Ademe). L’Agence de la transition écologique (Ademe) évo…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1785165000000",
+      "title": "Des drones chinois anti-incendie, un dispositif innovant face aux départs de feu",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/drones-chinois-zhuque-anti-incendie/192125-2026-07",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Alors que l’Europe du Sud-Ouest affronte l’une des pires saisons d’incendies de son histoire récente, un système chinois de drones « bombardiers d’eau » revient sur le devant de la scène. Baptisé Zhuque (« Oiseau vermillon »), ce dispositif embarqué sur un camion de pompiers pour…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1785131100000",
       "title": "Fos-sur-Mer : accord signé pour un hub multi-énergies nucléaire et numérique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2912,7 +3331,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1785129000000",
+      "id": "enerzine-rss-2-1785129000000",
       "title": "Une théorie des trous noirs prend vie en laboratoire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2937,7 +3356,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1785125400000",
+      "id": "enerzine-rss-3-1785125400000",
       "title": "Des électrodes à peindre pour des capteurs portables créatifs et colorés",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2962,7 +3381,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1785121800000",
+      "id": "enerzine-rss-4-1785121800000",
       "title": "Des chercheurs réalisent le contrôle autonome à distance de la puissance d’un réacteur de recherche en temps réel",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2987,7 +3406,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1785149417000",
+      "id": "lenergeek-rss-0-1785158465000",
+      "title": "Nucléaire : EDF et Technip Energies scellent le partenariat stratégique des six EPR2",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/07/27/nucleaire-edf-technip-energies-epr2/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/07/shutterstock_2162107209.jpg",
+      "date": "2026-07-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Le 27 juillet 2026, EDF et Technip Energies officialisent leur partenariat pour piloter la construction de six réacteurs nucléaires EPR2, un programme de 72,8 milliards d'euros. En combinant l'expertise nucléaire d'EDF et le savoir-faire en gestion de projets complexes de Technip…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1785149417000",
       "title": "Batteries électriques : la pertinence du pari français",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3012,7 +3457,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1785141094000",
+      "id": "lenergeek-rss-2-1785141094000",
       "title": "Réforme des heures creuses : pourquoi ça change ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3038,7 +3483,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1785138918000",
+      "id": "lenergeek-rss-3-1785138918000",
       "title": "Incendies en Gironde : plus de 200 000 personnes évacuées",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3064,7 +3509,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1785133200000",
+      "id": "lenergeek-rss-4-1785133200000",
       "title": "Yucca Mountain : le tunnel nucléaire à 19 milliards de dollars qui n’a jamais servi",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3088,7 +3533,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1785131400000",
+      "id": "lenergeek-rss-5-1785131400000",
       "title": "Mauvaise nouvelle pour les propriétaires de smartphones Android : YouTube coupe l’accès sans prévenir, des millions d’utilisateurs découvrent un écran noir",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3112,7 +3557,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1785129829000",
+      "id": "lenergeek-rss-6-1785129829000",
       "title": "Iran et USA calment le jeu, le pétrole chute en Bourse",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3137,7 +3582,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1785129600000",
+      "id": "lenergeek-rss-7-1785129600000",
       "title": "Les prix du carburant repartent à la hausse et votre plein pourrait bientôt dépasser les 100€ mais TotalEnergies propose une offre qui ne sera pas pour tout le monde",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3162,7 +3607,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1785157166000",
+      "id": "le-commerce-du-bois-sitemap-0-1785171797000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3188,7 +3633,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1785157166000",
+      "id": "le-commerce-du-bois-sitemap-1-1785171797000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3214,7 +3659,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1785157166000",
+      "id": "le-commerce-du-bois-sitemap-2-1785171797000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3313,7 +3758,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1785045600000",
+      "id": "reporterre-rss-10-1785045600000",
       "title": "Clôtures et forêts engrillagées : comment retrouver la liberté de cheminer",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3339,7 +3784,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1785043800000",
+      "id": "reporterre-rss-11-1785043800000",
       "title": "« L'époque n'encourage pas la nuance » : guide « un peu bourrin » pour orienter les décideurs sur l'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3366,7 +3811,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "vert-rss-1-1785042000000",
-      "title": "Isolation, volets, ventilateurs de plafond : comment obliger son proprio à faire des travaux dans un logement bouilloire",
+      "title": "Isolation, volets, ventilateurs de plafond : comment obliger son propriétaire à faire des travaux dans un logement bouilloire",
       "source": "Vert",
       "sourceId": "vert",
       "sourceType": "Presse professionnelle",
@@ -3417,7 +3862,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1785103800000",
+      "id": "enerzine-rss-5-1785103800000",
       "title": "Nanogénérateurs triboélectriques dans le domaine militaire : progrès récents et défis majeurs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3443,7 +3888,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1785053700000",
+      "id": "enerzine-rss-6-1785053700000",
       "title": "Démarchage téléphonique prohibé par défaut à partir du 11 août 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3463,32 +3908,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "La France inverse la logique du démarchage téléphonique commercial. Jusqu’ici, les consommateurs devaient s’inscrire sur Bloctel pour ne plus être sollicités. Désormais, toute prospection par téléphone sera interdite par défaut. Les entreprises devront obtenir un accord préalable…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-6-1785039000000",
-      "title": "Incendies : développer un « drone‑avion » pour détecter les gaz toxiques dans les panaches de fumée",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/incendies-developper-un-drone-avion-pour-detecter-les-gaz-toxiques-dans-les-panaches-de-fumee/191915-2026-07",
-      "image": null,
-      "date": "2026-07-26",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Renaud Kiefer, INSA Strasbourg L’essentiel À Rouen, le 26 septembre 2019, une usine de produits chimiques de la société Lubrizol classée Seveso seuil haut (« à haut risque ») a pris feu. Cet énorme incendie a généré un énorme panache noir qui s’est étendu sur plusieurs dizaines d…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3518,7 +3937,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1785046800000",
+      "id": "enerzine-rss-8-1785039000000",
+      "title": "Incendies : développer un « drone‑avion » pour détecter les gaz toxiques dans les panaches de fumée",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/incendies-developper-un-drone-avion-pour-detecter-les-gaz-toxiques-dans-les-panaches-de-fumee/191915-2026-07",
+      "image": null,
+      "date": "2026-07-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Renaud Kiefer, INSA Strasbourg L’essentiel À Rouen, le 26 septembre 2019, une usine de produits chimiques de la société Lubrizol classée Seveso seuil haut (« à haut risque ») a pris feu. Cet énorme incendie a généré un énorme panache noir qui s’est étendu sur plusieurs dizaines d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-8-1785046800000",
       "title": "Beaucoup de gens laissent la clim tourner toute la journée pour économiser : idée reçue ou vrai technique ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3544,7 +3989,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1785045000000",
+      "id": "lenergeek-rss-9-1785045000000",
       "title": "Ce matériau révolutionnaire transformerait la chaleur ambiante en électricité",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3568,7 +4013,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1785043200000",
+      "id": "lenergeek-rss-10-1785043200000",
       "title": "Chaque geste filmé, chaque mouvement analysé : Tesla transforme ses ouvriers en professeurs pour le robot qui prendra leur poste",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3617,7 +4062,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-9-1784972031000",
+      "id": "reporterre-rss-12-1784972031000",
       "title": "Fumées, cendres et sidération : Bordeaux suffoque sous l'incendie de Gironde",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3643,7 +4088,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1784957400000",
+      "id": "reporterre-rss-13-1784957400000",
       "title": "« J'ai cru que ma vie allait partir en fumée » : les grimpeurs pleurent la forêt de Fontainebleau",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3668,7 +4113,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1784957400000",
+      "id": "reporterre-rss-14-1784957400000",
       "title": "Les rivières, des paradis rafraîchissants et instructifs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3694,7 +4139,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1784957400000",
+      "id": "reporterre-rss-15-1784957400000",
       "title": "« Sans notre intervention, il n'y aurait quasiment plus de busards en France » : comment agriculteurs et écologistes protègent ces oiseaux des champs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3719,7 +4164,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1784957400000",
+      "id": "reporterre-rss-16-1784957400000",
       "title": "« C'est démoralisant » : faute d'aides adaptées, la pêche artisanale se meurt à La Réunion",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3796,7 +4241,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1785017400000",
+      "id": "enerzine-rss-9-1785017400000",
       "title": "Des chercheurs créent un capteur souple qui transforme le toucher en action robotique sans électronique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3821,32 +4266,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1785010500000",
-      "title": "Samsung S27 Ultra : pourquoi les rumeurs autour du prochain flagship s’emballent déjà",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/galaxy-s27-ultra-dernieres-rumeurs-2027/191919-2026-07",
-      "image": null,
-      "date": "2026-07-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Un parfum de nouveauté flotte déjà autour du prochain fleuron de Samsung. Alors que le Galaxy S26 Ultra est encore frais, les fuites se multiplient depuis plusieurs semaines autour de son successeur, le Galaxy S27 Ultra, attendu début 2027. Contrairement aux années précédentes ma…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-10-1784958641000",
+      "id": "lenergeek-rss-11-1784958641000",
       "title": "Trump menace de frapper très bientôt ce site nucléaire en Iran et la riposte pourrait être bien pire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3870,7 +4290,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1784956859000",
+      "id": "lenergeek-rss-12-1784956859000",
       "title": "La Chine vient d’établir un record mondial en creusant un tunnel sous-marin le plus profond pour trains à grande vitesse",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4318,7 +4738,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-2-1784899500000",
+      "id": "batiweb-rss-4-1784899500000",
       "title": "Matériaux de construction : nouveau recul attendu en 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4344,7 +4764,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-3-1784894400000",
+      "id": "batiweb-rss-5-1784894400000",
       "title": "Carburants : le guichet « grands rouleurs » prolongé jusqu'au 31 août",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4367,7 +4787,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-4-1784887200000",
+      "id": "batiweb-rss-6-1784887200000",
       "title": "Immobilier : Nexity voit ses réservations de logements reculer au S1 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4392,7 +4812,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-5-1784887200000",
+      "id": "batiweb-rss-7-1784887200000",
       "title": "Comment bien dans le smart building grâce aux systèmes de gestion de l'énergie ?",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4418,7 +4838,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-6-1784883600000",
+      "id": "batiweb-rss-8-1784883600000",
       "title": "« Point d'équilibre » dans l'immobilier ancien selon les Notaires de France",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4564,29 +4984,6 @@ window.BATIVEILLE_DATA = {
         "Air"
       ],
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreo-bretagne-sitemap-47-1784900283000",
-      "title": "ressources energetiques renouvelables fossiles bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/article/ressources-energetiques-renouvelables-fossiles-bretagne",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -4746,7 +5143,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1784902946000",
+      "id": "reporterre-rss-17-1784902946000",
       "title": "La quatrième canicule de l'été attendue en France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4771,7 +5168,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1784900899000",
+      "id": "reporterre-rss-18-1784900899000",
       "title": "Au cœur d'un été cataclysmique, TotalEnergies annonce 9,8 milliards d'euros de profits",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4797,7 +5194,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1784900780000",
+      "id": "reporterre-rss-19-1784900780000",
       "title": "Un projet de data center à 1,5 milliard d'euros suspendu par la justice",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4823,7 +5220,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1784899232000",
+      "id": "reporterre-rss-20-1784899232000",
       "title": "Le retour de l'acétamipride à nouveau contesté devant le Conseil Constitutionnel",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4849,7 +5246,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1784894636000",
+      "id": "reporterre-rss-21-1784894636000",
       "title": "La Coordination rurale appelle à désobéir aux interdictions d'arroser en pleine sécheresse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4875,7 +5272,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1784892560000",
+      "id": "reporterre-rss-22-1784892560000",
       "title": "Une première : la justice ordonne la destruction de 4 mégabassines illégales",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4901,7 +5298,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1784877545000",
+      "id": "reporterre-rss-23-1784877545000",
       "title": "Le cap Ferret évacué, des milliers d'hectares en fumée : l'incendie de Gironde rappelle le cauchemar de 2022",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4926,7 +5323,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1784877096000",
+      "id": "reporterre-rss-24-1784877096000",
       "title": "30 fois plus d'incendies en 20 ans : la France est entrée dans l'ère du feu",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4951,7 +5348,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1784871000000",
+      "id": "reporterre-rss-25-1784871000000",
       "title": "« Avec sa sale gueule, il est le bouc émissaire idéal » : à la rencontre du silure, le géant de nos rivières",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5002,7 +5399,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-1-1784907161000",
+      "id": "greenunivers-rss-4-1784907161000",
       "title": "La nouvelle vague des agrégateurs d’électricité",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5028,7 +5425,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-2-1784903030000",
+      "id": "greenunivers-rss-5-1784903030000",
       "title": "Mexens boucle un financement de 288 M€, inclut l’éolien",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5054,7 +5451,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-3-1784898240000",
+      "id": "greenunivers-rss-6-1784898240000",
       "title": "Biométhane : Waga souscrit une dette senior inédite pour l’Europe",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5079,7 +5476,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-4-1784892668000",
+      "id": "greenunivers-rss-7-1784892668000",
       "title": "DPE, garanties d’origine, rénovation : le sort des principaux textes au CSE",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5105,7 +5502,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-5-1784886000000",
+      "id": "greenunivers-rss-8-1784886000000",
       "title": "Les documents de la semaine",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5131,7 +5528,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-6-1784878200000",
+      "id": "greenunivers-rss-9-1784878200000",
       "title": "L’agenda de la transition énergétique",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5157,7 +5554,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-4-1784901600000",
+      "id": "pv-magazine-france-rss-6-1784901600000",
       "title": "Face à la vague de chaleur, la Tunisie autorise le stockage résidentiel",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -5183,7 +5580,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-5-1784898000000",
+      "id": "pv-magazine-france-rss-7-1784898000000",
       "title": "Le petit solaire victime d’un sévère ralentissement en 2025",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -5209,7 +5606,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-6-1784894400000",
+      "id": "pv-magazine-france-rss-8-1784894400000",
       "title": "Au tour de la filière agrivoltaïque d’alerter sur les critères des prochains appels d’offres solaires",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -5234,7 +5631,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-7-1784885400000",
+      "id": "pv-magazine-france-rss-9-1784885400000",
       "title": "Appel d’offres pour une centrale solaire de 2 MW sur un aéroport sud-africain",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -5255,56 +5652,6 @@ window.BATIVEILLE_DATA = {
         "Énergie"
       ],
       "summary": "Un appel d'offres est ouvert en Afrique du Sud pour le développement d'une installation solaire de 2 MW à l'aéroport international King Shaka. La date limite de dépôt des candidatures est fixée au 22 septembre. Un appel d'offres est ouvert en Afrique du Sud pour le développement …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-8-1784881800000",
-      "title": "La SCNF poursuit ses tests pour déployer des panneaux solaires sur son réseau ferroviaire",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/07/24/la-scnf-poursuit-ses-tests-pour-deployer-des-panneaux-solaires-sur-son-reseau-ferroviaire/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Eau",
-        "Énergie"
-      ],
-      "summary": "La phase test de la technologie photovoltaïque amovible de la jeune pousse suisse Bankset se poursuit depuis 2025 sur un site technique parisien. La phase test de la technologie photovoltaïque amovible de la jeune pousse suisse Bankset se poursuit depuis 2025 sur un site techniqu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-9-1784874600000",
-      "title": "À l’île Maurice, Qair sécurise ses BESS avec PowerUp",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/07/24/a-lile-maurice-qair-securise-ses-bess-avec-powerup/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR"
-      ],
-      "summary": "PowerUp, fournisseur de solutions logicielles pour l’analyse des batteries, conclut un partenariat avec l’énergéticien Qair pour maximiser la valeur de ses actifs mauriciens de stockage par BESS. PowerUp, fournisseur de solutions logicielles pour l’analyse des batteries, conclut …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5335,7 +5682,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1784900354000",
+      "id": "lenergeek-rss-13-1784900354000",
       "title": "Mégabassines : la justice ordonne la destruction de quatre réserves illégales en Charente-Maritime",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5360,7 +5707,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1784874000000",
+      "id": "lenergeek-rss-14-1784874000000",
       "title": "Eau chaude décarbonée : la prime CEE multipliée jusqu’à sept pour les chauffe-eau thermodynamiques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5386,7 +5733,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1784872238000",
+      "id": "lenergeek-rss-15-1784872238000",
       "title": "Le câble TAT-8, pionnier de l’Internet transatlantique, remonté des fonds marins au large du Portugal",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5410,7 +5757,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1784870442000",
+      "id": "lenergeek-rss-16-1784870442000",
       "title": "La Basse-Saxe autorise un projet nucléaire franco-russe malgré les tensions avec Moscou",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6139,7 +6486,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-7-1784816700000",
+      "id": "batiweb-rss-9-1784816700000",
       "title": "Hydrogène décarboné : l'État attribue 778 millions d'euros à trois projets industriels",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6164,7 +6511,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-8-1784801400000",
+      "id": "batiweb-rss-10-1784801400000",
       "title": "Tour Montparnasse : le désamiantage voté malgré le désaccord du principal propriétaire",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6187,7 +6534,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-9-1784800800000",
+      "id": "batiweb-rss-11-1784800800000",
       "title": "DPE : « À force de corriger les outils, nous finissons par perdre de vue l'objectif »",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6212,7 +6559,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-10-1784800800000",
+      "id": "batiweb-rss-12-1784800800000",
       "title": "Dans le BTP, une facture sur deux est payée en retard selon Qonto",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6236,7 +6583,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-11-1784793900000",
+      "id": "batiweb-rss-13-1784793900000",
       "title": "Somfy lance une nouvelle batterie pour ses volets roulants RS100 Solar io",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6262,7 +6609,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-12-1784790000000",
+      "id": "batiweb-rss-14-1784790000000",
       "title": "Wicona lance une version à ouvrant caché de sa gamme Wicline Ng",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6288,7 +6635,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-13-1784786400000",
+      "id": "batiweb-rss-15-1784786400000",
       "title": "Motoriser les volets battants grâce au solaire selon Mantion",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6685,7 +7032,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1784820673000",
+      "id": "reporterre-rss-26-1784820673000",
       "title": "« Une honte » : 8 dauphins du Marineland d'Antibes transférés vers l'Espagne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6710,7 +7057,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1784818104000",
+      "id": "reporterre-rss-27-1784818104000",
       "title": "Morts de la canicule : « Le gros du problème, c'est le logement »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6736,7 +7083,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1784815200000",
+      "id": "reporterre-rss-28-1784815200000",
       "title": "Des quartiers populaires privés de plage dans le Finistère",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6761,7 +7108,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1784815200000",
+      "id": "reporterre-rss-29-1784815200000",
       "title": "Perquisitions, millions d'euros demandés : un promoteur immobilier fait pression sur des associations écologistes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6786,7 +7133,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1784813008000",
+      "id": "reporterre-rss-30-1784813008000",
       "title": "Légitime défense des policiers : la pétition à 730 000 signatures enterrée par l'Assemblée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6811,7 +7158,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1784808872000",
+      "id": "reporterre-rss-31-1784808872000",
       "title": "Data centers : la consommation d'électricité pourrait doubler en 5 ans",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6837,7 +7184,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1784806861000",
+      "id": "reporterre-rss-32-1784806861000",
       "title": "PFAS : l'Europe baisse drastiquement le seuil tolérable d'exposition aux TFA",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6862,7 +7209,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1784790722000",
+      "id": "reporterre-rss-33-1784790722000",
       "title": "Fini la « belle saison » : l'été est devenu la saison du confinement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6888,7 +7235,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1784784600000",
+      "id": "reporterre-rss-34-1784784600000",
       "title": "« Monique Barbut joue aux Lego » : la réforme qui plonge le ministère de la Transition écologique dans le flou",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6913,7 +7260,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1784784600000",
+      "id": "reporterre-rss-35-1784784600000",
       "title": "Se baigner malgré les cyanobactéries : l'expérimentation réussie des gorges du Tarn",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6989,83 +7336,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-7-1784822191000",
-      "title": "Iricc, e-SAF et électrolyse attendus dans le PLF 2027",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/iricc-e-saf-et-electrolyse-attendus-dans-le-plf-2027-430453/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "« C’est une bonne nouvelle. » L’association France Hydrogène est doublement satisfaite après l’annonce le 22 juillet des premiers lauréats du soutien à l’électrolyse et la tenue du comité de pilotage de la filière H2, en présence des ministres délégués chargés de l’Énergie Maud B…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-8-1784822071000",
-      "title": "Biométhane : la révision du tarif d’achat refusée par le CSE",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/biomethane-la-revision-du-tarif-dachat-refusee-par-le-cse-430504/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Énergie"
-      ],
-      "summary": "Avec 27 textes à son ordre du jour, la séance de ce jour au Conseil supérieur de l’énergie (CSE) est une des plus denses jamais organisée. Elle reste en cours au moment où nous publions. Les discussions pourraient continuer jusqu’à 20h. Selon nos informations, le projet L’article…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-9-1784817370000",
-      "title": "Eolien flottant : BW Ideol fait équipe avec NGE en Méditerranée",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/eolien-flottant-bw-ideol-fait-equipe-avec-nge-en-mediterranee-430422/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le fabricant de flotteurs éoliens BW Ideol s’associe au groupe de BTP NGE pour son éventuelle usine destinée à voir le jour sur le port de Fos-sur-mer. Les deux parties seront à égalité dans le projet qui représente un investissement de 200 M€. Son aboutissement est étroitement l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-4-1784818856000",
       "title": "Face à l’IA de Google, nous parions sur notre communauté",
       "source": "Révolution Énergétique",
@@ -7091,7 +7361,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-0-1784764800000",
+      "id": "connaissance-des-energies-rss-1-1784764800000",
       "title": "Plus d'électricité produite en 2026… y compris à partir des énergies fossiles",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -7115,7 +7385,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-1-1784764800000",
+      "id": "connaissance-des-energies-rss-2-1784764800000",
       "title": "Énergies renouvelables : les dernières statistiques par filière et par zone géographique",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -7139,7 +7409,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1784809305000",
+      "id": "lenergeek-rss-17-1784809305000",
       "title": "TotalEnergies : 11,2 milliards de bénéfice dopés par la guerre en Iran",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7163,7 +7433,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1784787656000",
+      "id": "lenergeek-rss-18-1784787656000",
       "title": "C’est confirmé, les factures d’électricité vont augmenter le 1er août mais pas pour tout le monde",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7188,7 +7458,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1784785800000",
+      "id": "lenergeek-rss-19-1784785800000",
       "title": "La facture des énergies renouvelables va encore augmenter en 2027 mais pourquoi ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7214,7 +7484,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1784784023000",
+      "id": "lenergeek-rss-20-1784784023000",
       "title": "Hausse du prix des carburants : TotalEnergies maintient le plafonnement à 1,99€/L mais pas dans toutes les stations",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7240,7 +7510,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1784784011000",
+      "id": "lenergeek-rss-21-1784784011000",
       "title": "Les installateurs de clim sont unanimes : ce n’est pas 22°C qu’il faut régler en été, et la vraie température idéale surprend tout le monde",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7652,7 +7922,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-14-1784721600000",
+      "id": "batiweb-rss-16-1784721600000",
       "title": "« Sortie de crise » ou « véritable rebond » ? Le futur du bâtiment selon Xerfi",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7677,7 +7947,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-15-1784714700000",
+      "id": "batiweb-rss-17-1784714700000",
       "title": "CVC : SATEP poursuit son expansion avec cinq rachats au T2 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7701,7 +7971,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-16-1784703600000",
+      "id": "batiweb-rss-18-1784703600000",
       "title": "SMABTP nomme Sylvestre Frézal au poste de directeur général adjoint",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7725,7 +7995,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-17-1784703300000",
+      "id": "batiweb-rss-19-1784703300000",
       "title": "Chauffage biomasse : Propellet publie un plan pour valoriser la filière",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8192,7 +8462,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1784732980000",
+      "id": "reporterre-rss-36-1784732980000",
       "title": "Canicule de juin : 5 764 morts en excès, un bilan inédit depuis 2003",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8218,7 +8488,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1784732400000",
+      "id": "reporterre-rss-37-1784732400000",
       "title": "Consigne du verre : les groupes industriels reprennent la main en écartant les petites boîtes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8244,7 +8514,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1784728800000",
+      "id": "reporterre-rss-38-1784728800000",
       "title": "Pris d'assaut par les campeurs, ces lacs de montagne instaurent des quotas",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8270,7 +8540,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1784727654000",
+      "id": "reporterre-rss-39-1784727654000",
       "title": "Les maisons fissurées pourraient coûter jusqu'à 500 milliards d'euros",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8295,7 +8565,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1784724006000",
+      "id": "reporterre-rss-40-1784724006000",
       "title": "Cagnotte pour Fontainebleau : l'écran de fumée d'Emmanuel Macron",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8320,7 +8590,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1784723172000",
+      "id": "reporterre-rss-41-1784723172000",
       "title": "Miniréacteur nucléaire : l'ASNR juge « satisfaisantes » les garanties données par la start-up Newcleo",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8346,7 +8616,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1784722014000",
+      "id": "reporterre-rss-42-1784722014000",
       "title": "Violente tempête au Chili : El Niño s'installe en Amérique du Sud",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8371,7 +8641,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1784716259000",
+      "id": "reporterre-rss-43-1784716259000",
       "title": "À la demande de Macron, la ministre de la Transition écologique reste à son poste",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8396,7 +8666,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1784707046000",
+      "id": "reporterre-rss-44-1784707046000",
       "title": "Opposée au retour de l'acétamipride, la ministre de la Transition écologique démissionne... Macron la rattrape",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8422,7 +8692,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1784698200000",
+      "id": "reporterre-rss-45-1784698200000",
       "title": "Jean-Luc Mélenchon : « Une nouvelle gauche d'action a surgi, elle est faite d'insoumis et de verts, tous écologistes »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8448,7 +8718,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1784698200000",
+      "id": "reporterre-rss-46-1784698200000",
       "title": "En manque de piscines, la Seine-Saint-Denis ouvre ses rivières",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8551,7 +8821,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-2-1784678400000",
+      "id": "connaissance-des-energies-rss-3-1784678400000",
       "title": "Hydrogène décarboné par électrolyse : le gouvernement annonce 3 projets lauréats",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -8577,7 +8847,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1784731464000",
+      "id": "lenergeek-rss-22-1784731464000",
       "title": "Pétrole : le Brent franchit les 95 dollars, première fois depuis six semaines",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8601,7 +8871,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1784725586000",
+      "id": "lenergeek-rss-23-1784725586000",
       "title": "L’Arabie saoudite va se doter d’un programme nucléaire grâce au soutien des États-Unis",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8621,30 +8891,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "L'administration Trump a approuvé un accord nucléaire civil permettant à l'Arabie Saoudite de construire un complexe d'enrichissement d'uranium. Valable trente ans, le partenariat vise à diversifier le mix énergétique saoudien tout en libérant du pétrole pour l'exportation, susci…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1784715242000",
-      "title": "Pétrole : le raffinage en retard alimente les tensions",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/07/22/petrole-raffinage-retard-tensions/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/07/shutterstock_2751039775.jpg",
-      "date": "2026-07-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Alors que les exportations de brut du Golfe remontent à 16,1 millions de barils par jour fin juin 2026, les produits raffinés, diesel et essence en tête, demeurent nettement plus tendus que le pétrole brut. Les capacités de raffinage n'ont pas suivi la remontée des livraisons, cr…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9060,52 +9306,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-18-1784675100000",
-      "title": "URSA au rendez-vous de BATIMAT",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/ursa-rendezvous-batimat-49107",
-      "image": "https://img.batiweb.com/repo-images/publi/49107/ursa-07-23-une.jpg",
-      "date": "2026-07-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "BATIMAT : le spécialiste de l'isolation URSA France présentera ses solutions thermiques et acoustiques et une innovation en avant-première. BATIMAT : le spécialiste de l'isolation URSA France présentera ses solutions thermiques et acoustiques et une innovation en avant-première. …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-19-1784643900000",
-      "title": "SPIE ICS nomme Pierre Gaio directeur des activités Grand-Atlantique",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/nomination/spie-ics-pierre-gaio-directeur-grand-atlantique-49115",
-      "image": "https://img.batiweb.com/repo-images/article/49115/e.jpg",
-      "date": "2026-07-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "SPIE ICS nomme Pierre Gaio directeur des activités Grand-Atlantique. Il pilotera le développement des services numériques de la filiale dans la région de l'ouest. SPIE ICS nomme Pierre Gaio directeur des activités Grand-Atlantique. Il pilotera le développement des services numéri…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "novabuild-rss-4-1784613600000",
       "title": "Le Département du Maine et Loire lance son Appel à Projets « Nature en ville »",
       "source": "Novabuild",
@@ -9196,30 +9396,6 @@ window.BATIVEILLE_DATA = {
         "Habitat"
       ],
       "summary": "L’article Observatoire régional des centres-villes est apparu en premier sur AGAM. L’article Observatoire régional des centres-villes est apparu en premier sur AGAM . Observatoire régional des centres-villes",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "agam-marseille-rss-1-1784616411000",
-      "title": "Le « cagnascore »",
-      "source": "AGAM Marseille",
-      "sourceId": "agam-marseille",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.agam.org/le-cagnascore-2/",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Marseille",
-        "Urbanisme",
-        "Habitat",
-        "Confort d’été"
-      ],
-      "summary": "Face aux canicules de plus en plus fréquentes et précoces, les politiques locales environnementales, d’aménagement et de santé publique doivent s’adapter rapidement. Pour faciliter leur adaptation, l’AGAM a créé pour les nombreux acteurs de la Métropole Aix-Marseille Provence une…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9397,7 +9573,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1784646235000",
+      "id": "reporterre-rss-47-1784646235000",
       "title": "Au pire moment, la France saborde l'Institut de recherche sur le développement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9423,7 +9599,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1784644200000",
+      "id": "reporterre-rss-48-1784644200000",
       "title": "Les insectes s'écrasent-ils toujours autant contre les voitures ? À vous de compter !",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9448,7 +9624,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1784643968000",
+      "id": "reporterre-rss-49-1784643968000",
       "title": "Dangereux pour les cultures, deux scarabées japonais repérés en Alsace",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9474,7 +9650,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1784642400000",
+      "id": "reporterre-rss-50-1784642400000",
       "title": "La forêt et ses animaux « sacrifiés » : après l'incendie, la Drôme pleure son patrimoine naturel",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9499,7 +9675,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1784637924000",
+      "id": "reporterre-rss-51-1784637924000",
       "title": "« On ne partira pas » : des « écureuils » tentent de protéger des tilleuls",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9524,7 +9700,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1784635608000",
+      "id": "reporterre-rss-52-1784635608000",
       "title": "Le Tour de France va longer un glacier disparu",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9549,7 +9725,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1784635566000",
+      "id": "reporterre-rss-53-1784635566000",
       "title": "La récolte du blé est affectée par les canicules et la sécheresse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9575,7 +9751,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1784617904000",
+      "id": "reporterre-rss-54-1784617904000",
       "title": "« J'ai eu le réflexe de prendre mes semis, mon ordinateur et mes papiers » : après les incendies, des paysans transmettent une culture du feu",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9599,7 +9775,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1784617618000",
+      "id": "reporterre-rss-55-1784617618000",
       "title": "« Des alliés du cancer » : les députés adoptent la loi d'urgence agricole, les opposants révoltés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9625,7 +9801,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1784611800000",
+      "id": "reporterre-rss-56-1784611800000",
       "title": "« La montagne devrait être un lieu à vivre, pas un parc d'attraction géant »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9751,7 +9927,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-3-1784592000000",
+      "id": "connaissance-des-energies-rss-4-1784592000000",
       "title": "Le solaire a fourni un quart de l'électricité dans l'UE au mois de juin",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -10592,7 +10768,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1784556136000",
+      "id": "reporterre-rss-57-1784556136000",
       "title": "« 45 °C sous les tentes » : Israël restreint l'accès des Palestiniens à l'eau et à la fraîcheur en pleine canicule",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10618,7 +10794,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1784556000000",
+      "id": "reporterre-rss-58-1784556000000",
       "title": "« Je l'ai trouvé par terre à côté des serres » : les canicules laissent les paysans KO",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10644,7 +10820,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1784553976000",
+      "id": "reporterre-rss-59-1784553976000",
       "title": "A Fos-sur-Mer, des lignes à haute tension exemptées d'évaluation environnementale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10666,83 +10842,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Le gouvernement a décidé de ne pas imposer d'évaluation environnementale à plusieurs lignes électriques à très haute tension (THT) prévues pour alimenter des projets industriels dans la zone industrialoportuaire de Fos-sur-Mer (Bouches-du-Rhône). Il estime que cela permettra de g…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-57-1784553017000",
-      "title": "Après un léger ralentissement, la fonte de la banquise arctique reprend de plus belle",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Apres-un-leger-ralentissement-la-fonte-de-la-banquise-arctique-reprend-de-plus-belle",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/nounoursallo-197f7.jpg?1784553026",
-      "date": "2026-07-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Le recul de la banquise arctique reprend. Une étude publiée le 20 juillet dans la revue PNAS révèle que la relative pause de la fonte observée au début des années 2020 n'a été que de courte durée. Des niveaux historiquement bas ont été enregistrés en 2025 et au début de l'année 2…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-58-1784552381000",
-      "title": "Barrage illégal de Caussade : la justice alourdit les sanctions contre la Coordination rurale",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Barrage-illegal-de-Caussade-la-justice-alourdit-les-sanctions-contre-la-Coordination",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/lac_de_caussade_-_panorama_1_1_-87b03.jpg?1784552399",
-      "date": "2026-07-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "La Cour d'appel financière a confirmé et aggravé, dans un arrêt rendu le 17 juillet, les sanctions prononcées contre cinq anciens responsables de la chambre d'agriculture du Lot-et-Garonne dans le dossier de la retenue d'eau illégale de Caussade. Lire la suite - En bref / Agricul…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1784550038000",
-      "title": "Canicule : près de 700 000 poules pondeuses sont mortes en France",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Canicule-pres-de-700-000-poules-pondeuses-sont-mortes-en-France",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH460/poulets_d_elevage_intensif_1_-20013.jpg?1784550042",
-      "date": "2026-07-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Confort d’été"
-      ],
-      "summary": "Jusqu'à 700 000 poules pondeuses sont mortes en France à cause de la canicule. Voici le macabre décompte réalisé par le Comité national pour la promotion de l'œuf. Ce chiffre représente 1,5 % du cheptel français. En Bretagne, certains producteurs d'œufs ont perdu 30 % de leurs po…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11926,7 +12025,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "agam-marseille-rss-2-1784187550000",
+      "id": "agam-marseille-rss-1-1784187550000",
       "title": "Le « cagnascore »",
       "source": "AGAM Marseille",
       "sourceId": "agam-marseille",
@@ -11949,7 +12048,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "agam-marseille-rss-3-1784197372000",
+      "id": "agam-marseille-rss-2-1784197372000",
       "title": "Mise à jour de la cartographie interactive de l’OTLE",
       "source": "AGAM Marseille",
       "sourceId": "agam-marseille",
@@ -13088,7 +13187,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-4-1783987200000",
+      "id": "connaissance-des-energies-rss-5-1783987200000",
       "title": "Empreinte carbone des vacances : comment aider les touristes à laisser leur voiture au garage ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -13927,7 +14026,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-5-1783641600000",
+      "id": "connaissance-des-energies-rss-6-1783641600000",
       "title": "Leasing social des pompes à chaleur : le pari d'une nouvelle économie de l'électrification",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -13952,7 +14051,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-6-1783641600000",
+      "id": "connaissance-des-energies-rss-7-1783641600000",
       "title": "Stockage d'électricité : « la batterie à eau » bat de nouveaux records",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -14463,7 +14562,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-7-1783555200000",
+      "id": "connaissance-des-energies-rss-8-1783555200000",
       "title": "Chèque énergie : le vrai sujet n'est plus seulement l'aide, mais son accès",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -14487,7 +14586,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-8-1783555200000",
+      "id": "connaissance-des-energies-rss-9-1783555200000",
       "title": "Le Québec publie son premier Plan de gestion intégrée des ressources énergétiques",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -14511,7 +14610,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-9-1783555200000",
+      "id": "connaissance-des-energies-rss-10-1783555200000",
       "title": "Les émissions de GES au premier trimestre",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -15349,7 +15448,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-10-1783468800000",
+      "id": "connaissance-des-energies-rss-11-1783468800000",
       "title": "Tarification dynamique : « une opportunité pour profiter des prix négatifs »",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -15375,7 +15474,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-11-1783468800000",
+      "id": "connaissance-des-energies-rss-12-1783468800000",
       "title": "Que deviennent les fûts de déchets radioactifs immergés dans l'Atlantique dans les années 1970 et 1980 ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -15544,29 +15643,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "agam-marseille-rss-8-1783416269000",
-      "title": "L’Agam participe aux 2es Assises de la Politique de la ville à Marseille",
-      "source": "AGAM Marseille",
-      "sourceId": "agam-marseille",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.agam.org/lagam-participe-aux-2es-assises-de-la-politique-de-la-ville-a-marseille/",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Marseille",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article L’Agam participe aux 2es Assises de la Politique de la ville à Marseille est apparu en premier sur AGAM. L’article L’Agam participe aux 2es Assises de la Politique de la ville à Marseille est apparu en premier sur AGAM . L’Agam participe aux 2es Assises de la Politique …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "arec-nouvelle-aquitaine-rss-1-1783420380000",
@@ -16778,7 +16854,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "agam-marseille-rss-4-1783000713000",
+      "id": "agam-marseille-rss-3-1783000713000",
       "title": "L’essentiel de l’AGAM – juin 2026",
       "source": "AGAM Marseille",
       "sourceId": "agam-marseille",
@@ -16797,29 +16873,6 @@ window.BATIVEILLE_DATA = {
         "Habitat"
       ],
       "summary": "L’article L’essentiel de l’AGAM – juin 2026 est apparu en premier sur AGAM. L’article L&rsquo;essentiel de l&rsquo;AGAM &#8211; juin 2026 est apparu en premier sur AGAM . L’essentiel de l’AGAM – juin 2026",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "agam-marseille-rss-5-1782985561000",
-      "title": "L’ombre, matière à politique publique",
-      "source": "AGAM Marseille",
-      "sourceId": "agam-marseille",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.agam.org/lombre-matiere-a-politique-publique-2/",
-      "image": null,
-      "date": "2026-07-02",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Marseille",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Le Regards de l’Agam explore l’importance de l’ombrage, les façons de l’intégrer dans la fabrique de la ville et le renouvellement urbain, et les différents moyens contemporains de le créer. L’article L’ombre, matière à politique publique est apparu en premier sur AGAM. Le Regard…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16975,7 +17028,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-12-1782950400000",
+      "id": "connaissance-des-energies-rss-13-1782950400000",
       "title": "Exportations d'électricité : nouveau record battu au 1ᵉʳ semestre 2026",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -17192,7 +17245,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "agam-marseille-rss-6-1782903801000",
+      "id": "agam-marseille-rss-4-1782903801000",
       "title": "Les centres-villes face aux défis des transitions",
       "source": "AGAM Marseille",
       "sourceId": "agam-marseille",
@@ -17211,29 +17264,6 @@ window.BATIVEILLE_DATA = {
         "Habitat"
       ],
       "summary": "L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM. L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM . Les centres-villes face aux défis des transitions",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "agam-marseille-rss-7-1782902232000",
-      "title": "2e Assises de la politique de la ville",
-      "source": "AGAM Marseille",
-      "sourceId": "agam-marseille",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.agam.org/2e-assises-de-la-politique-de-la-ville/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Marseille",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article 2e Assises de la politique de la ville est apparu en premier sur AGAM. L’article 2e Assises de la politique de la ville est apparu en premier sur AGAM . 2e Assises de la politique de la ville",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -17389,7 +17419,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-13-1782864000000",
+      "id": "connaissance-des-energies-rss-14-1782864000000",
       "title": "Infrastructures gazières : quels coûts futurs pour un nombre de consommateurs en baisse ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
