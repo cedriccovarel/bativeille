@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-07-26T21:03:59.621Z",
+  "generatedAt": "2026-07-27T03:32:44.465Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,109 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1785121800000",
+      "title": "Des chercheurs réalisent le contrôle autonome à distance de la puissance d’un réacteur de recherche en temps réel",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-chercheurs-realisent-le-controle-autonome-a-distance-de-la-puissance-dun-reacteur-de-recherche-en-temps-reel/191086-2026-07",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Pour la première fois, des chercheurs de l’Idaho National Laboratory, du Grainger College of Engineering de l’Université de l’Illinois à Urbana-Champaign et de l’Université Purdue ont utilisé un système de contrôle géographiquement distribué pour ajuster à distance et automatique…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1785123180000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1785123180000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1785123180000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "envirobat-occitanie-rss-0-1785093599000",
       "title": "Dgema",
       "source": "Envirobat Occitanie",
@@ -2336,7 +2439,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1785053700000",
+      "id": "enerzine-rss-1-1785103800000",
+      "title": "Nanogénérateurs triboélectriques dans le domaine militaire : progrès récents et défis majeurs",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/nanogenerateurs-triboelectriques-dans-le-domaine-militaire-progres-recents-et-defis-majeurs/191063-2026-07",
+      "image": null,
+      "date": "2026-07-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Alors que la guerre moderne évolue rapidement vers des opérations distribuées, intelligentes et furtives à l’échelle mondiale, le déploiement à grande échelle de terminaux intelligents pour soldats individuels, de plates-formes de combat sans pilote à longue endurance et de résea…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1785053700000",
       "title": "Démarchage téléphonique prohibé par défaut à partir du 11 août 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2360,7 +2489,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1785039000000",
+      "id": "enerzine-rss-3-1785039000000",
       "title": "USA : alors que la sécheresse nationale s’aggrave, un nouveau modèle d’IA aide à équilibrer les demandes en eau",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2385,7 +2514,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1785039000000",
+      "id": "enerzine-rss-4-1785039000000",
       "title": "Incendies : développer un « drone‑avion » pour détecter les gaz toxiques dans les panaches de fumée",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2484,84 +2613,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Des ouvriers allemands filmés en permanence pour apprendre leurs gestes à un robot qui pourrait, demain, les remplacer. Une pratique déjà testée aux États-Unis, sans consultation des salariés concernés en Allemagne. L’article Chaque geste filmé, chaque mouvement analysé : Tesla t…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1785099858000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-07-26",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1785099858000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-07-26",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1785099858000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-07-26",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "oreo-bretagne-sitemap-164-1784937704000",
@@ -2767,7 +2818,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1785017400000",
+      "id": "enerzine-rss-5-1785017400000",
       "title": "Des chercheurs créent un capteur souple qui transforme le toucher en action robotique sans électronique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2792,7 +2843,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1785010500000",
+      "id": "enerzine-rss-6-1785010500000",
       "title": "Samsung S27 Ultra : pourquoi les rumeurs autour du prochain flagship s’emballent déjà",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2817,7 +2868,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1784974500000",
+      "id": "enerzine-rss-7-1784974500000",
       "title": "Nouveaux billets en euros : la BCE dévoile deux visions de l’Europe et consulte les citoyens",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2842,7 +2893,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1784952600000",
+      "id": "enerzine-rss-8-1784952600000",
       "title": "Des scientifiques dévoilent l’« effet papillon » rapide des océans profonds",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2868,7 +2919,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1784949000000",
+      "id": "enerzine-rss-9-1784949000000",
       "title": "La baisse des niveaux d’eau déclenche une augmentation des émissions de méthane des réservoirs méditerranéens",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4634,56 +4685,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Après l’explosion d’un transformateur en Bretagne fin juin en pleine canicule, les salariés de RTE ont choisi d’exercer leur droit d’alerte. Le 23 juin dernier, […] L’article Explosion d’un transformateur : les salariés de RTE alertent sur l’état du réseau électrique français est…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1784931000000",
-      "title": "Médaille Fields 2026 : quatre des meilleurs mathématiciens mondiaux récompensés",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/medaille-fields-2026-quatre-des-meilleurs-mathematiciens-mondiaux-recompenses/191765-2026-07",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "Lors de la cérémonie d’ouverture d’aujourd’hui au Congrès international des mathématiciens (ICM) à Philadelphie, l’Union mathématique internationale (IMU) a annoncé les lauréats de la Médaille Fields 2026. Les prix de cette année ont été décernés à quatre des meilleurs mathématic…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1784883300000",
-      "title": "Autonomie des voitures hybrides : ce que vous devez savoir",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/autonomie-des-voitures-hybrides-ce-que-vous-devez-savoir/191730-2026-07",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "RE2020"
-      ],
-      "summary": "L’autonomie des voitures hybrides définit la distance que ces véhicules peuvent effectuer en combinant les moteurs électrique et thermique. Elle dépend de plusieurs facteurs techniques et environnementaux, ainsi que des choix de conception du fabricant. Quelle évolution l’autonom…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
