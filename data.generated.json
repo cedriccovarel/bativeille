@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T17:02:57.857Z",
+  "generatedAt": "2026-07-27T21:17:04.923Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,30 @@
   ],
   "articles": [
     {
+      "id": "connaissance-des-energies-rss-0-1785196800000",
+      "title": "Carburants : quel prix sur la route des vacances dans les 27 pays de l’UE ?",
+      "source": "Connaissance des Énergies",
+      "sourceId": "connaissance-des-energies",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.connaissancedesenergies.org/carburants-quel-prix-route-des-vacances-pays-ue",
+      "image": "https://images.connaissancedesenergies.org/articles/image-article/carburants-quel-prix-route-des-vacances-pays-ue.webp",
+      "date": "2026-07-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Statistiques",
+        "Pédagogie"
+      ],
+      "summary": "Seuls 5 des 27 pays de l’Union européenne, dont la France, payaient en moyenne leur essence au-dessus de 2 euros par litre au 20 juillet, selon les dernières données d’Eurostat. Seuls 5 des 27 pays de l’Union européenne, dont la France, payaient en moyenne leur essence au-dessus …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "observatoire-de-l-immobilier-durable-oid-rss-0-1785134600000",
       "title": "R4RE : la plateforme de l’OID pour transformer les risques climatiques et la biodiversité en leviers d’action pour l’immobilier",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -2516,6 +2540,32 @@
         "Habitat"
       ],
       "summary": "L’article « Freiner la croissance démographique pour sauver le climat n’a aucun sens » est apparu en premier sur AUAT. L’article « Freiner la croissance démographique pour sauver le climat n&#8217;a aucun sens » est apparu en premier sur AUAT . « Freiner la croissance démographiq…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "odeys-rss-0-1785166933000",
+      "title": "[RENCONTRE] Merkatopa, le rendez-vous des achats responsables au Pays Basque",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/agenda/rencontre-merkatopa-le-rendez-vous-des-achats-responsables-au-pays-basque",
+      "image": "https://www.odeys.fr/sites/default/files/2026-07/1233X486-MERKATOPA-2%20IMAGE%20MAILING.png",
+      "date": "2026-07-27",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "15 SEPTEMBRE 2026 Bayonne (64) Participez à l'évènement Merkatopa dédié aux achats responsables de la filière construction, ancrée au Pays Basque. Merkatopa, le rendez-vous des achats responsables au Pays Basque. Merkatopa est une véritable place de marché favorisant les rencontr…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3020,7 +3070,7 @@
         "Réglementation",
         "Confort d’été"
       ],
-      "summary": "Plusieurs centrales solaires sont à l’arrêt en Gironde, dans le périmètre exposé au feu géant qui a ravagé le centre-ouest du département ce weekend et reste actif. La centrale exploitée par Neoen en milieu forestier dans la commune de Cestas s’est retrouvée encerclée par les fla…",
+      "summary": "Plusieurs centrales solaires sont à l’arrêt en Gironde, dans le périmètre exposé au feu géant qui a ravagé le centre-ouest du département ce week-end et reste actif. La centrale exploitée par Neoen en milieu forestier dans la commune de Cestas s’est retrouvée encerclée par les fl…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3255,7 +3305,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-0-1785110400000",
+      "id": "connaissance-des-energies-rss-1-1785110400000",
       "title": "Impacts de l’IA générative : l’Ademe appelle à la « vigilance »",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -3279,7 +3329,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1785165000000",
+      "id": "enerzine-rss-0-1785180097000",
+      "title": "La pleine lune du cerf embrase le ciel de juillet",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/la-pleine-lune-du-cerf-embrase-le-ciel-de-juillet/192131-2026-07",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "La journée de mercredi sera placée sous le signe d’un astre à la fois familier et mystérieux. La pleine lune du cerf, un phénomène astronomique annuel demeure un événement qui dépasse largement le cercle des initiés. Un éclat céleste, une appellation poétique, et une fenêtre d’ob…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1785165000000",
       "title": "Des drones chinois anti-incendie, un dispositif innovant face aux départs de feu",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3305,7 +3379,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1785131100000",
+      "id": "enerzine-rss-2-1785131100000",
       "title": "Fos-sur-Mer : accord signé pour un hub multi-énergies nucléaire et numérique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3331,7 +3405,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1785129000000",
+      "id": "enerzine-rss-3-1785129000000",
       "title": "Une théorie des trous noirs prend vie en laboratoire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3356,7 +3430,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1785125400000",
+      "id": "enerzine-rss-4-1785125400000",
       "title": "Des électrodes à peindre pour des capteurs portables créatifs et colorés",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3381,7 +3455,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1785121800000",
+      "id": "enerzine-rss-5-1785121800000",
       "title": "Des chercheurs réalisent le contrôle autonome à distance de la puissance d’un réacteur de recherche en temps réel",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3607,7 +3681,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1785171797000",
+      "id": "le-commerce-du-bois-sitemap-0-1785187036000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3633,7 +3707,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1785171797000",
+      "id": "le-commerce-du-bois-sitemap-1-1785187036000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3659,7 +3733,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1785171797000",
+      "id": "le-commerce-du-bois-sitemap-2-1785187036000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3685,7 +3759,31 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1785142355000",
+      "id": "le-journal-du-grand-paris-rss-0-1785151062000",
+      "title": "Les coulisses du Grand Paris",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/les-coulisses-du-grand-paris/",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % numérique. Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % n…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1785142355000",
       "title": "Albane Godard – Penser contre soi-même",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -3862,7 +3960,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1785103800000",
+      "id": "enerzine-rss-6-1785103800000",
       "title": "Nanogénérateurs triboélectriques dans le domaine militaire : progrès récents et défis majeurs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3888,7 +3986,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1785053700000",
+      "id": "enerzine-rss-7-1785053700000",
       "title": "Démarchage téléphonique prohibé par défaut à partir du 11 août 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3912,7 +4010,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1785039000000",
+      "id": "enerzine-rss-8-1785039000000",
       "title": "USA : alors que la sécheresse nationale s’aggrave, un nouveau modèle d’IA aide à équilibrer les demandes en eau",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3937,7 +4035,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1785039000000",
+      "id": "enerzine-rss-9-1785039000000",
       "title": "Incendies : développer un « drone‑avion » pour détecter les gaz toxiques dans les panaches de fumée",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4237,31 +4335,6 @@
         "Bâtiment"
       ],
       "summary": "L’usine Melox d’Orano va avoir de la concurrence. La startup Newcleo travaille à la construction d’une usine de production de MOX pour alimenter ses futures […] L’article Mini réacteur nucléaire français : Newcleo obtient un feu vert pour son usine de MOX est apparu en premier su…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1785017400000",
-      "title": "Des chercheurs créent un capteur souple qui transforme le toucher en action robotique sans électronique",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-chercheurs-creent-un-capteur-souple-qui-transforme-le-toucher-en-action-robotique-sans-electronique/190880-2026-07",
-      "image": null,
-      "date": "2026-07-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Fabriqués à partir de matériaux flexibles et souples, les robots mous gagnent en pertinence pour des tâches allant de la chirurgie mini-invasive à l’exploration des grands fonds marins, mais restent freinés par une contrainte fondamentale. Pour détecter leur environnement et réag…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5833,7 +5906,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1784927632000",
+      "id": "le-journal-du-grand-paris-rss-2-1784927632000",
       "title": "Conférence sur les déchets ménagers (1/4) – Haro sur « la fausse consigne »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5859,7 +5932,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1784926814000",
+      "id": "le-journal-du-grand-paris-rss-3-1784926814000",
       "title": "Conférence sur les déchets ménagers (2/4) – La réduction du plastique, premier acte contesté d’une stratégie de souveraineté",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5884,7 +5957,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1784924074000",
+      "id": "le-journal-du-grand-paris-rss-4-1784924074000",
       "title": "Conférence sur les déchets ménagers (3/4) – L’énergie des déchets s’affirme comme une assurance contre les chocs gaziers",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5910,7 +5983,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1784906091000",
+      "id": "le-journal-du-grand-paris-rss-5-1784906091000",
       "title": "Conférence sur les déchets ménagers (4/4) – Le service public des déchets réclame un cap industriel et un financement refondé",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7361,7 +7434,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-1-1784764800000",
+      "id": "connaissance-des-energies-rss-2-1784764800000",
       "title": "Plus d'électricité produite en 2026… y compris à partir des énergies fossiles",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -7385,7 +7458,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-2-1784764800000",
+      "id": "connaissance-des-energies-rss-3-1784764800000",
       "title": "Énergies renouvelables : les dernières statistiques par filière et par zone géographique",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -7536,7 +7609,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1784831153000",
+      "id": "le-journal-du-grand-paris-rss-6-1784831153000",
       "title": "Les marchés du Grand Paris – Pontoise lance la requalification des espaces publics de son centre historique",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7561,7 +7634,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1784823078000",
+      "id": "le-journal-du-grand-paris-rss-7-1784823078000",
       "title": "Aux Grésillons, un passage souterrain ripé pour préparer l’arrivée de la ligne 15",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8821,7 +8894,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-3-1784678400000",
+      "id": "connaissance-des-energies-rss-4-1784678400000",
       "title": "Hydrogène décarboné par électrolyse : le gouvernement annonce 3 projets lauréats",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -8895,7 +8968,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1784738912000",
+      "id": "le-journal-du-grand-paris-rss-8-1784738912000",
       "title": "Prolongement de la ligne 1 : une concertation préalable sur le nouveau projet prévue à l’automne 2026",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8920,7 +8993,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1784738630000",
+      "id": "le-journal-du-grand-paris-rss-9-1784738630000",
       "title": "Laurent Le Bon reconduit à Beaubourg, Alexander Neef à l’opéra de Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8942,32 +9015,6 @@
         "Eau"
       ],
       "summary": "Le président de la République a décidé, sur proposition de la ministre de la Culture Catherine Pégard, de reconduire Laurent Le Bon à la présidence du Centre Pompidou et Alexander Neef à la direction générale de l'Opéra national de Paris. Les deux dirigeants sont chargés d'accomp…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1784728997000",
-      "title": "Les ports parisiens s’adaptent à l’essor du marché des petits bateaux de tourisme",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-ports-parisiens-sadaptent-a-lessor-du-marche-des-petits-bateaux-de-tourisme/",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Face à l'essor du marché des bateaux de moins de 20 m de long, les acteurs parisiens du tourisme fluvial ont travaillé avec Haropa port afin de prévoir des escales dédiées. Après l'inauguration mi-juillet de celle du port des Saints-Pères (6e arr.), deux autres escales sont prévu…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9927,7 +9974,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-4-1784592000000",
+      "id": "connaissance-des-energies-rss-5-1784592000000",
       "title": "Le solaire a fourni un quart de l'électricité dans l'UE au mois de juin",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -11243,7 +11290,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-0-1784304726000",
+      "id": "odeys-rss-1-1784304726000",
       "title": "[RETOUR EN IMAGES] Visite du collège et du pôle socio-éducatif et sportif à Mirebeau",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -13187,7 +13234,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-5-1783987200000",
+      "id": "connaissance-des-energies-rss-6-1783987200000",
       "title": "Empreinte carbone des vacances : comment aider les touristes à laisser leur voiture au garage ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -13730,7 +13777,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-1-1783692063000",
+      "id": "odeys-rss-2-1783692063000",
       "title": "[RENCONTRE] Régionale économie circulaire en N-A | Réseau Récita",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -14026,7 +14073,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-6-1783641600000",
+      "id": "connaissance-des-energies-rss-7-1783641600000",
       "title": "Leasing social des pompes à chaleur : le pari d'une nouvelle économie de l'électrification",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -14051,7 +14098,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-7-1783641600000",
+      "id": "connaissance-des-energies-rss-8-1783641600000",
       "title": "Stockage d'électricité : « la batterie à eau » bat de nouveaux records",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -14396,7 +14443,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-2-1783599877000",
+      "id": "odeys-rss-3-1783599877000",
       "title": "[WEBINAIRE] Réinvestir les friches en démarche Quartiers Durables. Et si on parlait du sol ?",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -14562,7 +14609,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-8-1783555200000",
+      "id": "connaissance-des-energies-rss-9-1783555200000",
       "title": "Chèque énergie : le vrai sujet n'est plus seulement l'aide, mais son accès",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -14586,7 +14633,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-9-1783555200000",
+      "id": "connaissance-des-energies-rss-10-1783555200000",
       "title": "Le Québec publie son premier Plan de gestion intégrée des ressources énergétiques",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -14610,7 +14657,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-10-1783555200000",
+      "id": "connaissance-des-energies-rss-11-1783555200000",
       "title": "Les émissions de GES au premier trimestre",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -15115,7 +15162,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-3-1783531648000",
+      "id": "odeys-rss-4-1783531648000",
       "title": "[CONCOURS] Tremplin INNOPY 2026",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -15138,7 +15185,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-4-1783517713000",
+      "id": "odeys-rss-5-1783517713000",
       "title": "[COLLOQUE] Le chanvre dans la construction",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -15448,7 +15495,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-11-1783468800000",
+      "id": "connaissance-des-energies-rss-12-1783468800000",
       "title": "Tarification dynamique : « une opportunité pour profiter des prix négatifs »",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -15474,7 +15521,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-12-1783468800000",
+      "id": "connaissance-des-energies-rss-13-1783468800000",
       "title": "Que deviennent les fûts de déchets radioactifs immergés dans l'Atlantique dans les années 1970 et 1980 ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -16168,7 +16215,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-5-1783362928000",
+      "id": "odeys-rss-6-1783362928000",
       "title": "[REPLAY WEBINAIRE] Retrait-Gonflement des Argiles : mécanismes, impacts et leviers d'action",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -16341,7 +16388,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -16580,7 +16627,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-6-1783090032000",
+      "id": "odeys-rss-7-1783090032000",
       "title": "[RETOUR EN IMAGES] Visite de chantier du pôle petite enfance, enfance et jeunesse de Thiviers",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -16606,7 +16653,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-7-1783077815000",
+      "id": "odeys-rss-8-1783077815000",
       "title": "[VISITE] 𝗖𝗵𝗮𝗻𝘁𝗶𝗲𝗿 𝗕𝗗𝗡𝗔 « Résidence CANTEGRIT » opération de 27 logements",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -16631,7 +16678,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-8-1783069911000",
+      "id": "odeys-rss-9-1783069911000",
       "title": "[RETOUR EN IMAGES] Lancement régional du programme CEE Adapt Bâti Confort",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -16877,32 +16924,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-9-1783001841000",
-      "title": "[RENCONTRE] Adhérent : Optera. Du bâtiment conçu au bâtiment exploité, le rôle clé de la GTB",
-      "source": "Odéys",
-      "sourceId": "odeys",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.odeys.fr/agenda/rencontre-adherent-optera-du-batiment-concu-au-batiment-exploite-le-role-cle-de-la-gtb",
-      "image": "https://www.odeys.fr/sites/default/files/2026-07/A57A0157%20Photo%20Optera%20vendredi%2026%20juin.jpg",
-      "date": "2026-07-02",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Innovation",
-        "Nouvelle-Aquitaine",
-        "Réglementation",
-        "RE2020",
-        "Économie du bâtiment"
-      ],
-      "summary": "8 OCTOBRE 2026 Anglet (64) Rencontrez Jean Sébastien Richard - Optera, Du bâtiment conçu au bâtiment exploité : le rôle clé de la GTB Notez la date – Save the date – Atxik eguna 📆 Jeudi 8 octobre 2026 🕛 8h15 à 11h00 📍Anglet(64) Lien d'inscription à venir Une rencontre adhérent…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "adulm-lille-metropole-sitemap-108-1782992561000",
       "title": "partenariat de proximite avec cysoing",
       "source": "ADULM Lille Métropole",
@@ -17028,7 +17049,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-13-1782950400000",
+      "id": "connaissance-des-energies-rss-14-1782950400000",
       "title": "Exportations d'électricité : nouveau record battu au 1ᵉʳ semestre 2026",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -17419,7 +17440,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-14-1782864000000",
+      "id": "connaissance-des-energies-rss-15-1782864000000",
       "title": "Infrastructures gazières : quels coûts futurs pour un nombre de consommateurs en baisse ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
