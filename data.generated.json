@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T16:44:50.627Z",
+  "generatedAt": "2026-07-28T21:13:57.294Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2863,7 +2863,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-0-1785252602000",
+      "id": "envirobatbdm-rss-0-1785269521000",
+      "title": "FIBOIS SUD PACA",
+      "source": "EnvirobatBDM",
+      "sourceId": "envirobatbdm",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://envirobatbdm.eu/node/172861",
+      "image": null,
+      "date": "2026-07-28",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "BDM",
+        "Bâtiment durable",
+        "Méditerranée",
+        "Réglementation",
+        "Eau",
+        "Biosourcé"
+      ],
+      "summary": "FIBOIS SUD PACA Anonyme (non vérifié) mar 28/07/2026 - 22:12 Association, groupement professionnel Adresse Pavillon du Roy René 13120 GARDANNE France Téléphone Non renseigné Email contact@fibois-paca.fr Site Web http://www.fibois-paca.fr Détail secteur d'activité Conseil aux prof…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobatbdm-rss-1-1785252602000",
       "title": "BâtiFRAIS : 11ème édition à Montpellier",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
@@ -2908,6 +2934,30 @@
         "Air"
       ],
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-172-1785241125000",
+      "title": "vague chaleur canicule adaptation climat bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/changement-climatique/article/vague-chaleur-canicule-adaptation-climat-bretagne",
+      "image": null,
+      "date": "2026-07-28",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Confort d’été"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -3853,7 +3903,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1785257109000",
+      "id": "le-commerce-du-bois-sitemap-0-1785273255000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3879,7 +3929,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1785257109000",
+      "id": "le-commerce-du-bois-sitemap-1-1785273255000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3905,7 +3955,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1785257109000",
+      "id": "le-commerce-du-bois-sitemap-2-1785273255000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -5636,7 +5686,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1785142355000",
+      "id": "le-journal-du-grand-paris-rss-1-1785143638000",
+      "title": "La Roche, un patrimoine en transition",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/la-roche-un-patrimoine-en-transition/",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Ancien hôpital parisien fermé en 2019, La Roche connaît une nouvelle vie grâce à une occupation transitoire portée par Plateau Urbain. Depuis juillet 2025, ce tiers-lieu situé à deux pas de Denfert-Rochereau accueille 48 structures issues de l'économie sociale et solidaire (ESS),…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-2-1785142355000",
       "title": "Albane Godard – Penser contre soi-même",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6706,6 +6782,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-0-1784876400000",
+      "title": "Le café des familles : renforcer le pouvoir d’agir des parents en quartier prioritaire de la ville",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/le-cafe-des-familles-renforcer-le-pouvoir-dagir-des-parents-en-quartier-prioritaire-de-la-ville/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "[Podcast] Qui mieux qu’un habitant pour savoir ce qui manque dans son quartier ? C’est le pari qu’a fait 13 AVENIR dans le 13e arrondissement de Paris avec “Le Café des Familles”.L’association a réuni 12 salariés-habitants de son Entreprise à but d’Emploi pour co-construire, grâc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-27-1784902946000",
       "title": "La quatrième canicule de l'été attendue en France",
       "source": "Reporterre",
@@ -7216,7 +7317,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1784927632000",
+      "id": "le-journal-du-grand-paris-rss-3-1784927632000",
       "title": "Conférence sur les déchets ménagers (1/4) – Haro sur « la fausse consigne »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7242,7 +7343,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1784926814000",
+      "id": "le-journal-du-grand-paris-rss-4-1784926814000",
       "title": "Conférence sur les déchets ménagers (2/4) – La réduction du plastique, premier acte contesté d’une stratégie de souveraineté",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7267,7 +7368,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1784924074000",
+      "id": "le-journal-du-grand-paris-rss-5-1784924074000",
       "title": "Conférence sur les déchets ménagers (3/4) – L’énergie des déchets s’affirme comme une assurance contre les chocs gaziers",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7293,7 +7394,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1784906091000",
+      "id": "le-journal-du-grand-paris-rss-6-1784906091000",
       "title": "Conférence sur les déchets ménagers (4/4) – Le service public des déchets réclame un cap industriel et un financement refondé",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8046,7 +8147,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-1-1784805121000",
+      "id": "envirobatbdm-rss-2-1784805121000",
       "title": "IN QUARTO ARCHITECTE & ASSOCIES",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
@@ -8715,7 +8816,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1784831153000",
+      "id": "le-journal-du-grand-paris-rss-7-1784831153000",
       "title": "Les marchés du Grand Paris – Pontoise lance la requalification des espaces publics de son centre historique",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8740,7 +8841,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1784823078000",
+      "id": "le-journal-du-grand-paris-rss-8-1784823078000",
       "title": "Aux Grésillons, un passage souterrain ripé pour préparer l’arrivée de la ligne 15",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9393,6 +9494,32 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-1-1784703600000",
+      "title": "Comment Paris veut changer les règles du jeu de l’ESS",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/comment-paris-veut-changer-les-regles-du-jeu-de-less/",
+      "image": null,
+      "date": "2026-07-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "« Nous ne pourrons pas compenser le désengagement de l’État. » Dès les premières minutes de son intervention, Amina Bouri, adjointe au maire de Paris en charge de l’économie sociale et solidaire, fixe les contours de son action : la Ville de Paris n’a pas les moyens de remplacer …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-46-1784732980000",
       "title": "Canicule de juin : 5 764 morts en excès, un bilan inédit depuis 2003",
       "source": "Reporterre",
@@ -9752,7 +9879,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1784738912000",
+      "id": "le-journal-du-grand-paris-rss-9-1784738912000",
       "title": "Prolongement de la ligne 1 : une concertation préalable sur le nouveau projet prévue à l’automne 2026",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9773,32 +9900,6 @@
         "Eau"
       ],
       "summary": "Quatre ans après le coup d'arrêt provoqué par l'avis défavorable de la commission d'enquête publique, le prolongement de la ligne 1 du métro jusqu'à Val-de-Fontenay revient sur la table. Un dossier largement remanié sera soumis à une concertation préalable à l'automne 2026, sous …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1784738630000",
-      "title": "Laurent Le Bon reconduit à Beaubourg, Alexander Neef à l’opéra de Paris",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/laurent-le-bon-reconduit-a-beaubourg-alexander-neef-a-lopera-de-paris/",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Le président de la République a décidé, sur proposition de la ministre de la Culture Catherine Pégard, de reconduire Laurent Le Bon à la présidence du Centre Pompidou et Alexander Neef à la direction générale de l'Opéra national de Paris. Les deux dirigeants sont chargés d'accomp…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11327,6 +11428,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-2-1784530800000",
+      "title": "Groupe SOS : nouvelle gouvernance, ambitions renforcées… et prise de position sans ambiguïté contre le RN",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/groupe-sos-nouvelle-gouvernance-ambitions-renforcees-et-prise-de-position-sans-ambiguite-contre-le-rn/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Économie du bâtiment"
+      ],
+      "summary": "Quarante ans après sa création, le Groupe SOS poursuit sa transformation et amorce une nouvelle phase de son histoire. Engagé à l’origine dans la lutte contre le VIH et les addictions, il est devenu l’un des plus importants acteurs européens de l’économie sociale et solidaire, av…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-9-1784526593000",
       "title": "La centrale de Civaux peut produire de l’électricité pendant la canicule",
       "source": "Révolution Énergétique",
@@ -12026,6 +12152,55 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-3-1784284200000",
+      "title": "ESS France lance « ESS – L’économie en mieux » avec le soutien des Caisses d’Epargne",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/ess-france-lance-ess-leconomie-en-mieux-avec-le-soutien-des-caisses-depargne/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Économie du bâtiment"
+      ],
+      "summary": "ESS France, la chambre représentative de l’Économie Sociale et Solidaire, a dévoilé « ESS – L’économie en mieux », une marque unique pour reconnaître l’ensemble des acteurs de l’ESS. Cette initiative, dont Caisse d’Epargne est partenaire premium, vise à apporter de la lisibilité …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-4-1784271608000",
+      "title": "Comment Makesense forme les jeunes de quartiers populaires franciliens à agir pour l’écologie",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/former-les-jeunes-de-quartiers-populaires-franciliens-a-agir-pour-lecologie/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Le dernier rapport du GIEC rappelle que l’urgence climatique est l’une des principales préoccupations des moins de 25 ans. Mais dans les quartiers prioritaires de la politique de la ville, cette inquiétude s’accompagne pourtant d’un sentiment d’impuissance :👉 Les difficultés soc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-14-1784303878000",
       "title": "Cette startup inconnue veut imprimer des réacteurs nucléaires en 3D",
       "source": "Révolution Énergétique",
@@ -12678,6 +12853,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-5-1784185200000",
+      "title": "150 ans après leur création, les colonies de vacances séduisent toujours… mais accueillent de moins en moins d’enfants",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/150-ans-apres-leur-creation-les-colonies-de-vacances-seduisent-toujours-les-francais-mais-accueillent-de-moins-en-moins-denfants/",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "Alors que s’ouvre la saison estivale, les colonies de vacances célèbrent leurs 150 ans. Bon anniversaire ! Ou pas… Car, plébiscitées par l’opinion publique et par les jeunes, elles voient leur fréquentation diminuer année après année. Un paradoxe qui interroge l’avenir des séjour…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-16-1784216386000",
       "title": "SNBC3 : la stratégie nationale bas carbone se dévoile enfin avec des objectifs très ambitieux",
       "source": "Révolution Énergétique",
@@ -13138,7 +13338,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-2-1784103182000",
+      "id": "envirobatbdm-rss-3-1784103182000",
       "title": "Visite de chantier du projet Zyrclo",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
@@ -13446,6 +13646,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-6-1784097900000",
+      "title": "La France accouche enfin d’une stratégie nationale pour l’ESS, après un désaveu politique cinglant",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/la-france-accouche-enfin-dune-strategie-nationale-pour-less-apres-un-desaveu-politique-cinglant/",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau"
+      ],
+      "summary": "C’est un moment historique. Avec près de deux ans de retard, la France vient enfin de se doter de sa toute première « Stratégie nationale de développement de l’ESS ». Cocorico ! Sauf que les conditions d’adoption du document sont venues gâcher la fête : 42 abstentions sur 50 vota…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-18-1784130135000",
       "title": "Cette entreprise mise sur la « réflectricité » pour augmenter la production d’énergie solaire",
       "source": "Révolution Énergétique",
@@ -13623,6 +13848,32 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-7-1783926000000",
+      "title": "Prix Grande Cause 2026 : un accompagnement de 30 000 € pour faire grandir un projet d’intérêt général",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/prix-grande-cause-2026-un-accompagnement-de-30-000-e-pour-faire-grandir-un-projet-dinteret-general/",
+      "image": null,
+      "date": "2026-07-13",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Dans l’économie sociale et solidaire, les projets d’intérêt général ne manquent pas. En revanche, ils peinent à trouver les moyens de se faire connaître, de mobiliser de nouveaux soutiens ou de convaincre des partenaires financiers. Pourtant, au-delà de la qualité d’une action, s…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-21-1783956758000",
       "title": "Canicule : la centrale de Bugey obtient une dérogation environnementale pour continuer de fonctionner",
       "source": "Révolution Énergétique",
@@ -13647,30 +13898,6 @@
       "summary": "Les effets de la canicule se font de plus en plus ressentir, même auprès d’EDF. L’énergéticien français a notamment été contraint de réduire sa puissance […] L’article Canicule : la centrale de Bugey obtient une dérogation environnementale pour continuer de fonctionner est apparu…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "oreo-bretagne-sitemap-172-1783814619000",
-      "title": "vague chaleur canicule adaptation climat bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/thematique/changement-climatique/article/vague-chaleur-canicule-adaptation-climat-bretagne",
-      "image": null,
-      "date": "2026-07-12",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Confort d’été"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "revolution-energetique-rss-22-1783870646000",
@@ -13746,6 +13973,31 @@
         "Eau"
       ],
       "summary": "WEB TV Les rencontres ALIM AGRI inter Territoires : rejoignez-nous ! Anonyme (non vérifié) sam 11/07/2026 - 02:48 2022 - 0:15 Evolution des pratiques agricoles à Valeins 0:53 Outil des logistique et de transformation à Brignais et Mornant 1:44 ... Image couverture Texte chapeau T…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-8-1783753200000",
+      "title": "Hugues Sibille : « L’ESS va-t-elle réussir à changer la trajectoire du Titanic » ?",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/hugues-sibille-less-va-t-elle-reussir-a-changer-la-trajectoire-du-titanic-pour-construire-un-avenir-desirable/",
+      "image": null,
+      "date": "2026-07-11",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Économie du bâtiment"
+      ],
+      "summary": "Cinquante ans d’engagement pour l’économie sociale et solidaire. Une vie ! Dans le dernier épisode de l’émission “ESS On Air” de Mediatico (vidéo en fin d’article), nous recevons cette semaine Hugues Sibille. Figure historique de l’ESS française, ancien délégué interministériel à…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13895,7 +14147,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-3-1783692721000",
+      "id": "envirobatbdm-rss-4-1783692721000",
       "title": "GARCIN COROMP ARCHITECTES",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
@@ -13919,7 +14171,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-4-1783692721000",
+      "id": "envirobatbdm-rss-5-1783692721000",
       "title": "Commune de COUDOUX",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
@@ -14209,6 +14461,30 @@
       "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "mediatico-rss-9-1783666800000",
+      "title": "France Tiers-Lieux disparaît : la fin silencieuse d’une politique publique de huit ans",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/france-tiers-lieux-disparait-la-fin-silencieuse-dune-politique-publique-de-huit-ans/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Pas une déclaration, pas un communiqué, aucun débat public. L’assemblée générale de France Tiers-Lieux a voté sa propre dissolution lundi 29 juin, sans un bruit. À la veille des départs en vacances, pour ne pas déranger. Sans attendre la fin de sa convention avec l’Etat dans deux…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-26-1783697721000",
@@ -15209,7 +15485,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-5-1783518827000",
+      "id": "envirobatbdm-rss-6-1783518827000",
       "title": "Webinaire \"Réinvestir les friches en démarche Quartiers Durables\"",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
@@ -16551,7 +16827,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -17285,7 +17561,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-6-1782864721000",
+      "id": "envirobatbdm-rss-7-1782864721000",
       "title": "SAS HORS CHAMP (agence Avignon)",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
@@ -17306,30 +17582,6 @@
         "Eau"
       ],
       "summary": "SAS HORS CHAMP (agence Avignon) Anonyme (non vérifié) mer 01/07/2026 - 02:12 MOA privée Adresse 28 Boulevard Limbert 84000 AVIGNON France Téléphone 04 90 89 43 12 Email Non renseigné Détail secteur d'activité Promoteur immobilier / constructeur (hors maison indiv) Niveau de diffu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobatbdm-rss-7-1782864721000",
-      "title": "Re!Source",
-      "source": "EnvirobatBDM",
-      "sourceId": "envirobatbdm",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://envirobatbdm.eu/node/172781",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "BDM",
-        "Bâtiment durable",
-        "Méditerranée",
-        "Eau"
-      ],
-      "summary": "Re!Source Anonyme (non vérifié) mer 01/07/2026 - 02:12 Adresse 486 Av. de la Mont Joye 30220 AIGUES MORTES France Téléphone Non renseigné Email kzknatalie@gmail.com Site Web https://www.resource-fr.com/ Niveau de diffusion Niveau 4 Est-ce un accompagnateur ? Off Etiquette Evb Evb…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
