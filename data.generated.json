@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T16:27:04.409Z",
+  "generatedAt": "2026-07-29T21:01:37.856Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2372,77 +2372,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-1-1785334221000",
-      "title": "Le règlement méthane assoupli en raison de la crise énergétique",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/reglement-methane-assouplissement-commission-europeenne-48378.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48378_large.jpg",
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Par deux recommandations du 20 juillet 2026, la Commission européenne a apporté des précisions quant à l'application du règlement méthane. Ce dernier avait introduit de nouvelles exigences concernant la mesure, la déclaration et la vérification de... Par deux recommandations du 2…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-2-1785331800000",
-      "title": "Synthèse agriculture et environnement 2025-2026 : faciliter l'agriculture par des retours environnementaux",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/synthese-agriculture-environnement-droit-2025-2026-48351.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/synthese/48351_large.jpg",
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "L'année 2025-2026 se place dans la continuité de la période précédente, plutôt régressive pour l'agro-environnement. Politique agro-écologique en matière de pytho, d'ICPE, d'eau et d'exclusion d'une partie des NTG du régime des OGM y participent. L'année 2025-2026 se place dans l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-3-1785323717000",
-      "title": "REP huiles : Cyclevia peut gérer les emballages et contenants d'huiles",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/cahier-charges-huiles-gestion-contenants-48377.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48377_large.jpg",
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Cyclevia peut désormais gérer les emballages d'huiles lubrifiantes. Le 24 juillet est paru au Journal officiel l'arrêté qui modifie le cahier des charges de la filière de responsabilité élargie des producteurs (REP) d'huiles minérales ou synthétiq... Cyclevia peut désormais gérer…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-4-1785323655000",
+      "id": "actu-environnement-rss-1-1785334455000",
       "title": "Simplification des normes des collectivités : ce que le Sénat a défendu",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2466,7 +2396,124 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-5-1785316218000",
+      "id": "actu-environnement-rss-2-1785334364000",
+      "title": "Sécheresse : « Je veux être sûre qu'on ait de l'eau potable en septembre », s'inquiète Monique Barbut",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/secheresse-eau-potable-restrictions-departements-48371.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48371_large.jpg",
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau"
+      ],
+      "summary": "Sols jamais aussi secs, deux fois plus d'assecs qu'en 2022, 91 départements sous restriction : face à un tableau sans précédent, Monique Barbut envisage des mesures « disruptives » pour sécuriser l'eau potable en septembre. Sols jamais aussi secs, deux fois plus d'assecs qu'en 20…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-3-1785334284000",
+      "title": "PFAS : le contrôle des rejets des installations de traitement de déchets liquides entre en vigueur",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/controle-pfas-installation-traitement-dechets-liquides-48373.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48373_large.jpg",
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Les installations recevant des déchets liquides doivent contrôler leurs rejets de PFAS. Toutes celles traitant des déchets liquides dangereux sont visées, ainsi que celles traitant des lixiviats d'ISDND et des mousses d'extinction d'incendie. Les installations recevant des déchet…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-4-1785334221000",
+      "title": "Le règlement méthane assoupli en raison de la crise énergétique",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/reglement-methane-assouplissement-commission-europeenne-48378.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48378_large.jpg",
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Par deux recommandations du 20 juillet 2026, la Commission européenne a apporté des précisions quant à l'application du règlement méthane. Ce dernier avait introduit de nouvelles exigences concernant la mesure, la déclaration et la vérification de... Par deux recommandations du 2…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-5-1785331800000",
+      "title": "Synthèse agriculture et environnement 2025-2026 : faciliter l'agriculture par des retours environnementaux",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/synthese-agriculture-environnement-droit-2025-2026-48351.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/synthese/48351_large.jpg",
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau"
+      ],
+      "summary": "L'année 2025-2026 se place dans la continuité de la période précédente, plutôt régressive pour l'agro-environnement. Politique agro-écologique en matière de pytho, d'ICPE, d'eau et d'exclusion d'une partie des NTG du régime des OGM y participent. L'année 2025-2026 se place dans l…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-6-1785323717000",
+      "title": "REP huiles : Cyclevia peut gérer les emballages et contenants d'huiles",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/cahier-charges-huiles-gestion-contenants-48377.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48377_large.jpg",
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Cyclevia peut désormais gérer les emballages d'huiles lubrifiantes. Le 24 juillet est paru au Journal officiel l'arrêté qui modifie le cahier des charges de la filière de responsabilité élargie des producteurs (REP) d'huiles minérales ou synthétiq... Cyclevia peut désormais gérer…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-7-1785316218000",
       "title": "Dispositif publicitaire : le calcul de l'unité urbaine ne se limite pas à la population municipale",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2695,10 +2742,10 @@
         "Innovation",
         "Nouvelle-Aquitaine",
         "Réglementation",
-        "Biosourcé",
-        "Bâtiment"
+        "Eau",
+        "Biosourcé"
       ],
-      "summary": "11.09.2026 Rencontres Territoriales Bois Construction 11.09.2026 Rencontres Territoriales Bois Construction Rencontres Territoriales Bois Construction",
+      "summary": "11.09.2026 Rencontres Territoriales Bois Construction vendredi 11 septembre 2026 au centre de loisirs d’Uzurat à Limoges (87) de 9h à 16h L’association des Collectivités forestières Limousin-Périgord s’associe à la Communauté urbaine de Limoges Métropole et à Fibois Nouvelle-Aqui…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -2726,7 +2773,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-47-1785312058000",
+      "id": "oreo-bretagne-sitemap-47-1785320583000",
       "title": "ressources energetiques renouvelables fossiles bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -2747,6 +2794,31 @@
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "verre-protections-magazine-rss-0-1785357659000",
+      "title": "Filière REP pour les emballages professionnels : mise en oeuvre opérationnelle de la filière à partir du 1er janvier 2027",
+      "source": "Verre & Protections Magazine",
+      "sourceId": "verre-protections-magazine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.verreetprotections.com/filiere-rep-pour-les-emballages-professionnels-mise-en-oeuvre-operationnelle-de-la-filiere-a-partir-du-1er-janvier-2027/",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Menuiseries",
+        "Façades",
+        "Vitrage",
+        "Protection solaire"
+      ],
+      "summary": "Alors que la filière à responsabilité élargie du producteur (REP) pour les emballages professionnels devait entrer en vigueur au 1er juillet 2026, Mathieu Lefèvre, ministre délégué chargé de la Transition écologique, prend acte que les conditions ne sont pas réunies... L’article …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "techniques-de-lingenieur-actualites-sitemap-0-1785317217000",
@@ -3056,83 +3128,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-0-1785340898000",
-      "title": "Valorem déclenche son plan social",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/valorem-declenche-son-plan-social-430993/",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Exclusif – Valorem s’engage à son tour dans un plan de réduction d’effectifs. Entre 73 et 76 postes sont concernés selon nos informations, sur un effectif de 565 personnes. Un plan de sauvegarde de l’emploi a été présenté ce mois-ci aux salariés. Cet objectif de plus de 70 postes…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-1-1785337761000",
-      "title": "Le développeur éolien VDN Group est à vendre",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/le-developpeur-eolien-vdn-group-est-a-vendre-430943/",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Économie du bâtiment",
-        "Biosourcé"
-      ],
-      "summary": "Exclusif – Le développeur Vents du Nord, aussi connu sous le nom VDN Group et principalement actif dans l’éolien terrestre, est sur le marché, selon nos informations. Il est détenu L’article Le développeur éolien VDN Group est à vendre est apparu en premier sur GreenUnivers. Excl…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-2-1785320892000",
-      "title": "La CRE valide le marché de flexibilités locales de RTE et Enedis",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/la-cre-valide-le-marche-de-flexibilites-locales-de-rte-et-enedis-430906/",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Économie du bâtiment"
-      ],
-      "summary": "RTE et Enedis vont lancer mi-septembre une expérimentation portant sur la création d’un « portail flexibilités », une plateforme L’article La CRE valide le marché de flexibilités locales de RTE et Enedis est apparu en premier sur GreenUnivers. RTE et Enedis vont lancer mi-septemb…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "pv-magazine-france-rss-0-1785333600000",
       "title": "À Nîmes, une ombrière photovoltaïque accompagne l’électrification du réseau de bus",
       "source": "PV Magazine France",
@@ -3340,7 +3335,56 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1785321300000",
+      "id": "enerzine-rss-0-1785349297000",
+      "title": "XPENG dévoile le L03, SUV coupé électrique dopé à l’intelligence artificielle",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/xpeng-devoile-le-l03-suv-coupe-electrique-dope-a-lintelligence-artificielle/192264-2026-07",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Lors d’un événement organisé aujourd’hui à Munich, le constructeur XPENG a présenté son nouveau L03, un SUV coupé 100 % électrique doté de technologies de conduite intelligente. Commercialisé simultanément dans 65 pays, le modèle est d’ores et déjà disponible à la commande en Fra…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1785347400000",
+      "title": "Quand le feu anéantit trente ans de recherche forestière à Cestas",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/quand-le-feu-aneantit-trente-ans-de-recherche-forestiere-a-cestas/192258-2026-07",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "L’incendie déclaré à Saumos le mercredi 22 juillet, propagé jusqu’aux portes de Cestas, a ravagé près de 80 hectares de dispositifs expérimentaux au domaine de Castillonville, espace naturel sensible de la Gironde. Une perte scientifique lourde pour l’INRAE, dont plusieurs progra…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1785321300000",
       "title": "Audi Q9 : le constructeur d’Ingolstadt entre dans l’ère des très grands SUV",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3366,7 +3410,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1785317100000",
+      "id": "enerzine-rss-3-1785317100000",
       "title": "E.Leclerc double ses offres bas carbone avant le chassé-croisé estival",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3392,7 +3436,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1785314400000",
+      "id": "enerzine-rss-4-1785314400000",
       "title": "Découvert bancaire : une avance de trésorerie bientôt davantage encadrée",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3416,7 +3460,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1785303900000",
+      "id": "enerzine-rss-5-1785303900000",
       "title": "IA générative : l’ADEME alerte sur une empreinte environnementale qui s’emballe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3440,7 +3484,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1785301800000",
+      "id": "enerzine-rss-6-1785301800000",
       "title": "SPIE modernise le bloc 4 de la centrale allemande Staudinger jusqu’en 2028",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3466,7 +3510,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1785298200000",
+      "id": "enerzine-rss-7-1785298200000",
       "title": "Une cape thermique 3D rend les objets invisibles à la chaleur dans toutes les directions",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3490,7 +3534,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1785294600000",
+      "id": "enerzine-rss-8-1785294600000",
       "title": "Un polymère élastique imprimable en 3D se révèle étonnamment résistant",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3712,7 +3756,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1785342439000",
+      "id": "le-commerce-du-bois-sitemap-0-1785358918000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3738,7 +3782,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1785342439000",
+      "id": "le-commerce-du-bois-sitemap-1-1785358918000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3764,7 +3808,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1785342439000",
+      "id": "le-commerce-du-bois-sitemap-2-1785358918000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3786,6 +3830,55 @@
         "Biosourcé"
       ],
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1785343138000",
+      "title": "Incendie de Fontainebleau : un plan d’action pour « renforcer la protection des forêts franciliennes »",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/incendie-de-fontainebleau-un-plan-daction-pour-renforcer-la-protection-des-forets-franciliennes/",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau"
+      ],
+      "summary": "Après l'incendie qui a détruit près de 2 000 hectares dans le massif de Fontainebleau (Seine-et-Marne), la Région Île-de-France annonce six mesures pour renforcer la prévention des feux de forêt. Une conférence régionale réunira les acteurs concernés le 8 octobre prochain. Après …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "acteurs-publics-sitemap-8-1785354120000",
+      "title": "les cadres sup du quai dorsay invites a mieux manager lalterite les equipes et leur propre depart",
+      "source": "Acteurs Publics",
+      "sourceId": "acteurs-publics",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://acteurspublics.fr/articles/les-cadres-sup-du-quai-dorsay-invites-a-mieux-manager-lalterite-les-equipes-et-leur-propre-depart/",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Politiques publiques",
+        "Collectivités",
+        "Transition"
+      ],
+      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -4345,30 +4438,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-6-1785254304000",
-      "title": "PFAS : le contrôle des rejets des installations de traitement de déchets liquides entre en vigueur",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/controle-pfas-installation-traitement-dechets-liquides-48373.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48373_large.jpg",
-      "date": "2026-07-28",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Les installations recevant des déchets liquides doivent contrôler leurs rejets de PFAS. Toutes celles traitant des déchets liquides dangereux sont visées, ainsi que celles traitant des lixiviats d'ISDND et des mousses d'extinction d'incendie. Les installations recevant des déchet…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-7-1785254220000",
+      "id": "actu-environnement-rss-8-1785254220000",
       "title": "REP emballages professionnels : la filière démarrera au 1er janvier 2027",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4387,30 +4457,6 @@
         "Énergie"
       ],
       "summary": "La mise en oeuvre opérationnelle de la filière de responsabilité élargie des producteurs d'emballages professionnels (REP Epro) débutera « à partir du 1er janvier 2027 », annonce, ce mardi 28 juillet, le ministère de la Transition écologique. Cet... La mise en oeuvre opérationnel…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-8-1785247484000",
-      "title": "Sécheresse : « Je veux être sûre qu'on ait de l'eau potable en septembre », s'inquiète Monique Barbut",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/secheresse-eau-potable-restrictions-departements-48371.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48371_large.jpg",
-      "date": "2026-07-28",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "Sols jamais aussi secs, deux fois plus d'assecs qu'en 2022, 91 départements sous restriction : face à un tableau sans précédent, Monique Barbut envisage des mesures « disruptives » pour sécuriser l'eau potable en septembre. Sols jamais aussi secs, deux fois plus d'assecs qu'en 20…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4709,7 +4755,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "verre-protections-magazine-rss-0-1785273523000",
+      "id": "verre-protections-magazine-rss-1-1785273523000",
       "title": "Saint-Gobain signe un accord-cadre avec Microsoft et renforce son leadership dans l’IA pour la construction",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -5119,83 +5165,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-3-1785248637000",
-      "title": "A Cattenom, EDF étudie la récupération de la chaleur nucléaire perdue",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/a-cattenom-edf-etudie-la-recuperation-de-la-chaleur-nucleaire-perdue-430853/",
-      "image": null,
-      "date": "2026-07-28",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Ce serait une quasi-première en France, mise à part une petite expérience au Triscastin (Drôme). EDF, par l’intermédiaire de sa filiale Dalkia, étudie la récupération de la chaleur produite par sa centrale nucléaire de Cattenom en Moselle, de manière à alimenter un réseau de chau…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-4-1785248001000",
-      "title": "Kallista Energy lance une nouvelle batterie en France, de près de 200 MW",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/kallista-energy-lance-une-nouvelle-batterie-en-france-de-pres-de-200-mw-430842/",
-      "image": null,
-      "date": "2026-07-28",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Bâtiment"
-      ],
-      "summary": "Après un premier projet de 120 MW/240 MWh dévoilé dans la Somme, Kallista Energy lance la construction d’une nouvelle batterie en France, de taille encore plus importante. Le développeur travaille L’article Kallista Energy lance une nouvelle batterie en France, de près de 200 MW …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-5-1785227539000",
-      "title": "Location solaire : Sunlib a pivoté vers le BtoB, amorce un grand emprunt",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/location-solaire-sunlib-a-pivote-vers-le-btob-amorce-un-grand-emprunt-430677/",
-      "image": null,
-      "date": "2026-07-28",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Eau",
-        "Énergie"
-      ],
-      "summary": "Le spécialiste de la location de panneaux solaires Sunlib prépare une levée de dette « très significative » cette année pour L’article Location solaire : Sunlib a pivoté vers le BtoB, amorce un grand emprunt est apparu en premier sur GreenUnivers. Le spécialiste de la location de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "pv-magazine-france-rss-6-1785245400000",
       "title": "Accélérer la production d’énergie solaire en Normandie",
       "source": "PV Magazine France",
@@ -5349,7 +5318,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1785276600000",
+      "id": "enerzine-rss-9-1785276600000",
       "title": "Des chercheurs inversent le sens des « arroseurs fantaisistes » pour percer un vieux mystère",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5371,55 +5340,6 @@
         "RE2020"
       ],
       "summary": "Chaque été, les pelouses sont marquées par un ajout familier : « des arroseurs fantaisistes », dont les boucles et les spirales projettent de l’eau de manière créative. Bien que leur construction semble frivole, une équipe de mathématiciens a utilisé leur conception pour s’attaqu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1785217500000",
-      "title": "BYD et Covestro : les polymères au cœur de la stratégie électrique",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/byd-et-covestro-les-polymeres-au-coeur-de-la-strategie-electrique/191555-2026-07",
-      "image": null,
-      "date": "2026-07-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Le constructeur chinois BYD et le spécialiste allemand des matériaux Covestro ont officialisé un partenariat de long terme autour des polymères techniques destinés aux véhicules électriques. Cet accord déplace la relation au-delà du simple cadre acheteur-fournisseur pour engager …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1785215400000",
-      "title": "À Blaringhem, Baudelet double sa production de combustible de récupération",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/a-blaringhem-baudelet-double-sa-production-de-combustible-de-recuperation/191548-2026-07",
-      "image": null,
-      "date": "2026-07-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le Groupe Baudelet a mis en service en juillet 2026 une nouvelle ligne de Combustibles Solides de Récupération (CSR) sur l’Éco-Parc de Blaringhem, dans le Nord. L’investissement de 11,5 millions d’euros porte la capacité de production à 75 000 tonnes par an, principalement destin…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6031,7 +5951,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "verre-protections-magazine-rss-1-1785193646000",
+      "id": "verre-protections-magazine-rss-2-1785193646000",
       "title": "MaPrimeRénov’ : l’UFME appelle le gouvernement à maintenir l’aide par geste au remplacement des fenêtres",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -6463,110 +6383,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-6-1785169221000",
-      "title": "A Cestas, la centrale solaire de Neoen sauvée des flammes",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/a-cestas-la-centrale-solaire-de-neoen-sauvee-des-flammes-430665/",
-      "image": null,
-      "date": "2026-07-27",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Article complété en cours de journée le 27 juillet – La plus puissante centrale photovoltaïque de France a été sauvée des flammes ce week-end, mais, encerclée par l’incendie, elle a eu très chaud et est à l’arrêt. A Cestas, entre Bordeaux et Arcachon (Gironde), dans la nuit de sa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-7-1785169165000",
-      "title": "En Gironde, des centrales solaires à l’arrêt",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/en-gironde-des-centrales-solaires-a-larret-430743/",
-      "image": null,
-      "date": "2026-07-27",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Plusieurs centrales solaires sont à l’arrêt en Gironde, dans le périmètre exposé au feu géant qui a ravagé le centre-ouest du département ce week-end et reste actif. La centrale exploitée par Neoen en milieu forestier dans la commune de Cestas s’est retrouvée encerclée par les fl…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-8-1785168278000",
-      "title": "Des CEE « mobilité électrique » à boucler sur les chapeaux de roues",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/des-cee-mobilite-electrique-a-boucler-sur-les-chapeaux-de-roues-430718/",
-      "image": null,
-      "date": "2026-07-27",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Après la création d’une bonification pour les utilitaires le 1er juin, de nouvelles fiches et bonifications pour la mobilité électrique sont attendus le 1er septembre dans les certificats d’économies d’énergie (CEE). « C’est une avalanche de textes », observe Romain Ryon, fondate…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-9-1785159361000",
-      "title": "Les prix de l’électricité bien partis pour rester élevés pour 2027 [Marchés]",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/les-prix-de-lelectricite-bien-partis-pour-rester-eleves-pour-2027-marches-430689/",
-      "image": null,
-      "date": "2026-07-27",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Économie du bâtiment",
-        "Énergie"
-      ],
-      "summary": "« Chaque semaine qui avance augmente le risque pour 2027 », observe Clément Métayer, directeur des marchés de l’énergie chez Alterna Energies (groupe Sorégies). Un risque qui augmente L’article Les prix de l’électricité bien partis pour rester élevés pour 2027 [Marchés] est appar…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-2-1785146080000",
       "title": "Ce catamaran électrique est autonome en énergie grâce au soleil",
       "source": "Révolution Énergétique",
@@ -6818,7 +6634,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1785151062000",
+      "id": "le-journal-du-grand-paris-rss-1-1785151062000",
       "title": "Les coulisses du Grand Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6842,7 +6658,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1785143638000",
+      "id": "le-journal-du-grand-paris-rss-2-1785143638000",
       "title": "La Roche, un patrimoine en transition",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6868,7 +6684,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1785142355000",
+      "id": "le-journal-du-grand-paris-rss-3-1785142355000",
       "title": "Albane Godard – Penser contre soi-même",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8199,7 +8015,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1784927632000",
+      "id": "le-journal-du-grand-paris-rss-4-1784927632000",
       "title": "Conférence sur les déchets ménagers (1/4) – Haro sur « la fausse consigne »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8225,7 +8041,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1784926814000",
+      "id": "le-journal-du-grand-paris-rss-5-1784926814000",
       "title": "Conférence sur les déchets ménagers (2/4) – La réduction du plastique, premier acte contesté d’une stratégie de souveraineté",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8250,7 +8066,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1784924074000",
+      "id": "le-journal-du-grand-paris-rss-6-1784924074000",
       "title": "Conférence sur les déchets ménagers (3/4) – L’énergie des déchets s’affirme comme une assurance contre les chocs gaziers",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8276,7 +8092,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1784906091000",
+      "id": "le-journal-du-grand-paris-rss-7-1784906091000",
       "title": "Conférence sur les déchets ménagers (4/4) – Le service public des déchets réclame un cap industriel et un financement refondé",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8427,30 +8243,6 @@
       "sourceType": "Presse professionnelle",
       "region": "National",
       "url": "https://acteurspublics.fr/articles/dans-la-fonction-publique-une-rentree-sociale-sous-tension-avant-les-elections-professionnelles-de-decembre/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Politiques publiques",
-        "Collectivités",
-        "Transition"
-      ],
-      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "acteurs-publics-sitemap-8-1784883780000",
-      "title": "les cadres sup du quai dorsay invites a mieux manager lalterite les equipes et leur propre depart",
-      "source": "Acteurs Publics",
-      "sourceId": "acteurs-publics",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://acteurspublics.fr/articles/les-cadres-sup-du-quai-dorsay-invites-a-mieux-manager-lalterite-les-equipes-et-leur-propre-depart/",
       "image": null,
       "date": "2026-07-24",
       "access": "Accès mixte",
@@ -9068,7 +8860,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "verre-protections-magazine-rss-2-1784821718000",
+      "id": "verre-protections-magazine-rss-3-1784821718000",
       "title": "Sfpi Group annonce la nomination de Raphaël de Pazzis en qualité de Directeur Général Délégué",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -9093,7 +8885,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-3-1784812803000",
+      "id": "verre-protections-magazine-rss-4-1784812803000",
       "title": "Synerglass-Soft ouvre une nouvelle étape de son développement",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -9497,7 +9289,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1784831153000",
+      "id": "le-journal-du-grand-paris-rss-8-1784831153000",
       "title": "Les marchés du Grand Paris – Pontoise lance la requalification des espaces publics de son centre historique",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9522,7 +9314,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1784823078000",
+      "id": "le-journal-du-grand-paris-rss-9-1784823078000",
       "title": "Aux Grésillons, un passage souterrain ripé pour préparer l’arrivée de la ligne 15",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -10452,31 +10244,6 @@
         "Carbone"
       ],
       "summary": "Le gouvernement a annoncé ce 22 juillet les trois lauréats du premier appel d'offres de soutien à la production d'hydrogène décarboné par électrolyse. Le gouvernement a annoncé ce 22 juillet les trois lauréats du premier appel d&#039;offres de soutien à la production d&#039;hydro…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1784738912000",
-      "title": "Prolongement de la ligne 1 : une concertation préalable sur le nouveau projet prévue à l’automne 2026",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/prolongement-de-la-ligne-1-une-concertation-prealable-sur-le-nouveau-projet-prevue-a-lautomne-2026/",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau"
-      ],
-      "summary": "Quatre ans après le coup d'arrêt provoqué par l'avis défavorable de la commission d'enquête publique, le prolongement de la ligne 1 du métro jusqu'à Val-de-Fontenay revient sur la table. Un dossier largement remanié sera soumis à une concertation préalable à l'automne 2026, sous …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11829,7 +11596,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-4-1784538749000",
+      "id": "verre-protections-magazine-rss-5-1784538749000",
       "title": "Votez pour le “Coup de cœur des lecteurs” du Grand Prix des Réseaux – Verre & Protections Mag 2026",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -12552,7 +12319,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-5-1784289592000",
+      "id": "verre-protections-magazine-rss-6-1784289592000",
       "title": "Le Groupe Lorillard muscle sa présence dans l’Est avec l’acquisition de C.V.I.",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -13256,7 +13023,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-6-1784218110000",
+      "id": "verre-protections-magazine-rss-7-1784218110000",
       "title": "Javey renforce sa capacité de production pour accompagner le développement des portes sectionnelles sans ressorts",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -13282,7 +13049,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-7-1784211240000",
+      "id": "verre-protections-magazine-rss-8-1784211240000",
       "title": "Somfy nomme Laetitia Robillard en tant que Chief Marketing Officer et membre du Comité Exécutif",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -17647,7 +17414,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "verre-protections-magazine-rss-8-1783008056000",
+      "id": "verre-protections-magazine-rss-9-1783008056000",
       "title": "Les vainqueurs des Awards de l’Innovation Batimat 2026 dans les catégories “Menuiseries & façades” et “Protection solaire”",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -17669,31 +17436,6 @@
         "Énergie"
       ],
       "summary": "À l'occasion d'un “press dating\", organisé par le Paris Builders Show le jeudi 2 juillet 2026 à la Cité du Cinéma de Saint_denis (93), Jean-Philippe Guillon, directeur de la division Construction de RX France, organisateur des salons Batimat (et Equipbaie),... L’article Les vainq…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "verre-protections-magazine-rss-9-1782995953000",
-      "title": "REP Emballages Professionnels : la filière française de la menuiserie salue son report et appelle à une clarification rapide des conditions de mise en œuvre",
-      "source": "Verre & Protections Magazine",
-      "sourceId": "verre-protections-magazine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.verreetprotections.com/rep-emballages-professionnels-la-filiere-francaise-de-la-menuiserie-salue-son-report-et-appelle-a-une-clarification-rapide-des-conditions-de-mise-en-oeuvre/",
-      "image": null,
-      "date": "2026-07-02",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Menuiseries",
-        "Façades",
-        "Vitrage",
-        "Protection solaire"
-      ],
-      "summary": "Depuis plusieurs mois le Groupement Actibaie, le SNFA, l’UFME, l’UMB-FFB et l’UDTVP informent et accompagnent les entreprises de la filière française de la menuiserie et de la transformation du verre plat à la préparation de la REP Emballages Professionnels (REP... L’article REP …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
