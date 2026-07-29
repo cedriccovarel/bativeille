@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T21:13:57.294Z",
+  "generatedAt": "2026-07-29T02:56:08.814Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1785293782000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1785293782000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1785293782000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "agence-qualite-construction-aqc-wp-21276-1785222000000",
       "title": "Flop 10 Maisons individuelles 2026 : la couverture en petits éléments toujours en tête",
       "source": "Agence Qualité Construction — AQC",
@@ -2494,6 +2572,98 @@
       "summary": "Face aux incendies qui touchent notamment la Gironde, les Landes et le Var, de nombreuses entreprises artisanales du bâtiment voient leur activité fortement perturbée, voire interrompue. Afin d'accompagner les professionnels concernés, plusieurs dispositifs de soutien ont été act…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-0-1785250602000",
+      "title": "les forteresses royales capetiennes du languedoc inscrites sur la liste du patrimoine mondial de l unesco",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/regions/drac-occitanie/actualites/actualite-a-la-une/les-forteresses-royales-capetiennes-du-languedoc-inscrites-sur-la-liste-du-patrimoine-mondial-de-l-unesco",
+      "image": null,
+      "date": "2026-07-28",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-1-1785239334000",
+      "title": "9eme edition du forum entreprendre dans la culture auvergne rhone alpes2",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/regions/drac-auvergne-rhone-alpes/actualites/9eme-edition-du-forum-entreprendre-dans-la-culture-auvergne-rhone-alpes2",
+      "image": null,
+      "date": "2026-07-28",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-2-1785225488000",
+      "title": "le ministere de la culture deploie son plan d action de surete des etablissements patrimoniaux et des lieux de conservation de biens culturels",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/presse/communiques-de-presse/le-ministere-de-la-culture-deploie-son-plan-d-action-de-surete-des-etablissements-patrimoniaux-et-des-lieux-de-conservation-de-biens-culturels",
+      "image": null,
+      "date": "2026-07-28",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-3-1785251303000",
+      "title": "les plages du debarquement et les forteresses royales du languedoc a l unesco",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/actualites/les-plages-du-debarquement-et-les-forteresses-royales-du-languedoc-a-l-unesco",
+      "image": null,
+      "date": "2026-07-28",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "meteo-france-rss-0-1785237685000",
@@ -2960,6 +3130,32 @@
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "verre-protections-magazine-rss-0-1785273523000",
+      "title": "Saint-Gobain signe un accord-cadre avec Microsoft et renforce son leadership dans l’IA pour la construction",
+      "source": "Verre & Protections Magazine",
+      "sourceId": "verre-protections-magazine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.verreetprotections.com/saint-gobain-signe-un-accord-cadre-avec-microsoft-et-renforce-son-leadership-dans-lia-pour-la-construction/",
+      "image": null,
+      "date": "2026-07-28",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Menuiseries",
+        "Façades",
+        "Vitrage",
+        "Protection solaire",
+        "Bâtiment"
+      ],
+      "summary": "Saint-Gobain a signé un accord-cadre avec Microsoft avec deux principaux objectifs : 1er objectif : Saint-Gobain s’appuiera sur les solutions digitales et d’Intelligence Artificielle (IA) de Microsoft afin de renforcer sa croissance et sa productivité, réinventer l’expérience cli…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "techniques-de-lingenieur-actualites-sitemap-22-1785228864000",
@@ -3653,7 +3849,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1785217500000",
+      "id": "enerzine-rss-0-1785276600000",
+      "title": "Des chercheurs inversent le sens des « arroseurs fantaisistes » pour percer un vieux mystère",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-chercheurs-inversent-le-sens-des-arroseurs-fantaisistes-pour-percer-un-vieux-mystere/191091-2026-07",
+      "image": null,
+      "date": "2026-07-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "RE2020"
+      ],
+      "summary": "Chaque été, les pelouses sont marquées par un ajout familier : « des arroseurs fantaisistes », dont les boucles et les spirales projettent de l’eau de manière créative. Bien que leur construction semble frivole, une équipe de mathématiciens a utilisé leur conception pour s’attaqu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1785217500000",
       "title": "BYD et Covestro : les polymères au cœur de la stratégie électrique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3677,7 +3899,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1785215400000",
+      "id": "enerzine-rss-2-1785215400000",
       "title": "À Blaringhem, Baudelet double sa production de combustible de récupération",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3702,7 +3924,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1785211800000",
+      "id": "enerzine-rss-3-1785211800000",
       "title": "Une nouvelle technique éclaire de vieux débats sur les matériaux ferroélectriques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3726,7 +3948,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1785208200000",
+      "id": "enerzine-rss-4-1785208200000",
       "title": "Optique des couches minces : impression laser de structures optiques diffractives en TMD 2D",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3903,84 +4125,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1785273255000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-07-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1785273255000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-07-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1785273255000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-07-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "acteurs-publics-sitemap-1-1785240600000",
       "title": "orange et morrison projettent une plateforme francaise de data centers souverains",
       "source": "Acteurs Publics",
@@ -4055,30 +4199,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-0-1785159541000",
-      "title": "les plages du debarquement et les forteresses royales du languedoc a l unesco",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/actualites/les-plages-du-debarquement-et-les-forteresses-royales-du-languedoc-a-l-unesco",
-      "image": null,
-      "date": "2026-07-27",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-1-1785158962000",
+      "id": "ministere-de-la-culture-architecture-sitemap-4-1785158962000",
       "title": "les plages du debarquement normandie 1944 inscrites sur la liste du patrimoine mondial de l unesco",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4101,7 +4222,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-2-1785140923000",
+      "id": "ministere-de-la-culture-architecture-sitemap-5-1785140923000",
       "title": "la liste fouiller en benevole ou visiter un chantier archeologique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4125,7 +4246,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-4-1785166519000",
+      "id": "ministere-de-la-culture-architecture-sitemap-7-1785166519000",
       "title": "appel a projets mode les 5 tendances 2026",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4148,7 +4269,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-23-1785143085000",
+      "id": "ministere-de-la-culture-architecture-sitemap-26-1785143085000",
       "title": "des vacances culturelles en ile de france",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4623,7 +4744,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "verre-protections-magazine-rss-0-1785193646000",
+      "id": "verre-protections-magazine-rss-1-1785193646000",
       "title": "MaPrimeRénov’ : l’UFME appelle le gouvernement à maintenir l’aide par geste au remplacement des fenêtres",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -5310,7 +5431,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1785190200000",
+      "id": "enerzine-rss-5-1785190200000",
       "title": "Accélérer la dépollution environnementale en stimulant les bactéries",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5335,7 +5456,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1785180097000",
+      "id": "enerzine-rss-6-1785180097000",
       "title": "La pleine lune du cerf embrase le ciel de juillet",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5359,7 +5480,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1785165000000",
+      "id": "enerzine-rss-7-1785165000000",
       "title": "Des drones chinois anti-incendie, un dispositif innovant face aux départs de feu",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5385,7 +5506,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1785131100000",
+      "id": "enerzine-rss-8-1785131100000",
       "title": "Fos-sur-Mer : accord signé pour un hub multi-énergies nucléaire et numérique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5411,7 +5532,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1785129000000",
+      "id": "enerzine-rss-9-1785129000000",
       "title": "Une théorie des trous noirs prend vie en laboratoire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5432,31 +5553,6 @@
         "Réglementation"
       ],
       "summary": "Il y a plus d’un demi-siècle, Sir Roger Penrose a imaginé un scénario dans lequel de l’énergie pourrait être extraite d’un trou noir tournant à une vitesse extrême. Il a proposé qu’une particule pénétrant dans son ergosphère une région de l’espace entraînée par un trou noir en ro…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1785125400000",
-      "title": "Des électrodes à peindre pour des capteurs portables créatifs et colorés",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-electrodes-a-peindre-pour-des-capteurs-portables-creatifs-et-colores/191074-2026-07",
-      "image": null,
-      "date": "2026-07-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Des ingénieurs de Penn State mêlent art et science pour créer de mignons tatouages à peindre qui pourraient aider à détecter précocement les crises cardiaques, alimenter des prothèses robotiques et lire les ondes cérébrales — le tout dans un système coloré et personnalisable, fac…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6216,7 +6312,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-3-1784898017000",
+      "id": "ministere-de-la-culture-architecture-sitemap-6-1784898017000",
       "title": "le temps des images. une exposition sur la sculpture en rouergue a la fin du moyen age a rodez",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -6239,7 +6335,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-8-1784905332000",
+      "id": "ministere-de-la-culture-architecture-sitemap-11-1784905332000",
       "title": "inventaire national du pci l inclusion n est pas une fin c est un point de depart",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -6262,7 +6358,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-10-1784880490000",
+      "id": "ministere-de-la-culture-architecture-sitemap-13-1784880490000",
       "title": "les jeudis du patrimoine un cycle de conferences autour de la sauvegarde du patrimoine",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -6285,7 +6381,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-13-1784903929000",
+      "id": "ministere-de-la-culture-architecture-sitemap-16-1784903929000",
       "title": "barometre des festivals 2025",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -6602,52 +6698,6 @@
         "Air"
       ],
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-8-1784903873000",
-      "title": "habitat modes de vie",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/habitat-modes-de-vie/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-12-1784903873000",
-      "title": "publication",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -7681,7 +7731,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-5-1784822511000",
+      "id": "ministere-de-la-culture-architecture-sitemap-8-1784822511000",
       "title": "renouvellement de m. emmanuel kasarherou a la presidence de l etablissement public du musee du quai branly jacques chirac",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7704,7 +7754,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-6-1784809603000",
+      "id": "ministere-de-la-culture-architecture-sitemap-9-1784809603000",
       "title": "plan d action du deps sur les statistiques culturelles",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7727,7 +7777,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-7-1784803499000",
+      "id": "ministere-de-la-culture-architecture-sitemap-10-1784803499000",
       "title": "renouvellement de m. laurent le bon a la presidence du centre national d art et de culture georges pompidou",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -7750,7 +7800,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-12-1784810483000",
+      "id": "ministere-de-la-culture-architecture-sitemap-15-1784810483000",
       "title": "lettre d information theatrale",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8289,7 +8339,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "verre-protections-magazine-rss-1-1784821718000",
+      "id": "verre-protections-magazine-rss-2-1784821718000",
       "title": "Sfpi Group annonce la nomination de Raphaël de Pazzis en qualité de Directeur Général Délégué",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -8314,7 +8364,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-2-1784812803000",
+      "id": "verre-protections-magazine-rss-3-1784812803000",
       "title": "Synerglass-Soft ouvre une nouvelle étape de son développement",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -9086,7 +9136,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-9-1784744395000",
+      "id": "ministere-de-la-culture-architecture-sitemap-12-1784744395000",
       "title": "agenda previsionnel de mme catherine pegard ministre de la culture17",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9109,7 +9159,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-11-1784718688000",
+      "id": "ministere-de-la-culture-architecture-sitemap-14-1784718688000",
       "title": "catherine pegard ministre de la culture salue la reconduction d alexander neef a la direction generale de l opera national de paris",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9132,7 +9182,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-14-1784708591000",
+      "id": "ministere-de-la-culture-architecture-sitemap-17-1784708591000",
       "title": "donnees chiffrees de l archeologie preventive au 1er juillet 2026",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10167,7 +10217,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-16-1784639737000",
+      "id": "ministere-de-la-culture-architecture-sitemap-19-1784639737000",
       "title": "l eau ce bien commun qu il faut apprendre a transmettre",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10191,7 +10241,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-21-1784640307000",
+      "id": "ministere-de-la-culture-architecture-sitemap-24-1784640307000",
       "title": "deuxieme edition du prix du livre pour les bebes le ministere de la culture devoile la composition du jury et les ouvrages retenus dans la selection",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10852,7 +10902,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-15-1784563128000",
+      "id": "ministere-de-la-culture-architecture-sitemap-18-1784563128000",
       "title": "nomination de jerome montchal a la direction du phenix scene nationale de valenciennes metropole",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10875,7 +10925,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-17-1784539256000",
+      "id": "ministere-de-la-culture-architecture-sitemap-20-1784539256000",
       "title": "a vierzon plus de 100 enfants a la recherche du petit prince",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -11352,7 +11402,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-3-1784538749000",
+      "id": "verre-protections-magazine-rss-4-1784538749000",
       "title": "Votez pour le “Coup de cœur des lecteurs” du Grand Prix des Réseaux – Verre & Protections Mag 2026",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -11683,7 +11733,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-18-1784277489000",
+      "id": "ministere-de-la-culture-architecture-sitemap-21-1784277489000",
       "title": "le ministere de la culture annonce le lancement de la 11e edition des journees nationales de l architecture du 15 au 18 octobre 2026 sur le theme",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -11706,7 +11756,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-19-1784283345000",
+      "id": "ministere-de-la-culture-architecture-sitemap-22-1784283345000",
       "title": "analyse conjoncturelle du chiffre d affaires de la culture au 4e trimestre 2025",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12049,7 +12099,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-4-1784289592000",
+      "id": "verre-protections-magazine-rss-5-1784289592000",
       "title": "Le Groupe Lorillard muscle sa présence dans l’Est avec l’acquisition de C.V.I.",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -12252,7 +12302,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-20-1784215464000",
+      "id": "ministere-de-la-culture-architecture-sitemap-23-1784215464000",
       "title": "pratiques culturelles la recherche a l epreuve du numerique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12275,7 +12325,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-22-1784205412000",
+      "id": "ministere-de-la-culture-architecture-sitemap-25-1784205412000",
       "title": "nomination de claire nicolas a la direction du centre d art et de photographie de lectoure capl centre d art contemporain d interet national c",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12298,7 +12348,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-24-1784209660000",
+      "id": "ministere-de-la-culture-architecture-sitemap-27-1784209660000",
       "title": "la cathedrale de chartres decrochera t elle le titre de monument prefere des francais",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12321,7 +12371,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-25-1784192022000",
+      "id": "ministere-de-la-culture-architecture-sitemap-28-1784192022000",
       "title": "agenda previsionnel de mme catherine pegard ministre de la culture16",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12344,7 +12394,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-26-1784215456000",
+      "id": "ministere-de-la-culture-architecture-sitemap-29-1784215456000",
       "title": "rapport de mission sur le statut des productions de l intelligence artificielle",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12776,7 +12826,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-5-1784218110000",
+      "id": "verre-protections-magazine-rss-6-1784218110000",
       "title": "Javey renforce sa capacité de production pour accompagner le développement des portes sectionnelles sans ressorts",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -12802,7 +12852,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-6-1784211240000",
+      "id": "verre-protections-magazine-rss-7-1784211240000",
       "title": "Somfy nomme Laetitia Robillard en tant que Chief Marketing Officer et membre du Comité Exécutif",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -12948,53 +12998,6 @@
         "Bâtiment"
       ],
       "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-27-1784109433000",
-      "title": "la creation architecturale au service des politiques publiques du logement et de l adaptation climatique du bati existant",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/thematiques/architecture/actualites-de-l-architecture/la-creation-architecturale-au-service-des-politiques-publiques-du-logement-et-de-l-adaptation-climatique-du-bati-existant",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 90,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-28-1784146799000",
-      "title": "festival paris l ete 2026 fait scene de tout un territoire",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/regions/drac-ile-de-france/actualites/actualite-a-la-une/festival-paris-l-ete-2026-fait-scene-de-tout-un-territoire",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -14072,29 +14075,6 @@
         "Bâtiment"
       ],
       "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-29-1783700410000",
-      "title": "cet ete je lis ! et vous",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/actualites/cet-ete-je-lis-!-et-vous",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -16108,29 +16088,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "aupa-pays-d-aix-sitemap-11-1783427061000",
-      "title": "prospective",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/prospective/",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "arec-nouvelle-aquitaine-rss-1-1783420380000",
       "title": "Les repères chiffrés 2026 de l’ORDEC : la publication disponible !",
       "source": "AREC Nouvelle-Aquitaine",
@@ -17314,7 +17271,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "verre-protections-magazine-rss-7-1783008056000",
+      "id": "verre-protections-magazine-rss-8-1783008056000",
       "title": "Les vainqueurs des Awards de l’Innovation Batimat 2026 dans les catégories “Menuiseries & façades” et “Protection solaire”",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -17340,7 +17297,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-8-1782995953000",
+      "id": "verre-protections-magazine-rss-9-1782995953000",
       "title": "REP Emballages Professionnels : la filière française de la menuiserie salue son report et appelle à une clarification rapide des conditions de mise en œuvre",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -17632,29 +17589,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "aupa-pays-d-aix-sitemap-6-1782901923000",
-      "title": "publications et animations",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/publications-et-animations/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "audiar-rennes-rss-2-1782913760000",
       "title": "Évolutions démographiques, imperméabilisation des sols, adhérents aux activités de loisirs dans les équipements rennais… 3 études présentées en 10 minutes chacune",
       "source": "AUDIAR Rennes",
@@ -17726,32 +17660,6 @@
       "summary": "Publication détectée dans le sitemap de ADULM Lille Métropole. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "verre-protections-magazine-rss-9-1782915164000",
-      "title": "Rentrée des Innovations 2026 : mettez votre nouveauté à l’honneur dans Verre & Protections Mag !",
-      "source": "Verre & Protections Magazine",
-      "sourceId": "verre-protections-magazine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.verreetprotections.com/rentree-des-innovations-2026-mettez-votre-nouveaute-a-lhonneur-dans-verre-protections-mag/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Menuiseries",
-        "Façades",
-        "Vitrage",
-        "Protection solaire",
-        "Réglementation"
-      ],
-      "summary": "Le compte à rebours est lancé pour notre numéro 162 spécial \"RENTRÉE DES INNOVATIONS 2026\" de Verre & Protections Mag – une édition incontournable pour valoriser vos nouveautés produits ou solutions. ​Votre participation : Mettez en lumière votre nouveauté 2026,... L’article Rent…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-38-1782911709000",
