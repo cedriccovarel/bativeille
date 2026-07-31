@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T16:50:06.752Z",
+  "generatedAt": "2026-07-31T21:11:09.988Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3758,7 +3758,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1785516624000",
+      "id": "le-commerce-du-bois-sitemap-0-1785532290000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3784,7 +3784,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1785516624000",
+      "id": "le-commerce-du-bois-sitemap-1-1785532290000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3810,7 +3810,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1785516624000",
+      "id": "le-commerce-du-bois-sitemap-2-1785532290000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3836,8 +3836,57 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1785516169000",
-      "title": "Championnats d’Europe de natation : le CAO Métropole du Grand Paris replonge dans le grand bain",
+      "id": "le-journal-du-grand-paris-rss-0-1785530628000",
+      "title": "La Caisse d’Épargne au secours de la forêt de Fontainebleau incendiée",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/la-caisse-depargne-au-secours-de-la-foret-de-fontainebleau-incendiee/",
+      "image": null,
+      "date": "2026-07-31",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau"
+      ],
+      "summary": "Le don de la Caisse d'Épargne Île-de-France en faveur du Fonds ONF-Agir pour la forêt de Fontainebleau financera la première étape de la reconstitution de la forêt après les incendies de très grande ampleur des 12 et 13 juillet, qui ont détruit 10 % de sa superficie. Le don de la…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1785517242000",
+      "title": "Les coulisses du Grand Paris",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/les-coulisses-du-grand-paris/",
+      "image": null,
+      "date": "2026-07-31",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % numérique. Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % n…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-2-1785516169000",
+      "title": "Championnats d’Europe de natation : le CAO métropole du Grand Paris replonge dans le grand bain",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
@@ -3855,7 +3904,7 @@
         "Urbanisme",
         "Immobilier"
       ],
-      "summary": "Deux ans après les Jeux de Paris 2024, le Centre aquatique olympique de la Métropole du Grand Paris accueille les Championnats d'Europe de natation, du 31 juillet au 16 août. Deux ans après les Jeux de Paris 2024, le Centre aquatique olympique de la Métropole du Grand Paris accue…",
+      "summary": "Deux ans après les Jeux de Paris 2024, le Centre aquatique olympique métropole du Grand Paris accueille les Championnats d'Europe de natation, du 31 juillet au 16 août. Deux ans après les Jeux de Paris 2024, le Centre aquatique olympique métropole du Grand Paris accueille les Cha…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6304,7 +6353,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1785343138000",
+      "id": "le-journal-du-grand-paris-rss-3-1785343138000",
       "title": "Incendie de Fontainebleau : un plan d’action pour « renforcer la protection des forêts franciliennes »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8577,7 +8626,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1785143638000",
+      "id": "le-journal-du-grand-paris-rss-4-1785143638000",
       "title": "La Roche, un patrimoine en transition",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8603,7 +8652,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1785142355000",
+      "id": "le-journal-du-grand-paris-rss-5-1785142355000",
       "title": "Albane Godard – Penser contre soi-même",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9629,7 +9678,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1784927632000",
+      "id": "le-journal-du-grand-paris-rss-6-1784927632000",
       "title": "Conférence sur les déchets ménagers (1/4) – Haro sur « la fausse consigne »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9655,7 +9704,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1784926814000",
+      "id": "le-journal-du-grand-paris-rss-7-1784926814000",
       "title": "Conférence sur les déchets ménagers (2/4) – La réduction du plastique, premier acte contesté d’une stratégie de souveraineté",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9680,7 +9729,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1784924074000",
+      "id": "le-journal-du-grand-paris-rss-8-1784924074000",
       "title": "Conférence sur les déchets ménagers (3/4) – L’énergie des déchets s’affirme comme une assurance contre les chocs gaziers",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9706,7 +9755,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1784906091000",
+      "id": "le-journal-du-grand-paris-rss-9-1784906091000",
       "title": "Conférence sur les déchets ménagers (4/4) – Le service public des déchets réclame un cap industriel et un financement refondé",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -10495,57 +10544,6 @@
         "Pédagogie"
       ],
       "summary": "L'Irena (Agence internationale pour les énergies renouvelables) a publié le 14 juillet dernier ses Renewable Energy Statistics 2026, qui détaillent filière par filière et pays par pays les capacités renouvelables installées dans le monde — et désormais les productions associées. …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1784831153000",
-      "title": "Les marchés du Grand Paris – Pontoise lance la requalification des espaces publics de son centre historique",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-marches-du-grand-paris-pontoise-lance-la-requalification-des-espaces-publics-de-son-centre-historique/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Économie du bâtiment"
-      ],
-      "summary": "La ville de Pontoise a engagé un marché de maîtrise d'œuvre pour transformer la place de l'Hôtel de Ville, la rue éponyme et les places du Grand et du Petit Martroy. Une opération d'ampleur, inscrite dans le dispositif national Action Cœur de Ville, qui devra composer avec un sou…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1784823078000",
-      "title": "Aux Grésillons, un passage souterrain ripé pour préparer l’arrivée de la ligne 15",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/aux-gresillons-un-passage-souterrain-ripe-pour-preparer-larrivee-de-la-ligne-15/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Les équipes de SNCF Réseau et de la Société des grands projets (SGP) ont réalisé, le 22 juillet, une spectaculaire opération de ripage du futur passage souterrain reliant la gare du RER C des Grésillons à la future station de la ligne 15 ouest du Grand Paris express. Une interven…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -17767,7 +17765,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
