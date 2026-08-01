@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T16:04:56.587Z",
+  "generatedAt": "2026-08-01T20:59:27.627Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2337,7 +2337,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1785597300000",
+      "id": "enerzine-rss-0-1785600600000",
+      "title": "Windows 11 : Microsoft promet d’accélérer son chantier sur la qualité",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/windows-11-microsoft-accelere-chantier-qualite/192451-2026-08",
+      "image": null,
+      "date": "2026-08-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "Microsoft affirme avoir engagé une première série de corrections et d’évolutions pour répondre aux critiques récurrentes sur la fluidité, la stabilité et la cohérence de Windows 11. Après quatre mois de travaux principalement testés auprès des membres du programme Windows Insider…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1785597300000",
       "title": "Airbus A380 : entre inspections d’urgence pour fissures et mue en laboratoire volant",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2362,7 +2388,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1785590400000",
+      "id": "enerzine-rss-2-1785590400000",
       "title": "Leapmotor B03X : le crossover électrique à 24 900 euros arrive en Europe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2387,7 +2413,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1785576000000",
+      "id": "enerzine-rss-3-1785576000000",
       "title": "Jeunes conducteurs et voitures surpuissantes : la loi RIPOST interdit, mais le flou demeure",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2412,7 +2438,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1785557400000",
+      "id": "enerzine-rss-4-1785557400000",
       "title": "Comment les scientifiques savent-ils si le changement climatique a aggravé une canicule, une tempête extrême ou un incendie de forêt ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2437,7 +2463,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1785557400000",
+      "id": "enerzine-rss-5-1785557400000",
       "title": "Des chercheurs développent une technologie portable pour surveiller les médicaments en temps réel",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2461,7 +2487,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1785553800000",
+      "id": "enerzine-rss-6-1785553800000",
       "title": "IA qui apprend des nuages : quand un système prévoit la production d’énergie solaire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2535,7 +2561,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1785600316000",
+      "id": "le-commerce-du-bois-sitemap-0-1785617986000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2561,7 +2587,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1785600316000",
+      "id": "le-commerce-du-bois-sitemap-1-1785617986000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2587,7 +2613,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1785600316000",
+      "id": "le-commerce-du-bois-sitemap-2-1785617986000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3979,7 +4005,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1785535800000",
+      "id": "enerzine-rss-7-1785535800000",
       "title": "SwRI, SMU collaborent pour faire progresser les batteries à état solide",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4004,7 +4030,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1785507234000",
+      "id": "enerzine-rss-8-1785507234000",
       "title": "Hausse du prix de l’électricité au 1er août 2026 : ce qui va changer pour 20 millions de foyers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4030,7 +4056,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1785504300000",
+      "id": "enerzine-rss-9-1785504300000",
       "title": "Le rover Curiosity de la NASA découvre un champ présentant des textures en nid d’abeille",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4051,30 +4077,6 @@
         "Eau"
       ],
       "summary": "Les récentes images transmises par le vénérable rover martien révèlent un paysage qui défie l’entendement géologique. Ainsi, une vaste étendue fracturée évoque irrésistiblement les alvéoles d’une ruche. Immortalisée dans la vallée de Valle Grande, la mosaïque de polygones centimé…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1785489900000",
-      "title": "Allocation de rentrée scolaire 2026 : jusqu’à 466 euros versés aux familles avant la rentrée",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/allocation-rentree-scolaire-ars-2026-montants-versement-conditions/192327-2026-07",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "La Caisse d’allocations familiales doit verser, le 18 août, l’allocation de rentrée scolaire aux foyers éligibles pour l’année 2026-2027. Revalorisée au 1er avril, cette aide atteint jusqu’à 466,02 euros par enfant et vise les dépenses de fournitures, de vêtements ou de matériel …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
