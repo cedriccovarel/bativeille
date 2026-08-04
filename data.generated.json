@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T12:05:17.256Z",
+  "generatedAt": "2026-08-04T16:56:58.296Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2474,6 +2474,32 @@
       "collectMethod": "rss"
     },
     {
+      "id": "urbalyon-rss-0-1785852960000",
+      "title": "Recensement 2023 (métropole de Lyon) : fiches détaillées par communes",
+      "source": "UrbaLyon",
+      "sourceId": "urbalyon",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.urbalyon.org/fr/demographie/recensement-2023-metropole-de-lyon-fiches-detaillees-par-communes",
+      "image": null,
+      "date": "2026-08-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Lyon",
+        "Urbanisme",
+        "Habitat",
+        "Foncier",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Recensement 2023 (métropole de Lyon) : fiches détaillées par communes webmaster mar 04/08/2026 - 16:16 Les fiches du recensement dites « duo », nouveau millésime 2023 sont disponibles pour les communes de la métropole de Lyon. Elles couvrent les principales thématiques de la démo…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "novabuild-rss-0-1785821340000",
       "title": "« Dans un climat d’incertitudes, le mandat à venir appartient au maire rénovateur » une tribune collective",
       "source": "Novabuild",
@@ -2520,6 +2546,32 @@
       "summary": "Publication détectée dans le sitemap de ORDECO Occitanie. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "envirobat-grand-est-lqe-rss-0-1785853469000",
+      "title": "Auto-réhabilitation accompagnée (ARA) : où en est-on en 2026 ? | Webinaire du 26 mai 2026 disponible",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/auto-rehabilitation-accompagnee-ara-ou-en-est-on-en-2026-webinaire-du-26-mai-2026-disponible/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Fauto-rehabilitation-accompagnee-ara-ou-en-est-on-en-2026-webinaire-du-26-mai-2026-disponible%2F&action_name=Auto-r%C3%A9habilitation%20accompagn%C3%A9e%20%28ARA%29%20%3A%20o%C3%B9%20en%20est-on%20en%202026%20%3F%20%7C%20Webinaire%20du%2026%20mai%202026%20disponible&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-08-04",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Confort d’été",
+        "Rénovation",
+        "Bâtiment"
+      ],
+      "summary": "En 2026, face à l’urgence climatique et à l’évolution des aides publiques pour la rénovation des logements privés, cette démarche d’accompagnement à l’auto-réhabilitation par des professionnels apparait comme une des […] L'article Auto-réhabilitation accompagnée (ARA) : où en est…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "novethic-rss-0-1785843958000",
@@ -2574,7 +2626,159 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1785844448000",
+      "id": "reporterre-rss-0-1785859285000",
+      "title": "100 hectares brûlés dans une réserve naturelle aux Pays-Bas",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/100-hectares-brules-dans-une-reserve-naturelle-aux-Pays-Bas",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/forest-fire-1493436144fp6_1_1_-72109.jpg?1785859468",
+      "date": "2026-08-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation"
+      ],
+      "summary": "Les incendies sévissent de plus en plus au nord : la réserve naturelle de Boschhuizerbergen, dans le sud-est des Pays-Bas, est en proie aux flammes depuis lundi 3 août. Le feu s'est rapidement propagé : de 21 hectares brûlés lundi après-midi, il était déjà passé à une centaine d'…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1785856106000",
+      "title": "« C'est la campagne silencieuse » : quand les vergers sont remplacés par des champs de maïs",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/C-est-la-campagne-silencieuse-quand-les-vergers-sont-remplaces-par-des-champs-de-mais",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/img_3250-8cd89.jpg?1785856112",
+      "date": "2026-08-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat"
+      ],
+      "summary": "Dans le Val-d'Oise, de nombreux vergers sont arrachés et remplacés par des cultures céréalières. Leur disparition entraîne une réduction de la diversité des habitats, pourtant essentiels à la faune. Lire la suite - Reportage / Nature , Agriculture Dans le Val-d'Oise, de nombreux …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-2-1785855814000",
+      "title": "Mégaferme à saumons : le projet contesté est autorisé par la préfecture de Gironde",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Megaferme-a-saumons-le-projet-conteste-est-autorise-par-la-prefecture-de-Gironde",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/capture_d_ecran_du_2025-12-24_08-49-39-1647d.jpg?1785855815",
+      "date": "2026-08-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Par un arrêté du 4 août, la préfète de la Gironde, Sophie Brocas, a accordé l'autorisation environnementale au projet très contesté de méga-usine terrestre de saumons, à Verdon-sur-Mer. Ce projet porté par la société Pure Salmon, financé par un fonds d'investissement singapourien…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-3-1785852206000",
+      "title": "Avant l'écoféminisme, Suzanne Césaire tissait déjà le lien entre colonisation et destruction du vivant",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Avant-l-ecofeminisme-Suzanne-Cesaire-tissait-deja-le-lien-entre-colonisation-et",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/suzanne_cesaire-2306d.jpg?1785852208",
+      "date": "2026-08-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Biosourcé"
+      ],
+      "summary": "[Ces précurseuses écolos et féministes 2/5] Longtemps restée dans l'ombre de son mari, Suzanne Césaire a pourtant, dans sa courte carrière littéraire, tracé les lignes d'une identité martiniquaise singulière, ancrée dans son rapport à la terre. « Toujours et partout, dans les moi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-4-1785846305000",
+      "title": "La sécheresse des petits cours d'eau en juillet est « la plus critique jamais observée »",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/La-secheresse-des-petits-cours-d-eau-en-juillet-est-la-plus-critique-jamais-observee",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/ruisseau_de_sainte-catherine___foret___vallon_de_sainte-catherine__51135056473__resized-f29d6.jpg?1785846307",
+      "date": "2026-08-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "Selon les derniers relevés de l'Office français de la biodiversité (OFB), les observations réalisées sur l'écoulement des petits cours d'eau sur le territoire fin juillet confirment « une situation exceptionnelle », « la plus critique jamais observée à cette période », depuis le …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-5-1785845627000",
+      "title": "Juillet 2026 : le mois le plus chaud jamais enregistré en France",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Juillet-2026-le-mois-le-plus-chaud-jamais-enregistre-en-France",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260706__b9cr988__v5__highres__franceweatherclimateheatwave_1_-7999e.jpg?1785845661",
+      "date": "2026-08-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Confort d’été",
+        "Énergie"
+      ],
+      "summary": "Marqué par une vague de chaleur « remarquable par sa durée », le mois de juillet que nous venons de vivre est le plus chaud jamais relevé par Météo-France depuis 1900. Le mois de juillet 2026 est le plus chaud jamais enregistré en France, tous mois confondus, depuis le début des …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-6-1785844448000",
       "title": "Sécheresse : un village englouti refait surface en Indonésie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2600,7 +2804,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1785827246000",
+      "id": "reporterre-rss-7-1785827246000",
       "title": "« C'est du mépris de classe » : une mairie profite des incendies pour supprimer des jardins familiaux",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2625,7 +2829,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1785820200000",
+      "id": "reporterre-rss-8-1785820200000",
       "title": "Une start-up soutenue par Jeff Bezos veut s'approprier des archives coloniales pour trouver du lithium au Congo",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2650,7 +2854,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1785819600000",
+      "id": "reporterre-rss-9-1785819600000",
       "title": "« L'équivalent d'une forêt brûlée » : les canicules marines ravagent les fonds marins",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2676,7 +2880,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1785816000000",
+      "id": "vert-rss-0-1785854945000",
+      "title": "«Faire primer l’intérêt de la nature sur celui d’un loisir» : la pression monte pour suspendre la chasse dans les zones incendiées",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/non-categorise/faire-primer-linteret-de-la-nature-sur-celui-dun-loisir-la-pression-monte-pour-suspendre-la-chasse-dans-les-zones-incendiees/",
+      "image": null,
+      "date": "2026-08-04",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Réglementation"
+      ],
+      "summary": "Ce mardi, une pétition pour «un moratoire immédiat de la chasse» dans les espaces sinistrés par les incendies a dépassé les 380 000 signatures. Le gouvernement et les fédérations de chasse évoquent, eux, des adaptations «au cas par cas». Ce mardi, une pétition pour «un moratoire …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "vert-rss-1-1785816000000",
       "title": "«Une grande prison à ciel ouvert» : le quotidien bouleversé des villages du Sud-Liban, sous occupation israélienne",
       "source": "Vert",
       "sourceId": "vert",
@@ -2701,7 +2930,131 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-0-1785844800000",
+      "id": "greenunivers-rss-0-1785855278000",
+      "title": "La CRE se penche sur la révision du tarif d’achat du biométhane",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/le-cre-se-penche-sur-la-revision-du-tarif-dachat-du-biomethane-431279/",
+      "image": null,
+      "date": "2026-08-04",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "La Commission de régulation de l’énergie (CRE) « prend acte » de la volonté du gouvernement de restreindre le guichet ouvert pour le biométhane aux installations de moins de 13 GWh/an, au lieu de 25 GWh/an auparavant. Le régulateur a examiné L’article La CRE se penche sur la révi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-1-1785854583000",
+      "title": "Hydrogène : RWE envoie une première livraison par canalisation",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/hydrogene-rwe-envoie-une-premiere-livraison-par-canalisation-431273/",
+      "image": null,
+      "date": "2026-08-04",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "Si l’emballement autour de l’hydrogène vert est bien redescendu, surtout dans la mobilité, d’autres projets continuent à avancer. En France, les résultats du premier L’article Hydrogène : RWE envoie une première livraison par canalisation est apparu en premier sur GreenUnivers. S…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-2-1785846408000",
+      "title": "Batteries : combien rapporte 1 MW en juillet [Observatoire]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/batteries-combien-rapporte-1-mw-en-juillet-observatoire-431262/",
+      "image": null,
+      "date": "2026-08-04",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Économie du bâtiment"
+      ],
+      "summary": "Les écarts de prix au cours d’une journée ont encore augmenté sur le marché de l’électricité en juillet et le terrain de jeu reste L’article Batteries : combien rapporte 1 MW en juillet [Observatoire] est apparu en premier sur GreenUnivers. Les écarts de prix au cours d’une journ…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-0-1785852000000",
+      "title": "En Belgique, DATS 24 vend son activité de fournisseur à EnergyVision",
+      "source": "PV Magazine France",
+      "sourceId": "pv-magazine-france",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.pv-magazine.fr/2026/08/04/en-belgique-dats-24-vend-son-activite-de-fournisseur-a-energyvision/",
+      "image": null,
+      "date": "2026-08-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Photovoltaïque",
+        "Autoconsommation",
+        "ENR"
+      ],
+      "summary": "Le groupe Virya Energy cède la fourniture d’électricité et de gaz aux clients de sa filiale DATS 24 à l’entreprise belge EnergyVision. L’opération concerne 33 000 points d’accès, soit environ 18 000 clients. Le groupe Virya Energy cède la fourniture d’électricité et de gaz aux cl…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-1-1785848400000",
+      "title": "La France, l’Allemagne, l’Italie, l’Espagne et le Portugal battent des records d’ensoleillement",
+      "source": "PV Magazine France",
+      "sourceId": "pv-magazine-france",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.pv-magazine.fr/2026/08/04/la-france-lallemagne-litalie-lespagne-et-le-portugal-battent-des-records-densoleillement/",
+      "image": null,
+      "date": "2026-08-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Photovoltaïque",
+        "Autoconsommation",
+        "ENR",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "AleaSoft Energy Forecasting a enregistré cinq nouveaux records de production solaire journalière au cours du week-end d'août. Malgré ces records, le prix moyen hebdomadaire de l'électricité a dépassé 100 €/MWh (115,10 $) sur ces marchés la semaine dernière. AleaSoft Energy Foreca…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-2-1785844800000",
       "title": "TotalEnergies rachète les activités renouvelables terrestres de Shell en Europe",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -2727,7 +3080,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-1-1785825000000",
+      "id": "pv-magazine-france-rss-3-1785825000000",
       "title": "Enedis fait le point sur les raccordements",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -2853,7 +3206,56 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1785843812000",
+      "id": "lenergeek-rss-0-1785852589000",
+      "title": "Italie relance le nucléaire après 40 ans",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/04/italie-relance-nucleaire-40-ans-pari-technologique/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/shutterstock_1700360854.jpg",
+      "date": "2026-08-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "L'Italie relance le nucléaire avec les petits réacteurs modulaires après quarante ans d'arrêt, tout en bloquant 130 gigawatts de projets renouvelables. Cet arbitrage stratégique privilégie la continuité de production face à l'intermittence solaire et éolienne, pour répondre à une…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1785845640000",
+      "title": "Incendies en Europe : 3,1 milliards d’euros et des réacteurs nucléaires à l’arrêt",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/04/incendies-europe-3-1-milliards-euros-reacteurs-nucleaires-arret/",
+      "image": "https://lenergeek.com/wp-content/uploads/2025/01/hollywood-los-angeles-incendie-50-milliards.jpg",
+      "date": "2026-08-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Les incendies de forêt en Europe ont déjà causé 3,1 milliards d'euros de dégâts en deux mois, dépassant la moyenne annuelle de l'UE. Mais la sécheresse qui accompagne ces feux provoque une crise énergétique majeure : le Danube et le Rhin atteignent des niveaux historiquement bas,…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1785843812000",
       "title": "Pétrole russe : l’effondrement du raffinage révèle une impasse logistique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2878,7 +3280,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1785824400000",
+      "id": "lenergeek-rss-3-1785824400000",
       "title": "Le béton sous nos villes pourrait renfermer des tonnes de carbone",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2904,7 +3306,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1785822600000",
+      "id": "lenergeek-rss-4-1785822600000",
       "title": "U1 : le robot chinois qui veut prendre place dans votre salon",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2929,7 +3331,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1785820800000",
+      "id": "lenergeek-rss-5-1785820800000",
       "title": "Un million de data centers dans l’espace : le pari fou d’Elon Musk qui ne verra peut être jamais le jour",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2953,7 +3355,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1785819396000",
+      "id": "lenergeek-rss-6-1785819396000",
       "title": "Carburants : les hausses du pétrole arrivent-elles plus vite à la pompe que les baisses ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2979,7 +3381,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1785816875000",
+      "id": "lenergeek-rss-7-1785816875000",
       "title": "Pétrole : les superprofits d’ExxonMobil et Chevron ne plaisent pas à Trump",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3003,7 +3405,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1785845136000",
+      "id": "le-commerce-du-bois-sitemap-0-1785862636000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3029,7 +3431,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1785845136000",
+      "id": "le-commerce-du-bois-sitemap-1-1785862636000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3055,7 +3457,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1785845136000",
+      "id": "le-commerce-du-bois-sitemap-2-1785862636000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3225,7 +3627,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "urbalyon-rss-0-1785744967000",
+      "id": "urbalyon-rss-1-1785744967000",
       "title": "Les créations d’entreprises dans la métropole de Lyon en 2025",
       "source": "UrbaLyon",
       "sourceId": "urbalyon",
@@ -3451,7 +3853,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1785769544000",
+      "id": "reporterre-rss-10-1785769544000",
       "title": "99 grands feux actifs : les États-Unis en proie aux flammes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3477,7 +3879,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1785766595000",
+      "id": "reporterre-rss-11-1785766595000",
       "title": "Incendie sur un site Seveso en Moselle : le confinement de 30 000 personnes levé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3503,7 +3905,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1785759803000",
+      "id": "reporterre-rss-12-1785759803000",
       "title": "PFAS dans l'eau : la décontamination pourrait coûter jusqu'à 5,7 milliards d'euros",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3529,7 +3931,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1785759346000",
+      "id": "reporterre-rss-13-1785759346000",
       "title": "Les précurseuses de l'écologie : Rosa Luxemburg, icône révolutionnaire et naturaliste passionnée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3554,7 +3956,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1785759321000",
+      "id": "reporterre-rss-14-1785759321000",
       "title": "« C'est une guerre de l'eau » : aux États-Unis, cette ville pourrait devenir la première à manquer d'eau",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3579,7 +3981,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1785757960000",
+      "id": "reporterre-rss-15-1785757960000",
       "title": "Sécheresse : plusieurs réacteurs nucléaires à l'arrêt en France et en Hongrie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3605,7 +4007,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1785733860000",
+      "id": "reporterre-rss-16-1785733860000",
       "title": "Dans l'Allier, la plus grande mine de lithium d'Europe s'attaque à une forêt pleine d'espèces protégées",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3631,7 +4033,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1785733500000",
+      "id": "reporterre-rss-17-1785733500000",
       "title": "« Ils sortent des toilettes, des éviers » : Ibiza débordée par la prolifération des serpents",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3656,7 +4058,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1785733200000",
+      "id": "reporterre-rss-18-1785733200000",
       "title": "En Bretagne, l'agriculture intensive pollue… et l'État la paie pour nettoyer ses algues vertes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3680,7 +4082,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1785729600000",
+      "id": "vert-rss-2-1785729600000",
       "title": "«Le samedi 26 septembre, partout en France, nous serons dans la rue» : près de 1000 citoyens lancent un appel pour un plan d’urgence climatique",
       "source": "Vert",
       "sourceId": "vert",
@@ -3704,7 +4106,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-0-1785773704000",
+      "id": "greenunivers-rss-3-1785773704000",
       "title": "La vente d’Idex bientôt bouclée",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -3730,7 +4132,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-1-1785767833000",
+      "id": "greenunivers-rss-4-1785767833000",
       "title": "Les prix du gaz conduisent à des paris risqués sur l’hiver [Marchés]",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -3756,7 +4158,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-2-1785750741000",
+      "id": "greenunivers-rss-5-1785750741000",
       "title": "TotalEnergies fait affaire avec Shell et KKR dans les renouvelables",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -3782,7 +4184,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-2-1785762000000",
+      "id": "pv-magazine-france-rss-4-1785762000000",
       "title": "La capacité solaire britannique atteint 22,8 GW",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -3808,7 +4210,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-3-1785758400000",
+      "id": "pv-magazine-france-rss-5-1785758400000",
       "title": "Deux nouvelles centrales agrivoltaïques en Côte-d’Or",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -3834,7 +4236,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-4-1785749400000",
+      "id": "pv-magazine-france-rss-6-1785749400000",
       "title": "CVE sécurise 350 millions d’euros pour son développement",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -3859,7 +4261,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-5-1785747600000",
+      "id": "pv-magazine-france-rss-7-1785747600000",
       "title": "Le Maroc accueille la première usine de fabrication de batteries d’Afrique",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -4062,7 +4464,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1785764854000",
+      "id": "lenergeek-rss-8-1785764854000",
       "title": "Énergie solaire : le cap des 3 terawatts a été franchi",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4088,7 +4490,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1785759659000",
+      "id": "lenergeek-rss-9-1785759659000",
       "title": "Electricité : Zendure veut démocratiser la consommation intelligente",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4112,7 +4514,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1785747854000",
+      "id": "lenergeek-rss-10-1785747854000",
       "title": "Pétrole : 188 000 barils supplémentaires malgré des infrastructures dévastées",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4138,7 +4540,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1785738002000",
+      "id": "lenergeek-rss-11-1785738002000",
       "title": "Pourquoi beaucoup de gens calfeutrent leurs fenêtres en été alors qu’un simple geste au ras du sol rafraîchit bien mieux la maison, selon les thermiciens",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4164,7 +4566,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1785736233000",
+      "id": "lenergeek-rss-12-1785736233000",
       "title": "Ce mercredi 12 août, le ciel offrira 3 événements astronomiques en même temps : du jamais vu",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4188,7 +4590,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1785736200000",
+      "id": "lenergeek-rss-13-1785736200000",
       "title": "TotalEnergies sécurise l’approvisionnement énergétique des pompiers face aux incendies 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4213,7 +4615,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1785734400000",
+      "id": "lenergeek-rss-14-1785734400000",
       "title": "J’ai installé un cache-radiateur en bois massif pour l’esthétique : au premier hiver, mon appartement était gelé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4239,7 +4641,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1785726118000",
+      "id": "lenergeek-rss-15-1785726118000",
       "title": "Centrale nucléaire : Cattenom et Chooz révèlent les limites du refroidissement fluvial",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4472,7 +4874,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-13-1785648600000",
+      "id": "reporterre-rss-19-1785648600000",
       "title": "« Ça a été un lieu de souffrance » : la mémoire ressuscitée des harkis forcés de reboiser la Provence",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4498,7 +4900,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1785646800000",
+      "id": "vert-rss-3-1785646800000",
       "title": "Microplastiques, molécules toxiques… Comment limiter la pollution des pneus de voiture",
       "source": "Vert",
       "sourceId": "vert",
@@ -4623,7 +5025,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1785651641000",
+      "id": "lenergeek-rss-16-1785651641000",
       "title": "Votre compteur Linky a 4 fonctions gratuites que personne n’utilise : elle feront baisser votre facture d’électricité",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4647,7 +5049,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1785651641000",
+      "id": "lenergeek-rss-17-1785651641000",
       "title": "Ces hackers nord-coréens financent les missiles de Kim Jong-un depuis leur clavier : la France et plusieurs pays lancent une alerte inédite",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4671,7 +5073,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1785648057000",
+      "id": "lenergeek-rss-18-1785648057000",
       "title": "JetZero décroche jusqu’à 3 milliards de dollars pour construire son avion en forme de raie manta",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4719,7 +5121,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1785561000000",
+      "id": "reporterre-rss-20-1785561000000",
       "title": "Ces animaux qui peignent, dansent et construisent des cathédrales de sable",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4744,7 +5146,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1785560700000",
+      "id": "reporterre-rss-21-1785560700000",
       "title": "Plants grillés, pommes de terre minuscules, choux replantés trois fois : l'été qui épuise les maraîchers",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4770,7 +5172,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1785560400000",
+      "id": "reporterre-rss-22-1785560400000",
       "title": "« Ce qu'on fait subir au fleuve, on se le fait subir » : une nuit de bivouac sur la Loire avec Étienne Davodeau",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4796,7 +5198,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1785560400000",
+      "id": "vert-rss-4-1785560400000",
       "title": "Cancers, handicaps… En Afrique du Sud, l’enfer des habitants de Snake Park face à la pollution des anciennes mines d’or",
       "source": "Vert",
       "sourceId": "vert",
@@ -4846,7 +5248,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1785563423000",
+      "id": "lenergeek-rss-19-1785563423000",
       "title": "Une mère et sa fille bâtissent une maison de sept pièces avec 8 000 bouteilles en verre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4871,7 +5273,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1785561657000",
+      "id": "lenergeek-rss-20-1785561657000",
       "title": "Anthropic admet que ses propres IA ont infiltré des systèmes externes sans autorisation : « publier ce package serait une attaque réelle »",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5573,7 +5975,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1785505034000",
+      "id": "reporterre-rss-23-1785505034000",
       "title": "Incendie en Gironde : des obus de la Seconde Guerre mondiale ont explosé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5598,7 +6000,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1785502856000",
+      "id": "reporterre-rss-24-1785502856000",
       "title": "Canicule : « Le réchauffement climatique a pris corps, beaucoup de personnes ont vécu cette bascule dans leur chair »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5624,7 +6026,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1785502087000",
+      "id": "reporterre-rss-25-1785502087000",
       "title": "« On a signé pour aller au charbon, pas à l'échafaud » : les pompiers asphyxiés par les fumées des incendies",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5650,7 +6052,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1785502055000",
+      "id": "reporterre-rss-26-1785502055000",
       "title": "« Dans notre malheur, on aura fait de belles rencontres » : à Bordeaux, avec les derniers évacués de l'incendie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5676,7 +6078,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1785500495000",
+      "id": "reporterre-rss-27-1785500495000",
       "title": "En Bulgarie, des ossements de mammouth découverts dans le lit asséché du Danube",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5702,7 +6104,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1785498130000",
+      "id": "reporterre-rss-28-1785498130000",
       "title": "Incendies : 17 % des fumeurs jettent leur mégot par la fenêtre de leur voiture",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5728,7 +6130,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1785497973000",
+      "id": "reporterre-rss-29-1785497973000",
       "title": "Le changement climatique a bien favorisé les feux de forêt",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5754,7 +6156,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1785474600000",
+      "id": "reporterre-rss-30-1785474600000",
       "title": "« Le pin est une véritable boîte d'allumettes »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5780,7 +6182,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1785474300000",
+      "id": "reporterre-rss-31-1785474300000",
       "title": "Incendies : faut-il interdire la chasse pour laisser du répit aux animaux sauvages ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5806,7 +6208,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1785474000000",
+      "id": "reporterre-rss-32-1785474000000",
       "title": "La France sous les flammes : la faillite criminelle du néolibéralisme",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5830,7 +6232,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1785511897000",
+      "id": "vert-rss-5-1785511897000",
       "title": "«Ça m’a sauvé» : cet agriculteur des Pyrénées-Orientales avait tout perdu dans les flammes, une cagnotte solidaire lui redonne espoir",
       "source": "Vert",
       "sourceId": "vert",
@@ -5855,7 +6257,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1785470400000",
+      "id": "vert-rss-6-1785470400000",
       "title": "Limiter l’accès, redessiner le tracé… En Corse, des pistes pour protéger le mythique GR20 du surtourisme et du changement climatique",
       "source": "Vert",
       "sourceId": "vert",
@@ -5880,7 +6282,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-3-1785509981000",
+      "id": "greenunivers-rss-6-1785509981000",
       "title": "Semestriels : l’acquisition britannique pèse sur la dette d’Engie",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5905,7 +6307,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-4-1785505811000",
+      "id": "greenunivers-rss-7-1785505811000",
       "title": "CVE souscrit une dette de 350 M€ auprès de Macquarie AM",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5931,7 +6333,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-5-1785505345000",
+      "id": "greenunivers-rss-8-1785505345000",
       "title": "Fourniture : comment fonctionne le contrat 24/7 d’Engie avec Legrand",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5955,7 +6357,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-6-1785493223000",
+      "id": "greenunivers-rss-9-1785493223000",
       "title": "Berlin veut réduire les « privilèges » des renouvelables",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5981,59 +6383,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-7-1785490800000",
-      "title": "Les documents de la semaine",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/les-documents-de-la-semaine-381215/",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-8-1785483000000",
-      "title": "L’agenda de la transition énergétique",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/lagenda-de-la-transition-energetique-280-424554/",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Rénovation",
-        "Énergie"
-      ],
-      "summary": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. A…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-6-1785488400000",
+      "id": "pv-magazine-france-rss-8-1785488400000",
       "title": "Alfen et CATL vont déployer 5 GWh de batteries sodium-ion en Europe",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -6057,7 +6407,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-7-1785484800000",
+      "id": "pv-magazine-france-rss-9-1785484800000",
       "title": "Le marché solaire chinois devrait connaître sa première contraction annuelle depuis 2019",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -6079,32 +6429,6 @@
         "Eau"
       ],
       "summary": "L'Association chinoise de l'industrie photovoltaïque estime que les installations solaires en Chine reviennent progressivement à des niveaux plus soutenables après une année 2025 exceptionnelle. Elle prévoit toutefois une baisse du marché chinois en 2026, ainsi qu'un recul des no…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-8-1785479400000",
-      "title": "Les États-Unis interdisent les onduleurs solaires produits à l’étranger",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/07/31/les-etats-unis-interdisent-les-onduleurs-solaires-produits-a-letranger/",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "Les États-Unis durcissent les règles applicables aux onduleurs photovoltaïques importés. La Commission fédérale des communications (FCC) bloque désormais l'homologation de nouveaux modèles fabriqués à l'étranger, invoquant des risques de cybersécurité susceptibles d'affecter les …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6210,7 +6534,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "lenergeek-rss-19-1785484033000",
+      "id": "lenergeek-rss-21-1785484033000",
       "title": "Singapour : l’IA réduit de 20% les émissions du trafic aérien dès 2030",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6235,7 +6559,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1785478834000",
+      "id": "lenergeek-rss-22-1785478834000",
       "title": "Le bloc clim de mon voisin vrombissait toutes les nuits : quand j’ai lu ce que dit vraiment la loi, j’ai compris qu’il n’avait pas tous les droits",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6261,7 +6585,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1785477041000",
+      "id": "lenergeek-rss-23-1785477041000",
       "title": "La Chine dévoile le CR450 à 400 km/h : les ingénieurs français admettent que le TGV n’est plus le train le plus rapide du monde",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6282,54 +6606,6 @@
         "Réglementation"
       ],
       "summary": "453 km/h en essai, 20% d'énergie économisée, freinage amélioré : la Chine s'apprête à bouleverser le rail mondial avec le CR450. Une question demeure sans réponse officielle sur l'usure des voies. L’article La Chine dévoile le CR450 à 400 km/h : les ingénieurs français admettent …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1785475201000",
-      "title": "Pourquoi les millions de sapins plantés dans les Alpes italiennes il y a 90 ans ont détruit ce qu’ils devaient protéger, selon les biologistes",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/07/31/pourquoi-les-millions-de-sapins-plantes-dans-les-alpes-italiennes-il-y-a-90-ans-ont-detruit-ce-quils-devaient-proteger-selon-les-biologistes/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/07/les-alpes-italiennes-replantees-par-mussolini-ont-perdu-la-moitie-de-leur-biodiversite.webp",
-      "date": "2026-07-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "90 ans après Mussolini, ses forêts d'épicéas cachent un lourd secret : 7 espèces végétales seulement, contre 37 dans les prairies alpines. Une étude révèle pourquoi ce modèle forestier, encore utilisé aujourd'hui, appauvrit durablement les sols. L’article Pourquoi les millions de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1785471678000",
-      "title": "Catastrophes climatiques : Munich Re s’inquiète pour 2026",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/07/31/assurance-catastrophes-climatiques-munich-re-s-inquiete-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2025/01/changement20climatique-copernicus-tempC3A9ratures20record.jpeg",
-      "date": "2026-07-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Munich Re alerte sur un second semestre 2026 à haut risque catastrophique. Malgré 44 milliards de dollars de pertes assurées au premier semestre, le réassureur anticipe une accélération brutale avec l'arrivée d'un Super El Niño record combiné au réchauffement climatique. Un défic…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6988,7 +7264,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1785423600000",
+      "id": "reporterre-rss-33-1785423600000",
       "title": "Le risque d'incendie a doublé en 40 ans en Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7013,7 +7289,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1785421325000",
+      "id": "reporterre-rss-34-1785421325000",
       "title": "En infographies : 10 ans de sous-investissement dans la lutte contre les incendies",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7039,7 +7315,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1785421194000",
+      "id": "reporterre-rss-35-1785421194000",
       "title": "Pannes, aliments gâchés : quand les canicules mettent nos frigos hors service",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7065,7 +7341,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1785417905000",
+      "id": "reporterre-rss-36-1785417905000",
       "title": "Canicule : la LPO appelle à donner de l'eau aux animaux",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7091,7 +7367,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1785415860000",
+      "id": "reporterre-rss-37-1785415860000",
       "title": "« Savourons cette victoire » : la serre géante Tropicalia ne verra pas le jour dans le Pas-de-Calais",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7117,7 +7393,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1785388200000",
+      "id": "reporterre-rss-38-1785388200000",
       "title": "Plaque tournante du chlordécone, une ville de l'Aude au cœur d'une enquête pour son héritage toxique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7142,7 +7418,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1785387900000",
+      "id": "reporterre-rss-39-1785387900000",
       "title": "« C'est un carnage » : ces nouveaux maires d'extrême droite s'acharnent contre des projets écolos",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7168,7 +7444,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1785387600000",
+      "id": "reporterre-rss-40-1785387600000",
       "title": "« Des chats sont bloqués depuis six jours » : en Gironde, des bénévoles au secours des animaux laissés sur place",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7193,7 +7469,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1785421800000",
+      "id": "vert-rss-7-1785421800000",
       "title": "«On joue avec notre santé» : ce pompier mobilisé en Gironde dénonce le manque de moyens face aux incendies",
       "source": "Vert",
       "sourceId": "vert",
@@ -7219,7 +7495,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1785384000000",
+      "id": "vert-rss-8-1785384000000",
       "title": "Eaux usées mal traitées : votre commune est-elle concernée ? La carte interactive des stations d’épuration non conformes",
       "source": "Vert",
       "sourceId": "vert",
@@ -7241,57 +7517,6 @@
         "Eau"
       ],
       "summary": "Plus de 5 000 stations d’épuration françaises, soit un peu plus d’une sur cinq, ne respectent pas les normes européennes de traitement des eaux usées, comme le révèle Vert. Nous les avons identifiées et cartographiées alors que la Commission européenne vient, une nouvelle fois, d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-9-1785425713000",
-      "title": "Le nouvel état-major de Coriance",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/07/le-nouvel-etat-major-de-coriance-431047/",
-      "image": null,
-      "date": "2026-07-30",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Eau"
-      ],
-      "summary": "Un nouveau visage à la tête de Coriance. Après 22 ans passés à diriger le spécialiste des réseaux de chaleur et de froid, Yves Lederer a cédé sa place en mars dernier à Fabrice Lepoutre. L’ancien patron, pour accompagner son successeur, a pris la L’article Le nouvel état-major de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-9-1785416400000",
-      "title": "Photovoltaïque : le seuil d’évaluation environnementale systématique relevé de 1 à 3 MWc",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/07/30/photovoltaique-le-seuil-devaluation-environnementale-systematique-releve-de-1-a-3-mwc/",
-      "image": null,
-      "date": "2026-07-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "RE2020",
-        "Énergie"
-      ],
-      "summary": "Depuis le 28 juillet 2026, les centrales photovoltaïques au sol de moins de 3 MWc ne relèvent plus automatiquement de l'évaluation environnementale systématique. Elles sont désormais, pour la plupart, soumises à un examen au cas par cas, sauf exceptions prévues par les textes. De…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7944,7 +8169,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1785362460000",
+      "id": "reporterre-rss-41-1785362460000",
       "title": "Atteint le 30 juillet, le jour du dépassement des limites planétaires n'est jamais arrivé si tôt",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7970,7 +8195,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1785339197000",
+      "id": "reporterre-rss-42-1785339197000",
       "title": "Précieux allié contre les incendies, le castor est de retour dans les rivières françaises",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7996,7 +8221,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1785329358000",
+      "id": "reporterre-rss-43-1785329358000",
       "title": "« Que du macadam, pas d'arbres » : l'été infernal des gens du voyage près de Lille",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8022,7 +8247,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1785317351000",
+      "id": "reporterre-rss-44-1785317351000",
       "title": "Canicule à Paris : sans abri le jour, sans place la nuit, des familles campent devant le Samusocial",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8048,7 +8273,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1785310475000",
+      "id": "reporterre-rss-45-1785310475000",
       "title": "Incendie en Gironde : 5 millions de masques FFP2 livrés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8073,7 +8298,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1785301500000",
+      "id": "reporterre-rss-46-1785301500000",
       "title": "Réforme du marché carbone européen : encore du temps de gagné pour polluer",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8099,7 +8324,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1785301200000",
+      "id": "reporterre-rss-47-1785301200000",
       "title": "Incendies à Fontainebleau : après les flammes, quel avenir pour cette cathédrale du vivant ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8125,7 +8350,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1785339175000",
+      "id": "vert-rss-9-1785339175000",
       "title": "«C’est une situation diabolique» : le plus grand incendie de l’histoire récente de l’Espagne continue de brûler près de Madrid",
       "source": "Vert",
       "sourceId": "vert",
@@ -8146,32 +8371,6 @@
         "Réglementation"
       ],
       "summary": "Ce mégafeu a calciné plus de 77 000 hectares dans le centre du pays depuis mercredi dernier, forçant l’évacuation de plus de 90 000 personnes. Le brasier, à quelques dizaines de kilomètres de la capitale espagnole, n’avance plus depuis mardi. Ce mégafeu a calciné plus de 77 000 h…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "vert-rss-9-1785319451000",
-      "title": "«Tout ça a au moins créé du lien» : à Bordeaux, le tiers-lieu Darwin accueille les sinistrés des mégafeux en Gironde",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/climat/tout-ca-a-au-moins-cree-du-lien-a-bordeaux-le-tiers-lieu-darwin-accueille-les-sinistres-des-megafeux-de-gironde/",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Face aux incendies, Darwin, tiers-lieu emblématique de Bordeaux, a une nouvelle fois répondu présent pour accompagner les évacué·es d’une dizaine de communes, parfois effrayé·es par les conditions d’accueil au centre d’hébergement géant du parc des expositions, à quelques kilomèt…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8796,7 +8995,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1785252783000",
+      "id": "reporterre-rss-48-1785252783000",
       "title": "Transmission des fermes : la région Paca coupe 100 000 euros de subvention",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8822,7 +9021,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1785251713000",
+      "id": "reporterre-rss-49-1785251713000",
       "title": "Ni poules, ni coquilles : le marché des œufs végétaux tente d'éclore",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8848,7 +9047,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1785251695000",
+      "id": "reporterre-rss-50-1785251695000",
       "title": "Réintroduction des pesticides interdits : est-ce vraiment « la science » qui décidera ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8873,7 +9072,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1785247706000",
+      "id": "reporterre-rss-51-1785247706000",
       "title": "Face à la sécheresse, l'État accusé de tergiverser",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8899,7 +9098,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1785245209000",
+      "id": "reporterre-rss-52-1785245209000",
       "title": "Arbres replantés : on est très loin du milliard promis par Emmanuel Macron",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8925,7 +9124,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1785228210000",
+      "id": "reporterre-rss-53-1785228210000",
       "title": "Incendie en Gironde : « Importante reprise de feu » à Lège-Cap-Ferret",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8950,7 +9149,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1785226472000",
+      "id": "reporterre-rss-54-1785226472000",
       "title": "Le tour de France interrompu de Marine Tondelier, rattrapé par les incendies",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8975,7 +9174,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1785224020000",
+      "id": "reporterre-rss-55-1785224020000",
       "title": "Toux, crises d'asthme, irritations de la peau : quel sont les risques des fumées des incendies ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9001,7 +9200,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1785215400000",
+      "id": "reporterre-rss-56-1785215400000",
       "title": "Vagues artificielles : « Sans la mer, le surf n'est plus qu'image et performance »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9516,7 +9715,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1785189660000",
+      "id": "reporterre-rss-57-1785189660000",
       "title": "Les géants pétroliers ont doublé leurs profits depuis le début de la guerre en Iran",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9541,7 +9740,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1785168373000",
+      "id": "reporterre-rss-58-1785168373000",
       "title": "Face aux incendies, les Écologistes réclament un « État-providence climatique »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9565,7 +9764,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1785164417000",
+      "id": "reporterre-rss-59-1785164417000",
       "title": "Des pointes à 40 °C : une 4e vague de fortes chaleurs débute mardi",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9586,158 +9785,6 @@
         "Confort d’été"
       ],
       "summary": "Mardi 28 juillet marquera le début d'une nouvelle vague nationale de très fortes chaleurs. La quatrième, déjà, qui écrasera la France en 2026. Entre 32 °C et 35 °C sont attendus sur une grande partie du pays, voire 36 °C à 37 °C dans le Sud-Ouest, selon le communiqué publié le 27…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-54-1785159440000",
-      "title": "Incendies en Espagne : le Premier ministre Pedro Sánchez appelle à un « pacte d'État » sur l'urgence climatique",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Incendies-en-Espagne-le-Premier-ministre-Pedro-Sanchez-appelle-a-un-pacte-d-Etat-sur-l",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH465/capture_d_ecran_du_2026-07-27_15-22-57-c52cb.png?1785159455",
-      "date": "2026-07-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Confort d’été"
-      ],
-      "summary": "Un « grand pacte d'État » sur l'urgence climatique : c'est ce qu'a proposé le Premier ministre espagnol de gauche, Pedro Sánchez, à l'ensemble des acteurs politiques, et notamment au principal parti de l'opposition, le Parti populaire (PP) du libéral—conservateur Alberto Núñez Fe…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-55-1785156313000",
-      "title": "Incendie en Gironde : une journée plus calme avant le retour de la canicule",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/EN-DIRECT-Incendie-en-Gironde-le-feu-est-stabilise-mais-pas-fixe",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/8453-reporterre-incendies-2026-313-_c_timotheebuisson-b02c6.jpg?1785156315",
-      "date": "2026-07-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Confort d’été"
-      ],
-      "summary": "La progression de l'incendie a ralenti en Gironde, lundi 27 juillet, mais les pompiers craignent le retour de la canicule dans les jours à venir. Le mégafeu qui frappe la Gironde depuis le 22 juillet a dévoré 42 000 hectares de forêt. Les conditions météorologiques ont permis une…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-56-1785154863000",
-      "title": "L'incendie de Gironde a produit son propre « orage de feu »",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/L-incendie-de-Gironde-a-produit-son-propre-orage-de-feu",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pyrocumulus_cloud_in_the_angeles_national_forest_california-1b335.jpg?1785154867",
-      "date": "2026-07-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat"
-      ],
-      "summary": "L'incendie en Gironde est d'une intensité telle qu'il a généré un pyrocumulonimbus, une sorte « d'orage de feu », qui génère son propre vent et dont la charge électrique peut produire des éclairs. C'est l'une des raisons pour lesquelles ce feu est si violent, imprévisible et diff…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-57-1785154755000",
-      "title": "Ces canaux provençaux vieux de cinq siècles rechargent les nappes et font vivre les paysans",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Ces-canaux-provencaux-vieux-de-cinq-siecles-rechargent-les-nappes-et-font-vivre-les",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/canaux_irrigation_c_estellepereira-12-0357f.jpg?1785154758",
-      "date": "2026-07-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Dans les Alpes-de-Haute-Provence, des réseaux de canaux gravitaires participent au maintien de l'humidité des sols et à la recharge des nappes phréatiques. Leur modèle de gestion, fondé sur la contribution obligatoire des propriétaires, est aujourd'hui fragilisé. Ce reportage a é…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-58-1785154728000",
-      "title": "Incendies : le cercle vicieux du carbone libéré par les flammes",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Incendies-en-brulant-les-forets-francaises-alimentent-le-dereglement-climatique-qui-les",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/8453-reporterre-incendies-2026-144-_c_timotheebuisson-d5e2e.jpg?1785154734",
-      "date": "2026-07-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Facilités par le réchauffement climatique, les feux de forêt contribuent eux-mêmes à ce phénomène. Au CO2 libéré par les flammes, s'ajoute celui qui ne sera pas absorbé par ces puits de carbone ainsi détruits. En Gironde, dans les Côtes-d'Armor, la Drôme, le Var, les Pyrénées-Ori…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1785136856000",
-      "title": "12 jours de tempête au Chili : les premiers signes d'un « super Niño » dévastateur",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/12-jours-de-tempete-au-Chili-les-premiers-signes-d-un-super-Nino-devastateur",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/elninhonestpastreschillcetteannee-8c07c.jpg?1785136858",
-      "date": "2026-07-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "Pluies et vents violents, crues, inondations et glissements de terrain balaient le Chili depuis mi-juillet. Les premiers dégâts d'un phénomène « El Niño » qui s'annonce exceptionnel et pourrait rendre les prochains mois cataclysmiques. Lire la suite - Info / Climat , Monde , Inon…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10767,76 +10814,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "atmo-france-sitemap-520-1784805359000",
-      "title": "qualite de lair les outre mer renforcent la fiabilite des mesures",
-      "source": "Atmo France",
-      "sourceId": "atmo-france",
-      "sourceType": "Réseau observatoires air",
-      "region": "National",
-      "url": "https://www.atmo-france.org/actualite/qualite-de-lair-les-outre-mer-renforcent-la-fiabilite-des-mesures",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Air",
-        "Pollution",
-        "Santé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "atmo-france-sitemap-529-1784796659000",
-      "title": "feux de vegetation et qualite de lair ce que confirme lanses",
-      "source": "Atmo France",
-      "sourceId": "atmo-france",
-      "sourceType": "Réseau observatoires air",
-      "region": "National",
-      "url": "https://www.atmo-france.org/actualite/feux-de-vegetation-et-qualite-de-lair-ce-que-confirme-lanses",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Air",
-        "Pollution",
-        "Santé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "atmo-france-sitemap-530-1784813506000",
-      "title": "air pays de la loire contribue la recherche sur lair et la sante",
-      "source": "Atmo France",
-      "sourceId": "atmo-france",
-      "sourceType": "Réseau observatoires air",
-      "region": "National",
-      "url": "https://www.atmo-france.org/actualite/air-pays-de-la-loire-contribue-la-recherche-sur-lair-et-la-sante",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Air",
-        "Pollution",
-        "Santé",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "fncaue-rss-0-1784792568000",
       "title": "La FNCAUE mobilisée pour le déploiement du « Parcours Projet Habitat Rural »",
       "source": "FNCAUE",
@@ -11026,6 +11003,79 @@
         "Environnement"
       ],
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "atmo-auvergne-rhone-alpes-sitemap-520-1784805359000",
+      "title": "qualite de lair les outre mer renforcent la fiabilite des mesures",
+      "source": "Atmo — Auvergne-Rhône-Alpes",
+      "sourceId": "atmo-auvergne-rhone-alpes",
+      "sourceType": "Observatoire air régional",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.atmo-france.org/actualite/qualite-de-lair-les-outre-mer-renforcent-la-fiabilite-des-mesures",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Air",
+        "Pollution",
+        "Santé",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Atmo — Auvergne-Rhône-Alpes. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "atmo-auvergne-rhone-alpes-sitemap-529-1784796659000",
+      "title": "feux de vegetation et qualite de lair ce que confirme lanses",
+      "source": "Atmo — Auvergne-Rhône-Alpes",
+      "sourceId": "atmo-auvergne-rhone-alpes",
+      "sourceType": "Observatoire air régional",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.atmo-france.org/actualite/feux-de-vegetation-et-qualite-de-lair-ce-que-confirme-lanses",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Air",
+        "Pollution",
+        "Santé",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Atmo — Auvergne-Rhône-Alpes. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "atmo-auvergne-rhone-alpes-sitemap-530-1784813506000",
+      "title": "air pays de la loire contribue la recherche sur lair et la sante",
+      "source": "Atmo — Auvergne-Rhône-Alpes",
+      "sourceId": "atmo-auvergne-rhone-alpes",
+      "sourceType": "Observatoire air régional",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.atmo-france.org/actualite/air-pays-de-la-loire-contribue-la-recherche-sur-lair-et-la-sante",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Air",
+        "Pollution",
+        "Santé",
+        "Régional",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Atmo — Auvergne-Rhône-Alpes. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -11467,7 +11517,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "urbalyon-rss-1-1784711730000",
+      "id": "urbalyon-rss-2-1784711730000",
       "title": "Retour sur l'AG d'installation de l'Agence d'urbanisme de Lyon",
       "source": "UrbaLyon",
       "sourceId": "urbalyon",
@@ -11491,7 +11541,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "urbalyon-rss-2-1784706655000",
+      "id": "urbalyon-rss-3-1784706655000",
       "title": "Echanges professionnels « La ville du déjà-là : c'est chaud bouillant » - Entretien(s) avec Clément Gaillard",
       "source": "UrbaLyon",
       "sourceId": "urbalyon",
@@ -11566,7 +11616,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "envirobat-grand-est-lqe-rss-0-1784715602000",
+      "id": "envirobat-grand-est-lqe-rss-1-1784715602000",
       "title": "Vous avez chaud ? Profitez des congés pour vous mettre à jour sur un sujet d’actualité : le confort d’été !",
       "source": "Envirobat Grand Est / LQE",
       "sourceId": "envirobat-grand-est-lqe",
@@ -11590,7 +11640,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-grand-est-lqe-rss-1-1784704304000",
+      "id": "envirobat-grand-est-lqe-rss-2-1784704304000",
       "title": "Replay – Bâtiment circulaire : de la stratégie à la pratique (07/05/2026)",
       "source": "Envirobat Grand Est / LQE",
       "sourceId": "envirobat-grand-est-lqe",
@@ -12311,7 +12361,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-grand-est-lqe-rss-2-1784641935000",
+      "id": "envirobat-grand-est-lqe-rss-3-1784641935000",
       "title": "Interview – Aménagement d’un comble en open space à Mulhouse (68)",
       "source": "Envirobat Grand Est / LQE",
       "sourceId": "envirobat-grand-est-lqe",
@@ -12336,7 +12386,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-grand-est-lqe-rss-3-1784638080000",
+      "id": "envirobat-grand-est-lqe-rss-4-1784638080000",
       "title": "Replay – Table-ronde du forum réemploi : 1 an du Pacte",
       "source": "Envirobat Grand Est / LQE",
       "sourceId": "envirobat-grand-est-lqe",
@@ -12944,7 +12994,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "urbalyon-rss-3-1784559668000",
+      "id": "urbalyon-rss-4-1784559668000",
       "title": "Retour sur l'AG d'installation de l'Agence d'urbanisme de Lyon",
       "source": "UrbaLyon",
       "sourceId": "urbalyon",
@@ -12968,7 +13018,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "urbalyon-rss-4-1784549985000",
+      "id": "urbalyon-rss-5-1784549985000",
       "title": "Les Chiffres clés 2026 de l’observatoire de la mobilité",
       "source": "UrbaLyon",
       "sourceId": "urbalyon",
@@ -14131,53 +14181,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "atmo-france-sitemap-527-1784191387000",
-      "title": "qualite de lair lever les freins aux investissements publics",
-      "source": "Atmo France",
-      "sourceId": "atmo-france",
-      "sourceType": "Réseau observatoires air",
-      "region": "National",
-      "url": "https://www.atmo-france.org/actualite/qualite-de-lair-lever-les-freins-aux-investissements-publics",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Air",
-        "Pollution",
-        "Santé",
-        "Économie du bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "atmo-france-sitemap-528-1784192312000",
-      "title": "zfe de nouvelles donnees confirment leur interet pour la sante",
-      "source": "Atmo France",
-      "sourceId": "atmo-france",
-      "sourceType": "Réseau observatoires air",
-      "region": "National",
-      "url": "https://www.atmo-france.org/actualite/zfe-de-nouvelles-donnees-confirment-leur-interet-pour-la-sante",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Air",
-        "Pollution",
-        "Santé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "arec-occitanie-rss-0-1784210269000",
       "title": "L'animation régionale Géothermie Occitanie animera un atelier à BATIFRAIS 2026",
       "source": "AREC Occitanie",
@@ -14461,6 +14464,55 @@
         "Environnement"
       ],
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "atmo-auvergne-rhone-alpes-sitemap-527-1784191387000",
+      "title": "qualite de lair lever les freins aux investissements publics",
+      "source": "Atmo — Auvergne-Rhône-Alpes",
+      "sourceId": "atmo-auvergne-rhone-alpes",
+      "sourceType": "Observatoire air régional",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.atmo-france.org/actualite/qualite-de-lair-lever-les-freins-aux-investissements-publics",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Air",
+        "Pollution",
+        "Santé",
+        "Régional",
+        "Économie du bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Atmo — Auvergne-Rhône-Alpes. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "atmo-auvergne-rhone-alpes-sitemap-528-1784192312000",
+      "title": "zfe de nouvelles donnees confirment leur interet pour la sante",
+      "source": "Atmo — Auvergne-Rhône-Alpes",
+      "sourceId": "atmo-auvergne-rhone-alpes",
+      "sourceType": "Observatoire air régional",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.atmo-france.org/actualite/zfe-de-nouvelles-donnees-confirment-leur-interet-pour-la-sante",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Air",
+        "Pollution",
+        "Santé",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Atmo — Auvergne-Rhône-Alpes. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -14857,7 +14909,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "urbalyon-rss-5-1784125293000",
+      "id": "urbalyon-rss-6-1784125293000",
       "title": "Coopérations inter-territoires pour l'agriculture et l'alimentation",
       "source": "UrbaLyon",
       "sourceId": "urbalyon",
@@ -15621,7 +15673,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "urbalyon-rss-6-1783730920000",
+      "id": "urbalyon-rss-7-1783730920000",
       "title": "WEB TV Les rencontres ALIM AGRI inter Territoires : rejoignez-nous !",
       "source": "UrbaLyon",
       "sourceId": "urbalyon",
@@ -16335,29 +16387,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "atmo-france-sitemap-526-1783576800000",
-      "title": "reduction des polluants lue avance vers ses objectifs 2030",
-      "source": "Atmo France",
-      "sourceId": "atmo-france",
-      "sourceType": "Réseau observatoires air",
-      "region": "National",
-      "url": "https://www.atmo-france.org/actualite/reduction-des-polluants-lue-avance-vers-ses-objectifs-2030",
-      "image": null,
-      "date": "2026-07-09",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Air",
-        "Pollution",
-        "Santé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "ordre-des-architectes-cnoa-rss-2-1783602352000",
       "title": "Réunion annuelle 2026 : rendez-vous le 9 octobre à Rouen",
       "source": "Ordre des Architectes — CNOA",
@@ -16620,6 +16649,30 @@
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "atmo-auvergne-rhone-alpes-sitemap-526-1783576800000",
+      "title": "reduction des polluants lue avance vers ses objectifs 2030",
+      "source": "Atmo — Auvergne-Rhône-Alpes",
+      "sourceId": "atmo-auvergne-rhone-alpes",
+      "sourceType": "Observatoire air régional",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.atmo-france.org/actualite/reduction-des-polluants-lue-avance-vers-ses-objectifs-2030",
+      "image": null,
+      "date": "2026-07-09",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Air",
+        "Pollution",
+        "Santé",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Atmo — Auvergne-Rhône-Alpes. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "revolution-energetique-rss-37-1783574660000",
       "title": "Déchets radioactifs : ces fûts immergés ne freinent pas la vie sous-marine",
       "source": "Révolution Énergétique",
@@ -16862,98 +16915,6 @@
         "Bâtiment"
       ],
       "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "atmo-france-sitemap-32-1783498288000",
-      "title": "grand public",
-      "source": "Atmo France",
-      "sourceId": "atmo-france",
-      "sourceType": "Réseau observatoires air",
-      "region": "National",
-      "url": "https://www.atmo-france.org/article/grand-public",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Air",
-        "Pollution",
-        "Santé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "atmo-france-sitemap-523-1783498630000",
-      "title": "air go est desormais disponible en normandie",
-      "source": "Atmo France",
-      "sourceId": "atmo-france",
-      "sourceType": "Réseau observatoires air",
-      "region": "National",
-      "url": "https://www.atmo-france.org/actualite/air-go-est-desormais-disponible-en-normandie",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Air",
-        "Pollution",
-        "Santé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "atmo-france-sitemap-524-1783502504000",
-      "title": "emissions de freinage airparif lance une campagne de mesures inedite",
-      "source": "Atmo France",
-      "sourceId": "atmo-france",
-      "sourceType": "Réseau observatoires air",
-      "region": "National",
-      "url": "https://www.atmo-france.org/actualite/emissions-de-freinage-airparif-lance-une-campagne-de-mesures-inedite",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Air",
-        "Pollution",
-        "Santé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "atmo-france-sitemap-525-1783508231000",
-      "title": "qualite de lair que dit le bilan environnemental de la france 2025",
-      "source": "Atmo France",
-      "sourceId": "atmo-france",
-      "sourceType": "Réseau observatoires air",
-      "region": "National",
-      "url": "https://www.atmo-france.org/actualite/qualite-de-lair-que-dit-le-bilan-environnemental-de-la-france-2025",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Air",
-        "Pollution",
-        "Santé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -17333,6 +17294,102 @@
       "summary": "The post Cahier Scalen 70: Observatoire de l’immobilier d’entreprise du bassin nancéien appeared first on Agence Scalen. The post Cahier Scalen 70: Observatoire de l&rsquo;immobilier d&rsquo;entreprise du bassin nancéien appeared first on Agence Scalen . Cahier Scalen 70: Observa…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "atmo-auvergne-rhone-alpes-sitemap-32-1783498288000",
+      "title": "grand public",
+      "source": "Atmo — Auvergne-Rhône-Alpes",
+      "sourceId": "atmo-auvergne-rhone-alpes",
+      "sourceType": "Observatoire air régional",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.atmo-france.org/article/grand-public",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Air",
+        "Pollution",
+        "Santé",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Atmo — Auvergne-Rhône-Alpes. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "atmo-auvergne-rhone-alpes-sitemap-523-1783498630000",
+      "title": "air go est desormais disponible en normandie",
+      "source": "Atmo — Auvergne-Rhône-Alpes",
+      "sourceId": "atmo-auvergne-rhone-alpes",
+      "sourceType": "Observatoire air régional",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.atmo-france.org/actualite/air-go-est-desormais-disponible-en-normandie",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Air",
+        "Pollution",
+        "Santé",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Atmo — Auvergne-Rhône-Alpes. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "atmo-auvergne-rhone-alpes-sitemap-524-1783502504000",
+      "title": "emissions de freinage airparif lance une campagne de mesures inedite",
+      "source": "Atmo — Auvergne-Rhône-Alpes",
+      "sourceId": "atmo-auvergne-rhone-alpes",
+      "sourceType": "Observatoire air régional",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.atmo-france.org/actualite/emissions-de-freinage-airparif-lance-une-campagne-de-mesures-inedite",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Air",
+        "Pollution",
+        "Santé",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Atmo — Auvergne-Rhône-Alpes. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "atmo-auvergne-rhone-alpes-sitemap-525-1783508231000",
+      "title": "qualite de lair que dit le bilan environnemental de la france 2025",
+      "source": "Atmo — Auvergne-Rhône-Alpes",
+      "sourceId": "atmo-auvergne-rhone-alpes",
+      "sourceType": "Observatoire air régional",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.atmo-france.org/actualite/qualite-de-lair-que-dit-le-bilan-environnemental-de-la-france-2025",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Air",
+        "Pollution",
+        "Santé",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Atmo — Auvergne-Rhône-Alpes. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "revolution-energetique-rss-38-1783489772000",
@@ -17891,52 +17948,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "atmo-france-sitemap-51-1783332469000",
-      "title": "contributions notes articles",
-      "source": "Atmo France",
-      "sourceId": "atmo-france",
-      "sourceType": "Réseau observatoires air",
-      "region": "National",
-      "url": "https://www.atmo-france.org/article/contributions-notes-articles",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Air",
-        "Pollution",
-        "Santé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "atmo-france-sitemap-522-1783333135000",
-      "title": "incendies de vegetation un etat des connaissances sur la qualite de lair",
-      "source": "Atmo France",
-      "sourceId": "atmo-france",
-      "sourceType": "Réseau observatoires air",
-      "region": "National",
-      "url": "https://www.atmo-france.org/actualite/incendies-de-vegetation-un-etat-des-connaissances-sur-la-qualite-de-lair",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Air",
-        "Pollution",
-        "Santé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "cequami-rss-0-1783353692000",
       "title": "Florent Merlaud, Directeur de C3P : « NF Habitat nous pousse à progresser en permanence »",
       "source": "Céquami",
@@ -18126,6 +18137,54 @@
       "summary": "The post Rapport d’activités 2025 appeared first on Agence Scalen. The post Rapport d&rsquo;activités 2025 appeared first on Agence Scalen . Rapport d’activités 2025",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "atmo-auvergne-rhone-alpes-sitemap-51-1783332469000",
+      "title": "contributions notes articles",
+      "source": "Atmo — Auvergne-Rhône-Alpes",
+      "sourceId": "atmo-auvergne-rhone-alpes",
+      "sourceType": "Observatoire air régional",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.atmo-france.org/article/contributions-notes-articles",
+      "image": null,
+      "date": "2026-07-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Air",
+        "Pollution",
+        "Santé",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Atmo — Auvergne-Rhône-Alpes. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "atmo-auvergne-rhone-alpes-sitemap-522-1783333135000",
+      "title": "incendies de vegetation un etat des connaissances sur la qualite de lair",
+      "source": "Atmo — Auvergne-Rhône-Alpes",
+      "sourceId": "atmo-auvergne-rhone-alpes",
+      "sourceType": "Observatoire air régional",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.atmo-france.org/actualite/incendies-de-vegetation-un-etat-des-connaissances-sur-la-qualite-de-lair",
+      "image": null,
+      "date": "2026-07-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Air",
+        "Pollution",
+        "Santé",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Atmo — Auvergne-Rhône-Alpes. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ademe-rss-0-1783277614000",
