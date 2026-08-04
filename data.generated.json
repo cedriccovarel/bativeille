@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T21:08:58.590Z",
+  "generatedAt": "2026-08-04T02:51:49.301Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1785811927000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-08-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1785811927000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-08-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1785811927000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-08-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-transition-ecologique-sitemap-16-1785750141000",
       "title": "publication ventes produits phytopharmaceutiques",
       "source": "Ministère de la Transition Écologique",
@@ -2180,6 +2258,53 @@
         "Bâtiment"
       ],
       "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-0-1785760199000",
+      "title": "vacances culturelles les colonies de vacances des lieux de creation",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/actualites/vacances-culturelles-les-colonies-de-vacances-des-lieux-de-creation",
+      "image": null,
+      "date": "2026-08-03",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-culture-architecture-sitemap-1-1785750996000",
+      "title": "la liste fouiller en benevole ou visiter un chantier archeologique",
+      "source": "Ministère de la Culture — Architecture",
+      "sourceId": "ministere-de-la-culture-architecture",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.culture.gouv.fr/thematiques/archeologie/ressources-documentaires/introduction-a-l-archeologie/la-liste-fouiller-en-benevole-ou-visiter-un-chantier-archeologique",
+      "image": null,
+      "date": "2026-08-03",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Architecture",
+        "Patrimoine",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -2968,7 +3093,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1785733800000",
+      "id": "enerzine-rss-0-1785795000000",
+      "title": "Des lentilles de contact imprimées en 3D, uniques pour vos yeux, en seulement 20 minutes",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-lentilles-de-contact-imprimees-en-3d-uniques-pour-vos-yeux-en-seulement-20-minutes/191366-2026-08",
+      "image": null,
+      "date": "2026-08-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "Une percée combinant de nouveaux matériaux en silicone et une technologie avancée d’impression 3D, développée par des chercheurs de l’Université de Waterloo, pourrait transformer la fabrication des lentilles de contact. Cette innovation primée permet de produire des lentilles de …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1785733800000",
       "title": "DHL et LONGi Solar scellent un partenariat pour verdir la logistique européenne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2994,7 +3145,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1785730200000",
+      "id": "enerzine-rss-2-1785730200000",
       "title": "L’agriculture par plasma progresse vers le surpassement des méthodes conventionnelles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3019,7 +3170,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1785726600000",
+      "id": "enerzine-rss-3-1785726600000",
       "title": "Le sable pourrait être la clé de structures plus sûres et plus solides",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3479,84 +3630,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1785791354000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1785791354000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1785791354000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "reporterre-rss-9-1785648600000",
       "title": "« Ça a été un lieu de souffrance » : la mémoire ressuscitée des harkis forcés de reboiser la Provence",
       "source": "Reporterre",
@@ -3633,7 +3706,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1785708600000",
+      "id": "enerzine-rss-4-1785708600000",
       "title": "Qu’est-ce qu’un bio-métal ? Explorer le mystère métallique d’une mâchoire ancienne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3657,7 +3730,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1785643800000",
+      "id": "enerzine-rss-5-1785643800000",
       "title": "Un laboratoire autonome utilise l’IA pour développer de nouveaux alliages métalliques résistants et imprimables en 3D",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3683,7 +3756,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1785640200000",
+      "id": "enerzine-rss-6-1785640200000",
       "title": "Des scientifiques dévoilent une technique pour construire des empilements de matériaux ultra-minces",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3957,7 +4030,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1785622200000",
+      "id": "enerzine-rss-7-1785622200000",
       "title": "Une puce infrarouge miniature pourrait améliorer la détection des gaz et de la chaleur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3983,7 +4056,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1785600600000",
+      "id": "enerzine-rss-8-1785600600000",
       "title": "Windows 11 : Microsoft promet d’accélérer son chantier sur la qualité",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4009,7 +4082,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1785597300000",
+      "id": "enerzine-rss-9-1785597300000",
       "title": "Airbus A380 : entre inspections d’urgence pour fissures et mue en laboratoire volant",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4030,31 +4103,6 @@
         "Réglementation"
       ],
       "summary": "Le géant des airs n’en finit plus de voler la vedette. Alors que sa production s’est arrêtée en 2021, l’Airbus A380 se retrouve au cœur d’une double actualité avec d’un côté, l’Agence européenne de la sécurité aérienne (EASA) qui vient d’imposer des inspections structurelles cibl…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1785590400000",
-      "title": "Leapmotor B03X : le crossover électrique à 24 900 euros arrive en Europe",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/leapmotor-b03x-le-crossover-electrique-a-24-900-euros-arrive-en-europe/192398-2026-08",
-      "image": null,
-      "date": "2026-08-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le constructeur chinois Leapmotor avait annoncé l’ouverture des commandes de son crossover urbain B03X sur le marché européen à partir de début juillet. Affiché dès 24 900 euros, ce modèle 100 % électrique joue la carte du format compact, de la polyvalence et d’une dotation techn…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4132,7 +4180,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-0-1785488196000",
+      "id": "ministere-de-la-culture-architecture-sitemap-2-1785488196000",
       "title": "hommage de mme catherine pegard ministre de la culture a stephane ricordel",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4155,7 +4203,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-1-1785515342000",
+      "id": "ministere-de-la-culture-architecture-sitemap-3-1785515342000",
       "title": "vacances culturelles en ile de france quand la danse dialogue avec les paysages",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -4178,7 +4226,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-2-1785489882000",
+      "id": "ministere-de-la-culture-architecture-sitemap-4-1785489882000",
       "title": "aux bains douches d alencon une boite a mots artistique et pedagogique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -5720,7 +5768,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-7-1785413906000",
+      "id": "ministere-de-la-culture-architecture-sitemap-9-1785413906000",
       "title": "le ministere de la culture deploie son plan d action de surete des etablissements patrimoniaux et des lieux de conservation de biens culturels",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -6788,7 +6836,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-3-1785342222000",
+      "id": "ministere-de-la-culture-architecture-sitemap-5-1785342222000",
       "title": "hommage de mme catherine pegard ministre de la culture a kavinsky",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -6811,7 +6859,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-4-1785335383000",
+      "id": "ministere-de-la-culture-architecture-sitemap-6-1785335383000",
       "title": "11e edition du forum entreprendre dans la culture auvergne rhone alpes",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -6834,7 +6882,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-5-1785313312000",
+      "id": "ministere-de-la-culture-architecture-sitemap-7-1785313312000",
       "title": "vacances culturelles litteraires dans 50 bibliotheques franciliennes place a l imaginaire",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -6857,7 +6905,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-6-1785321159000",
+      "id": "ministere-de-la-culture-architecture-sitemap-8-1785321159000",
       "title": "les forteresses royales capetiennes du languedoc inscrites sur la liste du patrimoine mondial de l unesco",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -6880,7 +6928,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-16-1785319726000",
+      "id": "ministere-de-la-culture-architecture-sitemap-17-1785319726000",
       "title": "inventaire national du pci l inclusion n est pas une fin c est un point de depart",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8000,7 +8048,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-8-1785251303000",
+      "id": "ministere-de-la-culture-architecture-sitemap-10-1785251303000",
       "title": "les plages du debarquement et les forteresses royales du languedoc a l unesco",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8902,7 +8950,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-9-1785158962000",
+      "id": "ministere-de-la-culture-architecture-sitemap-11-1785158962000",
       "title": "les plages du debarquement normandie 1944 inscrites sur la liste du patrimoine mondial de l unesco",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -8925,31 +8973,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-10-1785140923000",
-      "title": "la liste fouiller en benevole ou visiter un chantier archeologique",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/thematiques/archeologie/ressources-documentaires/introduction-a-l-archeologie/la-liste-fouiller-en-benevole-ou-visiter-un-chantier-archeologique",
-      "image": null,
-      "date": "2026-07-27",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 90,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-12-1785166519000",
+      "id": "ministere-de-la-culture-architecture-sitemap-13-1785166519000",
       "title": "appel a projets mode les 5 tendances 2026",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9865,7 +9889,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-11-1784898017000",
+      "id": "ministere-de-la-culture-architecture-sitemap-12-1784898017000",
       "title": "le temps des images. une exposition sur la sculpture en rouergue a la fin du moyen age a rodez",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9888,7 +9912,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-18-1784880490000",
+      "id": "ministere-de-la-culture-architecture-sitemap-19-1784880490000",
       "title": "les jeudis du patrimoine un cycle de conferences autour de la sauvegarde du patrimoine",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -9911,7 +9935,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-22-1784903929000",
+      "id": "ministere-de-la-culture-architecture-sitemap-23-1784903929000",
       "title": "barometre des festivals 2025",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10573,7 +10597,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-13-1784822511000",
+      "id": "ministere-de-la-culture-architecture-sitemap-14-1784822511000",
       "title": "renouvellement de m. emmanuel kasarherou a la presidence de l etablissement public du musee du quai branly jacques chirac",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10596,7 +10620,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-14-1784809603000",
+      "id": "ministere-de-la-culture-architecture-sitemap-15-1784809603000",
       "title": "plan d action du deps sur les statistiques culturelles",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10619,7 +10643,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-15-1784803499000",
+      "id": "ministere-de-la-culture-architecture-sitemap-16-1784803499000",
       "title": "renouvellement de m. laurent le bon a la presidence du centre national d art et de culture georges pompidou",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -10642,7 +10666,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-20-1784810483000",
+      "id": "ministere-de-la-culture-architecture-sitemap-21-1784810483000",
       "title": "lettre d information theatrale",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -11322,7 +11346,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-17-1784744395000",
+      "id": "ministere-de-la-culture-architecture-sitemap-18-1784744395000",
       "title": "agenda previsionnel de mme catherine pegard ministre de la culture17",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -11345,7 +11369,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-19-1784718688000",
+      "id": "ministere-de-la-culture-architecture-sitemap-20-1784718688000",
       "title": "catherine pegard ministre de la culture salue la reconduction d alexander neef a la direction generale de l opera national de paris",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -11368,7 +11392,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-21-1784708591000",
+      "id": "ministere-de-la-culture-architecture-sitemap-22-1784708591000",
       "title": "donnees chiffrees de l archeologie preventive au 1er juillet 2026",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12070,7 +12094,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-24-1784639737000",
+      "id": "ministere-de-la-culture-architecture-sitemap-25-1784639737000",
       "title": "l eau ce bien commun qu il faut apprendre a transmettre",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12088,29 +12112,6 @@
         "Patrimoine",
         "Réglementation",
         "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-culture-architecture-sitemap-29-1784640307000",
-      "title": "deuxieme edition du prix du livre pour les bebes le ministere de la culture devoile la composition du jury et les ouvrages retenus dans la selection",
-      "source": "Ministère de la Culture — Architecture",
-      "sourceId": "ministere-de-la-culture-architecture",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.culture.gouv.fr/presse/communiques-de-presse/deuxieme-edition-du-prix-du-livre-pour-les-bebes-le-ministere-de-la-culture-devoile-la-composition-du-jury-et-les-ouvrages-retenus-dans-la-selection",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Architecture",
-        "Patrimoine",
-        "Réglementation"
       ],
       "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
@@ -12627,7 +12628,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-23-1784563128000",
+      "id": "ministere-de-la-culture-architecture-sitemap-24-1784563128000",
       "title": "nomination de jerome montchal a la direction du phenix scene nationale de valenciennes metropole",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -12650,7 +12651,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-25-1784539256000",
+      "id": "ministere-de-la-culture-architecture-sitemap-26-1784539256000",
       "title": "a vierzon plus de 100 enfants a la recherche du petit prince",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -13460,7 +13461,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-26-1784277489000",
+      "id": "ministere-de-la-culture-architecture-sitemap-27-1784277489000",
       "title": "le ministere de la culture annonce le lancement de la 11e edition des journees nationales de l architecture du 15 au 18 octobre 2026 sur le theme",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -13483,7 +13484,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-27-1784283345000",
+      "id": "ministere-de-la-culture-architecture-sitemap-28-1784283345000",
       "title": "analyse conjoncturelle du chiffre d affaires de la culture au 4e trimestre 2025",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
@@ -14055,7 +14056,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-culture-architecture-sitemap-28-1784215464000",
+      "id": "ministere-de-la-culture-architecture-sitemap-29-1784215464000",
       "title": "pratiques culturelles la recherche a l epreuve du numerique",
       "source": "Ministère de la Culture — Architecture",
       "sourceId": "ministere-de-la-culture-architecture",
