@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T16:45:44.656Z",
+  "generatedAt": "2026-08-05T21:16:28.953Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2421,32 +2421,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "meteo-france-rss-0-1785939795000",
-      "title": "Qu'est-ce qu'un nuage ?",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/quest-ce-quun-nuage",
-      "image": "https://meteofrance.com/sites/default/files/styles/730_322/public/images/articles/Nuages-altocumulus%20floccus-Michel%20Hontarrede.JPG?itok=2VPmQZph",
-      "date": "2026-08-05",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Eau",
-        "Confort d’été",
-        "Biosourcé"
-      ],
-      "summary": "Qu'est-ce qu'un nuage ? Un nuage est formé d'une multitude de gouttelettes d'eau ou de cristaux de glace en suspension dans l'atmosphère. Son aspect est fonction de la nature, de la taille et de la répartition des particules qui le composent, ainsi que de la lumière qui l'éclaire…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "qualitel-cerqual-rss-0-1785935988000",
       "title": "Le Fonds de dotation QUALITEL aux côtés de l’AFEJI Hauts-de-France pour améliorer le quotidien des seniors",
       "source": "Qualitel / Cerqual",
@@ -3252,7 +3226,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1785948365000",
+      "id": "le-commerce-du-bois-sitemap-0-1785964609000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3278,7 +3252,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1785948365000",
+      "id": "le-commerce-du-bois-sitemap-1-1785964609000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3304,7 +3278,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1785948365000",
+      "id": "le-commerce-du-bois-sitemap-2-1785964609000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -5497,32 +5471,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "meteo-france-rss-1-1785689159000",
-      "title": "Comment se forme un nuage ?",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/comment-se-forme-un-nuage",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/Convection.gif?itok=owPKmlgQ",
-      "date": "2026-08-02",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Eau",
-        "Confort d’été",
-        "Biosourcé"
-      ],
-      "summary": "Comment se forme un nuage ? Pour le comprendre, il faut savoir qu'une masse d'air ne peut contenir qu'une certaine quantité de vapeur d'eau, qui dépend de la température. Plus l'air est chaud, plus il peut être chargé en vapeur d'eau. Lorsqu'une masse d'air chaud saturée en vapeu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-25-1785648600000",
       "title": "« Ça a été un lieu de souffrance » : la mémoire ressuscitée des harkis forcés de reboiser la Provence",
       "source": "Reporterre",
@@ -5817,81 +5765,6 @@
       "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "meteo-france-rss-2-1785499911000",
-      "title": "Le printemps",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/le-printemps",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/GRA_OBS_S_FRANCE_ATMAG_1900HIV_2026ETE_PRI.png?itok=2_kJsUZI",
-      "date": "2026-07-31",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Réglementation",
-        "RE2020",
-        "Confort d’été"
-      ],
-      "summary": "Le printemps La transition entre la saison froide et les chaleurs estivales est progressive et plus ou moins précoce selon les années. Les journées froides et parfois humides se raréfient au fil de la saison et alternent avec des jours de plus en plus doux, parfois orageux ou trè…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "meteo-france-rss-3-1785487245000",
-      "title": "L'hiver",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/lhiver",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/GRA_OBS_S_FRANCE_ATMAG_1900HIV_2026ETE_HIV.png?itok=94hKk1AA",
-      "date": "2026-07-31",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Confort d’été"
-      ],
-      "summary": "L'hiver La saison du froid L'hiver météorologique, qui commence le 1er décembre et s'achève à la fin du mois de février, correspond à la période la plus froide de l'année dans l'hémisphère Nord. C'est la saison du froid, voire des grands froids, mais aussi de la neige, du givre, …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "meteo-france-rss-4-1785486550000",
-      "title": "L'automne",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/lautomne",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/GRA_OBS_S_FRANCE_ATMAG_1900HIV_2026ETE_AUT.png?itok=wTFvpi0o",
-      "date": "2026-07-31",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 98,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Confort d’été",
-        "Réemploi"
-      ],
-      "summary": "L'automne La saison des contrastes L'automne est une saison de contrastes : transition entre la saison chaude et ses chaleurs estivales et la saison froide et ses chutes de neige. La transition peut être progressive ou brutale selon les années. On peut connaître une belle saison …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "batiweb-rss-6-1785509400000",
@@ -8627,32 +8500,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "capeb-rss-0-1785222916000",
-      "title": "Incendies : les dispositifs de soutien mobilisés pour les entreprises du bâtiment",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/incendies-les-dispositifs-de-soutien-mobilises-pour-les-entreprises-du-batiment",
-      "image": "https://www.capeb.fr/www/capeb/media/national/visuel-incendie.jpg",
-      "date": "2026-07-28",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment",
-        "Confort d’été",
-        "Réemploi",
-        "Bâtiment"
-      ],
-      "summary": "Face aux incendies qui touchent notamment la Gironde, les Landes et le Var, de nombreuses entreprises artisanales du bâtiment voient leur activité fortement perturbée, voire interrompue. Afin d'accompagner les professionnels concernés, plusieurs dispositifs de soutien ont été act…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "ministere-de-la-culture-architecture-sitemap-10-1785251303000",
       "title": "les plages du debarquement et les forteresses royales du languedoc a l unesco",
       "source": "Ministère de la Culture — Architecture",
@@ -8674,32 +8521,6 @@
       "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "meteo-france-rss-5-1785237685000",
-      "title": "Changement climatique : quel impact sur les vagues de chaleur ?",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/changement-climatique/changement-climatique-quel-impact-sur-les-vagues-de-chaleur",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/vagues-de-chaleur-evolution-2026.jpg?itok=ukA2SX2i",
-      "date": "2026-07-28",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "RE2020",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Changement climatique : quel impact sur les vagues de chaleur ? Une vague de chaleur correspond à un épisode où les températures sont anormalement élevées pendant plusieurs jours. Pour identifier une vague de chaleur, les météorologues s’appuient sur l’indicateur thermique nation…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "inc-institut-national-de-la-consommation-rss-0-1785276000000",
@@ -10692,32 +10513,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "meteo-france-rss-6-1784804384000",
-      "title": "La Météo des forêts : s’informer sur le danger de feux",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/actualites/la-meteo-des-forets-sinformer-sur-le-danger-de-feux",
-      "image": "https://meteofrance.com/sites/default/files/styles/730_322/public/images/articles/GettyImages-1363689354.jpg?itok=9_o4T3dn",
-      "date": "2026-07-23",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "La Météo des forêts : s’informer sur le danger de feux Consultez la Météo des forêts Sous l’effet du changement climatique, la majeure partie du territoire est vulnérable aux incendies de forêt et de végétation. 9 départs de feu sur 10 sont d’origine humaine. La moitié est due à …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "atmo-france-sitemap-520-1784805359000",
       "title": "qualite de lair les outre mer renforcent la fiabilite des mesures",
       "source": "Atmo France",
@@ -12492,30 +12287,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "capeb-rss-1-1784559761000",
-      "title": "CAPEB, IRIS-ST, CNATP et OPPBTP unissent leurs forces pour faire des TPE la priorité de la prévention dans le bâtiment",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/capeb-iris-st-cnatp-et-oppbtp-unissent-leurs-forces-pour-faire-des-tpe-la-priorite-de-la-prevention-dans-le-batiment",
-      "image": "https://www.capeb.fr/www/capeb/media/national/presse-renovation-energetique-1-.png",
-      "date": "2026-07-20",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment",
-        "Bâtiment"
-      ],
-      "summary": "À l’occasion des Rencontres des Métiers du Bâtiment organisées par la CAPEB à Marseille, la CAPEB, la CNATP, l’IRIS-ST et l’OPPBTP ont signé une nouvelle convention de partenariat visant à renforcer l’accompagnement des très petites entreprises du bâtiment et des travaux publics …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "ministere-de-la-culture-architecture-sitemap-24-1784563128000",
       "title": "nomination de jerome montchal a la direction du phenix scene nationale de valenciennes metropole",
       "source": "Ministère de la Culture — Architecture",
@@ -12704,32 +12475,6 @@
       "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "meteo-france-rss-7-1784535077000",
-      "title": "Pourquoi le ciel est-il bleu ?",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/pourquoi-le-ciel-est-il-bleu",
-      "image": "https://meteofrance.com/sites/default/files/inline-images/pourquoi-ciel-bleu.jpg",
-      "date": "2026-07-20",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "Pourquoi le ciel est-il bleu ? La lumière blanche du soleil est composée d'une infinité de lumières colorées que l'on peut observer au travers d’un prisme ou dans les arcs-en-ciel par exemple. Chaque couleur est caractérisée par une longueur d'onde. Les plus courtes longueurs d’o…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "promotelec-sitemap-49-1784554386000",
@@ -17106,32 +16851,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "meteo-france-rss-8-1783411505000",
-      "title": "Qu’est-ce qu’un orage ?",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/quest-ce-quun-orage",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/Vignette-Orages.jpg?itok=agIIIonB",
-      "date": "2026-07-07",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Réglementation",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Qu’est-ce qu’un orage ? Éclairs, coups de tonnerre, fortes pluies, bourrasques… autant de manifestations qui peuvent survenir lors d'un orage. Un éclair peut se déclencher à l'intérieur du nuage, entre deux nuages, ou entre le nuage et le sol ou un aéronef (on parle alors de foud…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "ordre-des-architectes-cnoa-rss-3-1783410026000",
       "title": "Composition du Bureau du CROA CVL",
       "source": "Ordre des Architectes — CNOA",
@@ -17488,53 +17207,6 @@
         "Bâtiment"
       ],
       "summary": "Territorialiser le réemploi : le Booster publie ses premières fiches territoires Le réemploi dans le bâtiment n’a plus besoin de prouver son intérêt environnemental. Les démonstrateurs existent, les retours d’expérience se multiplient, et la valeur environnementale du réemploi es…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "capeb-rss-2-1783346687000",
-      "title": "Rénovation énergétique : la CAPEB et Crédit Agricole Personal Finance & Mobility s’allient pour lever le frein du financement des travaux",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/renovation-energetique-la-capeb-et-credit-agricole-personal-finance-mobility-s-allient-pour-lever-le-frein-du-financement-des-travaux",
-      "image": "https://www.capeb.fr/www/capeb/media/national/sofinco.png",
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment",
-        "Bâtiment"
-      ],
-      "summary": "Paris, le 6 juillet 2026 — Alors que certains projets de rénovation énergétique restent bloqués faute de solution de financement immédiate, la Confédération de l’artisanat et des petites entreprises du bâtiment (CAPEB) et Crédit Agricole Personal Finance & Mobility, via sa marque…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "capeb-rss-3-1783328095000",
-      "title": "80 ans : l'anniversaire de notre collectif se prépare",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/80-ans-lanniversaire-de-notre-collectif-se-prepare",
-      "image": "https://www.capeb.fr/www/capeb/media/national/80-ans.jpg",
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Nos 80 ans d'histoire collective ont vocation à vivre toute l'année 2026, au-delà de la seule soirée anniversaire que nous préparons pour le 29 septembre prochain aux Folies Gruss. Nos 80 ans d'histoire collective ont vocation à vivre toute l'année 2026, au-delà de la seule soiré…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
