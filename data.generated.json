@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T15:36:53.930Z",
+  "generatedAt": "2026-08-09T20:39:10.510Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2237,7 +2237,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1786263600000",
+      "id": "enerzine-rss-0-1786299000000",
+      "title": "Fissures sur des Boeing 737 Max : la FAA ordonne l’inspection de près de 1 500 appareils",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/inspection-boeing-737-max-faa-fissures/192547-2026-08",
+      "image": null,
+      "date": "2026-08-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Ce que l’on sait : la FAA impose une inspection préventive ; aucun défaut n’a été confirmé à ce stade sur les 737 Max concernés ; les vols ne sont pas suspendus.Ce qui reste à établir : l’ampleur réelle d’éventuelles fissures après le début des contrôles, ainsi que les éventuelle…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1786263600000",
       "title": "Protection de l’environnement : l’enjeu crucial de la gestion des déchets liquides professionnels",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2261,7 +2287,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1786248600000",
+      "id": "enerzine-rss-2-1786248600000",
       "title": "Un dispositif de mémoire thermique conçu pour permettre une gestion intelligente de la chaleur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2285,7 +2311,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1786245000000",
+      "id": "enerzine-rss-3-1786245000000",
       "title": "L’apprentissage automatique accélère la recherche de matériaux durables pour cellules solaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2386,7 +2412,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1786289833000",
+      "id": "le-commerce-du-bois-sitemap-0-1786307970000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2412,7 +2438,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1786289833000",
+      "id": "le-commerce-du-bois-sitemap-1-1786307970000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2438,7 +2464,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1786289833000",
+      "id": "le-commerce-du-bois-sitemap-2-1786307970000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2641,7 +2667,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1786227000000",
+      "id": "enerzine-rss-4-1786227000000",
       "title": "Pourquoi 25,6°C n’est pas le bon réglage de thermostat pour tout le monde pendant une canicule",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2667,7 +2693,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1786219294000",
+      "id": "enerzine-rss-5-1786219294000",
       "title": "Comparatif des filtres sous évier : quelle solution choisir pour améliorer la qualité de l’eau du robinet ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2692,7 +2718,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1786158600000",
+      "id": "enerzine-rss-6-1786158600000",
       "title": "Rayures ou damier ? Le champ magnétique influence des motifs électroniques concurrents dans un matériau quantique de type graphène",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3432,6 +3458,108 @@
       "collectMethod": "rss"
     },
     {
+      "id": "greenunivers-rss-0-1786109330000",
+      "title": "Comment la finance américaine aide les EnR européennes [Green Giraffe]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/comment-la-finance-americaine-aide-les-enr-europeennes-green-giraffe-431353/",
+      "image": null,
+      "date": "2026-08-07",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "Alors que le « drill, baby, drill » retentit haut et fort outre-Atlantique, plusieurs géants de la finance américaine ont déversé ces L’article Comment la finance américaine aide les EnR européennes [Green Giraffe] est apparu en premier sur GreenUnivers. Alors que le «&#160;drill…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-1-1786089919000",
+      "title": "Sizable Energy envisage des Step dans la mer",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/sizable-energy-envisage-des-step-dans-la-mer-431152/",
+      "image": null,
+      "date": "2026-08-07",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation"
+      ],
+      "summary": "Fort d’une levée de fonds de 8 M$ bouclée auprès du fonds de capital-risque américain Playground Capital, l’entreprise italienne Sizable Energy travaille L’article Sizable Energy envisage des Step dans la mer est apparu en premier sur GreenUnivers. Fort d’une levée de fonds de 8 …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-2-1786087270000",
+      "title": "L’agenda de la transition énergétique",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/lagenda-de-la-transition-energetique-280-424554/",
+      "image": null,
+      "date": "2026-08-07",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Rénovation",
+        "Énergie"
+      ],
+      "summary": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. A…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-3-1786087198000",
+      "title": "Les documents de la semaine",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/les-documents-de-la-semaine-381215/",
+      "image": null,
+      "date": "2026-08-07",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "pv-magazine-france-rss-0-1786111200000",
       "title": "Éclipse solaire : des centaines de mégawatts de production photovoltaïque en moins",
       "source": "PV Magazine France",
@@ -3586,7 +3714,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1786140600000",
+      "id": "enerzine-rss-7-1786140600000",
       "title": "Le marc de café peut être transformé en matière première pour produire des biocarburants",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3610,7 +3738,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1786081500000",
+      "id": "enerzine-rss-8-1786081500000",
       "title": "Le 12 août, l’éclipse fera chuter le solaire de 1 800 MW en France",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3635,7 +3763,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1786079400000",
+      "id": "enerzine-rss-9-1786079400000",
       "title": "USA : Comment les pompes à chaleur fixées aux fenêtres peuvent offrir aux locataires un chauffage et une climatisation efficaces",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3657,31 +3785,6 @@
         "Confort d’été"
       ],
       "summary": "Moncef Krarti, Université du Colorado à Boulder Les personnes qui louent leur logement, ou qui n’ont pas assez d’argent pour réaliser des rénovations importantes, ont été exclues pendant de nombreuses années d’un changement majeur dans la technologie de chauffage et de climatisat…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1786075800000",
-      "title": "L’ingénierie d’interface semi-métal/semi-conducteur permet l’imagerie optique à grande vitesse",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/lingenierie-dinterface-semi-metal-semi-conducteur-permet-limagerie-optique-a-grande-vitesse/191806-2026-08",
-      "image": null,
-      "date": "2026-08-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "RE2020"
-      ],
-      "summary": "L’imagerie optique à grande vitesse joue un rôle important dans des domaines allant de la recherche scientifique et de l’inspection industrielle à la détection intelligente et à la vision artificielle. La capture d’événements ultrarapides nécessite des photodétecteurs capables de…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4106,30 +4209,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "audiar-rennes-rss-0-1785999504000",
-      "title": "L’Audiar partage son expérience de l’intelligence artificielle lors d’une rencontre des agences d’urbanisme",
-      "source": "AUDIAR Rennes",
-      "sourceId": "audiar-rennes",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Bretagne",
-      "url": "https://www.audiar.org/2026/08/06/laudiar-partage-son-experience-de-lintelligence-artificielle-lors-dune-rencontre-des-agences-durbanisme/",
-      "image": null,
-      "date": "2026-08-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Rennes",
-        "Urbanisme",
-        "Habitat",
-        "Confort d’été"
-      ],
-      "summary": "Les 4 et 5 juin 2026, l’agence d’urbanisme Topos (Orléans) a accueilli une rencontre organisée par la Fédération Nationale des Agences d’Urbanisme (FNAU), réunissant les équipes chargées de la donnée et de la cartographie au sein des agences de toute la France. Ces deux journées …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "verre-protections-magazine-rss-0-1786044580000",
       "title": "Lippi, la fin d’une entreprise emblématique de la fermeture",
       "source": "Verre & Protections Magazine",
@@ -4434,6 +4513,55 @@
         "Confort d’été"
       ],
       "summary": "«2026, l’été de la bascule» (1/4). Elles et ils voulaient devenir parents ou avoir un nouvel enfant. Mais cet été infernal, annonciateur du climat qui vient, les en a dissuadé·es. Témoignages. «2026, l’été de la bascule» (1/4). Elles et ils voulaient devenir parents ou avoir un n…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-4-1786030046000",
+      "title": "Eolien en mer : TotalEnergies et RWE se repositionnent, au Danemark et aux Etats-Unis",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/eolien-en-mer-totalenergies-et-rwe-se-repositionnent-au-danemark-et-aux-etats-unis-431335/",
+      "image": null,
+      "date": "2026-08-06",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "La major pétrolière française veut se désengager de deux projets éoliens en mer au Danemark, Jammerland Bugt et Lillebælt Syd, selon le média local EnergyWatch. Il en possède la L’article Eolien en mer : TotalEnergies et RWE se repositionnent, au Danemark et aux Etats-Unis est ap…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-5-1786021965000",
+      "title": "Eren persiste et signe dans le biométhane en Italie",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/eren-persiste-et-signe-dans-le-biomethane-en-italie-431323/",
+      "image": null,
+      "date": "2026-08-06",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "La plateforme Retina Biométhane, créée par Eren Industries, Actarus Renewables et la holding Retina, annonce le lancement L’article Eren persiste et signe dans le biométhane en Italie est apparu en premier sur GreenUnivers. La plateforme Retina Biométhane, créée par Eren Industri…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5182,6 +5310,56 @@
         "Biosourcé"
       ],
       "summary": "Saumon enfumé. Alors que la Gironde se remet à peine des incendies historiques qui ont ravagé plus de 42 000 hectares, la préfète du département vient d’autoriser le très contesté projet de mégaferme terrestre à saumons dans l’estuaire. Porté par l’entreprise Pure Salmon, il néce…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-6-1785942025000",
+      "title": "L’éclipse solaire pourrait effacer 9,7 GW de photovoltaïque en Europe [RTE]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/leclipse-solaire-pourrait-effacer-97-gw-de-photovoltaique-en-europe-rte-431306/",
+      "image": null,
+      "date": "2026-08-05",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "Le nord-est de l’Espagne et le sud-ouest de la France seront concernés la semaine prochaine par une éclipse solaire. Elle sera totale au-delà des L’article L’éclipse solaire pourrait effacer 9,7 GW de photovoltaïque en Europe [RTE] est apparu en premier sur GreenUnivers. Le nord-…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-7-1785934545000",
+      "title": "Ze Energy prépare une importante opération financière",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/ze-energy-prepare-une-importante-operation-financiere-431300/",
+      "image": null,
+      "date": "2026-08-05",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Économie du bâtiment"
+      ],
+      "summary": "Les actionnaires de Ze Energy sondent le marché en vue de réaliser une levée de fonds substantielle, qui pourrait même conduire L’article Ze Energy prépare une importante opération financière est apparu en premier sur GreenUnivers. Les actionnaires de Ze Energy sondent le marché …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5989,6 +6167,55 @@
       "collectMethod": "rss"
     },
     {
+      "id": "greenunivers-rss-8-1785855278000",
+      "title": "La CRE se penche sur la révision du tarif d’achat du biométhane",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/le-cre-se-penche-sur-la-revision-du-tarif-dachat-du-biomethane-431279/",
+      "image": null,
+      "date": "2026-08-04",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "La Commission de régulation de l’énergie (CRE) « prend acte » de la volonté du gouvernement de restreindre le guichet ouvert pour le biométhane aux installations de moins de 13 GWh/an, au lieu de 25 GWh/an auparavant. Le régulateur a examiné L’article La CRE se penche sur la révi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-9-1785854583000",
+      "title": "Hydrogène : RWE envoie une première livraison par canalisation",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/hydrogene-rwe-envoie-une-premiere-livraison-par-canalisation-431273/",
+      "image": null,
+      "date": "2026-08-04",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "Si l’emballement autour de l’hydrogène vert est bien redescendu, surtout dans la mobilité, d’autres projets continuent à avancer. En France, les résultats du premier L’article Hydrogène : RWE envoie une première livraison par canalisation est apparu en premier sur GreenUnivers. S…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-8-1785826962000",
       "title": "Solaire résidentiel : la France fait toujours moins bien que ses voisins européens",
       "source": "Révolution Énergétique",
@@ -6012,6 +6239,29 @@
       "summary": "Pourquoi le solaire résidentiel stagne à 6% des maisons françaises ? Alors que nos voisins européens nous dépassent largement, Hello Watt publie une étude pour […] L’article Solaire résidentiel : la France fait toujours moins bien que ses voisins européens est apparu en premier s…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-16-1785750141000",
+      "title": "publication ventes produits phytopharmaceutiques",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/publication-ventes-produits-phytopharmaceutiques",
+      "image": null,
+      "date": "2026-08-03",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-5-1785760199000",
@@ -6998,6 +7248,30 @@
       "collectMethod": "rss"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-363-1785511271000",
+      "title": "canicule vagues chaleur bons gestes adopter",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/canicule-vagues-chaleur-bons-gestes-adopter",
+      "image": null,
+      "date": "2026-07-31",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment",
+        "Confort d’été"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-culture-architecture-sitemap-6-1785488196000",
       "title": "hommage de mme catherine pegard ministre de la culture a stephane ricordel",
       "source": "Ministère de la Culture — Architecture",
@@ -7166,6 +7440,222 @@
         "Bâtiment"
       ],
       "summary": "Daikin étend sa gamme de pompes à chaleur Altherma 4 H au R-290 avec trois nouvelles puissances pour le neuf et la rénovation. Daikin étend sa gamme de pompes à chaleur Altherma 4 H au R-290 avec trois nouvelles puissances pour le neuf et la rénovation. Daikin étend sa gamme Alth…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-0-1785507649000",
+      "title": "Recharge des véhicules : Advenir publie son baromètre trimestriel du printemps 2026",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/barometre-advenir-recharge-vehicules-printemps-2026-48391.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48391_large.jpg",
+      "date": "2026-07-31",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Advenir publie son baromètre de la donnée de recharge des véhicules électriques pour la période avril-juin 2026. L'observatoire national de la donnée de recharge donne accès et compile les informations collectées auprès de 100 000 points de rechar... Advenir publie son baromètre …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-1-1785505187000",
+      "title": "Rénovation énergétique : les publicités devront mentionner France Rénov' dès octobre 2026",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/renovation-energetique-publicite-france-renov-arrete-anah-loi-fraudes-aides-publiques-48390.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48390_large.jpg",
+      "date": "2026-07-31",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Rénovation"
+      ],
+      "summary": "À partir du 1er octobre 2026, les sites internet et les publicités, proposant des travaux de rénovation énergétique (comme l'installation de pompes à chaleur, des travaux d'isolation...), devront obligatoirement inviter les particuliers à se rappr... À partir du 1er octobre 2026,…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-2-1785494638000",
+      "title": "Lire notre dossier d'actu \"Feux de forêt : la France entre dans l'ère des mégafeux\"",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/dossier-actu/feux-foret-changement-climatique-133#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/gestion/gestion_dossier_actu/133_dossier_actu.jpg",
+      "date": "2026-07-31",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Confort d’été"
+      ],
+      "summary": "L'été 2026 marque une rupture : plus de 116 000 hectares brûlés au 27 juillet, un record historique, avec une trentaine d'incendies simultanés, 42 000 hectares partis en fumée en Gironde en une semaine et plus de 220 000 personnes évacuées. Surtou... L'été 2026 marque une rupture…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-3-1785494521000",
+      "title": "Lire notre dossier d'actu \"Canicule : la France face au défi du confort d'été\"",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/dossier-actu/dossier-canicule-chaleur-adaptation-climat-batiment-ville-128#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/gestion/gestion_dossier_actu/128_dossier_actu.jpg",
+      "date": "2026-07-31",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "La canicule est devenue un enjeu structurel en France. Plus fréquentes, plus longues et plus intenses, les vagues de chaleur mettent à l’épreuve les logements, les villes, les écoles et la santé des habitants. Le sujet ne se limite plus au confort... La canicule est devenue un en…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-4-1785493860000",
+      "title": "Textiles : Circ dépose la demande d'autorisation environnementale de sa future usine de recyclage",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/textiles-Circ-demande-autorisation-environnementale-usine-recyclage-48388.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48388_large.jpg",
+      "date": "2026-07-31",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Le 30 juillet, Circ a annoncé avoir officiellement déposé la demande d'autorisation environnementale de sa future usine de recyclage chimique des textiles à Saint-Avold (Moselle). Cette étape intervient après le dépôt de la demande de permis de co... Le 30 juillet, Circ a annoncé…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-5-1785493422000",
+      "title": "Pnacc 3 : des groupes de travail interministériels pour accélérer l'adaptation climatique",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/pnacc3-adaptation-climatique-france-acceleration-48387.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48387_large.jpg",
+      "date": "2026-07-31",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Confort d’été"
+      ],
+      "summary": "Face aux multiplications des incendies de forêts ou aux épisodes de canicule cet été, le Premier ministre Sébastien Lecornu a chargé, le 30 juillet, Monique Barbut, ministre de la Transition écologique, d'accélérer la mise en oeuvre du troisième ... Face aux multiplications des i…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-6-1785492544000",
+      "title": "Canicule : un outil cartographique permet d'identifier les espaces de fraîcheur",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/refuges-climatiques-cartographie-fraicheur-canicule-48386.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48386_large.jpg",
+      "date": "2026-07-31",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "RE2020",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Alors que la France subit sa quatrième vague de chaleur de l'année, un outil cartographique, porté par le Bureau d'études pour la conception écoresponsable (Tribu) et soutenu par l'Agence de la transition écologique (Ademe), répertorie les espaces... Alors que la France subit sa …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-7-1785490849000",
+      "title": "REP emballages professionnels : un troisième système individuel agréé",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/emballages-professionnels-agrement-systeme-individuel-48385.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48385_large.jpg",
+      "date": "2026-07-31",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Une troisième entreprise gérera elle-même ses emballages professionnels. Mercredi 29 juillet, est paru au Journal officiel l'arrêté d'agrément, en tant que système individuel de la filière à responsabilité élargie du producteur d'emballages profes... Une troisième entreprise gére…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-8-1785484887000",
+      "title": "Enedis et RTE expérimentent la flexibilité locale en duo",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/enedis-rte-portail-flexibilite-locale-48384.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48384_large.jpg",
+      "date": "2026-07-31",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau"
+      ],
+      "summary": "Face à un réseau électrique qui évolue et qui nécessite de plus en plus de flexibilité, les gestionnaires des réseaux électriques Enedis et RTE ont décidé de travailler au déploiement d'un portail expérimental commun, le « Portail Flexibilités ». ... Face à un réseau électrique q…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7844,6 +8334,29 @@
       "collectMethod": "rss"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-368-1785400419000",
+      "title": "6 chiffres comprendre defi commerces proximite communes rurales",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/6-chiffres-comprendre-defi-commerces-proximite-communes-rurales",
+      "image": null,
+      "date": "2026-07-30",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-culture-architecture-sitemap-13-1785413906000",
       "title": "le ministere de la culture deploie son plan d action de surete des etablissements patrimoniaux et des lieux de conservation de biens culturels",
       "source": "Ministère de la Culture — Architecture",
@@ -7980,6 +8493,122 @@
         "Marché"
       ],
       "summary": "L'enseigne de distribution a nommé Jean-Baptiste Plagne directeur général France. Cet ancien cadre de Schneider Électric a pour missions d'accélérer le plan Axelerate 2028 du groupe et contribuer au mouvement électrification lancé en France. L'enseigne de distribution a nommé Jea…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-9-1785422167000",
+      "title": "Éolien flottant : 260 millions d'euros débloqués pour l'adaptation de cinq ports",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/eolien-flottant-260-millions-ports-france2030-48383.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48383_large.jpg",
+      "date": "2026-07-30",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Le Gouvernement va investir près de 260 millions d'euros dans l'adaptation de cinq ports aux besoins de l'éolien flottant. Ce financement fait suite à un appel à projets lancé en 2024 dans le cadre de France 2030. Ces montants serviront à mettre e... Le Gouvernement va investir p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-10-1785418899000",
+      "title": "Changement climatique et apiculture : les impacts et solutions d'adaptation",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/changement-climatique-apiculture-impacts-adaptation-48382.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48382_large.jpg",
+      "date": "2026-07-30",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Face à la multiplication des évènements climatiques, l'apiculture n'est pas épargnée. Comportement inhabituel des colonies, raréfaction des ressources florales... Dans une synthèse, l'interprofession des produits de la ruche (Interapi), en collabo... Face à la multiplication des …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-11-1785417081000",
+      "title": "Véhicules électriques : un diagnostic à l'échelle micro pour allonger la durée de vie des batteries",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/diagnostic-a-echelle-micro-pour-allonger-duree-de-vie-des-batteries-de-vehicules-electriques-48381.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48381_large.jpg",
+      "date": "2026-07-30",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Créée mi-2021, Entroview utilise une méthode brevetée d'analyse pour fournir des diagnostics avancés, chiffrés et opposables, des batteries de véhicules électriques. De quoi contribuer à l'allongement de leur utilisation, en première ou seconde vie. Créée mi-2021, Entroview utili…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-12-1785403667000",
+      "title": "La justice annule un projet de parc de stationnement situé à proximité d'un site Natura 2000",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/annulation-stationnement-natura-2000-tautavel-48380.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48380_large.jpg",
+      "date": "2026-07-30",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Par une décision du 24 juillet 2026, la cour administrative d'appel de Toulouse a annulé les arrêtés du 9 novembre 2021 du maire de Tautavel (Pyrénées-Orientales) autorisant l'aménagement de deux parcs de stationnement à proximité des gorges du Go... Par une décision du 24 juille…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-13-1785392290000",
+      "title": "Le chiffre du jour : 1&#8239;200 milliards de dollars",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/dit-aujourdhui/1821.html#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/interface/common/logo_standard_carre.jpg",
+      "date": "2026-07-30",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Économie du bâtiment"
+      ],
+      "summary": "C’est la valeur inexploitée que recèlent les forêts tropicales en matière de découverte de médicaments. Cela équivaut à près de cinq fois le coût de la réponse mondiale à la pandémie de Covid-19 (246,2 milliards de dollars). Cette valeur monte mêm... C’est la valeur inexploitée q…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9659,6 +10288,30 @@
       "collectMethod": "rss"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-374-1785139688000",
+      "title": "ambition france transports nouveau modele financement mobilites",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/ambition-france-transports-nouveau-modele-financement-mobilites",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 90,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-culture-architecture-sitemap-15-1785158962000",
       "title": "les plages du debarquement normandie 1944 inscrites sur la liste du patrimoine mondial de l unesco",
       "source": "Ministère de la Culture — Architecture",
@@ -10415,52 +11068,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "aupa-pays-d-aix-sitemap-8-1784903873000",
-      "title": "habitat modes de vie",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/habitat-modes-de-vie/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-12-1784903873000",
-      "title": "publication",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "filiere-3e-rss-2-1784877428000",
       "title": "Sauter Vision Center 9.2 : de nouvelles fonctionnalités pour améliorer l’efficacité énergétique et la sécurité.",
       "source": "Filière 3e",
@@ -10852,6 +11459,29 @@
         "Transition"
       ],
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-371-1784816306000",
+      "title": "ministere partenaire du film danimation fille nuages",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/ministere-partenaire-du-film-danimation-fille-nuages",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -11558,6 +12188,29 @@
       "collectMethod": "rss"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-37-1784713969000",
+      "title": "secheresse france",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
+      "image": null,
+      "date": "2026-07-22",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-culture-architecture-sitemap-22-1784744395000",
       "title": "agenda previsionnel de mme catherine pegard ministre de la culture17",
       "source": "Ministère de la Culture — Architecture",
@@ -12237,6 +12890,75 @@
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-316-1784650478000",
+      "title": "vacances sereines applis lete",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/vacances-sereines-applis-lete",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-369-1784648815000",
+      "title": "adoption feuille route climatique francaise",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/adoption-feuille-route-climatique-francaise",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-373-1784627150000",
+      "title": "programme villages davenir perennise",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/programme-villages-davenir-perennise",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-culture-architecture-sitemap-29-1784639737000",
       "title": "l eau ce bien commun qu il faut apprendre a transmettre",
       "source": "Ministère de la Culture — Architecture",
@@ -12748,6 +13470,29 @@
       "collectMethod": "rss"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-370-1784539673000",
+      "title": "semaine europeenne mobilite deposez vos initiatives deplacements plus durables",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/semaine-europeenne-mobilite-deposez-vos-initiatives-deplacements-plus-durables",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "ministere-de-la-culture-architecture-sitemap-28-1784563128000",
       "title": "nomination de jerome montchal a la direction du phenix scene nationale de valenciennes metropole",
       "source": "Ministère de la Culture — Architecture",
@@ -13059,147 +13804,6 @@
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aguram-metz-rss-0-1784535660000",
-      "title": "CONFÉRENCES-DÉBAT / Metzamorphoses",
-      "source": "AGURAM Metz",
-      "sourceId": "aguram-metz",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.aguram.org/conferences-debat-metzamorphoses/",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Metz",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’AGURAM propose deux conférences-débat lancement de l’exposition « Metzamorphozes – Friches messines : patrimoine en mouvement » le jeudi 10 septembre à l’église des Trinitaires et le samedi 19 septembre à l’Hôtel de Ville de Metz. Ces conférences introduiront une exposition qui…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "aguram-metz-rss-1-1784535405000",
-      "title": "CAFÉ-DÉBAT de l’AGURAM / Stratégie foncière communale",
-      "source": "AGURAM Metz",
-      "sourceId": "aguram-metz",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.aguram.org/cafe-debat-de-laguram-strategie-fonciere-communale/",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Metz",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation"
-      ],
-      "summary": "L’AGURAM propose à l’attention des élus et de ses partenaires, un café-débat « Stratégie foncière communale » le jeudi 10 septembre de 9h à 10h15, à l’agence AGURAM (27 place Saint-Thiébault à Metz). À l’heure où les politiques d’aménagement demandent une gestion économe du fonci…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "aguram-metz-rss-2-1784534831000",
-      "title": "Cycle de débats AGURAM / Rentrée 2026",
-      "source": "AGURAM Metz",
-      "sourceId": "aguram-metz",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.aguram.org/cycle-de-debats-aguram-rentree-2026/",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Metz",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’AGURAM organise 3 évènements incontournables à la rentrée, à l’attention de ses partenaires et des acteurs de l’aménagement des territoires, pour parler stratégie foncière communale, friches messines et histoire urbaine de Metz. Réservez les jeudi 10 septembre, vendredi 11/same…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "aguram-metz-rss-3-1784534042000",
-      "title": "6 questions à… Marilyne Webert, nouvelle présidente de l’AGURAM",
-      "source": "AGURAM Metz",
-      "sourceId": "aguram-metz",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.aguram.org/6-questions-a-marilyne-webert-nouvelle-presidente-de-laguram/",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Metz",
-        "Urbanisme",
-        "Habitat",
-        "Confort d’été"
-      ],
-      "summary": "Marilyne Webert a été élue nouvelle présidente de l’agence. Elle prend la suite de Pierre Fachot, au terme de son mandat. Enseignante spécialisée dans le handicap moteur de métier, elle a aussi une solide expérience des politiques publiques et de la concertation, puisqu’elle est …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "aguram-metz-rss-4-1784533851000",
-      "title": "NOS INSTANCES : Conseil d’administration & assemblée générale AGURAM",
-      "source": "AGURAM Metz",
-      "sourceId": "aguram-metz",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.aguram.org/nos-instances-conseil-dadministration-assemblee-generale-aguram-2/",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Metz",
-        "Urbanisme",
-        "Habitat",
-        "Bâtiment"
-      ],
-      "summary": "Les membres de l’AGURAM participent à la construction collective d’un programme partenarial d’activité. C’est une feuille de route mutualisée au service du bien commun, qui détermine l’essentiel des travaux de l’agence pour l’année à venir. Les apprentissages qui en ressortent so…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "aguram-metz-rss-5-1784533574000",
-      "title": "Des sols vivants pour des aménagements résilients",
-      "source": "AGURAM Metz",
-      "sourceId": "aguram-metz",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.aguram.org/des-sols-vivants-pour-des-amenagements-resilients/",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Metz",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Un atelier de travail et une publication pour présenter les travaux menés sur les sols vivants par les 5 agences d’urbanisme de Lorraine ̶ Champagne-Ardenne en partenariat avec l’Établissement Foncier Public de Grand Est. Si l’EPF de Grand Est prend en compte les sols depuis long…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "verre-protections-magazine-rss-8-1784538749000",
@@ -13701,104 +14305,6 @@
         "Carbone"
       ],
       "summary": "17.07.2026 Visite de chantier du collège et du pôle socio-éducatif et sportif de Mirebeau* * projet inscrit en démarche Bâtiment Durable en Nouvelle-Aquitaine - Médaille d'argent en phase conception délivrée lors de la commission de mars 2024 À l'occasion d'une visite organisée e…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "aguram-metz-rss-6-1784281022000",
-      "title": "DOSSIERS FNAU / Inscrire les espaces périurbains au cœur de la stratégie d’aménagement des territoires : d’un impensé à une priorité",
-      "source": "AGURAM Metz",
-      "sourceId": "aguram-metz",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.aguram.org/dossiers-fnau-inscrire-les-espaces-periurbains-au-coeur-de-la-strategie-damenagement-des-territoires-dun-impense-a-une-priorite/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Metz",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Longtemps décriés, parfois réhabilités, souvent caricaturés, les territoires périurbains restent trop fréquemment appréhendés comme un problème à corriger plutôt que comme une réalité à comprendre, voire à défendre. Trop étalés pour être vertueux, trop dépendants pour être autono…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "aguram-metz-rss-7-1784280379000",
-      "title": "TRAITS D’AGENCES / Sous le foncier, des sols vivants",
-      "source": "AGURAM Metz",
-      "sourceId": "aguram-metz",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.aguram.org/traits-dagences-sous-le-foncier-des-sols-vivants/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Metz",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation",
-        "Carbone",
-        "Eau"
-      ],
-      "summary": "Sous nos pieds, un trésor invisible. Longtemps réduit à une simple surface à bâtir ou à négocier, le sol urbain étouffe sous le béton. Pourtant, ce patrimoine vivant est le pilier secret de notre survie face au changement climatique : stockage du carbone, gestion de l’eau, biodiv…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "aguram-metz-rss-8-1784280231000",
-      "title": "Assemblée constitutive 2026 / Nouvelle présidence",
-      "source": "AGURAM Metz",
-      "sourceId": "aguram-metz",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.aguram.org/assemblee-constitutive-2026-nouvelle-presidence/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Metz",
-        "Urbanisme",
-        "Habitat",
-        "Eau"
-      ],
-      "summary": "L’assemblée constitutive de l’AGURAM, moment fort annuel de la vie de notre association, s’est tenue ce mardi 30 juin à Metz dans l’enceinte du Cloître des Récollets. Ce lieu, propice aux échanges et à la réflexion, a offert un cadre idéal pour présenter les missions de l’agence,…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "aguram-metz-rss-9-1784279957000",
-      "title": "PROGRAMME PARTENARIAL D’ACTIVITÉ 2026 / BOUSSOLE POUR FAISEURS DE BIFURCATION",
-      "source": "AGURAM Metz",
-      "sourceId": "aguram-metz",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.aguram.org/programme-partenarial-dactivite-2026-boussole-pour-faiseurs-de-bifurcation/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Metz",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "Les membres de l’AGURAM participent à la construction collective d’un programme partenarial. Cette feuille de route au service du bien commun, détermine l’essentiel des activités de l’agence pour l’année à venir. Les apprentissages sont ensuite mutualisés (partage des méthodes, e…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -14491,6 +14997,29 @@
       "summary": "Alors que la situation géopolitique est plus complexe que jamais au Moyen-Orient, l’Union Européenne s’organise pour retrouver son indépendance énergétique. Sans surprise, c’est sur l’électricité […] L’article L’UE veut plus que jamais accélérer son électrification pour retrouver…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-349-1784107847000",
+      "title": "economies denergie vrai du faux avoir bons reflexes",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/economies-denergie-vrai-du-faux-avoir-bons-reflexes",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "cerema-sitemap-758-1784120363000",
@@ -15243,6 +15772,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "fibois-france-rss-0-1784112260000",
+      "title": "Fondation France Bois Forêt pour notre Patrimoine",
+      "source": "Fibois France",
+      "sourceId": "fibois-france",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://fibois-france.fr/fondation-france-bois-foret-pour-notre-patrimoine/",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Biosourcé",
+        "Filières",
+        "Réglementation"
+      ],
+      "summary": "Depuis l’incendie de la Cathédrale Notre-Dame de Paris en 2019, la fondation France Bois Forêt pour notre Patrimoine soutient les volontaires qui sauvent les trésors de nos régions. L’article Fondation France Bois Forêt pour notre Patrimoine est apparu en premier sur Fibois Franc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "mediatico-rss-7-1784012400000",
       "title": "Le café des familles : renforcer le pouvoir d’agir des parents en quartier prioritaire de la ville",
       "source": "Mediatico",
@@ -15573,6 +16127,29 @@
       "summary": "Le développeur Photosol a inauguré la deuxième centrale solaire la plus puissante de France à Creil, dans l’Oise, sur l’ancienne base militaire BA110. Elle affiche […] L’article La deuxième plus grande centrale solaire de France vient d’être inaugurée est apparu en premier sur Ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-372-1783695699000",
+      "title": "7 idees recues vagues chaleur",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/7-idees-recues-vagues-chaleur",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "auat-toulouse-rss-16-1783669142000",
@@ -16284,52 +16861,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "audiar-rennes-rss-1-1783579468000",
-      "title": "La ville à hauteur d’enfant à Orgères dans le cadre de la démarche Territoires d’enfance",
-      "source": "AUDIAR Rennes",
-      "sourceId": "audiar-rennes",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Bretagne",
-      "url": "https://www.audiar.org/2026/07/09/la-ville-a-hauteur-denfant-a-orgeres-dans-le-cadre-de-la-demarche-territoires-denfance/",
-      "image": null,
-      "date": "2026-07-09",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Rennes",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Dans le cadre de la charte « Territoires d’enfance » cosignée par la Ville de Rennes et l’UNICEF France, une démarche est engagée autour de la prise en compte de la parole des enfants dans les politiques publiques et la fabrique de la ville. Elle s’inscrit dans un travail plus la…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "scalen-nancy-sud-lorraine-rss-0-1783602293000",
-      "title": "Analyse des impacts des dynamiques démographiques dans le Grand Est",
-      "source": "SCALEN Nancy Sud Lorraine",
-      "sourceId": "scalen-nancy-sud-lorraine",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.agencescalen.fr/analyse-des-impacts-des-dynamiques-demographiques-dans-le-grand-est/",
-      "image": null,
-      "date": "2026-07-09",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Nancy",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "The post Analyse des impacts des dynamiques démographiques dans le Grand Est appeared first on Agence Scalen. The post Analyse des impacts des dynamiques démographiques dans le Grand Est appeared first on Agence Scalen . Analyse des impacts des dynamiques démographiques dans le G…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "lig-air-sitemap-1-1783555200000",
       "title": "information allegee depassement du seuil dinformation et de recommandation de lozone a montargis hier 0907",
       "source": "Lig’Air",
@@ -16574,6 +17105,29 @@
       "summary": "L’édition 2026 du Baromètre INIES est désormais disponible Une dynamique qui s’accélère au service de […] L’article Baromètre 2026 de la base INIES est apparu en premier sur Inies. L&#8217;édition 2026 du Baromètre INIES est désormais disponible Une dynamique qui s&#8217;accélère…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
+      "title": "sobriete energetique plan reduire notre consommation denergie",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/sobriete-energetique-plan-reduire-notre-consommation-denergie",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "atmo-france-sitemap-32-1783498288000",
@@ -16973,29 +17527,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "scalen-nancy-sud-lorraine-rss-1-1783490361000",
-      "title": "Cahier Scalen 70: Observatoire de l’immobilier d’entreprise du bassin nancéien",
-      "source": "SCALEN Nancy Sud Lorraine",
-      "sourceId": "scalen-nancy-sud-lorraine",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.agencescalen.fr/cahier-scalen-69-observatoire-de-limmobilier-dentreprise-du-bassin-nanceien/",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Nancy",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "The post Cahier Scalen 70: Observatoire de l’immobilier d’entreprise du bassin nancéien appeared first on Agence Scalen. The post Cahier Scalen 70: Observatoire de l&rsquo;immobilier d&rsquo;entreprise du bassin nancéien appeared first on Agence Scalen . Cahier Scalen 70: Observa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-46-1783489772000",
       "title": "Produire de l’hydrogène avec du nucléaire : comment l’Inde y est arrivé",
       "source": "Révolution Énergétique",
@@ -17072,6 +17603,29 @@
       "collectMethod": "rss"
     },
     {
+      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
+      "title": "securite sites industriels risques mise place vigilance renforcee",
+      "source": "Ministère de la Transition Écologique",
+      "sourceId": "ministere-de-la-transition-ecologique",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.ecologie.gouv.fr/actualites/securite-sites-industriels-risques-mise-place-vigilance-renforcee",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 82,
+      "tags": [
+        "Réglementation",
+        "Environnement",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "meteo-france-rss-9-1783411505000",
       "title": "Qu’est-ce qu’un orage ?",
       "source": "Météo-France",
@@ -17143,29 +17697,6 @@
         "RE2020"
       ],
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-11-1783427061000",
-      "title": "prospective",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/prospective/",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -17306,29 +17837,6 @@
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "scalen-nancy-sud-lorraine-rss-2-1783427203000",
-      "title": "Nouvelles instances de Scalen",
-      "source": "SCALEN Nancy Sud Lorraine",
-      "sourceId": "scalen-nancy-sud-lorraine",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.agencescalen.fr/nouvelles-instances/",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Nancy",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "The post Nouvelles instances de Scalen appeared first on Agence Scalen. The post Nouvelles instances de Scalen appeared first on Agence Scalen . Nouvelles instances de Scalen",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-47-1783403860000",
@@ -17691,53 +18199,6 @@
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "audiar-rennes-rss-2-1783320690000",
-      "title": "La newsletter de l’Audiar est en ligne : découvrez les dernières publications et actualités de l’agence",
-      "source": "AUDIAR Rennes",
-      "sourceId": "audiar-rennes",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Bretagne",
-      "url": "https://www.audiar.org/2026/07/06/la-newsletter-de-laudiar-est-en-ligne-decouvrez-les-dernieres-publications-et-actualites-de-lagence-5/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Rennes",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation"
-      ],
-      "summary": "Aperçu de la newsletter non exhaustif (cliquez sur l’image pour la voir dans sa globalité) Retrouvez l’intégralité de notre newsletter Cliquez ici pour vous abonner à notre newsletter mensuelle L’article La newsletter de l’Audiar est en ligne : découvrez les dernières publication…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "scalen-nancy-sud-lorraine-rss-3-1783348377000",
-      "title": "Rapport d’activités 2025",
-      "source": "SCALEN Nancy Sud Lorraine",
-      "sourceId": "scalen-nancy-sud-lorraine",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Grand Est",
-      "url": "https://www.agencescalen.fr/rapport-dactivites-2025/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Nancy",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "The post Rapport d’activités 2025 appeared first on Agence Scalen. The post Rapport d&rsquo;activités 2025 appeared first on Agence Scalen . Rapport d’activités 2025",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "ademe-rss-0-1783277614000",
@@ -18149,29 +18610,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "adulm-lille-metropole-sitemap-108-1782992561000",
-      "title": "partenariat de proximite avec cysoing",
-      "source": "ADULM Lille Métropole",
-      "sourceId": "adulm-lille-metropole",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Hauts-de-France",
-      "url": "https://www.adu-lille-metropole.org/actualites/partenariat-de-proximite-avec-cysoing/",
-      "image": null,
-      "date": "2026-07-02",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Lille",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de ADULM Lille Métropole. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "connaissance-des-energies-rss-17-1782950400000",
       "title": "Exportations d'électricité : nouveau record battu au 1ᵉʳ semestre 2026",
       "source": "Connaissance des Énergies",
@@ -18363,102 +18801,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "aupa-pays-d-aix-sitemap-6-1782901923000",
-      "title": "publications et animations",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/publications-et-animations/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "audiar-rennes-rss-3-1782913760000",
-      "title": "Évolutions démographiques, imperméabilisation des sols, adhérents aux activités de loisirs dans les équipements rennais… 3 études présentées en 10 minutes chacune",
-      "source": "AUDIAR Rennes",
-      "sourceId": "audiar-rennes",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Bretagne",
-      "url": "https://www.audiar.org/2026/07/01/evolutions-demographiques-impermeabilisation-des-sols-adherents-aux-activites-de-loisirs-dans-les-equipements-rennais-3-etudes-presentees-en-10-minutes-chacune/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Rennes",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "Le mercredi 17 juin 2026, l’Audiar a consacré son webinaire à la présentation de trois études récentes. En seulement 10 minutes chacune, les intervenantes ont partagé les principaux enseignements de leurs travaux avant d’échanger avec les 150 participants lors de temps de questio…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "audiar-rennes-rss-4-1782913200000",
-      "title": "Les « Récits de vies en 2050 » au service de l’éducation au développement durable",
-      "source": "AUDIAR Rennes",
-      "sourceId": "audiar-rennes",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Bretagne",
-      "url": "https://www.audiar.org/2026/07/01/les-recits-de-vies-en-2050-au-service-de-leducation-au-developpement-durable/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Rennes",
-        "Urbanisme",
-        "Habitat",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "En 2024 l’Audiar a construit 6 fictions qui se déroulent le 12 octobre 2050 alors qu’un dôme de chaleur pèse sur le territoire local. Il s’agissait pour l’agence de mettre en débat le sujet de l’adaptation au changement climatique. La méthode de construction de ces récits de vies…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "adulm-lille-metropole-sitemap-107-1782926390000",
-      "title": "groupement regional de sante environnement",
-      "source": "ADULM Lille Métropole",
-      "sourceId": "adulm-lille-metropole",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Hauts-de-France",
-      "url": "https://www.adu-lille-metropole.org/actualites/groupement-regional-de-sante-environnement/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Lille",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de ADULM Lille Métropole. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "connaissance-des-energies-rss-18-1782864000000",
       "title": "Infrastructures gazières : quels coûts futurs pour un nombre de consommateurs en baisse ?",
       "source": "Connaissance des Énergies",
@@ -18506,6 +18848,32 @@
         "Carbone"
       ],
       "summary": "Le transport est le premier secteur émetteur de gaz à effet de serre (GES) en France, avec 30 % des émissions. Face aux enjeux climatiques, la loi d’orientation des mobilités (LOM) du 24 décembre 2019 fixe un objectif de neutralité carbone des transports d’ici 2050. Elle impose a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "fibois-france-rss-1-1782911061000",
+      "title": "Actualités régionales : les temps forts du mois de Juin",
+      "source": "Fibois France",
+      "sourceId": "fibois-france",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://fibois-france.fr/actualites-regionales-les-temps-forts-du-mois-de-juin/",
+      "image": null,
+      "date": "2026-07-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Biosourcé",
+        "Filières",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "Visite de chantier, webinaires, rencontres avec d'autres professionnels, échange sur les innovations ...Découvrez les temps forts qui ont eu lieu dans votre région ! L’article Actualités régionales : les temps forts du mois de Juin est apparu en premier sur Fibois France. Visite …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
