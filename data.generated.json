@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T02:00:59.535Z",
+  "generatedAt": "2026-08-09T05:50:35.949Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,7 +2161,108 @@
   ],
   "articles": [
     {
-      "id": "le-commerce-du-bois-sitemap-0-1786240870000",
+      "id": "reporterre-rss-0-1786252200000",
+      "title": "Les terrils, montagnes noires devenues poumons verts",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Les-terrils-montagnes-noires-devenues-poumons-verts",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/hl_sdubromel_terril_loos_en_gohelle-67-81560.jpg?1786252201",
+      "date": "2026-08-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Les terrils, ces montagnes de gravats liés à l'exploitation minière, sont plus vivants qu'on ne le pensait quand ils ont été édifiés. Plusieurs décennies après l'arrêt des mines, une guide nous révèle l'étendue de la faune et de la flore qu'ils accueillent. Lire la suite - Report…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "vert-rss-0-1786251600000",
+      "title": "«Montrer qu’il y a d’autres modèles possibles» : face aux géants des mers, une initiative inédite aide les petits pêcheurs à se lancer",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/biodiversite/montrer-quil-y-a-dautres-modeles-possibles-face-aux-geants-des-mers-une-initiative-inedite-aide-les-petits-pecheurs-a-se-lancer/",
+      "image": null,
+      "date": "2026-08-09",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Eau"
+      ],
+      "summary": "Face à la concentration des navires et des droits de pêche aux mains de géants du secteur, Mer de liens achète des bateaux grâce à l'épargne citoyenne pour permettre à de jeunes artisan·nes de lancer leur activité. Initiée en décembre 2025, cette démarche inédite a permis d'insta…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1786248600000",
+      "title": "Un dispositif de mémoire thermique conçu pour permettre une gestion intelligente de la chaleur",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-dispositif-de-memoire-thermique-concu-pour-permettre-une-gestion-intelligente-de-la-chaleur/191969-2026-08",
+      "image": null,
+      "date": "2026-08-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "La chaleur est la principale source de perte d’énergie dans la plupart des processus industriels et des dispositifs électroniques. Pour gérer et réutiliser la chaleur plus efficacement, une étude menée par l’Université de Barcelone a développé un prototype de mémoire thermique ca…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1786245000000",
+      "title": "L’apprentissage automatique accélère la recherche de matériaux durables pour cellules solaires",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/lapprentissage-automatique-accelere-la-recherche-de-materiaux-durables-pour-cellules-solaires/191964-2026-08",
+      "image": null,
+      "date": "2026-08-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "RE2020"
+      ],
+      "summary": "Les cellules solaires en pérovskite ont gagné un énorme élan dans la recherche d’énergie solaire moins chère et plus efficace. Cependant, les matériaux se dégradent avec le temps, limitant leur utilisation commerciale à grande échelle. Pour surmonter l’un des plus grands obstacle…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1786254654000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2187,7 +2288,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1786240870000",
+      "id": "le-commerce-du-bois-sitemap-1-1786254654000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2213,7 +2314,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1786240870000",
+      "id": "le-commerce-du-bois-sitemap-2-1786254654000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2263,7 +2364,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-0-1786168800000",
+      "id": "reporterre-rss-1-1786168800000",
       "title": "« On a une responsabilité quand on écrit des chansons » : une après-midi avec Emily Loizeau",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2289,7 +2390,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1786165800000",
+      "id": "reporterre-rss-2-1786165800000",
       "title": "Partir seule, tracer sa route : ces livres féministes pour passer à l'acte",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2315,7 +2416,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1786165200000",
+      "id": "reporterre-rss-3-1786165200000",
       "title": "Des data centers dans l'espace : la nouvelle lubie désastreuse d'Elon Musk et Jeff Bezos",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2341,7 +2442,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1786165200000",
+      "id": "vert-rss-1-1786165200000",
       "title": "Des moutons contre les flammes : quand l’Espagne paie ses éleveurs pour prévenir les incendies",
       "source": "Vert",
       "sourceId": "vert",
@@ -2416,7 +2517,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1786227000000",
+      "id": "enerzine-rss-2-1786227000000",
       "title": "Pourquoi 25,6°C n’est pas le bon réglage de thermostat pour tout le monde pendant une canicule",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2442,7 +2543,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1786219294000",
+      "id": "enerzine-rss-3-1786219294000",
       "title": "Comparatif des filtres sous évier : quelle solution choisir pour améliorer la qualité de l’eau du robinet ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2467,7 +2568,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1786158600000",
+      "id": "enerzine-rss-4-1786158600000",
       "title": "Rayures ou damier ? Le champ magnétique influence des motifs électroniques concurrents dans un matériau quantique de type graphène",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3052,7 +3153,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1786107541000",
+      "id": "reporterre-rss-4-1786107541000",
       "title": "La France à sec : les premiers ravages d'une sécheresse hors norme",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3078,7 +3179,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1786105800000",
+      "id": "reporterre-rss-5-1786105800000",
       "title": "Louise Michel, l'amour des animaux au cœur de la révolution",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3104,7 +3205,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1786079400000",
+      "id": "reporterre-rss-6-1786079400000",
       "title": "Canicules, incendies : comment l'extrême droite en fait un argument contre l'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3130,7 +3231,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1786079100000",
+      "id": "reporterre-rss-7-1786079100000",
       "title": "« IA pas moyen » : ils refusent le data center géant de Microsoft en Alsace",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3155,7 +3256,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1786078800000",
+      "id": "reporterre-rss-8-1786078800000",
       "title": "Son fils est né avec une malformation : une mère en colère contre les pesticides et leurs « lobbyistes sans scrupules »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3181,7 +3282,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1786075200000",
+      "id": "vert-rss-2-1786075200000",
       "title": "«On voit disparaître des espèces» : en Guadeloupe, la célèbre réserve Cousteau peine à enrayer l’effondrement de sa biodiversité",
       "source": "Vert",
       "sourceId": "vert",
@@ -3463,7 +3564,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1786140600000",
+      "id": "enerzine-rss-5-1786140600000",
       "title": "Le marc de café peut être transformé en matière première pour produire des biocarburants",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3487,7 +3588,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1786081500000",
+      "id": "enerzine-rss-6-1786081500000",
       "title": "Le 12 août, l’éclipse fera chuter le solaire de 1 800 MW en France",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3512,7 +3613,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1786079400000",
+      "id": "enerzine-rss-7-1786079400000",
       "title": "USA : Comment les pompes à chaleur fixées aux fenêtres peuvent offrir aux locataires un chauffage et une climatisation efficaces",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3538,7 +3639,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1786075800000",
+      "id": "enerzine-rss-8-1786075800000",
       "title": "L’ingénierie d’interface semi-métal/semi-conducteur permet l’imagerie optique à grande vitesse",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3563,7 +3664,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1786072200000",
+      "id": "enerzine-rss-9-1786072200000",
       "title": "Une étude révèle comment le changement climatique redéfinit l’efficacité du refroidissement et la demande énergétique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3757,32 +3858,6 @@
       "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "meteo-france-rss-0-1786004844000",
-      "title": "Qu’est-ce que la température ?",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/quest-ce-que-la-temperature",
-      "image": "https://meteofrance.com/sites/default/files/inline-images/ballon-et-satellite.PNG",
-      "date": "2026-08-06",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Réglementation",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Qu’est-ce que la température ? En physique, la température caractérise l’agitation moléculaire de la matière. Plus les molécules ou les atomes s'agitent vite, plus la température est élevée. En météorologie, on utilise très souvent le degré Celsius (°C). 0 °C correspond à la temp…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "promotelec-sitemap-50-1786029552000",
@@ -4184,7 +4259,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1786026883000",
+      "id": "reporterre-rss-9-1786026883000",
       "title": "Hiroshima, Nagasaki : maintenir la mémoire des bombes atomiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4210,7 +4285,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1786019400000",
+      "id": "reporterre-rss-10-1786019400000",
       "title": "Flora Tristan, la révolutionnaire qui dénonçait déjà la pollution industrielle au XIXe siècle",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4236,7 +4311,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1785993000000",
+      "id": "reporterre-rss-11-1785993000000",
       "title": "« Ils m'empêchent de rejoindre mes oliviers » : au Sud-Liban, la vie sous occupation israélienne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4262,7 +4337,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1785992700000",
+      "id": "reporterre-rss-12-1785992700000",
       "title": "22 °C sans clim : le pari réussi de la maison en terre et en bois",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4288,7 +4363,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1785992400000",
+      "id": "reporterre-rss-13-1785992400000",
       "title": "40 °C, bâti inadapté : la Bretagne n'est pas le refuge climatique qu'on croit",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4314,7 +4389,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1786010689000",
+      "id": "vert-rss-3-1786010689000",
       "title": "«Si c’est pour qu’il naisse sur une planète en guerre et en feu, ce n’est pas la peine» : elles et ils voulaient un enfant, mais leur vie a basculé cet été",
       "source": "Vert",
       "sourceId": "vert",
@@ -4513,56 +4588,6 @@
         "Réglementation"
       ],
       "summary": "En prise à d’importantes vagues de chaleur, l’Europe centrale doit composer avec le faible niveau du Danube, qui empêche le bon fonctionnement de plusieurs centrales […] L’article Les niveaux historiquement bas du Danube mettent à mal la sécurité énergétique européenne est apparu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1786054200000",
-      "title": "Une invention magnétique élimine les microplastiques « invisibles » et certains PFAS",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/une-invention-magnetique-elimine-les-microplastiques-invisibles-et-certains-pfas/191815-2026-08",
-      "image": null,
-      "date": "2026-08-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Des chercheurs de l’Université RMIT ont mis au point un matériau de traitement de l’eau qui élimine rapidement les micro et nanoplastiques ainsi que certains PFAS (substances per- et polyfluoroalkylées), rapprochant cette technologie d’une utilisation concrète. L’invention s’appu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1786034001000",
-      "title": "Le prix d’une voiture électrique en France",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/le-prix-dune-voiture-electrique-en-france/192517-2026-08",
-      "image": null,
-      "date": "2026-08-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "La transition vers la mobilité électrique transforme en profondeur les arbitrages des acheteurs français. Si l’acquisition d’un véhicule électrique représente un investissement conséquent, la lecture du marché révèle des écarts tarifaires considérables entre les différentes catég…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4835,32 +4860,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "meteo-france-rss-1-1785939795000",
-      "title": "Qu'est-ce qu'un nuage ?",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/quest-ce-quun-nuage",
-      "image": "https://meteofrance.com/sites/default/files/styles/730_322/public/images/articles/Nuages-altocumulus%20floccus-Michel%20Hontarrede.JPG?itok=2VPmQZph",
-      "date": "2026-08-05",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Eau",
-        "Confort d’été",
-        "Biosourcé"
-      ],
-      "summary": "Qu'est-ce qu'un nuage ? Un nuage est formé d'une multitude de gouttelettes d'eau ou de cristaux de glace en suspension dans l'atmosphère. Son aspect est fonction de la nature, de la taille et de la répartition des particules qui le composent, ainsi que de la lumière qui l'éclaire…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "qualitel-cerqual-rss-0-1785935988000",
       "title": "Le Fonds de dotation QUALITEL aux côtés de l’AFEJI Hauts-de-France pour améliorer le quotidien des seniors",
       "source": "Qualitel / Cerqual",
@@ -5006,7 +5005,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1785944637000",
+      "id": "reporterre-rss-14-1785944637000",
       "title": "« Désarmer Bolloré » : la lutte contre le milliardaire se déplace en face de son île privée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5031,7 +5030,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1785933751000",
+      "id": "reporterre-rss-15-1785933751000",
       "title": "« Nous voulons construire un territoire robuste face aux feux » : après les incendies, le monde paysan se réorganise",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5057,7 +5056,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1785933640000",
+      "id": "reporterre-rss-16-1785933640000",
       "title": "La guerre contre l'Iran a fait exploser les bénéfices des plus gros producteurs de pétrole",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5083,7 +5082,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1785922376000",
+      "id": "reporterre-rss-17-1785922376000",
       "title": "Vitamine D pour les bébés : un business dangereux pour leur santé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5108,7 +5107,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1785916070000",
+      "id": "reporterre-rss-18-1785916070000",
       "title": "La sécheresse prive la Hongrie d'électricité, le ministre de l'Énergie redécouvre les jeux de société",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5134,7 +5133,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1785906300000",
+      "id": "reporterre-rss-19-1785906300000",
       "title": "Balade dans le jardin de George Sand, pionnière de la pensée écologiste",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5160,7 +5159,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1785922672000",
+      "id": "vert-rss-4-1785922672000",
       "title": "«Complètement démesuré» : la préfecture de Gironde autorise le plus grand projet de ferme à saumons de l’Union européenne",
       "source": "Vert",
       "sourceId": "vert",
@@ -5760,7 +5759,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1785859285000",
+      "id": "reporterre-rss-20-1785859285000",
       "title": "100 hectares brûlés dans une réserve naturelle aux Pays-Bas",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5785,7 +5784,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1785856106000",
+      "id": "reporterre-rss-21-1785856106000",
       "title": "« C'est la campagne silencieuse » : quand les vergers sont remplacés par des champs de maïs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5809,7 +5808,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1785855814000",
+      "id": "reporterre-rss-22-1785855814000",
       "title": "Mégaferme à saumons : le projet contesté est autorisé par la préfecture de Gironde",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5835,7 +5834,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1785852206000",
+      "id": "reporterre-rss-23-1785852206000",
       "title": "Avant l'écoféminisme, Suzanne Césaire tissait déjà le lien entre colonisation et destruction du vivant",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5860,7 +5859,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1785846305000",
+      "id": "reporterre-rss-24-1785846305000",
       "title": "La sécheresse des petits cours d'eau en juillet est « la plus critique jamais observée »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5886,7 +5885,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1785845627000",
+      "id": "reporterre-rss-25-1785845627000",
       "title": "Juillet 2026 : le mois le plus chaud jamais enregistré en France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5912,7 +5911,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1785844448000",
+      "id": "reporterre-rss-26-1785844448000",
       "title": "Sécheresse : un village englouti refait surface en Indonésie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5938,7 +5937,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1785827246000",
+      "id": "reporterre-rss-27-1785827246000",
       "title": "« C'est du mépris de classe » : une mairie profite des incendies pour supprimer des jardins familiaux",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5963,7 +5962,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1785820200000",
+      "id": "reporterre-rss-28-1785820200000",
       "title": "Une start-up soutenue par Jeff Bezos veut s'approprier des archives coloniales pour trouver du lithium au Congo",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5988,7 +5987,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1785819600000",
+      "id": "reporterre-rss-29-1785819600000",
       "title": "« L'équivalent d'une forêt brûlée » : les canicules marines ravagent les fonds marins",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6014,7 +6013,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1785854945000",
+      "id": "vert-rss-5-1785854945000",
       "title": "«Faire primer l’intérêt de la nature sur celui d’un loisir» : la pression monte pour suspendre la chasse dans les zones incendiées",
       "source": "Vert",
       "sourceId": "vert",
@@ -6039,7 +6038,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1785816000000",
+      "id": "vert-rss-6-1785816000000",
       "title": "«Une grande prison à ciel ouvert» : le quotidien bouleversé des villages du Sud-Liban, sous occupation israélienne",
       "source": "Vert",
       "sourceId": "vert",
@@ -6185,29 +6184,6 @@
       "summary": "Les incendies de forêt en Europe ont déjà causé 3,1 milliards d'euros de dégâts en deux mois, dépassant la moyenne annuelle de l'UE. Mais la sécheresse qui accompagne ces feux provoque une crise énergétique majeure : le Danube et le Rhin atteignent des niveaux historiquement bas,…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-16-1785750141000",
-      "title": "publication ventes produits phytopharmaceutiques",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/publication-ventes-produits-phytopharmaceutiques",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-5-1785760199000",
@@ -6431,7 +6407,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1785769544000",
+      "id": "reporterre-rss-30-1785769544000",
       "title": "99 grands feux actifs : les États-Unis en proie aux flammes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6457,7 +6433,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1785766595000",
+      "id": "reporterre-rss-31-1785766595000",
       "title": "Incendie sur un site Seveso en Moselle : le confinement de 30 000 personnes levé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6483,7 +6459,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1785759803000",
+      "id": "reporterre-rss-32-1785759803000",
       "title": "PFAS dans l'eau : la décontamination pourrait coûter jusqu'à 5,7 milliards d'euros",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6509,7 +6485,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1785759346000",
+      "id": "reporterre-rss-33-1785759346000",
       "title": "Les précurseuses de l'écologie : Rosa Luxemburg, icône révolutionnaire et naturaliste passionnée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6534,7 +6510,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1785759321000",
+      "id": "reporterre-rss-34-1785759321000",
       "title": "« C'est une guerre de l'eau » : aux États-Unis, cette ville pourrait devenir la première à manquer d'eau",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6559,7 +6535,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1785757960000",
+      "id": "reporterre-rss-35-1785757960000",
       "title": "Sécheresse : plusieurs réacteurs nucléaires à l'arrêt en France et en Hongrie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6585,7 +6561,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1785733860000",
+      "id": "reporterre-rss-36-1785733860000",
       "title": "Dans l'Allier, la plus grande mine de lithium d'Europe s'attaque à une forêt pleine d'espèces protégées",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6611,7 +6587,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1785733500000",
+      "id": "reporterre-rss-37-1785733500000",
       "title": "« Ils sortent des toilettes, des éviers » : Ibiza débordée par la prolifération des serpents",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6636,7 +6612,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1785733200000",
+      "id": "reporterre-rss-38-1785733200000",
       "title": "En Bretagne, l'agriculture intensive pollue… et l'État la paie pour nettoyer ses algues vertes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6660,7 +6636,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1785729600000",
+      "id": "vert-rss-7-1785729600000",
       "title": "«Le samedi 26 septembre, partout en France, nous serons dans la rue» : près de 1000 citoyens lancent un appel pour un plan d’urgence climatique",
       "source": "Vert",
       "sourceId": "vert",
@@ -6942,33 +6918,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "meteo-france-rss-2-1785689159000",
-      "title": "Comment se forme un nuage ?",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/comment-se-forme-un-nuage",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/Convection.gif?itok=owPKmlgQ",
-      "date": "2026-08-02",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Eau",
-        "Confort d’été",
-        "Biosourcé"
-      ],
-      "summary": "Comment se forme un nuage ? Pour le comprendre, il faut savoir qu'une masse d'air ne peut contenir qu'une certaine quantité de vapeur d'eau, qui dépend de la température. Plus l'air est chaud, plus il peut être chargé en vapeur d'eau. Lorsqu'une masse d'air chaud saturée en vapeu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-38-1785648600000",
+      "id": "reporterre-rss-39-1785648600000",
       "title": "« Ça a été un lieu de souffrance » : la mémoire ressuscitée des harkis forcés de reboiser la Provence",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6994,7 +6944,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1785646800000",
+      "id": "vert-rss-8-1785646800000",
       "title": "Microplastiques, molécules toxiques… Comment limiter la pollution des pneus de voiture",
       "source": "Vert",
       "sourceId": "vert",
@@ -7067,7 +7017,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1785561000000",
+      "id": "reporterre-rss-40-1785561000000",
       "title": "Ces animaux qui peignent, dansent et construisent des cathédrales de sable",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7092,7 +7042,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1785560700000",
+      "id": "reporterre-rss-41-1785560700000",
       "title": "Plants grillés, pommes de terre minuscules, choux replantés trois fois : l'été qui épuise les maraîchers",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7118,7 +7068,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1785560400000",
+      "id": "reporterre-rss-42-1785560400000",
       "title": "« Ce qu'on fait subir au fleuve, on se le fait subir » : une nuit de bivouac sur la Loire avec Étienne Davodeau",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7144,7 +7094,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1785560400000",
+      "id": "vert-rss-9-1785560400000",
       "title": "Cancers, handicaps… En Afrique du Sud, l’enfer des habitants de Snake Park face à la pollution des anciennes mines d’or",
       "source": "Vert",
       "sourceId": "vert",
@@ -7194,30 +7144,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-363-1785511271000",
-      "title": "canicule vagues chaleur bons gestes adopter",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/canicule-vagues-chaleur-bons-gestes-adopter",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 90,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment",
-        "Confort d’été"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "ministere-de-la-culture-architecture-sitemap-6-1785488196000",
       "title": "hommage de mme catherine pegard ministre de la culture a stephane ricordel",
       "source": "Ministère de la Culture — Architecture",
@@ -7262,81 +7188,6 @@
       "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "meteo-france-rss-3-1785499911000",
-      "title": "Le printemps",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/le-printemps",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/GRA_OBS_S_FRANCE_ATMAG_1900HIV_2026ETE_PRI.png?itok=2_kJsUZI",
-      "date": "2026-07-31",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Réglementation",
-        "RE2020",
-        "Confort d’été"
-      ],
-      "summary": "Le printemps La transition entre la saison froide et les chaleurs estivales est progressive et plus ou moins précoce selon les années. Les journées froides et parfois humides se raréfient au fil de la saison et alternent avec des jours de plus en plus doux, parfois orageux ou trè…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "meteo-france-rss-4-1785487245000",
-      "title": "L'hiver",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/lhiver",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/GRA_OBS_S_FRANCE_ATMAG_1900HIV_2026ETE_HIV.png?itok=94hKk1AA",
-      "date": "2026-07-31",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Confort d’été"
-      ],
-      "summary": "L'hiver La saison du froid L'hiver météorologique, qui commence le 1er décembre et s'achève à la fin du mois de février, correspond à la période la plus froide de l'année dans l'hémisphère Nord. C'est la saison du froid, voire des grands froids, mais aussi de la neige, du givre, …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "meteo-france-rss-5-1785486550000",
-      "title": "L'automne",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/lautomne",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/GRA_OBS_S_FRANCE_ATMAG_1900HIV_2026ETE_AUT.png?itok=wTFvpi0o",
-      "date": "2026-07-31",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 98,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Confort d’été",
-        "Réemploi"
-      ],
-      "summary": "L'automne La saison des contrastes L'automne est une saison de contrastes : transition entre la saison chaude et ses chaleurs estivales et la saison froide et ses chutes de neige. La transition peut être progressive ou brutale selon les années. On peut connaître une belle saison …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "batiweb-rss-8-1785509400000",
@@ -7797,7 +7648,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-42-1785505034000",
+      "id": "reporterre-rss-43-1785505034000",
       "title": "Incendie en Gironde : des obus de la Seconde Guerre mondiale ont explosé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7822,7 +7673,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1785502856000",
+      "id": "reporterre-rss-44-1785502856000",
       "title": "Canicule : « Le réchauffement climatique a pris corps, beaucoup de personnes ont vécu cette bascule dans leur chair »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7848,7 +7699,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1785502087000",
+      "id": "reporterre-rss-45-1785502087000",
       "title": "« On a signé pour aller au charbon, pas à l'échafaud » : les pompiers asphyxiés par les fumées des incendies",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7874,7 +7725,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1785502055000",
+      "id": "reporterre-rss-46-1785502055000",
       "title": "« Dans notre malheur, on aura fait de belles rencontres » : à Bordeaux, avec les derniers évacués de l'incendie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7900,7 +7751,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1785500495000",
+      "id": "reporterre-rss-47-1785500495000",
       "title": "En Bulgarie, des ossements de mammouth découverts dans le lit asséché du Danube",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7926,7 +7777,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1785498130000",
+      "id": "reporterre-rss-48-1785498130000",
       "title": "Incendies : 17 % des fumeurs jettent leur mégot par la fenêtre de leur voiture",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7952,7 +7803,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1785497973000",
+      "id": "reporterre-rss-49-1785497973000",
       "title": "Le changement climatique a bien favorisé les feux de forêt",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7978,7 +7829,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1785474600000",
+      "id": "reporterre-rss-50-1785474600000",
       "title": "« Le pin est une véritable boîte d'allumettes »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8004,7 +7855,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1785474300000",
+      "id": "reporterre-rss-51-1785474300000",
       "title": "Incendies : faut-il interdire la chasse pour laisser du répit aux animaux sauvages ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8030,7 +7881,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1785474000000",
+      "id": "reporterre-rss-52-1785474000000",
       "title": "La France sous les flammes : la faillite criminelle du néolibéralisme",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8050,31 +7901,6 @@
         "Climat"
       ],
       "summary": "La France brûle, et nos dirigeants ne font qu'aggraver une situation qu'ils connaissent pourtant parfaitement. Sont-ils totalement irrationnels ? Non, répond cet éditorial, ils appliquent juste le dogme néolibéral qui nous entraîne dans l'abîme. Nos dirigeants sont-ils devenus to…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "vert-rss-9-1785511897000",
-      "title": "«Ça m’a sauvé» : cet agriculteur des Pyrénées-Orientales avait tout perdu dans les flammes, une cagnotte solidaire lui redonne espoir",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/climat/ca-ma-sauve-cet-agriculteur-des-pyrenees-orientales-avait-tout-perdu-dans-les-flammes-une-cagnotte-solidaire-lui-redonne-espoir/",
-      "image": "https://r2.vert.eco/2026/08/03080814/Tom-VDEF_1.mp4",
-      "date": "2026-07-31",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques",
-        "Réglementation"
-      ],
-      "summary": "Début juillet, un incendie a ravagé l’exploitation agricole autonome que Tom Poulot construisait depuis six ans à Vinça (Pyrénées-Orientales). Alors qu’il pensait devoir abandonner son projet, la cagnotte lancée pour l’aider après le sinistre a rassemblé près de 40 000 euros. Déb…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8303,29 +8129,6 @@
       "summary": "Les données récentes publiées par Météo-France démontrent que l’été 2026 s’inscrit parmi les épisodes de sécheresse les plus sévères en France. Au 15 juillet, l’humidité des sols atteint des niveaux […] L’article Sécheresse et retrait-gonflement des argiles : un été sous tension …",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-368-1785400419000",
-      "title": "6 chiffres comprendre defi commerces proximite communes rurales",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/6-chiffres-comprendre-defi-commerces-proximite-communes-rurales",
-      "image": null,
-      "date": "2026-07-30",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-13-1785413906000",
@@ -8782,7 +8585,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1785423600000",
+      "id": "reporterre-rss-53-1785423600000",
       "title": "Le risque d'incendie a doublé en 40 ans en Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8807,7 +8610,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1785421325000",
+      "id": "reporterre-rss-54-1785421325000",
       "title": "En infographies : 10 ans de sous-investissement dans la lutte contre les incendies",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8833,7 +8636,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1785421194000",
+      "id": "reporterre-rss-55-1785421194000",
       "title": "Pannes, aliments gâchés : quand les canicules mettent nos frigos hors service",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8859,7 +8662,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1785417905000",
+      "id": "reporterre-rss-56-1785417905000",
       "title": "Canicule : la LPO appelle à donner de l'eau aux animaux",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8885,7 +8688,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1785415860000",
+      "id": "reporterre-rss-57-1785415860000",
       "title": "« Savourons cette victoire » : la serre géante Tropicalia ne verra pas le jour dans le Pas-de-Calais",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8911,7 +8714,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1785388200000",
+      "id": "reporterre-rss-58-1785388200000",
       "title": "Plaque tournante du chlordécone, une ville de l'Aude au cœur d'une enquête pour son héritage toxique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8936,7 +8739,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-58-1785387900000",
+      "id": "reporterre-rss-59-1785387900000",
       "title": "« C'est un carnage » : ces nouveaux maires d'extrême droite s'acharnent contre des projets écolos",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8958,31 +8761,6 @@
         "Eau"
       ],
       "summary": "Jardins, écoquartiers, ferme municipale... Une fois élus, les maires d'extrême droite ne s'attaquent pas qu'à la culture et aux syndicats. Ils sabotent aussi des projets écologiques. Exemples dans trois villes du sud de la France. C'est un carnage. J'en suis malade. » Sous un sol…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1785387600000",
-      "title": "« Des chats sont bloqués depuis six jours » : en Gironde, des bénévoles au secours des animaux laissés sur place",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/On-fait-ce-qu-on-peut-comme-on-peut-en-Gironde-des-benevoles-au-secours-des-animaux",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/8453-reporterrre-futur-159-_c_timotheebuisson_resized-0154d.jpg?1785387601",
-      "date": "2026-07-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation"
-      ],
-      "summary": "En Gironde, des bénévoles se rendent dans les zones évacuées pour tenter, avec les moyens du bord, de sauver les animaux blessés ou ceux que leurs propriétaires n'ont pas eu le temps d'emmener avec eux. On l'a retrouvé au bord de la route. Il a le bout des pattes brûlé. » Ému, un…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9808,32 +9586,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "meteo-france-rss-6-1785237685000",
-      "title": "Changement climatique : quel impact sur les vagues de chaleur ?",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/changement-climatique/changement-climatique-quel-impact-sur-les-vagues-de-chaleur",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/vagues-de-chaleur-evolution-2026.jpg?itok=ukA2SX2i",
-      "date": "2026-07-28",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "RE2020",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Changement climatique : quel impact sur les vagues de chaleur ? Une vague de chaleur correspond à un épisode où les températures sont anormalement élevées pendant plusieurs jours. Pour identifier une vague de chaleur, les météorologues s’appuient sur l’indicateur thermique nation…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "inc-institut-national-de-la-consommation-rss-0-1785276000000",
       "title": "Calculez votre empreinte carbone",
       "source": "INC — Institut National de la Consommation",
@@ -10305,30 +10057,6 @@
       "summary": "Risques climatiques et effondrement de la biodiversité : le secteur immobilier fait face à une équation de plus en plus complexe, dans un contexte réglementaire contraint. Les acteurs de l’immobilier doivent aujourd’hui non seulement […] L’article R4RE : la plateforme de l’OID po…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-374-1785139688000",
-      "title": "ambition france transports nouveau modele financement mobilites",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/ambition-france-transports-nouveau-modele-financement-mobilites",
-      "image": null,
-      "date": "2026-07-27",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 90,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-15-1785158962000",
@@ -11087,6 +10815,52 @@
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "aupa-pays-d-aix-sitemap-8-1784903873000",
+      "title": "habitat modes de vie",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/category/publication/habitat-modes-de-vie/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "aupa-pays-d-aix-sitemap-12-1784903873000",
+      "title": "publication",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/category/publication/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "filiere-3e-rss-2-1784877428000",
       "title": "Sauter Vision Center 9.2 : de nouvelles fonctionnalités pour améliorer l’efficacité énergétique et la sécurité.",
       "source": "Filière 3e",
@@ -11482,29 +11256,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-371-1784816306000",
-      "title": "ministere partenaire du film danimation fille nuages",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/ministere-partenaire-du-film-danimation-fille-nuages",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "ministere-de-la-culture-architecture-sitemap-18-1784822511000",
       "title": "renouvellement de m. emmanuel kasarherou a la presidence de l etablissement public du musee du quai branly jacques chirac",
       "source": "Ministère de la Culture — Architecture",
@@ -11595,32 +11346,6 @@
       "summary": "Publication détectée dans le sitemap de Ministère de la Culture — Architecture. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "meteo-france-rss-7-1784804384000",
-      "title": "La Météo des forêts : s’informer sur le danger de feux",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/actualites/la-meteo-des-forets-sinformer-sur-le-danger-de-feux",
-      "image": "https://meteofrance.com/sites/default/files/styles/730_322/public/images/articles/GettyImages-1363689354.jpg?itok=9_o4T3dn",
-      "date": "2026-07-23",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "La Météo des forêts : s’informer sur le danger de feux Consultez la Météo des forêts Sous l’effet du changement climatique, la majeure partie du territoire est vulnérable aux incendies de forêt et de végétation. 9 départs de feu sur 10 sont d’origine humaine. La moitié est due à …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "atmo-france-sitemap-520-1784805359000",
@@ -12205,29 +11930,6 @@
       "summary": "The Alliance HQE France GBC was created in 1996 and is a public-interest association that brings together stakeholders from across the sustainable built environment to collaboratively develop solutions to tomorrow’s environmental […] L’article [ESREI’s European Tour] What’s to co…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-37-1784713969000",
-      "title": "secheresse france",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/secheresse-france",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ministere-de-la-culture-architecture-sitemap-22-1784744395000",
@@ -12909,75 +12611,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-316-1784650478000",
-      "title": "vacances sereines applis lete",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/vacances-sereines-applis-lete",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-369-1784648815000",
-      "title": "adoption feuille route climatique francaise",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/adoption-feuille-route-climatique-francaise",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ministere-de-la-transition-ecologique-sitemap-373-1784627150000",
-      "title": "programme villages davenir perennise",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/programme-villages-davenir-perennise",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "ministere-de-la-culture-architecture-sitemap-29-1784639737000",
       "title": "l eau ce bien commun qu il faut apprendre a transmettre",
       "source": "Ministère de la Culture — Architecture",
@@ -13489,29 +13122,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-370-1784539673000",
-      "title": "semaine europeenne mobilite deposez vos initiatives deplacements plus durables",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/semaine-europeenne-mobilite-deposez-vos-initiatives-deplacements-plus-durables",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "ministere-de-la-culture-architecture-sitemap-28-1784563128000",
       "title": "nomination de jerome montchal a la direction du phenix scene nationale de valenciennes metropole",
       "source": "Ministère de la Culture — Architecture",
@@ -13677,32 +13287,6 @@
       "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "meteo-france-rss-8-1784535077000",
-      "title": "Pourquoi le ciel est-il bleu ?",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/pourquoi-le-ciel-est-il-bleu",
-      "image": "https://meteofrance.com/sites/default/files/inline-images/pourquoi-ciel-bleu.jpg",
-      "date": "2026-07-20",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "Pourquoi le ciel est-il bleu ? La lumière blanche du soleil est composée d'une infinité de lumières colorées que l'on peut observer au travers d’un prisme ou dans les arcs-en-ciel par exemple. Chaque couleur est caractérisée par une longueur d'onde. Les plus courtes longueurs d’o…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "promotelec-sitemap-49-1784554386000",
@@ -15257,29 +14841,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-349-1784107847000",
-      "title": "economies denergie vrai du faux avoir bons reflexes",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/economies-denergie-vrai-du-faux-avoir-bons-reflexes",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "cerema-sitemap-758-1784120363000",
       "title": "1 caracterisation sols roches",
       "source": "CEREMA",
@@ -16387,29 +15948,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-372-1783695699000",
-      "title": "7 idees recues vagues chaleur",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/7-idees-recues-vagues-chaleur",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "auat-toulouse-rss-16-1783669142000",
       "title": "Canicule : “Il faut adapter la ville pour préserver sa raison d’être”",
       "source": "AUAT Toulouse",
@@ -17411,29 +16949,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
-      "title": "sobriete energetique plan reduire notre consommation denergie",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/sobriete-energetique-plan-reduire-notre-consommation-denergie",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "atmo-france-sitemap-32-1783498288000",
       "title": "grand public",
       "source": "Atmo France",
@@ -17930,55 +17445,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
-      "title": "securite sites industriels risques mise place vigilance renforcee",
-      "source": "Ministère de la Transition Écologique",
-      "sourceId": "ministere-de-la-transition-ecologique",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.ecologie.gouv.fr/actualites/securite-sites-industriels-risques-mise-place-vigilance-renforcee",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 82,
-      "tags": [
-        "Réglementation",
-        "Environnement",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ministère de la Transition Écologique. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "meteo-france-rss-9-1783411505000",
-      "title": "Qu’est-ce qu’un orage ?",
-      "source": "Météo-France",
-      "sourceId": "meteo-france",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://meteofrance.com/meteo-a-z/quest-ce-quun-orage",
-      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/Vignette-Orages.jpg?itok=agIIIonB",
-      "date": "2026-07-07",
-      "access": "official",
-      "official": true,
-      "highImpact": true,
-      "impactScore": 100,
-      "tags": [
-        "Climat",
-        "Canicule",
-        "Données météo",
-        "Réglementation",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Qu’est-ce qu’un orage ? Éclairs, coups de tonnerre, fortes pluies, bourrasques… autant de manifestations qui peuvent survenir lors d'un orage. Un éclair peut se déclencher à l'intérieur du nuage, entre deux nuages, ou entre le nuage et le sol ou un aéronef (on parle alors de foud…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "ordre-des-architectes-cnoa-rss-3-1783410026000",
       "title": "Composition du Bureau du CROA CVL",
       "source": "Ordre des Architectes — CNOA",
@@ -18024,6 +17490,29 @@
         "RE2020"
       ],
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "aupa-pays-d-aix-sitemap-11-1783427061000",
+      "title": "prospective",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/category/publication/prospective/",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -19245,6 +18734,29 @@
       "summary": "L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM. L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM . Les centres-villes face aux défis des transitions",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "aupa-pays-d-aix-sitemap-6-1782901923000",
+      "title": "publications et animations",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/publications-et-animations/",
+      "image": null,
+      "date": "2026-07-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "audiar-rennes-rss-3-1782913760000",
