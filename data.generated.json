@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T16:04:34.918Z",
+  "generatedAt": "2026-08-11T20:52:57.579Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2338,7 +2338,7 @@
     },
     {
       "id": "reporterre-rss-1-1786461161000",
-      "title": "« On a notre place partout » : randonner en montagne, une expérience jalonnée de racisme",
+      "title": "« Restez chez vous » : à la montagne, ces randonneurs subissent le racisme",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2389,7 +2389,7 @@
     },
     {
       "id": "reporterre-rss-3-1786455017000",
-      "title": "Canicules et incendies : pourquoi les géants des énergies fossiles échappent à notre colère",
+      "title": "Canicules et incendies : les principaux pyromanes sont identifiés mais restent impunis",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2400,14 +2400,13 @@
       "access": "Gratuit",
       "official": false,
       "highImpact": false,
-      "impactScore": 96,
+      "impactScore": 88,
       "tags": [
         "Presse professionnelle",
         "Écologie",
         "Environnement",
         "Climat",
-        "Confort d’été",
-        "Énergie"
+        "Confort d’été"
       ],
       "summary": "Alors qu'une cinquième canicule débute et que les forêts s'embrasent, les plus grands émetteurs de gaz à effet de serre continuent d'alimenter le brasier du réchauffement climatique, sans en être tenus pour responsables, dénonce notre journaliste dans cet éditorial. À chaque phén…",
       "premiumSummary": "",
@@ -2492,7 +2491,7 @@
     },
     {
       "id": "reporterre-rss-7-1786424400000",
-      "title": "Incendies : ils et elles se forment pour intervenir avant les pompiers",
+      "title": "En Espagne, contre les incendies, une « armée de bénévoles » qui « fait la différence »",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2695,7 +2694,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1786437600000",
+      "id": "enerzine-rss-0-1786464300000",
+      "title": "Pourquoi l’éclairage LED s’impose dans les projets d’efficacité énergétique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/pourquoi-leclairage-led-simpose-dans-les-projets-defficacite-energetique/192597-2026-08",
+      "image": null,
+      "date": "2026-08-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "L’optimisation de la consommation énergétique est au cœur des stratégies des entreprises, des collectivités et des particuliers. Dans ce contexte, l’éclairage LED s’est affirmé ces dernières années comme la référence en matière de modernisation des installations lumineuses. Plus …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1786437600000",
       "title": "L’Europe face à Starlink : la constellation IRIS² passe à 348 satellites",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2720,7 +2743,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1786434600000",
+      "id": "enerzine-rss-2-1786434600000",
       "title": "Correction acoustique : le matériau ne fait pas tout, la pose change la performance",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2746,7 +2769,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1786425000000",
+      "id": "enerzine-rss-3-1786425000000",
       "title": "Une réalité plus longue et plus chaude entoure les vagues de chaleur marines, selon une nouvelle étude",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2772,7 +2795,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1786421400000",
+      "id": "enerzine-rss-4-1786421400000",
       "title": "Les isolateurs topologiques progressent vers des applications pratiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2796,7 +2819,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1786417800000",
+      "id": "enerzine-rss-5-1786417800000",
       "title": "Un ordinateur fait de particules oscillant dans un liquide",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3048,7 +3071,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1786464296000",
+      "id": "le-commerce-du-bois-sitemap-0-1786481595000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3074,7 +3097,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1786464296000",
+      "id": "le-commerce-du-bois-sitemap-1-1786481595000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3100,7 +3123,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1786464296000",
+      "id": "le-commerce-du-bois-sitemap-2-1786481595000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3753,7 +3776,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1786399800000",
+      "id": "enerzine-rss-6-1786399800000",
       "title": "Construire plus de sources d’énergie renouvelable signifie repenser l’utilisation des terres pour l’agriculture et la conservation",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3778,7 +3801,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1786384617000",
+      "id": "enerzine-rss-7-1786384617000",
       "title": "Revolut franchit un cap réglementaire décisif en France : ce que change l’obtention de son agrément bancaire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3804,7 +3827,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1786375020000",
+      "id": "enerzine-rss-8-1786375020000",
       "title": "Où acheter des lunettes pour l’éclipse : la course contre la montre a commencé",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3828,7 +3851,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1786338600000",
+      "id": "enerzine-rss-9-1786338600000",
       "title": "Extrêmement froide et très efficace : des scientifiques présentent une nouvelle fibre optique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3848,31 +3871,6 @@
         "ENR"
       ],
       "summary": "Lorsque les volcans entrent en éruption, on peut observer les coulées de lave liquide se refroidir et se solidifier en formations rocheuses au pied des volcans. Le même processus physique – un liquide qui se transforme en phase solide lors du refroidissement – peut être observé l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1786335000000",
-      "title": "Puces 5G et 6G : des chercheurs développent des commutateurs compacts et économes en énergie",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/puces-5g-et-6g-des-chercheurs-developpent-des-commutateurs-compacts-et-economes-en-energie/191793-2026-08",
-      "image": null,
-      "date": "2026-08-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Nos téléphones mobiles traitent aujourd’hui bien plus de signaux et de services sans fil que les générations précédentes. Il en va de même pour les équipements sophistiqués derrière les réseaux mobiles, comme les stations de base, et les technologies émergentes telles que les voi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
