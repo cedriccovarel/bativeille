@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-12T16:03:24.008Z",
+  "generatedAt": "2026-08-12T20:52:34.351Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2467,7 +2467,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "reporterre-rss-3-1786544473000",
-      "title": "« Dommage d'en arriver là » : les berges d'un lac fermées en pleine canicule pour éviter les noyades",
+      "title": "« On nous enlève un des seuls lieux de nature » : les berges d'un lac fermées en pleine canicule",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -3248,7 +3248,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1786550620000",
+      "id": "le-commerce-du-bois-sitemap-0-1786567973000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3274,7 +3274,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1786550620000",
+      "id": "le-commerce-du-bois-sitemap-1-1786567973000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3300,7 +3300,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1786550620000",
+      "id": "le-commerce-du-bois-sitemap-2-1786567973000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -17983,7 +17983,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
