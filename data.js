@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-11T20:52:57.579Z",
+  "generatedAt": "2026-08-12T02:13:02.723Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1786500801000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-08-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1786500801000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-08-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1786500801000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-08-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "agence-qualite-construction-aqc-wp-21305-1786431600000",
       "title": "Flop 10 Locaux d&rsquo;activité 2026 : les menuiseries extérieures toujours n°1",
       "source": "Agence Qualité Construction — AQC",
@@ -2694,7 +2772,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1786464300000",
+      "id": "enerzine-rss-0-1786486200000",
+      "title": "Fond dans la bouche, mais pas dans la voiture : la quête scientifique pour créer un chocolat résistant à la chaleur",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/fond-dans-la-bouche-mais-pas-dans-la-voiture-la-quete-scientifique-pour-creer-un-chocolat-resistant-a-la-chaleur/191884-2026-08",
+      "image": null,
+      "date": "2026-08-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Ana Isabel Terraes Huerta, Universitat de València et Eva Soriano Vega, Universitat de València Il y a peu de plaisirs plus grands que de laisser fondre lentement un morceau de chocolat sur la langue. En effet, la proximité du point de fusion du chocolat avec notre propre tempéra…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1786464300000",
       "title": "Pourquoi l’éclairage LED s’impose dans les projets d’efficacité énergétique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2718,7 +2822,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1786437600000",
+      "id": "enerzine-rss-2-1786437600000",
       "title": "L’Europe face à Starlink : la constellation IRIS² passe à 348 satellites",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2743,7 +2847,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1786434600000",
+      "id": "enerzine-rss-3-1786434600000",
       "title": "Correction acoustique : le matériau ne fait pas tout, la pose change la performance",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2769,7 +2873,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1786425000000",
+      "id": "enerzine-rss-4-1786425000000",
       "title": "Une réalité plus longue et plus chaude entoure les vagues de chaleur marines, selon une nouvelle étude",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2795,7 +2899,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1786421400000",
+      "id": "enerzine-rss-5-1786421400000",
       "title": "Les isolateurs topologiques progressent vers des applications pratiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2819,7 +2923,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1786417800000",
+      "id": "enerzine-rss-6-1786417800000",
       "title": "Un ordinateur fait de particules oscillant dans un liquide",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3069,84 +3173,6 @@ window.BATIVEILLE_DATA = {
       "summary": "La Commission de régulation de l'énergie annonce une hausse de 5,6% du prix repère du gaz au 1er septembre 2026, portant le tarif à 172,05 euros TTC par mégawattheure. Cette augmentation, qui concerne 6 millions de ménages français ayant souscrit une offre indexée, découle direct…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1786481595000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-08-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1786481595000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-08-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1786481595000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-08-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "reseau-des-cerc-rss-0-1786349143000",
@@ -3776,7 +3802,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1786399800000",
+      "id": "enerzine-rss-7-1786399800000",
       "title": "Construire plus de sources d’énergie renouvelable signifie repenser l’utilisation des terres pour l’agriculture et la conservation",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3801,7 +3827,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1786384617000",
+      "id": "enerzine-rss-8-1786384617000",
       "title": "Revolut franchit un cap réglementaire décisif en France : ce que change l’obtention de son agrément bancaire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3827,7 +3853,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1786375020000",
+      "id": "enerzine-rss-9-1786375020000",
       "title": "Où acheter des lunettes pour l’éclipse : la course contre la montre a commencé",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3847,30 +3873,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "À deux jours seulement de l’éclipse solaire du 12 août 2026, la question de savoir où dénicher encore des lunettes de protection homologuées taraude des milliers de Français. Il y a urgence car pour ne rien manquer de l’éclipse, il ne faudrait pas abîmer sa vue en utilisant un éq…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1786338600000",
-      "title": "Extrêmement froide et très efficace : des scientifiques présentent une nouvelle fibre optique",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/extremement-froide-et-tres-efficace-des-scientifiques-presentent-une-nouvelle-fibre-optique/191976-2026-08",
-      "image": null,
-      "date": "2026-08-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Lorsque les volcans entrent en éruption, on peut observer les coulées de lave liquide se refroidir et se solidifier en formations rocheuses au pied des volcans. Le même processus physique – un liquide qui se transforme en phase solide lors du refroidissement – peut être observé l…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
