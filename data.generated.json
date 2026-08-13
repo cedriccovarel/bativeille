@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T16:03:00.695Z",
+  "generatedAt": "2026-08-13T20:50:15.597Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2307,8 +2307,34 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-0-1786632940000",
-      "title": "« Une hérésie devenue une évidence » : face aux canicules, l'irrigation des vignes n'est plus un tabou",
+      "id": "reporterre-rss-0-1786645685000",
+      "title": "« On a rayé des cartes les petits cours d'eau, et la sécheresse s'est répandue »",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/On-a-gomme-les-petits-cours-d-eau-des-cartes-et-la-secheresse-s-est-repandue-Sans-eau-il",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260812__c4fu9cr__v1__highres__switzerlandfranceenvironmentclimateweatherheatw_1_-a848a.jpg?1786645716",
+      "date": "2026-08-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "En rayant des cartes tous les petits cours d'eau, la France a ainsi alimenté la terrible sécheresse que nous connaissons, écrivent les auteurs de cette tribune. Ceux-ci sont pourtant essentiels pour nourrir les vallées et les nappes phréatiques. Stéphane Salord et Christine Ferra…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1786632940000",
+      "title": "Irriguer les vignes ? « Une hérésie devenue une évidence » face aux canicules",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2333,8 +2359,8 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1786631943000",
-      "title": "« Un coupe-feu naturel » : avec leurs brebis, ils et elles freinent les incendies",
+      "id": "reporterre-rss-2-1786631943000",
+      "title": "« Un coupe-feu naturel » : quand les pratiques paysannes freinent les incendies",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2358,7 +2384,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1786629498000",
+      "id": "reporterre-rss-3-1786629498000",
       "title": "Énergie solaire : une production en forte hausse durant les canicules",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2384,7 +2410,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1786625644000",
+      "id": "reporterre-rss-4-1786625644000",
       "title": "Les États-Unis ont censuré un rapport sur l'état de l'Arctique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2408,7 +2434,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1786623969000",
+      "id": "reporterre-rss-5-1786623969000",
       "title": "L'IA stimule l'industrie pétrolière et booste ses bénéfices",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2434,7 +2460,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1786606667000",
+      "id": "reporterre-rss-6-1786606667000",
       "title": "Au Mont-Saint-Michel, des millions de touristes, un mariage d'ultrariches et des phoques en détresse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2459,8 +2485,8 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1786606229000",
-      "title": "Rattrapée par le chaos climatique, l'énergie nucléaire sur la touche",
+      "id": "reporterre-rss-7-1786606229000",
+      "title": "Chaleur, manque d'eau, méduses : l'énergie nucléaire devient impilotable",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2485,8 +2511,8 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1786602673000",
-      "title": "Le serval, félin star des réseaux sociaux, au cœur d'un trafic illégal",
+      "id": "reporterre-rss-8-1786602673000",
+      "title": "Les réseaux sociaux banalisent l'adoption d'un animal sauvage, le trafic explose",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -3121,7 +3147,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1786637002000",
+      "id": "le-commerce-du-bois-sitemap-0-1786654232000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3147,7 +3173,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1786637002000",
+      "id": "le-commerce-du-bois-sitemap-1-1786654232000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3173,7 +3199,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1786637002000",
+      "id": "le-commerce-du-bois-sitemap-2-1786654232000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3401,7 +3427,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-8-1786550129000",
+      "id": "reporterre-rss-9-1786550129000",
       "title": "« Ni ici, ni ailleurs » : une nouvelle bataille s'ouvre sur l'ex-zad de Notre-Dame-des-Landes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3427,7 +3453,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1786547954000",
+      "id": "reporterre-rss-10-1786547954000",
       "title": "« Grenouille du café » : une nouvelle espèce a été découverte",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3453,7 +3479,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1786545115000",
+      "id": "reporterre-rss-11-1786545115000",
       "title": "Sécheresse : des coupures d'eau chez 40 000 personnes en France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3479,7 +3505,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1786544473000",
+      "id": "reporterre-rss-12-1786544473000",
       "title": "« On nous enlève un des seuls lieux de nature » : les berges d'un lac fermées en pleine canicule",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3505,7 +3531,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1786540083000",
+      "id": "reporterre-rss-13-1786540083000",
       "title": "Éclipse solaire : l'État avait prédit la pénurie de lunettes, sans s'en préoccuper",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3531,7 +3557,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1786538730000",
+      "id": "reporterre-rss-14-1786538730000",
       "title": "Le gouvernement en passe de réautoriser la chasse de la tourterelle des bois et du fuligule milouin",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3557,7 +3583,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1786530873000",
+      "id": "reporterre-rss-15-1786530873000",
       "title": "Nouvelle vague de chaleur : 92 millions d'Européens exposés à plus de 35 °C mercredi",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3582,7 +3608,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1786523244000",
+      "id": "reporterre-rss-16-1786523244000",
       "title": "Cactus et succulentes : quand la passion mène à l'illégalité",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3608,7 +3634,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1786518892000",
+      "id": "reporterre-rss-17-1786518892000",
       "title": "Le Canada brûle, son Premier ministre mise sur le pétrole (et prend l'avion pour des vacances en Italie)",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3632,7 +3658,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1786510800000",
+      "id": "reporterre-rss-18-1786510800000",
       "title": "« On ne peut rien faire face à 40 °C » : l'agro-industrie paie le prix fort du dérèglement climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4312,7 +4338,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1786464122000",
+      "id": "reporterre-rss-19-1786464122000",
       "title": "Nucléaire : 3 réacteurs arrêtés... par des méduses",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4338,7 +4364,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1786461161000",
+      "id": "reporterre-rss-20-1786461161000",
       "title": "« Restez chez vous » : à la montagne, ces randonneurs subissent le racisme",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4363,7 +4389,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1786457201000",
+      "id": "reporterre-rss-21-1786457201000",
       "title": "Les travaux du plus grand data center d'Europe ont commencé en Île-de-France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4389,7 +4415,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1786455017000",
+      "id": "reporterre-rss-22-1786455017000",
       "title": "Canicules et incendies : les principaux pyromanes sont identifiés mais restent impunis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4414,7 +4440,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1786449534000",
+      "id": "reporterre-rss-23-1786449534000",
       "title": "Plus de 300 cadavres de cochons : L214 révèle « l'un des pires cas d'abandon d'animaux »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4439,7 +4465,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1786435839000",
+      "id": "reporterre-rss-24-1786435839000",
       "title": "« Ils bombardent directement les ruches » : au Liban, Israël cible les apiculteurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4465,7 +4491,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1786428822000",
+      "id": "reporterre-rss-25-1786428822000",
       "title": "« Cocaïne des mers » : dans les rouages du trafic de vessies de poissons",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4491,7 +4517,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1786424400000",
+      "id": "reporterre-rss-26-1786424400000",
       "title": "En Espagne, contre les incendies, une « armée de bénévoles » qui « fait la différence »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4990,7 +5016,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1786377065000",
+      "id": "reporterre-rss-27-1786377065000",
       "title": "Rejets massifs de PFAS : une métropole porte plainte contre BASF",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5014,7 +5040,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1786372703000",
+      "id": "reporterre-rss-28-1786372703000",
       "title": "À la rencontre de ce rapace mangeur de serpents",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5038,7 +5064,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1786370731000",
+      "id": "reporterre-rss-29-1786370731000",
       "title": "Trump envoie des bulldozers défigurer un parc national pour stopper l'immigration",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5064,7 +5090,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1786362342000",
+      "id": "reporterre-rss-30-1786362342000",
       "title": "Groenland : une compagnie pétrolière liée à Trump se prépare à forer sans autorisation",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5090,7 +5116,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1786362090000",
+      "id": "reporterre-rss-31-1786362090000",
       "title": "Des vestiges de navires nazis refont surface avec la sécheresse du Danube",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5116,7 +5142,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1786356512000",
+      "id": "reporterre-rss-32-1786356512000",
       "title": "Chaos climatique : le choc de l'été 2026 nous mène-t-il vers un « monde d'après » ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5142,7 +5168,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1786350240000",
+      "id": "reporterre-rss-33-1786350240000",
       "title": "L'Europe occidentale a connu sa période juin-juillet la plus chaude jamais enregistrée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5168,7 +5194,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1786338600000",
+      "id": "reporterre-rss-34-1786338600000",
       "title": "Le pari réussi de la première monnaie locale d'Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5192,7 +5218,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1786338300000",
+      "id": "reporterre-rss-35-1786338300000",
       "title": "Les « sept magnifiques », ces cimetières devenus îlots de biodiversité",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5217,7 +5243,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1786338000000",
+      "id": "reporterre-rss-36-1786338000000",
       "title": "Trafic de fourmis : les dessous d'un business juteux en pleine explosion",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5369,7 +5395,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1786252200000",
+      "id": "reporterre-rss-37-1786252200000",
       "title": "Les terrils, montagnes noires devenues poumons verts",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5469,7 +5495,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-37-1786168800000",
+      "id": "reporterre-rss-38-1786168800000",
       "title": "« On a une responsabilité quand on écrit des chansons » : une après-midi avec Emily Loizeau",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5495,7 +5521,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1786165800000",
+      "id": "reporterre-rss-39-1786165800000",
       "title": "Partir seule, tracer sa route : ces livres féministes pour passer à l'acte",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5521,7 +5547,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1786165200000",
+      "id": "reporterre-rss-40-1786165200000",
       "title": "Elon Musk et Jeff Bezos ont une nouvelle lubie (et c'est un mirage)",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6032,7 +6058,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1786107541000",
+      "id": "reporterre-rss-41-1786107541000",
       "title": "La France à sec : les premiers ravages d'une sécheresse hors norme",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6058,7 +6084,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1786105800000",
+      "id": "reporterre-rss-42-1786105800000",
       "title": "Louise Michel, l'amour des animaux au cœur de la révolution",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6084,7 +6110,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1786079400000",
+      "id": "reporterre-rss-43-1786079400000",
       "title": "Canicules, incendies : comment l'extrême droite en fait un argument contre l'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6110,7 +6136,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1786079100000",
+      "id": "reporterre-rss-44-1786079100000",
       "title": "« IA pas moyen » : ils refusent le data center géant de Microsoft en Alsace",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6135,7 +6161,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1786078800000",
+      "id": "reporterre-rss-45-1786078800000",
       "title": "Son fils est né avec une malformation : une mère en colère contre les pesticides et leurs « lobbyistes sans scrupules »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6716,7 +6742,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1786026883000",
+      "id": "reporterre-rss-46-1786026883000",
       "title": "Hiroshima, Nagasaki : maintenir la mémoire des bombes atomiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6742,7 +6768,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1786019400000",
+      "id": "reporterre-rss-47-1786019400000",
       "title": "Flora Tristan, la révolutionnaire qui dénonçait déjà la pollution industrielle au XIXe siècle",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6768,7 +6794,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1785993000000",
+      "id": "reporterre-rss-48-1785993000000",
       "title": "« Ils m'empêchent de rejoindre mes oliviers » : au Sud-Liban, la vie sous occupation israélienne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6794,7 +6820,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1785992700000",
+      "id": "reporterre-rss-49-1785992700000",
       "title": "22 °C sans clim : le pari réussi de la maison en terre et en bois",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6820,7 +6846,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1785992400000",
+      "id": "reporterre-rss-50-1785992400000",
       "title": "40 °C, bâti inadapté : la Bretagne n'est pas le refuge climatique qu'on croit",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7120,7 +7146,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1785944637000",
+      "id": "reporterre-rss-51-1785944637000",
       "title": "« Désarmer Bolloré » : la lutte contre le milliardaire se déplace en face de son île privée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7145,7 +7171,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1785933751000",
+      "id": "reporterre-rss-52-1785933751000",
       "title": "« Nous voulons construire un territoire robuste face aux feux » : après les incendies, le monde paysan se réorganise",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7171,7 +7197,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1785933640000",
+      "id": "reporterre-rss-53-1785933640000",
       "title": "La guerre contre l'Iran a fait exploser les bénéfices des plus gros producteurs de pétrole",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7197,7 +7223,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1785922376000",
+      "id": "reporterre-rss-54-1785922376000",
       "title": "Vitamine D pour les bébés : un business dangereux pour leur santé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7222,7 +7248,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1785916070000",
+      "id": "reporterre-rss-55-1785916070000",
       "title": "La sécheresse prive la Hongrie d'électricité, le ministre de l'Énergie redécouvre les jeux de société",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7248,7 +7274,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1785906300000",
+      "id": "reporterre-rss-56-1785906300000",
       "title": "Balade dans le jardin de George Sand, pionnière de la pensée écologiste",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7600,7 +7626,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1785859285000",
+      "id": "reporterre-rss-57-1785859285000",
       "title": "100 hectares brûlés dans une réserve naturelle aux Pays-Bas",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7625,7 +7651,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1785856106000",
+      "id": "reporterre-rss-58-1785856106000",
       "title": "« C'est la campagne silencieuse » : quand les vergers sont remplacés par des champs de maïs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7649,7 +7675,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-58-1785855814000",
+      "id": "reporterre-rss-59-1785855814000",
       "title": "Mégaferme à saumons : le projet contesté est autorisé par la préfecture de Gironde",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7671,31 +7697,6 @@
         "Confort d’été"
       ],
       "summary": "Par un arrêté du 4 août, la préfète de la Gironde, Sophie Brocas, a accordé l'autorisation environnementale au projet très contesté de méga-usine terrestre de saumons, au Verdon-sur-Mer. Ce projet porté par la société Pure Salmon, financé par un fonds d'investissement singapourie…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1785852206000",
-      "title": "Avant l'écoféminisme, Suzanne Césaire tissait déjà le lien entre colonisation et destruction du vivant",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Avant-l-ecofeminisme-Suzanne-Cesaire-tissait-deja-le-lien-entre-colonisation-et",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/suzanne_cesaire_v5_resized-15f5d.jpg?1786375680",
-      "date": "2026-08-04",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Biosourcé"
-      ],
-      "summary": "[Ces précurseuses écolos et féministes 2/5] Longtemps restée dans l'ombre de son mari, Suzanne Césaire a pourtant, dans sa courte carrière littéraire, tracé les lignes d'une identité martiniquaise singulière, ancrée dans son rapport à la terre. « Toujours et partout, dans les moi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
