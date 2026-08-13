@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T02:14:52.097Z",
+  "generatedAt": "2026-08-13T06:21:10.803Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,7 +2161,202 @@
   ],
   "articles": [
     {
-      "id": "le-commerce-du-bois-sitemap-0-1786587302000",
+      "id": "novabuild-rss-0-1786597200000",
+      "title": "Appel à candidature \"Habiter avec la chaleur\"",
+      "source": "Novabuild",
+      "sourceId": "novabuild",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Pays de la Loire",
+      "url": "https://www.novabuild.fr/appel-a-candidature-habiter-avec-la-chaleur/",
+      "image": null,
+      "date": "2026-08-13",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Régional"
+      ],
+      "summary": "Chaque année, Le Prix national d'Art Urbain récompense des projets d'aménagement et d'architecture particulièrement innovants, durables et attentifs à la qualité de vie des habitants.Cette année, le thème retenu est \"Habiter avec la chaleur\". Novabuild, en lien avec les enjeux d'…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1786597800000",
+      "title": "L’haleine plutôt que le sang : un appareil mesure la combustion des graisses dans l’air expiré",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/lhaleine-plutot-que-le-sang-un-appareil-mesure-la-combustion-des-graisses-dans-lair-expire/191960-2026-08",
+      "image": null,
+      "date": "2026-08-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "L’acétone est le sous-produit du métabolisme des graisses qui est expiré par les poumons. Elle est produite lorsque le corps brûle des graisses plutôt que des glucides comme le sucre. Des chercheurs de l’ETH Zurich ont développé un appareil d’analyse de l’haleine capable de détec…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1786594200000",
+      "title": "Contrôle spin-électrique ciblé des molécules pour les technologies quantiques",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/controle-spin-electrique-cible-des-molecules-pour-les-technologies-quantiques/192012-2026-08",
+      "image": null,
+      "date": "2026-08-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Les technologies quantiques sont considérées comme une perspective importante pour le développement d’ordinateurs plus puissants, de dispositifs de communication sécurisés et de capteurs de haute précision. Les molécules magnétiques uniques sont des briques de base très prometteu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1786590600000",
+      "title": "Un nouveau détecteur à pérovskite permet des images radiologiques claires à dose bien plus faible",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-nouveau-detecteur-a-perovskite-permet-des-images-radiologiques-claires-a-dose-bien-plus-faible/192009-2026-08",
+      "image": null,
+      "date": "2026-08-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau",
+        "Réemploi"
+      ],
+      "summary": "L’imagerie par rayons X est l’un des outils les plus utilisés en médecine moderne. Elle aide les médecins à voir les dents, les os, les poumons et de nombreuses autres structures à l’intérieur du corps. Mais elle soulève également un défi de longue date : des images plus claires …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-0-1786600243000",
+      "title": "Des scientifiques ont découvert un chargement romain intact retrouvé au fond d’un lac suisse, figé depuis près de 2 000 ans",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/13/des-scientifiques-ont-decouvert-un-chargement-romain-intact-retrouve-au-fond-dun-lac-suisse-fige-depuis-pres-de-2-000-ans/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Des-scientifiques-ont-decouvert-un-chargement-romain-intact-retrouve-au-fond-dun-lac-suisse-fige-depuis-pres-de-2-000-.webp",
+      "date": "2026-08-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Deux épées cachées parmi la vaisselle, des roues de char au fond du lac : cette épave romaine intacte depuis 2 000 ans révèle bien plus qu'un simple naufrage commercial. L’article Des scientifiques ont découvert un chargement romain intact retrouvé au fond d’un lac suisse, figé d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1786598406000",
+      "title": "Pourquoi ce tunnel sous-marin chinois venu de battre un record à plus de 100 mètres fascine les ingénieurs du monde entier",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/13/pourquoi-ce-tunnel-sous-marin-chinois-venu-de-battre-un-record-a-plus-de-100-metres-fascine-les-ingenieurs-du-monde-entier/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Pourquoi-ce-tunnel-sous-marin-chinois-venu-de-battre-un-record-a-plus-de-100-metres-fascine-les-ingenieurs-du-monde-enti.webp",
+      "date": "2026-08-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "113 mètres sous la mer, six zones de failles, un monstre d'acier chinois qui bat un record mondial. Reste 3 mètres avant l'objectif final, et le suspense reste entier. L’article Pourquoi ce tunnel sous-marin chinois venu de battre un record à plus de 100 mètres fascine les ingéni…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1786596900000",
+      "title": "De nouvelles aides pour les voitures électriques d’occasion",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/13/voiture-electrique-nouvelles-aides-voitures-electriques-occasion/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Le-Royaume-Uni-taxera-les-voitures-electriques-au-kilometre-des-2028-la-France-pourrait-suivre-et-les-automobilistes-s.webp",
+      "date": "2026-08-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "À partir du 1er septembre 2026, l'achat ou la location d'une voiture électrique d'occasion chez un professionnel sera éligible à une aide financière via les certificats d'économie d'énergie. L’article De nouvelles aides pour les voitures électriques d’occasion est apparu en premi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1786593899000",
+      "title": "Taxis électriques : une aide de 3 500 € dès septembre",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/13/taxis-electriques-une-aide-de-3-500-e-des-septembre/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/shutterstock_2596967501.jpg",
+      "date": "2026-08-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Le gouvernement annonce la mise en place, dès le 1er septembre 2026, d'une aide à l'acquisition de véhicules électriques pour les taxis, une première pour cette profession. Le dispositif prévoit jusqu'à 5 500 euros de soutien, mais sa durée limitée et son financement incertain in…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1786602086000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2187,7 +2382,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1786587302000",
+      "id": "le-commerce-du-bois-sitemap-1-1786602086000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2213,7 +2408,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1786587302000",
+      "id": "le-commerce-du-bois-sitemap-2-1786602086000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2749,6 +2944,56 @@
       "collectMethod": "rss"
     },
     {
+      "id": "greenunivers-rss-0-1786545938000",
+      "title": "Résultats : Vestas continue sur sa lancée",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/resultats-vestas-continue-sur-sa-lancee-431412/",
+      "image": null,
+      "date": "2026-08-12",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "Vestas se porte mieux. Le turbinier danois enregistre un Ebitda de plus de 1 Md€ au 1er semestre 2026, comparé aux 563 M€ du 1er semestre de 2025. Les profits s’élèvent à 355 M€ sur le semestre, soit L’article Résultats : Vestas continue sur sa lancée est apparu en premier sur Gr…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-1-1786542803000",
+      "title": "CIP déploie la plus puissante batterie d’Europe, au Royaume-Uni",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/cip-deploie-la-plus-puissante-batterie-deurope-au-royaume-uni-431405/",
+      "image": null,
+      "date": "2026-08-12",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation"
+      ],
+      "summary": "Le gestionnaire de fonds danois Copenhagen Infrastructure Partners (CIP) annonce la mise en service de « Coalburn 1 », le plus puissant système de stockage stationnaire d’Europe, cumulant 500 MW. L’installation fait partie d’un triptyque composé des projets de batteries tout auss…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "pv-magazine-france-rss-0-1786543200000",
       "title": "Les gestionnaires européens des réseaux électriques se préparent à l’éclipse solaire",
       "source": "PV Magazine France",
@@ -2904,7 +3149,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1786572600000",
+      "id": "enerzine-rss-3-1786572600000",
       "title": "Travailler en cas de forte chaleur, que dit le droit ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2929,7 +3174,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1786547417000",
+      "id": "enerzine-rss-4-1786547417000",
       "title": "BYD dévoile la Seal 06 2027 : une berline électrique et hybride bardée de technologies à prix cassé",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2953,7 +3198,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1786544700000",
+      "id": "enerzine-rss-5-1786544700000",
       "title": "JCB pulvérise le record du monde de vitesse à l’hydrogène à Bonneville",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2979,7 +3224,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1786542950000",
+      "id": "enerzine-rss-6-1786542950000",
       "title": "Punaise des champs : pourquoi cet insecte envahit soudainement les murs et terrasses",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3003,7 +3248,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1786540292000",
+      "id": "enerzine-rss-7-1786540292000",
       "title": "Rafale : l’effervescence autour du fleuron de Dassault, entre méga-contrat indien et sauts technologiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3028,7 +3273,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1786511400000",
+      "id": "enerzine-rss-8-1786511400000",
       "title": "Une nouvelle technique permet à LIGO de voir plus loin dans l’univers lointain",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3053,7 +3298,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1786507800000",
+      "id": "enerzine-rss-9-1786507800000",
       "title": "Hydrogène vert avec électrolyseurs PEC : Nouvelles perspectives sur les processus de transport",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3074,32 +3319,6 @@
         "RE2020"
       ],
       "summary": "Une méthode pour stocker l’énergie solaire consiste à utiliser des électrolyseurs PEC pour produire de l’hydrogène. Cependant, la mise à l’échelle de cette technologie reste un défi. Aujourd’hui, une équipe de l’Institut HZB pour les Carburants Solaires a utilisé l’imagerie de fl…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-7-1786504200000",
-      "title": "Une voie plus propre pour purifier les terres rares",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/une-voie-plus-propre-pour-purifier-les-terres-rares/192003-2026-08",
-      "image": null,
-      "date": "2026-08-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Les terres rares comme le lanthane, le néodyme et le dysprosium sont utilisées pour fabriquer le moteur électrique de votre voiture, les lampes LED de votre maison et l’IRM chez votre médecin. Mais d’abord, elles doivent être extraites et séparées les unes des autres. Historiquem…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3154,7 +3373,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1786525860000",
+      "id": "lenergeek-rss-4-1786525860000",
       "title": "Voiture à hydrogène : un record à plus de 650 km/h",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3179,7 +3398,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1786520695000",
+      "id": "lenergeek-rss-5-1786520695000",
       "title": "Voiture électrique : le Royaume-Uni lancee la taxe kilométrique pour financer la transition",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3203,7 +3422,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1786515603000",
+      "id": "lenergeek-rss-6-1786515603000",
       "title": "Placer du papier aluminium sous votre routeur WiFi : ce que cela provoque et pourquoi les spécialistes le conseillent",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3228,7 +3447,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1786513927000",
+      "id": "lenergeek-rss-7-1786513927000",
       "title": "Recharge électrique : le casse-tête du 15 août reste à résoudre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3252,7 +3471,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1786513845000",
+      "id": "lenergeek-rss-8-1786513845000",
       "title": "Pourquoi votre facture de gaz va encore augmenter de 5,6 % en septembre : les foyers concernés ne le savent pas encore",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3277,7 +3496,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1786512000000",
+      "id": "lenergeek-rss-9-1786512000000",
       "title": "La Chine a tellement de voitures électriques en circulation qu’elle les utilise pour produire l’énergie des foyers",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3377,7 +3596,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novabuild-rss-0-1786427040000",
+      "id": "novabuild-rss-1-1786427040000",
       "title": "Engins de chantier électriques : l'ADEME lance le programme CEE E-TRANS pour accompagner les professionnels",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -3633,6 +3852,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "greenunivers-rss-2-1786460724000",
+      "title": "Les résultats d’EnBW soutenus par la mobilité électrique et les réseaux",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/les-resultats-denbw-soutenus-par-la-mobilite-electrique-et-les-reseaux-431389/",
+      "image": null,
+      "date": "2026-08-11",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Eau"
+      ],
+      "summary": "Le mastodonte allemand EnBW, maison-mère de Valeco, présente un Ebitda en baisse d’environ 6 % au 1er semestre de 2026 par rapport au 1er semestre de 2025, de 2,4 à 2,3 Mds€. La faute aux L’article Les résultats d’EnBW soutenus par la mobilité électrique et les réseaux est apparu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "pv-magazine-france-rss-5-1786449600000",
       "title": "Qair obtient un permis de construire pour une centrale de 50 MW au Monténégro",
       "source": "PV Magazine France",
@@ -3761,56 +4005,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1786486200000",
-      "title": "Fond dans la bouche, mais pas dans la voiture : la quête scientifique pour créer un chocolat résistant à la chaleur",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/fond-dans-la-bouche-mais-pas-dans-la-voiture-la-quete-scientifique-pour-creer-un-chocolat-resistant-a-la-chaleur/191884-2026-08",
-      "image": null,
-      "date": "2026-08-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Ana Isabel Terraes Huerta, Universitat de València et Eva Soriano Vega, Universitat de València Il y a peu de plaisirs plus grands que de laisser fondre lentement un morceau de chocolat sur la langue. En effet, la proximité du point de fusion du chocolat avec notre propre tempéra…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1786464300000",
-      "title": "Pourquoi l’éclairage LED s’impose dans les projets d’efficacité énergétique",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/pourquoi-leclairage-led-simpose-dans-les-projets-defficacite-energetique/192597-2026-08",
-      "image": null,
-      "date": "2026-08-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "L’optimisation de la consommation énergétique est au cœur des stratégies des entreprises, des collectivités et des particuliers. Dans ce contexte, l’éclairage LED s’est affirmé ces dernières années comme la référence en matière de modernisation des installations lumineuses. Plus …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "hellio-actualites-rss-2-1786435641000",
       "title": "Voiture de fonction électrique : pourquoi passer au vert ? | Hellio",
       "source": "Hellio Actualités",
@@ -3837,7 +4031,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1786450683000",
+      "id": "lenergeek-rss-10-1786450683000",
       "title": "Comment préparer sa voiture pour la saison froide : les vérifications essentielles avant de prendre la route",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3863,7 +4057,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1786449540000",
+      "id": "lenergeek-rss-11-1786449540000",
       "title": "La centrale nucléaire de Gravelines de nouveau attaquée par les méduses",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3888,7 +4082,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1786438075000",
+      "id": "lenergeek-rss-12-1786438075000",
       "title": "Le nucléaire français n’a jamais aussi peu produit d’électricité",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3912,7 +4106,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1786429223000",
+      "id": "lenergeek-rss-13-1786429223000",
       "title": "En 2008, l’Espagne a noyé une mine de charbon sous 547 milliards de litres d’eau : quatre ans plus tard, personne ne reconnaissait l’endroit",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3938,7 +4132,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1786427434000",
+      "id": "lenergeek-rss-14-1786427434000",
       "title": "Ce lac a disparu en 60 ans et relâché 748 mégatonnes de CO2 : les climatologues confirment qu’un lac mort pollue plus qu’un lac vivant",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3963,7 +4157,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1786425626000",
+      "id": "lenergeek-rss-15-1786425626000",
       "title": "Ne pointez jamais votre smartphone vers l’éclipse sans ce réglage précis, les photographes pros préviennent que le capteur peut griller",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3987,7 +4181,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1786424460000",
+      "id": "lenergeek-rss-16-1786424460000",
       "title": "Pétrole : 103 millions de barils du SPR américain inaccessibles à cause du vieillissement des installations",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4012,7 +4206,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1786421580000",
+      "id": "lenergeek-rss-17-1786421580000",
       "title": "Gaz : le prix repère de la CRE va bondir de 5,6% en septembre 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4486,6 +4680,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "greenunivers-rss-3-1786375650000",
+      "title": "La pression s’accroit sur les prix de l’électricité [Marchés]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/la-pression-saccroit-sur-les-prix-de-lelectricite-marches-431374/",
+      "image": null,
+      "date": "2026-08-10",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Économie du bâtiment"
+      ],
+      "summary": "Les prix ont bien connu un creux la semaine dernière, mais vite comblé. En fin de semaine, le prix de l’électricité pour 2027 se négociait autour de L’article La pression s’accroit sur les prix de l’électricité [Marchés] est apparu en premier sur GreenUnivers. Les prix ont bien c…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "pv-magazine-france-rss-9-1786370400000",
       "title": "2,9 GW de photovoltaïque raccordés au premier semestre 2026 en France",
       "source": "PV Magazine France",
@@ -4563,7 +4782,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1786375239000",
+      "id": "lenergeek-rss-18-1786375239000",
       "title": "Réserves de gaz : la France mieux préparée que ses voisins pour l’hiver",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4588,7 +4807,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1786365101000",
+      "id": "lenergeek-rss-19-1786365101000",
       "title": "Batteries domestiques et tarif variable : le pari de 625 € d’économies",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4614,7 +4833,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1786360860000",
+      "id": "lenergeek-rss-20-1786360860000",
       "title": "Câbles de cuivre : la criminalité organisée vise les bornes de recharge",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4640,7 +4859,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1786354260000",
+      "id": "lenergeek-rss-21-1786354260000",
       "title": "Carburant : l’aide aux grands rouleurs prolongée révèle l’impasse énergétique française",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4664,7 +4883,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1786342828000",
+      "id": "lenergeek-rss-22-1786342828000",
       "title": "Ce train solaire chinois traverse un site UNESCO en Argentine : les ingénieurs de CRRC ont réussi là où personne n’avait osé aller",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4689,7 +4908,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1786341030000",
+      "id": "lenergeek-rss-23-1786341030000",
       "title": "En 1979, les États-Unis ont coulé un dôme de béton sur 85 000 m³ de déchets nucléaires : aujourd’hui l’océan Pacifique menace de tout emporter",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4709,105 +4928,6 @@
         "ENR"
       ],
       "summary": "85 000 mètres cubes de déchets radioactifs, un simple couvercle de béton fissuré et un lagon contaminé à chaque marée. Washington se dérobe, les Marshall attendent. Ce que révèle ce dossier glace le sang. L’article En 1979, les États-Unis ont coulé un dôme de béton sur 85 000 m³ …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-20-1786339745000",
-      "title": "Nucléaire : Golfech s’arrête 33 heures après son redémarrage",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/10/nucleaire-golfech-s-arrete-33-heures-redemarrage-decryptage-seuil-thermique/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Face-a-la-secheresse-EDF-coupe-trois-reacteurs-nucleaires-les-riverains-decouvrent-que-le-probleme-nest-pas-latome-ma.webp",
-      "date": "2026-08-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Le réacteur n°2 de la centrale nucléaire de Golfech s'est arrêté le 8 août 2026, 33 heures seulement après son redémarrage, en raison du dépassement anticipé du seuil réglementaire de 28°C de la Garonne. Décryptage des mécanismes techniques et réglementaires qui expliquent cette …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-21-1786339259000",
-      "title": "Le Royaume-Uni taxera les voitures électriques au kilomètre dès 2028 : la France pourrait suivre, et les automobilistes s’inquiètent déjà",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/10/le-royaume-uni-taxera-les-voitures-electriques-au-kilometre-des-2028-la-france-pourrait-suivre-et-les-automobilistes-sinquietent-deja/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Le-Royaume-Uni-taxera-les-voitures-electriques-au-kilometre-des-2028-la-France-pourrait-suivre-et-les-automobilistes-s.webp",
-      "date": "2026-08-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Le Royaume-Uni fait payer les kilomètres parcourus en électrique dès 2028, jusqu'à 330 euros par an en plus. Et si la France s'inspirait discrètement de ce modèle pour combler son propre trou budgétaire ? L’article Le Royaume-Uni taxera les voitures électriques au kilomètre dès 2…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1786338300000",
-      "title": "Chaleur océanique record : les centrales électriques au bord de l’asphyxie",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/10/chaleur-oceanique-record-centrales-electriques-bord-asphyxie/",
-      "image": "https://lenergeek.com/wp-content/uploads/2024/12/la-terre-accumule-desormais-moins-de-chaleur-quelle-ne-la-fait-depuis-plusieurs-annees.webp",
-      "date": "2026-08-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Les océans ont atteint 20,96°C en juillet 2026, un record absolu selon Copernicus. Cette chaleur océanique paralyse les centrales thermiques côtières, fait exploser la demande de climatisation et déstabilise les réseaux électriques européens. L'industrie énergétique mondiale déco…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1786336320000",
-      "title": "Drone ukrainien près du gazoduc transbalkanique : la Bulgarie face aux risques énergétiques",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/10/drone-ukrainien-pres-gazoduc-transbalkanique-bulgarie-face-risques/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/01/pourquoi-la-decouverte-de-missiles-igla-s-montes-sur-des-drones-russes-change-t-elle-la-donne-aerienne.jpg",
-      "date": "2026-08-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Un drone militaire ukrainien s'écrase samedi 8 août à 1 000 mètres du gazoduc transbalkanique en Bulgarie. L’article Drone ukrainien près du gazoduc transbalkanique : la Bulgarie face aux risques énergétiques est apparu en premier sur L'EnerGeek. Un drone militaire ukrainien s'éc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5656,6 +5776,108 @@
       "collectMethod": "rss"
     },
     {
+      "id": "greenunivers-rss-4-1786109330000",
+      "title": "Comment la finance américaine aide les EnR européennes [Green Giraffe]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/comment-la-finance-americaine-aide-les-enr-europeennes-green-giraffe-431353/",
+      "image": null,
+      "date": "2026-08-07",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "Alors que le « drill, baby, drill » retentit haut et fort outre-Atlantique, plusieurs géants de la finance américaine ont déversé ces L’article Comment la finance américaine aide les EnR européennes [Green Giraffe] est apparu en premier sur GreenUnivers. Alors que le «&#160;drill…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-5-1786089919000",
+      "title": "Sizable Energy envisage des Step dans la mer",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/sizable-energy-envisage-des-step-dans-la-mer-431152/",
+      "image": null,
+      "date": "2026-08-07",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation"
+      ],
+      "summary": "Fort d’une levée de fonds de 8 M$ bouclée auprès du fonds de capital-risque américain Playground Capital, l’entreprise italienne Sizable Energy travaille L’article Sizable Energy envisage des Step dans la mer est apparu en premier sur GreenUnivers. Fort d’une levée de fonds de 8 …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-6-1786087270000",
+      "title": "L’agenda de la transition énergétique",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/lagenda-de-la-transition-energetique-280-424554/",
+      "image": null,
+      "date": "2026-08-07",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Rénovation",
+        "Énergie"
+      ],
+      "summary": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. A…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-7-1786087198000",
+      "title": "Les documents de la semaine",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/les-documents-de-la-semaine-381215/",
+      "image": null,
+      "date": "2026-08-07",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-7-1786117303000",
       "title": "Une électrification trop lente coûtera cher prévient RTE",
       "source": "Révolution Énergétique",
@@ -5807,7 +6029,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novabuild-rss-1-1785996900000",
+      "id": "novabuild-rss-2-1785996900000",
       "title": "Le Comité 21 lance son nouveau parcours adaptation 2026-2027",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -6234,6 +6456,55 @@
         "Confort d’été"
       ],
       "summary": "«2026, l’été de la bascule» (1/4). Elles et ils voulaient devenir parents ou avoir un nouvel enfant. Mais cet été infernal, annonciateur du climat qui vient, les en a dissuadé·es. Témoignages. «2026, l’été de la bascule» (1/4). Elles et ils voulaient devenir parents ou avoir un n…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-8-1786030046000",
+      "title": "Eolien en mer : TotalEnergies et RWE se repositionnent, au Danemark et aux Etats-Unis",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/eolien-en-mer-totalenergies-et-rwe-se-repositionnent-au-danemark-et-aux-etats-unis-431335/",
+      "image": null,
+      "date": "2026-08-06",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "La major pétrolière française veut se désengager de deux projets éoliens en mer au Danemark, Jammerland Bugt et Lillebælt Syd, selon le média local EnergyWatch. Il en possède la L’article Eolien en mer : TotalEnergies et RWE se repositionnent, au Danemark et aux Etats-Unis est ap…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-9-1786021965000",
+      "title": "Eren persiste et signe dans le biométhane en Italie",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/eren-persiste-et-signe-dans-le-biomethane-en-italie-431323/",
+      "image": null,
+      "date": "2026-08-06",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "La plateforme Retina Biométhane, créée par Eren Industries, Actarus Renewables et la holding Retina, annonce le lancement L’article Eren persiste et signe dans le biométhane en Italie est apparu en premier sur GreenUnivers. La plateforme Retina Biométhane, créée par Eren Industri…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6817,7 +7088,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novabuild-rss-2-1785821340000",
+      "id": "novabuild-rss-3-1785821340000",
       "title": "« Dans un climat d’incertitudes, le mandat à venir appartient au maire rénovateur » une tribune collective",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -8539,6 +8810,105 @@
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "le-journal-du-grand-paris-rss-0-1785542065000",
+      "title": "Incendies : la métropole du Grand Paris propose une enveloppe de 500 000 euros pour la reforestation",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/incendies-la-metropole-du-grand-paris-propose-une-enveloppe-de-500-000-euros-pour-la-reforestation/",
+      "image": null,
+      "date": "2026-07-31",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Patrick Ollier a annoncé le 31 juillet aux maires des 130 communes de la métropole du Grand Paris une aide financière destinée à la régénération de la forêt de Fontainebleau. La MGP devrait également soutenir la reconstruction du territoire bordelais touché par les feux de l'été.…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1785530628000",
+      "title": "La Caisse d’Épargne au secours de la forêt de Fontainebleau incendiée",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/la-caisse-depargne-au-secours-de-la-foret-de-fontainebleau-incendiee/",
+      "image": null,
+      "date": "2026-07-31",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau"
+      ],
+      "summary": "Le don de la Caisse d'Épargne Île-de-France en faveur du Fonds ONF-Agir pour la forêt de Fontainebleau financera la première étape de la reconstitution de la forêt après les incendies de très grande ampleur des 12 et 13 juillet, qui ont détruit 10 % de sa superficie. Le don de la…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-2-1785517242000",
+      "title": "Les coulisses du Grand Paris",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/les-coulisses-du-grand-paris/",
+      "image": null,
+      "date": "2026-07-31",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % numérique. Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % n…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-3-1785516169000",
+      "title": "Championnats d’Europe de natation : le CAO métropole du Grand Paris replonge dans le grand bain",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/championnats-deurope-de-natation-le-cao-metropole-du-grand-paris-replonge-dans-le-grand-bain/",
+      "image": null,
+      "date": "2026-07-31",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Deux ans après les Jeux de Paris 2024, le Centre aquatique olympique métropole du Grand Paris accueille les Championnats d'Europe de natation, du 31 juillet au 16 août. Deux ans après les Jeux de Paris 2024, le Centre aquatique olympique métropole du Grand Paris accueille les Cha…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "observatoire-de-l-immobilier-durable-oid-rss-0-1785400379000",
       "title": "Sécheresse et retrait-gonflement des argiles : un été sous tension et des conséquences potentielles pour les bâtiments",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -8823,7 +9193,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novabuild-rss-3-1785391200000",
+      "id": "novabuild-rss-4-1785391200000",
       "title": "Concertation sur le confort d’été dans la RE2020",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -9331,7 +9701,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novabuild-rss-4-1785300900000",
+      "id": "novabuild-rss-5-1785300900000",
       "title": "Création d'Ekocept : un bureau d'études environnement indépendant au service des architectes, maîtres d'ouvrage et maîtres d'œuvre",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -9525,6 +9895,31 @@
         "Eau"
       ],
       "summary": "En France, si aucun incendie de forêt n'a encore causé de dommages majeurs à une installation gazière ou classée Seveso, le risque — dit « NaTech » — grandit avec l'intensification des feux extrêmes. Les 36 000 km de canalisations du réseau français de transport de gaz traversent…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-4-1785343138000",
+      "title": "Incendie de Fontainebleau : un plan d’action pour « renforcer la protection des forêts franciliennes »",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/incendie-de-fontainebleau-un-plan-daction-pour-renforcer-la-protection-des-forets-franciliennes/",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau"
+      ],
+      "summary": "Après l'incendie qui a détruit près de 2 000 hectares dans le massif de Fontainebleau (Seine-et-Marne), la Région Île-de-France annonce six mesures pour renforcer la prévention des feux de forêt. Une conférence régionale réunira les acteurs concernés le 8 octobre prochain. Après …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9752,7 +10147,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novabuild-rss-5-1785218040000",
+      "id": "novabuild-rss-6-1785218040000",
       "title": "MOOC et formations structurées : formez-vous pendant l'été !",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -10077,7 +10472,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novabuild-rss-6-1785126180000",
+      "id": "novabuild-rss-7-1785126180000",
       "title": "Adaptation des bâtiments scolaires aux fortes chaleurs : un plan d'urgence de 200 M€ pour accompagner les collectivités",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -10344,6 +10739,58 @@
       "collectMethod": "rss"
     },
     {
+      "id": "le-journal-du-grand-paris-rss-5-1785143638000",
+      "title": "La Roche, un patrimoine en transition",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/la-roche-un-patrimoine-en-transition/",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Ancien hôpital parisien fermé en 2019, La Roche connaît une nouvelle vie grâce à une occupation transitoire portée par Plateau Urbain. Depuis juillet 2025, ce tiers-lieu situé à deux pas de Denfert-Rochereau accueille 48 structures issues de l'économie sociale et solidaire (ESS),…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-6-1785142355000",
+      "title": "Albane Godard – Penser contre soi-même",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/albane-godard-penser-contre-soi-meme/",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "De l’industrie nucléaire à la finance carbone, la directrice de la Coopérative carbone Paris & Métropole revendique un parcours sans dogmatisme. De l’industrie nucléaire à la finance carbone, la directrice de la Coopérative carbone Paris &#038; Métropole revendique un parcours sa…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "envirobat-occitanie-rss-4-1785093599000",
       "title": "Dgema",
       "source": "Envirobat Occitanie",
@@ -10491,7 +10938,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novabuild-rss-7-1784873400000",
+      "id": "novabuild-rss-8-1784873400000",
       "title": "PEPR « Ville durable et bâtiments innovants » : 14 projets lauréats sélectionnés pour transformer les villes de demain",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -10762,6 +11209,83 @@
       "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-7-1784927632000",
+      "title": "Conférence sur les déchets ménagers (1/4) – Haro sur « la fausse consigne »",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/conference-sur-les-dechets-menagers-1-4-haro-sur-la-fausse-consigne/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Énergie"
+      ],
+      "summary": "À la Maison de la chimie le 8 juillet dernier, la neuvième Conférence nationale sur les déchets ménagers a décliné le thème \"Déchets, énergie, matériaux, nouveaux enjeux de souveraineté dans un monde instable\". Un même constat a couru des discours d’ouverture au débat final sur l…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-8-1784926814000",
+      "title": "Conférence sur les déchets ménagers (2/4) – La réduction du plastique, premier acte contesté d’une stratégie de souveraineté",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/conference-sur-les-dechets-menagers-2-4-la-reduction-du-plastique-premier-acte-conteste-dune-strategie-de-souverainete/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation"
+      ],
+      "summary": "La première table ronde, intitulée \"Plastiques : de la crise environnementale et sanitaire à l’enjeu de souveraineté ?\", a réuni élus, recycleurs, plasturgistes et scientifiques. Tous réclament une boussole publique, quand le plan plastique du gouvernement se focalise à leurs yeu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-9-1784924074000",
+      "title": "Conférence sur les déchets ménagers (3/4) – L’énergie des déchets s’affirme comme une assurance contre les chocs gaziers",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/conference-sur-les-dechets-menagers-3-4-lenergie-des-dechets-saffirme-comme-une-assurance-contre-les-chocs-gaziers/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Économie du bâtiment",
+        "Énergie"
+      ],
+      "summary": "La deuxième table ronde, intitulée \"Gaz, CSR et déchets : vers une souveraineté énergétique par l’économie circulaire ?\", a chiffré le potentiel des filières de valorisation. Toutes butent sur le même obstacle, des soutiens publics et des règles qui changent plus vite que le temp…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "acteurs-publics-sitemap-2-1784889480000",
@@ -11101,7 +11625,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novabuild-rss-8-1784786880000",
+      "id": "novabuild-rss-9-1784786880000",
       "title": "Mon Parcours Économies d’Énergies",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -11662,32 +12186,6 @@
         "Eau"
       ],
       "summary": "Echanges professionnels « La ville du déjà-là : c'est chaud bouillant » - Entretien(s) avec Clément Gaillard webmaster mer 22/07/2026 - 09:50 Cette séance s’organise autour d’un entretien avec Clément Gaillard, auteur de l’ouvrage « Habiter un climat ».Elle sera enrichie de regar…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novabuild-rss-9-1784700900000",
-      "title": "Appel à Projet : Financez la décarbonation de vos sites industriels !",
-      "source": "Novabuild",
-      "sourceId": "novabuild",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Pays de la Loire",
-      "url": "https://www.novabuild.fr/appel-a-projet-financez-la-decarbonation-de-vos-sites-industriels/",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Innovation",
-        "Régional",
-        "Réglementation",
-        "Carbone",
-        "Bâtiment"
-      ],
-      "summary": "Cet appel à projet fait lien avec le groupe de travail \"Bâtiments industriels de demain\" animé par Novabuild et clôturé en mai 2026. Vous avez besoin d'inspiration plus large sur le sujet ? N'hésitez pas à faire un tour sur la page dédiée et de consulter notre outil Les 10 questi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
