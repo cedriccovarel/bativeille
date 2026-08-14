@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T15:57:27.095Z",
+  "generatedAt": "2026-08-14T20:36:39.518Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2995,7 +2995,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1786723057000",
+      "id": "le-commerce-du-bois-sitemap-0-1786739817000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3021,7 +3021,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1786723057000",
+      "id": "le-commerce-du-bois-sitemap-1-1786739817000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3047,7 +3047,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1786723057000",
+      "id": "le-commerce-du-bois-sitemap-2-1786739817000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3095,6 +3095,32 @@
         "Rénovation"
       ],
       "summary": "passoires énergétiques rénovées par la rénovation d'ampleur aidée par l'Anah en 2024 vladimir.ruffin jeu 13/08/2026 - 09:22 Chiffre 46 800 Lien comprendre ce chiffre Les rénovations énergétiques d'ampleur aidées par l'Anah en 2024 Thème du chiffre Énergie Description du chiffre P…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "inc-institut-national-de-la-consommation-rss-0-1786658400000",
+      "title": "Commission d’évaluation et de contrôle de la médiation : nouvelles nominations",
+      "source": "INC — Institut National de la Consommation",
+      "sourceId": "inc-institut-national-de-la-consommation",
+      "sourceType": "Institution / information consommateur",
+      "region": "National",
+      "url": "https://www.inc-conso.fr/content/commission-devaluation-et-de-controle-de-la-mediation-nouvelles-nominations",
+      "image": "https://www.inc-conso.fr/sites/default/files/cmc-nominations-2025-800.png",
+      "date": "2026-08-13",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 100,
+      "tags": [
+        "Consommation",
+        "Qualité",
+        "Produits",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "La Commission d’évaluation et de contrôle de la médiation de la consommation (CECMC) a été créée par l’ordonnance n° 2015-1033 du 20 août 2015 relative au règlement extrajudiciaire des litiges de consommation. Elle vient de voir sa composition renouvelée. Ses membres ont été nomm…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4866,7 +4892,7 @@
       "collectMethod": "wordpress_api"
     },
     {
-      "id": "inc-institut-national-de-la-consommation-rss-0-1786485600000",
+      "id": "inc-institut-national-de-la-consommation-rss-1-1786485600000",
       "title": "Démarchage téléphonique : vous pouvez vous inscrire sur la liste d’opposition Bloctel",
       "source": "INC — Institut National de la Consommation",
       "sourceId": "inc-institut-national-de-la-consommation",
@@ -10305,7 +10331,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "inc-institut-national-de-la-consommation-rss-1-1785276000000",
+      "id": "inc-institut-national-de-la-consommation-rss-2-1785276000000",
       "title": "Calculez votre empreinte carbone",
       "source": "INC — Institut National de la Consommation",
       "sourceId": "inc-institut-national-de-la-consommation",
@@ -10331,7 +10357,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "inc-institut-national-de-la-consommation-rss-2-1785276000000",
+      "id": "inc-institut-national-de-la-consommation-rss-3-1785276000000",
       "title": "Mon impact sur le climat",
       "source": "INC — Institut National de la Consommation",
       "sourceId": "inc-institut-national-de-la-consommation",
@@ -15230,7 +15256,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "inc-institut-national-de-la-consommation-rss-3-1784152800000",
+      "id": "inc-institut-national-de-la-consommation-rss-4-1784152800000",
       "title": "Taux d'intérêt légal",
       "source": "INC — Institut National de la Consommation",
       "sourceId": "inc-institut-national-de-la-consommation",
@@ -15254,7 +15280,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "inc-institut-national-de-la-consommation-rss-4-1784152800000",
+      "id": "inc-institut-national-de-la-consommation-rss-5-1784152800000",
       "title": "Calculez l'augmentation de votre loyer",
       "source": "INC — Institut National de la Consommation",
       "sourceId": "inc-institut-national-de-la-consommation",
