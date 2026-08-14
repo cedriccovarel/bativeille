@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-13T20:50:15.597Z",
+  "generatedAt": "2026-08-14T02:13:53.249Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1786673648000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-08-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1786673648000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-08-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1786673648000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-08-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1786605720000",
       "title": "passoires énergétiques rénovées par la rénovation d'ampleur aidée par l'Anah en 2024",
       "source": "SDES — Données et études statistiques",
@@ -2796,7 +2874,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1786634143000",
+      "id": "enerzine-rss-0-1786659000000",
+      "title": "Une technologie de puce acoustique ultra-robuste pour faire progresser les communications 6G et par satellite",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/une-technologie-de-puce-acoustique-ultra-robuste-pour-faire-progresser-les-communications-6g-et-par-satellite/192017-2026-08",
+      "image": null,
+      "date": "2026-08-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des chercheurs de l’Université des sciences et technologies de Hong Kong (HKUST) ont développé une nouvelle architecture de puce permettant aux dispositifs acoustiques miniaturisés des smartphones de supporter des charges de puissance plus de 12 fois supérieures tout en maintenan…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1786634143000",
       "title": "Renault 5 E-Tech électrique : le retour gagnant d’une icône populaire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2820,7 +2922,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1786626862000",
+      "id": "enerzine-rss-2-1786626862000",
       "title": "Rénover une façade ancienne avec un bardage bois : une transformation sous conditions",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2846,7 +2948,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1786597800000",
+      "id": "enerzine-rss-3-1786597800000",
       "title": "L’haleine plutôt que le sang : un appareil mesure la combustion des graisses dans l’air expiré",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2871,7 +2973,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1786594200000",
+      "id": "enerzine-rss-4-1786594200000",
       "title": "Contrôle spin-électrique ciblé des molécules pour les technologies quantiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2895,7 +2997,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1786590600000",
+      "id": "enerzine-rss-5-1786590600000",
       "title": "Un nouveau détecteur à pérovskite permet des images radiologiques claires à dose bien plus faible",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3145,84 +3247,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Le gouvernement annonce la mise en place, dès le 1er septembre 2026, d'une aide à l'acquisition de véhicules électriques pour les taxis, une première pour cette profession. Le dispositif prévoit jusqu'à 5 500 euros de soutien, mais sa durée limitée et son financement incertain in…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1786654232000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-08-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1786654232000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-08-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1786654232000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-08-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "cerema-sitemap-1152-1786524240000",
@@ -3915,7 +3939,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1786572600000",
+      "id": "enerzine-rss-6-1786572600000",
       "title": "Travailler en cas de forte chaleur, que dit le droit ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3940,7 +3964,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1786547417000",
+      "id": "enerzine-rss-7-1786547417000",
       "title": "BYD dévoile la Seal 06 2027 : une berline électrique et hybride bardée de technologies à prix cassé",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3964,7 +3988,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1786544700000",
+      "id": "enerzine-rss-8-1786544700000",
       "title": "JCB pulvérise le record du monde de vitesse à l’hydrogène à Bonneville",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3990,7 +4014,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1786542950000",
+      "id": "enerzine-rss-9-1786542950000",
       "title": "Punaise des champs : pourquoi cet insecte envahit soudainement les murs et terrasses",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4010,31 +4034,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "En bref : Les punaises des champs, souvent observées près des cultures de colza, se déplacent vers les habitations lorsque les moissons et le déchaumage détruisent leur habitat. La chaleur et la sécheresse favorisent leur multiplication. Elles ne piquent pas, ne transmettent pas …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1786540292000",
-      "title": "Rafale : l’effervescence autour du fleuron de Dassault, entre méga-contrat indien et sauts technologiques",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/dassault-rafale-contrat-indien-mica-ng-tendance/192612-2026-08",
-      "image": null,
-      "date": "2026-08-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Une conjonction de nouvelles dessinent un moment charnière pour le Rafale, l’avion de combat français de Dassault. Récemment, l’actualité a mêlé la perspective d’un contrat historique avec l’Inde, une démonstration de force capacitaire avec le tir d’un nouveau missile et les inte…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
