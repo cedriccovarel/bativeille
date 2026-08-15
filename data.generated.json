@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T20:36:39.518Z",
+  "generatedAt": "2026-08-15T01:25:40.576Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1786757162000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-08-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1786757162000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-08-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1786757162000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-08-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "batiweb-rss-0-1786693500000",
       "title": "Accident meurtrier dans un tunnel en construction en Inde",
       "source": "Batiweb",
@@ -2796,7 +2874,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1786686300000",
+      "id": "enerzine-rss-0-1786745400000",
+      "title": "Un microscope à capteur quantique éclaire la conception des transistors",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-microscope-a-capteur-quantique-eclaire-la-conception-des-transistors/192047-2026-08",
+      "image": null,
+      "date": "2026-08-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "RE2020"
+      ],
+      "summary": "L’intelligence artificielle fait face à une crise énergétique, provenant d’un embouteillage physique à l’intérieur des puces informatiques modernes. Les processeurs doivent continuellement déplacer des données, comme les milliards de paramètres dans les modèles complexes, entre d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1786686300000",
       "title": "Carburant aérien durable : H4 Marseille Fos sécurise son CO2 biogénique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2822,7 +2926,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1786684200000",
+      "id": "enerzine-rss-2-1786684200000",
       "title": "« Phare à électrons » éclaire une nouvelle physique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2847,7 +2951,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1786677000000",
+      "id": "enerzine-rss-3-1786677000000",
       "title": "SwRI étend son installation pour soutenir les tests de technologies hypersoniques et supersoniques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2993,84 +3097,6 @@
       "summary": "Les attaques iraniennes contre des navires ADNOC dans le détroit d'Ormuz, par lequel transitait 20% du pétrole mondial, aggravent les tensions sur l'approvisionnement énergétique. L'Agence internationale de l'énergie prévoit la plus forte pénurie annuelle en cinq ans, avec des ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1786739817000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-08-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1786739817000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-08-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1786739817000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-08-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1786605720000",
@@ -3734,7 +3760,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1786659000000",
+      "id": "enerzine-rss-4-1786659000000",
       "title": "Une technologie de puce acoustique ultra-robuste pour faire progresser les communications 6G et par satellite",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3758,7 +3784,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1786634143000",
+      "id": "enerzine-rss-5-1786634143000",
       "title": "Renault 5 E-Tech électrique : le retour gagnant d’une icône populaire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3782,7 +3808,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1786626862000",
+      "id": "enerzine-rss-6-1786626862000",
       "title": "Rénover une façade ancienne avec un bardage bois : une transformation sous conditions",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3808,7 +3834,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1786597800000",
+      "id": "enerzine-rss-7-1786597800000",
       "title": "L’haleine plutôt que le sang : un appareil mesure la combustion des graisses dans l’air expiré",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3833,7 +3859,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1786594200000",
+      "id": "enerzine-rss-8-1786594200000",
       "title": "Contrôle spin-électrique ciblé des molécules pour les technologies quantiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3857,7 +3883,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1786590600000",
+      "id": "enerzine-rss-9-1786590600000",
       "title": "Un nouveau détecteur à pérovskite permet des images radiologiques claires à dose bien plus faible",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4641,31 +4667,6 @@
         "Réglementation"
       ],
       "summary": "La folle course à l’innovation qui s’est tenue pendant la Guerre Froide a failli aboutir à la réalisation d’un concept aujourd’hui oublié : l’aviation à […] L’article L’aviation nucléaire a failli devenir une réalité dans les années 50 est apparu en premier sur Révolution Énergét…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1786572600000",
-      "title": "Travailler en cas de forte chaleur, que dit le droit ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/travailler-en-cas-de-forte-chaleur-que-dit-le-droit/191941-2026-08",
-      "image": null,
-      "date": "2026-08-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "Caroline Diard, TBS Education Ce qu’il faut retenir : · Le Code du travail impose aux employeurs de mettre en œuvre les mesures nécessaires pour protéger la santé physique des travailleurs. Explication avec la canicule.· Ni l’employeur ni le salarié ne peuvent imposer du télétrav…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
