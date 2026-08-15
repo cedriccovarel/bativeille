@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T10:28:10.978Z",
+  "generatedAt": "2026-08-15T15:25:54.939Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2440,7 +2440,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1786789706000",
+      "id": "le-commerce-du-bois-sitemap-0-1786807578000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2466,7 +2466,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1786789706000",
+      "id": "le-commerce-du-bois-sitemap-1-1786807578000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2492,7 +2492,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1786789706000",
+      "id": "le-commerce-du-bois-sitemap-2-1786807578000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -6284,6 +6284,32 @@
       "collectMethod": "rss"
     },
     {
+      "id": "le-journal-du-grand-paris-rss-0-1786189361000",
+      "title": "P. Hardouin (CEO d’Equans France) : « Nous préparons désormais des plans d’urgence climatique »",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/p-hardouin-ceo-dequans-france-nous-preparons-desormais-des-plans-durgence-climatique/",
+      "image": null,
+      "date": "2026-08-08",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Né en 2022 au sein du groupe Bouygues, à partir des activités multitechniques auparavant logées chez Engie, Equans France revendique 650 agences, 35 000 collaborateurs et plus de 137 implantations en Île-de-France. Pierre Hardouin, son directeur général, détaille les savoir-faire…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-1-1786092480000",
       "title": "empreinte carbone de la consommation touristique en 2023",
       "source": "SDES — Données et études statistiques",
@@ -7353,58 +7379,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "bois-com-sitemap-0-1786031110000",
-      "title": "articles",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/fil-du-bois/articles/",
-      "image": null,
-      "date": "2026-08-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-77-1786031110000",
-      "title": "labri de piscine en bois un choix qui allie beaute et performance",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/habitation-bois/articles/labri-de-piscine-en-bois-un-choix-qui-allie-beaute-et-performance/",
-      "image": null,
-      "date": "2026-08-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "meteo-france-rss-1-1785939795000",
       "title": "Qu'est-ce qu'un nuage ?",
       "source": "Météo-France",
@@ -8175,188 +8149,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "bois-com-sitemap-70-1785750235000",
-      "title": "le bois dans les salles de concert un materiau qui sculpte le son",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/le-bois-matiere-vivante/articles/le-bois-dans-les-salles-de-concert-un-materiau-qui-sculpte-le-son/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-71-1785759501000",
-      "title": "clt lamelle colle osb contreplaque ces materiaux bois qui transforment notre facon de construire",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/la-transformation-du-bois/articles/clt-lamelle-colle-osb-contreplaque-ces-materiaux-bois-qui-transforment-notre-facon-de-construire/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-72-1785759550000",
-      "title": "labels et certifications bois le guide pour sy retrouver",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/pourquoi-le-bois/articles/labels-et-certifications-bois-le-guide-pour-sy-retrouver/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-73-1785759568000",
-      "title": "choisir la bonne essence de bois pour son projet",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/pourquoi-le-bois/articles/choisir-la-bonne-essence-de-bois-pour-son-projet/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-74-1785759590000",
-      "title": "valorisation du bois un cycle vertueux au service de leconomie circulaire",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/la-transformation-du-bois/articles/valorisation-du-bois-un-cycle-vertueux-au-service-de-leconomie-circulaire/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-75-1785759640000",
-      "title": "dimensionnement du solivage la structure cachee de votre plancher",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/construction-bois/articles/dimensionnement-du-solivage-la-structure-cachee-de-votre-plancher/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-76-1785762196000",
-      "title": "les atouts du bois en interieur et si vous choisissiez le bois francais",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/le-bois-matiere-vivante/articles/les-atouts-du-bois-en-interieur-et-si-vous-choisissiez-le-bois-francais/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "meteo-france-rss-2-1785689159000",
       "title": "Comment se forme un nuage ?",
       "source": "Météo-France",
@@ -9092,7 +8884,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1785542065000",
+      "id": "le-journal-du-grand-paris-rss-1-1785542065000",
       "title": "Incendies : la métropole du Grand Paris propose une enveloppe de 500 000 euros pour la reforestation",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9118,7 +8910,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1785538790000",
+      "id": "le-journal-du-grand-paris-rss-2-1785538790000",
       "title": "Classement de Shanghaï 2026 : Sorbonne Université décroche, les trois autres universités franciliennes tiennent leur rang",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9143,7 +8935,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1785530628000",
+      "id": "le-journal-du-grand-paris-rss-3-1785530628000",
       "title": "La Caisse d’Épargne au secours de la forêt de Fontainebleau incendiée",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9168,7 +8960,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1785517242000",
+      "id": "le-journal-du-grand-paris-rss-4-1785517242000",
       "title": "Les coulisses du Grand Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9192,7 +8984,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1785516169000",
+      "id": "le-journal-du-grand-paris-rss-5-1785516169000",
       "title": "Championnats d’Europe de natation : le CAO métropole du Grand Paris replonge dans le grand bain",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9212,32 +9004,6 @@
         "Immobilier"
       ],
       "summary": "Deux ans après les Jeux de Paris 2024, le Centre aquatique olympique métropole du Grand Paris accueille les Championnats d'Europe de natation, du 31 juillet au 16 août. Deux ans après les Jeux de Paris 2024, le Centre aquatique olympique métropole du Grand Paris accueille les Cha…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-5-1785498161000",
-      "title": "P. Hardouin (CEO d’Equans France) : « Nous préparons désormais des plans d’urgence climatique »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/p-hardouin-ceo-dequans-france-nous-preparons-desormais-des-plans-durgence-climatique/",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Né en 2022 au sein du groupe Bouygues, à partir des activités multitechniques auparavant logées chez Engie, Equans France revendique 650 agences, 35 000 collaborateurs et plus de 137 implantations en Île-de-France. Pierre Hardouin, son directeur général, détaille les savoir-faire…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11468,32 +11234,6 @@
       "summary": "Après l’explosion d’un transformateur en Bretagne fin juin en pleine canicule, les salariés de RTE ont choisi d’exercer leur droit d’alerte. Le 23 juin dernier, […] L’article Explosion d’un transformateur : les salariés de RTE alertent sur l’état du réseau électrique français est…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "bois-com-sitemap-69-1784887662000",
-      "title": "histoire de la foret en france 12 000 ans de transformations",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/nos-forets/articles/histoire-de-la-foret-en-france-12-000-ans-de-transformations/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-9-1784927632000",
@@ -16438,32 +16178,6 @@
       "summary": "Les STEP hydroélectriques sont devenus « une priorité stratégique sur les principaux marchés de l'électricité à travers le monde », souligne l'International hydropower association (IHA) dans son bilan annuel publié le 24 juin dernier. Les STEP hydroélectriques sont devenus « une …",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "bois-com-sitemap-68-1783697474000",
-      "title": "cuisine dete en bois des inspirations pour transformer votre jardin",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/amenagement/articles/cuisine-dete-en-bois-des-inspirations-pour-transformer-votre-jardin/",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "association-bbca-rss-0-1783616549000",
