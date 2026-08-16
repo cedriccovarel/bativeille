@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T10:28:21.096Z",
+  "generatedAt": "2026-08-16T15:27:40.368Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2388,7 +2388,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1786876123000",
+      "id": "le-commerce-du-bois-sitemap-0-1786894080000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2414,7 +2414,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1786876123000",
+      "id": "le-commerce-du-bois-sitemap-1-1786894080000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2440,7 +2440,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1786876123000",
+      "id": "le-commerce-du-bois-sitemap-2-1786894080000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
