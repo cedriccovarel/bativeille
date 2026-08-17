@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T20:27:41.023Z",
+  "generatedAt": "2026-08-17T01:28:54.117Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1786930120000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-08-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1786930120000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-08-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1786930120000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-08-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "reporterre-rss-0-1786863600000",
       "title": "Grimper aux arbres, l'alternative écolo à l'accrobranche",
       "source": "Reporterre",
@@ -2290,7 +2368,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1786853400000",
+      "id": "enerzine-rss-0-1786918200000",
+      "title": "Cet instrument pourrait considérablement améliorer les prévisions météorologiques spatiales",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/cet-instrument-pourrait-considerablement-ameliorer-les-previsions-meteorologiques-spatiales/192112-2026-08",
+      "image": null,
+      "date": "2026-08-16",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Les avertissements de météorologie spatiale pourraient être reçus des heures avant que la Terre ne soit frappée, plutôt que quelques minutes, grâce à un instrument miniature construit au Royaume-Uni qui sera bientôt stationné dans l’espace lointain. MAGIC (MAGnetomètre de l’Imper…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1786853400000",
       "title": "PFAS : des effets neurologiques détectés pour la première fois chez l’animal",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2314,7 +2418,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1786849800000",
+      "id": "enerzine-rss-2-1786849800000",
       "title": "Batterie : la capacité de stockage multipliée par six en 2030",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2412,84 +2516,6 @@
       "summary": "Une centrale nucléaire à 10 % de sa capacité, un fleuve à sec et des recharges qui doublent de prix le soir : la Hongrie rationne déjà ses voitures électriques. Et la France pourrait suivre. L’article Faute d’eau pour refroidir ses réacteurs, la Hongrie rationne la recharge des v…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1786912083000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-08-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1786912083000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-08-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1786912083000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-08-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "reporterre-rss-2-1786773600000",
@@ -2644,7 +2670,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1786831800000",
+      "id": "enerzine-rss-3-1786831800000",
       "title": "Décarbonation : 96,4 millions d’euros européens pour les Bouches-du-Rhône",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2670,7 +2696,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1786784100000",
+      "id": "enerzine-rss-4-1786784100000",
       "title": "Économie circulaire : le rôle discret de l’emballage métallique dans la décarbonation de l’industrie",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2696,7 +2722,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1786767000000",
+      "id": "enerzine-rss-5-1786767000000",
       "title": "deltaVision lève 10,2 millions d’euros et ouvre une filiale en France",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2722,7 +2748,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1786763400000",
+      "id": "enerzine-rss-6-1786763400000",
       "title": "Trente-deux collèges d’Indre-et-Loire équipés de centrales solaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3457,7 +3483,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1786745400000",
+      "id": "enerzine-rss-7-1786745400000",
       "title": "Un microscope à capteur quantique éclaire la conception des transistors",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3483,7 +3509,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1786686300000",
+      "id": "enerzine-rss-8-1786686300000",
       "title": "Carburant aérien durable : H4 Marseille Fos sécurise son CO2 biogénique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3509,7 +3535,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1786684200000",
+      "id": "enerzine-rss-9-1786684200000",
       "title": "« Phare à électrons » éclaire une nouvelle physique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3530,30 +3556,6 @@
         "Confort d’été"
       ],
       "summary": "Des chercheurs de l’Université du Michigan ont créé un dispositif qui leur permet de contrôler le flux d’électrons à travers un semi-conducteur en utilisant uniquement la lumière laser, sans source d’alimentation électrique. Ce dispositif a été construit pour explorer la physique…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1786677000000",
-      "title": "SwRI étend son installation pour soutenir les tests de technologies hypersoniques et supersoniques",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/swri-etend-son-installation-pour-soutenir-les-tests-de-technologies-hypersoniques-et-supersoniques/192050-2026-08",
-      "image": null,
-      "date": "2026-08-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Le Southwest Research Institute (SwRI) a étendu les capacités de son installation High Energy Annex Test (HEAT) pour faire progresser les technologies hypersoniques et supersoniques. L’installation HEAT de SwRI, créée en 2016 pour soutenir les essais de chambres de combustion de …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11427,52 +11429,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "aupa-pays-d-aix-sitemap-8-1784903873000",
-      "title": "habitat modes de vie",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/habitat-modes-de-vie/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-12-1784903873000",
-      "title": "publication",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "filiere-3e-rss-2-1784877428000",
       "title": "Sauter Vision Center 9.2 : de nouvelles fonctionnalités pour améliorer l’efficacité énergétique et la sécurité.",
       "source": "Filière 3e",
@@ -17520,29 +17476,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "aupa-pays-d-aix-sitemap-11-1783427061000",
-      "title": "prospective",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/prospective/",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "arec-nouvelle-aquitaine-rss-1-1783420380000",
       "title": "Les repères chiffrés 2026 de l’ORDEC : la publication disponible !",
       "source": "AREC Nouvelle-Aquitaine",
@@ -18588,29 +18521,6 @@
       "summary": "L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM. L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM . Les centres-villes face aux défis des transitions",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-6-1782901923000",
-      "title": "publications et animations",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/publications-et-animations/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "audiar-rennes-rss-3-1782913760000",
