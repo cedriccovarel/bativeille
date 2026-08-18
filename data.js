@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-18T01:25:16.606Z",
+  "generatedAt": "2026-08-18T05:34:29.634Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,7 +2161,160 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
-      "id": "le-commerce-du-bois-sitemap-0-1787016298000",
+      "id": "novabuild-rss-0-1787030100000",
+      "title": "En 2026, l’offre « Énergie et Décarbonation » de Nantes Métropole passe à la vitesse supérieure !",
+      "source": "Novabuild",
+      "sourceId": "novabuild",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Pays de la Loire",
+      "url": "https://www.novabuild.fr/en-2026-loffre-energie-et-decarbonation-de-nantes-metropole-passe-a-la-vitesse-superieure/",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Régional",
+        "Réglementation",
+        "Carbone",
+        "Énergie"
+      ],
+      "summary": "Retour sur les étapes du parcours Transition énergétique de Nantes Métropole.Alisée, Atlansun, Novabuild et Orace unissent leurs expertises pour donner un nouvel élan à l’accompagnement des entreprises de la métropole. Objectif : leur proposer un parcours structuré, concret et pr…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "novethic-rss-0-1787028301000",
+      "title": "Méduses, sécheresse et canicules : l’été 2026 met à mal le parc nucléaire d'EDF",
+      "source": "Novethic",
+      "sourceId": "novethic",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.novethic.fr/environnement/transition-energetique/meduses-secheresse-et-canicules-lete-2026-met-a-mal-le-parc-nucleaire-dedf",
+      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/08/meduses-centrale-nucleaire-gravelines-@sameer-al-doumy-AFP-150x150.jpg",
+      "date": "2026-08-18",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "ESG",
+        "Finance durable",
+        "Climat",
+        "Réglementation"
+      ],
+      "summary": "Des méduses jonchaient le rivage près de la centrale nucléaire de Gravelines, dans le nord de la France, le 12 août 2025. Sameer Al-Doumy/AFP Ce qui semblait exceptionnel semble d’ores et déjà devenir la norme. Mardi 11 août, alors que la France vivait son cinquième épisode canic…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1787029800000",
+      "title": "Drones DJI : triple exploit logistique et scientifique sur l’Everest",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/drones-dji-triple-exploit-logistique-et-scientifique-sur-leverest/192198-2026-08",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "DJI a mené avec succès trois missions distinctes sur le mont Everest au printemps 2026, entre le versant sud népalais et le versant nord chinois. Livraison de matériel d’alpinisme, cartographie glaciaire et recherche atmosphérique : les drones FlyCart 100, Matrice 4E et EV50 ont …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1787026200000",
+      "title": "Transformer le dioxyde de carbone en une nouvelle génération de plastiques recyclables",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/transformer-le-dioxyde-de-carbone-en-une-nouvelle-generation-de-plastiques-recyclables/192238-2026-08",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Des chercheurs de l’Université d’État du Colorado ont mis au point un procédé pour transformer le dioxyde de carbone naturel et très stable en matériaux recyclables et hautes performances qui pourraient remplacer les plastiques actuels dans de nombreuses situations. Leur procédé …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1787022600000",
+      "title": "Recharger les drones en plein vol avec des lasers",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/recharger-les-drones-en-plein-vol-avec-des-lasers/192219-2026-08",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "La recharge sans fil n’a rien de nouveau pour nos téléphones, montres, écouteurs et autres technologies. Aujourd’hui, des chercheurs veulent amener l’énergie sans fil dans les cieux—recharger les drones en vol en projetant un laser sous leurs ailes. Dans un article publié le 29 j…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-0-1787023265000",
+      "title": "Pétrole : Chevron dévoile une colonne d’hydrocarbures de 600 mètres au large de l’Angola",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/18/petrole-chevron-devoile-colonne-hydrocarbures-600-metres-large-angola/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/02/shutterstock_2510062221-1.jpg",
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Chevron a confirmé le 17 août 2026 une découverte majeure de pétrole et gaz condensé au puits 105-4X dans le Bloc 0 en eaux profondes angolaises. L’article Pétrole : Chevron dévoile une colonne d’hydrocarbures de 600 mètres au large de l’Angola est apparu en premier sur L'EnerGee…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1787031257000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2187,7 +2340,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1787016298000",
+      "id": "le-commerce-du-bois-sitemap-1-1787031257000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2213,7 +2366,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1787016298000",
+      "id": "le-commerce-du-bois-sitemap-2-1787031257000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2532,7 +2685,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novethic-rss-0-1786967123000",
+      "id": "novethic-rss-1-1786967123000",
       "title": "Obsolescence programmée des jeux vidéos : bras de fer engagé entre Stop Killing Games et Bruxelles",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -2558,7 +2711,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-1-1786960363000",
+      "id": "novethic-rss-2-1786960363000",
       "title": "Data centers, énergie verte, adaptation... qui gagnera la course aux milliards d’investissement dans les infrastructures ?",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -2584,7 +2737,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-2-1786941913000",
+      "id": "novethic-rss-3-1786941913000",
       "title": "COP17 Désertification : la préservation des sols, enjeu de plus en plus critique pour les entreprises",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -2969,7 +3122,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1787004600000",
+      "id": "enerzine-rss-3-1787004600000",
       "title": "Une contrainte mécanique crée la chiralité",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2994,7 +3147,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1786973100000",
+      "id": "enerzine-rss-4-1786973100000",
       "title": "L’économie circulaire dans l’automobile : donner une seconde vie aux véhicules",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3020,7 +3173,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1786956300000",
+      "id": "enerzine-rss-5-1786956300000",
       "title": "Martinique et Guadeloupe : le leasing social, nouveau chapitre de la transition automobile",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3046,7 +3199,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1786954586000",
+      "id": "enerzine-rss-6-1786954586000",
       "title": "Le « Dubai Tower » ouvre la voie d’une liaison régulière entre la Chine et l’Europe via l’Arctique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3071,7 +3224,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1786953000000",
+      "id": "enerzine-rss-7-1786953000000",
       "title": "Taxe foncière 2026 : dates des avis, revalorisation de +0,8 % et point sur la réforme",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3096,7 +3249,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1786949400000",
+      "id": "enerzine-rss-8-1786949400000",
       "title": "Taxe voiture électrique : la fin des exonérations qui inquiète les automobilistes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3120,7 +3273,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1786943400000",
+      "id": "enerzine-rss-9-1786943400000",
       "title": "EDP met en service une installation solaire pour Snop à Étupes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3145,56 +3298,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1786939800000",
-      "title": "Prosolia Energy met en service un BESS de 60 MWh au Portugal",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/prosolia-energy-met-en-service-un-bess-de-60-mwh-au-portugal/192150-2026-08",
-      "image": null,
-      "date": "2026-08-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Le producteur indépendant d’énergie Prosolia Energy a annoncé, le 24 juillet 2026, la mise en service d’un système de stockage par batteries sur sa centrale solaire d’Albispark, à Castelo Branco. L’installation hybride associe 15 MW de batteries pour 60 MWh de capacité à 34,4 MWc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1786936200000",
-      "title": "CorPower décroche la première certification DNV houlomotrice",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/corpower-decroche-la-premiere-certification-dnv-houlomotrice/192115-2026-08",
-      "image": null,
-      "date": "2026-08-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "CorPower Ocean a obtenu le premier certificat prototype DNV au monde pour son convertisseur d’énergie houlomotrice C4. Une validation qui atteste de la fiabilité structurelle et réduit le risque technologique, ouvrant la voie aux financements de projets commerciaux au Portugal et…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-0-1786977234000",
+      "id": "lenergeek-rss-1-1786977234000",
       "title": "Centrale de Gravelines : méduses et canicule paralysent les systèmes de refroidissement",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3220,7 +3324,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1786960391000",
+      "id": "lenergeek-rss-2-1786960391000",
       "title": "Énergies renouvelables : la Chine rejette 360 TWh et mise sur le stockage thermique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3245,7 +3349,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1786947652000",
+      "id": "lenergeek-rss-3-1786947652000",
       "title": "Sécheresse : votre mairie distribue des mousseurs de robinet gratuits, mais 80% des foyers éligibles ne le savent pas encore",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3270,7 +3374,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1786945842000",
+      "id": "lenergeek-rss-4-1786945842000",
       "title": "Le mégayacht du cofondateur de Google consomme autant que 600 foyers : trop imposant pour la marina, il finit au quai de la Marine espagnole",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3294,7 +3398,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1786944056000",
+      "id": "lenergeek-rss-5-1786944056000",
       "title": "La Russie fait naviguer une centrale nucléaire jusqu’au bout de la Sibérie : ce qu’elle alimente depuis 2020 surprend même les ingénieurs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3319,7 +3423,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1786941165000",
+      "id": "lenergeek-rss-6-1786941165000",
       "title": "Pétrole : Petrobras identifie des hydrocarbures à 2 886 mètres de profondeur au large du Brésil",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3575,33 +3679,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1786918200000",
-      "title": "Cet instrument pourrait considérablement améliorer les prévisions météorologiques spatiales",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/cet-instrument-pourrait-considerablement-ameliorer-les-previsions-meteorologiques-spatiales/192112-2026-08",
-      "image": null,
-      "date": "2026-08-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Les avertissements de météorologie spatiale pourraient être reçus des heures avant que la Terre ne soit frappée, plutôt que quelques minutes, grâce à un instrument miniature construit au Royaume-Uni qui sera bientôt stationné dans l’espace lointain. MAGIC (MAGnetomètre de l’Imper…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-6-1786863051000",
+      "id": "lenergeek-rss-7-1786863051000",
       "title": "La moitié des stations-service sans carburant dans ces départements : l’approvisionnement en essence est compliqué",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3625,7 +3703,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1786861251000",
+      "id": "lenergeek-rss-8-1786861251000",
       "title": "Température idéale du frigo confirmée : le réglage qui réduit de moitié votre facture en pleine canicule",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3650,7 +3728,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1786859435000",
+      "id": "lenergeek-rss-9-1786859435000",
       "title": "Faute d’eau pour refroidir ses réacteurs, la Hongrie rationne la recharge des voitures électriques : les automobilistes n’en reviennent pas",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3827,7 +3905,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1786774818000",
+      "id": "lenergeek-rss-10-1786774818000",
       "title": "Conflit dans le détroit d’Ormuz, Trump renouvelle encore une fois une dérogation maritime pour faire face à la montée des prix du pétrole",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3851,7 +3929,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1786773050000",
+      "id": "lenergeek-rss-11-1786773050000",
       "title": "L’Etna crache des flammes et cloue au sol 700 avions mais certains touristes continuent leur ascension, en tongs !",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3875,7 +3953,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1786771222000",
+      "id": "lenergeek-rss-12-1786771222000",
       "title": "Ce réacteur de recherche planté en Provence devait coûter 500 millions d’euros : depuis 2007, il n’a toujours rien produit",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4513,7 +4591,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1786692628000",
+      "id": "lenergeek-rss-13-1786692628000",
       "title": "Nucléaire : 7 centrales à l’arrêt en Europe à cause de la canicule",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4539,7 +4617,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1786688431000",
+      "id": "lenergeek-rss-14-1786688431000",
       "title": "« 5 fois plus puissant » : la NASA vient d’achever les essais d’un propulseur nucléaire qui pourrait diviser par deux le trajet vers Mars",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4563,7 +4641,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1786686629000",
+      "id": "lenergeek-rss-15-1786686629000",
       "title": "Ils ont collecté plus de 2 000 bouteilles en plastique pour bâtir une serre et ont finalement conçu une structure permettant de cultiver toute l’année",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4588,7 +4666,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1786684845000",
+      "id": "lenergeek-rss-16-1786684845000",
       "title": "Arrêtez de creuser pour trouver de l’or, il y en a partout chez vous : au moins un de ces objets se cache dans vos tiroirs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4613,7 +4691,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1786681800000",
+      "id": "lenergeek-rss-17-1786681800000",
       "title": "Ormuz : les attaques iraniennes font planer le spectre d’une pénurie pétrolière historique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4715,7 +4793,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novabuild-rss-0-1786597200000",
+      "id": "novabuild-rss-1-1786597200000",
       "title": "Appel à candidature \"Habiter avec la chaleur\"",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -5221,7 +5299,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1786623480000",
+      "id": "lenergeek-rss-18-1786623480000",
       "title": "Porsche va acheter des crédits carbone à Xpeng",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5247,7 +5325,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1786622940000",
+      "id": "lenergeek-rss-19-1786622940000",
       "title": "Canicule : la France face à une facture de 10 à 15 milliards d’euros",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5273,7 +5351,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1786618341000",
+      "id": "lenergeek-rss-20-1786618341000",
       "title": "Terres rares : la Chine évalue la faisabilité technique des gisements iraniens",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5299,7 +5377,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1786606307000",
+      "id": "lenergeek-rss-21-1786606307000",
       "title": "Pétrole arctique : pourquoi Greenland Energy doit attendre l’hiver 2027 pour forer ses 2,35 milliards de barils",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5324,7 +5402,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1786602000000",
+      "id": "lenergeek-rss-22-1786602000000",
       "title": "En 1935, l’armée américaine a largué 40 bombes sur un volcan hawaïen pour détourner la lave : les volcanologues se demandent encore si ça a marché",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5350,7 +5428,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1786600243000",
+      "id": "lenergeek-rss-23-1786600243000",
       "title": "Des scientifiques ont découvert un chargement romain intact retrouvé au fond d’un lac suisse, figé depuis près de 2 000 ans",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5370,30 +5448,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "Deux épées cachées parmi la vaisselle, des roues de char au fond du lac : cette épave romaine intacte depuis 2 000 ans révèle bien plus qu'un simple naufrage commercial. L’article Des scientifiques ont découvert un chargement romain intact retrouvé au fond d’un lac suisse, figé d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1786598406000",
-      "title": "Pourquoi ce tunnel sous-marin chinois venu de battre un record à plus de 100 mètres fascine les ingénieurs du monde entier",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/13/pourquoi-ce-tunnel-sous-marin-chinois-venu-de-battre-un-record-a-plus-de-100-metres-fascine-les-ingenieurs-du-monde-entier/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Pourquoi-ce-tunnel-sous-marin-chinois-venu-de-battre-un-record-a-plus-de-100-metres-fascine-les-ingenieurs-du-monde-enti.webp",
-      "date": "2026-08-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "113 mètres sous la mer, six zones de failles, un monstre d'acier chinois qui bat un record mondial. Reste 3 mètres avant l'objectif final, et le suspense reste entier. L’article Pourquoi ce tunnel sous-marin chinois venu de battre un record à plus de 100 mètres fascine les ingéni…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6060,7 +6114,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novabuild-rss-1-1786427040000",
+      "id": "novabuild-rss-2-1786427040000",
       "title": "Engins de chantier électriques : l'ADEME lance le programme CEE E-TRANS pour accompagner les professionnels",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -7401,7 +7455,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novethic-rss-3-1786107637000",
+      "id": "novethic-rss-4-1786107637000",
       "title": "Une semaine de pause pour mieux repartir",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7427,7 +7481,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-4-1786103116000",
+      "id": "novethic-rss-5-1786103116000",
       "title": "\"L'économie ne peut plus se construire sur des actifs qui fondent\", Diego Landivar, économiste et anthropologue",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7453,7 +7507,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-5-1786077946000",
+      "id": "novethic-rss-6-1786077946000",
       "title": "Colombie : Nouveau président, nouvelle trajectoire pour la protection de l’environnement",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7630,7 +7684,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novabuild-rss-2-1785996900000",
+      "id": "novabuild-rss-3-1785996900000",
       "title": "Le Comité 21 lance son nouveau parcours adaptation 2026-2027",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -7829,7 +7883,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-6-1786016745000",
+      "id": "novethic-rss-7-1786016745000",
       "title": "Capital-risque : les fonds qui misent sur la RSE prennent de l'avance",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7855,7 +7909,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-7-1786009553000",
+      "id": "novethic-rss-8-1786009553000",
       "title": "Avant ChatGPT, ces fictions avaient vu venir la révolution de l'IA",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7880,7 +7934,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-8-1785991503000",
+      "id": "novethic-rss-9-1785991503000",
       "title": "Rhin, Danube… les fleuves européens en manque d’eau mettent l’économie à sec",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -8077,32 +8131,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-9-1785930337000",
-      "title": "Congé solidarité écologique : la proposition qui veut soigner l'éco-anxiété au travail",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/economie-et-social/conge-solidarite-ecologique-proposition-soigner-eco-anxiete-travail",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/08/fahim-mohammed-jaseem-SWAHvtC8S2E-unsplash-150x150.jpg",
-      "date": "2026-08-05",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Confort d’été"
-      ],
-      "summary": "Face à la montée de l'éco-anxiété chez les jeunes actifs, le think tank Écologie Responsable planche sur une mesure inédite : un \"congé solidarité écologique\" - Fahim mohammed jaseem - Unsplash Au départ, un constat simple : la \"génération climat\" traverse une crise existentielle…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-18-1785942576000",
       "title": "Comment décarboner efficacement les logements par l’électrification ?",
       "source": "Révolution Énergétique",
@@ -8253,7 +8281,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novabuild-rss-3-1785821340000",
+      "id": "novabuild-rss-4-1785821340000",
       "title": "« Dans un climat d’incertitudes, le mandat à venir appartient au maire rénovateur » une tribune collective",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -9643,7 +9671,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novabuild-rss-4-1785391200000",
+      "id": "novabuild-rss-5-1785391200000",
       "title": "Concertation sur le confort d’été dans la RE2020",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -10103,7 +10131,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novabuild-rss-5-1785300900000",
+      "id": "novabuild-rss-6-1785300900000",
       "title": "Création d'Ekocept : un bureau d'études environnement indépendant au service des architectes, maîtres d'ouvrage et maîtres d'œuvre",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -10524,7 +10552,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novabuild-rss-6-1785218040000",
+      "id": "novabuild-rss-7-1785218040000",
       "title": "MOOC et formations structurées : formez-vous pendant l'été !",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -10849,7 +10877,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novabuild-rss-7-1785126180000",
+      "id": "novabuild-rss-8-1785126180000",
       "title": "Adaptation des bâtiments scolaires aux fortes chaleurs : un plan d'urgence de 200 M€ pour accompagner les collectivités",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -11266,7 +11294,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novabuild-rss-8-1784873400000",
+      "id": "novabuild-rss-9-1784873400000",
       "title": "PEPR « Ville durable et bâtiments innovants » : 14 projets lauréats sélectionnés pour transformer les villes de demain",
       "source": "Novabuild",
       "sourceId": "novabuild",
@@ -11387,6 +11415,52 @@ window.BATIVEILLE_DATA = {
         "Air"
       ],
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "aupa-pays-d-aix-sitemap-8-1784903873000",
+      "title": "habitat modes de vie",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/category/publication/habitat-modes-de-vie/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "aupa-pays-d-aix-sitemap-12-1784903873000",
+      "title": "publication",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/category/publication/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -11800,32 +11874,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Face aux enjeux spécifiques du logement dans les territoires ruraux, la Direction générale de l’aménagement, du logement et de la nature (DGALN), a développé le Parcours Projet Habitat Rural, en partenariat avec l’Agence nationale de la cohésion des territoires (ANCT). Conçu comm…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novabuild-rss-9-1784786880000",
-      "title": "Mon Parcours Économies d’Énergies",
-      "source": "Novabuild",
-      "sourceId": "novabuild",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Pays de la Loire",
-      "url": "https://www.novabuild.fr/mon-parcours-economies-denergies/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Innovation",
-        "Régional",
-        "Réglementation",
-        "Économie du bâtiment",
-        "Énergie"
-      ],
-      "summary": "Un parcours proposé par l'ADEME pour accompagner les entreprises à réduire leurs consommations énergétiques. L'énergie est devenue un poste de charges structurel pour les commerçants, artisans, TPE et PME tertiaires et industrielles. Limiter la facture énergétique, maîtriser les …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -17147,6 +17195,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "aupa-pays-d-aix-sitemap-11-1783427061000",
+      "title": "prospective",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/category/publication/prospective/",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "arec-nouvelle-aquitaine-rss-1-1783420380000",
       "title": "Les repères chiffrés 2026 de l’ORDEC : la publication disponible !",
       "source": "AREC Nouvelle-Aquitaine",
@@ -18192,6 +18263,29 @@ window.BATIVEILLE_DATA = {
       "summary": "L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM. L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM . Les centres-villes face aux défis des transitions",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "aupa-pays-d-aix-sitemap-6-1782901923000",
+      "title": "publications et animations",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/publications-et-animations/",
+      "image": null,
+      "date": "2026-07-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "audiar-rennes-rss-3-1782913760000",
