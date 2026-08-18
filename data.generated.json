@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T10:33:49.217Z",
+  "generatedAt": "2026-08-18T15:37:21.392Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,7 +2161,129 @@
   ],
   "articles": [
     {
-      "id": "actu-environnement-rss-0-1787047675000",
+      "id": "batiweb-rss-0-1787059800000",
+      "title": "Canicule : comment organiser un chantier en période de fortes chaleurs ?",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/conjoncture/chantier-fortes-chaleurs-canicule-49171",
+      "image": "https://img.batiweb.com/repo-images/article/49171/canicule-organiser-chantiers-une.jpg",
+      "date": "2026-08-18",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation",
+        "Confort d’été",
+        "Réemploi"
+      ],
+      "summary": "Les épisodes de canicule se multiplient en France et transforment durablement les conditions de travail sur les chantiers. Exposés en permanence au soleil, aux surfaces chauffées et aux efforts physiques, les professionnels du BTP figurent parmi les travailleurs les plus vulnérab…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-0-1787065793000",
+      "title": "ICPE : vers un déclassement de certaines installations de charge de batteries",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/icpe-declassement-charge-batteries-rubrique-2925-48399.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48399_large.jpg",
+      "date": "2026-08-18",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Le ministère de la Transition écologique soumet à la consultation du public jusqu'au 7 septembre prochain un projet de décret visant à modifier la rubrique 2925 de la nomenclature des installations classées (ICPE) qui soumet au régime de la déclar... Le ministère de la Transition…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-1-1787061199000",
+      "title": "Le chiffre du jour : + 0,3 %",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/dit-aujourdhui/1822.html#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/interface/common/logo_standard_carre.jpg",
+      "date": "2026-08-18",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Économie du bâtiment"
+      ],
+      "summary": "C'est l'augmentation des émissions de gaz à effet de serre corrigées des variations saisonnières de l'économie européenne au premier trimestre 2026, par rapport à fin 2025, selon Eurostat. Dans le même temps, le PIB est resté inchangé. La producti... C'est l'augmentation des émis…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-2-1787058668000",
+      "title": "Exploitation des fonds marins : les instances internationales peinent à contenir les pressions industrielles",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/fonds-marins-aifm-moratoire-pressions-industrielles-48397.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48397_large.jpg",
+      "date": "2026-08-18",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Confort d’été"
+      ],
+      "summary": "Si le nombre d'États se positionnant en faveur d'un moratoire progresse, d'autres soutiennent une exploitation commerciale des fonds marins, et l'Autorité internationale peine à contenir les pressions de certaines sociétés. Si le nombre d'États se positionnant en faveur d'un mora…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-3-1787058365000",
+      "title": "Écophyto 2030 : sept projets pour concilier les enjeux eau potable et biodiversité",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/ecophyto-2030-projets-eau-potable-biodiversite-48398.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48398_large.jpg",
+      "date": "2026-08-18",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Sept projets de territoires ont été retenus dans le cadre d'un appel à projets Écophyto 2030, ciblant les enjeux cumulés eau potable et biodiversité. Lancé par l'Office français de la biodiversité (OFB), les ministères en charge de la transition é... Sept projets de territoires o…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-4-1787047675000",
       "title": "Hydroélectricité : des modifications pour les modalités de soutien",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2180,6 +2302,31 @@
         "Énergie"
       ],
       "summary": "Un arrêté du 28 mai 2026, publié le 1er août, vient modifier les modalités de soutien pour les installations hydroélectriques sous le régime de l'autorisation fixées dans l'arrêté du 13 décembre 2016, dit H16. Il vise à éviter un cumul des aides,... Un arrêté du 28 mai 2026, publ…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "ordre-des-architectes-cnoa-rss-0-1787058011000",
+      "title": "Zigzag 2026 : un parcours itinérant pour interroger les transformations des territoires",
+      "source": "Ordre des Architectes — CNOA",
+      "sourceId": "ordre-des-architectes-cnoa",
+      "sourceType": "Ordre professionnel",
+      "region": "National",
+      "url": "https://www.architectes.org/evenements/zigzag-2026-un-parcours-itinerant-pour-interroger-les-transformations-des-territoires",
+      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-08/Logo_ZIGZAG_orange-1280x960.jpg.png?itok=K2-FMrEj",
+      "date": "2026-08-18",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Architecture",
+        "Profession",
+        "Réglementation",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "Zigzag 2026 : un parcours itinérant pour interroger les transformations des territoires Maxence NORMANDIE mar 18/08/2026 - 15:00 Un événement au croisement de la culture, du territoire et de l’architecture Zigzag s’inscrit dans une démarche de découverte et de valorisation des te…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -2210,14 +2357,37 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-centre-rss-0-1787048360000",
-      "title": "Canicule : le gouvernement présente un plan « endurance » pour faciliter l’adaptation des logements",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1787011200000",
+      "title": "pass plein air",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/pass-plein-air",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "envirobat-centre-rss-0-1787051189000",
+      "title": "Quelles sont les limites de la clim ?",
       "source": "Envirobat Centre",
       "sourceId": "envirobat-centre",
       "sourceType": "Centre ressources bâtiment durable",
       "region": "Centre-Val de Loire",
-      "url": "https://www.envirobatcentre.com/centre-de-ressources/actualites/canicule-le-gouvernement-presente-un-plan-endurance-pour-faciliter-ladaptation-des",
-      "image": "https://www.envirobatcentre.com/sites/default/files/styles/thumbnail/public/media/image/2023-07/Screen%20Shot%2007-25-23%20at%2001.40%20PM.PNG?itok=Klf9q_WY",
+      "url": "https://www.envirobatcentre.com/actualites/quelles-sont-les-limites-de-la-clim",
+      "image": "https://www.envirobatcentre.com/sites/default/files/styles/thumbnail/public/media/image/2026-08/Screenshot%202026-08-18%20130712.png?itok=wOGbnr49",
       "date": "2026-08-18",
       "access": "open",
       "official": false,
@@ -2229,12 +2399,64 @@
         "Confort d’été",
         "Bâtiment"
       ],
-      "summary": "Canicule : le gouvernement présente un plan « endurance » pour faciliter l’adaptation des logements Gwen mar 18/08/2026 - 12:19 Ces annonces ont été faites en pleine vague de chaleur, alors que le ministère de la transition écologique présentait un premier bilan du plan national …",
+      "summary": "Quelles sont les limites de la clim ? Gwen mar 18/08/2026 - 13:06 À chaque canicule, la climatisation apparaît comme la réponse la plus immédiate à la chaleur. Dans certains cas, elle devient même un outil de protection sanitaire : l’Organisation mondiale de la santé (OMS) rappel…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-0-1787028301000",
+      "id": "envirobat-centre-rss-1-1787050772000",
+      "title": "Canicules : le rôle de l’isolation et de l’inertie thermique des bâtiments pour se protéger contre la chaleur",
+      "source": "Envirobat Centre",
+      "sourceId": "envirobat-centre",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Centre-Val de Loire",
+      "url": "https://www.envirobatcentre.com/centre-de-ressources/actualites/canicules-le-role-de-lisolation-et-de-linertie-thermique-des-batiments-pour-se-proteger",
+      "image": "https://www.envirobatcentre.com/sites/default/files/styles/thumbnail/public/media/image/2021-09/guide%20reno_11.jpg?itok=TjGKfr8T",
+      "date": "2026-08-18",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Centre-Val de Loire",
+        "Confort d’été",
+        "Rénovation",
+        "Énergie",
+        "Bâtiment"
+      ],
+      "summary": "Canicules : le rôle de l’isolation et de l’inertie thermique des bâtiments pour se protéger contre la chaleur Gwen mar 18/08/2026 - 12:59 Les canicules successives de l’été 2026 et leurs victimes nous rappellent le manque d’adaptation du parc immobilier français au réchauffement …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "novethic-rss-0-1787053537000",
+      "title": "Ethique de l’IA : \"Le sujet principal, c’est l’éducation\", Laurence Devillers",
+      "source": "Novethic",
+      "sourceId": "novethic",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/ethique-ia-sujet-principal-education-laurence-devillers",
+      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/08/Design-sans-titre-10-150x150.png",
+      "date": "2026-08-18",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "ESG",
+        "Finance durable",
+        "Climat",
+        "Réglementation"
+      ],
+      "summary": "Laurence Devillers, professeure en intelligence artificielle et éthique à Paris Sorbonne université, chercheuse au Laboratoire interdisciplinaire des sciences du numérique (LISN). @CCO L’IA générative occupe aujourd’hui tous les débats dans les entreprises, les investissements ma…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "novethic-rss-1-1787028301000",
       "title": "Méduses, sécheresse et canicules : l’été 2026 met à mal le parc nucléaire d'EDF",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -2260,7 +2482,107 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1787039071000",
+      "id": "reporterre-rss-0-1787065620000",
+      "title": "Canicule : 22 % des plus de 60 ans pourraient atteindre leurs limites physiologiques",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Canicule-22-des-plus-de-60-ans-pourraient-atteindre-leurs-limites-physiologiques",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260812__hl_tdurand_3254560__v1__highres__francegrenoblesummerheatfansun_1_-e8cb2.jpg?1787065635",
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "On savait les personnes âgées particulièrement vulnérables aux canicules, eh bien elles le seraient davantage encore qu'on ne le pensait. Une étude publiée dans The Lancet Planetary Health montre que les plus de 60 ans atteignent leurs limites physiologiques face à la chaleur à d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1787062631000",
+      "title": "Depuis Gaza, cet écologue marin fait avancer la science",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/A-Gaza-un-ecologue-marin-fait-avancer-la-science-malgre-la-guerre-Ecologue-marin-a-Gaza",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/photo_3_-9da99.jpg?1787062632",
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat"
+      ],
+      "summary": "Voilà trois ans que Mohammed Abu Daya n'a pas pu prendre la mer pour observer les diables de mer, ces raies géantes qui hivernent au large de Gaza. Vivant désormais dans une « prison à ciel ouvert », il reste toutefois déterminé à poursuivre ses travaux scientifiques. diables » q…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-2-1787055479000",
+      "title": "« Un passeport pour l'avenir » : Lula euphorique après la découverte de pétrole au large du Brésil",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Un-passeport-pour-l-avenir-Lula-euphorique-apres-la-decouverte-de-petrole-au-large-du",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260817__c4vw2t3__v1__highres__brazilenvironmentoilamazon_1_-f6e1a.jpg?1787055486",
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "« Un passeport pour l'avenir. » Voici comment le président du Brésil, Luiz Inácio Lula da Silva, a étonnamment qualifié, lundi 17 août, la découverte de pétrole au large de l'Amazonie. La compagnie publique brésilienne Petrobras avait annoncé, trois jours plus tôt, avoir « identi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-3-1787054255000",
+      "title": "Fonte de l'Arctique : un porte-conteneurs chinois ouvre une route vers l'Europe",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Fonte-de-l-Arctique-un-porte-conteneurs-chinois-ouvre-une-route-vers-l-Europe",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260816__c4rf49k__v3__highres__chinaarcticshipping-16e19.jpg?1787054258",
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat"
+      ],
+      "summary": "Le Dubai Tower, un porte-conteneurs chinois, est parti le 15 août pour l'Europe via une nouvelle route express à travers l'Arctique. Il longera les côtes nord de la Russie pour rallier un port britannique le 7 septembre. Ce trajet par la route maritime du Nord (ou passage du Nord…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-4-1787039071000",
       "title": "« Difficile de lutter contre un projet vendu comme écolo » : un écoquartier menace des terres agricoles",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2286,8 +2608,8 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1787038915000",
-      "title": "Dangerosité des pesticides : la science snobée au profit des industriels",
+      "id": "reporterre-rss-5-1787038915000",
+      "title": "Pesticides : quand les agences sanitaires snobent la science au profit des industriels",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2311,7 +2633,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1787037282000",
+      "id": "reporterre-rss-6-1787037282000",
       "title": "Serge Zaka : « C'est l'année dont l'agriculture pourrait ne pas se remettre »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2362,7 +2684,109 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-0-1787043600000",
+      "id": "greenunivers-rss-0-1787063931000",
+      "title": "Les tarifs de l’AO solaire baissent encore en Allemagne",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/08/les-tarifs-de-lao-solaire-baissent-encore-en-allemagne-431517/",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Confort d’été",
+        "Énergie"
+      ],
+      "summary": "Carton plein outre-Rhin. Les autorités allemandes viennent de dévoiler les résultats de la dernière session de l’appel d’offres (AO) pour le solaire au sol entre 1 et 20 MW. Quelque 261 projets ont été retenus, cumulant plus de 2,1 GW de puissance. La Bavière L’article Les tarifs…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-0-1787061600000",
+      "title": "Longi prépare une ligne pilote de 100 MW pour ses cellules solaires tandem",
+      "source": "PV Magazine France",
+      "sourceId": "pv-magazine-france",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.pv-magazine.fr/2026/08/18/longi-prepare-une-ligne-pilote-de-100-mw-pour-ses-cellules-solaires-tandem/",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Photovoltaïque",
+        "Autoconsommation",
+        "ENR",
+        "Énergie"
+      ],
+      "summary": "Par ailleurs, Tongwei a fait progresser son projet de rachat du fabricant de polysilicium Lihao Clean Energy jusqu’à la phase finale des négociations. De son côté, Trina Solar prévoit de lancer la production de masse de ses cellules THBC au second semestre 2026 et vise une capaci…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-1-1787056200000",
+      "title": "Deux ombrières solaires 100 % européennes sur le parking d’une piscine alsacienne",
+      "source": "PV Magazine France",
+      "sourceId": "pv-magazine-france",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.pv-magazine.fr/2026/08/18/deux-ombrieres-solaires-100-europeennes-sur-le-parking-dune-piscine-alsacienne/",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Photovoltaïque",
+        "Autoconsommation",
+        "ENR",
+        "Énergie"
+      ],
+      "summary": "Le groupe Sovec a mis en service, au printemps dernier, deux ombrières photovoltaïques sur le parking de la piscine « Les Rives de l’Ill », à Tagolsheim (68), réalisées à partir de matériaux 100 % européens. Leur production sera entièrement autoconsommée sur le site. Le groupe So…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-2-1787054400000",
+      "title": "Brookfield et La Caisse finalisent l’acquisition de Boralex",
+      "source": "PV Magazine France",
+      "sourceId": "pv-magazine-france",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.pv-magazine.fr/2026/08/18/brookfield-et-la-caisse-finalisent-lacquisition-de-boralex/",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Photovoltaïque",
+        "Autoconsommation",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "L’arrangement a été approuvé par les actionnaires de Boralex lors d’une assemblée annuelle et extraordinaire des actionnaires. Le groupe québécois poursuivra ses activités de manière indépendante après la finalisation de l’opération et sera retiré de la cote à la Bourse de Toront…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-3-1787043600000",
       "title": "Le stockage d’énergie par batterie, nouvel actif économique pour les industriels",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -2388,7 +2812,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-1-1787038200000",
+      "id": "pv-magazine-france-rss-4-1787038200000",
       "title": "L’agrivoltaïsme peut réduire la température des sols de plus de 20 °C",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -2564,7 +2988,58 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1787045580000",
+      "id": "lenergeek-rss-0-1787054368000",
+      "title": "Hydrogène : le gouvernement veut encadrer la production",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/18/hydrogene-gouvernement-veut-production/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/shutterstock_2588361337.jpg",
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Le ministère de la Transition Écologique met en consultation trois textes réglementaires pour encadrer la production d'hydrogène par électrolyse de l'eau. Un décret et deux arrêtés établissent trois régimes (déclaration, enregistrement, autorisation) selon les volumes produits, e…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1787047980000",
+      "title": "Energie renouvelable : le Canada lance un projet historique de développement",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/18/renouvelables-energie-renouvelable-canada-lance-projet-historique/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/05/canada-mark-carney-devoile-plan-titanesque-doubler-production-electrique.jpg",
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le Canada dévoile un investissement historique de 70 milliards de dollars dans les renouvelables, axé sur l'hydroélectricité et l'éolien. L’article Energie renouvelable : le Canada lance un projet historique de développement est apparu en premier sur L'EnerGeek. Le Canada dévoile…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1787045580000",
       "title": "L’Allemagne ne veut pas d’une électricité moins taxée que le gaz",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2589,7 +3064,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1787040018000",
+      "id": "lenergeek-rss-3-1787040018000",
       "title": "Un armateur grec a livré pour 2,35 milliards de GNL russe à l’UE",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2613,7 +3088,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1787034049000",
+      "id": "lenergeek-rss-4-1787034049000",
       "title": "Les ingénieurs chinois affirment avoir créé une IA capable de repérer les F-22 et F-35 : les pilotes américains ne seraient plus invisibles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2638,7 +3113,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1787032245000",
+      "id": "lenergeek-rss-5-1787032245000",
       "title": "Un sous-marin découvre 200 000 fûts de déchets radioactifs enfouis depuis des décennies en explorant un site reculé de l’Atlantique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2662,7 +3137,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1787030405000",
+      "id": "lenergeek-rss-6-1787030405000",
       "title": "Taxe kilométrique sur les voitures électriques : et si la France s’inspirait du Royaume-Uni ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2686,7 +3161,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1787023265000",
+      "id": "lenergeek-rss-7-1787023265000",
       "title": "Pétrole : Chevron dévoile une colonne d’hydrocarbures de 600 mètres au large de l’Angola",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2711,7 +3186,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1787049216000",
+      "id": "bois-com-sitemap-69-1787056800000",
+      "title": "les animaux de la foret une biodiversite a decouvrir",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/ecosystemes-biodiversite/articles/les-animaux-de-la-foret-une-biodiversite-a-decouvrir/",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1787067417000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2737,7 +3238,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1787049216000",
+      "id": "le-commerce-du-bois-sitemap-1-1787067417000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2763,7 +3264,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1787049216000",
+      "id": "le-commerce-du-bois-sitemap-2-1787067417000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2785,6 +3286,55 @@
         "Biosourcé"
       ],
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "acteurs-publics-sitemap-1-1787064360000",
+      "title": "apres un faux depart la gouvernance sort la tete de leau",
+      "source": "Acteurs Publics",
+      "sourceId": "acteurs-publics",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://acteurspublics.fr/articles/apres-un-faux-depart-la-gouvernance-sort-la-tete-de-leau/",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Politiques publiques",
+        "Collectivités",
+        "Transition",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "acteurs-publics-sitemap-2-1787057220000",
+      "title": "donnees de sante pourquoi ne les utilise t on pas plus",
+      "source": "Acteurs Publics",
+      "sourceId": "acteurs-publics",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://acteurspublics.fr/articles/donnees-de-sante-pourquoi-ne-les-utilise-t-on-pas-plus/",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Politiques publiques",
+        "Collectivités",
+        "Transition"
+      ],
+      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -2815,7 +3365,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-0-1786974900000",
+      "id": "batiweb-rss-1-1786974900000",
       "title": "Incendies : le gouvernement annonce des permis sous un mois pour reconstruire les maisons",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2839,7 +3389,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-1-1786957500000",
+      "id": "batiweb-rss-2-1786957500000",
       "title": "Mort sur le chantier du métro de Toulouse : enquête pour homicide involontaire",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2864,7 +3414,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-1-1786980122000",
+      "id": "actu-environnement-rss-5-1786980122000",
       "title": "Incendies de forêts : les annonces du Gouvernement en matière de reconstruction et d'adaptation",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2888,7 +3438,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-2-1786979060000",
+      "id": "actu-environnement-rss-6-1786979060000",
       "title": "Biométhane injecté : le nouvel arrêté tarifaire publié",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2912,7 +3462,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-3-1786974844000",
+      "id": "actu-environnement-rss-7-1786974844000",
       "title": "Industrie verte : le crédit d'impôt prolongé jusqu'en 2028",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2936,7 +3486,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-4-1786971628000",
+      "id": "actu-environnement-rss-8-1786971628000",
       "title": "Loi d'urgence agricole : les censures et les réserves du Conseil constitutionnel",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2959,7 +3509,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-5-1786950000000",
+      "id": "actu-environnement-rss-9-1786950000000",
       "title": "BATIMAT 2026 : une conférence d'ouverture pour penser les mutations du bâtiment",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2984,7 +3534,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-6-1786950000000",
+      "id": "actu-environnement-rss-10-1786950000000",
       "title": "Biocarburant B100, Solution française disponible \"sur-le-champ\" pour décarboner le transport lourd",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -3008,7 +3558,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-0-1786968989000",
+      "id": "ordre-des-architectes-cnoa-rss-1-1786968989000",
       "title": "Facturation électronique : ce qui change pour les architectes à partir de 2026",
       "source": "Ordre des Architectes — CNOA",
       "sourceId": "ordre-des-architectes-cnoa",
@@ -3082,7 +3632,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novethic-rss-1-1786967123000",
+      "id": "novethic-rss-2-1786967123000",
       "title": "Obsolescence programmée des jeux vidéos : bras de fer engagé entre Stop Killing Games et Bruxelles",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -3108,7 +3658,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-2-1786960363000",
+      "id": "novethic-rss-3-1786960363000",
       "title": "Data centers, énergie verte, adaptation... qui gagnera la course aux milliards d’investissement dans les infrastructures ?",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -3134,7 +3684,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-3-1786941913000",
+      "id": "novethic-rss-4-1786941913000",
       "title": "COP17 Désertification : la préservation des sols, enjeu de plus en plus critique pour les entreprises",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -3160,7 +3710,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1786984643000",
+      "id": "reporterre-rss-7-1786984643000",
       "title": "Désertification : la COP17 s'ouvre sur fond de canicules à répétition",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3186,7 +3736,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1786980779000",
+      "id": "reporterre-rss-8-1786980779000",
       "title": "Sainte-Soline à sec : le modèle des mégabassines à l'épreuve des canicules",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3212,7 +3762,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1786976586000",
+      "id": "reporterre-rss-9-1786976586000",
       "title": "« Nos frontières humaines sont imposées à tous » : les murs et grillages menacent le vivant",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3237,7 +3787,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1786975656000",
+      "id": "reporterre-rss-10-1786975656000",
       "title": "Avec la guerre, les géants du pétrole ont doublé leurs profits en Europe en 2026",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3263,7 +3813,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1786973050000",
+      "id": "reporterre-rss-11-1786973050000",
       "title": "Chasser sur des zones incendiées ou sèches : des associations réclament d'épargner les animaux",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3288,7 +3838,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1786952055000",
+      "id": "reporterre-rss-12-1786952055000",
       "title": "Des impacts de balle sur la nageoire d'une orque : « Quelqu'un avait l'intention de la tuer »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3313,7 +3863,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1786942800000",
+      "id": "reporterre-rss-13-1786942800000",
       "title": "Pendant que le monde brûle... des sites ouvrent des paris sur les canicules et incendies",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3339,7 +3889,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1786942800000",
+      "id": "reporterre-rss-14-1786942800000",
       "title": "Bois, terre, paille : elles ont construit leur maison avec des matériaux compostables",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3360,7 +3910,7 @@
         "Réglementation",
         "Biosourcé"
       ],
-      "summary": "Un couple d'Ariégeoises a construit sa propre maison avec des matériaux bruts ou très peu transformés. Dix ans après, bois, terre et paille tiennent leurs promesses et accueillent toujours ces deux femmes, désormais septuagénaires. Cet article est publié en partenariat avec le ma…",
+      "summary": "Un couple d'Ariégeoises a construit sa propre maison avec des matériaux bruts ou très peu transformés. Dix ans après, bois, terre et paille tiennent leurs promesses. Cet article est publié en partenariat avec le magazine indépendant La Maison écologique. Lire la suite - Alternati…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3391,7 +3941,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-0-1786981226000",
+      "id": "greenunivers-rss-1-1786981226000",
       "title": "Les prix de l’électricité poursuivent leur progression au-dessus des prévisions [Marchés]",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -3416,7 +3966,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-2-1786968000000",
+      "id": "pv-magazine-france-rss-5-1786968000000",
       "title": "ABB se convertit à l’énergie de haute puissance avec Gamesa Electric",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -3441,7 +3991,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-3-1786951800000",
+      "id": "pv-magazine-france-rss-6-1786951800000",
       "title": "Le plus grand système de stockage « grid-forming » au monde entre en service en Chine",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -3646,7 +4196,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1786977234000",
+      "id": "lenergeek-rss-8-1786977234000",
       "title": "Centrale de Gravelines : méduses et canicule paralysent les systèmes de refroidissement",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3672,7 +4222,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1786960391000",
+      "id": "lenergeek-rss-9-1786960391000",
       "title": "Énergies renouvelables : la Chine rejette 360 TWh et mise sur le stockage thermique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3697,7 +4247,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1786947652000",
+      "id": "lenergeek-rss-10-1786947652000",
       "title": "Sécheresse : votre mairie distribue des mousseurs de robinet gratuits, mais 80% des foyers éligibles ne le savent pas encore",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3722,7 +4272,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1786945842000",
+      "id": "lenergeek-rss-11-1786945842000",
       "title": "Le mégayacht du cofondateur de Google consomme autant que 600 foyers : trop imposant pour la marina, il finit au quai de la Marine espagnole",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3746,7 +4296,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1786944056000",
+      "id": "lenergeek-rss-12-1786944056000",
       "title": "La Russie fait naviguer une centrale nucléaire jusqu’au bout de la Sibérie : ce qu’elle alimente depuis 2020 surprend même les ingénieurs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3771,7 +4321,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1786941165000",
+      "id": "lenergeek-rss-13-1786941165000",
       "title": "Pétrole : Petrobras identifie des hydrocarbures à 2 886 mètres de profondeur au large du Brésil",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3822,7 +4372,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bois-com-sitemap-77-1786975573000",
+      "id": "bois-com-sitemap-78-1786975573000",
       "title": "histoire de la foret en france 12 000 ans de transformations",
       "source": "Bois.com",
       "sourceId": "bois-com",
@@ -3898,7 +4448,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1786863600000",
+      "id": "reporterre-rss-15-1786863600000",
       "title": "Grimper aux arbres, l'alternative écolo à l'accrobranche",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3924,7 +4474,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1786863600000",
+      "id": "reporterre-rss-16-1786863600000",
       "title": "Où ira la mémoire du vivant ? Les musées ruraux en sursis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4027,7 +4577,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1786863051000",
+      "id": "lenergeek-rss-14-1786863051000",
       "title": "La moitié des stations-service sans carburant dans ces départements : l’approvisionnement en essence est compliqué",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4051,7 +4601,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1786861251000",
+      "id": "lenergeek-rss-15-1786861251000",
       "title": "Température idéale du frigo confirmée : le réglage qui réduit de moitié votre facture en pleine canicule",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4076,7 +4626,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1786859435000",
+      "id": "lenergeek-rss-16-1786859435000",
       "title": "Faute d’eau pour refroidir ses réacteurs, la Hongrie rationne la recharge des voitures électriques : les automobilistes n’en reviennent pas",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4101,7 +4651,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1786773600000",
+      "id": "le-journal-du-grand-paris-rss-2-1786886369000",
+      "title": "Clap de fin pour les Championnats d’Europe de natation",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/clap-de-fin-pour-les-championnats-deurope-de-natation/",
+      "image": null,
+      "date": "2026-08-16",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Après leur tenue au Centre aquatique olympique Métropole du Grand Paris à Saint-Denis (Seine-Saint-Denis) et dans la Seine, les Championnats d’Europe de natation se sont achevés dimanche 16 août, deux ans après les Jeux de Paris 2024. Après leur tenue au Centre aquatique olympiqu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-17-1786773600000",
       "title": "Sécheresse, canicules : faut-il s'inquiéter pour les arbres ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4127,7 +4701,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1786773600000",
+      "id": "reporterre-rss-18-1786773600000",
       "title": "« Nous ne capitulerons pas » : 30 ans de bataille contre les déchets nucléaires",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4151,7 +4725,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1786773600000",
+      "id": "reporterre-rss-19-1786773600000",
       "title": "Sécheresse : ils créent des « bars à eau improvisés » chez eux pour sauver oiseaux ou écureuils",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4253,7 +4827,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1786774818000",
+      "id": "lenergeek-rss-17-1786774818000",
       "title": "Conflit dans le détroit d’Ormuz, Trump renouvelle encore une fois une dérogation maritime pour faire face à la montée des prix du pétrole",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4277,7 +4851,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1786773050000",
+      "id": "lenergeek-rss-18-1786773050000",
       "title": "L’Etna crache des flammes et cloue au sol 700 avions mais certains touristes continuent leur ascension, en tongs !",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4301,7 +4875,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1786771222000",
+      "id": "lenergeek-rss-19-1786771222000",
       "title": "Ce réacteur de recherche planté en Provence devait coûter 500 millions d’euros : depuis 2007, il n’a toujours rien produit",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4327,7 +4901,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-2-1786693500000",
+      "id": "batiweb-rss-3-1786693500000",
       "title": "Accident meurtrier dans un tunnel en construction en Inde",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4352,7 +4926,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1786665600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-1-1786665600000",
       "title": "le collier marseillais",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -4400,7 +4974,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-16-1786717573000",
+      "id": "reporterre-rss-20-1786717573000",
       "title": "Le Conseil constitutionnel valide la loi d'urgence agricole, dont le retour de l'acétamipride",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4426,7 +5000,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1786717158000",
+      "id": "reporterre-rss-21-1786717158000",
       "title": "Des étés toujours plus chauds : visualisez l'explosion des températures depuis 40 ans",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4452,7 +5026,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1786712042000",
+      "id": "reporterre-rss-22-1786712042000",
       "title": "Un nouvel incendie dans les Landes, plus de 1 000 hectares brûlés en 24 heures",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4478,7 +5052,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1786711302000",
+      "id": "reporterre-rss-23-1786711302000",
       "title": "Chutes de pierres : le mont Blanc fragilisé par les fortes chaleurs et déjà trois alpinistes tués",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4504,7 +5078,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1786709652000",
+      "id": "reporterre-rss-24-1786709652000",
       "title": "Un maire menace de démissionner face à un projet de stockage par batteries lithium",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4530,7 +5104,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1786709281000",
+      "id": "reporterre-rss-25-1786709281000",
       "title": "18 jours : la vague de chaleur actuelle est plus longue que celle de 2003",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4556,7 +5130,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1786705909000",
+      "id": "reporterre-rss-26-1786705909000",
       "title": "Canicule : les orages prévus ce weekend vont-ils être violents ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4582,7 +5156,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1786690012000",
+      "id": "reporterre-rss-27-1786690012000",
       "title": "25 °C au robinet : les vagues de chaleur pourraient favoriser la légionellose",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4607,7 +5181,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1786683600000",
+      "id": "reporterre-rss-28-1786683600000",
       "title": "Votre commune a-t-elle battu son record de chaleur cet été ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4709,7 +5283,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-1-1786712222000",
+      "id": "greenunivers-rss-2-1786712222000",
       "title": "L’agenda de la transition énergétique",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -4735,7 +5309,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-2-1786711678000",
+      "id": "greenunivers-rss-3-1786711678000",
       "title": "Les documents de la semaine",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -4761,7 +5335,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-3-1786710772000",
+      "id": "greenunivers-rss-4-1786710772000",
       "title": "Bercy réduit le soutien public au biométhane",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -4786,7 +5360,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-4-1786716000000",
+      "id": "pv-magazine-france-rss-7-1786716000000",
       "title": "Pendant la canicule, le solaire soutient le réseau alors que le nucléaire ralentit",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -4812,7 +5386,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-5-1786714200000",
+      "id": "pv-magazine-france-rss-8-1786714200000",
       "title": "Baisse des tarifs de rachat du solaire : et si c’était le début de quelque chose de grand ?",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -4837,7 +5411,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-6-1786712400000",
+      "id": "pv-magazine-france-rss-9-1786712400000",
       "title": "La plus grande batterie d’Europe entre en service en Écosse",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -4859,57 +5433,6 @@
         "Eau"
       ],
       "summary": "Coalburn 1 est le premier de trois projets britanniques de stockage d’énergie par batteries (BESS) raccordés au réseau de transport développés par Copenhagen Infrastructure Partners (CIP) à entrer en exploitation commerciale. Coalburn 1 est le premier de trois projets britannique…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-7-1786708800000",
-      "title": "MRCool lance une pompe à chaleur monobloc à monter soi-même, sans unité extérieure",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/08/14/mrcool-lance-une-pompe-a-chaleur-monobloc-a-monter-soi-meme-sans-unite-exterieure/",
-      "image": null,
-      "date": "2026-08-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Énergie"
-      ],
-      "summary": "Le fabricant américain a lancé une pompe à chaleur monobloc 115 V à monter soi-même avec une capacité de refroidissement de 10 000 Btu/h et de chauffage de 9 000 Btu/h, utilisant le réfrigérant R-32 et la technologie à onduleur. Le fabricant américain a lancé une pompe à chaleur …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-8-1786694400000",
-      "title": "Un projet pilote à grande échelle révèle que 15 % des modules solaires de seconde vie ne respectent pas les exigences de sécurité",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/08/14/un-projet-pilote-a-grande-echelle-revele-que-15-des-modules-solaires-de-seconde-vie-ne-respectent-pas-les-exigences-de-securite/",
-      "image": null,
-      "date": "2026-08-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Économie du bâtiment",
-        "Énergie"
-      ],
-      "summary": "Dans le cadre d’un projet pilote mené dans le Queensland, 15 % des 2 200 modules prêts à être réemployés ont échoué au test de fuite en milieu humide, soulignant la nécessité d’un contrôle de sécurité spécifique. Des méthodes de test adaptées pourraient toutefois réduire les coût…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4939,7 +5462,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1786692628000",
+      "id": "lenergeek-rss-20-1786692628000",
       "title": "Nucléaire : 7 centrales à l’arrêt en Europe à cause de la canicule",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4965,7 +5488,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1786688431000",
+      "id": "lenergeek-rss-21-1786688431000",
       "title": "« 5 fois plus puissant » : la NASA vient d’achever les essais d’un propulseur nucléaire qui pourrait diviser par deux le trajet vers Mars",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4989,7 +5512,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1786686629000",
+      "id": "lenergeek-rss-22-1786686629000",
       "title": "Ils ont collecté plus de 2 000 bouteilles en plastique pour bâtir une serre et ont finalement conçu une structure permettant de cultiver toute l’année",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5014,7 +5537,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1786684845000",
+      "id": "lenergeek-rss-23-1786684845000",
       "title": "Arrêtez de creuser pour trouver de l’or, il y en a partout chez vous : au moins un de ces objets se cache dans vos tiroirs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5035,30 +5558,6 @@
         "Réemploi"
       ],
       "summary": "Une tonne de vieux smartphones cache jusqu'à cent fois plus d'or qu'une tonne de minerai. À Accra, de jeunes Africains transforment vos tiroirs oubliés en mines d'avenir. L’article Arrêtez de creuser pour trouver de l’or, il y en a partout chez vous : au moins un de ces objets se…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1786681800000",
-      "title": "Ormuz : les attaques iraniennes font planer le spectre d’une pénurie pétrolière historique",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/14/ormuz-attaques-iraniennes-font-planer-spectre-penurie-petroliere-historique/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/05/shutterstock_2449461887-1.jpg",
-      "date": "2026-08-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Les attaques iraniennes contre des navires ADNOC dans le détroit d'Ormuz, par lequel transitait 20% du pétrole mondial, aggravent les tensions sur l'approvisionnement énergétique. L'Agence internationale de l'énergie prévoit la plus forte pénurie annuelle en cinq ans, avec des ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5115,7 +5614,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-1-1786623963000",
+      "id": "ordre-des-architectes-cnoa-rss-2-1786623963000",
       "title": "Le Carré des Rencontres 2026 : une journée d’échanges entre artisans d’art et concepteurs d’espaces",
       "source": "Ordre des Architectes — CNOA",
       "sourceId": "ordre-des-architectes-cnoa",
@@ -5164,7 +5663,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-1-1786579200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1786579200000",
       "title": "guerre du feu",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -5187,7 +5686,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1786579200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1786579200000",
       "title": "zidane equipe de france",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -5210,7 +5709,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-25-1786645685000",
+      "id": "reporterre-rss-29-1786645685000",
       "title": "« On a rayé des cartes les petits cours d'eau, et la sécheresse s'est répandue »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5236,7 +5735,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1786632940000",
+      "id": "reporterre-rss-30-1786632940000",
       "title": "Irriguer les vignes ? « Une course à l'échalote » face aux canicules",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5262,7 +5761,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1786631943000",
+      "id": "reporterre-rss-31-1786631943000",
       "title": "« Un coupe-feu naturel » : quand les pratiques paysannes freinent les incendies",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5287,7 +5786,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1786629498000",
+      "id": "reporterre-rss-32-1786629498000",
       "title": "Énergie solaire : une production en forte hausse durant les canicules",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5313,7 +5812,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1786625644000",
+      "id": "reporterre-rss-33-1786625644000",
       "title": "Les États-Unis ont censuré un rapport sur l'état de l'Arctique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5337,7 +5836,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1786623969000",
+      "id": "reporterre-rss-34-1786623969000",
       "title": "L'IA stimule l'industrie pétrolière et booste ses bénéfices",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5363,7 +5862,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1786606667000",
+      "id": "reporterre-rss-35-1786606667000",
       "title": "Au Mont-Saint-Michel, des millions de touristes, un mariage d'ultrariches et des phoques en détresse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5388,7 +5887,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1786606229000",
+      "id": "reporterre-rss-36-1786606229000",
       "title": "Chaleur, manque d'eau, méduses : l'énergie nucléaire devient impilotable",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5414,7 +5913,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1786602673000",
+      "id": "reporterre-rss-37-1786602673000",
       "title": "Les réseaux sociaux banalisent l'adoption d'un animal sauvage, le trafic explose",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5466,7 +5965,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-4-1786631084000",
+      "id": "greenunivers-rss-5-1786631084000",
       "title": "Voltalia va profiter d’un investissement de la Banque mondiale",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5492,7 +5991,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-5-1786614192000",
+      "id": "greenunivers-rss-6-1786614192000",
       "title": "Les renouvelables portent RWE, qui insiste dans les réseaux",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5514,32 +6013,6 @@
         "Réemploi"
       ],
       "summary": "RWE enregistre, lui aussi, de meilleurs résultats que prévu au 1er semestre de l’année. L’Ebitda du mastodonte rhénan s’élève à 3 Mds€, soit 40 % de plus qu’au 1er semestre 2025. La dette se creuse, très proche des 15 Mds€ contre 10 Mds€ six mois auparavant. La production EnR se …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-9-1786629600000",
-      "title": "Le crédit d’impôt pour l’industrie verte (C3IV) prolongé pour trois ans",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/08/13/le-credit-dimpot-pour-lindustrie-verte-c3iv-prolonge-pour-trois-ans/",
-      "image": null,
-      "date": "2026-08-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Confort d’été",
-        "Économie du bâtiment"
-      ],
-      "summary": "Créé en 2024, le crédit d'impôt au titre des investissements dans l'industrie verte (C3IV) vient d’être prolongé pour trois ans. Ses nouvelles modalités, qui concernent notamment le photovoltaïque, ont été publiées, hier, au Journal officiel. Créé en 2024, le crédit d'impôt au ti…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5591,32 +6064,6 @@
         "Réseaux"
       ],
       "summary": "L’enquête publique concernant le futur raccordement du parc éolien Bretagne Sud vient d’ouvrir. L’occasion pour l’opposition d’afficher clairement ses ambitions : faire annuler le projet […] L’article L’opposition s’organise autour du parc éolien Bretagne Sud est apparu en premie…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1786623480000",
-      "title": "Porsche va acheter des crédits carbone à Xpeng",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/13/porsche-va-acheter-credits-carbone-xpeng/",
-      "image": "https://lenergeek.com/wp-content/uploads/2024/08/voiture-electrique-recyclage-batteries-porsche-taycan-usine-leipzig.jpg",
-      "date": "2026-08-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Porsche quitte officiellement le pool d'émissions de CO₂ du groupe Volkswagen pour s'allier au constructeur chinois Xpeng sur la période 2026-2027. Une séparation stratégique motivée par le dépassement des objectifs réglementaires européens en 2025, qui expose le groupe allemand …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5798,7 +6245,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1786550129000",
+      "id": "reporterre-rss-38-1786550129000",
       "title": "« Ni ici, ni ailleurs » : une nouvelle bataille s'ouvre sur l'ex-zad de Notre-Dame-des-Landes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5824,7 +6271,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1786547954000",
+      "id": "reporterre-rss-39-1786547954000",
       "title": "« Grenouille du café » : une nouvelle espèce a été découverte",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5850,7 +6297,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1786545115000",
+      "id": "reporterre-rss-40-1786545115000",
       "title": "Sécheresse : des coupures d'eau chez 40 000 personnes en France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5876,7 +6323,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1786544473000",
+      "id": "reporterre-rss-41-1786544473000",
       "title": "« On nous enlève un des seuls lieux de nature » : les berges d'un lac fermées en pleine canicule",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5902,7 +6349,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1786540083000",
+      "id": "reporterre-rss-42-1786540083000",
       "title": "Éclipse solaire : l'État avait prédit la pénurie de lunettes, sans s'en préoccuper",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5928,7 +6375,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1786538730000",
+      "id": "reporterre-rss-43-1786538730000",
       "title": "Le gouvernement en passe de réautoriser la chasse de la tourterelle des bois et du fuligule milouin",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5954,7 +6401,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1786530873000",
+      "id": "reporterre-rss-44-1786530873000",
       "title": "Nouvelle vague de chaleur : 92 millions d'Européens exposés à plus de 35 °C mercredi",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5979,7 +6426,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1786523244000",
+      "id": "reporterre-rss-45-1786523244000",
       "title": "Cactus et succulentes : quand la passion mène à l'illégalité",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6005,7 +6452,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1786518892000",
+      "id": "reporterre-rss-46-1786518892000",
       "title": "Le Canada brûle, son Premier ministre mise sur le pétrole (et prend l'avion pour des vacances en Italie)",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6029,7 +6476,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1786510800000",
+      "id": "reporterre-rss-47-1786510800000",
       "title": "« On ne peut rien faire face à 40 °C » : l'agro-industrie paie le prix fort du dérèglement climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6081,7 +6528,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-6-1786545938000",
+      "id": "greenunivers-rss-7-1786545938000",
       "title": "Résultats : Vestas continue sur sa lancée",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -6106,7 +6553,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-7-1786542803000",
+      "id": "greenunivers-rss-8-1786542803000",
       "title": "CIP déploie la plus puissante batterie d’Europe, au Royaume-Uni",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -6258,7 +6705,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-3-1786460700000",
+      "id": "batiweb-rss-4-1786460700000",
       "title": "Les prix de l'électricité explosent en Allemagne pendant l'éclipse",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6309,7 +6756,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1786464122000",
+      "id": "reporterre-rss-48-1786464122000",
       "title": "Nucléaire : 3 réacteurs arrêtés... par des méduses",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6335,7 +6782,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1786461161000",
+      "id": "reporterre-rss-49-1786461161000",
       "title": "« Restez chez vous » : à la montagne, ces randonneurs subissent le racisme",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6360,7 +6807,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1786457201000",
+      "id": "reporterre-rss-50-1786457201000",
       "title": "Les travaux du plus grand data center d'Europe ont commencé en Île-de-France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6386,7 +6833,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1786455017000",
+      "id": "reporterre-rss-51-1786455017000",
       "title": "Canicules et incendies : les principaux pyromanes sont identifiés mais restent impunis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6411,7 +6858,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1786449534000",
+      "id": "reporterre-rss-52-1786449534000",
       "title": "Plus de 300 cadavres de cochons : L214 révèle « l'un des pires cas d'abandon d'animaux »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6436,7 +6883,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1786435839000",
+      "id": "reporterre-rss-53-1786435839000",
       "title": "« Ils bombardent directement les ruches » : au Liban, Israël cible les apiculteurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6462,7 +6909,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1786428822000",
+      "id": "reporterre-rss-54-1786428822000",
       "title": "« Cocaïne des mers » : dans les rouages du trafic de vessies de poissons",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6488,7 +6935,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1786424400000",
+      "id": "reporterre-rss-55-1786424400000",
       "title": "En Espagne, contre les incendies, une « armée de bénévoles » qui « fait la différence »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6539,7 +6986,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-8-1786460724000",
+      "id": "greenunivers-rss-9-1786460724000",
       "title": "Les résultats d’EnBW soutenus par la mobilité électrique et les réseaux",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -6666,7 +7113,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-4-1786353000000",
+      "id": "batiweb-rss-5-1786353000000",
       "title": "La construction de la salle de bal de la Maison Blanche bloquée par la justice",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6690,7 +7137,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1786320000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1786320000000",
       "title": "eclipse solaire",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -6786,7 +7233,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1786377065000",
+      "id": "reporterre-rss-56-1786377065000",
       "title": "Rejets massifs de PFAS : une métropole porte plainte contre BASF",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6810,7 +7257,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1786372703000",
+      "id": "reporterre-rss-57-1786372703000",
       "title": "À la rencontre de ce rapace mangeur de serpents",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6834,7 +7281,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1786370731000",
+      "id": "reporterre-rss-58-1786370731000",
       "title": "Trump envoie des bulldozers défigurer un parc national pour stopper l'immigration",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6860,7 +7307,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1786362342000",
+      "id": "reporterre-rss-59-1786362342000",
       "title": "Groenland : une compagnie pétrolière liée à Trump se prépare à forer sans autorisation",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6882,133 +7329,6 @@
         "Confort d’été"
       ],
       "summary": "La société texane Greenland Energy a acheminé du matériel de forage sur la côte est du Groenland sans avoir obtenu le feu vert des autorités locales, révèle le Guardian. Le gouvernement groenlandais a émis le 30 juillet un « avertissement ferme » à l'encontre de l'entreprise, lui…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-56-1786362090000",
-      "title": "Des vestiges de navires nazis refont surface avec la sécheresse du Danube",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Des-vestiges-de-navires-nazis-refont-surface-avec-la-secheresse-du-Danube",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260807__c47c7we__v2__highres__hungarygermanyenvironmentweatherhistorywwiidrou_resized-38776.jpg?1786362092",
-      "date": "2026-08-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "La sécheresse que traverse l'Europe a fait chuter le niveau d'eau du Danube à un niveau si bas qu'elle en a fait resurgir l'histoire. Des dizaines de carcasses de navires nazis enfoncés dans le sable émergent désormais des eaux, rapporte Euronews. Ce sont les vestiges de la flott…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-57-1786356512000",
-      "title": "Chaos climatique : le choc de l'été 2026 nous mène-t-il vers un « monde d'après » ?",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Chaos-climatique-le-choc-de-l-ete-2026-nous-mene-t-il-vers-un-monde-d-apres",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260724__hl_lperpignaiban_3241550__v1__highres__francegirondewildfire_1_-2c905.jpg?1786356518",
-      "date": "2026-08-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "RE2020",
-        "Confort d’été"
-      ],
-      "summary": "L'enchaînement de canicules, incendies et sécheresses qui frappe la France laisse espérer que l'été 2026 puisse être celui d'une bascule face au changement climatique. Les scientifiques interrogés par Reporterre restent cependant partagés. Cinq canicules qui se succèdent, le mois…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-58-1786350240000",
-      "title": "L'Europe occidentale a connu sa période juin-juillet la plus chaude jamais enregistrée",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/L-Europe-occidentale-a-connu-sa-periode-juin-juillet-la-plus-chaude-jamais-enregistree",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260803__aa_03082026_2904202__v1__highres__secondheatwaveoftheseasonhitseaster_1_-2c80d.jpg?1786350726",
-      "date": "2026-08-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "L'été 2026 sera celui des records mortifères. Le mois de juillet a été le plus chaud jamais enregistré en France, a annoncé le 10 août l'observatoire européen du climat Copernicus. Les océans ont été particulièrement affectés par ces conditions extrêmes. La température moyenne de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1786338600000",
-      "title": "Le pari réussi de la première monnaie locale d'Europe",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/La-belle-histoire-de-la-premiere-monnaie-locale-d-Europe",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/dsc07652-c34de.jpg?1786338601",
-      "date": "2026-08-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat"
-      ],
-      "summary": "Plus de 10 ans après sa création, la monnaie locale basque eusko est un succès. Au point qu'elle a créé un institut de formation pour aider d'autres projets à se lancer ou à se développer. QR codes verts fleurissent sur les comptoirs des bars et des commerces, floqués d'un mot : …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-9-1786375650000",
-      "title": "La pression s’accroit sur les prix de l’électricité [Marchés]",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/08/la-pression-saccroit-sur-les-prix-de-lelectricite-marches-431374/",
-      "image": null,
-      "date": "2026-08-10",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Économie du bâtiment"
-      ],
-      "summary": "Les prix ont bien connu un creux la semaine dernière, mais vite comblé. En fin de semaine, le prix de l’électricité pour 2027 se négociait autour de L’article La pression s’accroit sur les prix de l’électricité [Marchés] est apparu en premier sur GreenUnivers. Les prix ont bien c…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7164,7 +7484,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1786189361000",
+      "id": "le-journal-du-grand-paris-rss-3-1786189361000",
       "title": "P. Hardouin (CEO d’Equans France) : « Nous préparons désormais des plans d’urgence climatique »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7522,7 +7842,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novethic-rss-4-1786107637000",
+      "id": "novethic-rss-5-1786107637000",
       "title": "Une semaine de pause pour mieux repartir",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7548,7 +7868,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-5-1786103116000",
+      "id": "novethic-rss-6-1786103116000",
       "title": "\"L'économie ne peut plus se construire sur des actifs qui fondent\", Diego Landivar, économiste et anthropologue",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7574,7 +7894,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-6-1786077946000",
+      "id": "novethic-rss-7-1786077946000",
       "title": "Colombie : Nouveau président, nouvelle trajectoire pour la protection de l’environnement",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7701,7 +8021,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-5-1786023000000",
+      "id": "batiweb-rss-6-1786023000000",
       "title": "Des taux d'intérêt encore en hausse au mois de juin",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7726,7 +8046,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-6-1786002900000",
+      "id": "batiweb-rss-7-1786002900000",
       "title": "Rénovation énergétique : un guide compile les recommandations des ABF",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7950,7 +8270,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-7-1786016745000",
+      "id": "novethic-rss-8-1786016745000",
       "title": "Capital-risque : les fonds qui misent sur la RSE prennent de l'avance",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7976,7 +8296,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-8-1786009553000",
+      "id": "novethic-rss-9-1786009553000",
       "title": "Avant ChatGPT, ces fictions avaient vu venir la révolution de l'IA",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7997,32 +8317,6 @@
         "Climat"
       ],
       "summary": "Depuis plusieurs années, les scénaristes de Hollywood sont inspirés par les conséquences de l'adoption de l'intelligence artificielle. @Montage The Comeback, quand l’IA remplace les scénaristes de Hollywood Valerie Cherish, une comédienne de sitcom sur le retour, veut à tout prix…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novethic-rss-9-1785991503000",
-      "title": "Rhin, Danube… les fleuves européens en manque d’eau mettent l’économie à sec",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/environnement/climat/rhin-danube-fleuves-europeens-manque-eau-mettent-economie-sec",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/08/Rhin-Dusseldorf-faible-niveau-du-fleuve-aout-2026-@Photo-par-OLIVER-BERG-AFP-150x150.jpg",
-      "date": "2026-08-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Eau"
-      ],
-      "summary": "Le faible niveau du Rhin, en Allemagne, contraint à réduire les capacités de transport fluvial de marchandises. @Oliver Berg, AFP Les niveaux n’avaient jamais été aussi bas à cette période. Depuis plusieurs jours, le Rhin inquiète les autorités allemandes en raison de la faibless…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8053,7 +8347,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "bois-com-sitemap-76-1786031110000",
+      "id": "bois-com-sitemap-77-1786031110000",
       "title": "labri de piscine en bois un choix qui allie beaute et performance",
       "source": "Bois.com",
       "sourceId": "bois-com",
@@ -8152,7 +8446,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-7-1785915900000",
+      "id": "batiweb-rss-8-1785915900000",
       "title": "Antin ouvre les négociations pour céder Idex à la banque JP Morgan",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8274,7 +8568,7 @@
       "collectMethod": "wordpress_api"
     },
     {
-      "id": "batiweb-rss-8-1785828600000",
+      "id": "batiweb-rss-9-1785828600000",
       "title": "Holcim se montre plus optimiste que prévu pour 2026 après un bon S1",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8298,7 +8592,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-9-1785815700000",
+      "id": "batiweb-rss-10-1785815700000",
       "title": "Vinci : carnet de commandes record pour la construction malgré un CA en baisse",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8471,7 +8765,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-10-1785761700000",
+      "id": "batiweb-rss-11-1785761700000",
       "title": "Saint-Gobain enregistre une baisse de son chiffre d'affaires au S1 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8495,7 +8789,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-11-1785745500000",
+      "id": "batiweb-rss-12-1785745500000",
       "title": "TotalEnergies rachète les activités renouvelables terrestres de Shell en Europe",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8520,7 +8814,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-12-1785744000000",
+      "id": "batiweb-rss-13-1785744000000",
       "title": "Hydrodiff, expert en chauffage et climatisation, lance sa boutique en ligne",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8591,31 +8885,6 @@
         "Confort d’été"
       ],
       "summary": "Signalez l’impact des événements climatiques sur la faune sauvage. Canicules à répétition, incendies ravageurs, tempêtes violentes, crues soudaines, épisodes de grêle intense… Le changement climatique multiplie les événements extrêmes, et leurs conséquences sur la faune sauvage e…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-centre-rss-1-1785745684000",
-      "title": "Journée Réemploi",
-      "source": "Envirobat Centre",
-      "sourceId": "envirobat-centre",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Centre-Val de Loire",
-      "url": "https://www.envirobatcentre.com/evenement/journee-reemploi",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Bâtiment durable",
-        "Centre-Val de Loire",
-        "Réglementation",
-        "Eau",
-        "Réemploi"
-      ],
-      "summary": "Journée Réemploi Type d’événement Conférence ASureau lun 03/08/2026 - 10:28 Contenu Evènement co-organisé par Envirobat Centre, la DREAL Centre-Val de Loire, l’ADEME et la Région Centre-Val de Loire. Au programme : Tables rondes Visites de sites Retours d’expérience Échanges entr…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8745,7 +9014,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "bois-com-sitemap-69-1785750235000",
+      "id": "bois-com-sitemap-70-1785750235000",
       "title": "le bois dans les salles de concert un materiau qui sculpte le son",
       "source": "Bois.com",
       "sourceId": "bois-com",
@@ -8771,7 +9040,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bois-com-sitemap-70-1785759501000",
+      "id": "bois-com-sitemap-71-1785759501000",
       "title": "clt lamelle colle osb contreplaque ces materiaux bois qui transforment notre facon de construire",
       "source": "Bois.com",
       "sourceId": "bois-com",
@@ -8797,7 +9066,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bois-com-sitemap-71-1785759550000",
+      "id": "bois-com-sitemap-72-1785759550000",
       "title": "labels et certifications bois le guide pour sy retrouver",
       "source": "Bois.com",
       "sourceId": "bois-com",
@@ -8823,7 +9092,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bois-com-sitemap-72-1785759568000",
+      "id": "bois-com-sitemap-73-1785759568000",
       "title": "choisir la bonne essence de bois pour son projet",
       "source": "Bois.com",
       "sourceId": "bois-com",
@@ -8849,7 +9118,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bois-com-sitemap-73-1785759590000",
+      "id": "bois-com-sitemap-74-1785759590000",
       "title": "valorisation du bois un cycle vertueux au service de leconomie circulaire",
       "source": "Bois.com",
       "sourceId": "bois-com",
@@ -8875,7 +9144,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bois-com-sitemap-74-1785759640000",
+      "id": "bois-com-sitemap-75-1785759640000",
       "title": "dimensionnement du solivage la structure cachee de votre plancher",
       "source": "Bois.com",
       "sourceId": "bois-com",
@@ -8901,7 +9170,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bois-com-sitemap-75-1785762196000",
+      "id": "bois-com-sitemap-76-1785762196000",
       "title": "les atouts du bois en interieur et si vous choisissiez le bois francais",
       "source": "Bois.com",
       "sourceId": "bois-com",
@@ -9103,7 +9372,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-13-1785509400000",
+      "id": "batiweb-rss-14-1785509400000",
       "title": "Bois de chauffage : les critères de qualité à connaître pour bien conseiller ses clients",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -9129,7 +9398,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-14-1785490200000",
+      "id": "batiweb-rss-15-1785490200000",
       "title": "Daikin étend sa gamme Altherma R-290 pour la rénovation énergétique des logements",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -9298,7 +9567,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1785456000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1785456000000",
       "title": "les trains circuleront a nouveau entre nice et saint andre les alpes des le 1er aout",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -9322,7 +9591,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1785456000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1785456000000",
       "title": "incendies comment aider les animaux",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -9446,7 +9715,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1785542065000",
+      "id": "le-journal-du-grand-paris-rss-4-1785542065000",
       "title": "Incendies : la métropole du Grand Paris propose une enveloppe de 500 000 euros pour la reforestation",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9472,7 +9741,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1785538790000",
+      "id": "le-journal-du-grand-paris-rss-5-1785538790000",
       "title": "Classement de Shanghaï 2026 : Sorbonne Université décroche, les trois autres universités franciliennes tiennent leur rang",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9497,7 +9766,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1785530628000",
+      "id": "le-journal-du-grand-paris-rss-6-1785530628000",
       "title": "La Caisse d’Épargne au secours de la forêt de Fontainebleau incendiée",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9522,7 +9791,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1785517242000",
+      "id": "le-journal-du-grand-paris-rss-7-1785517242000",
       "title": "Les coulisses du Grand Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9546,7 +9815,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1785516169000",
+      "id": "le-journal-du-grand-paris-rss-8-1785516169000",
       "title": "Championnats d’Europe de natation : le CAO métropole du Grand Paris replonge dans le grand bain",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9642,7 +9911,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-15-1785405600000",
+      "id": "batiweb-rss-16-1785405600000",
       "title": "« Condamnations exemplaires » à Orléans pour fraudes à la rénovation énergétique",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -9666,7 +9935,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-16-1785394800000",
+      "id": "batiweb-rss-17-1785394800000",
       "title": "Un bilan meilleur que prévu pour Sika sur la première moitié de 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -9690,7 +9959,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-17-1785392700000",
+      "id": "batiweb-rss-18-1785392700000",
       "title": "Jean-Baptiste Plagne devient directeur général de Rexel France",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -9810,7 +10079,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1785369600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1785369600000",
       "title": "feux de foret tous mobilises",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -9988,7 +10257,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-18-1785313800000",
+      "id": "batiweb-rss-19-1785313800000",
       "title": "Facture électronique : le secteur du BTP en retard pour le changement ?",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -10008,30 +10277,6 @@
         "Bâtiment"
       ],
       "summary": "TRIBUNE - Cyril Perrin est directeur général exécutif et CSO d'Orisha Construction, éditeur de logiciels pour les entreprises du BTP et les négoces de matériaux. Alors que la généralisation de la facture électronique se déclenche à la rentrée prochaine, focus sur la progression d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-19-1785312000000",
-      "title": "Mode d'emploi pour les entreprises du BTP en cas d'incendie",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/prevention/incendies-aides-assurances-prevention-entreprises-btp-49136",
-      "image": "https://img.batiweb.com/repo-images/article/49136/incendiechantier.jpg",
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation"
-      ],
-      "summary": "Alors que les incendies ravagent le sud de la France, quelles sont les mesures de prévention, de protection et d'assurance appliquées dans le BTP ? Le point. Alors que les incendies ravagent le sud de la France, quelles sont les mesures de prévention, de protection et d'assurance…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10224,7 +10469,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1785283200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1785283200000",
       "title": "a la pointe de la cybersecurite",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -10370,7 +10615,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1785343138000",
+      "id": "le-journal-du-grand-paris-rss-9-1785343138000",
       "title": "Incendie de Fontainebleau : un plan d’action pour « renforcer la protection des forêts franciliennes »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -10395,7 +10640,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-8-1785354120000",
+      "id": "acteurs-publics-sitemap-10-1785354120000",
       "title": "les cadres sup du quai dorsay invites a mieux manager lalterite les equipes et leur propre depart",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -10743,7 +10988,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1785196800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1785196800000",
       "title": "tour de france femmes 2026",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -10868,7 +11113,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-1-1785240600000",
+      "id": "acteurs-publics-sitemap-3-1785240600000",
       "title": "orange et morrison projettent une plateforme francaise de data centers souverains",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -11162,32 +11407,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-9-1785143638000",
-      "title": "La Roche, un patrimoine en transition",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/la-roche-un-patrimoine-en-transition/",
-      "image": null,
-      "date": "2026-07-27",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Ancien hôpital parisien fermé en 2019, La Roche connaît une nouvelle vie grâce à une occupation transitoire portée par Plateau Urbain. Depuis juillet 2025, ce tiers-lieu situé à deux pas de Denfert-Rochereau accueille 48 structures issues de l'économie sociale et solidaire (ESS),…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "envirobat-occitanie-rss-4-1785093599000",
       "title": "Dgema",
       "source": "Envirobat Occitanie",
@@ -11437,7 +11656,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1784851200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1784851200000",
       "title": "premiere economie maritime",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11582,7 +11801,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-2-1784889480000",
+      "id": "acteurs-publics-sitemap-4-1784889480000",
       "title": "aurelie lapidus bercy demain nest pas un simple projet immobilier mais une veritable demarche de transformation",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -11606,7 +11825,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-3-1784887860000",
+      "id": "acteurs-publics-sitemap-5-1784887860000",
       "title": "fonction publique teletravail managers hospitaliers",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -11630,7 +11849,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-4-1784887500000",
+      "id": "acteurs-publics-sitemap-6-1784887500000",
       "title": "52 des cadres superieurs de letat formes a la transition ecologique",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -11654,7 +11873,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-5-1784893620000",
+      "id": "acteurs-publics-sitemap-7-1784893620000",
       "title": "un referentiel commun de competences pour faire entrer la transformation dans les ecoles de service public",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -11678,7 +11897,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-6-1784894100000",
+      "id": "acteurs-publics-sitemap-8-1784894100000",
       "title": "ia les ministeres passent de lexperimentation a la rationalisation",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -11702,7 +11921,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-7-1784885160000",
+      "id": "acteurs-publics-sitemap-9-1784885160000",
       "title": "dans la fonction publique une rentree sociale sous tension avant les elections professionnelles de decembre",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -11726,7 +11945,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-9-1784892660000",
+      "id": "acteurs-publics-sitemap-11-1784892660000",
       "title": "amenagement du territoire les prealables dune relance strategique",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -11750,7 +11969,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-10-1784885280000",
+      "id": "acteurs-publics-sitemap-12-1784885280000",
       "title": "la revue de presse internationale 8",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -11774,7 +11993,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-11-1784876700000",
+      "id": "acteurs-publics-sitemap-13-1784876700000",
       "title": "taux de promotion dgse ingenieurs quoi de neuf au jo cette semaine",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12212,7 +12431,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-12-1784811600000",
+      "id": "acteurs-publics-sitemap-14-1784811600000",
       "title": "bataille feutree dans les inspections detat autour de lharmonisation des remunerations",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12236,7 +12455,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-13-1784812560000",
+      "id": "acteurs-publics-sitemap-15-1784812560000",
       "title": "agences regionales de sante les prefets gagnent du terrain sur leur principal levier financier",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12260,7 +12479,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-14-1784804400000",
+      "id": "acteurs-publics-sitemap-16-1784804400000",
       "title": "finances locales letat somme de revoir sa methode avant de reclamer de nouveaux efforts budget 2027",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12285,7 +12504,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-15-1784803920000",
+      "id": "acteurs-publics-sitemap-17-1784803920000",
       "title": "fonction publique ladministration peut ne reserver le complement indemnitaire annuel qua certaines fonctions au sein dun meme corps",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12309,7 +12528,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-16-1784802960000",
+      "id": "acteurs-publics-sitemap-18-1784802960000",
       "title": "violences sexistes et sexuelles souffrance au travail elus locaux",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12333,7 +12552,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-17-1784818740000",
+      "id": "acteurs-publics-sitemap-19-1784818740000",
       "title": "directeurs dhopitaux sous pression les syndicats reclament une refonte de la protection fonctionnelle",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12358,7 +12577,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-19-1784788560000",
+      "id": "acteurs-publics-sitemap-21-1784788560000",
       "title": "le parlement adopte definitivement la fonciere de letat qui sattaquera en priorite aux espaces ou les gains sont les plus rapides",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12458,7 +12677,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1784678400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1784678400000",
       "title": "la bataille de gaulle",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -12797,7 +13016,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-18-1784753460000",
+      "id": "acteurs-publics-sitemap-20-1784753460000",
       "title": "un rapport senatorial censure montre que la souffrance au travail a cours dans le prive comme dans la fonction publique",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12821,7 +13040,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-20-1784721300000",
+      "id": "acteurs-publics-sitemap-22-1784721300000",
       "title": "le compte rendu du conseil des ministres du 22 juillet",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12845,7 +13064,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-21-1784725980000",
+      "id": "acteurs-publics-sitemap-23-1784725980000",
       "title": "ballotes entre ecologie et agriculture les ingenieurs ipef seront finalement geres selon leur parcours",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12869,7 +13088,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-22-1784727420000",
+      "id": "acteurs-publics-sitemap-24-1784727420000",
       "title": "logement des agents attractivite",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12894,7 +13113,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-23-1784716620000",
+      "id": "acteurs-publics-sitemap-25-1784716620000",
       "title": "un fonctionnaire coute en moyenne 75 000 euros par an",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12918,7 +13137,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-24-1784720040000",
+      "id": "acteurs-publics-sitemap-26-1784720040000",
       "title": "la justice valide le principe dun blame pour une falsification de signature dans le compte rendu dun entretien de recadrage",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12942,7 +13161,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-25-1784734560000",
+      "id": "acteurs-publics-sitemap-27-1784734560000",
       "title": "les evaluations sattachent souvent plus a constater la bonne mise en oeuvre dune politique qua en mesurer reellement limpact",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12967,7 +13186,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-28-1784702460000",
+      "id": "acteurs-publics-sitemap-30-1784702460000",
       "title": "la cour des comptes denonce un pilotage defaillant de laction disciplinaire des forces de securite interieure",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -13015,7 +13234,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1784592000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1784592000000",
       "title": "tour de france 2026 region sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13038,7 +13257,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1784592000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1784592000000",
       "title": "bouclier sanitaire la region sud investit pour renforcer loffre de soins en vaucluse",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13359,7 +13578,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-26-1784641680000",
+      "id": "acteurs-publics-sitemap-28-1784641680000",
       "title": "le ministere de la justice signe un accord syndical pionnier sur lia au sein de letat",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -13383,61 +13602,13 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-27-1784643060000",
+      "id": "acteurs-publics-sitemap-29-1784643060000",
       "title": "administrateurs de letat un seminaire pour apprendre a faire corps",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
       "sourceType": "Presse professionnelle",
       "region": "National",
       "url": "https://acteurspublics.fr/articles/administrateurs-de-letat-un-seminaire-pour-apprendre-a-faire-corps/",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Politiques publiques",
-        "Collectivités",
-        "Transition"
-      ],
-      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "acteurs-publics-sitemap-29-1784636640000",
-      "title": "2800 contrats dapprentissage en moins en 2025 dans la fonction publique",
-      "source": "Acteurs Publics",
-      "sourceId": "acteurs-publics",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://acteurspublics.fr/articles/2800-contrats-dapprentissage-en-moins-en-2025-dans-la-fonction-publique/",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Politiques publiques",
-        "Collectivités",
-        "Transition"
-      ],
-      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "acteurs-publics-sitemap-30-1784630700000",
-      "title": "formation dgfip intelligence artificielle",
-      "source": "Acteurs Publics",
-      "sourceId": "acteurs-publics",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://acteurspublics.fr/articles/formation-dgfip-intelligence-artificielle/",
       "image": null,
       "date": "2026-07-21",
       "access": "Accès mixte",
@@ -13672,7 +13843,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-2-1784532372000",
+      "id": "ordre-des-architectes-cnoa-rss-3-1784532372000",
       "title": "Marchés publics : le CROA Normandie lance une enquête sur les difficultés de paiement et de validation",
       "source": "Ordre des Architectes — CNOA",
       "sourceId": "ordre-des-architectes-cnoa",
@@ -13767,6 +13938,147 @@
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "aguram-metz-rss-0-1784535660000",
+      "title": "CONFÉRENCES-DÉBAT / Metzamorphoses",
+      "source": "AGURAM Metz",
+      "sourceId": "aguram-metz",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.aguram.org/conferences-debat-metzamorphoses/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Metz",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’AGURAM propose deux conférences-débat lancement de l’exposition « Metzamorphozes – Friches messines : patrimoine en mouvement » le jeudi 10 septembre à l’église des Trinitaires et le samedi 19 septembre à l’Hôtel de Ville de Metz. Ces conférences introduiront une exposition qui…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "aguram-metz-rss-1-1784535405000",
+      "title": "CAFÉ-DÉBAT de l’AGURAM / Stratégie foncière communale",
+      "source": "AGURAM Metz",
+      "sourceId": "aguram-metz",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.aguram.org/cafe-debat-de-laguram-strategie-fonciere-communale/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Metz",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation"
+      ],
+      "summary": "L’AGURAM propose à l’attention des élus et de ses partenaires, un café-débat « Stratégie foncière communale » le jeudi 10 septembre de 9h à 10h15, à l’agence AGURAM (27 place Saint-Thiébault à Metz). À l’heure où les politiques d’aménagement demandent une gestion économe du fonci…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "aguram-metz-rss-2-1784534831000",
+      "title": "Cycle de débats AGURAM / Rentrée 2026",
+      "source": "AGURAM Metz",
+      "sourceId": "aguram-metz",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.aguram.org/cycle-de-debats-aguram-rentree-2026/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Metz",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’AGURAM organise 3 évènements incontournables à la rentrée, à l’attention de ses partenaires et des acteurs de l’aménagement des territoires, pour parler stratégie foncière communale, friches messines et histoire urbaine de Metz. Réservez les jeudi 10 septembre, vendredi 11/same…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "aguram-metz-rss-3-1784534042000",
+      "title": "6 questions à… Marilyne Webert, nouvelle présidente de l’AGURAM",
+      "source": "AGURAM Metz",
+      "sourceId": "aguram-metz",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.aguram.org/6-questions-a-marilyne-webert-nouvelle-presidente-de-laguram/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Metz",
+        "Urbanisme",
+        "Habitat",
+        "Confort d’été"
+      ],
+      "summary": "Marilyne Webert a été élue nouvelle présidente de l’agence. Elle prend la suite de Pierre Fachot, au terme de son mandat. Enseignante spécialisée dans le handicap moteur de métier, elle a aussi une solide expérience des politiques publiques et de la concertation, puisqu’elle est …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "aguram-metz-rss-4-1784533851000",
+      "title": "NOS INSTANCES : Conseil d’administration & assemblée générale AGURAM",
+      "source": "AGURAM Metz",
+      "sourceId": "aguram-metz",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.aguram.org/nos-instances-conseil-dadministration-assemblee-generale-aguram-2/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Metz",
+        "Urbanisme",
+        "Habitat",
+        "Bâtiment"
+      ],
+      "summary": "Les membres de l’AGURAM participent à la construction collective d’un programme partenarial d’activité. C’est une feuille de route mutualisée au service du bien commun, qui détermine l’essentiel des travaux de l’agence pour l’année à venir. Les apprentissages qui en ressortent so…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "aguram-metz-rss-5-1784533574000",
+      "title": "Des sols vivants pour des aménagements résilients",
+      "source": "AGURAM Metz",
+      "sourceId": "aguram-metz",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.aguram.org/des-sols-vivants-pour-des-amenagements-resilients/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Metz",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Un atelier de travail et une publication pour présenter les travaux menés sur les sols vivants par les 5 agences d’urbanisme de Lorraine ̶ Champagne-Ardenne en partenariat avec l’Établissement Foncier Public de Grand Est. Si l’EPF de Grand Est prend en compte les sols depuis long…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "verre-protections-magazine-rss-9-1784538749000",
@@ -14126,7 +14438,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-3-1784299870000",
+      "id": "ordre-des-architectes-cnoa-rss-4-1784299870000",
       "title": "Panneaux de chantier : une visibilité essentielle pour les architectes",
       "source": "Ordre des Architectes — CNOA",
       "sourceId": "ordre-des-architectes-cnoa",
@@ -14223,7 +14535,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1784246400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1784246400000",
       "title": "infirmiers et aides soignants de nouveaux diplomes rejoignent les professionnels de sante en region sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14245,6 +14557,104 @@
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "aguram-metz-rss-6-1784281022000",
+      "title": "DOSSIERS FNAU / Inscrire les espaces périurbains au cœur de la stratégie d’aménagement des territoires : d’un impensé à une priorité",
+      "source": "AGURAM Metz",
+      "sourceId": "aguram-metz",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.aguram.org/dossiers-fnau-inscrire-les-espaces-periurbains-au-coeur-de-la-strategie-damenagement-des-territoires-dun-impense-a-une-priorite/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Metz",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Longtemps décriés, parfois réhabilités, souvent caricaturés, les territoires périurbains restent trop fréquemment appréhendés comme un problème à corriger plutôt que comme une réalité à comprendre, voire à défendre. Trop étalés pour être vertueux, trop dépendants pour être autono…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "aguram-metz-rss-7-1784280379000",
+      "title": "TRAITS D’AGENCES / Sous le foncier, des sols vivants",
+      "source": "AGURAM Metz",
+      "sourceId": "aguram-metz",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.aguram.org/traits-dagences-sous-le-foncier-des-sols-vivants/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Metz",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation",
+        "Carbone",
+        "Eau"
+      ],
+      "summary": "Sous nos pieds, un trésor invisible. Longtemps réduit à une simple surface à bâtir ou à négocier, le sol urbain étouffe sous le béton. Pourtant, ce patrimoine vivant est le pilier secret de notre survie face au changement climatique : stockage du carbone, gestion de l’eau, biodiv…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "aguram-metz-rss-8-1784280231000",
+      "title": "Assemblée constitutive 2026 / Nouvelle présidence",
+      "source": "AGURAM Metz",
+      "sourceId": "aguram-metz",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.aguram.org/assemblee-constitutive-2026-nouvelle-presidence/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Metz",
+        "Urbanisme",
+        "Habitat",
+        "Eau"
+      ],
+      "summary": "L’assemblée constitutive de l’AGURAM, moment fort annuel de la vie de notre association, s’est tenue ce mardi 30 juin à Metz dans l’enceinte du Cloître des Récollets. Ce lieu, propice aux échanges et à la réflexion, a offert un cadre idéal pour présenter les missions de l’agence,…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "aguram-metz-rss-9-1784279957000",
+      "title": "PROGRAMME PARTENARIAL D’ACTIVITÉ 2026 / BOUSSOLE POUR FAISEURS DE BIFURCATION",
+      "source": "AGURAM Metz",
+      "sourceId": "aguram-metz",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.aguram.org/programme-partenarial-dactivite-2026-boussole-pour-faiseurs-de-bifurcation/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Metz",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "Les membres de l’AGURAM participent à la construction collective d’un programme partenarial. Cette feuille de route au service du bien commun, détermine l’essentiel des activités de l’agence pour l’année à venir. Les apprentissages sont ensuite mutualisés (partage des méthodes, e…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "lig-air-sitemap-3-1784246400000",
@@ -14645,7 +15055,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1784160000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1784160000000",
       "title": "billets de train poste",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14668,7 +15078,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1784160000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1784160000000",
       "title": "metiers de lombre festivals",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15304,7 +15714,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1784073600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1784073600000",
       "title": "cosquer mediterranee 2 millions de visiteurs et des nouveautes",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15889,7 +16299,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1783641600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1783641600000",
       "title": "bourse au merite les bacheliers de lacademie de nice mis a lhonneur",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15913,7 +16323,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1783641600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1783641600000",
       "title": "patrouille de france lhistoire dun symbole national ancre en region sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15937,7 +16347,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1783641600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1783641600000",
       "title": "bourse au merite les bacheliers de lacademie daix marseille recompenses",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16279,7 +16689,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-4-1783602352000",
+      "id": "ordre-des-architectes-cnoa-rss-5-1783602352000",
       "title": "Réunion annuelle 2026 : rendez-vous le 9 octobre à Rouen",
       "source": "Ordre des Architectes — CNOA",
       "sourceId": "ordre-des-architectes-cnoa",
@@ -16354,7 +16764,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1783555200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1783555200000",
       "title": "tout ce que vous avez toujours voulu savoir sur les cigales",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16377,7 +16787,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1783555200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1783555200000",
       "title": "lessentiel de lassemblee pleniere du 26 juin 2026",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16805,7 +17215,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1783468800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1783468800000",
       "title": "avec calypso les lyceens de la region sud sengagent pour la planete",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16828,7 +17238,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1783468800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1783468800000",
       "title": "voyager sans peur la region sud renforce la securite des femmes dans les ter",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16851,7 +17261,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1783468800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1783468800000",
       "title": "retour sur les rencontres economiques daix 2026",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17187,7 +17597,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-5-1783410026000",
+      "id": "ordre-des-architectes-cnoa-rss-6-1783410026000",
       "title": "Composition du Bureau du CROA CVL",
       "source": "Ordre des Architectes — CNOA",
       "sourceId": "ordre-des-architectes-cnoa",
@@ -17212,7 +17622,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1783382400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1783382400000",
       "title": "alpes 2030 des jeux dhiver 100 paritaires pour la premiere fois",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17711,7 +18121,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1783296000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1783296000000",
       "title": "la cop regionale avance vers ses objectifs",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17804,7 +18214,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -17877,7 +18287,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-6-1783072220000",
+      "id": "ordre-des-architectes-cnoa-rss-7-1783072220000",
       "title": "Nouvelle fiche-conseil : le rendez-vous de chantier",
       "source": "Ordre des Architectes — CNOA",
       "sourceId": "ordre-des-architectes-cnoa",
@@ -17901,7 +18311,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-7-1783062805000",
+      "id": "ordre-des-architectes-cnoa-rss-8-1783062805000",
       "title": "Newsletter et agenda de juillet & août - CROA Centre-Val de Loire",
       "source": "Ordre des Architectes — CNOA",
       "sourceId": "ordre-des-architectes-cnoa",
@@ -17927,7 +18337,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1783036800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1783036800000",
       "title": "le pan bagnat le sandwich star au gout de lete",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17950,7 +18360,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1783036800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1783036800000",
       "title": "lapero sans une goutte dalcool version region sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17967,30 +18377,6 @@
         "Énergie",
         "Climat",
         "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1783036800000",
-      "title": "plage bateau baignade le guide pratique pour respecter la mediterranee",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/plage-bateau-baignade-le-guide-pratique-pour-respecter-la-mediterranee",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air",
-        "Eau"
       ],
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
@@ -18257,7 +18643,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-8-1782896299000",
+      "id": "ordre-des-architectes-cnoa-rss-9-1782896299000",
       "title": "Podcast “Entre les murs” : l’intelligence artificielle au service de la pratique architecturale",
       "source": "Ordre des Architectes — CNOA",
       "sourceId": "ordre-des-architectes-cnoa",
