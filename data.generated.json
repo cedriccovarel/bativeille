@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T20:29:59.593Z",
+  "generatedAt": "2026-08-19T01:27:29.421Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1787102828000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-08-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1787102828000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-08-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1787102828000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-08-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "inc-institut-national-de-la-consommation-rss-0-1787090400000",
       "title": "Travaux : conseils pour choisir un professionnel",
       "source": "INC — Institut National de la Consommation",
@@ -2962,7 +3040,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1787042517000",
+      "id": "enerzine-rss-0-1787091000000",
+      "title": "La sonde Juno de la NASA mesure la température sous la surface de la lune volcanique de Jupiter",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/la-sonde-juno-de-la-nasa-mesure-la-temperature-sous-la-surface-de-la-lune-volcanique-de-jupiter/192222-2026-08",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "La mission Juno de la NASA a réalisé les premières mesures directes de la température sous la surface de la lune Io de Jupiter, révélant un échauffement significatif dans les premiers mètres de la lune la plus volcanique du système solaire. Ces résultats, issus des données collec…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1787042517000",
       "title": "France Rénov’ : en 2026, l’État pousse les ménages vers la rénovation globale",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2987,7 +3089,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1787037600000",
+      "id": "enerzine-rss-2-1787037600000",
       "title": "Désindexation des retraites : Bercy relance une piste explosive pour le budget 2027",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3011,7 +3113,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1787029800000",
+      "id": "enerzine-rss-3-1787029800000",
       "title": "Drones DJI : triple exploit logistique et scientifique sur l’Everest",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3036,7 +3138,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1787026200000",
+      "id": "enerzine-rss-4-1787026200000",
       "title": "Transformer le dioxyde de carbone en une nouvelle génération de plastiques recyclables",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3062,7 +3164,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1787022600000",
+      "id": "enerzine-rss-5-1787022600000",
       "title": "Recharger les drones en plein vol avec des lasers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3335,108 +3437,6 @@
       "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1787084977000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-08-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1787084977000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-08-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1787084977000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-08-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1787059169000",
-      "title": "Clap de fin pour les Championnats d’Europe de natation",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/clap-de-fin-pour-les-championnats-deurope-de-natation/",
-      "image": null,
-      "date": "2026-08-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Après leur tenue au Centre aquatique olympique Métropole du Grand Paris à Saint-Denis (Seine-Saint-Denis) et dans la Seine, les Championnats d’Europe de natation se sont achevés dimanche 16 août, deux ans après les Jeux de Paris 2024. Après leur tenue au Centre aquatique olympiqu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "acteurs-publics-sitemap-1-1787071500000",
@@ -4241,7 +4241,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787004600000",
+      "id": "enerzine-rss-6-1787004600000",
       "title": "Une contrainte mécanique crée la chiralité",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4266,7 +4266,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1786973100000",
+      "id": "enerzine-rss-7-1786973100000",
       "title": "L’économie circulaire dans l’automobile : donner une seconde vie aux véhicules",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4292,7 +4292,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1786956300000",
+      "id": "enerzine-rss-8-1786956300000",
       "title": "Martinique et Guadeloupe : le leasing social, nouveau chapitre de la transition automobile",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4318,7 +4318,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1786954586000",
+      "id": "enerzine-rss-9-1786954586000",
       "title": "Le « Dubai Tower » ouvre la voie d’une liaison régulière entre la Chine et l’Europe via l’Arctique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4339,31 +4339,6 @@
         "Réglementation"
       ],
       "summary": "Le 15 août 2026, le porte-conteneurs Dubai Tower (≈ 1 740 EVP) de Sea Legend Shipping a quitté Ningbo pour l’Europe via la route maritime du Nord. C’est le premier service hebdomadaire régulier saisonnier Chine-Europe par l’Arctique (8 rotations d’août à octobre). Temps de transi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1786953000000",
-      "title": "Taxe foncière 2026 : dates des avis, revalorisation de +0,8 % et point sur la réforme",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/taxe-fonciere-2026-dates-avis-revalorisation-reforme/192707-2026-08",
-      "image": null,
-      "date": "2026-08-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Bâtiment"
-      ],
-      "summary": "Les avis d’imposition 2026 seront consultables en ligne dès la fin du mois d’août pour les contribuables non mensualisés, tandis que la revalorisation nationale de la base de calcul s’établit à +0,8 %. Une progression contenue, mais qui ravive les inquiétudes des propriétaires, d…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4568,56 +4543,6 @@
       "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-1-1786979649000",
-      "title": "Une reprise contrastée du tourisme en juillet",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/tourisme-un-mois-de-juillet-entre-reprise-et-contrastes/",
-      "image": null,
-      "date": "2026-08-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Avec 1,2 million d’arrivées aériennes étrangères et une fréquentation en hausse, juillet 2026 confirme la bonne tenue du tourisme parisien. Mais derrière ces chiffres, les écarts entre clientèles et territoires dessinent une reprise à plusieurs vitesses. Avec 1,2 million d’arrivé…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-2-1786979372000",
-      "title": "Soldes d’été 2026 : un bilan décevant pour les commerçants parisiens",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/soldes-dete-2026-un-bilan-decevant-pour-les-commercants-parisiens/",
-      "image": null,
-      "date": "2026-08-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été"
-      ],
-      "summary": "Le Centre régional d’observation du commerce, de l’industrie et des services (Crocis) de la CCI Paris Île-de-France a publié une enquête concernant les chiffres des soldes d’été 2026 à Paris. Celle-ci fait état d'un résultat décevant pour les commerçants, fortement pénalisés par …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "reporterre-rss-16-1786863600000",
@@ -7580,32 +7505,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1786189361000",
-      "title": "P. Hardouin (CEO d’Equans France) : « Nous préparons désormais des plans d’urgence climatique »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/p-hardouin-ceo-dequans-france-nous-preparons-desormais-des-plans-durgence-climatique/",
-      "image": null,
-      "date": "2026-08-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Né en 2022 au sein du groupe Bouygues, à partir des activités multitechniques auparavant logées chez Engie, Equans France revendique 650 agences, 35 000 collaborateurs et plus de 137 implantations en Île-de-France. Pierre Hardouin, son directeur général, détaille les savoir-faire…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-1-1786092480000",
       "title": "empreinte carbone de la consommation touristique en 2023",
       "source": "SDES — Données et études statistiques",
@@ -9811,130 +9710,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1785542065000",
-      "title": "Incendies : la métropole du Grand Paris propose une enveloppe de 500 000 euros pour la reforestation",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/incendies-la-metropole-du-grand-paris-propose-une-enveloppe-de-500-000-euros-pour-la-reforestation/",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Patrick Ollier a annoncé le 31 juillet aux maires des 130 communes de la métropole du Grand Paris une aide financière destinée à la régénération de la forêt de Fontainebleau. La MGP devrait également soutenir la reconstruction du territoire bordelais touché par les feux de l'été.…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-5-1785538790000",
-      "title": "Classement de Shanghaï 2026 : Sorbonne Université décroche, les trois autres universités franciliennes tiennent leur rang",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/classement-de-shanghai-2026-sorbonne-universite-decroche-les-trois-autres-universites-franciliennes-tiennent-leur-rang/",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "L'édition 2026 de l'Academic ranking of world universities (ARWU), le classement de Shanghaï, confirme la présence de quatre universités d'Île-de-France parmi les cent premières mondiales : Paris-Saclay, PSL, Sorbonne Université et Paris Cité. Aucun nouvel établissement francilie…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-6-1785530628000",
-      "title": "La Caisse d’Épargne au secours de la forêt de Fontainebleau incendiée",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/la-caisse-depargne-au-secours-de-la-foret-de-fontainebleau-incendiee/",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau"
-      ],
-      "summary": "Le don de la Caisse d'Épargne Île-de-France en faveur du Fonds ONF-Agir pour la forêt de Fontainebleau financera la première étape de la reconstitution de la forêt après les incendies de très grande ampleur des 12 et 13 juillet, qui ont détruit 10 % de sa superficie. Le don de la…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-7-1785517242000",
-      "title": "Les coulisses du Grand Paris",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-coulisses-du-grand-paris/",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % numérique. Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % n…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1785516169000",
-      "title": "Championnats d’Europe de natation : le CAO métropole du Grand Paris replonge dans le grand bain",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/championnats-deurope-de-natation-le-cao-metropole-du-grand-paris-replonge-dans-le-grand-bain/",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Deux ans après les Jeux de Paris 2024, le Centre aquatique olympique métropole du Grand Paris accueille les Championnats d'Europe de natation, du 31 juillet au 16 août. Deux ans après les Jeux de Paris 2024, le Centre aquatique olympique métropole du Grand Paris accueille les Cha…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "observatoire-de-l-immobilier-durable-oid-rss-0-1785400379000",
       "title": "Sécheresse et retrait-gonflement des argiles : un été sous tension et des conséquences potentielles pour les bâtiments",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -10611,6 +10386,29 @@
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "batylab-sitemap-0-1785336040000",
+      "title": "actualites",
+      "source": "Batylab",
+      "sourceId": "batylab",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Bretagne",
+      "url": "https://www.batylab.bzh/actualites",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "Bretagne",
+        "REX"
+      ],
+      "summary": "Publication détectée dans le sitemap de Batylab. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "verre-protections-magazine-rss-4-1785357659000",
       "title": "Filière REP pour les emballages professionnels : mise en oeuvre opérationnelle de la filière à partir du 1er janvier 2027",
       "source": "Verre & Protections Magazine",
@@ -10684,31 +10482,6 @@
         "Eau"
       ],
       "summary": "En France, si aucun incendie de forêt n'a encore causé de dommages majeurs à une installation gazière ou classée Seveso, le risque — dit « NaTech » — grandit avec l'intensification des feux extrêmes. Les 36 000 km de canalisations du réseau français de transport de gaz traversent…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1785343138000",
-      "title": "Incendie de Fontainebleau : un plan d’action pour « renforcer la protection des forêts franciliennes »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/incendie-de-fontainebleau-un-plan-daction-pour-renforcer-la-protection-des-forets-franciliennes/",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau"
-      ],
-      "summary": "Après l'incendie qui a détruit près de 2 000 hectares dans le massif de Fontainebleau (Seine-et-Marne), la Région Île-de-France annonce six mesures pour renforcer la prévention des feux de forêt. Une conférence régionale réunira les acteurs concernés le 8 octobre prochain. Après …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11748,52 +11521,6 @@
         "Air"
       ],
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-8-1784903873000",
-      "title": "habitat modes de vie",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/habitat-modes-de-vie/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-12-1784903873000",
-      "title": "publication",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -17695,29 +17422,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "aupa-pays-d-aix-sitemap-11-1783427061000",
-      "title": "prospective",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/prospective/",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "arec-nouvelle-aquitaine-rss-1-1783420380000",
       "title": "Les repères chiffrés 2026 de l’ORDEC : la publication disponible !",
       "source": "AREC Nouvelle-Aquitaine",
@@ -18739,29 +18443,6 @@
       "summary": "L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM. L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM . Les centres-villes face aux défis des transitions",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-6-1782901923000",
-      "title": "publications et animations",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/publications-et-animations/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "audiar-rennes-rss-3-1782913760000",
