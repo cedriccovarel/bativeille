@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T15:37:04.755Z",
+  "generatedAt": "2026-08-19T20:34:10.024Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2505,7 +2505,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1787149939000",
+      "id": "reporterre-rss-0-1787155035000",
+      "title": "Canicules : 7 300 morts en excès selon Santé publique France",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Canicules-7-300-morts-en-exces-selon-Sante-publique-France",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260623__b82x6t3__v2__highres__franceweatherclimateheatwave_1_-80aa7.jpg?1787155038",
+      "date": "2026-08-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Confort d’été",
+        "Énergie"
+      ],
+      "summary": "Le bilan provisoire de la surmortalité lors des vagues de chaleur de l'été 2026 s'élève désormais à 7 300 morts, a annoncé mercredi 19 août Santé publique France. Au moins 1 243 décès en excès, toutes causes confondues, ont été enregistrés rien que du 3 au 22 juillet, date à laqu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1787149939000",
       "title": "« Offensives sur l'urbanisme » : la loi Montagne officiellement publiée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2531,7 +2557,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1787148545000",
+      "id": "reporterre-rss-2-1787148545000",
       "title": "L'acétamipride réautorisé : la loi d'urgence agricole est officiellement adoptée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2557,8 +2583,8 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1787147440000",
-      "title": "« On navigue dans l'inconnu » : les éleveurs rattrapés par la sécheresse jusque dans les alpages",
+      "id": "reporterre-rss-3-1787147440000",
+      "title": "Les éleveurs rattrapés par la sécheresse jusque dans les alpages",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2583,7 +2609,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1787146399000",
+      "id": "reporterre-rss-4-1787146399000",
       "title": "Cet opérateur téléphonique veut nous éloigner des écrans",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2609,7 +2635,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1787141483000",
+      "id": "reporterre-rss-5-1787141483000",
       "title": "Trump veut abroger une loi protégeant les forêts vierges de l'exploitation",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2635,7 +2661,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1787139748000",
+      "id": "reporterre-rss-6-1787139748000",
       "title": "Le réchauffement climatique, premier responsable de la surchauffe des mers européennes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2660,7 +2686,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1787135017000",
+      "id": "reporterre-rss-7-1787135017000",
       "title": "Déjà 52 jours de vagues de chaleur cet été, un record en France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2686,7 +2712,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1787125924000",
+      "id": "reporterre-rss-8-1787125924000",
       "title": "« Ils nous chassent de l'océan » : des pêcheurs menacés par l'industrie pétrolière",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2712,7 +2738,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1787125270000",
+      "id": "reporterre-rss-9-1787125270000",
       "title": "« Il n'y a plus d'eau » : les pénuries s'enchaînent dans le Finistère",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2738,7 +2764,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1787115600000",
+      "id": "reporterre-rss-10-1787115600000",
       "title": "« Ça s'est accéléré depuis le Covid » : les refuges de montagne en plein boom de fréquentation",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3021,6 +3047,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "connaissance-des-energies-rss-0-1787097600000",
+      "title": "Vers un nouveau record de production gazière aux États-Unis en 2026",
+      "source": "Connaissance des Énergies",
+      "sourceId": "connaissance-des-energies",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.connaissancedesenergies.org/vers-un-nouveau-record-de-production-gaziere-aux-etats-unis-en-2026",
+      "image": "https://images.connaissancedesenergies.org/articles/image-article/record-production-gaziere-etats-unis-2026.webp",
+      "date": "2026-08-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Statistiques",
+        "Pédagogie",
+        "Eau"
+      ],
+      "summary": "Aux États-Unis, la production de gaz en 2026 devrait sensiblement augmenter par rapport au niveau record de 2025, selon les dernières données de l’EIA américaine (Energy Information Administration). Aux États-Unis, la production de gaz en 2026 devrait sensiblement augmenter par r…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "enerzine-rss-0-1787124300000",
       "title": "Sophie Adenot, première astronaute Française à sortir dans l’espace depuis l’ISS",
       "source": "Enerzine",
@@ -3293,7 +3344,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1787153801000",
+      "id": "le-commerce-du-bois-sitemap-0-1787171635000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3319,7 +3370,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1787153801000",
+      "id": "le-commerce-du-bois-sitemap-1-1787171635000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3345,7 +3396,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1787153801000",
+      "id": "le-commerce-du-bois-sitemap-2-1787171635000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3839,7 +3890,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1787070444000",
+      "id": "reporterre-rss-11-1787070444000",
       "title": "Manon Aubry mordue par une vipère : ce serpent mal-aimé est pourtant moins dangereux qu'on le croit",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3864,7 +3915,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1787065620000",
+      "id": "reporterre-rss-12-1787065620000",
       "title": "Canicule : 22 % des plus de 60 ans pourraient atteindre leurs limites physiologiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3890,7 +3941,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1787062631000",
+      "id": "reporterre-rss-13-1787062631000",
       "title": "Depuis Gaza, cet écologue marin fait avancer la science",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3914,7 +3965,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1787055479000",
+      "id": "reporterre-rss-14-1787055479000",
       "title": "« Un passeport pour l'avenir » : Lula euphorique après la découverte de pétrole au large du Brésil",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3940,7 +3991,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1787054255000",
+      "id": "reporterre-rss-15-1787054255000",
       "title": "Fonte de l'Arctique : un porte-conteneurs chinois ouvre une route vers l'Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3964,7 +4015,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1787039071000",
+      "id": "reporterre-rss-16-1787039071000",
       "title": "« Difficile de lutter contre un projet vendu comme écolo » : un écoquartier menace des terres agricoles",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3990,7 +4041,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1787038915000",
+      "id": "reporterre-rss-17-1787038915000",
       "title": "Pesticides : quand les agences sanitaires snobent la science au profit des industriels",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4015,7 +4066,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1787037282000",
+      "id": "reporterre-rss-18-1787037282000",
       "title": "Serge Zaka : « C'est l'année dont l'agriculture pourrait ne pas se remettre »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4219,7 +4270,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-0-1787011200000",
+      "id": "connaissance-des-energies-rss-1-1787011200000",
       "title": "Canicule : le réseau électrique européen peut remercier le solaire",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -4894,7 +4945,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1786984643000",
+      "id": "reporterre-rss-19-1786984643000",
       "title": "Désertification : la COP17 s'ouvre sur fond de canicules à répétition",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4920,7 +4971,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1786980779000",
+      "id": "reporterre-rss-20-1786980779000",
       "title": "Sainte-Soline à sec mi-juillet : évaporation ou infraction ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4945,7 +4996,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1786976586000",
+      "id": "reporterre-rss-21-1786976586000",
       "title": "« Nos frontières humaines sont imposées à tous » : les murs et grillages menacent le vivant",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4970,7 +5021,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1786975656000",
+      "id": "reporterre-rss-22-1786975656000",
       "title": "Avec la guerre, les géants du pétrole ont doublé leurs profits en Europe en 2026",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4996,7 +5047,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1786973050000",
+      "id": "reporterre-rss-23-1786973050000",
       "title": "Chasser sur des zones incendiées ou sèches : des associations réclament d'épargner les animaux",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5021,7 +5072,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1786952055000",
+      "id": "reporterre-rss-24-1786952055000",
       "title": "Des impacts de balle sur la nageoire d'une orque : « Quelqu'un avait l'intention de la tuer »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5046,7 +5097,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1786942800000",
+      "id": "reporterre-rss-25-1786942800000",
       "title": "Pendant que le monde brûle... des sites ouvrent des paris sur les canicules et incendies",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5072,7 +5123,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1786942800000",
+      "id": "reporterre-rss-26-1786942800000",
       "title": "Bois, terre, paille : elles ont construit leur maison avec des matériaux compostables",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5175,7 +5226,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-1-1786924800000",
+      "id": "connaissance-des-energies-rss-2-1786924800000",
       "title": "Quelles sont les limites de la clim ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -5453,7 +5504,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1786863600000",
+      "id": "reporterre-rss-27-1786863600000",
       "title": "Grimper aux arbres, l'alternative écolo à l'accrobranche",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5479,7 +5530,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1786863600000",
+      "id": "reporterre-rss-28-1786863600000",
       "title": "Où ira la mémoire du vivant ? Les musées ruraux en sursis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5656,7 +5707,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1786773600000",
+      "id": "reporterre-rss-29-1786773600000",
       "title": "Sécheresse, canicules : faut-il s'inquiéter pour les arbres ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5682,7 +5733,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1786773600000",
+      "id": "reporterre-rss-30-1786773600000",
       "title": "« Nous ne capitulerons pas » : 30 ans de bataille contre les déchets nucléaires",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5706,7 +5757,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1786773600000",
+      "id": "reporterre-rss-31-1786773600000",
       "title": "Sécheresse : ils créent des « bars à eau improvisés » chez eux pour sauver oiseaux ou écureuils",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5880,7 +5931,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-31-1786717573000",
+      "id": "reporterre-rss-32-1786717573000",
       "title": "Le Conseil constitutionnel valide la loi d'urgence agricole, dont le retour de l'acétamipride",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5906,7 +5957,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1786717158000",
+      "id": "reporterre-rss-33-1786717158000",
       "title": "Des étés toujours plus chauds : visualisez l'explosion des températures depuis 40 ans",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5932,7 +5983,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1786712042000",
+      "id": "reporterre-rss-34-1786712042000",
       "title": "Un nouvel incendie dans les Landes, plus de 1 000 hectares brûlés en 24 heures",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5958,7 +6009,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1786711302000",
+      "id": "reporterre-rss-35-1786711302000",
       "title": "Chutes de pierres : le mont Blanc fragilisé par les fortes chaleurs et déjà trois alpinistes tués",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5984,7 +6035,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1786709652000",
+      "id": "reporterre-rss-36-1786709652000",
       "title": "Un maire menace de démissionner face à un projet de stockage par batteries lithium",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6010,7 +6061,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1786709281000",
+      "id": "reporterre-rss-37-1786709281000",
       "title": "18 jours : la vague de chaleur actuelle est plus longue que celle de 2003",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6036,7 +6087,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1786705909000",
+      "id": "reporterre-rss-38-1786705909000",
       "title": "Canicule : les orages prévus ce weekend vont-ils être violents ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6062,7 +6113,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1786690012000",
+      "id": "reporterre-rss-39-1786690012000",
       "title": "25 °C au robinet : les vagues de chaleur pourraient favoriser la légionellose",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6087,7 +6138,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1786683600000",
+      "id": "reporterre-rss-40-1786683600000",
       "title": "Votre commune a-t-elle battu son record de chaleur cet été ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6438,7 +6489,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-40-1786645685000",
+      "id": "reporterre-rss-41-1786645685000",
       "title": "« On a rayé des cartes les petits cours d'eau, et la sécheresse s'est répandue »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6464,7 +6515,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1786632940000",
+      "id": "reporterre-rss-42-1786632940000",
       "title": "Irriguer les vignes ? « Une course à l'échalote » face aux canicules",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6490,7 +6541,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1786631943000",
+      "id": "reporterre-rss-43-1786631943000",
       "title": "« Un coupe-feu naturel » : quand les pratiques paysannes freinent les incendies",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6515,7 +6566,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1786629498000",
+      "id": "reporterre-rss-44-1786629498000",
       "title": "Énergie solaire : une production en forte hausse durant les canicules",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6541,7 +6592,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1786625644000",
+      "id": "reporterre-rss-45-1786625644000",
       "title": "Les États-Unis ont censuré un rapport sur l'état de l'Arctique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6565,7 +6616,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1786623969000",
+      "id": "reporterre-rss-46-1786623969000",
       "title": "L'IA stimule l'industrie pétrolière et booste ses bénéfices",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6591,7 +6642,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1786606667000",
+      "id": "reporterre-rss-47-1786606667000",
       "title": "Au Mont-Saint-Michel, des millions de touristes, un mariage d'ultrariches et des phoques en détresse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6616,7 +6667,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1786606229000",
+      "id": "reporterre-rss-48-1786606229000",
       "title": "Chaleur, manque d'eau, méduses : l'énergie nucléaire devient impilotable",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6642,7 +6693,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1786602673000",
+      "id": "reporterre-rss-49-1786602673000",
       "title": "Les réseaux sociaux banalisent l'adoption d'un animal sauvage, le trafic explose",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6948,7 +6999,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1786550129000",
+      "id": "reporterre-rss-50-1786550129000",
       "title": "« Ni ici, ni ailleurs » : une nouvelle bataille s'ouvre sur l'ex-zad de Notre-Dame-des-Landes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6974,7 +7025,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1786547954000",
+      "id": "reporterre-rss-51-1786547954000",
       "title": "« Grenouille du café » : une nouvelle espèce a été découverte",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7000,7 +7051,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1786545115000",
+      "id": "reporterre-rss-52-1786545115000",
       "title": "Sécheresse : des coupures d'eau chez 40 000 personnes en France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7026,7 +7077,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1786544473000",
+      "id": "reporterre-rss-53-1786544473000",
       "title": "« On nous enlève un des seuls lieux de nature » : les berges d'un lac fermées en pleine canicule",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7052,7 +7103,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1786540083000",
+      "id": "reporterre-rss-54-1786540083000",
       "title": "Éclipse solaire : l'État avait prédit la pénurie de lunettes, sans s'en préoccuper",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7078,7 +7129,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1786538730000",
+      "id": "reporterre-rss-55-1786538730000",
       "title": "Le gouvernement en passe de réautoriser la chasse de la tourterelle des bois et du fuligule milouin",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7104,7 +7155,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1786530873000",
+      "id": "reporterre-rss-56-1786530873000",
       "title": "Nouvelle vague de chaleur : 92 millions d'Européens exposés à plus de 35 °C mercredi",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7129,7 +7180,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1786523244000",
+      "id": "reporterre-rss-57-1786523244000",
       "title": "Cactus et succulentes : quand la passion mène à l'illégalité",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7155,7 +7206,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1786518892000",
+      "id": "reporterre-rss-58-1786518892000",
       "title": "Le Canada brûle, son Premier ministre mise sur le pétrole (et prend l'avion pour des vacances en Italie)",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7179,7 +7230,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-58-1786510800000",
+      "id": "reporterre-rss-59-1786510800000",
       "title": "« On ne peut rien faire face à 40 °C » : l'agro-industrie paie le prix fort du dérèglement climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7429,32 +7480,6 @@
         "Bâtiment"
       ],
       "summary": "La décarbonation des chantiers constitue un levier de la transition écologique du secteur de la construction. L'évolution des matériels, des équipements et des modes de production participe aux enjeux de réduction des émissions de gaz à effet de serre et d'amélioration de la qual…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1786464122000",
-      "title": "Nucléaire : 3 réacteurs arrêtés... par des méduses",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Nucleaire-3-reacteurs-arretes-par-des-meduses",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/medusess-a91ff.jpg?1786464125",
-      "date": "2026-08-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Des méduses antinucléaires ? Le 10 août, le groupe EDF a annoncé sur son site l'arrêt de trois réacteurs de la centrale nucléaire de Gravelines (Nord). Le coupable : un afflux massif de méduses dans les stations de pompage d'eau de la mer du Nord, qui refroidissent la centrale. U…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9936,7 +9961,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-2-1785456000000",
+      "id": "connaissance-des-energies-rss-3-1785456000000",
       "title": "Une sélection d'articles à relire pour un été 2026 plein d'énergie",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -10454,7 +10479,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-3-1785369600000",
+      "id": "connaissance-des-energies-rss-4-1785369600000",
       "title": "Voitures électriques : un niveau record de ventes dans 50 pays au 2e trimestre",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -10813,7 +10838,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-4-1785283200000",
+      "id": "connaissance-des-energies-rss-5-1785283200000",
       "title": "Les feux de forêt menacent-ils les installations gazières ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -11287,7 +11312,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-5-1785196800000",
+      "id": "connaissance-des-energies-rss-6-1785196800000",
       "title": "Carburants : quel prix sur la route des vacances dans les 27 pays de l’UE ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -11607,7 +11632,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-6-1785110400000",
+      "id": "connaissance-des-energies-rss-7-1785110400000",
       "title": "Impacts de l’IA générative : l’Ademe appelle à la « vigilance »",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -12582,7 +12607,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-7-1784764800000",
+      "id": "connaissance-des-energies-rss-8-1784764800000",
       "title": "Plus d'électricité produite en 2026… y compris à partir des énergies fossiles",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -12606,7 +12631,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-8-1784764800000",
+      "id": "connaissance-des-energies-rss-9-1784764800000",
       "title": "Énergies renouvelables : les dernières statistiques par filière et par zone géographique",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -13189,7 +13214,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-9-1784678400000",
+      "id": "connaissance-des-energies-rss-10-1784678400000",
       "title": "Hydrogène décarboné par électrolyse : le gouvernement annonce 3 projets lauréats",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -13679,7 +13704,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-10-1784592000000",
+      "id": "connaissance-des-energies-rss-11-1784592000000",
       "title": "Le solaire a fourni un quart de l'électricité dans l'UE au mois de juin",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -16151,7 +16176,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-11-1783987200000",
+      "id": "connaissance-des-energies-rss-12-1783987200000",
       "title": "Empreinte carbone des vacances : comment aider les touristes à laisser leur voiture au garage ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -16569,7 +16594,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "connaissance-des-energies-rss-12-1783641600000",
+      "id": "connaissance-des-energies-rss-13-1783641600000",
       "title": "Leasing social des pompes à chaleur : le pari d'une nouvelle économie de l'électrification",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -16594,7 +16619,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-13-1783641600000",
+      "id": "connaissance-des-energies-rss-14-1783641600000",
       "title": "Stockage d'électricité : « la batterie à eau » bat de nouveaux records",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -16955,7 +16980,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "connaissance-des-energies-rss-14-1783555200000",
+      "id": "connaissance-des-energies-rss-15-1783555200000",
       "title": "Chèque énergie : le vrai sujet n'est plus seulement l'aide, mais son accès",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -16979,7 +17004,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-15-1783555200000",
+      "id": "connaissance-des-energies-rss-16-1783555200000",
       "title": "Le Québec publie son premier Plan de gestion intégrée des ressources énergétiques",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -17003,7 +17028,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-16-1783555200000",
+      "id": "connaissance-des-energies-rss-17-1783555200000",
       "title": "Les émissions de GES au premier trimestre",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -17573,7 +17598,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-17-1783468800000",
+      "id": "connaissance-des-energies-rss-18-1783468800000",
       "title": "Tarification dynamique : « une opportunité pour profiter des prix négatifs »",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -17599,7 +17624,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-18-1783468800000",
+      "id": "connaissance-des-energies-rss-19-1783468800000",
       "title": "Que deviennent les fûts de déchets radioactifs immergés dans l'Atlantique dans les années 1970 et 1980 ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -18577,7 +18602,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "connaissance-des-energies-rss-19-1782950400000",
+      "id": "connaissance-des-energies-rss-20-1782950400000",
       "title": "Exportations d'électricité : nouveau record battu au 1ᵉʳ semestre 2026",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -18815,7 +18840,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "connaissance-des-energies-rss-20-1782864000000",
+      "id": "connaissance-des-energies-rss-21-1782864000000",
       "title": "Infrastructures gazières : quels coûts futurs pour un nombre de consommateurs en baisse ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
