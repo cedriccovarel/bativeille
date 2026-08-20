@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-20T15:38:48.608Z",
+  "generatedAt": "2026-08-20T20:33:36.149Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2781,6 +2781,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "oreo-bretagne-sitemap-128-1787221201000",
+      "title": "mission adaptation climat lobservatoire lenvironnement bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/changement-climatique/article/mission-adaptation-climat-lobservatoire-lenvironnement-bretagne",
+      "image": null,
+      "date": "2026-08-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "adeus-strasbourg-rss-0-1787218890000",
       "title": "Observatoire local des loyers du Bas-Rhin résultats 2025 : périmètre Eurométropole de Strasbourg",
       "source": "ADEUS Strasbourg",
@@ -2985,7 +3008,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "reporterre-rss-2-1787229673000",
-      "title": "« Pour des écologies décoloniales, refusons la ruée vers l'or noir »",
+      "title": "Hydrocarbures dans les outre-mer : « l'attrait des ressources fossiles est en contradiction avec l'idée même d'une décolonisation »",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -3646,7 +3669,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1787240303000",
+      "id": "le-commerce-du-bois-sitemap-0-1787258003000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3672,7 +3695,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1787240303000",
+      "id": "le-commerce-du-bois-sitemap-1-1787258003000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3698,7 +3721,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1787240303000",
+      "id": "le-commerce-du-bois-sitemap-2-1787258003000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3724,7 +3747,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-1-1787234400000",
+      "id": "acteurs-publics-sitemap-1-1787242560000",
+      "title": "budget 2027 le gouvernement alerte sur le casse tete qu engendrerait une loi speciale au sein de letat",
+      "source": "Acteurs Publics",
+      "sourceId": "acteurs-publics",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://acteurspublics.fr/articles/budget-2027-le-gouvernement-alerte-sur-le-casse-tete-qu-engendrerait-une-loi-speciale-au-sein-de-letat/",
+      "image": null,
+      "date": "2026-08-20",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Politiques publiques",
+        "Collectivités",
+        "Transition",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "acteurs-publics-sitemap-2-1787234400000",
       "title": "des lannee prochaine la plateforme des donnees de sante pourra raccourcir les delais dacces",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3748,7 +3796,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-2-1787234040000",
+      "id": "acteurs-publics-sitemap-3-1787234040000",
       "title": "comment le health data hub change de cap pour renouer avec sa promesse initiale",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3772,7 +3820,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-3-1787235360000",
+      "id": "acteurs-publics-sitemap-4-1787235360000",
       "title": "piratage informatique de letat pour reprendre la main sebastien lecornu ressort le commando cyber du placard",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3796,7 +3844,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-4-1787231400000",
+      "id": "acteurs-publics-sitemap-5-1787231400000",
       "title": "fonction publique en dix ans les primes sont devenues le principal outil salarial de letat",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3820,7 +3868,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-5-1787226960000",
+      "id": "acteurs-publics-sitemap-6-1787226960000",
       "title": "recrutement dans la police le conseil detat juge que la seule presence dune marque religieuse sur le front ne caracterise pas un manquement a la neutralite",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3844,7 +3892,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-6-1787226120000",
+      "id": "acteurs-publics-sitemap-7-1787226120000",
       "title": "le salaire net moyen des enseignants a augmente de 64 en 2024 en euros constants",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3868,7 +3916,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-7-1787225880000",
+      "id": "acteurs-publics-sitemap-8-1787225880000",
       "title": "immobilier de letat services publics inclusion",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3892,7 +3940,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-8-1787223960000",
+      "id": "acteurs-publics-sitemap-9-1787223960000",
       "title": "le gouvernement renforce linstitution departementale des ars sur fond de reduction des moyens",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -3916,7 +3964,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-9-1787219640000",
+      "id": "acteurs-publics-sitemap-10-1787219640000",
       "title": "corruption le gouvernement souhaite durcir les controles dans les administrations de letat",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5046,7 +5094,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-10-1787143920000",
+      "id": "acteurs-publics-sitemap-11-1787143920000",
       "title": "exclusif un rapport confidentiel evoquant la suppression du concours externe de insp agite la haute fonction publique",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5070,7 +5118,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-11-1787142420000",
+      "id": "acteurs-publics-sitemap-12-1787142420000",
       "title": "tableau davancement dans la fonction publique le conseil detat rappelle que lordre alphabetique ne peut remplacer le classement au merite",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5095,7 +5143,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-12-1787136720000",
+      "id": "acteurs-publics-sitemap-13-1787136720000",
       "title": "cybersecurite services du premier ministre commande publique",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5119,7 +5167,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-13-1787146080000",
+      "id": "acteurs-publics-sitemap-14-1787146080000",
       "title": "letat contraint demprunter a un taux de 42 pour financer les politiques publiques",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5143,7 +5191,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-14-1787133960000",
+      "id": "acteurs-publics-sitemap-15-1787133960000",
       "title": "apres la cyberattaque de la dgfip des mesures durgence mais des questions qui demeurent",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5452,7 +5500,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://reporterre.net/A-Gaza-un-ecologue-marin-fait-avancer-la-science-malgre-la-guerre-Ecologue-marin-a-Gaza",
+      "url": "https://reporterre.net/Depuis-Gaza-cet-ecologue-marin-fait-avancer-la-science",
       "image": "https://reporterre.net/local/cache-vignettes/L700xH467/photo_3_-9da99.jpg?1787062632",
       "date": "2026-08-18",
       "access": "Gratuit",
@@ -5997,7 +6045,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-15-1787064360000",
+      "id": "acteurs-publics-sitemap-16-1787064360000",
       "title": "apres un faux depart la gouvernance sort la tete de leau",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6022,7 +6070,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-16-1787057220000",
+      "id": "acteurs-publics-sitemap-17-1787057220000",
       "title": "donnees de sante pourquoi ne les utilise t on pas plus",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -11353,7 +11401,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-24-1785354120000",
+      "id": "acteurs-publics-sitemap-25-1785354120000",
       "title": "les cadres sup du quai dorsay invites a mieux manager lalterite les equipes et leur propre depart",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -11826,7 +11874,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-17-1785240600000",
+      "id": "acteurs-publics-sitemap-18-1785240600000",
       "title": "orange et morrison projettent une plateforme francaise de data centers souverains",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12463,7 +12511,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-18-1784889480000",
+      "id": "acteurs-publics-sitemap-19-1784889480000",
       "title": "aurelie lapidus bercy demain nest pas un simple projet immobilier mais une veritable demarche de transformation",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12487,7 +12535,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-19-1784887860000",
+      "id": "acteurs-publics-sitemap-20-1784887860000",
       "title": "fonction publique teletravail managers hospitaliers",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12511,7 +12559,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-20-1784887500000",
+      "id": "acteurs-publics-sitemap-21-1784887500000",
       "title": "52 des cadres superieurs de letat formes a la transition ecologique",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12535,7 +12583,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-21-1784893620000",
+      "id": "acteurs-publics-sitemap-22-1784893620000",
       "title": "un referentiel commun de competences pour faire entrer la transformation dans les ecoles de service public",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12559,7 +12607,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-22-1784894100000",
+      "id": "acteurs-publics-sitemap-23-1784894100000",
       "title": "ia les ministeres passent de lexperimentation a la rationalisation",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12583,7 +12631,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-23-1784885160000",
+      "id": "acteurs-publics-sitemap-24-1784885160000",
       "title": "dans la fonction publique une rentree sociale sous tension avant les elections professionnelles de decembre",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12607,7 +12655,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-25-1784892660000",
+      "id": "acteurs-publics-sitemap-26-1784892660000",
       "title": "amenagement du territoire les prealables dune relance strategique",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12631,7 +12679,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-26-1784885280000",
+      "id": "acteurs-publics-sitemap-27-1784885280000",
       "title": "la revue de presse internationale 8",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -12655,7 +12703,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-27-1784876700000",
+      "id": "acteurs-publics-sitemap-28-1784876700000",
       "title": "taux de promotion dgse ingenieurs quoi de neuf au jo cette semaine",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -13093,7 +13141,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-28-1784811600000",
+      "id": "acteurs-publics-sitemap-29-1784811600000",
       "title": "bataille feutree dans les inspections detat autour de lharmonisation des remunerations",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -13117,7 +13165,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-29-1784812560000",
+      "id": "acteurs-publics-sitemap-30-1784812560000",
       "title": "agences regionales de sante les prefets gagnent du terrain sur leur principal levier financier",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -13135,31 +13183,6 @@ window.BATIVEILLE_DATA = {
         "Politiques publiques",
         "Collectivités",
         "Transition"
-      ],
-      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "acteurs-publics-sitemap-30-1784804400000",
-      "title": "finances locales letat somme de revoir sa methode avant de reclamer de nouveaux efforts budget 2027",
-      "source": "Acteurs Publics",
-      "sourceId": "acteurs-publics",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://acteurspublics.fr/articles/finances-locales-letat-somme-de-revoir-sa-methode-avant-de-reclamer-de-nouveaux-efforts-budget-2027/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Politiques publiques",
-        "Collectivités",
-        "Transition",
-        "Eau"
       ],
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
@@ -14238,29 +14261,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Les Chiffres clés 2026 de l’observatoire de la mobilité t.moroni@urbal… lun 20/07/2026 - 14:19 Elle présente leur évolution dans le temps et les compare avec différents territoires de l'aire métropolitaine. La publication comporte une pochette introductive et se décline en quatre…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "oreo-bretagne-sitemap-194-1784560305000",
-      "title": "marees vertes lutte fuites azote bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/article/marees-vertes-lutte-fuites-azote-bretagne",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "aguram-metz-rss-0-1784535660000",
@@ -18439,7 +18439,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
