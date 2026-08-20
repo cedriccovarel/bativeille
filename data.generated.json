@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T20:34:10.024Z",
+  "generatedAt": "2026-08-20T01:25:53.913Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1787189137000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-08-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1787189137000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-08-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1787189137000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-08-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1787127000000",
       "title": "des ventes de substances actives concernent des produits de biocontrôle ou utilisables en agriculture biologique.",
       "source": "SDES — Données et études statistiques",
@@ -2187,7 +2265,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-0-1787140800000",
+      "id": "batiweb-rss-0-1787176800000",
+      "title": "Caisson de bureau : comment optimiser le rangement de son espace de travail ?",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/caisson-de-bureau-comment-optimiser-le-rangement-de-son-espace-de-travail-49161",
+      "image": "https://img.batiweb.com/repo-images/publi/49161/rocketlink_20aout26.jpg",
+      "date": "2026-08-19",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Eau"
+      ],
+      "summary": "Optimisez votre espace de travail grâce au caisson de bureau, pour garder vos documents classés à portée de main dans un environnement mieux organisé. Optimisez votre espace de travail grâce au caisson de bureau, pour garder vos documents classés à portée de main dans un environn…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-1-1787140800000",
       "title": "Végétalisation des bâtiments : effet de mode ou vraie réponse aux canicules ?",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2212,7 +2314,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-1-1787129400000",
+      "id": "batiweb-rss-2-1787129400000",
       "title": "Geberit table sur une légère croissance du bâtiment en Europe en 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2452,57 +2554,6 @@
       "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "novethic-rss-0-1787139948000",
-      "title": "Comment l'IA pourrait amplifier les risques de greenwashing dans les entreprises",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/intelligence-artificielle-grreenwashing-communication-entreprise",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/fileadmin/greenwashing-istock-150x150.jpg",
-      "date": "2026-08-19",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat"
-      ],
-      "summary": "Et si l'IA augmentait les risques de greenwashing ? - Crédit istock Et si la généralisation de l'intelligence artificielle (IA) augmentait les risques de greenwashing dans la communication des entreprises ? C'est l'alerte lancée par le cabinet de conseil KPMG dans une note d'anal…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novethic-rss-1-1787114802000",
-      "title": "Sécheresse, incendies : les entreprises au chevet des sinistrés, vrai déclic ou simple coup de com’ ?",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/environnement/climat/secheresse-incendies-les-entreprises-au-chevet-des-sinistres-coup-de-com-ou-elan-de-solidarite-sincere",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/08/secheresse-mais-@pexels-william-lucord-150x150.jpg",
-      "date": "2026-08-19",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "RE2020"
-      ],
-      "summary": "Selon Météo-France, jamais les sols n'ont été aussi secs en France depuis le début des mesures. @Pexels / William Lucord Sans attendre les annonces du gouvernement, deux géants de la distribution, Carrefour et Coopérative U ont pris les devants pour annoncer des mesures \"exceptio…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "reporterre-rss-0-1787155035000",
@@ -3072,7 +3123,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1787124300000",
+      "id": "enerzine-rss-0-1787177400000",
+      "title": "« Explosion » de trou noir atteint 300 000 années-lumière",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/explosion-de-trou-noir-atteint-300-000-annees-lumiere/192299-2026-08",
+      "image": null,
+      "date": "2026-08-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Une équipe de chercheurs a découvert que les vents générés par les trous noirs supermassifs sont 100 fois plus puissants qu’on ne le pensait auparavant, transportant de l’énergie sur environ 300 000 années-lumière. Cette découverte démontre que ces vents explosifs impactent le va…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1787124300000",
       "title": "Sophie Adenot, première astronaute Française à sortir dans l’espace depuis l’ISS",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3096,7 +3171,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1787121900000",
+      "id": "enerzine-rss-2-1787121900000",
       "title": "Land Rover Freelander revient, transformé en SUV électrifié sino-britannique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3120,7 +3195,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1787116200000",
+      "id": "enerzine-rss-3-1787116200000",
       "title": "Les neutrons ultrafroids ne disparaissent pas dans le monde miroir",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3145,7 +3220,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1787112600000",
+      "id": "enerzine-rss-4-1787112600000",
       "title": "Un additif pourrait accélérer la dégradation du PLA dans les composteurs domestiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3170,7 +3245,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1787109000000",
+      "id": "enerzine-rss-5-1787109000000",
       "title": "Transformer le nitrate en ammoniac avec la lumière du soleil et de l’or",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3344,84 +3419,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1787171635000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-08-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1787171635000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-08-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1787171635000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-08-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "acteurs-publics-sitemap-1-1787143920000",
       "title": "exclusif un rapport confidentiel evoquant la suppression du concours externe de insp agite la haute fonction publique",
       "source": "Acteurs Publics",
@@ -3569,7 +3566,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-2-1787059800000",
+      "id": "batiweb-rss-3-1787059800000",
       "title": "Canicule : comment organiser un chantier en période de fortes chaleurs ?",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -3834,58 +3831,6 @@
         "Bâtiment"
       ],
       "summary": "Canicules : le rôle de l’isolation et de l’inertie thermique des bâtiments pour se protéger contre la chaleur Gwen mar 18/08/2026 - 12:59 Les canicules successives de l’été 2026 et leurs victimes nous rappellent le manque d’adaptation du parc immobilier français au réchauffement …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novethic-rss-2-1787053537000",
-      "title": "Ethique de l’IA : \"Le sujet principal, c’est l’éducation\", Laurence Devillers",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/ethique-ia-sujet-principal-education-laurence-devillers",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/08/Design-sans-titre-10-150x150.png",
-      "date": "2026-08-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Réglementation"
-      ],
-      "summary": "Laurence Devillers, professeure en intelligence artificielle et éthique à Paris Sorbonne université, chercheuse au Laboratoire interdisciplinaire des sciences du numérique (LISN). @CCO L’IA générative occupe aujourd’hui tous les débats dans les entreprises, les investissements ma…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novethic-rss-3-1787028301000",
-      "title": "Méduses, sécheresse et canicules : l’été 2026 met à mal le parc nucléaire d'EDF",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/environnement/transition-energetique/meduses-secheresse-et-canicules-lete-2026-met-a-mal-le-parc-nucleaire-dedf",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/08/meduses-centrale-nucleaire-gravelines-@sameer-al-doumy-AFP-150x150.jpg",
-      "date": "2026-08-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Réglementation"
-      ],
-      "summary": "Des méduses jonchaient le rivage près de la centrale nucléaire de Gravelines, dans le nord de la France, le 12 août 2025. Sameer Al-Doumy/AFP Ce qui semblait exceptionnel semble d’ores et déjà devenir la norme. Mardi 11 août, alors que la France vivait son cinquième épisode canic…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4296,7 +4241,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787091000000",
+      "id": "enerzine-rss-6-1787091000000",
       "title": "La sonde Juno de la NASA mesure la température sous la surface de la lune volcanique de Jupiter",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4320,7 +4265,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787042517000",
+      "id": "enerzine-rss-7-1787042517000",
       "title": "France Rénov’ : en 2026, l’État pousse les ménages vers la rénovation globale",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4345,7 +4290,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787037600000",
+      "id": "enerzine-rss-8-1787037600000",
       "title": "Désindexation des retraites : Bercy relance une piste explosive pour le budget 2027",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4369,7 +4314,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1787029800000",
+      "id": "enerzine-rss-9-1787029800000",
       "title": "Drones DJI : triple exploit logistique et scientifique sur l’Everest",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4390,32 +4335,6 @@
         "Réglementation"
       ],
       "summary": "DJI a mené avec succès trois missions distinctes sur le mont Everest au printemps 2026, entre le versant sud népalais et le versant nord chinois. Livraison de matériel d’alpinisme, cartographie glaciaire et recherche atmosphérique : les drones FlyCart 100, Matrice 4E et EV50 ont …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1787026200000",
-      "title": "Transformer le dioxyde de carbone en une nouvelle génération de plastiques recyclables",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/transformer-le-dioxyde-de-carbone-en-une-nouvelle-generation-de-plastiques-recyclables/192238-2026-08",
-      "image": null,
-      "date": "2026-08-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Des chercheurs de l’Université d’État du Colorado ont mis au point un procédé pour transformer le dioxyde de carbone naturel et très stable en matériaux recyclables et hautes performances qui pourraient remplacer les plastiques actuels dans de nombreuses situations. Leur procédé …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4769,7 +4688,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-3-1786974900000",
+      "id": "batiweb-rss-4-1786974900000",
       "title": "Incendies : le gouvernement annonce des permis sous un mois pour reconstruire les maisons",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4793,7 +4712,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-4-1786957500000",
+      "id": "batiweb-rss-5-1786957500000",
       "title": "Mort sur le chantier du métro de Toulouse : enquête pour homicide involontaire",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4865,84 +4784,6 @@
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "novethic-rss-4-1786967123000",
-      "title": "Obsolescence programmée des jeux vidéos : bras de fer engagé entre Stop Killing Games et Bruxelles",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/stop-killing-games-mouvement-contre-obsolescence-programmee-jeux-video-retoque-bruxelles",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/07/jeux-video-Fredrick-Tendong-unsplash-150x150.png",
-      "date": "2026-08-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Confort d’été"
-      ],
-      "summary": "Des centaines de jeux vidéo ont déjà été désactivés, sans dédommagement des joueurs. @Fredrick Tendong / Unsplash C’est un revers pour l’association \"Stop Killing Games\". Soutenue par plus d’1,2 million de consommateurs européens, elle souhaitait contraindre l’Union européenne à …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novethic-rss-5-1786960363000",
-      "title": "Data centers, énergie verte, adaptation... qui gagnera la course aux milliards d’investissement dans les infrastructures ?",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/finance-durable/finance-verte/data-centers-energie-verte-adaptation-gagnera-course-milliards-investissement-infrastructures",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/07/Construction-infrastructure-@Tom-van-Dyck-Pexels-150x150.jpg",
-      "date": "2026-08-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Eau"
-      ],
-      "summary": "Les investissements dans de nouveaux centres de données devraient continuer d'augmenter jusqu'à la fin de la décennie, selon PwC. @Tom van Dyck Pexels Le chiffre a de quoi donner le tournis. Plus de 150 000 milliards de dollars (un peu plus de 130 000 milliards d’euros) devraient…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novethic-rss-6-1786941913000",
-      "title": "COP17 Désertification : la préservation des sols, enjeu de plus en plus critique pour les entreprises",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/environnement/biodiversite/cop17-desertification-preservation-sols-enjeu-critique-entreprises",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/fileadmin/secheresse-restrictions-d-usage-de-l-eau-arrosoir-interdiction-istock-Corazza-150x150.jpg",
-      "date": "2026-08-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "RE2020"
-      ],
-      "summary": "La COP17 Désertification va remettre le sujet de la santé des sols au centre des débats. iStock-Corazza La COP17 Désertification va-t-elle susciter un regain d’intérêt alors qu’elle se tient en plein cœur d’un été exceptionnel ? Lancée lors du sommet de la Terre de Rio en 1992, e…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "reporterre-rss-19-1786984643000",
@@ -5883,7 +5724,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-5-1786693500000",
+      "id": "batiweb-rss-6-1786693500000",
       "title": "Accident meurtrier dans un tunnel en construction en Inde",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7433,7 +7274,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-6-1786460700000",
+      "id": "batiweb-rss-7-1786460700000",
       "title": "Les prix de l'électricité explosent en Allemagne pendant l'éclipse",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7586,7 +7427,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-7-1786353000000",
+      "id": "batiweb-rss-8-1786353000000",
       "title": "La construction de la salle de bal de la Maison Blanche bloquée par la justice",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8189,84 +8030,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novethic-rss-7-1786107637000",
-      "title": "Une semaine de pause pour mieux repartir",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/environnement/climat/une-semaine-de-pause-pour-mieux-repartir",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/07/NEW-Template_Pas-de-cote-150x150.png",
-      "date": "2026-08-07",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Confort d’été"
-      ],
-      "summary": "Une semaine de pause pour Novethic. @CCO Du 10 au 16 août, Novethic fera une pause. Dans un été marqué par des canicules à répétition, des incendies XXL et des sécheresses inédites, cette décision peut sembler paradoxale. Car l'actualité, elle, ne s'arrête jamais. Les crises non …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novethic-rss-8-1786103116000",
-      "title": "\"L'économie ne peut plus se construire sur des actifs qui fondent\", Diego Landivar, économiste et anthropologue",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/economie-anthropocene-actifs-fondent-sentinelle-diego-landivar",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/08/Diego-Landivar-economiste-et-anthropologue-_-_Leconomie-ne-peut-plus-se-construire-sur-des-actifs-qui-fondent_-150x150.jpg",
-      "date": "2026-08-07",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Réglementation"
-      ],
-      "summary": "Diego Landivar, économiste et anthropologue : \"L'économie ne peut plus se construire sur des actifs qui fondent\". Vous vous intéressez depuis longtemps aux manières dont la transformation radicale de la planète, sous l'effet du réchauffement climatique mais aussi de la crise de l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novethic-rss-9-1786077946000",
-      "title": "Colombie : Nouveau président, nouvelle trajectoire pour la protection de l’environnement",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/environnement/colombie-nouveau-president-nouvelle-trajectoire-pour-la-protection-de-lenvironnement",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/08/AFP__20260730__C3M263K__v1__HighRes__ColombiaPoliticsPresser-150x150.jpg",
-      "date": "2026-08-07",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Eau"
-      ],
-      "summary": "Le nouveau président colombien, Abelardo de la Espriella, prendra ses fonctions ce vendredi 7 août 2026 (Photo by Luis ACOSTA / AFP) Le 21 juin dernier, la Colombie a basculé. Abelardo de la Espriella, candidat de l’extrême droite surnommé \"le Tigre\", admirateur revendiqué de Don…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-16-1786117303000",
       "title": "Une électrification trop lente coûtera cher prévient RTE",
       "source": "Révolution Énergétique",
@@ -8368,7 +8131,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-8-1786023000000",
+      "id": "batiweb-rss-9-1786023000000",
       "title": "Des taux d'intérêt encore en hausse au mois de juin",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8393,7 +8156,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-9-1786002900000",
+      "id": "batiweb-rss-10-1786002900000",
       "title": "Rénovation énergétique : un guide compile les recommandations des ABF",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8742,7 +8505,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-10-1785915900000",
+      "id": "batiweb-rss-11-1785915900000",
       "title": "Antin ouvre les négociations pour céder Idex à la banque JP Morgan",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8864,7 +8627,7 @@
       "collectMethod": "wordpress_api"
     },
     {
-      "id": "batiweb-rss-11-1785828600000",
+      "id": "batiweb-rss-12-1785828600000",
       "title": "Holcim se montre plus optimiste que prévu pour 2026 après un bon S1",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8888,7 +8651,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-12-1785815700000",
+      "id": "batiweb-rss-13-1785815700000",
       "title": "Vinci : carnet de commandes record pour la construction malgré un CA en baisse",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -9061,7 +8824,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-13-1785761700000",
+      "id": "batiweb-rss-14-1785761700000",
       "title": "Saint-Gobain enregistre une baisse de son chiffre d'affaires au S1 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -9085,7 +8848,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-14-1785745500000",
+      "id": "batiweb-rss-15-1785745500000",
       "title": "TotalEnergies rachète les activités renouvelables terrestres de Shell en Europe",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -9110,7 +8873,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-15-1785744000000",
+      "id": "batiweb-rss-16-1785744000000",
       "title": "Hydrodiff, expert en chauffage et climatisation, lance sa boutique en ligne",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -9668,7 +9431,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-16-1785509400000",
+      "id": "batiweb-rss-17-1785509400000",
       "title": "Bois de chauffage : les critères de qualité à connaître pour bien conseiller ses clients",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -9694,7 +9457,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-17-1785490200000",
+      "id": "batiweb-rss-18-1785490200000",
       "title": "Daikin étend sa gamme Altherma R-290 pour la rénovation énergétique des logements",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -10207,7 +9970,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-18-1785405600000",
+      "id": "batiweb-rss-19-1785405600000",
       "title": "« Condamnations exemplaires » à Orléans pour fraudes à la rénovation énergétique",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -10227,30 +9990,6 @@
         "Rénovation"
       ],
       "summary": "La cour d’appel d’Orléans a prononcé des peines de prison ferme dans une affaire de fraudes à la rénovation énergétique. Une condamnation contre trois dirigeants d'entreprises, visés par une enquête de la DGCCRF depuis 2023. La cour d’appel d’Orléans a prononcé des peines de pris…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-19-1785394800000",
-      "title": "Un bilan meilleur que prévu pour Sika sur la première moitié de 2026",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/industrie/sika-releve-previsions-bilan-s1-2026-croissance-2026-49142",
-      "image": "https://img.batiweb.com/repo-images/article/49142/sikaS12026.jpg",
-      "date": "2026-07-30",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Énergie"
-      ],
-      "summary": "La hausse enregistrée par Sika au 1er semestre 2026 est certes mitigée. Toutefois, les analystes notent des signaux positifs permettant à l'industriel de remonter ses objectifs de croissance en 2026. La hausse enregistrée par Sika au 1er semestre 2026 est certes mitigée. Toutefoi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
