@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-20T20:33:36.149Z",
+  "generatedAt": "2026-08-21T01:29:53.573Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1787275780000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-08-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1787275780000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-08-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1787275780000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-08-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1787212801000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -3366,7 +3444,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1787227800000",
+      "id": "enerzine-rss-0-1787263800000",
+      "title": "Texas A&M développe des nanorobots pour la récolte du lithium",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/texas-am-developpe-des-nanorobots-pour-la-recolte-du-lithium/192297-2026-08",
+      "image": null,
+      "date": "2026-08-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Une équipe de recherche de l’Université Texas A&M développe une nouvelle approche de l’extraction du lithium en utilisant de minuscules nanorobots nageant comme des poissons qui capturent les ions lithium de l’eau de mer. Soutenu par une subvention de 1 million de dollars du Dépa…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1787227800000",
       "title": "Éclipse lunaire du 28 août 2026 : un autre spectacle céleste à ne pas manquer à l’aube",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3390,7 +3494,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1787206500000",
+      "id": "enerzine-rss-2-1787206500000",
       "title": "En Pologne, Konotopie a inauguré la plus haute statue de la Vierge Marie d’Europe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3415,7 +3519,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1787202600000",
+      "id": "enerzine-rss-3-1787202600000",
       "title": "Revêtement superhydrophobe, robuste et biomimétique aux propriétés ignifuges et à l’excellente capacité d’auto-extinction",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3441,7 +3545,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1787199000000",
+      "id": "enerzine-rss-4-1787199000000",
       "title": "Biocapteurs souples, collants et extensibles : une meilleure connexion",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3465,7 +3569,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1787195400000",
+      "id": "enerzine-rss-5-1787195400000",
       "title": "Rendre les robots plus rapides grâce à l’anticipation",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3669,85 +3773,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1787258003000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-08-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1787258003000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-08-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1787258003000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-08-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "acteurs-publics-sitemap-1-1787242560000",
+      "id": "acteurs-publics-sitemap-1-1787265480000",
       "title": "budget 2027 le gouvernement alerte sur le casse tete qu engendrerait une loi speciale au sein de letat",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -4824,7 +4850,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787177400000",
+      "id": "enerzine-rss-6-1787177400000",
       "title": "« Explosion » de trou noir atteint 300 000 années-lumière",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4848,7 +4874,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787124300000",
+      "id": "enerzine-rss-7-1787124300000",
       "title": "Sophie Adenot, première astronaute Française à sortir dans l’espace depuis l’ISS",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4872,7 +4898,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787121900000",
+      "id": "enerzine-rss-8-1787121900000",
       "title": "Land Rover Freelander revient, transformé en SUV électrifié sino-britannique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4896,7 +4922,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1787116200000",
+      "id": "enerzine-rss-9-1787116200000",
       "title": "Les neutrons ultrafroids ne disparaissent pas dans le monde miroir",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4917,31 +4943,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "L’idée peut sembler relever de la science-fiction, mais elle a en réalité été avancée par des chercheurs renommés en physique théorique. Un soi-disant monde miroir pourrait exister parallèlement à notre réalité ordinaire, dans lequel chaque type de particule élémentaire aurait un…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1787112600000",
-      "title": "Un additif pourrait accélérer la dégradation du PLA dans les composteurs domestiques",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-additif-pourrait-accelerer-la-degradation-du-pla-dans-les-composteurs-domestiques/192226-2026-08",
-      "image": null,
-      "date": "2026-08-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "Des chercheurs de l’Université du Minnesota Twin Cities ont développé une nouvelle stratégie qui pourrait aider les plastiques compostables à se décomposer plus rapidement dans des conditions de compostage quotidiennes, réduisant ainsi le besoin d’installations industrielles spéc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11067,7 +11068,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ekopolis-sitemap-0-1785314239000",
+      "id": "ekopolis-sitemap-1-1785314239000",
       "title": "societe resiliente transition ecologique et cohesion sociale etudes de quelques",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -11090,7 +11091,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-40-1785313782000",
+      "id": "ekopolis-sitemap-41-1785313782000",
       "title": "guide amenagement et construction durable de lenseignement superieur de la recherche et",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -11114,7 +11115,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-59-1785314102000",
+      "id": "ekopolis-sitemap-60-1785314102000",
       "title": "les opportunites de developpement de leconomie sociale et solidaire dans la filiere du",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -11137,7 +11138,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-122-1785313963000",
+      "id": "ekopolis-sitemap-123-1785313963000",
       "title": "presentation programme sante ville amenagement durable",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -11160,7 +11161,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-217-1785316581000",
+      "id": "ekopolis-sitemap-218-1785316581000",
       "title": "guide construire sain ed 2013",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -11183,7 +11184,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-348-1785316517000",
+      "id": "ekopolis-sitemap-349-1785316517000",
       "title": "la biodiversite publications du ministere",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -11206,7 +11207,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-352-1785313612000",
+      "id": "ekopolis-sitemap-353-1785313612000",
       "title": "label ever espaces verts ecologiques pour la gestion ecologique des espaces verts",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -11229,7 +11230,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-365-1785316763000",
+      "id": "ekopolis-sitemap-366-1785316763000",
       "title": "de la nature en ville mais quelle idee",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
