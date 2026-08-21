@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T15:38:39.941Z",
+  "generatedAt": "2026-08-21T20:31:24.210Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2633,7 +2633,7 @@
     },
     {
       "id": "reporterre-rss-5-1787320914000",
-      "title": "Écologistes tiraillés, insoumis remontés à bloc : les militants face aux stratégies de leur parti",
+      "title": "Quelle union pour la gauche ? Ce qu'en pensent les militants écologistes et LFI aux universités d'été",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2737,7 +2737,7 @@
     },
     {
       "id": "reporterre-rss-9-1787300298000",
-      "title": "« On l'a retrouvé jeté dans une décharge » : déjà maltraités, les renards pourront de nouveau être chassés",
+      "title": "« On l'a retrouvé jeté dans une décharge » : déjà maltraités, classés nuisibles, les renards pourront encore être chassés",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2755,7 +2755,7 @@
         "Environnement",
         "Climat",
         "Réglementation",
-        "Eau"
+        "Biosourcé"
       ],
       "summary": "Alors que l'État vient de reconduire l'arrêté autorisant la chasse du renard, en Dordogne, un refuge prend le parti inverse : il en accueille et rappelle le rôle essentiel que joue l'espèce dans l'équilibre des écosystèmes. On l'a récupérée quand elle était bébé. Elle était attac…",
       "premiumSummary": "",
@@ -3426,7 +3426,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1787326708000",
+      "id": "le-commerce-du-bois-sitemap-0-1787344271000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3452,7 +3452,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1787326708000",
+      "id": "le-commerce-du-bois-sitemap-1-1787344271000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3478,7 +3478,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1787326708000",
+      "id": "le-commerce-du-bois-sitemap-2-1787344271000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3504,28 +3504,54 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1787319612000",
-      "title": "Qui sont les nouveaux baigneurs d’Île-de-France ?",
+      "id": "le-journal-du-grand-paris-rss-0-1787334482000",
+      "title": "Tour piéton du Grand Paris express : c’est (re)parti !",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
       "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/qui-sont-les-nouveaux-baigneurs-dile-de-france/",
+      "url": "https://www.lejournaldugrandparis.fr/tour-pieton-du-grand-paris-express-cest-reparti/",
       "image": null,
       "date": "2026-08-21",
       "access": "Accès gratuit partiel",
       "official": false,
-      "highImpact": true,
+      "highImpact": false,
       "impactScore": 96,
       "tags": [
         "Presse professionnelle",
         "Grand Paris",
         "Urbanisme",
         "Immobilier",
-        "Réglementation",
-        "Eau"
+        "Confort d’été",
+        "Bâtiment"
       ],
-      "summary": "Sur la Seine comme sur la Marne, les nouveaux espaces de baignade attirent des Parisiens, des familles et des touristes en quête de fraîcheur, de loisirs et d’un autre rapport au fleuve. Sur la Seine comme sur la Marne, les nouveaux espaces de baignade attirent des Parisiens, des…",
+      "summary": "La première des dix étapes du Tour piéton du Grand Paris express s'est déroulée vendredi 21 août entre Versailles-Chantiers et Trappes. Les randonnées, organisées par Enlarge your Paris et la Société des Grands Projets, avec le soutien de la Maison de l'Architecture Île-de-France…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1787331124000",
+      "title": "Fin des travaux d’été : les derniers chantiers avant la rentrée en Île-de-France",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/fin-des-travaux-dete-les-derniers-chantiers-avant-la-rentree-en-ile-de-france/",
+      "image": null,
+      "date": "2026-08-21",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Lancée à la fin du mois de juin, la campagne des travaux d'été entre dans sa dernière ligne droite sur le réseau francilien. Plus de 50 opérations ont été menées sur les lignes de métro, RER, tramway et trains. Plusieurs chantiers s'achèvent avant la rentrée, tandis que certaines…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4392,6 +4418,32 @@
       "collectMethod": "rss"
     },
     {
+      "id": "filiere-3e-rss-0-1787226767000",
+      "title": "J3e et Filière 3e partenaires du salon SIDO 2026 : les réponses à vos enjeux de production, transformation numérique et amélioration de process revient à Lyon les 16 et 17 septembre 2026",
+      "source": "Filière 3e",
+      "sourceId": "filiere-3e",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.filiere-3e.fr/2026/08/20/j3e-et-filiere-3e-partenaires-du-salon-sido-2026-les-reponses-a-vos-enjeux-de-production-transformation-numerique-et-amelioration-de-process-revient-a-lyon-les-16-et-17-septembre-2026/",
+      "image": null,
+      "date": "2026-08-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Électricité",
+        "CVC",
+        "Bâtiment intelligent",
+        "Énergie",
+        "Réglementation"
+      ],
+      "summary": "Pour sa 12e édition, SIDO, l'événement business en Auvergne-Rhône-Alpes dédié aux technologies IoT, Intelligence Artificielle, Robotique et Réalités Étendues, ouvre ses portes à la Cité Internationale de Lyon les 16 et 17 septembre 2026. Plus de 8 000 professionnels sont attendus…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "techniques-de-lingenieur-actualites-sitemap-22-1787235475000",
       "title": "articles",
       "source": "Techniques de l’Ingénieur Actualités",
@@ -4681,7 +4733,7 @@
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://reporterre.net/Une-bassine-construite-en-catimini-en-Normandie-Agriculteur-et-maire-il-construit-une",
+      "url": "https://reporterre.net/Personne-n-etait-au-courant-une-bassine-construite-en-catimini-en-Normandie",
       "image": "https://reporterre.net/local/cache-vignettes/L700xH467/img_0030-8a9b5.jpg?1787202000",
       "date": "2026-08-20",
       "access": "Gratuit",
@@ -7039,7 +7091,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1787059169000",
+      "id": "le-journal-du-grand-paris-rss-2-1787059169000",
       "title": "Clap de fin pour les Championnats d’Europe de natation",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7063,7 +7115,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1787058159000",
+      "id": "le-journal-du-grand-paris-rss-3-1787058159000",
       "title": "Paris se prépare à la visite du pape Léon XIV",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7645,7 +7697,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1786979649000",
+      "id": "le-journal-du-grand-paris-rss-4-1786979649000",
       "title": "Une reprise contrastée du tourisme en juillet",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7670,7 +7722,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1786979372000",
+      "id": "le-journal-du-grand-paris-rss-5-1786979372000",
       "title": "Soldes d’été 2026 : un bilan décevant pour les commerçants parisiens",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7691,6 +7743,32 @@
         "Confort d’été"
       ],
       "summary": "Le Centre régional d’observation du commerce, de l’industrie et des services (Crocis) de la CCI Paris Île-de-France a publié une enquête concernant les chiffres des soldes d’été 2026 à Paris. Celle-ci fait état d'un résultat décevant pour les commerçants, fortement pénalisés par …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-6-1786974012000",
+      "title": "Qui sont les nouveaux baigneurs d’Île-de-France ?",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/qui-sont-les-nouveaux-baigneurs-dile-de-france/",
+      "image": null,
+      "date": "2026-08-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Sur la Seine comme sur la Marne, les nouveaux espaces de baignade attirent des Parisiens, des familles et des touristes en quête de fraîcheur, de loisirs et d’un autre rapport au fleuve. Sur la Seine comme sur la Marne, les nouveaux espaces de baignade attirent des Parisiens, des…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9182,7 +9260,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1786189361000",
+      "id": "le-journal-du-grand-paris-rss-7-1786189361000",
       "title": "P. Hardouin (CEO d’Equans France) : « Nous préparons désormais des plans d’urgence climatique »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -10999,7 +11077,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1785542065000",
+      "id": "le-journal-du-grand-paris-rss-8-1785542065000",
       "title": "Incendies : la métropole du Grand Paris propose une enveloppe de 500 000 euros pour la reforestation",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -11025,7 +11103,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1785538790000",
+      "id": "le-journal-du-grand-paris-rss-9-1785538790000",
       "title": "Classement de Shanghaï 2026 : Sorbonne Université décroche, les trois autres universités franciliennes tiennent leur rang",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -11046,55 +11124,6 @@
         "Réglementation"
       ],
       "summary": "L'édition 2026 de l'Academic ranking of world universities (ARWU), le classement de Shanghaï, confirme la présence de quatre universités d'Île-de-France parmi les cent premières mondiales : Paris-Saclay, PSL, Sorbonne Université et Paris Cité. Aucun nouvel établissement francilie…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1785530628000",
-      "title": "La Caisse d’Épargne au secours de la forêt de Fontainebleau incendiée",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/la-caisse-depargne-au-secours-de-la-foret-de-fontainebleau-incendiee/",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau"
-      ],
-      "summary": "Le don de la Caisse d'Épargne Île-de-France en faveur du Fonds ONF-Agir pour la forêt de Fontainebleau financera la première étape de la reconstitution de la forêt après les incendies de très grande ampleur des 12 et 13 juillet, qui ont détruit 10 % de sa superficie. Le don de la…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1785517242000",
-      "title": "Les coulisses du Grand Paris",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-coulisses-du-grand-paris/",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % numérique. Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % n…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11317,7 +11346,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-0-1785403216000",
+      "id": "filiere-3e-rss-1-1785403216000",
       "title": "LES SOLUTIONS PROGRID NOMMEES AU GIT SECURITY AWARD 2026 : UNE NOUVELLE RECONNAISSANCE POUR MERSEN ET SES PROTECTIONS DES RESEAUX BASSE TENSION",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -12372,7 +12401,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-1-1785148115000",
+      "id": "filiere-3e-rss-2-1785148115000",
       "title": "MERSEN CONFIRME SA PERFORMANCE RSE AVEC UNE NOUVELLE PROGRESSION DE SON SCORE ECOVADIS",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -12392,7 +12421,7 @@
         "Bâtiment intelligent",
         "Énergie"
       ],
-      "summary": "La nouvelle évaluation EcoVadis de Mersen vient d'être dévoilée et montre une progression de son score par rapport à l’année dernière avec 77/100 (contre 75/100 en 2025). L’article MERSEN CONFIRME SA PERFORMANCE RSE AVEC UNE NOUVELLE PROGRESSION DE SON SCORE ECOVADIS est apparu e…",
+      "summary": "La nouvelle évaluation EcoVadis de Mersen vient d'être dévoilée et montre une progression de son score par rapport à l’année dernière avec 77/100 (contre 75/100 en 2025). The post MERSEN CONFIRME SA PERFORMANCE RSE AVEC UNE NOUVELLE PROGRESSION DE SON SCORE ECOVADIS appeared firs…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12740,7 +12769,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "filiere-3e-rss-2-1784877428000",
+      "id": "filiere-3e-rss-3-1784877428000",
       "title": "Sauter Vision Center 9.2 : de nouvelles fonctionnalités pour améliorer l’efficacité énergétique et la sécurité.",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -12761,7 +12790,7 @@
         "Énergie",
         "Bâtiment"
       ],
-      "summary": "SAUTER présente Sauter Vision Center 9.2, la nouvelle version de sa plateforme de gestion des bâtiments intelligents, conçue pour améliorer la performance énergétique, renforcer la cybersécurité et optimiser le pilotage des installations. L’article Sauter Vision Center 9.2 : de n…",
+      "summary": "SAUTER présente Sauter Vision Center 9.2, la nouvelle version de sa plateforme de gestion des bâtiments intelligents, conçue pour améliorer la performance énergétique, renforcer la cybersécurité et optimiser le pilotage des installations. The post Sauter Vision Center 9.2 : de no…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13225,8 +13254,8 @@
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-3-1784813005000",
-      "title": "BJÖRN TWIEHAUS NOMMÉ NOUVEAU CEO DU GROUPE WAGO",
+      "id": "filiere-3e-rss-4-1784813005000",
+      "title": "Björn Twiehaus nommé nouveau CEO du groupe Wago",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
       "sourceType": "Presse professionnelle",
@@ -13246,7 +13275,7 @@
         "Énergie",
         "Eau"
       ],
-      "summary": "Le groupe WAGO prépare son prochain chapitre de croissance : le 15 septembre, Björn Twiehaus (48 ans) prendra ses fonctions de Chief Executive Officer (CEO) de cette entreprise familiale basée à Minden. L’article BJÖRN TWIEHAUS NOMMÉ NOUVEAU CEO DU GROUPE WAGO est apparu en premi…",
+      "summary": "Le groupe WAGO prépare son prochain chapitre de croissance : le 15 septembre, Björn Twiehaus (48 ans) prendra ses fonctions de Chief Executive Officer (CEO) de cette entreprise familiale basée à Minden. The post Björn Twiehaus nommé nouveau CEO du groupe Wago appeared first on Fi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13664,7 +13693,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-4-1784707564000",
+      "id": "filiere-3e-rss-5-1784707564000",
       "title": "Les Écrans en verre Homematic IP pour la commande smart home centralisée désormais disponibles en versions sans fil",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -13684,7 +13713,7 @@
         "Bâtiment intelligent",
         "Énergie"
       ],
-      "summary": "Les Écrans en verre Homematic IP, du fabricant allemand eQ-3, sont désormais disponibles dans 2 versions sans fil dotées de nouvelles fonctions. L’article Les Écrans en verre Homematic IP pour la commande smart home centralisée désormais disponibles en versions sans fil est appar…",
+      "summary": "Les Écrans en verre Homematic IP, du fabricant allemand eQ-3, sont désormais disponibles dans 2 versions sans fil dotées de nouvelles fonctions. The post Les Écrans en verre Homematic IP pour la commande smart home centralisée désormais disponibles en versions sans fil appeared f…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -14591,7 +14620,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-5-1784559636000",
+      "id": "filiere-3e-rss-6-1784559636000",
       "title": "FD Éclairage enrichit ses gammes de mini-spots LED avec des modèles en laiton aux finitions Meljac",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -14616,7 +14645,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-6-1784542255000",
+      "id": "filiere-3e-rss-7-1784542255000",
       "title": "ABB va faire l’acquisition d’Advantics en France, renforçant son portefeuille de solutions en courant continu",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -14636,7 +14665,7 @@
         "Bâtiment intelligent",
         "Énergie"
       ],
-      "summary": "- Consolide la position d’ABB sur les technologies de référence pour les applications en courant continu L’article ABB va faire l’acquisition d’Advantics en France, renforçant son portefeuille de solutions en courant continu est apparu en premier sur Filière 3e. - Consolide la po…",
+      "summary": "- Consolide la position d’ABB sur les technologies de référence pour les applications en courant continu The post ABB va faire l’acquisition d’Advantics en France, renforçant son portefeuille de solutions en courant continu appeared first on Filière 3e. - Consolide la position d’…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -15192,7 +15221,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-7-1784292352000",
+      "id": "filiere-3e-rss-8-1784292352000",
       "title": "ADM21 distribue un nouvel adaptateur TRENDnet",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -15217,7 +15246,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-8-1784292156000",
+      "id": "filiere-3e-rss-9-1784292156000",
       "title": "ADM21 présente un nouveau détecteur de tension alternative",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -15238,33 +15267,7 @@
         "Énergie",
         "Eau"
       ],
-      "summary": "Les coupures de courant peuvent impacter les systèmes critiques, les processus industriels et le fonctionnement des onduleurs. Le détecteur de tension alternative TSV101 surveille la tension du réseau électrique afin de protéger les systèmes critiques. L’article ADM21 présente un…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "filiere-3e-rss-9-1784277121000",
-      "title": "DOSSIER – Industrie et compétitivité : performance énergétique, flexibilité, automatisation et robotique",
-      "source": "Filière 3e",
-      "sourceId": "filiere-3e",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.filiere-3e.fr/2026/07/17/dossier-industrie-et-competitivite-performance-energetique-flexibilite-automatisation-et-robotique/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Électricité",
-        "CVC",
-        "Bâtiment intelligent",
-        "Énergie",
-        "Réglementation"
-      ],
-      "summary": "Les sites industriels, petits ou grands, sont confrontés à la hausse brutale des coûts de l’énergie et des matières premières, à une pression concurrentielle accrue venant souvent de pays à bas coûts de main-d’œuvre, mais aussi aux exigences réglementaires ou normatives. Les solu…",
+      "summary": "Les coupures de courant peuvent impacter les systèmes critiques, les processus industriels et le fonctionnement des onduleurs. Le détecteur de tension alternative TSV101 surveille la tension du réseau électrique afin de protéger les systèmes critiques. The post ADM21 présente un …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
