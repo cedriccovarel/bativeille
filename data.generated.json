@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:29:06.930Z",
+  "generatedAt": "2026-08-22T15:26:01.732Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2391,7 +2391,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1787394531000",
+      "id": "le-commerce-du-bois-sitemap-0-1787412350000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2417,7 +2417,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1787394531000",
+      "id": "le-commerce-du-bois-sitemap-1-1787412350000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2443,7 +2443,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1787394531000",
+      "id": "le-commerce-du-bois-sitemap-2-1787412350000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4310,243 +4310,6 @@
         "Bâtiment"
       ],
       "summary": "Les réservations de logements neufs par les particuliers ont reculé de 4,8 % au deuxième trimestre 2026, à 16 112 unités, tandis que l’offre a progressé de 11,1 %. Les réservations de logements neufs par les particuliers ont reculé de 4,8 % au deuxième trimestre 2026, à 16 112 un…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-4-1787236827000",
-      "title": "Usine de dessalement à Mayotte&#8239;: le tribunal administratif suspend l'autorisation pour trois irrégularités",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/dessalement-mayotte-ironi-be-tribunal-suspension-48412.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48412_large.jpg",
-      "date": "2026-08-20",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Par une décision du 31&#8239;juillet&#8239;2026, le tribunal administratif de Mayotte a suspendu l'arrêté préfectoral du 3 juillet 2025 autorisant la construction de l'usine de dessalement d'Ironi Bé située sur la commune de Dembéni, et ... Par une décision du 31&#8239;juillet&#8…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-5-1787235929000",
-      "title": "Aide au renouvellement forestier : une nouvelle base juridique soumise à consultation du public",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/renouvellement-forestier-base-juridique-consultation-48411.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48411_large.jpg",
-      "date": "2026-08-20",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Redonner une base juridique au dispositif d'aide au renouvellement forestier. Tel est l'objet des projets de décret et d'arrêté que le ministère de la Transition écologique soumet à la consultation du public jusqu'au 31 août prochain. Face au suc... Redonner une base juridique au…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-6-1787232062000",
-      "title": "Réseau de distribution : Enedis publie un bilan des raccordements et une cartographie des zones saturées",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/enedis-bilan-raccordements-2025-reseau-sature-48410.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48410_large.jpg",
-      "date": "2026-08-20",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Le gestionnaire du réseau de distribution Enedis a publié, fin juillet, le bilan des raccordements pour l'année 2025. Ainsi, 584 000 opérations de raccordement et de mise en service ont été réalisées, « soit une opération toutes les 54 secondes »,... Le gestionnaire du réseau de …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-7-1787221728000",
-      "title": "Extension d'un parc éolien : l'étude d'impact doit porter sur l'état actuel de l'environnement",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/extension-parc-eolien-etude-impact-etat-actuel-48409.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48409_large.jpg",
-      "date": "2026-08-20",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Par un arrêt du 30&#8239;juillet&#8239;2026, le Conseil d'État a apporté des précisions quant à l'étude d'impact d'une extension d'un parc éolien. Pour la Haute juridiction, l'étude d'impact doit prendre en compte l'état actuel de l'envi... Par un arrêt du 30&#8239;juillet&#8239;…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-8-1787221503000",
-      "title": "Le chiffre du jour : 7 007 décès en excès",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/dit-aujourdhui/1823.html#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/interface/common/logo_standard_carre.jpg",
-      "date": "2026-08-20",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Confort d’été"
-      ],
-      "summary": "C’est le triste décompte réalisé durant la période du 17 juin au 22 juillet par Santé publique France, dont 5 764 du 17 juin au 2 juillet et 1 243 du 3 au 22 juillet. « Cet excès de mortalité [en juin ] toutes causes pendant un épisode de canicule... C’est le triste décompte réal…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-9-1787220879000",
-      "title": "Droits fondés en titre : les préfets ne peuvent les abroger",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/droits-fondes-titre-prefets-abrogation-decret-48407.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48407_large.jpg",
-      "date": "2026-08-20",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "Un décret, publié le 7 août au Journal officiel, supprime le pouvoir des préfets d'abroger un droit fondé en titre, droit d'usage de l'eau issu de l'Ancien Régime. La suppression de ce pouvoir, opérée par une modification de l'article R. 214-18-1... Un décret, publié le 7 août au…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-10-1787218688000",
-      "title": "Canicules : le système électrique européen sous tension",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/canicule-systeme-electrique-europeen-nucleaire-48408.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48408_large.jpg",
-      "date": "2026-08-20",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Face aux tensions sur le système électrique liées aux températures élevées persistantes et aux niveaux d'eau historiquement bas, la Commission européenne a réuni, le 19 août, le groupe de coordination pour l'électricité qui regroupe les États memb... Face aux tensions sur le syst…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-11-1787216400000",
-      "title": "La réparation du préjudice écologique pour pallier au manquement de l'État pour la protection des dauphins",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/prejudice-ecologique-cetaces-gascogne-tribunal-administratif-48406.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/commentaire/48406_large.jpg",
-      "date": "2026-08-20",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Par un jugement du 25 juin 2026, le tribunal administratif de Paris apporte des précisions sur la manière dont le juge administratif français aborde la question de la réparation du préjudice écologique. Par un jugement du 25 juin 2026, le tribunal administratif de Paris apporte d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-12-1787216320000",
-      "title": "Les ICPE mettant en oeuvre la galvanisation discontinue bientôt soumises à des prescriptions plus sévères",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/icpe-galvanisation-discontinue-prescriptions-arrete-48404.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48404_large.jpg",
-      "date": "2026-08-20",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Mettre en oeuvre les conclusions sur les meilleures techniques disponibles applicables à la galvanisation discontinue et assurer une application homogène de ces exigences sur l'ensemble du territoire. Tel est l'objectif du projet d'arrêté ministér... Mettre en oeuvre les conclusi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-13-1787215766000",
-      "title": "UE : les États pourront inscrire la sécurité énergétique dans les dépenses dérogatoires pour la défense",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/securite-energetique-clause-derogatoire-defense-ue-48405.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48405_large.jpg",
-      "date": "2026-08-20",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Dans une communication publiée le 18 août, la Commission européenne détaille les modalités selon lesquelles les États membres pourront demander l'extension du champ d'application de leur clause dérogatoire nationale existante pour la défense pour ... Dans une communication publié…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
