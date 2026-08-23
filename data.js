@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-22T20:28:39.374Z",
+  "generatedAt": "2026-08-23T01:39:13.174Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1787449126000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-08-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1787449126000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-08-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1787449126000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-08-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "reporterre-rss-0-1787384700000",
       "title": "L'eau manque ? Trois ouvrages pour comprendre cette précieuse ressource",
       "source": "Reporterre",
@@ -2290,7 +2368,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1787371800000",
+      "id": "enerzine-rss-0-1787436600000",
+      "title": "Le premier bras bionique entièrement intégré d’Australie",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/le-premier-bras-bionique-entierement-integre-daustralie/192804-2026-08",
+      "image": null,
+      "date": "2026-08-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Près de 24 millions de personnes dans le monde vivent avec une perte de membre supérieur, mais l’accès à des bras prothétiques efficaces reste limité. Dans les pays à revenu élevé, seulement environ la moitié des personnes ayant perdu un membre supérieur ont déjà essayé une proth…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1787371800000",
       "title": "Un patch portable vibre lorsqu’il détecte des dangers environnementaux",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2316,7 +2418,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1787368200000",
+      "id": "enerzine-rss-2-1787368200000",
       "title": "Un système de caméras piloté par IA offre un moyen peu coûteux de surveiller les bourdons",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2389,84 +2491,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Vingt informations suffisent à deviner si vous êtes enceinte, endetté ou infidèle. Vos clics, votre souris, vos silences : tout est vendu, souvent sans votre vrai consentement. Voici comment reprendre la main sur vos données. L’article 9 personnes sur 10 ne suppriment pas leurs d…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1787430504000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-08-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1787430504000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-08-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1787430504000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-08-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "batiweb-rss-0-1787319000000",
@@ -3407,7 +3431,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1787350200000",
+      "id": "enerzine-rss-3-1787350200000",
       "title": "Comment les « électrons chauds » peuvent remodeler les métaux en picosecondes ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3431,7 +3455,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1787326277000",
+      "id": "enerzine-rss-4-1787326277000",
       "title": "Solutions vertes en France : innovation, technologie et science pour un avenir durable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3456,7 +3480,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1787294700000",
+      "id": "enerzine-rss-5-1787294700000",
       "title": "Photovoltaïque en toiture : l’essor des installations industrielles et agricoles ravive la question des risques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3482,7 +3506,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787289000000",
+      "id": "enerzine-rss-6-1787289000000",
       "title": "Un chercheur aide à développer un spray économique pour les tomates en sols salins",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3507,7 +3531,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787285400000",
+      "id": "enerzine-rss-7-1787285400000",
       "title": "Des ingénieurs du MIT conçoivent un fil élastique recyclable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3533,7 +3557,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787281800000",
+      "id": "enerzine-rss-8-1787281800000",
       "title": "Une antenne extensible maintient les capteurs de santé portables en phase avec la santé humaine",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5025,7 +5049,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1787263800000",
+      "id": "enerzine-rss-9-1787263800000",
       "title": "Texas A&M développe des nanorobots pour la récolte du lithium",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5047,30 +5071,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Une équipe de recherche de l’Université Texas A&M développe une nouvelle approche de l’extraction du lithium en utilisant de minuscules nanorobots nageant comme des poissons qui capturent les ions lithium de l’eau de mer. Soutenu par une subvention de 1 million de dollars du Dépa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1787227800000",
-      "title": "Éclipse lunaire du 28 août 2026 : un autre spectacle céleste à ne pas manquer à l’aube",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/eclipse-lunaire-28-aout-2026-horaires-france/192901-2026-08",
-      "image": null,
-      "date": "2026-08-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Points clés de l’éclipse lunaire du 28 août 2026 Qui n’a pas encore en mémoire la magnifique éclipse solaire du 12 août dernier ? Cette fois, dans la nuit du 27 au 28 août 2026, le ciel offrira un spectacle différent, aussi rare que saisissant. Il s’agit d’une éclipse lunaire par…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7079,32 +7079,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "capeb-rss-0-1786961525000",
-      "title": "RELANCE : Journées Portes Ouvertes « Very Wood Métiers # Si vous cherchez du bouleau, y’en a dans les bois » 2026",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/relance-journees-portes-ouvertes-very-wood-metiers-si-vous-cherchez-du-bouleau-y-en-a-dans-les-bois-2026",
-      "image": "https://www.capeb.fr/www/capeb/media/vwm-2026-banniere-600x300.jpg",
-      "date": "2026-08-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment",
-        "Réglementation",
-        "Eau",
-        "Biosourcé"
-      ],
-      "summary": "Ensemble, mobilisons-nous pour valoriser les métiers de l’artisanat du bâtiment et attirer de nouveaux talents ! Ensemble, mobilisons-nous pour valoriser les métiers de l’artisanat du bâtiment et attirer de nouveaux talents ! RELANCE : Journées Portes Ouvertes « Very Wood Métiers…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "batiweb-rss-7-1786974900000",
@@ -11473,6 +11447,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "batylab-sitemap-0-1785336040000",
+      "title": "actualites",
+      "source": "Batylab",
+      "sourceId": "batylab",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Bretagne",
+      "url": "https://www.batylab.bzh/actualites",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "Bretagne",
+        "REX"
+      ],
+      "summary": "Publication détectée dans le sitemap de Batylab. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "verre-protections-magazine-rss-4-1785357659000",
       "title": "Filière REP pour les emballages professionnels : mise en oeuvre opérationnelle de la filière à partir du 1er janvier 2027",
       "source": "Verre & Protections Magazine",
@@ -11597,32 +11594,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "capeb-rss-1-1785222916000",
-      "title": "Incendies : les dispositifs de soutien mobilisés pour les entreprises du bâtiment",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/incendies-les-dispositifs-de-soutien-mobilises-pour-les-entreprises-du-batiment",
-      "image": "https://www.capeb.fr/www/capeb/media/national/visuel-incendie.jpg",
-      "date": "2026-07-28",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment",
-        "Confort d’été",
-        "Réemploi",
-        "Bâtiment"
-      ],
-      "summary": "Face aux incendies qui touchent notamment la Gironde, les Landes et le Var, de nombreuses entreprises artisanales du bâtiment voient leur activité fortement perturbée, voire interrompue. Afin d'accompagner les professionnels concernés, plusieurs dispositifs de soutien ont été act…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "meteo-france-rss-6-1785237685000",
@@ -12486,52 +12457,6 @@ window.BATIVEILLE_DATA = {
         "Air"
       ],
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-8-1784903873000",
-      "title": "habitat modes de vie",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/habitat-modes-de-vie/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-12-1784903873000",
-      "title": "publication",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -13925,30 +13850,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "La part du solaire photovoltaïque dans la production d'électricité de l'Union européenne a atteint un niveau record de 25 % au mois de juin, selon le think tank Ember. La part du solaire photovoltaïque dans la production d&#039;électricité de l&#039;Union européenne a atteint un …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "capeb-rss-2-1784559761000",
-      "title": "CAPEB, IRIS-ST, CNATP et OPPBTP unissent leurs forces pour faire des TPE la priorité de la prévention dans le bâtiment",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/capeb-iris-st-cnatp-et-oppbtp-unissent-leurs-forces-pour-faire-des-tpe-la-priorite-de-la-prevention-dans-le-batiment",
-      "image": "https://www.capeb.fr/www/capeb/media/national/presse-renovation-energetique-1-.png",
-      "date": "2026-07-20",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment",
-        "Bâtiment"
-      ],
-      "summary": "À l’occasion des Rencontres des Métiers du Bâtiment organisées par la CAPEB à Marseille, la CAPEB, la CNATP, l’IRIS-ST et l’OPPBTP ont signé une nouvelle convention de partenariat visant à renforcer l’accompagnement des très petites entreprises du bâtiment et des travaux publics …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -17657,29 +17558,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "aupa-pays-d-aix-sitemap-11-1783427061000",
-      "title": "prospective",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/prospective/",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "arec-nouvelle-aquitaine-rss-1-1783420380000",
       "title": "Les repères chiffrés 2026 de l’ORDEC : la publication disponible !",
       "source": "AREC Nouvelle-Aquitaine",
@@ -17916,53 +17794,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Territorialiser le réemploi : le Booster publie ses premières fiches territoires Le réemploi dans le bâtiment n’a plus besoin de prouver son intérêt environnemental. Les démonstrateurs existent, les retours d’expérience se multiplient, et la valeur environnementale du réemploi es…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "capeb-rss-3-1783346687000",
-      "title": "Rénovation énergétique : la CAPEB et Crédit Agricole Personal Finance & Mobility s’allient pour lever le frein du financement des travaux",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/renovation-energetique-la-capeb-et-credit-agricole-personal-finance-mobility-s-allient-pour-lever-le-frein-du-financement-des-travaux",
-      "image": "https://www.capeb.fr/www/capeb/media/national/sofinco.png",
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment",
-        "Bâtiment"
-      ],
-      "summary": "Paris, le 6 juillet 2026 — Alors que certains projets de rénovation énergétique restent bloqués faute de solution de financement immédiate, la Confédération de l’artisanat et des petites entreprises du bâtiment (CAPEB) et Crédit Agricole Personal Finance & Mobility, via sa marque…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "capeb-rss-4-1783328095000",
-      "title": "80 ans : l'anniversaire de notre collectif se prépare",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/80-ans-lanniversaire-de-notre-collectif-se-prepare",
-      "image": "https://www.capeb.fr/www/capeb/media/national/80-ans.jpg",
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Nos 80 ans d'histoire collective ont vocation à vivre toute l'année 2026, au-delà de la seule soirée anniversaire que nous préparons pour le 29 septembre prochain aux Folies Gruss. Nos 80 ans d'histoire collective ont vocation à vivre toute l'année 2026, au-delà de la seule soiré…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -18580,29 +18411,6 @@ window.BATIVEILLE_DATA = {
       "summary": "L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM. L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM . Les centres-villes face aux défis des transitions",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-6-1782901923000",
-      "title": "publications et animations",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/publications-et-animations/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "audiar-rennes-rss-3-1782913760000",
