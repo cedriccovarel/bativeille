@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-23T01:39:13.174Z",
+  "generatedAt": "2026-08-23T05:34:17.235Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,7 +2161,57 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
-      "id": "le-commerce-du-bois-sitemap-0-1787449126000",
+      "id": "enerzine-rss-0-1787458200000",
+      "title": "Un modèle d’IA détecte les signes cachés des éruptions solaires des heures avant leur émergence",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-modele-dia-detecte-les-signes-caches-des-eruptions-solaires-des-heures-avant-leur-emergence/192836-2026-08",
+      "image": null,
+      "date": "2026-08-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Bien avant que des taches solaires sombres n’apparaissent à la surface du Soleil, une nouvelle région active — d’où peuvent provenir de puissantes éruptions solaires — commence à montrer des signes subtils de sa formation. Aujourd’hui, des chercheurs affirment qu’un nouveau modèl…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1787454600000",
+      "title": "Lire les qubits plus vite et avec moins de matériel",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/lire-les-qubits-plus-vite-et-avec-moins-de-materiel/192807-2026-08",
+      "image": null,
+      "date": "2026-08-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Les ordinateurs quantiques traitent l’information d’une manière fondamentalement différente des ordinateurs classiques, en utilisant des bits quantiques, ou qubits, qui peuvent exister dans plusieurs états à la fois. Cela pourrait leur permettre de s’attaquer à des problèmes hors…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1787463235000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2187,7 +2237,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1787449126000",
+      "id": "le-commerce-du-bois-sitemap-1-1787463235000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2213,7 +2263,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1787449126000",
+      "id": "le-commerce-du-bois-sitemap-2-1787463235000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2368,7 +2418,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1787436600000",
+      "id": "enerzine-rss-2-1787436600000",
       "title": "Le premier bras bionique entièrement intégré d’Australie",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2392,7 +2442,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1787371800000",
+      "id": "enerzine-rss-3-1787371800000",
       "title": "Un patch portable vibre lorsqu’il détecte des dangers environnementaux",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2418,7 +2468,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1787368200000",
+      "id": "enerzine-rss-4-1787368200000",
       "title": "Un système de caméras piloté par IA offre un moyen peu coûteux de surveiller les bourdons",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3431,7 +3481,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1787350200000",
+      "id": "enerzine-rss-5-1787350200000",
       "title": "Comment les « électrons chauds » peuvent remodeler les métaux en picosecondes ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3455,7 +3505,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1787326277000",
+      "id": "enerzine-rss-6-1787326277000",
       "title": "Solutions vertes en France : innovation, technologie et science pour un avenir durable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3480,7 +3530,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787294700000",
+      "id": "enerzine-rss-7-1787294700000",
       "title": "Photovoltaïque en toiture : l’essor des installations industrielles et agricoles ravive la question des risques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3506,7 +3556,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787289000000",
+      "id": "enerzine-rss-8-1787289000000",
       "title": "Un chercheur aide à développer un spray économique pour les tomates en sols salins",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3531,7 +3581,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787285400000",
+      "id": "enerzine-rss-9-1787285400000",
       "title": "Des ingénieurs du MIT conçoivent un fil élastique recyclable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3553,31 +3603,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Les ingénieurs du MIT espèrent réduire la montagne croissante de déchets textiles dans le monde grâce à leur nouveau fil élastique recyclable. Fabriqué à partir de polyéthylène, une forme de plastique couramment utilisée pour les bouteilles de lait et les sacs d’épicerie, ce fil …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1787281800000",
-      "title": "Une antenne extensible maintient les capteurs de santé portables en phase avec la santé humaine",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/une-antenne-extensible-maintient-les-capteurs-de-sante-portables-en-phase-avec-la-sante-humaine/192393-2026-08",
-      "image": null,
-      "date": "2026-08-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Les moniteurs de santé portables sont conçus pour suivre les mouvements du corps. Mais pour de nombreux appareils, le mouvement pose problème : plus une personne se penche, s’étire, tend les bras ou court, plus il devient difficile pour l’appareil de maintenir une connexion sans …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5045,32 +5070,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Aux avant-postes de l’Atlantique, l’Île de Sein fait partie de ces territoires français qui ne profitent pas du mix très peu carboné de l’Hexagone. Pour […] L’article L’Île de Sein se décarbone grâce à une seule éolienne de 250 kW est apparu en premier sur Révolution Énergétique.…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1787263800000",
-      "title": "Texas A&M développe des nanorobots pour la récolte du lithium",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/texas-am-developpe-des-nanorobots-pour-la-recolte-du-lithium/192297-2026-08",
-      "image": null,
-      "date": "2026-08-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Une équipe de recherche de l’Université Texas A&M développe une nouvelle approche de l’extraction du lithium en utilisant de minuscules nanorobots nageant comme des poissons qui capturent les ions lithium de l’eau de mer. Soutenu par une subvention de 1 million de dollars du Dépa…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7079,6 +7078,32 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "capeb-rss-0-1786961525000",
+      "title": "RELANCE : Journées Portes Ouvertes « Very Wood Métiers # Si vous cherchez du bouleau, y’en a dans les bois » 2026",
+      "source": "CAPEB",
+      "sourceId": "capeb",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.capeb.fr/actualites/relance-journees-portes-ouvertes-very-wood-metiers-si-vous-cherchez-du-bouleau-y-en-a-dans-les-bois-2026",
+      "image": "https://www.capeb.fr/www/capeb/media/vwm-2026-banniere-600x300.jpg",
+      "date": "2026-08-17",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Artisanat",
+        "Rénovation",
+        "Économie du bâtiment",
+        "Réglementation",
+        "Eau",
+        "Biosourcé"
+      ],
+      "summary": "Ensemble, mobilisons-nous pour valoriser les métiers de l’artisanat du bâtiment et attirer de nouveaux talents ! Ensemble, mobilisons-nous pour valoriser les métiers de l’artisanat du bâtiment et attirer de nouveaux talents ! RELANCE : Journées Portes Ouvertes « Very Wood Métiers…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "batiweb-rss-7-1786974900000",
@@ -11596,6 +11621,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "capeb-rss-1-1785222916000",
+      "title": "Incendies : les dispositifs de soutien mobilisés pour les entreprises du bâtiment",
+      "source": "CAPEB",
+      "sourceId": "capeb",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.capeb.fr/actualites/incendies-les-dispositifs-de-soutien-mobilises-pour-les-entreprises-du-batiment",
+      "image": "https://www.capeb.fr/www/capeb/media/national/visuel-incendie.jpg",
+      "date": "2026-07-28",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Artisanat",
+        "Rénovation",
+        "Économie du bâtiment",
+        "Confort d’été",
+        "Réemploi",
+        "Bâtiment"
+      ],
+      "summary": "Face aux incendies qui touchent notamment la Gironde, les Landes et le Var, de nombreuses entreprises artisanales du bâtiment voient leur activité fortement perturbée, voire interrompue. Afin d'accompagner les professionnels concernés, plusieurs dispositifs de soutien ont été act…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "meteo-france-rss-6-1785237685000",
       "title": "Changement climatique : quel impact sur les vagues de chaleur ?",
       "source": "Météo-France",
@@ -12461,6 +12512,52 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "aupa-pays-d-aix-sitemap-8-1784903873000",
+      "title": "habitat modes de vie",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/category/publication/habitat-modes-de-vie/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "aupa-pays-d-aix-sitemap-12-1784903873000",
+      "title": "publication",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/category/publication/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "filiere-3e-rss-3-1784877428000",
       "title": "Sauter Vision Center 9.2 : de nouvelles fonctionnalités pour améliorer l’efficacité énergétique et la sécurité.",
       "source": "Filière 3e",
@@ -12483,30 +12580,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "SAUTER présente Sauter Vision Center 9.2, la nouvelle version de sa plateforme de gestion des bâtiments intelligents, conçue pour améliorer la performance énergétique, renforcer la cybersécurité et optimiser le pilotage des installations. The post Sauter Vision Center 9.2 : de no…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-0-1784880049000",
-      "title": "Mécénat de compétences : quand les entreprises mettent leurs salariés au service des associations",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/mecenat-de-competences-quand-les-entreprises-mettent-leurs-salaries-au-service-des-associations/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Prêter un salarié à une association, sur son temps de travail, pour qu’il y exerce les compétences qu’il exerce déjà en entreprise : c’est le principe du mécénat de compétences. Un dispositif consensuel, utile aux associations comme aux entreprises — mais qui reste marginal. Seul…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12972,32 +13045,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-1-1784790000000",
-      "title": "Comment Paris veut changer les règles du jeu de l’ESS",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/comment-paris-veut-changer-les-regles-du-jeu-de-less/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "« Nous ne pourrons pas compenser le désengagement de l’État. » Dès les premières minutes de son intervention, Amina Bouri, adjointe au maire de Paris en charge de l’économie sociale et solidaire, fixe les contours de son action : la Ville de Paris n’a pas les moyens de remplacer …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-38-1784818856000",
       "title": "Face à l’IA de Google, nous parions sur notre communauté",
       "source": "Révolution Énergétique",
@@ -13410,31 +13457,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-2-1784703600000",
-      "title": "Groupe SOS : nouvelle gouvernance, ambitions renforcées… et prise de position sans ambiguïté contre le RN",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/groupe-sos-nouvelle-gouvernance-ambitions-renforcees-et-prise-de-position-sans-ambiguite-contre-le-rn/",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Économie du bâtiment"
-      ],
-      "summary": "Quarante ans après sa création, le Groupe SOS poursuit sa transformation et amorce une nouvelle phase de son histoire. Engagé à l’origine dans la lutte contre le VIH et les addictions, il est devenu l’un des plus importants acteurs européens de l’économie sociale et solidaire, av…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-39-1784696696000",
       "title": "0,006 € le kilowattheure : la révision du tarif agent d’EDF fait débat",
       "source": "Révolution Énergétique",
@@ -13752,31 +13774,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-3-1784616900000",
-      "title": "150 ans après leur création, les colonies de vacances séduisent toujours… mais accueillent moins d’enfants",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/150-ans-apres-leur-creation-les-colonies-de-vacances-seduisent-toujours-les-francais-mais-accueillent-de-moins-en-moins-denfants/",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation"
-      ],
-      "summary": "Alors que s’ouvre la saison estivale, les colonies de vacances célèbrent leurs 150 ans. Bon anniversaire ! Ou pas… Car, plébiscitées par l’opinion publique et par les jeunes, elles voient leur fréquentation diminuer année après année. Un paradoxe qui interroge l’avenir des séjour…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-40-1784640827000",
       "title": "Panneaux solaires sur les rails : la SNCF réalise un premier test",
       "source": "Révolution Énergétique",
@@ -13850,6 +13847,30 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "La part du solaire photovoltaïque dans la production d'électricité de l'Union européenne a atteint un niveau record de 25 % au mois de juin, selon le think tank Ember. La part du solaire photovoltaïque dans la production d&#039;électricité de l&#039;Union européenne a atteint un …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "capeb-rss-2-1784559761000",
+      "title": "CAPEB, IRIS-ST, CNATP et OPPBTP unissent leurs forces pour faire des TPE la priorité de la prévention dans le bâtiment",
+      "source": "CAPEB",
+      "sourceId": "capeb",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.capeb.fr/actualites/capeb-iris-st-cnatp-et-oppbtp-unissent-leurs-forces-pour-faire-des-tpe-la-priorite-de-la-prevention-dans-le-batiment",
+      "image": "https://www.capeb.fr/www/capeb/media/national/presse-renovation-energetique-1-.png",
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Artisanat",
+        "Rénovation",
+        "Économie du bâtiment",
+        "Bâtiment"
+      ],
+      "summary": "À l’occasion des Rencontres des Métiers du Bâtiment organisées par la CAPEB à Marseille, la CAPEB, la CNATP, l’IRIS-ST et l’OPPBTP ont signé une nouvelle convention de partenariat visant à renforcer l’accompagnement des très petites entreprises du bâtiment et des travaux publics …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -14334,31 +14355,6 @@ window.BATIVEILLE_DATA = {
         "Énergie"
       ],
       "summary": "- Consolide la position d’ABB sur les technologies de référence pour les applications en courant continu The post ABB va faire l’acquisition d’Advantics en France, renforçant son portefeuille de solutions en courant continu appeared first on Filière 3e. - Consolide la position d’…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-4-1784543400000",
-      "title": "ESS France lance « ESS – L’économie en mieux » avec le soutien des Caisses d’Epargne",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/ess-france-lance-ess-leconomie-en-mieux-avec-le-soutien-des-caisses-depargne/",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Économie du bâtiment"
-      ],
-      "summary": "ESS France, la chambre représentative de l’Économie Sociale et Solidaire, a dévoilé « ESS – L’économie en mieux », une marque unique pour reconnaître l’ensemble des acteurs de l’ESS. Cette initiative, dont Caisse d’Epargne est partenaire premium, vise à apporter de la lisibilité …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -14940,30 +14936,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-5-1784271608000",
-      "title": "Comment Makesense forme les jeunes de quartiers populaires franciliens à agir pour l’écologie",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/former-les-jeunes-de-quartiers-populaires-franciliens-a-agir-pour-lecologie/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Le dernier rapport du GIEC rappelle que l’urgence climatique est l’une des principales préoccupations des moins de 25 ans. Mais dans les quartiers prioritaires de la politique de la ville, cette inquiétude s’accompagne pourtant d’un sentiment d’impuissance :👉 Les difficultés soc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-47-1784303878000",
       "title": "Cette startup inconnue veut imprimer des réacteurs nucléaires en 3D",
       "source": "Révolution Énergétique",
@@ -15372,31 +15344,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Les 8 et 9 octobre prochains, près de 250 chantiers et ateliers ouvriront exceptionnellement leurs portes dans toute la France. The post Les Coulisses du Bâtiment : Plongez dans le quotidien des chantiers ! appeared first on ACPresse. Les 8 et 9 octobre prochains, près de 250 cha…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-6-1784185200000",
-      "title": "Le café des familles : renforcer le pouvoir d’agir des parents en quartier prioritaire de la ville",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/le-cafe-des-familles-renforcer-le-pouvoir-dagir-des-parents-en-quartier-prioritaire-de-la-ville/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation"
-      ],
-      "summary": "[Podcast] Qui mieux qu’un habitant pour savoir ce qui manque dans son quartier ? C’est le pari qu’a fait 13 AVENIR dans le 13e arrondissement de Paris avec “Le Café des Familles”.L’association a réuni 12 salariés-habitants de son Entreprise à but d’Emploi pour co-construire, grâc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16031,31 +15978,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-7-1784097900000",
-      "title": "La France accouche enfin d’une stratégie nationale pour l’ESS, après un désaveu politique cinglant",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/la-france-accouche-enfin-dune-strategie-nationale-pour-less-apres-un-desaveu-politique-cinglant/",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Eau"
-      ],
-      "summary": "C’est un moment historique. Avec près de deux ans de retard, la France vient enfin de se doter de sa toute première « Stratégie nationale de développement de l’ESS ». Cocorico ! Sauf que les conditions d’adoption du document sont venues gâcher la fête : 42 abstentions sur 50 vota…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "fibois-france-rss-0-1784112260000",
       "title": "Fondation France Bois Forêt pour notre Patrimoine",
       "source": "Fibois France",
@@ -16158,32 +16080,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-8-1783926000000",
-      "title": "Prix Grande Cause 2026 : un accompagnement de 30 000 € pour faire grandir un projet d’intérêt général",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/prix-grande-cause-2026-un-accompagnement-de-30-000-e-pour-faire-grandir-un-projet-dinteret-general/",
-      "image": null,
-      "date": "2026-07-13",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Dans l’économie sociale et solidaire, les projets d’intérêt général ne manquent pas. En revanche, ils peinent à trouver les moyens de se faire connaître, de mobiliser de nouveaux soutiens ou de convaincre des partenaires financiers. Pourtant, au-delà de la qualité d’une action, s…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "urbalyon-rss-7-1783730920000",
       "title": "WEB TV Les rencontres ALIM AGRI inter Territoires : rejoignez-nous !",
       "source": "UrbaLyon",
@@ -16205,31 +16101,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "WEB TV Les rencontres ALIM AGRI inter Territoires : rejoignez-nous ! Anonyme (non vérifié) sam 11/07/2026 - 02:48 2022 - 0:15 Evolution des pratiques agricoles à Valeins 0:53 Outil des logistique et de transformation à Brignais et Mornant 1:44 ... Image couverture Texte chapeau T…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-9-1783753200000",
-      "title": "Hugues Sibille : « L’ESS va-t-elle réussir à changer la trajectoire du Titanic » ?",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/hugues-sibille-less-va-t-elle-reussir-a-changer-la-trajectoire-du-titanic-pour-construire-un-avenir-desirable/",
-      "image": null,
-      "date": "2026-07-11",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Économie du bâtiment"
-      ],
-      "summary": "Cinquante ans d’engagement pour l’économie sociale et solidaire. Une vie ! Dans le dernier épisode de l’émission “ESS On Air” de Mediatico (vidéo en fin d’article), nous recevons cette semaine Hugues Sibille. Figure historique de l’ESS française, ancien délégué interministériel à…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -17558,6 +17429,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "aupa-pays-d-aix-sitemap-11-1783427061000",
+      "title": "prospective",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/category/publication/prospective/",
+      "image": null,
+      "date": "2026-07-07",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "arec-nouvelle-aquitaine-rss-1-1783420380000",
       "title": "Les repères chiffrés 2026 de l’ORDEC : la publication disponible !",
       "source": "AREC Nouvelle-Aquitaine",
@@ -17794,6 +17688,53 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Territorialiser le réemploi : le Booster publie ses premières fiches territoires Le réemploi dans le bâtiment n’a plus besoin de prouver son intérêt environnemental. Les démonstrateurs existent, les retours d’expérience se multiplient, et la valeur environnementale du réemploi es…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "capeb-rss-3-1783346687000",
+      "title": "Rénovation énergétique : la CAPEB et Crédit Agricole Personal Finance & Mobility s’allient pour lever le frein du financement des travaux",
+      "source": "CAPEB",
+      "sourceId": "capeb",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.capeb.fr/actualites/renovation-energetique-la-capeb-et-credit-agricole-personal-finance-mobility-s-allient-pour-lever-le-frein-du-financement-des-travaux",
+      "image": "https://www.capeb.fr/www/capeb/media/national/sofinco.png",
+      "date": "2026-07-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Artisanat",
+        "Rénovation",
+        "Économie du bâtiment",
+        "Bâtiment"
+      ],
+      "summary": "Paris, le 6 juillet 2026 — Alors que certains projets de rénovation énergétique restent bloqués faute de solution de financement immédiate, la Confédération de l’artisanat et des petites entreprises du bâtiment (CAPEB) et Crédit Agricole Personal Finance & Mobility, via sa marque…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "capeb-rss-4-1783328095000",
+      "title": "80 ans : l'anniversaire de notre collectif se prépare",
+      "source": "CAPEB",
+      "sourceId": "capeb",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.capeb.fr/actualites/80-ans-lanniversaire-de-notre-collectif-se-prepare",
+      "image": "https://www.capeb.fr/www/capeb/media/national/80-ans.jpg",
+      "date": "2026-07-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Artisanat",
+        "Rénovation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Nos 80 ans d'histoire collective ont vocation à vivre toute l'année 2026, au-delà de la seule soirée anniversaire que nous préparons pour le 29 septembre prochain aux Folies Gruss. Nos 80 ans d'histoire collective ont vocation à vivre toute l'année 2026, au-delà de la seule soiré…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -18411,6 +18352,29 @@ window.BATIVEILLE_DATA = {
       "summary": "L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM. L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM . Les centres-villes face aux défis des transitions",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "aupa-pays-d-aix-sitemap-6-1782901923000",
+      "title": "publications et animations",
+      "source": "AUPA Pays d’Aix",
+      "sourceId": "aupa-pays-d-aix",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://aupa.fr/publications-et-animations/",
+      "image": null,
+      "date": "2026-07-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Aix",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "audiar-rennes-rss-3-1782913760000",
