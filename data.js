@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-23T10:29:26.292Z",
+  "generatedAt": "2026-08-23T15:28:35.797Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2162,7 +2162,7 @@ window.BATIVEILLE_DATA = {
   "articles": [
     {
       "id": "reporterre-rss-0-1787466959000",
-      "title": "Comment les oiseaux migrateurs affrontent-ils la sécheresse ?",
+      "title": "Comment les oiseaux migrateurs affrontent-ils la sécheresse ? Des naturalistes leur rendent visite en canoë",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2238,7 +2238,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1787458200000",
+      "id": "enerzine-rss-0-1787498400000",
+      "title": "Paiement sans contact : pourquoi faudrait-il détruire sans délai ses cartes bancaires périmées ?",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/cartes-perimees-paiement-sans-contact-zombies/193039-2026-08",
+      "image": null,
+      "date": "2026-08-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Des chercheurs américains viennent de mettre en lumière un comportement pour le moins surprenant. Il apparaît que certaines cartes bancaires expirées, notamment des Visa, resteraient utilisables pour des paiements sans contact dans des conditions bien précises. L’information bous…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1787458200000",
       "title": "Un modèle d’IA détecte les signes cachés des éruptions solaires des heures avant leur émergence",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2263,7 +2288,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1787454600000",
+      "id": "enerzine-rss-2-1787454600000",
       "title": "Lire les qubits plus vite et avec moins de matériel",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2364,7 +2389,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1787480952000",
+      "id": "le-commerce-du-bois-sitemap-0-1787498892000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2390,7 +2415,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1787480952000",
+      "id": "le-commerce-du-bois-sitemap-1-1787498892000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2416,7 +2441,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1787480952000",
+      "id": "le-commerce-du-bois-sitemap-2-1787498892000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2469,7 +2494,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "reporterre-rss-2-1787374800000",
-      "title": "« Il ne suffit pas d'avoir eu raison » : après un été apocalyptique, les Écologistes cherchent une boussole pour 2027",
+      "title": "« Il ne suffit pas d'avoir eu raison » : les Écologistes cherchent une boussole pour 2027",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2495,12 +2520,12 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "reporterre-rss-3-1787374800000",
-      "title": "Aux universités d'été, La France insoumise se présente comme le parti de l'écologie",
+      "title": "« Un discours autour de l'habitabilité de la planète » : la France insoumise se présente comme le parti de l'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://reporterre.net/Aux-universites-d-ete-La-France-insoumise-se-presente-comme-le-parti-de-l-ecologie",
+      "url": "https://reporterre.net/On-a-le-projet-ecologique-le-plus-consequent-aux-universites-d-ete-La-France-insoumise-se",
       "image": "https://reporterre.net/local/cache-vignettes/L700xH467/_c_stora_lfi-8_resized-47665.jpg?1787374801",
       "date": "2026-08-22",
       "access": "Gratuit",
@@ -2515,7 +2540,7 @@ window.BATIVEILLE_DATA = {
         "Eau",
         "Confort d’été"
       ],
-      "summary": "Dans la Drôme, les universités d'été des insoumis se poursuivent avec une affluence record de 7 000 inscrits et un discours renouvelé autour de la « bifurcation écologique » en vue de l'élection présidentielle. L'écologie sans sortie du capitalisme, ça n'a pas de sens », résume u…",
+      "summary": "Dans la Drôme, les universités d'été des Insoumis se poursuivent avec une affluence record de 7 000 inscrits et un discours renouvelé autour de la « bifurcation écologique » en vue de l'élection présidentielle. L'écologie sans sortie du capitalisme, ça n'a pas de sens », résume u…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -2571,7 +2596,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1787436600000",
+      "id": "enerzine-rss-3-1787436600000",
       "title": "Le premier bras bionique entièrement intégré d’Australie",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2595,7 +2620,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1787371800000",
+      "id": "enerzine-rss-4-1787371800000",
       "title": "Un patch portable vibre lorsqu’il détecte des dangers environnementaux",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2621,7 +2646,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1787368200000",
+      "id": "enerzine-rss-5-1787368200000",
       "title": "Un système de caméras piloté par IA offre un moyen peu coûteux de surveiller les bourdons",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3634,7 +3659,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787350200000",
+      "id": "enerzine-rss-6-1787350200000",
       "title": "Comment les « électrons chauds » peuvent remodeler les métaux en picosecondes ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3658,7 +3683,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787326277000",
+      "id": "enerzine-rss-7-1787326277000",
       "title": "Solutions vertes en France : innovation, technologie et science pour un avenir durable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3683,7 +3708,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787294700000",
+      "id": "enerzine-rss-8-1787294700000",
       "title": "Photovoltaïque en toiture : l’essor des installations industrielles et agricoles ravive la question des risques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3709,7 +3734,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1787289000000",
+      "id": "enerzine-rss-9-1787289000000",
       "title": "Un chercheur aide à développer un spray économique pour les tomates en sols salins",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3730,32 +3755,6 @@ window.BATIVEILLE_DATA = {
         "Biosourcé"
       ],
       "summary": "Une simple pulvérisation foliaire à faible dose pourrait offrir aux agriculteurs un nouvel outil pratique pour continuer à cultiver des tomates sur des terres que le sel a rendues de plus en plus improductives, selon une étude menée par un chercheur de l’Université du Texas à El …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1787285400000",
-      "title": "Des ingénieurs du MIT conçoivent un fil élastique recyclable",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-ingenieurs-du-mit-concoivent-un-fil-elastique-recyclable/192390-2026-08",
-      "image": null,
-      "date": "2026-08-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Les ingénieurs du MIT espèrent réduire la montagne croissante de déchets textiles dans le monde grâce à leur nouveau fil élastique recyclable. Fabriqué à partir de polyéthylène, une forme de plastique couramment utilisée pour les bouteilles de lait et les sacs d’épicerie, ce fil …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12610,30 +12609,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-0-1784880049000",
-      "title": "Mécénat de compétences : quand les entreprises mettent leurs salariés au service des associations",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/mecenat-de-competences-quand-les-entreprises-mettent-leurs-salaries-au-service-des-associations/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Prêter un salarié à une association, sur son temps de travail, pour qu’il y exerce les compétences qu’il exerce déjà en entreprise : c’est le principe du mécénat de compétences. Un dispositif consensuel, utile aux associations comme aux entreprises — mais qui reste marginal. Seul…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-38-1784884583000",
       "title": "Explosion d’un transformateur : les salariés de RTE alertent sur l’état du réseau électrique français",
       "source": "Révolution Énergétique",
@@ -13095,32 +13070,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-1-1784790000000",
-      "title": "Comment Paris veut changer les règles du jeu de l’ESS",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/comment-paris-veut-changer-les-regles-du-jeu-de-less/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "« Nous ne pourrons pas compenser le désengagement de l’État. » Dès les premières minutes de son intervention, Amina Bouri, adjointe au maire de Paris en charge de l’économie sociale et solidaire, fixe les contours de son action : la Ville de Paris n’a pas les moyens de remplacer …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-39-1784818856000",
       "title": "Face à l’IA de Google, nous parions sur notre communauté",
       "source": "Révolution Énergétique",
@@ -13533,31 +13482,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-2-1784703600000",
-      "title": "Groupe SOS : nouvelle gouvernance, ambitions renforcées… et prise de position sans ambiguïté contre le RN",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/groupe-sos-nouvelle-gouvernance-ambitions-renforcees-et-prise-de-position-sans-ambiguite-contre-le-rn/",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Économie du bâtiment"
-      ],
-      "summary": "Quarante ans après sa création, le Groupe SOS poursuit sa transformation et amorce une nouvelle phase de son histoire. Engagé à l’origine dans la lutte contre le VIH et les addictions, il est devenu l’un des plus importants acteurs européens de l’économie sociale et solidaire, av…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-40-1784696696000",
       "title": "0,006 € le kilowattheure : la révision du tarif agent d’EDF fait débat",
       "source": "Révolution Énergétique",
@@ -13871,31 +13795,6 @@ window.BATIVEILLE_DATA = {
         "Technique"
       ],
       "summary": "Loïc Danest est nommé au poste de président du groupe de travail CEN/TC sur les cendres volantes et le béton. The post Loïc Danest nommé président du groupe européen de travail Cen/TC appeared first on ACPresse. Loïc Danest est nommé au poste de président du groupe de travail CEN…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-3-1784616900000",
-      "title": "150 ans après leur création, les colonies de vacances séduisent toujours… mais accueillent moins d’enfants",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/150-ans-apres-leur-creation-les-colonies-de-vacances-seduisent-toujours-les-francais-mais-accueillent-de-moins-en-moins-denfants/",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation"
-      ],
-      "summary": "Alors que s’ouvre la saison estivale, les colonies de vacances célèbrent leurs 150 ans. Bon anniversaire ! Ou pas… Car, plébiscitées par l’opinion publique et par les jeunes, elles voient leur fréquentation diminuer année après année. Un paradoxe qui interroge l’avenir des séjour…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -14485,31 +14384,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-4-1784543400000",
-      "title": "ESS France lance « ESS – L’économie en mieux » avec le soutien des Caisses d’Epargne",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/ess-france-lance-ess-leconomie-en-mieux-avec-le-soutien-des-caisses-depargne/",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Économie du bâtiment"
-      ],
-      "summary": "ESS France, la chambre représentative de l’Économie Sociale et Solidaire, a dévoilé « ESS – L’économie en mieux », une marque unique pour reconnaître l’ensemble des acteurs de l’ESS. Cette initiative, dont Caisse d’Epargne est partenaire premium, vise à apporter de la lisibilité …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-43-1784526593000",
       "title": "La centrale de Civaux peut produire de l’électricité pendant la canicule",
       "source": "Révolution Énergétique",
@@ -15087,30 +14961,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-5-1784271608000",
-      "title": "Comment Makesense forme les jeunes de quartiers populaires franciliens à agir pour l’écologie",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/former-les-jeunes-de-quartiers-populaires-franciliens-a-agir-pour-lecologie/",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Le dernier rapport du GIEC rappelle que l’urgence climatique est l’une des principales préoccupations des moins de 25 ans. Mais dans les quartiers prioritaires de la politique de la ville, cette inquiétude s’accompagne pourtant d’un sentiment d’impuissance :👉 Les difficultés soc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-48-1784303878000",
       "title": "Cette startup inconnue veut imprimer des réacteurs nucléaires en 3D",
       "source": "Révolution Énergétique",
@@ -15519,31 +15369,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Les 8 et 9 octobre prochains, près de 250 chantiers et ateliers ouvriront exceptionnellement leurs portes dans toute la France. The post Les Coulisses du Bâtiment : Plongez dans le quotidien des chantiers ! appeared first on ACPresse. Les 8 et 9 octobre prochains, près de 250 cha…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-6-1784185200000",
-      "title": "Le café des familles : renforcer le pouvoir d’agir des parents en quartier prioritaire de la ville",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/le-cafe-des-familles-renforcer-le-pouvoir-dagir-des-parents-en-quartier-prioritaire-de-la-ville/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation"
-      ],
-      "summary": "[Podcast] Qui mieux qu’un habitant pour savoir ce qui manque dans son quartier ? C’est le pari qu’a fait 13 AVENIR dans le 13e arrondissement de Paris avec “Le Café des Familles”.L’association a réuni 12 salariés-habitants de son Entreprise à but d’Emploi pour co-construire, grâc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16152,31 +15977,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-7-1784097900000",
-      "title": "La France accouche enfin d’une stratégie nationale pour l’ESS, après un désaveu politique cinglant",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/la-france-accouche-enfin-dune-strategie-nationale-pour-less-apres-un-desaveu-politique-cinglant/",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Eau"
-      ],
-      "summary": "C’est un moment historique. Avec près de deux ans de retard, la France vient enfin de se doter de sa toute première « Stratégie nationale de développement de l’ESS ». Cocorico ! Sauf que les conditions d’adoption du document sont venues gâcher la fête : 42 abstentions sur 50 vota…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "fibois-france-rss-0-1784112260000",
       "title": "Fondation France Bois Forêt pour notre Patrimoine",
       "source": "Fibois France",
@@ -16279,32 +16079,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-8-1783926000000",
-      "title": "Prix Grande Cause 2026 : un accompagnement de 30 000 € pour faire grandir un projet d’intérêt général",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/prix-grande-cause-2026-un-accompagnement-de-30-000-e-pour-faire-grandir-un-projet-dinteret-general/",
-      "image": null,
-      "date": "2026-07-13",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Dans l’économie sociale et solidaire, les projets d’intérêt général ne manquent pas. En revanche, ils peinent à trouver les moyens de se faire connaître, de mobiliser de nouveaux soutiens ou de convaincre des partenaires financiers. Pourtant, au-delà de la qualité d’une action, s…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "urbalyon-rss-7-1783730920000",
       "title": "WEB TV Les rencontres ALIM AGRI inter Territoires : rejoignez-nous !",
       "source": "UrbaLyon",
@@ -16326,31 +16100,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "WEB TV Les rencontres ALIM AGRI inter Territoires : rejoignez-nous ! Anonyme (non vérifié) sam 11/07/2026 - 02:48 2022 - 0:15 Evolution des pratiques agricoles à Valeins 0:53 Outil des logistique et de transformation à Brignais et Mornant 1:44 ... Image couverture Texte chapeau T…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-9-1783753200000",
-      "title": "Hugues Sibille : « L’ESS va-t-elle réussir à changer la trajectoire du Titanic » ?",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/hugues-sibille-less-va-t-elle-reussir-a-changer-la-trajectoire-du-titanic-pour-construire-un-avenir-desirable/",
-      "image": null,
-      "date": "2026-07-11",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Économie du bâtiment"
-      ],
-      "summary": "Cinquante ans d’engagement pour l’économie sociale et solidaire. Une vie ! Dans le dernier épisode de l’émission “ESS On Air” de Mediatico (vidéo en fin d’article), nous recevons cette semaine Hugues Sibille. Figure historique de l’ESS française, ancien délégué interministériel à…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
