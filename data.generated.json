@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:43:45.942Z",
+  "generatedAt": "2026-08-24T20:35:33.848Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2380,30 +2380,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-2-1787582533000",
-      "title": "Exportation de déchets : une proposition de règlement délégué fait des ajouts sur la liste verte",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/exportation-dechets-reglement-delegue-liste-verte-48422.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48422_large.jpg",
-      "date": "2026-08-24",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Jusqu'au 15 septembre 2026, est soumis à la consultation du public européen un projet de règlement délégué en lien avec le règlement du 11 avril 2024 relatif aux exportations de déchets. Le règlement délégué supprime de l'annexe III (liste verte)... Jusqu'au 15 septembre 2026, es…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-3-1787581489000",
+      "id": "actu-environnement-rss-2-1787581489000",
       "title": "La réhabilitation des mines d'or guyanaises néglige les fonctions biologiques des sols",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2426,7 +2403,55 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-4-1787579557000",
+      "id": "actu-environnement-rss-3-1787581288000",
+      "title": "CEE et véhicules électriques : un ciblage renforcé pour les taxis et le marché de l'occasion",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/aides-achat-vehicule-electrique-cee-taxis-occasion-48421.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48421_large.jpg",
+      "date": "2026-08-24",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le paysage des aides à l'acquisition d'un véhicule électrique évolue beaucoup depuis environ un an. Le mouvement de fond est double : le financement a basculé du budget de l'État vers les certificats d'économies d'énergie (CEE), et un ciblage de p... Le paysage des aides à l'acqu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-4-1787581213000",
+      "title": "Exportation de déchets : une proposition de règlement délégué fait des ajouts sur la liste verte",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/exportation-dechets-reglement-delegue-liste-verte-48422.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48422_large.jpg",
+      "date": "2026-08-24",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Jusqu'au 15 septembre 2026, est soumis à la consultation du public européen un projet de règlement délégué en lien avec le règlement du 11 avril 2024 relatif aux exportations de déchets. Le règlement délégué supprime de l'annexe III (liste verte)... Jusqu'au 15 septembre 2026, es…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-5-1787579557000",
       "title": "Recyclage chimique : vers un nouveau report du projet d'usine de Carbios à Longlaville",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2450,7 +2475,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-5-1787568780000",
+      "id": "actu-environnement-rss-6-1787568780000",
       "title": "EPR 2 de Gravelines : un décret accorde une autorisation environnementale pour la réalisation de travaux",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2473,7 +2498,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-6-1787562558000",
+      "id": "actu-environnement-rss-7-1787562558000",
       "title": "Énergies fossiles : un projet de décret pour interdire leur publicité est en consultation",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2496,7 +2521,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-7-1787554800000",
+      "id": "actu-environnement-rss-8-1787554800000",
       "title": "Alcome et MerTerre au service d’une mission : la réduction des mégots mal jetés",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2594,6 +2619,30 @@
       "collectMethod": "rss"
     },
     {
+      "id": "oreo-bretagne-sitemap-164-1787564986000",
+      "title": "energie renouvelable eolien terrestre mer bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/energie/article/energie-renouvelable-eolien-terrestre-mer-bretagne",
+      "image": null,
+      "date": "2026-08-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "envirobat-grand-est-lqe-rss-0-1787580696000",
       "title": "Zoom sur des opérations avec du réemploi",
       "source": "Envirobat Grand Est / LQE",
@@ -2645,7 +2694,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "techniques-de-lingenieur-actualites-sitemap-22-1787582840000",
+      "id": "techniques-de-lingenieur-actualites-sitemap-22-1787602594000",
       "title": "articles",
       "source": "Techniques de l’Ingénieur Actualités",
       "sourceId": "techniques-de-lingenieur-actualites",
@@ -2876,7 +2925,7 @@
     },
     {
       "id": "reporterre-rss-5-1787573466000",
-      "title": "Comment choisir des fournitures scolaires plus écolos (et moins mauvaises pour la santé) ?",
+      "title": "Rentrée scolaire : 6 astuces pour des fournitures plus écolos (et moins mauvaises pour la santé)",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -3582,7 +3631,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1787586201000",
+      "id": "le-commerce-du-bois-sitemap-0-1787603722000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3608,7 +3657,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1787586201000",
+      "id": "le-commerce-du-bois-sitemap-1-1787603722000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3634,7 +3683,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1787586201000",
+      "id": "le-commerce-du-bois-sitemap-2-1787603722000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -6026,6 +6075,32 @@
         "Technique"
       ],
       "summary": "Holcim a conclu un accord pour acquérir Fermacell auprès de James Hardie Industries, fournisseur européen de solutions pour murs et sols. The post Holcim va acquérir Fermacell appeared first on ACPresse. Holcim a conclu un accord pour acquérir Fermacell auprès de James Hardie Ind…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "filiere-3e-rss-0-1787226767000",
+      "title": "J3e et Filière 3e partenaires du salon SIDO 2026 : les réponses à vos enjeux de production, transformation numérique et amélioration de process revient à Lyon les 16 et 17 septembre 2026",
+      "source": "Filière 3e",
+      "sourceId": "filiere-3e",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.filiere-3e.fr/2026/08/20/j3e-et-filiere-3e-partenaires-du-salon-sido-2026-les-reponses-a-vos-enjeux-de-production-transformation-numerique-et-amelioration-de-process-revient-a-lyon-les-16-et-17-septembre-2026/",
+      "image": null,
+      "date": "2026-08-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Électricité",
+        "CVC",
+        "Bâtiment intelligent",
+        "Énergie",
+        "Réglementation"
+      ],
+      "summary": "Pour sa 12e édition, SIDO, l'événement business en Auvergne-Rhône-Alpes dédié aux technologies IoT, Intelligence Artificielle, Robotique et Réalités Étendues, ouvre ses portes à la Cité Internationale de Lyon les 16 et 17 septembre 2026. Plus de 8 000 professionnels sont attendus…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9054,30 +9129,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-164-1786492987000",
-      "title": "energie renouvelable eolien terrestre mer bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/thematique/energie/article/energie-renouvelable-eolien-terrestre-mer-bretagne",
-      "image": null,
-      "date": "2026-08-12",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "verre-protections-magazine-rss-0-1786539285000",
       "title": "Saint-Gobain et AGC déploient un four industriel hautement électrifié dans le but de décarboner la production de verre plat",
       "source": "Verre & Protections Magazine",
@@ -11595,6 +11646,32 @@
       "collectMethod": "rss"
     },
     {
+      "id": "filiere-3e-rss-1-1785403216000",
+      "title": "LES SOLUTIONS PROGRID NOMMEES AU GIT SECURITY AWARD 2026 : UNE NOUVELLE RECONNAISSANCE POUR MERSEN ET SES PROTECTIONS DES RESEAUX BASSE TENSION",
+      "source": "Filière 3e",
+      "sourceId": "filiere-3e",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.filiere-3e.fr/2026/07/30/les-solutions-progrid-nommees-au-git-security-award-2026-une-nouvelle-reconnaissance-pour-mersen-et-ses-protections-des-reseaux-basse-tension/",
+      "image": null,
+      "date": "2026-07-30",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Électricité",
+        "CVC",
+        "Bâtiment intelligent",
+        "Énergie",
+        "Eau"
+      ],
+      "summary": "Mersen, expert mondial des spécialités électriques et des matériaux avancés, annonce que sa solution ProGrid figure parmi les finalistes du GIT Security Award 2026, une distinction internationale qui récompense les technologies les plus innovantes en matière de sécurité industrie…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-33-1785387544000",
       "title": "Le coût du soutien aux énergies renouvelables va bondir de 15 % en 2027",
       "source": "Révolution Énergétique",
@@ -12574,6 +12651,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "filiere-3e-rss-2-1785148115000",
+      "title": "MERSEN CONFIRME SA PERFORMANCE RSE AVEC UNE NOUVELLE PROGRESSION DE SON SCORE ECOVADIS",
+      "source": "Filière 3e",
+      "sourceId": "filiere-3e",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.filiere-3e.fr/2026/07/27/mersen-confirme-sa-performance-rse-avec-une-nouvelle-progression-de-son-score-ecovadis/",
+      "image": null,
+      "date": "2026-07-27",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Électricité",
+        "CVC",
+        "Bâtiment intelligent",
+        "Énergie"
+      ],
+      "summary": "La nouvelle évaluation EcoVadis de Mersen vient d'être dévoilée et montre une progression de son score par rapport à l’année dernière avec 77/100 (contre 75/100 en 2025). The post MERSEN CONFIRME SA PERFORMANCE RSE AVEC UNE NOUVELLE PROGRESSION DE SON SCORE ECOVADIS appeared firs…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-36-1785146080000",
       "title": "Ce catamaran électrique est autonome en énergie grâce au soleil",
       "source": "Révolution Énergétique",
@@ -12917,6 +13019,32 @@
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "filiere-3e-rss-3-1784877428000",
+      "title": "Sauter Vision Center 9.2 : de nouvelles fonctionnalités pour améliorer l’efficacité énergétique et la sécurité.",
+      "source": "Filière 3e",
+      "sourceId": "filiere-3e",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.filiere-3e.fr/2026/07/24/sauter-vision-center-9-2-de-nouvelles-fonctionnalites-pour-ameliorer-lefficacite-energetique-et-la-securite/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Électricité",
+        "CVC",
+        "Bâtiment intelligent",
+        "Énergie",
+        "Bâtiment"
+      ],
+      "summary": "SAUTER présente Sauter Vision Center 9.2, la nouvelle version de sa plateforme de gestion des bâtiments intelligents, conçue pour améliorer la performance énergétique, renforcer la cybersécurité et optimiser le pilotage des installations. The post Sauter Vision Center 9.2 : de no…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "mediatico-rss-0-1784880049000",
       "title": "Mécénat de compétences : quand les entreprises mettent leurs salariés au service des associations",
       "source": "Mediatico",
@@ -13252,6 +13380,32 @@
         "Protection solaire"
       ],
       "summary": "Après plusieurs années au sein du groupe Sprimogroup, Synerglass-Soft devient indépendante et entame une nouvelle phase de développement. Cette décision témoigne d'un engagement stratégique fort : accélérer sa croissance, renforcer sa présence internationale et continuer d'invest…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "filiere-3e-rss-4-1784813005000",
+      "title": "Björn Twiehaus nommé nouveau CEO du groupe Wago",
+      "source": "Filière 3e",
+      "sourceId": "filiere-3e",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.filiere-3e.fr/2026/07/23/bjorn-twiehaus-nomme-nouveau-ceo-du-groupe-wago/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Électricité",
+        "CVC",
+        "Bâtiment intelligent",
+        "Énergie",
+        "Eau"
+      ],
+      "summary": "Le groupe WAGO prépare son prochain chapitre de croissance : le 15 septembre, Björn Twiehaus (48 ans) prendra ses fonctions de Chief Executive Officer (CEO) de cette entreprise familiale basée à Minden. The post Björn Twiehaus nommé nouveau CEO du groupe Wago appeared first on Fi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13665,6 +13819,31 @@
         "Bâtiment"
       ],
       "summary": "Hylgéo a franchi une étape importante, en posant le premier bloc de maçonnerie du procédé Géomur sur le chantier de L’Echappée, à Angers. The post Première pose du Géomur d’Hylgéo sur un chantier à Angers appeared first on ACPresse. Hylgéo a franchi une étape importante, en posan…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "filiere-3e-rss-5-1784707564000",
+      "title": "Les Écrans en verre Homematic IP pour la commande smart home centralisée désormais disponibles en versions sans fil",
+      "source": "Filière 3e",
+      "sourceId": "filiere-3e",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.filiere-3e.fr/2026/07/22/les-ecrans-en-verre-homematic-ip-pour-la-commande-smart-home-centralisee-desormais-disponibles-en-versions-sans-fil/",
+      "image": null,
+      "date": "2026-07-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Électricité",
+        "CVC",
+        "Bâtiment intelligent",
+        "Énergie"
+      ],
+      "summary": "Les Écrans en verre Homematic IP, du fabricant allemand eQ-3, sont désormais disponibles dans 2 versions sans fil dotées de nouvelles fonctions. The post Les Écrans en verre Homematic IP pour la commande smart home centralisée désormais disponibles en versions sans fil appeared f…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -14545,6 +14724,56 @@
       "collectMethod": "rss"
     },
     {
+      "id": "filiere-3e-rss-6-1784559636000",
+      "title": "FD Éclairage enrichit ses gammes de mini-spots LED avec des modèles en laiton aux finitions Meljac",
+      "source": "Filière 3e",
+      "sourceId": "filiere-3e",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.filiere-3e.fr/2026/07/20/fd-eclairage-enrichit-ses-gammes-de-mini-spots-led-avec-des-modeles-en-laiton-aux-finitions-meljac/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Électricité",
+        "CVC",
+        "Bâtiment intelligent",
+        "Énergie"
+      ],
+      "summary": "FD Éclairage franchit une nouvelle étape dans l’évolution de ses gammes en proposant ses mini-spots encastrés LED des collections Claro et Platine avec des teintes sur laiton réalisées par Meljac, à partir de septembre 2026. Cette offre associe les performances techniques d'un sp…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "filiere-3e-rss-7-1784542255000",
+      "title": "ABB va faire l’acquisition d’Advantics en France, renforçant son portefeuille de solutions en courant continu",
+      "source": "Filière 3e",
+      "sourceId": "filiere-3e",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.filiere-3e.fr/2026/07/20/abb-va-faire-lacquisition-dadvantics-en-france-renforcant-son-portefeuille-de-solutions-en-courant-continu/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Électricité",
+        "CVC",
+        "Bâtiment intelligent",
+        "Énergie"
+      ],
+      "summary": "- Consolide la position d’ABB sur les technologies de référence pour les applications en courant continu The post ABB va faire l’acquisition d’Advantics en France, renforçant son portefeuille de solutions en courant continu appeared first on Filière 3e. - Consolide la position d’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "mediatico-rss-4-1784543400000",
       "title": "ESS France lance « ESS – L’économie en mieux » avec le soutien des Caisses d’Epargne",
       "source": "Mediatico",
@@ -15092,6 +15321,57 @@
         "Carbone"
       ],
       "summary": "Après une série de tests, Bouygues Bâtiment Ile-de-France a choisi la solution Geoclay pour couler un escalier en béton de type LC3, à Evry. The post Bouygues Bâtiment IDF teste le béton bas carbone Geoclay appeared first on ACPresse. Après une série de tests, Bouygues Bâtiment I…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "filiere-3e-rss-8-1784292352000",
+      "title": "ADM21 distribue un nouvel adaptateur TRENDnet",
+      "source": "Filière 3e",
+      "sourceId": "filiere-3e",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.filiere-3e.fr/2026/07/17/adm21-distribue-un-nouvel-adaptateur-trendnet/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Électricité",
+        "CVC",
+        "Bâtiment intelligent",
+        "Énergie"
+      ],
+      "summary": "ADM21 et TRENDnet lancent le TU-S9. Cet adaptateur USB est la solution idéale pour connecter des périphériques anciens à des ordinateurs modernes. Grâce à sa connexion USB-C vers RS232 (DB9) et à son câble intégré pour une installation flexible, cet adaptateur compact offre une c…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "filiere-3e-rss-9-1784292156000",
+      "title": "ADM21 présente un nouveau détecteur de tension alternative",
+      "source": "Filière 3e",
+      "sourceId": "filiere-3e",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.filiere-3e.fr/2026/07/17/adm21-presente-un-nouveau-detecteur-de-tension-alternative/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Électricité",
+        "CVC",
+        "Bâtiment intelligent",
+        "Énergie",
+        "Eau"
+      ],
+      "summary": "Les coupures de courant peuvent impacter les systèmes critiques, les processus industriels et le fonctionnement des onduleurs. Le détecteur de tension alternative TSV101 surveille la tension du réseau électrique afin de protéger les systèmes critiques. The post ADM21 présente un …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
