@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T20:35:33.848Z",
+  "generatedAt": "2026-08-25T01:27:38.942Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1787621235000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-08-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1787621235000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-08-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1787621235000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-08-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "meteo-france-rss-0-1787591725000",
       "title": "Changement climatique : quel impact sur les vagues de chaleur ?",
       "source": "Météo-France",
@@ -3255,7 +3333,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1787573754000",
+      "id": "enerzine-rss-0-1787609400000",
+      "title": "Une technique basse température pour la croissance de films semi-conducteurs à cristaux alignés",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/une-technique-basse-temperature-pour-la-croissance-de-films-semi-conducteurs-a-cristaux-alignes/192818-2026-08",
+      "image": null,
+      "date": "2026-08-24",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "La fabrication de semi-conducteurs de nouvelle génération et de dispositifs électroniques à faible consommation nécessite d’empiler précisément des matériaux aux fonctions différentes. Dans ce processus, il est essentiel de préserver sans dommage les propriétés intrinsèques de ch…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1787573754000",
       "title": "Même le moustique tigre a son type de proie… et ce n’est pas forcément vous",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3280,7 +3383,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1787566800000",
+      "id": "enerzine-rss-2-1787566800000",
       "title": "Hyundai dévoile la cinquième génération du Tucson : une mue radicale pour son SUV best-seller",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3304,7 +3407,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1787561448000",
+      "id": "enerzine-rss-3-1787561448000",
       "title": "Rupture conventionnelle CDI : pourquoi salariés et employeurs se ruent sur les nouvelles règles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3328,7 +3431,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1787551800000",
+      "id": "enerzine-rss-4-1787551800000",
       "title": "Wuhan : une station de ski chinoise alimentée en partie par le solaire photovoltaïque",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3353,7 +3456,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1787548200000",
+      "id": "enerzine-rss-5-1787548200000",
       "title": "Le télescope Inouye capture les vortex de plasma du Soleil",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3377,7 +3480,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787544600000",
+      "id": "enerzine-rss-6-1787544600000",
       "title": "Identifier les oiseaux hors ligne grâce à l’IA : l’application BirdNET Live enregistre les cris d’animaux directement sur votre smartphone",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3403,7 +3506,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787541000000",
+      "id": "enerzine-rss-7-1787541000000",
       "title": "Simulations complexes : nouvelles découvertes sur le transport des protons dans l’eau",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3629,84 +3732,6 @@
       "summary": "272 espèces marines, des orques aux pieuvres, ont colonisé ce parc éolien flottant portugais. Huit ans de données bousculent les idées reçues sur l'éolien en mer, mais un point noir subsiste : la colère des pêcheurs locaux. L’article Les biologistes n’en reviennent pas : un parc …",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1787603722000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-08-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1787603722000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-08-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1787603722000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-08-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1787583794000",
@@ -4031,7 +4056,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787523000000",
+      "id": "enerzine-rss-8-1787523000000",
       "title": "Des robots sous-marins à IA peuvent désormais détecter le stress des plongeurs via leurs bulles expirées",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4056,7 +4081,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1787519754000",
+      "id": "enerzine-rss-9-1787519754000",
       "title": "Hyundai Ioniq V : la riposte électrique de Hyundai en Chine",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4076,31 +4101,6 @@
         "ENR"
       ],
       "summary": "En officialisant l’ouverture des préventes de l’Ioniq V, Hyundai a remis son nom au centre de la scène électrique chinoise. La berline au style radical, premier modèle Ioniq conçu spécifiquement pour la Chine, est affichée à partir de 119 900 yuans, soit environ 17 700 dollars. A…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1787501100000",
-      "title": "Canicule en septembre 2026 : simple tendance ou scénario crédible ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/canicule-septembre-2026-tendance-previsions-meteo/193051-2026-08",
-      "image": null,
-      "date": "2026-08-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "Depuis quelques jours, la recherche sur une éventuelle « canicule en septembre 2026 » s’est hissée parmi les tendances, alimentée par une série de prévisions saisonnières relayées par de nombreux médias. L’idée d’une nouvelle vague de chaleur tardive, alors que l’été touche à sa …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12973,52 +12973,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "aupa-pays-d-aix-sitemap-8-1784903873000",
-      "title": "habitat modes de vie",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/habitat-modes-de-vie/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-12-1784903873000",
-      "title": "publication",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "filiere-3e-rss-3-1784877428000",
       "title": "Sauter Vision Center 9.2 : de nouvelles fonctionnalités pour améliorer l’efficacité énergétique et la sécurité.",
       "source": "Filière 3e",
@@ -17793,29 +17747,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "aupa-pays-d-aix-sitemap-11-1783427061000",
-      "title": "prospective",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/prospective/",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "arec-nouvelle-aquitaine-rss-1-1783420380000",
       "title": "Les repères chiffrés 2026 de l’ORDEC : la publication disponible !",
       "source": "AREC Nouvelle-Aquitaine",
@@ -18716,29 +18647,6 @@
       "summary": "L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM. L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM . Les centres-villes face aux défis des transitions",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-6-1782901923000",
-      "title": "publications et animations",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/publications-et-animations/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "audiar-rennes-rss-3-1782913760000",
