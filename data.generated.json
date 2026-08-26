@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:22:51.483Z",
+  "generatedAt": "2026-08-26T22:56:16.827Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2738,13 +2738,13 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-173-1787702697000",
-      "title": "vague chaleur canicule adaptation climat bretagne",
+      "id": "oreo-bretagne-sitemap-23-1787728144000",
+      "title": "reglementation etat eau surface littorale Bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
       "sourceType": "Observatoire environnement",
       "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/thematique/changement-climatique/article/vague-chaleur-canicule-adaptation-climat-bretagne",
+      "url": "https://bretagne-environnement.fr/article/reglementation-etat-eau-surface-littorale-Bretagne",
       "image": null,
       "date": "2026-08-26",
       "access": "open",
@@ -2755,7 +2755,7 @@
         "Énergie",
         "Climat",
         "Environnement",
-        "Confort d’été"
+        "Eau"
       ],
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
@@ -3038,13 +3038,13 @@
         "Réglementation",
         "Eau"
       ],
-      "summary": "En cet été caniculaire et sec, ce sont les éoliennes et surtout les panneaux solaires qui pallié les vulnérabilités du nucléaire, qui a multiplié les baisses de puissance et les arrêts ces dernières semaines. Les éoliennes et le solaire en force. En cet été brûlant où les besoins…",
+      "summary": "En cet été caniculaire et sec, ce sont les éoliennes et surtout les panneaux solaires qui ont pallié les vulnérabilités du nucléaire soumis à des baisses de puissance et des arrêts. Les éoliennes et le solaire en force. En cet été brûlant où les besoins électriques ont bondi dura…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
       "id": "reporterre-rss-1-1787752755000",
-      "title": "Face au chaos climatique, les vieilles forêts ont « plein de choses à nous apprendre »",
+      "title": "« Elles seront les dernières à brûler » : face au chaos climatique, les vieilles forêts résistent",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -3553,7 +3553,84 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1787739000000",
+      "id": "connaissance-des-energies-rss-0-1787702400000",
+      "title": "La fin du gaz bon marché : pourquoi votre facture pourrait doubler d'ici 10 ans",
+      "source": "Connaissance des Énergies",
+      "sourceId": "connaissance-des-energies",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.connaissancedesenergies.org/tribune-actualite-energies/la-fin-du-gaz-bon-marche-pourquoi-votre-facture-pourrait-doubler-dici-10-ans",
+      "image": "https://images.connaissancedesenergies.org/articles/image-article/fin-du-gaz-bon-marche-facture-doubler.webp",
+      "date": "2026-08-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Statistiques",
+        "Pédagogie",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Le prix repère du gaz publié par la CRE poursuit sa hausse, et le prix du kWh payé par les ménages français a déjà plus que doublé depuis 2021. Prix de marché du GNL structurellement plus élevé, tarification carbone amenée à monter, financement du biométhane, effet ciseau sur des…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1787782200000",
+      "title": "TUM développe des sources de photons uniques pour la communication quantique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/tum-developpe-des-sources-de-photons-uniques-pour-la-communication-quantique/192824-2026-08",
+      "image": null,
+      "date": "2026-08-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020"
+      ],
+      "summary": "Plutôt que d’amplifier la fréquence souhaitée, les chercheurs suppriment sélectivement les fréquences indésirables. Jusqu’à présent, les résonateurs étaient principalement utilisés pour produire des photons uniques – de minuscules structures optiques qui influencent les sources d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1787765100000",
+      "title": "Les 5 erreurs majeures à éviter lors du choix d’un logiciel de gestion des déchets en 2026",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/les-5-erreurs-majeures-a-eviter-lors-du-choix-dun-logiciel-de-gestion-des-dechets-en-2026/193352-2026-08",
+      "image": null,
+      "date": "2026-08-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Erreur n°1 : négliger la conformité réglementaire et l’interopérabilité avec Trackdéchets En 2026, la conformité passe obligatoirement par l’interopérabilité avec Trackdéchets, la plateforme publique qui dématérialise les bordereaux de suivi des déchets. Choisir un outil incapabl…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1787739000000",
       "title": "Nouveau Mac mini 2026 : Apple muscle son compact avec la puce M6",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3578,7 +3655,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1787730300000",
+      "id": "enerzine-rss-3-1787730300000",
       "title": "Œufs contaminés à la salmonelle : ce que l’on sait des rappels massifs en France et en Belgique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3602,7 +3679,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1787722244000",
+      "id": "enerzine-rss-4-1787722244000",
       "title": "Singapour dévoile le premier rack de serveurs à neurones humains vivants",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3626,7 +3703,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1787721000000",
+      "id": "enerzine-rss-5-1787721000000",
       "title": "Tesla abandonne le Solar Roof et recentre sa stratégie sur les panneaux",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3651,7 +3728,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1787717400000",
+      "id": "enerzine-rss-6-1787717400000",
       "title": "Incendies en Europe : les munitions de guerre ressurgissent sous la chaleur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3676,7 +3753,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787713800000",
+      "id": "enerzine-rss-7-1787713800000",
       "title": "Saab dévoile l’A3-001, chasseur sans pilote furtif",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4026,7 +4103,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1787761357000",
+      "id": "le-commerce-du-bois-sitemap-0-1787784962000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4052,7 +4129,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1787761357000",
+      "id": "le-commerce-du-bois-sitemap-1-1787784962000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4078,7 +4155,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1787761357000",
+      "id": "le-commerce-du-bois-sitemap-2-1787784962000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4104,7 +4181,32 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1787758494000",
+      "id": "le-journal-du-grand-paris-rss-0-1787766952000",
+      "title": "Paris va créer un conseil économique et des comités de filières",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/paris-va-creer-un-conseil-economique-et-des-comites-de-filieres/",
+      "image": null,
+      "date": "2026-08-26",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation"
+      ],
+      "summary": "Lors d'une rencontre avec le Medef Paris, dans le cadre de l'édition 2026 de la REF, l'événement de rentrée du Mouvement des entreprises de France, Richard Bouigue, adjoint au maire de la Capitale chargé du dialogue avec les entreprises, a annoncé, mercredi 26 août, une réunion d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1787758494000",
       "title": "Les travaux de modernisation de l’écluse de Chatou finalisés",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4129,7 +4231,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1787737523000",
+      "id": "le-journal-du-grand-paris-rss-2-1787737523000",
       "title": "« Revoir les Nuages » : une exposition au pied des tours d’Émile Aillaud à Nanterre",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4155,7 +4257,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1787735835000",
+      "id": "le-journal-du-grand-paris-rss-3-1787735835000",
       "title": "Paris-Saclay : la Chambre régionale des comptes chiffre la facture que l’OIN pourrait laisser aux collectivités",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4174,12 +4276,12 @@
         "Urbanisme",
         "Immobilier"
       ],
-      "summary": "Dans un rapport délibéré le 7 novembre 2025 consacré à la communauté d’agglomération Paris Saclay (CPS), la juridiction financière ausculte et permet de comprendre les ressorts de ses relations tendues avec l'établissement public d'aménagement éponyme (Epaps) : les magistrats fin…",
+      "summary": "Dans un rapport délibéré le 7 novembre 2025 consacré à la communauté d’agglomération Paris Saclay (CPS), la juridiction financière ausculte et permet de comprendre les ressorts des relations tendues de cette dernière avec l'établissement public d'aménagement éponyme (Epaps) : les…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1787732372000",
+      "id": "le-journal-du-grand-paris-rss-4-1787732372000",
       "title": "N. Samsoen : « Nous devons faire en sorte que le Grand Paris express crée de la valeur urbaine »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4886,7 +4988,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-47-1787672290000",
+      "id": "oreo-bretagne-sitemap-48-1787672290000",
       "title": "ressources energetiques renouvelables fossiles bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -4909,7 +5011,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-80-1787660509000",
+      "id": "oreo-bretagne-sitemap-81-1787660509000",
       "title": "evaluer empreinte region environnement",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -4932,7 +5034,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-127-1787662326000",
+      "id": "oreo-bretagne-sitemap-128-1787662326000",
       "title": "collecte donnees restauration milieux aquatiques bretagne projet",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -5515,7 +5617,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787695800000",
+      "id": "enerzine-rss-8-1787695800000",
       "title": "Des points quantiques révèlent les ondes lumineuses cachées sur les surfaces métalliques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5540,7 +5642,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787676000000",
+      "id": "enerzine-rss-9-1787676000000",
       "title": "Garmin dévoile les fenix 9 et fenix 9 Pro, avec satellite, LTE et boîtier titane",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5561,55 +5663,6 @@
         "Réglementation"
       ],
       "summary": "Garmin renouvelle sa gamme de montres multisports haut de gamme avec les fenix 9 et fenix 9 Pro, deux modèles destinés aux sportifs d’endurance et aux amateurs d’activités en plein air. La version Pro introduit notamment un boîtier en titane, une connectivité satellite et LTE int…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1787670900000",
-      "title": "Taxe sur les carburants : son report à 2028 ne dissipe pas la controverse fiscale",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/taxe-carburants-report-2028-fiscalite-pompe/193276-2026-08",
-      "image": null,
-      "date": "2026-08-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Alors qu’une nouvelle fiscalité européenne sur les carburants fossiles devait entrer en vigueur en 2027, plusieurs sources indiquent qu’elle est repoussée à 2028. Quand on sait que les taxes pèsent encore pour plus de la moitié du prix payé à la pompe, entre prudence et pression …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1787650800000",
-      "title": "Voiture électrique en famille : ce qui change vraiment au quotidien",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/voiture-electrique-en-famille-ce-qui-change-vraiment-au-quotidien/193227-2026-08",
-      "image": null,
-      "date": "2026-08-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Passer à la voiture électrique en famille, ce n’est pas seulement changer de motorisation : c’est adopter une nouvelle façon d’organiser ses déplacements. Les trajets scolaires, les week-ends chargés de bagages, les longs voyages avec des enfants à bord, chaque usage du quotidien…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5791,7 +5844,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1787696331000",
+      "id": "le-journal-du-grand-paris-rss-5-1787696331000",
       "title": "François Bourvic quitte la direction de Marne-au-Bois pour la SEBL Grand Est",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5817,7 +5870,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1787678046000",
+      "id": "le-journal-du-grand-paris-rss-6-1787678046000",
       "title": "Hausse de 5,8 % des pertes d’emploi des chefs d’entreprises franciliens",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5843,7 +5896,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1787672276000",
+      "id": "le-journal-du-grand-paris-rss-7-1787672276000",
       "title": "Sur les traces du premier téléphérique urbain francilien",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5867,7 +5920,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1787624038000",
+      "id": "le-journal-du-grand-paris-rss-8-1787624038000",
       "title": "Un parc à thème « Dragon Ball » annoncé dans le Val-d’Oise, avec un investissement saoudien de 6 milliards d’euros",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6405,7 +6458,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-165-1787564986000",
+      "id": "oreo-bretagne-sitemap-166-1787564986000",
       "title": "energie renouvelable eolien terrestre mer bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -7064,7 +7117,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1787583794000",
+      "id": "le-journal-du-grand-paris-rss-9-1787583794000",
       "title": "Pierre Chavy nommé préfet, secrétaire général aux politiques publiques de la préfecture de la région d’Île-de-France",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8203,7 +8256,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-0-1787270400000",
+      "id": "connaissance-des-energies-rss-1-1787270400000",
       "title": "La production des centrales à charbon en Chine a rebondi au 1er semestre",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -8225,32 +8278,6 @@
         "Eau"
       ],
       "summary": "En Chine, les mises en service de nouvelles centrales à charbon ont atteint en 2026 leur plus haut niveau lors du premier semestre de l’année depuis 2016, indique le CREA (Centre for Research on Energy and Clean Air) dans une analyse publiée le 6 août. En Chine, les mises en serv…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1787334482000",
-      "title": "Tour piéton du Grand Paris express : c’est (re)parti !",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/tour-pieton-du-grand-paris-express-cest-reparti/",
-      "image": null,
-      "date": "2026-08-21",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "La première des dix étapes du Tour piéton du Grand Paris express s'est déroulée vendredi 21 août entre Versailles-Chantiers et Trappes. Les randonnées, organisées par Enlarge your Paris et la Société des Grands Projets, avec le soutien de la Maison de l'Architecture Île-de-France…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8499,7 +8526,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-129-1787221201000",
+      "id": "oreo-bretagne-sitemap-130-1787221201000",
       "title": "mission adaptation climat lobservatoire lenvironnement bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -9260,7 +9287,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-1-1787097600000",
+      "id": "connaissance-des-energies-rss-2-1787097600000",
       "title": "Vers un nouveau record de production gazière aux États-Unis en 2026",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -9464,7 +9491,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-2-1787011200000",
+      "id": "connaissance-des-energies-rss-3-1787011200000",
       "title": "Canicule : le réseau électrique européen peut remercier le solaire",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -9643,7 +9670,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-48-1786925027000",
+      "id": "oreo-bretagne-sitemap-49-1786925027000",
       "title": "bretagne marees records europe",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -9717,7 +9744,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-3-1786924800000",
+      "id": "connaissance-des-energies-rss-4-1786924800000",
       "title": "Quelles sont les limites de la clim ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -10748,7 +10775,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-58-1786147384000",
+      "id": "oreo-bretagne-sitemap-59-1786147384000",
       "title": "cyanobacteries toxines baignade eau douce bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -11123,7 +11150,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-54-1785974506000",
+      "id": "oreo-bretagne-sitemap-55-1785974506000",
       "title": "ressource eau pluie bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -12323,7 +12350,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-4-1785456000000",
+      "id": "connaissance-des-energies-rss-5-1785456000000",
       "title": "Une sélection d'articles à relire pour un été 2026 plein d'énergie",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -12643,7 +12670,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-5-1785369600000",
+      "id": "connaissance-des-energies-rss-6-1785369600000",
       "title": "Voitures électriques : un niveau record de ventes dans 50 pays au 2e trimestre",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -12976,7 +13003,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-6-1785283200000",
+      "id": "connaissance-des-energies-rss-7-1785283200000",
       "title": "Les feux de forêt menacent-ils les installations gazières ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -13350,7 +13377,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-7-1785196800000",
+      "id": "connaissance-des-energies-rss-8-1785196800000",
       "title": "Carburants : quel prix sur la route des vacances dans les 27 pays de l’UE ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -13496,7 +13523,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-35-1785162393000",
+      "id": "oreo-bretagne-sitemap-36-1785162393000",
       "title": "plateforme bretagne donnees biodiversite",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -13596,7 +13623,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-8-1785110400000",
+      "id": "connaissance-des-energies-rss-9-1785110400000",
       "title": "Impacts de l’IA générative : l’Ademe appelle à la « vigilance »",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -14080,7 +14107,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-51-1784801280000",
+      "id": "oreo-bretagne-sitemap-52-1784801280000",
       "title": "ressource eau surface souterraine bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -14104,7 +14131,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-69-1784810942000",
+      "id": "oreo-bretagne-sitemap-70-1784810942000",
       "title": "prelevement eau surface souterraine potable elevage irrigation bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -14128,7 +14155,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-125-1784819798000",
+      "id": "oreo-bretagne-sitemap-126-1784819798000",
       "title": "secheresses vulnerabilites adaptation climat bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -14278,7 +14305,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-9-1784764800000",
+      "id": "connaissance-des-energies-rss-10-1784764800000",
       "title": "Plus d'électricité produite en 2026… y compris à partir des énergies fossiles",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -14302,7 +14329,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-10-1784764800000",
+      "id": "connaissance-des-energies-rss-11-1784764800000",
       "title": "Énergies renouvelables : les dernières statistiques par filière et par zone géographique",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -14715,7 +14742,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-11-1784678400000",
+      "id": "connaissance-des-energies-rss-12-1784678400000",
       "title": "Hydrogène décarboné par électrolyse : le gouvernement annonce 3 projets lauréats",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -15084,7 +15111,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-12-1784592000000",
+      "id": "connaissance-des-energies-rss-13-1784592000000",
       "title": "Le solaire a fourni un quart de l'électricité dans l'UE au mois de juin",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -16734,7 +16761,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-133-1784110382000",
+      "id": "oreo-bretagne-sitemap-134-1784110382000",
       "title": "phosphore eau surface",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -16758,7 +16785,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-134-1784110391000",
+      "id": "oreo-bretagne-sitemap-135-1784110391000",
       "title": "nitrates eau surface",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -16782,7 +16809,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-145-1784110373000",
+      "id": "oreo-bretagne-sitemap-146-1784110373000",
       "title": "biologie eau surface",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -16879,7 +16906,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-13-1783987200000",
+      "id": "connaissance-des-energies-rss-14-1783987200000",
       "title": "Empreinte carbone des vacances : comment aider les touristes à laisser leur voiture au garage ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -17029,7 +17056,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-159-1783698781000",
+      "id": "oreo-bretagne-sitemap-160-1783698781000",
       "title": "suivi secheresse hydrologique bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -17150,7 +17177,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "connaissance-des-energies-rss-14-1783641600000",
+      "id": "connaissance-des-energies-rss-15-1783641600000",
       "title": "Leasing social des pompes à chaleur : le pari d'une nouvelle économie de l'électrification",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -17175,7 +17202,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-15-1783641600000",
+      "id": "connaissance-des-energies-rss-16-1783641600000",
       "title": "Stockage d'électricité : « la batterie à eau » bat de nouveaux records",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -17465,7 +17492,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-16-1783555200000",
+      "id": "connaissance-des-energies-rss-17-1783555200000",
       "title": "Chèque énergie : le vrai sujet n'est plus seulement l'aide, mais son accès",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -17489,7 +17516,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-17-1783555200000",
+      "id": "connaissance-des-energies-rss-18-1783555200000",
       "title": "Le Québec publie son premier Plan de gestion intégrée des ressources énergétiques",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -17513,7 +17540,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-18-1783555200000",
+      "id": "connaissance-des-energies-rss-19-1783555200000",
       "title": "Les émissions de GES au premier trimestre",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -17824,7 +17851,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-73-1783468908000",
+      "id": "oreo-bretagne-sitemap-74-1783468908000",
       "title": "analyse pesticides air contexte agricole bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -17848,7 +17875,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-96-1783468908000",
+      "id": "oreo-bretagne-sitemap-97-1783468908000",
       "title": "production agricole elevage legumes bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -17871,7 +17898,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-113-1783468908000",
+      "id": "oreo-bretagne-sitemap-114-1783468908000",
       "title": "plan lutte marees vertes bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -17895,7 +17922,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-142-1783468908000",
+      "id": "oreo-bretagne-sitemap-143-1783468908000",
       "title": "pesticides cours deau bretons",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -17919,7 +17946,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-143-1783468908000",
+      "id": "oreo-bretagne-sitemap-144-1783468908000",
       "title": "usages pesticides bretagne 0",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -17942,7 +17969,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-154-1783468908000",
+      "id": "oreo-bretagne-sitemap-155-1783468908000",
       "title": "protection captages eau potable",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -17966,7 +17993,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-161-1783468908000",
+      "id": "oreo-bretagne-sitemap-162-1783468908000",
       "title": "sols texture pH pollution erosion bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -17989,7 +18016,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-171-1783468908000",
+      "id": "oreo-bretagne-sitemap-172-1783468908000",
       "title": "perturbation cycle azote assainissement epandage engrais eau marees vertes bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -18036,7 +18063,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-19-1783468800000",
+      "id": "connaissance-des-energies-rss-20-1783468800000",
       "title": "Tarification dynamique : « une opportunité pour profiter des prix négatifs »",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -18062,7 +18089,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "connaissance-des-energies-rss-20-1783468800000",
+      "id": "connaissance-des-energies-rss-21-1783468800000",
       "title": "Que deviennent les fûts de déchets radioactifs immergés dans l'Atlantique dans les années 1970 et 1980 ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -18181,7 +18208,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-104-1783382730000",
+      "id": "oreo-bretagne-sitemap-105-1783382730000",
       "title": "elevation mer bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -18204,7 +18231,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-116-1783382730000",
+      "id": "oreo-bretagne-sitemap-117-1783382730000",
       "title": "recensement participatif requin pelerin",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -18227,7 +18254,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-172-1783382730000",
+      "id": "oreo-bretagne-sitemap-173-1783382730000",
       "title": "impact sanitaire biodiversite marees vertes bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -18754,7 +18781,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-128-1783036983000",
+      "id": "oreo-bretagne-sitemap-129-1783036983000",
       "title": "moustique tigre dengue zika chikungunyabretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -18895,7 +18922,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "connaissance-des-energies-rss-21-1782950400000",
+      "id": "connaissance-des-energies-rss-22-1782950400000",
       "title": "Exportations d'électricité : nouveau record battu au 1ᵉʳ semestre 2026",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
@@ -19133,7 +19160,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "connaissance-des-energies-rss-22-1782864000000",
+      "id": "connaissance-des-energies-rss-23-1782864000000",
       "title": "Infrastructures gazières : quels coûts futurs pour un nombre de consommateurs en baisse ?",
       "source": "Connaissance des Énergies",
       "sourceId": "connaissance-des-energies",
