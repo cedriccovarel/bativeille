@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-25T20:34:53.451Z",
+  "generatedAt": "2026-08-26T01:36:57.012Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,29 +2161,82 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
-      "id": "capeb-rss-0-1787669803000",
-      "title": "80 ans de la CAPEB : on continue la préparation !",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
+      "id": "le-commerce-du-bois-sitemap-0-1787708203000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://www.capeb.fr/actualites/80-ans-de-la-capeb-on-continue-la-preparation",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
       "image": null,
-      "date": "2026-08-25",
-      "access": "open",
+      "date": "2026-08-26",
+      "access": "Gratuit",
       "official": false,
       "highImpact": true,
-      "impactScore": 88,
+      "impactScore": 96,
       "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment",
-        "RE2020",
-        "Bâtiment"
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
       ],
-      "summary": "Le 29 septembre prochain sera une grande fête pour tous les artisans du bâtiment et plus particulièrement pour tous les adhérents de la CAPEB qui célèbrera alors ses 80 ans ! Le 29 septembre prochain sera une grande fête pour tous les artisans du bâtiment et plus particulièrement…",
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
-      "collectMethod": "rss"
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1787708203000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-08-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1787708203000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-08-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "meteo-france-rss-0-1787645562000",
@@ -2651,7 +2704,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-47-1787664688000",
+      "id": "oreo-bretagne-sitemap-47-1787672290000",
       "title": "ressources energetiques renouvelables fossiles bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -2768,31 +2821,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "techniques-de-lingenieur-actualites-sitemap-22-1787661592000",
-      "title": "articles",
-      "source": "Techniques de l’Ingénieur Actualités",
-      "sourceId": "techniques-de-lingenieur-actualites",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.techniques-ingenieur.fr/actualite/articles/",
-      "image": null,
-      "date": "2026-08-25",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Technique",
-        "Énergie",
-        "Environnement",
-        "Innovation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "novethic-rss-0-1787670625000",
       "title": "Télétravail, salaires : Airbus confronté à une grève illimitée en Espagne",
       "source": "Novethic",
@@ -2866,6 +2894,30 @@ window.BATIVEILLE_DATA = {
         "Climat"
       ],
       "summary": "Les négociations de la Convention-cadre des Nations unies sur la coopération fiscale internationale se sont tenues à New York du 3 au 13 août 2026. @PXHere Pouvez-vous rappeler l’objectif de ces discussions onusiennes sur la coopération fiscale internationale ? Le mandat de ces n…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-0-1787673132000",
+      "title": "Le handicap, angle mort persistant de la rentrée scolaire",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/le-handicap-angle-mort-persistant-de-la-rentree-scolaire/",
+      "image": null,
+      "date": "2026-08-25",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Ewan a 15 ans. Cette rentrée, ses camarades retrouveront leur collège ou leur lycée. Lui restera à la maison, faute de place en institut médico-éducatif. Sa mère finance de sa poche un enseignement à domicile et une éducatrice spécialisée, en sachant que rien ne remplace un accom…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3331,7 +3383,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1787676000000",
+      "id": "enerzine-rss-0-1787695800000",
+      "title": "Des points quantiques révèlent les ondes lumineuses cachées sur les surfaces métalliques",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-points-quantiques-revelent-les-ondes-lumineuses-cachees-sur-les-surfaces-metalliques/192830-2026-08",
+      "image": null,
+      "date": "2026-08-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Les photographies peuvent révéler des choses impossibles à voir à l’œil nu, qu’il s’agisse de galaxies lointaines ou de cellules microscopiques. Des chercheurs de l’Université métropolitaine d’Osaka ont mis au point une technique d’imagerie pratique et polyvalente qui rend visibl…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1787676000000",
       "title": "Garmin dévoile les fenix 9 et fenix 9 Pro, avec satellite, LTE et boîtier titane",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3356,7 +3433,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1787670900000",
+      "id": "enerzine-rss-2-1787670900000",
       "title": "Taxe sur les carburants : son report à 2028 ne dissipe pas la controverse fiscale",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3380,7 +3457,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1787650800000",
+      "id": "enerzine-rss-3-1787650800000",
       "title": "Voiture électrique en famille : ce qui change vraiment au quotidien",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3405,7 +3482,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1787636700000",
+      "id": "enerzine-rss-4-1787636700000",
       "title": "Une ogive nucléaire pour détruire un astéroïde menaçant la Terre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3431,7 +3508,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1787634600000",
+      "id": "enerzine-rss-5-1787634600000",
       "title": "Des robots chinois battent le record d’Usain Bolt sur 100 mètres",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3457,7 +3534,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787631000000",
+      "id": "enerzine-rss-6-1787631000000",
       "title": "La formation ultrarapide d’un état caché photo-induit dans les structures métallo-organiques dévoilée",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3482,7 +3559,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787627400000",
+      "id": "enerzine-rss-7-1787627400000",
       "title": "Quand les ordinateurs quantiques gèlent",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3683,85 +3760,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1787690080000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
+      "id": "le-journal-du-grand-paris-rss-0-1787696331000",
+      "title": "François Bourvic quitte la direction de Marne-au-Bois pour la SEBL Grand Est",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/francois-bourvic-quitte-la-direction-de-marne-au-bois-pour-la-sebl-grand-est/",
       "image": null,
       "date": "2026-08-25",
-      "access": "Gratuit",
+      "access": "Accès gratuit partiel",
       "official": false,
       "highImpact": true,
       "impactScore": 96,
       "tags": [
         "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
         "Réglementation",
         "Biosourcé"
       ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "summary": "François Bourvic quitte l’Est parisien pour rejoindre le Grand Est. Le 1er septembre, il prendra la direction générale de la SEBL Grand Est, avec pour mission de piloter la stratégie et les opérations de l’opérateur d’aménagement. François Bourvic quitte l’Est parisien pour rejoi…",
       "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
+      "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1787690080000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-08-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1787690080000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-08-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1787672276000",
+      "id": "le-journal-du-grand-paris-rss-1-1787672276000",
       "title": "Sur les traces du premier téléphérique urbain francilien",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -3785,7 +3810,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1787624038000",
+      "id": "le-journal-du-grand-paris-rss-2-1787624038000",
       "title": "Un parc à thème « Dragon Ball » annoncé dans le Val-d’Oise, avec un investissement saoudien de 6 milliards d’euros",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4584,31 +4609,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "techniques-de-lingenieur-actualites-sitemap-0-1787576319000",
-      "title": "actualite",
-      "source": "Techniques de l’Ingénieur Actualités",
-      "sourceId": "techniques-de-lingenieur-actualites",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.techniques-ingenieur.fr/actualite/",
-      "image": null,
-      "date": "2026-08-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Technique",
-        "Énergie",
-        "Environnement",
-        "Innovation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "novethic-rss-3-1787571926000",
       "title": "\"Les influenceurs engagés représentent un vrai contre-pouvoir narratif\", Amélie Deloche",
       "source": "Novethic",
@@ -5145,7 +5145,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787609400000",
+      "id": "enerzine-rss-8-1787609400000",
       "title": "Une technique basse température pour la croissance de films semi-conducteurs à cristaux alignés",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5170,7 +5170,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1787573754000",
+      "id": "enerzine-rss-9-1787573754000",
       "title": "Même le moustique tigre a son type de proie… et ce n’est pas forcément vous",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5191,30 +5191,6 @@ window.BATIVEILLE_DATA = {
         "Réemploi"
       ],
       "summary": "Il n’existe pas d’« aimant à moustiques » universel. Dans une nouvelle étude publiée dans iScience, des chercheurs de l’Université internationale de Floride (FIU) ont confronté 119 volontaires humains à trois des espèces de moustiques les plus dangereuses au monde et ont constaté…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1787566800000",
-      "title": "Hyundai dévoile la cinquième génération du Tucson : une mue radicale pour son SUV best-seller",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/nouvelle-generation-hyundai-tucson-2027/193140-2026-08",
-      "image": null,
-      "date": "2026-08-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Le 19 août 2026, Hyundai a officiellement levé le voile sur la cinquième génération de son Tucson, l’un des SUV compacts les plus vendus au monde. Avec un design profondément remanié, des dimensions en hausse et une commercialisation européenne annoncée pour 2027, le constructeur…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5421,7 +5397,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1787583794000",
+      "id": "le-journal-du-grand-paris-rss-3-1787583794000",
       "title": "Pierre Chavy nommé préfet, secrétaire général aux politiques publiques de la préfecture de la région d’Île-de-France",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6785,7 +6761,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1787334482000",
+      "id": "le-journal-du-grand-paris-rss-4-1787334482000",
       "title": "Tour piéton du Grand Paris express : c’est (re)parti !",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6811,7 +6787,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1787331124000",
+      "id": "le-journal-du-grand-paris-rss-5-1787331124000",
       "title": "Fin des travaux d’été : les derniers chantiers avant la rentrée en Île-de-France",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6837,7 +6813,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1787301665000",
+      "id": "le-journal-du-grand-paris-rss-6-1787301665000",
       "title": "M-S. Ngo Ky (Medef Paris) : « Les premiers signaux envoyés par la mairie de Paris sont positifs »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8986,7 +8962,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1787059169000",
+      "id": "le-journal-du-grand-paris-rss-7-1787059169000",
       "title": "Clap de fin pour les Championnats d’Europe de natation",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9010,7 +8986,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1787058159000",
+      "id": "le-journal-du-grand-paris-rss-8-1787058159000",
       "title": "Paris se prépare à la visite du pape Léon XIV",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9030,32 +9006,6 @@ window.BATIVEILLE_DATA = {
         "Immobilier"
       ],
       "summary": "Le pape Léon XIV effectuera, du 25 au 28 septembre, son premier voyage apostolique en France. Paris constituera la première étape de ce déplacement, avec plusieurs rendez-vous institutionnels et religieux, de Notre-Dame au Stade de France, avant une messe géante place de la Conco…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "capeb-rss-1-1786961525000",
-      "title": "RELANCE : Journées Portes Ouvertes « Very Wood Métiers # Si vous cherchez du bouleau, y’en a dans les bois » 2026",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/relance-journees-portes-ouvertes-very-wood-metiers-si-vous-cherchez-du-bouleau-y-en-a-dans-les-bois-2026",
-      "image": "https://www.capeb.fr/www/capeb/media/vwm-2026-banniere-600x300.jpg",
-      "date": "2026-08-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment",
-        "Réglementation",
-        "Eau",
-        "Biosourcé"
-      ],
-      "summary": "Ensemble, mobilisons-nous pour valoriser les métiers de l’artisanat du bâtiment et attirer de nouveaux talents ! Ensemble, mobilisons-nous pour valoriser les métiers de l’artisanat du bâtiment et attirer de nouveaux talents ! RELANCE : Journées Portes Ouvertes « Very Wood Métiers…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9312,7 +9262,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1786979649000",
+      "id": "le-journal-du-grand-paris-rss-9-1786979649000",
       "title": "Une reprise contrastée du tourisme en juillet",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -9333,31 +9283,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Avec 1,2 million d’arrivées aériennes étrangères et une fréquentation en hausse, juillet 2026 confirme la bonne tenue du tourisme parisien. Mais derrière ces chiffres, les écarts entre clientèles et territoires dessinent une reprise à plusieurs vitesses. Avec 1,2 million d’arrivé…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1786979372000",
-      "title": "Soldes d’été 2026 : un bilan décevant pour les commerçants parisiens",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/soldes-dete-2026-un-bilan-decevant-pour-les-commercants-parisiens/",
-      "image": null,
-      "date": "2026-08-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été"
-      ],
-      "summary": "Le Centre régional d’observation du commerce, de l’industrie et des services (Crocis) de la CCI Paris Île-de-France a publié une enquête concernant les chiffres des soldes d’été 2026 à Paris. Celle-ci fait état d'un résultat décevant pour les commerçants, fortement pénalisés par …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10486,6 +10411,32 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de AURBSE Rouen Seine-Eure. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "mediatico-rss-1-1786086000000",
+      "title": "Canicule : une appli associative cartographie l’accès à l’eau en ville !",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/canicule-une-appli-associative-cartographie-lacces-a-leau-en-ville/",
+      "image": null,
+      "date": "2026-08-07",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Trouver un point d’eau potable en pleine canicule ne devrait pas relever du parcours du combattant. En ces temps de canicule, c’est pourtant la réalité de millions d’usagers dans les villes françaises, où l’information sur les ressources essentielles — sanitaires, eau, ombre — re…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-22-1786117303000",
@@ -12643,32 +12594,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "capeb-rss-2-1785222916000",
-      "title": "Incendies : les dispositifs de soutien mobilisés pour les entreprises du bâtiment",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/incendies-les-dispositifs-de-soutien-mobilises-pour-les-entreprises-du-batiment",
-      "image": "https://www.capeb.fr/www/capeb/media/national/visuel-incendie.jpg",
-      "date": "2026-07-28",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment",
-        "Confort d’été",
-        "Réemploi",
-        "Bâtiment"
-      ],
-      "summary": "Face aux incendies qui touchent notamment la Gironde, les Landes et le Var, de nombreuses entreprises artisanales du bâtiment voient leur activité fortement perturbée, voire interrompue. Afin d'accompagner les professionnels concernés, plusieurs dispositifs de soutien ont été act…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "inc-institut-national-de-la-consommation-rss-3-1785276000000",
       "title": "Calculez votre empreinte carbone",
       "source": "INC — Institut National de la Consommation",
@@ -13433,52 +13358,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "aupa-pays-d-aix-sitemap-8-1784903873000",
-      "title": "habitat modes de vie",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/habitat-modes-de-vie/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-12-1784903873000",
-      "title": "publication",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "filiere-3e-rss-3-1784877428000",
       "title": "Sauter Vision Center 9.2 : de nouvelles fonctionnalités pour améliorer l’efficacité énergétique et la sécurité.",
       "source": "Filière 3e",
@@ -13501,6 +13380,30 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "SAUTER présente Sauter Vision Center 9.2, la nouvelle version de sa plateforme de gestion des bâtiments intelligents, conçue pour améliorer la performance énergétique, renforcer la cybersécurité et optimiser le pilotage des installations. The post Sauter Vision Center 9.2 : de no…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-2-1784880049000",
+      "title": "Mécénat de compétences : quand les entreprises mettent leurs salariés au service des associations",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/mecenat-de-competences-quand-les-entreprises-mettent-leurs-salaries-au-service-des-associations/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Prêter un salarié à une association, sur son temps de travail, pour qu’il y exerce les compétences qu’il exerce déjà en entreprise : c’est le principe du mécénat de compétences. Un dispositif consensuel, utile aux associations comme aux entreprises — mais qui reste marginal. Seul…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13816,6 +13719,32 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Le groupe WAGO prépare son prochain chapitre de croissance : le 15 septembre, Björn Twiehaus (48 ans) prendra ses fonctions de Chief Executive Officer (CEO) de cette entreprise familiale basée à Minden. The post Björn Twiehaus nommé nouveau CEO du groupe Wago appeared first on Fi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-3-1784790000000",
+      "title": "Comment Paris veut changer les règles du jeu de l’ESS",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/comment-paris-veut-changer-les-regles-du-jeu-de-less/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "« Nous ne pourrons pas compenser le désengagement de l’État. » Dès les premières minutes de son intervention, Amina Bouri, adjointe au maire de Paris en charge de l’économie sociale et solidaire, fixe les contours de son action : la Ville de Paris n’a pas les moyens de remplacer …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -14232,6 +14161,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-4-1784703600000",
+      "title": "Groupe SOS : nouvelle gouvernance, ambitions renforcées… et prise de position sans ambiguïté contre le RN",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/groupe-sos-nouvelle-gouvernance-ambitions-renforcees-et-prise-de-position-sans-ambiguite-contre-le-rn/",
+      "image": null,
+      "date": "2026-07-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Économie du bâtiment"
+      ],
+      "summary": "Quarante ans après sa création, le Groupe SOS poursuit sa transformation et amorce une nouvelle phase de son histoire. Engagé à l’origine dans la lutte contre le VIH et les addictions, il est devenu l’un des plus importants acteurs européens de l’économie sociale et solidaire, av…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-42-1784696696000",
       "title": "0,006 € le kilowattheure : la révision du tarif agent d’EDF fait débat",
       "source": "Révolution Énergétique",
@@ -14549,6 +14503,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-5-1784616900000",
+      "title": "150 ans après leur création, les colonies de vacances séduisent toujours… mais accueillent moins d’enfants",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/150-ans-apres-leur-creation-les-colonies-de-vacances-seduisent-toujours-les-francais-mais-accueillent-de-moins-en-moins-denfants/",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "Alors que s’ouvre la saison estivale, les colonies de vacances célèbrent leurs 150 ans. Bon anniversaire ! Ou pas… Car, plébiscitées par l’opinion publique et par les jeunes, elles voient leur fréquentation diminuer année après année. Un paradoxe qui interroge l’avenir des séjour…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-43-1784640827000",
       "title": "Panneaux solaires sur les rails : la SNCF réalise un premier test",
       "source": "Révolution Énergétique",
@@ -14622,30 +14601,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "La part du solaire photovoltaïque dans la production d'électricité de l'Union européenne a atteint un niveau record de 25 % au mois de juin, selon le think tank Ember. La part du solaire photovoltaïque dans la production d&#039;électricité de l&#039;Union européenne a atteint un …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "capeb-rss-3-1784559761000",
-      "title": "CAPEB, IRIS-ST, CNATP et OPPBTP unissent leurs forces pour faire des TPE la priorité de la prévention dans le bâtiment",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/capeb-iris-st-cnatp-et-oppbtp-unissent-leurs-forces-pour-faire-des-tpe-la-priorite-de-la-prevention-dans-le-batiment",
-      "image": "https://www.capeb.fr/www/capeb/media/national/presse-renovation-energetique-1-.png",
-      "date": "2026-07-20",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment",
-        "Bâtiment"
-      ],
-      "summary": "À l’occasion des Rencontres des Métiers du Bâtiment organisées par la CAPEB à Marseille, la CAPEB, la CNATP, l’IRIS-ST et l’OPPBTP ont signé une nouvelle convention de partenariat visant à renforcer l’accompagnement des très petites entreprises du bâtiment et des travaux publics …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -15104,6 +15059,31 @@ window.BATIVEILLE_DATA = {
         "Énergie"
       ],
       "summary": "- Consolide la position d’ABB sur les technologies de référence pour les applications en courant continu The post ABB va faire l’acquisition d’Advantics en France, renforçant son portefeuille de solutions en courant continu appeared first on Filière 3e. - Consolide la position d’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-6-1784543400000",
+      "title": "ESS France lance « ESS – L’économie en mieux » avec le soutien des Caisses d’Epargne",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/ess-france-lance-ess-leconomie-en-mieux-avec-le-soutien-des-caisses-depargne/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Économie du bâtiment"
+      ],
+      "summary": "ESS France, la chambre représentative de l’Économie Sociale et Solidaire, a dévoilé « ESS – L’économie en mieux », une marque unique pour reconnaître l’ensemble des acteurs de l’ESS. Cette initiative, dont Caisse d’Epargne est partenaire premium, vise à apporter de la lisibilité …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -15660,6 +15640,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-7-1784271608000",
+      "title": "Comment Makesense forme les jeunes de quartiers populaires franciliens à agir pour l’écologie",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/former-les-jeunes-de-quartiers-populaires-franciliens-a-agir-pour-lecologie/",
+      "image": null,
+      "date": "2026-07-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Le dernier rapport du GIEC rappelle que l’urgence climatique est l’une des principales préoccupations des moins de 25 ans. Mais dans les quartiers prioritaires de la politique de la ville, cette inquiétude s’accompagne pourtant d’un sentiment d’impuissance :👉 Les difficultés soc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "atmo-france-sitemap-527-1784191387000",
       "title": "qualite de lair lever les freins aux investissements publics",
       "source": "Atmo France",
@@ -16016,6 +16020,31 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Les 8 et 9 octobre prochains, près de 250 chantiers et ateliers ouvriront exceptionnellement leurs portes dans toute la France. The post Les Coulisses du Bâtiment : Plongez dans le quotidien des chantiers ! appeared first on ACPresse. Les 8 et 9 octobre prochains, près de 250 cha…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-8-1784185200000",
+      "title": "Le café des familles : renforcer le pouvoir d’agir des parents en quartier prioritaire de la ville",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/le-cafe-des-familles-renforcer-le-pouvoir-dagir-des-parents-en-quartier-prioritaire-de-la-ville/",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "[Podcast] Qui mieux qu’un habitant pour savoir ce qui manque dans son quartier ? C’est le pari qu’a fait 13 AVENIR dans le 13e arrondissement de Paris avec “Le Café des Familles”.L’association a réuni 12 salariés-habitants de son Entreprise à but d’Emploi pour co-construire, grâc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16572,6 +16601,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-9-1784097900000",
+      "title": "La France accouche enfin d’une stratégie nationale pour l’ESS, après un désaveu politique cinglant",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/la-france-accouche-enfin-dune-strategie-nationale-pour-less-apres-un-desaveu-politique-cinglant/",
+      "image": null,
+      "date": "2026-07-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau"
+      ],
+      "summary": "C’est un moment historique. Avec près de deux ans de retard, la France vient enfin de se doter de sa toute première « Stratégie nationale de développement de l’ESS ». Cocorico ! Sauf que les conditions d’adoption du document sont venues gâcher la fête : 42 abstentions sur 50 vota…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "fibois-france-rss-0-1784112260000",
       "title": "Fondation France Bois Forêt pour notre Patrimoine",
       "source": "Fibois France",
@@ -16841,31 +16895,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Depuis 2022 et jusqu’en 2028, la mise en œuvre progressive de la ZFE-m s’accompagne, dans l’Eurométropole de Strasbourg, de restrictions de circulation visant les véhicules les plus polluants. Cette évolution soulève plusieurs... L’article Observatoire de la zone à faibles émissi…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "techniques-de-lingenieur-actualites-sitemap-21-1783694103000",
-      "title": "wp home",
-      "source": "Techniques de l’Ingénieur Actualités",
-      "sourceId": "techniques-de-lingenieur-actualites",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.techniques-ingenieur.fr/actualite/wp-home/",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Technique",
-        "Énergie",
-        "Environnement",
-        "Innovation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "connaissance-des-energies-rss-14-1783641600000",
@@ -17854,29 +17883,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "aupa-pays-d-aix-sitemap-11-1783427061000",
-      "title": "prospective",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/category/publication/prospective/",
-      "image": null,
-      "date": "2026-07-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "arec-nouvelle-aquitaine-rss-1-1783420380000",
       "title": "Les repères chiffrés 2026 de l’ORDEC : la publication disponible !",
       "source": "AREC Nouvelle-Aquitaine",
@@ -18113,53 +18119,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Territorialiser le réemploi : le Booster publie ses premières fiches territoires Le réemploi dans le bâtiment n’a plus besoin de prouver son intérêt environnemental. Les démonstrateurs existent, les retours d’expérience se multiplient, et la valeur environnementale du réemploi es…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "capeb-rss-4-1783346687000",
-      "title": "Rénovation énergétique : la CAPEB et Crédit Agricole Personal Finance & Mobility s’allient pour lever le frein du financement des travaux",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/renovation-energetique-la-capeb-et-credit-agricole-personal-finance-mobility-s-allient-pour-lever-le-frein-du-financement-des-travaux",
-      "image": "https://www.capeb.fr/www/capeb/media/national/sofinco.png",
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment",
-        "Bâtiment"
-      ],
-      "summary": "Paris, le 6 juillet 2026 — Alors que certains projets de rénovation énergétique restent bloqués faute de solution de financement immédiate, la Confédération de l’artisanat et des petites entreprises du bâtiment (CAPEB) et Crédit Agricole Personal Finance & Mobility, via sa marque…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "capeb-rss-5-1783328095000",
-      "title": "80 ans : l'anniversaire de notre collectif se prépare",
-      "source": "CAPEB",
-      "sourceId": "capeb",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.capeb.fr/actualites/80-ans-lanniversaire-de-notre-collectif-se-prepare",
-      "image": "https://www.capeb.fr/www/capeb/media/national/80-ans.jpg",
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Artisanat",
-        "Rénovation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Nos 80 ans d'histoire collective ont vocation à vivre toute l'année 2026, au-delà de la seule soirée anniversaire que nous préparons pour le 29 septembre prochain aux Folies Gruss. Nos 80 ans d'histoire collective ont vocation à vivre toute l'année 2026, au-delà de la seule soiré…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -18777,29 +18736,6 @@ window.BATIVEILLE_DATA = {
       "summary": "L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM. L’article Les centres-villes face aux défis des transitions est apparu en premier sur AGAM . Les centres-villes face aux défis des transitions",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "aupa-pays-d-aix-sitemap-6-1782901923000",
-      "title": "publications et animations",
-      "source": "AUPA Pays d’Aix",
-      "sourceId": "aupa-pays-d-aix",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://aupa.fr/publications-et-animations/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Aix",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AUPA Pays d’Aix. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "audiar-rennes-rss-3-1782913760000",
