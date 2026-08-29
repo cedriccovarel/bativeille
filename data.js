@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-29T18:22:29.013Z",
+  "generatedAt": "2026-08-29T22:31:48.596Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2393,7 +2393,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1787998597000",
+      "id": "enerzine-rss-0-1788041400000",
+      "title": "Photons intriqués : la lumière solaire remplace les lasers",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/photons-intriques-la-lumiere-solaire-remplace-les-lasers/193011-2026-08",
+      "image": null,
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des chercheurs de l’Université d’Ottawa et de l’Institut Max Planck pour la science de la lumière ont démontré à Erlangen, en Allemagne, que la lumière naturelle du soleil peut générer des photons quantiquement intriqués. Publiée dans la revue Optica, la percée élimine le recours…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1787998597000",
       "title": "Microduck, le petit robot canard avec lequel Hugging Face veut rendre la robotique abordable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2418,7 +2442,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1787976600000",
+      "id": "enerzine-rss-2-1787976600000",
       "title": "Égypte : mise en service de la plus grande centrale hybride d’Afrique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2442,7 +2466,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1787973000000",
+      "id": "enerzine-rss-3-1787973000000",
       "title": "Le diamant fond à 7 300 kelvins, une avancée pour la fusion",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2542,7 +2566,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788027735000",
+      "id": "le-commerce-du-bois-sitemap-0-1788042694000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2568,7 +2592,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788027735000",
+      "id": "le-commerce-du-bois-sitemap-1-1788042694000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2594,7 +2618,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788027735000",
+      "id": "le-commerce-du-bois-sitemap-2-1788042694000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4066,7 +4090,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1787955000000",
+      "id": "enerzine-rss-4-1787955000000",
       "title": "Ferrari Luce adjugée 40 millions de dollars aux enchères à Monterey",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4091,7 +4115,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1787934051000",
+      "id": "enerzine-rss-5-1787934051000",
       "title": "Passoire thermique : la nouvelle révision du DPE rebat les cartes pour 300 000 logements",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4117,7 +4141,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787910600000",
+      "id": "enerzine-rss-6-1787910600000",
       "title": "Diagnostic de performance énergétique : ce que 2027 change vraiment pour les logements",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4143,7 +4167,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787895900000",
+      "id": "enerzine-rss-7-1787895900000",
       "title": "Intrication quantique record entre deux mémoires sur 420 kilomètres de fibre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4168,7 +4192,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787893800000",
+      "id": "enerzine-rss-8-1787893800000",
       "title": "L’Observatoire Rubin livre une mosaïque de 500 000 galaxies au Chili",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4192,7 +4216,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1787890200000",
+      "id": "enerzine-rss-9-1787890200000",
       "title": "Geely Xingyuan détrône Tesla Model Y sur le marché chinois",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4214,30 +4238,6 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "La Xingyuan de Geely, une citadine électrique compacte à hayon d’entrée de gamme, détrône la Model Y de Tesla et devient le modèle le plus vendu en Chine. Un basculement qui montre la montée des véhicules électriques abordables sur le premier marché automobile mondial. Le modèle …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1787886600000",
-      "title": "Une fibre optique plate mille fois plus sensible à la pression",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/une-fibre-optique-plate-mille-fois-plus-sensible-a-la-pression/192990-2026-08",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Des chercheurs ont mis au point une fibre optique plate en forme de ruban. Présentée dans Nature Communications, elle offre une sensibilité à la pression jusqu’à 1 000 fois supérieure à celle des fibres rondes conventionnelles, ouvrant des perspectives pour l’aérospatiale, l’éner…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13632,29 +13632,6 @@ window.BATIVEILLE_DATA = {
         "Air"
       ],
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "batylab-sitemap-0-1785336040000",
-      "title": "actualites",
-      "source": "Batylab",
-      "sourceId": "batylab",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Bretagne",
-      "url": "https://www.batylab.bzh/actualites",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "Bretagne",
-        "REX"
-      ],
-      "summary": "Publication détectée dans le sitemap de Batylab. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
