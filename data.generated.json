@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T23:57:25.829Z",
+  "generatedAt": "2026-08-29T06:27:57.783Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,312 @@
   ],
   "articles": [
     {
+      "id": "reporterre-rss-0-1787980800000",
+      "title": "Manger de la terre, se frotter à des coraux... Comment les animaux se soignent",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Manger-de-la-terre-se-frotter-a-des-coraux-Comment-les-animaux-se-soignent",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/13_animauxgeniaux_dauphinetgorgone_couleur_rvb-ad379.jpg?1787980801",
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Eau",
+        "Biosourcé"
+      ],
+      "summary": "Des coraux pour la peau des dauphins, de la terre pour l'estomac des singes, de l'alcool pour les abeilles malades... Tour d'horizon des techniques mises au point par des animaux pour se soigner. [Chronique « Animaux géniaux »] On nous le serine depuis l'Antiquité : la mémoire de…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1787980620000",
+      "title": "En Ukraine, ils développent une plante capable de capturer les métaux lourds",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/En-Ukraine-ils-developpent-une-plante-capable-de-capturer-les-metaux-lourds",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/illu-reporterre-miscanthusukraine-2_1_-041c7.jpg?1787980623",
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "À 45 km de Kyiv, des chercheurs testent la capacité du miscanthus géant à régénérer les sols dégradés et pollués par la guerre. Cette plante pourrait séquestrer du carbone et capturer les métaux lourds, un défi majeur pour le grenier à blé de l'Europe. Un enterrement », chuchote …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-2-1787980500000",
+      "title": "Des clubs de football optent pour des pelouses synthétiques... remplies de granulés de maïs",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Des-clubs-de-football-optent-pour-des-pelouses-synthetiques-remplies-de-rafle-de-mais",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/07-aberlioz-2026-08-18_resized-fa09d.jpg?1787980501",
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Confort d’été",
+        "Économie du bâtiment"
+      ],
+      "summary": "L'été caniculaire a grillé bien des pelouses. Certains clubs de football se tournent donc vers les terrains synthétiques. Certains fabricants proposent des options « écologiques », à base de maïs notamment, dont le coût reste élevé. Lire la suite - Info / Sports , Canicule L'été …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "vert-rss-0-1787979600000",
+      "title": "Légumes brûlés, maïs en chute libre, prairies grillées… Les chiffres chocs d’un été catastrophique pour l’agriculture française",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/agriculture/legumes-brules-mais-en-chute-libre-prairies-grillees-les-chiffres-chocs-dun-ete-catastrophique-pour-lagriculture-francaise/",
+      "image": null,
+      "date": "2026-08-29",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Depuis fin mai, le manque d’eau et les canicules à répétition ont profondément bouleversé l’ensemble de l’agriculture française, avec des impacts différents selon les filières et les régions. Vert a compilé les chiffres remontés par les filières et les services de l’État pour dre…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1787976600000",
+      "title": "Égypte : mise en service de la plus grande centrale hybride d’Afrique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/egypte-mise-en-service-de-la-plus-grande-centrale-hybride-dafrique/193008-2026-08",
+      "image": null,
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Scatec a annoncé le 12 août la mise en service commerciale de la deuxième phase du projet Obelisk, en Égypte. Avec 1,1 GW de solaire et 100 MW/200 MWh de batteries, le complexe devient, selon l’entreprise, la plus grande installation hybride d’Afrique. L’annonce est tombée le 12 …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1787973000000",
+      "title": "Le diamant fond à 7 300 kelvins, une avancée pour la fusion",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/diamant-fond-7300-kelvins-avancee-fusion/192996-2026-08",
+      "image": null,
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Des chercheurs du Lawrence Livermore National Laboratory ont résolu une divergence vieille de vingt ans sur la fusion du diamant sous pression extrême. Publiée dans Nature Physics, la mesure de 7 300 kelvins pourrait tripler le gain des expériences de fusion nucléaire et affiner …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-0-1787984419000",
+      "title": "Netflix a diffusé l’aperçu étendu de GTA VI et personne ne s’attendait à ce qui s’est passé ensuite sur la plateforme",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/29/netflix-a-diffuse-lapercu-etendu-de-gta-vi-et-personne-ne-sattendait-a-ce-qui-sest-passe-ensuite-sur-la-plateforme/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Netflix-a-diffuse-lapercu-etendu-de-GTA-VI-et-personne-ne-sattendait-a-ce-qui-sest-passe-ensuite-sur-la-plateforme.webp",
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Netflix, Twitch, Discord, Free : quatre pannes en une seule soirée à cause d'une simple bande-annonce. La folie GTA VI vient de faire vaciller la moitié du web. Ce qui vous attend le 19 novembre risque d'être encore plus explosif. L’article Netflix a diffusé l’aperçu étendu de GT…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1787982635000",
+      "title": "Des ouvriers creusent pour une autoroute et mettent au jour des centaines de pièces d’or enfouies depuis des siècles : « ça n’aurait jamais été trouvé »",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/29/des-ouvriers-creusent-pour-une-autoroute-et-mettent-au-jour-des-centaines-de-pieces-dor-enfouies-depuis-des-siecles-ca-naurait-jamais-ete-trouve/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Des-ouvriers-creusent-pour-une-autoroute-et-mettent-au-jour-des-centaines-de-pieces-dor-enfouies-depuis-des-siecles-c.webp",
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Confort d’été",
+        "Réemploi"
+      ],
+      "summary": "22 000 objets, des pièces d'or frappées sur place, aucune trace de guerre... et pourtant cette cité celtique a disparu du jour au lendemain. Une autoroute vient de percer 2 000 ans de mystère. L’article Des ouvriers creusent pour une autoroute et mettent au jour des centaines de …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1787980818000",
+      "title": "Alors que la lutte pour le pétrole fait rage, la Chine suggère une alternative radicale, construire des avions propulsés par de l’eau",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/29/alors-que-la-lutte-pour-le-petrole-fait-rage-la-chine-suggere-une-alternative-radicale-construire-des-avions-propulses-par-de-leau/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Alors-que-la-lutte-pour-le-petrole-fait-rage-la-Chine-suggere-une-alternative-radicale-construire-des-avions-propulses.webp",
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "16 minutes de vol, une température de moins 253 degrés à maîtriser, et une ambition folle : propulser les avions commerciaux à l'hydrogène d'ici 2050. La Chine vient-elle de griller la politesse à Airbus ? L’article Alors que la lutte pour le pétrole fait rage, la Chine suggère u…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1787984865000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1787984865000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1787984865000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1787904001000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -3071,7 +3377,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1787928575000",
+      "id": "reporterre-rss-3-1787928575000",
       "title": "« On a perdu beaucoup de betteraves à sucre » : les agriculteurs pâtissent de l'été caniculaire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3097,7 +3403,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1787924850000",
+      "id": "reporterre-rss-4-1787924850000",
       "title": "Légumes asséchés, productions perdues... Une crise historique se confirme pour l'agriculture",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3122,7 +3428,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1787924337000",
+      "id": "reporterre-rss-5-1787924337000",
       "title": "Algues vertes : l'État renforce la lutte... sans remettre en cause l'élevage",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3147,7 +3453,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1787924269000",
+      "id": "reporterre-rss-6-1787924269000",
       "title": "« On ne va pas se laisser faire » : la riposte contre le futur parc Dragon Ball commence",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3173,7 +3479,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1787919995000",
+      "id": "reporterre-rss-7-1787919995000",
       "title": "Deux fois plus de déchets abandonnés dans les calanques de Marseille cet été",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3199,7 +3505,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1787919019000",
+      "id": "reporterre-rss-8-1787919019000",
       "title": "Grand tétras : la fin du programme de réintroduction dans les Vosges confirmée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3224,7 +3530,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1787912930000",
+      "id": "reporterre-rss-9-1787912930000",
       "title": "L'État sort 300 000 logements du statut de « passoires thermiques »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3250,7 +3556,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1787901750000",
+      "id": "reporterre-rss-10-1787901750000",
       "title": "El Niño : le Panama décrète un état d'urgence climatique, aussitôt contesté",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3276,7 +3582,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1787894100000",
+      "id": "reporterre-rss-11-1787894100000",
       "title": "« Ça devient orchestré » : le lobbying des laboratoires pour peser sur la Haute autorité de santé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3301,7 +3607,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1787893200000",
+      "id": "reporterre-rss-12-1787893200000",
       "title": "Comment choisir ses pâtes quand 80 % sont contaminées au cadmium ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3325,7 +3631,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1787905837000",
+      "id": "vert-rss-1-1787905837000",
       "title": "Il va disparaître des Vosges : le grand tétras ne sera plus réintroduit dans le massif, après deux ans de lâchers critiqués",
       "source": "Vert",
       "sourceId": "vert",
@@ -3351,7 +3657,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1787889600000",
+      "id": "vert-rss-2-1787889600000",
       "title": "Près de Lyon, ils apprennent à construire leur maison en paille et en bois : «C’est un choix politique, qui allie écologie et économie»",
       "source": "Vert",
       "sourceId": "vert",
@@ -3607,7 +3913,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1787955000000",
+      "id": "enerzine-rss-2-1787955000000",
       "title": "Ferrari Luce adjugée 40 millions de dollars aux enchères à Monterey",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3632,7 +3938,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1787934051000",
+      "id": "enerzine-rss-3-1787934051000",
       "title": "Passoire thermique : la nouvelle révision du DPE rebat les cartes pour 300 000 logements",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3658,7 +3964,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1787910600000",
+      "id": "enerzine-rss-4-1787910600000",
       "title": "Diagnostic de performance énergétique : ce que 2027 change vraiment pour les logements",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3684,7 +3990,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1787895900000",
+      "id": "enerzine-rss-5-1787895900000",
       "title": "Intrication quantique record entre deux mémoires sur 420 kilomètres de fibre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3709,7 +4015,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1787893800000",
+      "id": "enerzine-rss-6-1787893800000",
       "title": "L’Observatoire Rubin livre une mosaïque de 500 000 galaxies au Chili",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3733,7 +4039,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787890200000",
+      "id": "enerzine-rss-7-1787890200000",
       "title": "Geely Xingyuan détrône Tesla Model Y sur le marché chinois",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3759,7 +4065,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787886600000",
+      "id": "enerzine-rss-8-1787886600000",
       "title": "Une fibre optique plate mille fois plus sensible à la pression",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3934,7 +4240,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "lenergeek-rss-0-1787921609000",
+      "id": "lenergeek-rss-3-1787921609000",
       "title": "ID. California Cruise : l’autonomie électrique face au défi du camping itinérant",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3958,7 +4264,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1787916012000",
+      "id": "lenergeek-rss-4-1787916012000",
       "title": "Nucléaire : deux réacteurs à l’arrêt à Gravelines",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3984,7 +4290,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1787915586000",
+      "id": "lenergeek-rss-5-1787915586000",
       "title": "ZFE : l’Insee estime que l’impact sur le pollution de l’air est limitié",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4009,7 +4315,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1787898045000",
+      "id": "lenergeek-rss-6-1787898045000",
       "title": "Changement de nom sur le contrat d’électricité : voilà la règle officielle imposée par la loi avant la coupure",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4035,7 +4341,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1787896207000",
+      "id": "lenergeek-rss-7-1787896207000",
       "title": "Prix des carburants : voilà les 10 conseils officiels pour réduire votre consommation",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4060,7 +4366,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1787894443000",
+      "id": "lenergeek-rss-8-1787894443000",
       "title": "Ils creusaient pour poser des panneaux solaires dans leur champ : sous la terre, une forteresse de 5 000 ans que personne ne soupçonnait",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4084,84 +4390,6 @@
       "summary": "Une dague romaine, un squelette solitaire, une forteresse abandonnée depuis 2 500 ans : comment cet homme s'est-il retrouvé là ? Les archéologues eux-mêmes n'ont pas encore toutes les réponses. L’article Ils creusaient pour poser des panneaux solaires dans leur champ : sous la te…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1787961432000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1787961432000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1787961432000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1787930014000",
@@ -5262,7 +5490,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1787847648000",
+      "id": "reporterre-rss-13-1787847648000",
       "title": "Intrusion chez Lafarge : les militants écologistes condamnés à de la prison avec sursis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5287,7 +5515,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1787847029000",
+      "id": "reporterre-rss-14-1787847029000",
       "title": "Crues meurtrières au Népal : comment le dérèglement climatique fragilise le toit du monde",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5313,7 +5541,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1787832903000",
+      "id": "reporterre-rss-15-1787832903000",
       "title": "Légionellose : le brumisateur d'un restaurant de Chambéry à l'origine de contaminations",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5338,7 +5566,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1787832141000",
+      "id": "reporterre-rss-16-1787832141000",
       "title": "« Ce n'est pas ici qu'on a trouvé une solution » : la déception des éleveurs à la COP17 sur la désertification",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5364,7 +5592,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1787831863000",
+      "id": "reporterre-rss-17-1787831863000",
       "title": "Canicule : 15 800 morts liés à la chaleur en Allemagne, un record",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5390,7 +5618,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1787831545000",
+      "id": "reporterre-rss-18-1787831545000",
       "title": "Il a fait tellement chaud cet été que des œufs de crocodile ont éclos naturellement dans la Drôme",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5415,7 +5643,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1787820486000",
+      "id": "reporterre-rss-19-1787820486000",
       "title": "Au moins 270 morts dans des inondations dévastatrices au Népal et au Tibet",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5439,7 +5667,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1787815713000",
+      "id": "reporterre-rss-20-1787815713000",
       "title": "« Des hôpitaux font des opérations dans le noir » : la chaleur et la clim privent la Tunisie d'électricité",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5465,7 +5693,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1787810400000",
+      "id": "reporterre-rss-21-1787810400000",
       "title": "Réchauffement de la Méditerranée : « Les écosystèmes marins se dirigent vers une révolution »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5491,7 +5719,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1787806800000",
+      "id": "reporterre-rss-22-1787806800000",
       "title": "« On apprend à souffrir en silence » : dans les écoles vétérinaires, des suicides et un mal-être généralisé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5516,7 +5744,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1787837542000",
+      "id": "vert-rss-3-1787837542000",
       "title": "La crue meurtrière au Népal et au Tibet est-elle liée au réchauffement climatique ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -5541,7 +5769,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1787803200000",
+      "id": "vert-rss-4-1787803200000",
       "title": "Après un été brûlant, la rentrée s’annonce chaude : tour d’horizon des principales manifestations pour le climat et l’écologie",
       "source": "Vert",
       "sourceId": "vert",
@@ -5669,7 +5897,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787868600000",
+      "id": "enerzine-rss-9-1787868600000",
       "title": "Des moteurs de lumière dans le monde quantique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5693,57 +5921,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1787836500000",
-      "title": "Cadmium dans les pâtes : pourquoi Barilla, Panzanie, Rummo cristallisent l’inquiétude",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/cadmium-dans-les-pates-pourquoi-barilla-panzanie-rummo-cristallisent-linquietude/193393-2026-08",
-      "image": null,
-      "date": "2026-08-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "La simple évocation d’un métal lourd dans un produit aussi familier que les pâtes a de quoi couper l’appétit. Ce jeudi, la publication d’une enquête de 60 Millions de consommateurs a placé la marque Barilla au centre d’une vague d’interrogations. Les analyses montrent que la majo…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1787834400000",
-      "title": "Apple surclasse certains acheteurs de Mac mini M4 vers les M5 Pro ou M6",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/apple-surclasse-mac-mini-m4-m5-pro-m6/193385-2026-08",
-      "image": null,
-      "date": "2026-08-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Deux jours après la présentation officielle du nouveau Mac mini, une information singulière agite les forums et les réseaux sociaux. Plusieurs clients ayant récemment commandé un Mac mini M4 se verraient discrètement surclassés vers une machine équipée d’une puce M5 Pro ou M6, sa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-6-1787834161000",
+      "id": "lenergeek-rss-9-1787834161000",
       "title": "Nucléaire modulaire : les trois microréacteurs qui vont alimenter l’armée américaine",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5769,7 +5947,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1787819599000",
+      "id": "lenergeek-rss-10-1787819599000",
       "title": "Un chantier naval danois entretient la flotte qui rapporte 1,9 Md€ à Moscou",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5795,7 +5973,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1787812909000",
+      "id": "lenergeek-rss-11-1787812909000",
       "title": "États-Unis : Donald Trump déclare l’état d’urgence sur le réseau électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5820,7 +5998,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1787811650000",
+      "id": "lenergeek-rss-12-1787811650000",
       "title": "Pourquoi il ne faut jamais jeter vos verres cassés dans le bac à verre : les éboueurs alertent sur un danger que personne ne soupçonne",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5845,7 +6023,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1787809822000",
+      "id": "lenergeek-rss-13-1787809822000",
       "title": "Jusqu’à 500 000 passoires thermiques vont changer de statut grâce à une simple modification du DPE, sans aucun travaux",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5870,7 +6048,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1787808048000",
+      "id": "lenergeek-rss-14-1787808048000",
       "title": "Geely promet une recharge complète en quelques minutes : les ingénieurs de Tesla et BYD n’avaient pas vu venir cette technologie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5895,7 +6073,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1787803802000",
+      "id": "lenergeek-rss-15-1787803802000",
       "title": "Diesel +59%, GNL asiatique +75% : la facture énergétique explose",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6761,7 +6939,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1787759490000",
+      "id": "reporterre-rss-23-1787759490000",
       "title": "L'éolien et le solaire au secours du système électrique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6787,7 +6965,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1787752755000",
+      "id": "reporterre-rss-24-1787752755000",
       "title": "« Elles seront les dernières à brûler » : face au chaos climatique, les vieilles forêts résistent",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6813,7 +6991,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1787752709000",
+      "id": "reporterre-rss-25-1787752709000",
       "title": "Trop pollués, certains arbres finissent par polluer eux-mêmes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6838,7 +7016,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1787748626000",
+      "id": "reporterre-rss-26-1787748626000",
       "title": "Un cycliste poignardé au cou par un automobiliste après une altercation à Paris",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6863,7 +7041,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1787747711000",
+      "id": "reporterre-rss-27-1787747711000",
       "title": "Sortie des énergies fossiles : plus de 200 organisations interpellent la Commission européenne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6889,7 +7067,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1787745272000",
+      "id": "reporterre-rss-28-1787745272000",
       "title": "Elon Musk veut construire le plus grand site de lancement spatial au monde",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6915,7 +7093,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1787737450000",
+      "id": "reporterre-rss-29-1787737450000",
       "title": "En images : Pomas, au lendemain de la tornade",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6940,7 +7118,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1787731534000",
+      "id": "reporterre-rss-30-1787731534000",
       "title": "Victime d'un traitement hormonal, elle est devenue lanceuse d'alerte",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6966,7 +7144,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1787724000000",
+      "id": "reporterre-rss-31-1787724000000",
       "title": "« Nous avons dû agir » : contre la ruée vers l'or, ces petites villes font leur propre loi",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6992,7 +7170,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1787720400000",
+      "id": "reporterre-rss-32-1787720400000",
       "title": "JO 2030 : des goodies « made in China » malgré la promesse de Laurent Wauquiez",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7017,7 +7195,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1787738591000",
+      "id": "vert-rss-5-1787738591000",
       "title": "Tornade à Pomas : ce genre de phénomène devient-il plus fréquent et plus intense avec le réchauffement climatique ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -7042,7 +7220,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1787733000000",
+      "id": "vert-rss-6-1787733000000",
       "title": "«Groenland, échos arctiques» : une BD pour naviguer au cœur du réchauffement climatique",
       "source": "Vert",
       "sourceId": "vert",
@@ -7066,7 +7244,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1787716800000",
+      "id": "vert-rss-7-1787716800000",
       "title": "Après un été caniculaire, ces Français s’engagent pour l’écologie : «J’ai compris que l’action battait l’anxiété»",
       "source": "Vert",
       "sourceId": "vert",
@@ -7246,7 +7424,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1787755182000",
+      "id": "lenergeek-rss-16-1787755182000",
       "title": "Gaz : pourquoi le Qatar ne parvient plus à exporter son GNL",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7271,7 +7449,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1787735690000",
+      "id": "lenergeek-rss-17-1787735690000",
       "title": "Heures creuses : une ouverture inédite aux petits consommateurs d’électricité",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7297,7 +7475,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1787729906000",
+      "id": "lenergeek-rss-18-1787729906000",
       "title": "Renault 5 Five : une nouvelle batterie qui améliore considérablement l’autonomie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7321,7 +7499,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1787725200000",
+      "id": "lenergeek-rss-19-1787725200000",
       "title": "Tous les propriétaires de moteur Diesel ont déjà commis cette erreur : voilà l’astuce qui les a sauvé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7345,7 +7523,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1787723561000",
+      "id": "lenergeek-rss-20-1787723561000",
       "title": "Pétrole : le Brent perd 3,89% et le WTI 3,12% mardi 25 août 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7371,7 +7549,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1787723441000",
+      "id": "lenergeek-rss-21-1787723441000",
       "title": "Ces 5 déchets sont interdits en déchetterie : comment s’en débarrasser et éviter une amende",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7396,7 +7574,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1787721648000",
+      "id": "lenergeek-rss-22-1787721648000",
       "title": "Vous utilisez Gmail tous les jours, mais un réglage activé par défaut expose vos mails : un informaticien montre comment le couper en 30 secondes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8033,7 +8211,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1787672852000",
+      "id": "reporterre-rss-33-1787672852000",
       "title": "La guerre par les flammes : Israël brûle forêts et vergers au Sud-Liban",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8059,7 +8237,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1787670684000",
+      "id": "reporterre-rss-34-1787670684000",
       "title": "Les dauphins du Marineland n'iront pas à Beauval qui renonce à son projet de delphinarium",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8085,7 +8263,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1787667247000",
+      "id": "reporterre-rss-35-1787667247000",
       "title": "1 milliard d'euros pour le Fonds vert : une hausse loin des besoins",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8111,7 +8289,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1787665613000",
+      "id": "reporterre-rss-36-1787665613000",
       "title": "Avec leurs vidéos, deux frères dynamisent une lutte contre du gaz naturel liquéfié",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8136,7 +8314,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1787664614000",
+      "id": "reporterre-rss-37-1787664614000",
       "title": "IA : Trump veut autoriser le plus grand projet gazier jamais réalisé aux États-Unis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8162,7 +8340,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1787662368000",
+      "id": "reporterre-rss-38-1787662368000",
       "title": "L'Arabie saoudite va créer trois parcs d'attractions près de Paris, Emmanuel Macron ravi",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8188,7 +8366,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1787661216000",
+      "id": "reporterre-rss-39-1787661216000",
       "title": "Interdiction des pubs pour les énergies fossiles : l'ambition du décret revue à la baisse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8214,7 +8392,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1787651019000",
+      "id": "reporterre-rss-40-1787651019000",
       "title": "« C'est pas le trail qui fait fondre les glaciers » : chez les coureurs de l'Ultra trail du Mont-Blanc, la tentation du déni",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8238,7 +8416,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1787643157000",
+      "id": "reporterre-rss-41-1787643157000",
       "title": "Présidentielle 2027 : et soudain, l'écologie est partout",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8263,7 +8441,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1787637908000",
+      "id": "reporterre-rss-42-1787637908000",
       "title": "Des énergies fossiles ou rien : Donald Trump sabote l'éolien en mer",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8289,7 +8467,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1787650169000",
+      "id": "vert-rss-8-1787650169000",
       "title": "«Où irons-nous ?» : pour sauver le canal de Panama face à la sécheresse, 38 villages bientôt engloutis par un lac artificiel géant",
       "source": "Vert",
       "sourceId": "vert",
@@ -8390,7 +8568,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1787657339000",
+      "id": "lenergeek-rss-23-1787657339000",
       "title": "Exxon automatise ses plateformes de forage dans le Permien",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8411,80 +8589,6 @@
         "Réglementation"
       ],
       "summary": "ExxonMobil accélère l'automatisation de ses plateformes de forage dans le bassin du Permien, au Texas, avec un objectif de 50% de sa flotte robotisée d'ici 2028. Cette stratégie vise à porter la production de pétrole à 2,5 millions de barils par jour en 2030, soit une hausse de 4…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-21-1787643275000",
-      "title": "Détroit d’Ormuz : le prix transport de pétrole s’envole annonce Patrick Pouyanne",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/25/petrole-transport-fret-detroit-ormuz/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/08/shutterstock_690400219.jpg",
-      "date": "2026-08-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "Patrick Pouyanne, PDG de TotalEnergies, révèle que l'entreprise achète du pétrole entre 50 et 60 dollars dans le golfe Persique, avec des coûts de fret de 10 dollars par baril via le détroit d'Ormuz. Malgré six mois de conflit régional, ce passage stratégique continue d'acheminer…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1787638811000",
-      "title": "Ce prince saoudien voulait remorquer un iceberg jusqu’au désert pour irriguer son pays : les ingénieurs ont d’abord ri, puis ont fait les calculs",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/25/ce-prince-saoudien-voulait-remorquer-un-iceberg-jusquau-desert-pour-irriguer-son-pays-les-ingenieurs-ont-dabord-ri-puis-ont-fait-les-calculs/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Ce-prince-saoudien-voulait-remorquer-un-iceberg-jusquau-desert-pour-irriguer-son-pays-les-ingenieurs-ont-dabord-ri-pu.webp",
-      "date": "2026-08-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Un prince saoudien, un bloc de glace de 1,1 tonne, un aller-retour Alaska-Iowa à 8 500 dollars. Pourquoi ce projet fou de remorquer des icebergs dans le désert a-t-il finalement échoué ? L’article Ce prince saoudien voulait remorquer un iceberg jusqu’au désert pour irriguer son p…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1787637243000",
-      "title": "Prix du carburant : l’aide de 100 euros finalement maintenue",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/25/carburant-prix-aide-100-euros-finalement-maintenue/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/07/shutterstock_1769011256.jpg",
-      "date": "2026-08-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Le gouvernement français annonce la reconduction de l'aide carburant de 100 euros destinée aux entreprises et aux travailleurs modestes grands rouleurs au-delà du 31 août 2026. Maud Bregeon, ministre déléguée à l'Énergie, confirme également la prolongation du chèque énergie dans …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8979,7 +9083,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1787583811000",
+      "id": "reporterre-rss-43-1787583811000",
       "title": "Seulement 16 % des mesures de la Convention citoyenne pour le climat sont vraiment appliquées",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9004,7 +9108,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1787580643000",
+      "id": "reporterre-rss-44-1787580643000",
       "title": "La température moyenne à la surface des océans vient de battre un nouveau record",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9030,7 +9134,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1787579175000",
+      "id": "reporterre-rss-45-1787579175000",
       "title": "« Ce n'est pas acceptable » : à la COP17, la société civile exclue des débats",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9056,7 +9160,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1787578930000",
+      "id": "reporterre-rss-46-1787578930000",
       "title": "Sécurité alimentaire : l'agro-industrie monopolise un débat européen",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9081,7 +9185,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1787578363000",
+      "id": "reporterre-rss-47-1787578363000",
       "title": "50 000 Suédois manifestent pour le climat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9106,7 +9210,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1787573466000",
+      "id": "reporterre-rss-48-1787573466000",
       "title": "Rentrée scolaire : 6 astuces pour des fournitures plus écolos (et moins mauvaises pour la santé)",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9131,7 +9235,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1787558914000",
+      "id": "reporterre-rss-49-1787558914000",
       "title": "Des centaines de canards pris au piège à la frontière franco-belge",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9156,7 +9260,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1787557227000",
+      "id": "reporterre-rss-50-1787557227000",
       "title": "« Une aberration » : l'autorisation de tuer les renards et autres animaux classés « nuisibles » renouvelée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9182,7 +9286,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1787547600000",
+      "id": "reporterre-rss-51-1787547600000",
       "title": "« Diktat végane » : un vote populaire sur l'alimentation divise la Suisse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9206,7 +9310,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1787562828000",
+      "id": "vert-rss-9-1787562828000",
       "title": "Sécheresse et canicules à répétition : des Pyrénées-Orientales à la Guadeloupe, la France est en voie de désertification",
       "source": "Vert",
       "sourceId": "vert",
@@ -9334,7 +9438,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1787466959000",
+      "id": "reporterre-rss-52-1787466959000",
       "title": "Comment les oiseaux migrateurs affrontent-ils la sécheresse ? Des naturalistes leur rendent visite en canoë",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9356,31 +9460,6 @@
         "Eau"
       ],
       "summary": "Chaque année, une équipe recense et bague les oiseaux migrateurs de l'étang de Marcenay, en Côte-d'Or. Une mission délicate mais indispensable pour étudier les stratégies de halte migratoire des oiseaux, perturbées cette année par la sécheresse. Lire la suite - Reportage / Animau…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "vert-rss-9-1787461200000",
-      "title": "«Les avancées ne sont pas à la hauteur» : à l’UTMB, les paradoxes de l’adaptation de la grand-messe de l’ultra-trail",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/culture/sports-et-loisirs/les-avancees-ne-sont-pas-a-la-hauteur-a-lutmb-les-paradoxes-de-ladaptation-de-la-grand-messe-de-lultra-trail/",
-      "image": null,
-      "date": "2026-08-23",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques",
-        "Réglementation"
-      ],
-      "summary": "En 2025, la mythique course de l’Ultra-trail du Mont-Blanc (UTMB) annonçait vouloir réduire de 20% ses émissions de gaz à effet de serre d’ici 2030. Si l’édition 2026, qui débute ce lundi, marque d’importantes avancées, elle reste confrontée à sa propre démesure : un événement po…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9411,7 +9490,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1787384700000",
+      "id": "reporterre-rss-53-1787384700000",
       "title": "L'eau manque ? Trois ouvrages pour comprendre cette précieuse ressource",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9437,7 +9516,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1787374800000",
+      "id": "reporterre-rss-54-1787374800000",
       "title": "« Il ne suffit pas d'avoir eu raison » : Les Écologistes cherchent une boussole pour 2027",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9463,7 +9542,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1787374800000",
+      "id": "reporterre-rss-55-1787374800000",
       "title": "« Un discours autour de l'habitabilité de la planète » : la France insoumise se présente comme le parti de l'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9662,7 +9741,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1787326006000",
+      "id": "reporterre-rss-56-1787326006000",
       "title": "« Un soupir de soulagement » : Trump suspend son projet anti-immigration dans un parc national",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9687,7 +9766,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1787324158000",
+      "id": "reporterre-rss-57-1787324158000",
       "title": "El Niño : un épisode d'une ampleur « sans précédent » prévu pour 2026",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9713,7 +9792,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1787322123000",
+      "id": "reporterre-rss-58-1787322123000",
       "title": "PFAS, « chaleur fatale »... Un projet de data centers destinés à l'IA révolte des riverains",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9738,7 +9817,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1787322120000",
+      "id": "reporterre-rss-59-1787322120000",
       "title": "Métaux lourds dans les jardins : des maisons inhabitables en Charente-Maritime",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9760,84 +9839,6 @@
         "Confort d’été"
       ],
       "summary": "Du plomb, cadmium et arsenic dans le jardin. Depuis plus de vingt ans, les habitants de Tonnay-Charente (Charente-Maritime) dénoncent la pollution d'une usine d'engrais appartenant à la société Timac Agro. En 2019, les autorités avaient lancé une étude d'interprétation de l'état …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-57-1787320957000",
-      "title": "Trop de chevaux sauvages ? Trump trouve une astuce pour les envoyer à l'abattoir",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Trop-de-chevaux-sauvages-Trump-trouve-une-astuce-pour-les-envoyer-a-l-abattoir",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH468/11033778405_4fea45ef95_k-99059.jpg?1787320959",
-      "date": "2026-08-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le gouvernement Trump a trouvé une astuce pour éliminer les coûteux 58 000 chevaux mustangs sauvages qu'il garde dans des parcs fédéraux. Le New York Times a révélé que le Bureau of Land Management (BLM), l'agence chargée de protéger ces animaux, les solde à bas prix à des interm…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-58-1787320914000",
-      "title": "Quelle union pour la gauche ? Ce qu'en pensent les militants écologistes et LFI aux universités d'été",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Ecologistes-tirailles-insoumis-remontes-a-bloc-les-militants-face-aux-strategies-de-leur",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/1-17-9c16c.png?1787320918",
-      "date": "2026-08-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Confort d’été",
-        "Biosourcé"
-      ],
-      "summary": "Aux Journées d'été des Écologistes, dans l'Isère, les militants soutiennent Tondelier mais hésitent sur la stratégie à tenir face à LFI à huit mois de la présidentielle. Côté insoumis, l'envie de rupture se fait sentir. Reporterre a assisté aux rassemblements politiques estivaux …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1787318840000",
-      "title": "IA : aux États-Unis, des centrales à gaz sont construites pour alimenter les data centers",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/IA-aux-Etats-Unis-des-centrales-a-gaz-sont-construites-pour-alimenter-les-data-centers",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/metamegagaz-3f471.jpg?1787318840",
-      "date": "2026-08-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Le média étasunien Bloomberg News a analysé 99 projets de centrales au gaz naturel que prévoient de construire les exploitants de data centers pour se fournir en électricité. Si toutes ces centrales étaient en service, elles émettraient environ 318 millions de tonnes de dioxyde d…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
