@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-29T14:59:55.589Z",
+  "generatedAt": "2026-08-29T18:22:29.013Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,7 +2161,33 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
-      "id": "odeys-rss-0-1787989496000",
+      "id": "odeys-rss-0-1788004303000",
+      "title": "Webinaire Rénovation Performante : Isolation intérieure biosourcée : que nous apprennent la recherche et l'instrumentation de parois isolées ?",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/actualites/webinaire-renovation-performante-isolation-interieure-biosourcee-que-nous-apprennent-la",
+      "image": "https://www.odeys.fr/sites/default/files/styles/large/public/2026-08/asset-v1_ASDER%2BASDERclefs%2BSESSION08%2Btype%40asset%2Bblock%40AA-MOOC-Asder-ARCANNE.png?itok=LnKMl0KY",
+      "date": "2026-08-29",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "24.09.2026 Webinaire : Rénovation performante - les clés de la réhabilitation énergétique Isolation intérieure biosourcée : que nous apprennent la recherche et l'instrumentation de parois isolées ? 📆 Jeudi 24 Septembre 🕑 12:30 à 14:00 À la suite des présentations du programme d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "odeys-rss-1-1787989496000",
       "title": "EXCLUSIF : EXPERIMENTATION ET CONFERENCE Human Adaptation Institute",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -2187,7 +2213,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-1-1787988510000",
+      "id": "odeys-rss-2-1787988510000",
       "title": "56e Congrès du collège national des experts architectes français",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -2367,6 +2393,80 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "enerzine-rss-0-1787998597000",
+      "title": "Microduck, le petit robot canard avec lequel Hugging Face veut rendre la robotique abordable",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/microduck-robot-canard-hugging-face-pollen-robotics/193441-2026-08",
+      "image": null,
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "À retenir : Microduck est un robot bipède de 25 cm créé par Pollen Robotics, l’équipe de robotique bordelaise de Hugging Face. Vendu à partir de 399 dollars hors taxes et frais de livraison, il embarque 15 moteurs, une caméra, un LiDAR compact, deux capteurs inertiels et un bec a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1787976600000",
+      "title": "Égypte : mise en service de la plus grande centrale hybride d’Afrique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/egypte-mise-en-service-de-la-plus-grande-centrale-hybride-dafrique/193008-2026-08",
+      "image": null,
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Scatec a annoncé le 12 août la mise en service commerciale de la deuxième phase du projet Obelisk, en Égypte. Avec 1,1 GW de solaire et 100 MW/200 MWh de batteries, le complexe devient, selon l’entreprise, la plus grande installation hybride d’Afrique. L’annonce est tombée le 12 …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1787973000000",
+      "title": "Le diamant fond à 7 300 kelvins, une avancée pour la fusion",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/diamant-fond-7300-kelvins-avancee-fusion/192996-2026-08",
+      "image": null,
+      "date": "2026-08-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Des chercheurs du Lawrence Livermore National Laboratory ont résolu une divergence vieille de vingt ans sur la fusion du diamant sous pression extrême. Publiée dans Nature Physics, la mesure de 7 300 kelvins pourrait tripler le gain des expériences de fusion nucléaire et affiner …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "lenergeek-rss-0-1787984419000",
       "title": "Netflix a diffusé l’aperçu étendu de GTA VI et personne ne s’attendait à ce qui s’est passé ensuite sur la plateforme",
       "source": "L’ÉnerGeek",
@@ -2442,7 +2542,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788015581000",
+      "id": "le-commerce-du-bois-sitemap-0-1788027735000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2468,7 +2568,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788015581000",
+      "id": "le-commerce-du-bois-sitemap-1-1788027735000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2494,7 +2594,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788015581000",
+      "id": "le-commerce-du-bois-sitemap-2-1788027735000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2816,6 +2916,32 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "meteo-france-rss-0-1787902213000",
+      "title": "Comment choisit-on le nom d’une tempête ?",
+      "source": "Météo-France",
+      "sourceId": "meteo-france",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://meteofrance.com/meteo-a-z/comment-choisit-on-le-nom-dune-tempete",
+      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/liste-noms-des-tempetes-2026-2027.jpg?itok=UTB74Y_W",
+      "date": "2026-08-28",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 100,
+      "tags": [
+        "Climat",
+        "Canicule",
+        "Données météo",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "Comment choisit-on le nom d’une tempête ? Donner un nom aux tempêtes permet de communiquer plus efficacement à l'approche d'un phénomène de vent violent. Le système de dénomination de tempêtes a déjà été mis en place avec succès en 2016 par le Royaume-Uni et l'Irlande rejoints de…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "batiweb-rss-0-1787904000000",
@@ -3940,6 +4066,182 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "enerzine-rss-3-1787955000000",
+      "title": "Ferrari Luce adjugée 40 millions de dollars aux enchères à Monterey",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/ferrari-luce-adjugee-40-millions-de-dollars-aux-encheres-a-monterey/192987-2026-08",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "La première Ferrari électrique de série, la Luce, a été adjugée 40 millions de dollars à Monterey, en Californie, chez RM Sotheby’s. L’estimation initiale d’environ 1,1 million de dollars a été pulvérisée, et l’intégralité de la somme financera des initiatives éducatives de la Fo…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-4-1787934051000",
+      "title": "Passoire thermique : la nouvelle révision du DPE rebat les cartes pour 300 000 logements",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/passoire-thermique-revision-dpe-300-000-logements/193427-2026-08",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "Un arrêté publié au Journal officiel modifie en profondeur le calcul du diagnostic de performance énergétique (DPE). Conséquence directe : environ 300 000 logements pourraient sortir du statut de passoire thermique. Une notion mouvante, au cœur des tensions immobilières Une passo…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-5-1787910600000",
+      "title": "Diagnostic de performance énergétique : ce que 2027 change vraiment pour les logements",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/dpe-2027-evolution-coefficient-electricite-attestation/193411-2026-08",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "À l’approche du 1er janvier 2027, le diagnostic de performance énergétique (DPE) s’apprête à connaître une révision dont les effets pourraient redessiner la carte des passoires thermiques en France. Un arrêté publié fin août 2026 abaisse le coefficient de conversion de l’électric…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-6-1787895900000",
+      "title": "Intrication quantique record entre deux mémoires sur 420 kilomètres de fibre",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/intrication-quantique-record-entre-deux-memoires-sur-420-kilometres-de-fibre/193017-2026-08",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Des physiciens de l’Université des sciences et technologies de Chine ont intriqué deux mémoires quantiques sur 420 kilomètres de fibre optique, un record d’intrication matière à matière. Publiée dans Physical Review Letters, l’expérience dépasse de plus de quatre fois les distanc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-7-1787893800000",
+      "title": "L’Observatoire Rubin livre une mosaïque de 500 000 galaxies au Chili",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/lobservatoire-rubin-livre-une-mosaique-de-500-000-galaxies-au-chili/193025-2026-08",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "L’Observatoire Vera C. Rubin, installé au sommet du Cerro Pachón au Chili, publie une mosaïque du champ COSMOS rassemblant plus de 500 000 galaxies et 50 000 étoiles. L’image, capturée par la caméra LSST de 3,2 gigapixels entre avril 2025 et janvier 2026, inaugure le relevé de di…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-8-1787890200000",
+      "title": "Geely Xingyuan détrône Tesla Model Y sur le marché chinois",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/geely-xingyuan-detrone-tesla-model-y-sur-le-marche-chinois/193005-2026-08",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "La Xingyuan de Geely, une citadine électrique compacte à hayon d’entrée de gamme, détrône la Model Y de Tesla et devient le modèle le plus vendu en Chine. Un basculement qui montre la montée des véhicules électriques abordables sur le premier marché automobile mondial. Le modèle …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-9-1787886600000",
+      "title": "Une fibre optique plate mille fois plus sensible à la pression",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/une-fibre-optique-plate-mille-fois-plus-sensible-a-la-pression/192990-2026-08",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des chercheurs ont mis au point une fibre optique plate en forme de ruban. Présentée dans Nature Communications, elle offre une sensibilité à la pression jusqu’à 1 000 fois supérieure à celle des fibres rondes conventionnelles, ouvrant des perspectives pour l’aérospatiale, l’éner…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "observer-journal-des-energies-renouvelables-sitemap-3-1787928969000",
       "title": "etude publication",
       "source": "Observ’ER - Journal des Énergies Renouvelables",
@@ -4948,7 +5250,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-2-1787828562000",
+      "id": "odeys-rss-3-1787828562000",
       "title": "Séminaire « Adapter la Nouvelle-Aquitaine aux effets du changement climatique, aujourd’hui et demain »",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -7621,6 +7923,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "meteo-france-rss-1-1787645562000",
+      "title": "Tornades et trombes",
+      "source": "Météo-France",
+      "sourceId": "meteo-france",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://meteofrance.com/meteo-a-z/tornades-et-trombes",
+      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/tornades.jpg?itok=_mZtO9ew",
+      "date": "2026-08-25",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 100,
+      "tags": [
+        "Climat",
+        "Canicule",
+        "Données météo",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Tornades et trombes Une tornade est un tourbillon de vents violents se développant sous un cumulonimbus et se prolongeant jusqu'à terre. C’est un phénomène assez bref et très localisé. La tornade est rendue visible par les gouttelettes de condensation qui y naissent, formant une …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "atmo-france-sitemap-40-1787666215000",
       "title": "le fonctionnement datmo france",
       "source": "Atmo France",
@@ -7843,7 +8171,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-3-1787647266000",
+      "id": "odeys-rss-4-1787647266000",
       "title": "[APPEL À PROJETS] Grand Prix national du paysage 2026",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -8562,6 +8890,84 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "meteo-france-rss-2-1787591725000",
+      "title": "Changement climatique : quel impact sur les vagues de chaleur ?",
+      "source": "Météo-France",
+      "sourceId": "meteo-france",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://meteofrance.com/changement-climatique/changement-climatique-quel-impact-sur-les-vagues-de-chaleur",
+      "image": "https://meteofrance.com/sites/default/files/inline-images/duree-vagues-de-chaleur.jpg",
+      "date": "2026-08-24",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 100,
+      "tags": [
+        "Climat",
+        "Canicule",
+        "Données météo",
+        "RE2020",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Changement climatique : quel impact sur les vagues de chaleur ? Une vague de chaleur correspond à un épisode où les températures sont anormalement élevées pendant plusieurs jours. Pour identifier une vague de chaleur, les météorologues s’appuient sur l’indicateur thermique nation…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "meteo-france-rss-3-1787562006000",
+      "title": "Orages : quels dangers et comment s’en protéger ?",
+      "source": "Météo-France",
+      "sourceId": "meteo-france",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://meteofrance.com/vigilance-et-securite/orages-quels-dangers-et-comment-sen-proteger",
+      "image": "https://meteofrance.com/sites/default/files/inline-images/mobile-58x50.png",
+      "date": "2026-08-24",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 100,
+      "tags": [
+        "Climat",
+        "Canicule",
+        "Données météo",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "Orages : quels dangers et comment s’en protéger ? S'informer sur les phénomènes dangereux : Vigilance météorologique. Pour recevoir les notifications de Vigilance, activez-les dans l'application mobile de Météo-France dans les départements de votre choix. Les orages peuvent être …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "meteo-france-rss-4-1787558705000",
+      "title": "Qu’est-ce qu’un orage ?",
+      "source": "Météo-France",
+      "sourceId": "meteo-france",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://meteofrance.com/meteo-a-z/quest-ce-quun-orage",
+      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/panneau-expo-orage_page.jpg?itok=pgyfSsC8",
+      "date": "2026-08-24",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 100,
+      "tags": [
+        "Climat",
+        "Canicule",
+        "Données météo",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Qu’est-ce qu’un orage ? Éclairs, coups de tonnerre, fortes pluies, bourrasques… autant de manifestations qui peuvent survenir lors d'un orage. Un éclair peut se déclencher à l'intérieur du nuage, entre deux nuages, ou entre le nuage et le sol ou un aéronef (on parle alors de foud…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "batiweb-rss-12-1787582400000",
@@ -9438,7 +9844,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-4-1787318531000",
+      "id": "odeys-rss-5-1787318531000",
       "title": "10e édition des assises nationales de la terre crue",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -10700,7 +11106,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-5-1786525634000",
+      "id": "odeys-rss-6-1786525634000",
       "title": "[Opportunité MOA] Bénéficiez d'un suivi gratuit de la performance de vos pompes à chaleur !",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -10725,7 +11131,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-6-1786523312000",
+      "id": "odeys-rss-7-1786523312000",
       "title": "[Appel à expérimentation] Rénovation des Établissements Médico-Sociaux – Dispositif ADEME Oreno",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -10751,7 +11157,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-7-1786521378000",
+      "id": "odeys-rss-8-1786521378000",
       "title": "[AMI] Évaluation des performances de la végétalisation des aménagements urbains",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -11081,7 +11487,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-8-1786369960000",
+      "id": "odeys-rss-9-1786369960000",
       "title": "Diagnostiqueur PEMD - Produit Equipement Matières Dechet",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -11305,32 +11711,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-9-1786105357000",
-      "title": "[FORMATION MAMO] Installation de toilettes circulaires dans les bâtiments",
-      "source": "Odéys",
-      "sourceId": "odeys",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.odeys.fr/formation/nos-formations/formation-mamo-installation-de-toilettes-circulaires-dans-les-batiments",
-      "image": null,
-      "date": "2026-08-07",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Innovation",
-        "Nouvelle-Aquitaine",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "14 OCTOBRE 2026 Hendaye (64) Formation \"Installation de toilettes circulaires dans les bâtiments\" 📅 Mercredi 14 octobre 2026 🕑9:00 - 17:30 📍Collège Hendaye ville, 1 rue de la Libération, 64700 Hendaye Inscription Contexte et public visé : La MAMO et ses membres partenaires ont…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "aurbse-rouen-seine-eure-sitemap-0-1786106640000",
       "title": "actualites",
       "source": "AURBSE Rouen Seine-Eure",
@@ -11451,6 +11831,32 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Habitants évacués, maisons abandonnées : la commune de Cestas n’a pas été épargnée par les graves incendies qui ont ravagés plus de 42 000 hectares […] L’article La plus grande centrale solaire de France épargnée par les méga feux est apparu en premier sur Révolution Énergétique.…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "meteo-france-rss-5-1786004844000",
+      "title": "Qu’est-ce que la température ?",
+      "source": "Météo-France",
+      "sourceId": "meteo-france",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://meteofrance.com/meteo-a-z/quest-ce-que-la-temperature",
+      "image": "https://meteofrance.com/sites/default/files/inline-images/ballon-et-satellite.PNG",
+      "date": "2026-08-06",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 100,
+      "tags": [
+        "Climat",
+        "Canicule",
+        "Données météo",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Qu’est-ce que la température ? En physique, la température caractérise l’agitation moléculaire de la matière. Plus les molécules ou les atomes s'agitent vite, plus la température est élevée. En météorologie, on utilise très souvent le degré Celsius (°C). 0 °C correspond à la temp…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11626,6 +12032,32 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "meteo-france-rss-6-1785939795000",
+      "title": "Qu'est-ce qu'un nuage ?",
+      "source": "Météo-France",
+      "sourceId": "meteo-france",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://meteofrance.com/meteo-a-z/quest-ce-quun-nuage",
+      "image": "https://meteofrance.com/sites/default/files/styles/730_322/public/images/articles/Nuages-altocumulus%20floccus-Michel%20Hontarrede.JPG?itok=2VPmQZph",
+      "date": "2026-08-05",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 100,
+      "tags": [
+        "Climat",
+        "Canicule",
+        "Données météo",
+        "Eau",
+        "Confort d’été",
+        "Biosourcé"
+      ],
+      "summary": "Qu'est-ce qu'un nuage ? Un nuage est formé d'une multitude de gouttelettes d'eau ou de cristaux de glace en suspension dans l'atmosphère. Son aspect est fonction de la nature, de la taille et de la répartition des particules qui le composent, ainsi que de la lumière qui l'éclaire…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "qualitel-cerqual-rss-0-1785935988000",
@@ -12255,6 +12687,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "meteo-france-rss-7-1785689159000",
+      "title": "Comment se forme un nuage ?",
+      "source": "Météo-France",
+      "sourceId": "meteo-france",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://meteofrance.com/meteo-a-z/comment-se-forme-un-nuage",
+      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/Convection.gif?itok=owPKmlgQ",
+      "date": "2026-08-02",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 100,
+      "tags": [
+        "Climat",
+        "Canicule",
+        "Données météo",
+        "Eau",
+        "Confort d’été",
+        "Biosourcé"
+      ],
+      "summary": "Comment se forme un nuage ? Pour le comprendre, il faut savoir qu'une masse d'air ne peut contenir qu'une certaine quantité de vapeur d'eau, qui dépend de la température. Plus l'air est chaud, plus il peut être chargé en vapeur d'eau. Lorsqu'une masse d'air chaud saturée en vapeu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-33-1785648484000",
       "title": "Hyper électrification de la France : ce député propose 29 solutions pour y parvenir",
       "source": "Révolution Énergétique",
@@ -12329,6 +12787,56 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Le 1ᵉʳ aout marque la traditionnelle révision de mi-année du tarif réglementé de vente de l’électricité (TRV). Cette fois, l’État a décidé d’une hausse de […] L’article Ils augmentent : voici les nouveaux tarifs de l’électricité au 1er aout 2026 est apparu en premier sur Révoluti…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "meteo-france-rss-8-1785499911000",
+      "title": "Le printemps",
+      "source": "Météo-France",
+      "sourceId": "meteo-france",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://meteofrance.com/meteo-a-z/le-printemps",
+      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/GRA_OBS_S_FRANCE_ATMAG_1900HIV_2026ETE_PRI.png?itok=2_kJsUZI",
+      "date": "2026-07-31",
+      "access": "official",
+      "official": true,
+      "highImpact": true,
+      "impactScore": 100,
+      "tags": [
+        "Climat",
+        "Canicule",
+        "Données météo",
+        "Réglementation",
+        "RE2020",
+        "Confort d’été"
+      ],
+      "summary": "Le printemps La transition entre la saison froide et les chaleurs estivales est progressive et plus ou moins précoce selon les années. Les journées froides et parfois humides se raréfient au fil de la saison et alternent avec des jours de plus en plus doux, parfois orageux ou trè…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "meteo-france-rss-9-1785487245000",
+      "title": "L'hiver",
+      "source": "Météo-France",
+      "sourceId": "meteo-france",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://meteofrance.com/meteo-a-z/lhiver",
+      "image": "https://meteofrance.com/sites/default/files/styles/free_crop/public/images/editorial/GRA_OBS_S_FRANCE_ATMAG_1900HIV_2026ETE_HIV.png?itok=94hKk1AA",
+      "date": "2026-07-31",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Climat",
+        "Canicule",
+        "Données météo",
+        "Confort d’été"
+      ],
+      "summary": "L'hiver La saison du froid L'hiver météorologique, qui commence le 1er décembre et s'achève à la fin du mois de février, correspond à la période la plus froide de l'année dans l'hémisphère Nord. C'est la saison du froid, voire des grands froids, mais aussi de la neige, du givre, …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
