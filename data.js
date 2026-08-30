@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-30T10:24:31.356Z",
+  "generatedAt": "2026-08-30T18:32:24.092Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2238,7 +2238,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788076440000",
+      "id": "enerzine-rss-0-1788093600000",
+      "title": "Référendum en Islande : le non à la reprise des négociations avec l’UE l’emporte avec 52,8 %",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/referendrum-islande-ue-rejet-52-84/193559-2026-08",
+      "image": null,
+      "date": "2026-08-30",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020"
+      ],
+      "summary": "Les Islandais ont tranché. Samedi 29 août 2026, ils étaient appelés aux urnes pour répondre à la question : « L’Islande doit-elle reprendre les négociations d’adhésion avec l’Union européenne ? » La réponse est tombée : 52,8 % des votants ont rejeté la proposition, contre 47,2 % …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1788076440000",
       "title": "Livret A : le taux passe à 1,7 % au 1er août 2026, une hausse qui ne réjouit qu’à moitié",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2263,7 +2288,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788063000000",
+      "id": "enerzine-rss-2-1788063000000",
       "title": "Des chercheurs ont réussi à multiplier par 5,5 la performance de transfert de chaleur des surfaces conventionnelles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2289,7 +2314,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788059400000",
+      "id": "enerzine-rss-3-1788059400000",
       "title": "Moins de lithium mais un transport ionique plus rapide",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2387,7 +2412,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788085456000",
+      "id": "le-commerce-du-bois-sitemap-0-1788114729000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2413,7 +2438,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788085456000",
+      "id": "le-commerce-du-bois-sitemap-1-1788114729000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2439,7 +2464,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788085456000",
+      "id": "le-commerce-du-bois-sitemap-2-1788114729000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2620,7 +2645,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "reporterre-rss-4-1787980500000",
-      "title": "Des clubs de football optent pour des pelouses synthétiques... remplies de granulés de maïs",
+      "title": "Football : les clubs se creusent la tête face aux pelouses cramées par le soleil",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2697,7 +2722,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788041400000",
+      "id": "enerzine-rss-4-1788041400000",
       "title": "Photons intriqués : la lumière solaire remplace les lasers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2721,7 +2746,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1787998597000",
+      "id": "enerzine-rss-5-1787998597000",
       "title": "Microduck, le petit robot canard avec lequel Hugging Face veut rendre la robotique abordable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2746,7 +2771,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787976600000",
+      "id": "enerzine-rss-6-1787976600000",
       "title": "Égypte : mise en service de la plus grande centrale hybride d’Afrique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2770,7 +2795,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787973000000",
+      "id": "enerzine-rss-7-1787973000000",
       "title": "Le diamant fond à 7 300 kelvins, une avancée pour la fusion",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4316,7 +4341,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787955000000",
+      "id": "enerzine-rss-8-1787955000000",
       "title": "Ferrari Luce adjugée 40 millions de dollars aux enchères à Monterey",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4341,7 +4366,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1787934051000",
+      "id": "enerzine-rss-9-1787934051000",
       "title": "Passoire thermique : la nouvelle révision du DPE rebat les cartes pour 300 000 logements",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4363,32 +4388,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Un arrêté publié au Journal officiel modifie en profondeur le calcul du diagnostic de performance énergétique (DPE). Conséquence directe : environ 300 000 logements pourraient sortir du statut de passoire thermique. Une notion mouvante, au cœur des tensions immobilières Une passo…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1787910600000",
-      "title": "Diagnostic de performance énergétique : ce que 2027 change vraiment pour les logements",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/dpe-2027-evolution-coefficient-electricite-attestation/193411-2026-08",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "À l’approche du 1er janvier 2027, le diagnostic de performance énergétique (DPE) s’apprête à connaître une révision dont les effets pourraient redessiner la carte des passoires thermiques en France. Un arrêté publié fin août 2026 abaisse le coefficient de conversion de l’électric…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
