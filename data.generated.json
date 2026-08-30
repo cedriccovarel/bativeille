@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T04:33:03.274Z",
+  "generatedAt": "2026-08-30T10:24:31.356Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2186,7 +2186,84 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788063000000",
+      "id": "vert-rss-0-1788066000000",
+      "title": "Les Gaulois contre la fast fashion : leurs vêtements étaient-ils vraiment écologiques ?",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/culture/les-gaulois-contre-la-fast-fashion-leurs-vetements-etaient-ils-vraiment-ecologiques/",
+      "image": null,
+      "date": "2026-08-30",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Laine, lin, cuir, teintures végétales… le vestiaire gaulois avait a priori tous les attributs de la mode durable. Mais derrière cette apparente sobriété se cachent des procédés gourmands en ressources, des substances parfois toxiques et de fortes inégalités sociales. À l'occasion…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "revolution-energetique-rss-0-1788073763000",
+      "title": "Ce vieux réacteur nucléaire français a 40 ans pour être démantelé",
+      "source": "Révolution Énergétique",
+      "sourceId": "revolution-energetique",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.revolution-energetique.com/actus/ce-vieux-reacteur-nucleaire-francais-a-40-ans-pour-etre-demantele/",
+      "image": null,
+      "date": "2026-08-30",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "ENR",
+        "Stockage",
+        "Réseaux",
+        "Réglementation"
+      ],
+      "summary": "Le site du Commissariat à l’énergie atomique de Cadarache (Bouches-du-Rhône) a beau être l’un des piliers de la recherche nucléaire en France, tout n’y est […] L’article Ce vieux réacteur nucléaire français a 40 ans pour être démantelé est apparu en premier sur Révolution Énergét…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1788076440000",
+      "title": "Livret A : le taux passe à 1,7 % au 1er août 2026, une hausse qui ne réjouit qu’à moitié",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/livret-a-taux-evolution-aout-2026/193515-2026-08",
+      "image": null,
+      "date": "2026-08-30",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Annoncé le 15 juillet par Bercy sur proposition de la Banque de France, le nouveau taux du Livret A est entré en vigueur le 1er août 2026, passant de 1,5 % à 1,7 %. Une revalorisation modeste en apparence qui devrait intéresser de millions d’épargnants désireux de mesurer l’impac…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1788063000000",
       "title": "Des chercheurs ont réussi à multiplier par 5,5 la performance de transfert de chaleur des surfaces conventionnelles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2212,7 +2289,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788059400000",
+      "id": "enerzine-rss-2-1788059400000",
       "title": "Moins de lithium mais un transport ionique plus rapide",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2236,7 +2313,81 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788064373000",
+      "id": "lenergeek-rss-0-1788070800000",
+      "title": "La plus grande centrale nucléaire du monde n’a pas produit un seul watt depuis 2011 : au Japon, ses sept réacteurs attendent un redémarrage que personne n’ose fixer",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/30/la-plus-grande-centrale-nucleaire-du-monde-na-pas-produit-un-seul-watt-depuis-2011-au-japon-ses-sept-reacteurs-attendent-un-redemarrage-que-personne-nose-fixer/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/La-plus-grande-centrale-nucleaire-du-monde-na-pas-produit-un-seul-watt-depuis-2011-au-Japon-ses-sept-reacteurs-attende.webp",
+      "date": "2026-08-30",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Quinze ans après Fukushima, un réacteur japonais redémarre malgré des pannes en série et une population toujours largement opposée. Fiasco technique, fuite électrique, manifestants sous la neige : le pari nucléaire du Japon tient-il vraiment la route ? L’article La plus grande ce…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1788069019000",
+      "title": "Népal demande un ‘effort mondial’ pour combattre le changement climatique après des inondations éclair destructrices",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/30/nepal-demande-un-effort-mondial-pour-combattre-le-changement-climatique-apres-des-inondations-eclair-destructrices/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Nepal-demande-un-effort-mondial-pour-combattre-le-changement-climatique-apres-des-inondations-eclair-destructrices.webp",
+      "date": "2026-08-30",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "2 478 disparus, 626 morts, 93 000 personnes affectées. Derrière ces chiffres, des familles séparées, des villages rayés de la carte et une région verrouillée où la vérité peine à sortir. L’article Népal demande un ‘effort mondial’ pour combattre le changement climatique après des…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1788067256000",
+      "title": "Cet ingénieur réfugié a rempli de sable des bouteilles jetées pour bâtir une maison dans le désert : sa grand-mère y vit depuis 2016",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/30/cet-ingenieur-refugie-a-rempli-de-sable-des-bouteilles-jetees-pour-batir-une-maison-dans-le-desert-sa-grand-mere-y-vit-depuis-2016/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Cet-ingenieur-refugie-a-rempli-de-sable-des-bouteilles-jetees-pour-batir-une-maison-dans-le-desert-sa-grand-mere-y-vit-d.webp",
+      "date": "2026-08-30",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Un ingénieur réfugié transforme 6 000 bouteilles jetées en maison résistant vingt fois mieux qu'une brique traditionnelle. Sa grand-mère y gagne 5°C de fraîcheur. Comment ce geste a-t-il changé la vie de tout un camp ? L’article Cet ingénieur réfugié a rempli de sable des bouteil…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1788085456000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2262,7 +2413,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788064373000",
+      "id": "le-commerce-du-bois-sitemap-1-1788085456000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2288,7 +2439,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788064373000",
+      "id": "le-commerce-du-bois-sitemap-2-1788085456000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2494,7 +2645,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1787979600000",
+      "id": "vert-rss-1-1787979600000",
       "title": "Légumes brûlés, maïs en chute libre, prairies grillées… Les chiffres chocs d’un été catastrophique pour l’agriculture française",
       "source": "Vert",
       "sourceId": "vert",
@@ -2520,7 +2671,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-0-1787986500000",
+      "id": "revolution-energetique-rss-1-1787986500000",
       "title": "Le plus petit pays du monde bientôt autonome en électricité grâce au solaire",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -2546,7 +2697,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788041400000",
+      "id": "enerzine-rss-3-1788041400000",
       "title": "Photons intriqués : la lumière solaire remplace les lasers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2570,7 +2721,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1787998597000",
+      "id": "enerzine-rss-4-1787998597000",
       "title": "Microduck, le petit robot canard avec lequel Hugging Face veut rendre la robotique abordable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2595,7 +2746,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1787976600000",
+      "id": "enerzine-rss-5-1787976600000",
       "title": "Égypte : mise en service de la plus grande centrale hybride d’Afrique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2619,7 +2770,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787973000000",
+      "id": "enerzine-rss-6-1787973000000",
       "title": "Le diamant fond à 7 300 kelvins, une avancée pour la fusion",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2644,7 +2795,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1787984419000",
+      "id": "lenergeek-rss-3-1787984419000",
       "title": "Netflix a diffusé l’aperçu étendu de GTA VI et personne ne s’attendait à ce qui s’est passé ensuite sur la plateforme",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2668,7 +2819,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1787982635000",
+      "id": "lenergeek-rss-4-1787982635000",
       "title": "Des ouvriers creusent pour une autoroute et mettent au jour des centaines de pièces d’or enfouies depuis des siècles : « ça n’aurait jamais été trouvé »",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2694,7 +2845,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1787980818000",
+      "id": "lenergeek-rss-5-1787980818000",
       "title": "Alors que la lutte pour le pétrole fait rage, la Chine suggère une alternative radicale, construire des avions propulsés par de l’eau",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3883,7 +4034,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1787905837000",
+      "id": "vert-rss-2-1787905837000",
       "title": "Il va disparaître des Vosges : le grand tétras ne sera plus réintroduit dans le massif, après deux ans de lâchers critiqués",
       "source": "Vert",
       "sourceId": "vert",
@@ -3909,7 +4060,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1787889600000",
+      "id": "vert-rss-3-1787889600000",
       "title": "Près de Lyon, ils apprennent à construire leur maison en paille et en bois : «C’est un choix politique, qui allie écologie et économie»",
       "source": "Vert",
       "sourceId": "vert",
@@ -4139,7 +4290,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-1-1787897338000",
+      "id": "revolution-energetique-rss-2-1787897338000",
       "title": "Ce parc éolien flottant est devenu un véritable refuge pour la biodiversité",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -4165,7 +4316,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787955000000",
+      "id": "enerzine-rss-7-1787955000000",
       "title": "Ferrari Luce adjugée 40 millions de dollars aux enchères à Monterey",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4190,7 +4341,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787934051000",
+      "id": "enerzine-rss-8-1787934051000",
       "title": "Passoire thermique : la nouvelle révision du DPE rebat les cartes pour 300 000 logements",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4216,7 +4367,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1787910600000",
+      "id": "enerzine-rss-9-1787910600000",
       "title": "Diagnostic de performance énergétique : ce que 2027 change vraiment pour les logements",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4238,31 +4389,6 @@
         "Bâtiment"
       ],
       "summary": "À l’approche du 1er janvier 2027, le diagnostic de performance énergétique (DPE) s’apprête à connaître une révision dont les effets pourraient redessiner la carte des passoires thermiques en France. Un arrêté publié fin août 2026 abaisse le coefficient de conversion de l’électric…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1787895900000",
-      "title": "Intrication quantique record entre deux mémoires sur 420 kilomètres de fibre",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/intrication-quantique-record-entre-deux-memoires-sur-420-kilometres-de-fibre/193017-2026-08",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Des physiciens de l’Université des sciences et technologies de Chine ont intriqué deux mémoires quantiques sur 420 kilomètres de fibre optique, un record d’intrication matière à matière. Publiée dans Physical Review Letters, l’expérience dépasse de plus de quatre fois les distanc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4418,7 +4544,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "lenergeek-rss-3-1787921609000",
+      "id": "lenergeek-rss-6-1787921609000",
       "title": "ID. California Cruise : l’autonomie électrique face au défi du camping itinérant",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4442,7 +4568,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1787916012000",
+      "id": "lenergeek-rss-7-1787916012000",
       "title": "Nucléaire : deux réacteurs à l’arrêt à Gravelines",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4468,7 +4594,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1787915586000",
+      "id": "lenergeek-rss-8-1787915586000",
       "title": "ZFE : l’Insee estime que l’impact sur le pollution de l’air est limitié",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4493,7 +4619,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1787898045000",
+      "id": "lenergeek-rss-9-1787898045000",
       "title": "Changement de nom sur le contrat d’électricité : voilà la règle officielle imposée par la loi avant la coupure",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4519,7 +4645,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1787896207000",
+      "id": "lenergeek-rss-10-1787896207000",
       "title": "Prix des carburants : voilà les 10 conseils officiels pour réduire votre consommation",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4544,7 +4670,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1787894443000",
+      "id": "lenergeek-rss-11-1787894443000",
       "title": "Ils creusaient pour poser des panneaux solaires dans leur champ : sous la terre, une forteresse de 5 000 ans que personne ne soupçonnait",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5922,7 +6048,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1787837542000",
+      "id": "vert-rss-4-1787837542000",
       "title": "La crue meurtrière au Népal et au Tibet est-elle liée au réchauffement climatique ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -5947,7 +6073,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1787803200000",
+      "id": "vert-rss-5-1787803200000",
       "title": "Après un été brûlant, la rentrée s’annonce chaude : tour d’horizon des principales manifestations pour le climat et l’écologie",
       "source": "Vert",
       "sourceId": "vert",
@@ -6049,7 +6175,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-2-1787810272000",
+      "id": "revolution-energetique-rss-3-1787810272000",
       "title": "Le chantier des réacteurs nucléaires EPR2 de Gravelines peut enfin commencer",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -6075,7 +6201,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1787834161000",
+      "id": "lenergeek-rss-12-1787834161000",
       "title": "Nucléaire modulaire : les trois microréacteurs qui vont alimenter l’armée américaine",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6101,7 +6227,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1787819599000",
+      "id": "lenergeek-rss-13-1787819599000",
       "title": "Un chantier naval danois entretient la flotte qui rapporte 1,9 Md€ à Moscou",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6127,7 +6253,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1787812909000",
+      "id": "lenergeek-rss-14-1787812909000",
       "title": "États-Unis : Donald Trump déclare l’état d’urgence sur le réseau électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6152,7 +6278,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1787811650000",
+      "id": "lenergeek-rss-15-1787811650000",
       "title": "Pourquoi il ne faut jamais jeter vos verres cassés dans le bac à verre : les éboueurs alertent sur un danger que personne ne soupçonne",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6177,7 +6303,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1787809822000",
+      "id": "lenergeek-rss-16-1787809822000",
       "title": "Jusqu’à 500 000 passoires thermiques vont changer de statut grâce à une simple modification du DPE, sans aucun travaux",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6202,7 +6328,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1787808048000",
+      "id": "lenergeek-rss-17-1787808048000",
       "title": "Geely promet une recharge complète en quelques minutes : les ingénieurs de Tesla et BYD n’avaient pas vu venir cette technologie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6227,7 +6353,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1787803802000",
+      "id": "lenergeek-rss-18-1787803802000",
       "title": "Diesel +59%, GNL asiatique +75% : la facture énergétique explose",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7349,7 +7475,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1787738591000",
+      "id": "vert-rss-6-1787738591000",
       "title": "Tornade à Pomas : ce genre de phénomène devient-il plus fréquent et plus intense avec le réchauffement climatique ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -7374,7 +7500,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1787733000000",
+      "id": "vert-rss-7-1787733000000",
       "title": "«Groenland, échos arctiques» : une BD pour naviguer au cœur du réchauffement climatique",
       "source": "Vert",
       "sourceId": "vert",
@@ -7398,7 +7524,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1787716800000",
+      "id": "vert-rss-8-1787716800000",
       "title": "Après un été caniculaire, ces Français s’engagent pour l’écologie : «J’ai compris que l’action battait l’anxiété»",
       "source": "Vert",
       "sourceId": "vert",
@@ -7578,7 +7704,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1787755182000",
+      "id": "lenergeek-rss-19-1787755182000",
       "title": "Gaz : pourquoi le Qatar ne parvient plus à exporter son GNL",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7603,7 +7729,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1787735690000",
+      "id": "lenergeek-rss-20-1787735690000",
       "title": "Heures creuses : une ouverture inédite aux petits consommateurs d’électricité",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7629,7 +7755,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1787729906000",
+      "id": "lenergeek-rss-21-1787729906000",
       "title": "Renault 5 Five : une nouvelle batterie qui améliore considérablement l’autonomie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7653,7 +7779,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1787725200000",
+      "id": "lenergeek-rss-22-1787725200000",
       "title": "Tous les propriétaires de moteur Diesel ont déjà commis cette erreur : voilà l’astuce qui les a sauvé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7677,7 +7803,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1787723561000",
+      "id": "lenergeek-rss-23-1787723561000",
       "title": "Pétrole : le Brent perd 3,89% et le WTI 3,12% mardi 25 août 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7699,56 +7825,6 @@
         "Économie du bâtiment"
       ],
       "summary": "Les cours du pétrole ont terminé en baisse mardi 25 août 2026, le Brent perdant 3,89% à 88,58 dollars et le WTI reculant de 3,12% à 82,36 dollars. Malgré l'annonce de nouvelles sanctions américaines contre l'Iran, les discussions entre Téhéran et Oman sur un « couloir temporaire …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-21-1787723441000",
-      "title": "Ces 5 déchets sont interdits en déchetterie : comment s’en débarrasser et éviter une amende",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/26/ces-5-dechets-sont-interdits-en-dechetterie-comment-sen-debarrasser-et-eviter-une-amende/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Ces-5-dechets-sont-interdits-en-dechetterie-comment-sen-debarrasser-et-eviter-une-amende.webp",
-      "date": "2026-08-26",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "Amiante, gaz, médicaments périmés : ces déchets que votre déchetterie refuse catégoriquement. Les jeter au mauvais endroit peut coûter cher, à vous comme à l'environnement. Voici où les déposer sans risque. L’article Ces 5 déchets sont interdits en déchetterie : comment s’en déba…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1787721648000",
-      "title": "Vous utilisez Gmail tous les jours, mais un réglage activé par défaut expose vos mails : un informaticien montre comment le couper en 30 secondes",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/26/vous-utilisez-gmail-tous-les-jours-mais-un-reglage-active-par-defaut-expose-vos-mails-un-informaticien-montre-comment-le-couper-en-30-secondes/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Vous-utilisez-Gmail-tous-les-jours-mais-un-reglage-active-par-defaut-expose-vos-mails-un-informaticien-montre-comment-l.webp",
-      "date": "2026-08-26",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Depuis le 10 octobre, Gemini scrute vos e-mails sans prévenir : expéditeur, objet, pièces jointes, tout y passe. Bonne nouvelle, il existe une manip de 30 secondes pour tout couper. On vous explique où cliquer. L’article Vous utilisez Gmail tous les jours, mais un réglage activé …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8621,7 +8697,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1787650169000",
+      "id": "vert-rss-9-1787650169000",
       "title": "«Où irons-nous ?» : pour sauver le canal de Panama face à la sécheresse, 38 villages bientôt engloutis par un lac artificiel géant",
       "source": "Vert",
       "sourceId": "vert",
@@ -8671,7 +8747,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-3-1787651966000",
+      "id": "revolution-energetique-rss-4-1787651966000",
       "title": "Extraire l’uranium de l’océan : bientôt une réalité à grande échelle ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -8718,31 +8794,6 @@
         "Carbone"
       ],
       "summary": "Le Label bas carbone accompagne le secteur de l’agriculture dans sa décarbonation depuis 2019. Ce standard officiel promeut les projets de transition réalisés sur le territoire national et offre de nombreuses garanties. Découvrez comment obtenir le Label bas carbone pour un proje…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1787657339000",
-      "title": "Exxon automatise ses plateformes de forage dans le Permien",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/25/exxon-forage-automatisee/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/08/shutterstock_2812389559.jpg",
-      "date": "2026-08-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "ExxonMobil accélère l'automatisation de ses plateformes de forage dans le bassin du Permien, au Texas, avec un objectif de 50% de sa flotte robotisée d'ici 2028. Cette stratégie vise à porter la production de pétrole à 2,5 millions de barils par jour en 2030, soit une hausse de 4…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9464,31 +9515,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-9-1787562828000",
-      "title": "Sécheresse et canicules à répétition : des Pyrénées-Orientales à la Guadeloupe, la France est en voie de désertification",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/climat/secheresse-et-canicules-a-repetition-des-pyrenees-orientales-a-la-guadeloupe-la-france-est-en-voie-de-desertification/",
-      "image": null,
-      "date": "2026-08-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques",
-        "Confort d’été"
-      ],
-      "summary": "La 17ème conférence des Nations unies sur la lutte contre la désertification se déroule du 17 au 28 août à Oulan-Bator (Mongolie). Un phénomène qui concerne aussi la France, d’autant plus vulnérable après la chaleur de cet été et la répétition des sécheresses ces dernières années…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "greenunivers-rss-7-1787586011000",
       "title": "Rénovation : le gouvernement acte sa nouvelle politique",
       "source": "GreenUnivers",
@@ -9541,7 +9567,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-4-1787566416000",
+      "id": "revolution-energetique-rss-5-1787566416000",
       "title": "Le solaire génère 10 % de l’électricité mondiale, mais il y a un problème",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -9618,7 +9644,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-5-1787468382000",
+      "id": "revolution-energetique-rss-6-1787468382000",
       "title": "Ce pays va ouvrir l’une des plus grandes mines d’uranium au monde et c’est une bonne nouvelle pour la France",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -9722,7 +9748,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-6-1787379489000",
+      "id": "revolution-energetique-rss-7-1787379489000",
       "title": "Cette startup pose des panneaux solaires directement sur le sol, et ça marche !",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -9972,7 +9998,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-7-1787306952000",
+      "id": "revolution-energetique-rss-8-1787306952000",
       "title": "Fou d’éoliennes, le Brésil conforte sa présence dans le Top 5 mondial avec un nouveau parc",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10197,7 +10223,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-8-1787203266000",
+      "id": "revolution-energetique-rss-9-1787203266000",
       "title": "L’Île de Sein se décarbone grâce à une seule éolienne de 250 kW",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10298,7 +10324,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-9-1787116953000",
+      "id": "revolution-energetique-rss-10-1787116953000",
       "title": "Tout juste lancée, voici la plus grande batterie d’Europe en 2026",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10629,7 +10655,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-10-1786958987000",
+      "id": "revolution-energetique-rss-11-1786958987000",
       "title": "L’Australie construit une raffinerie à terres rares pour concurrencer la Chine",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10733,7 +10759,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-11-1786905065000",
+      "id": "revolution-energetique-rss-12-1786905065000",
       "title": "La Hongrie coule deux péniches dans le Danube pour sauver sa centrale nucléaire",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10759,7 +10785,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-12-1786859115000",
+      "id": "revolution-energetique-rss-13-1786859115000",
       "title": "La Chine inaugure une usine géante de batteries longue durée",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10785,7 +10811,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-13-1786816590000",
+      "id": "revolution-energetique-rss-14-1786816590000",
       "title": "L’Espagne prolonge sa centrale nucléaire la plus puissante",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10810,7 +10836,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-14-1786786892000",
+      "id": "revolution-energetique-rss-15-1786786892000",
       "title": "Des chercheurs parviennent à recycler 100% de l’argent contenu dans les panneaux solaires",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10859,7 +10885,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-15-1786694651000",
+      "id": "revolution-energetique-rss-16-1786694651000",
       "title": "L’industrie éolienne européenne retrouve des couleurs",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11005,7 +11031,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-16-1786634997000",
+      "id": "revolution-energetique-rss-17-1786634997000",
       "title": "Sécheresse et méduses : la puissance nucléaire française réduite de 20%",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11031,7 +11057,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-17-1786606789000",
+      "id": "revolution-energetique-rss-18-1786606789000",
       "title": "L’opposition s’organise autour du parc éolien Bretagne Sud",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11209,7 +11235,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-18-1786519938000",
+      "id": "revolution-energetique-rss-19-1786519938000",
       "title": "L’aviation nucléaire a failli devenir une réalité dans les années 50",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11362,7 +11388,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-19-1786425905000",
+      "id": "revolution-energetique-rss-20-1786425905000",
       "title": "Amazon va construire la plus grande centrale gaz des USA",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11560,7 +11586,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-20-1786375535000",
+      "id": "revolution-energetique-rss-21-1786375535000",
       "title": "La Chine gaspille une grande partie de sa production d’électricité renouvelable",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11586,7 +11612,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-21-1786339382000",
+      "id": "revolution-energetique-rss-22-1786339382000",
       "title": "Tarifs dynamique et batterie solaire : une association qui va vous faire économiser 600€",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11611,7 +11637,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-22-1786259365000",
+      "id": "revolution-energetique-rss-23-1786259365000",
       "title": "Éclipse du 12 août : RTE se prépare à une baisse soudaine de la production photovoltaïque",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11660,7 +11686,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-23-1786204061000",
+      "id": "revolution-energetique-rss-24-1786204061000",
       "title": "Le gouvernement allemand souhaite freiner les renouvelables",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11685,7 +11711,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-24-1786167191000",
+      "id": "revolution-energetique-rss-25-1786167191000",
       "title": "L’État débourse 260 millions d’euros pour adapter les ports français aux éoliennes flottantes",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11783,7 +11809,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-25-1786117303000",
+      "id": "revolution-energetique-rss-26-1786117303000",
       "title": "Une électrification trop lente coûtera cher prévient RTE",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11809,7 +11835,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-26-1786080747000",
+      "id": "revolution-energetique-rss-27-1786080747000",
       "title": "La plus grande centrale solaire de France épargnée par les méga feux",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11982,7 +12008,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-27-1785993890000",
+      "id": "revolution-energetique-rss-28-1785993890000",
       "title": "Les niveaux historiquement bas du Danube mettent à mal la sécurité énergétique européenne",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12130,7 +12156,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-28-1785942576000",
+      "id": "revolution-energetique-rss-29-1785942576000",
       "title": "Comment décarboner efficacement les logements par l’électrification ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12156,7 +12182,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-29-1785906915000",
+      "id": "revolution-energetique-rss-30-1785906915000",
       "title": "Ces centrales nucléaires européennes flambant neuves n’ont jamais démarré",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12305,7 +12331,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-30-1785826962000",
+      "id": "revolution-energetique-rss-31-1785826962000",
       "title": "Solaire résidentiel : la France fait toujours moins bien que ses voisins européens",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12429,7 +12455,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-31-1785771188000",
+      "id": "revolution-energetique-rss-32-1785771188000",
       "title": "Les ENR totalisent 20 GW de puissance supplémentaire par rapport au nucléaire en 2025",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12454,7 +12480,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-32-1785741382000",
+      "id": "revolution-energetique-rss-33-1785741382000",
       "title": "Ce moteur de bateau est le premier à fonctionner entièrement à l’hydrogène",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12713,7 +12739,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-33-1785648484000",
+      "id": "revolution-energetique-rss-34-1785648484000",
       "title": "Hyper électrification de la France : ce député propose 29 solutions pour y parvenir",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12765,7 +12791,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-34-1785557737000",
+      "id": "revolution-energetique-rss-35-1785557737000",
       "title": "Ils augmentent : voici les nouveaux tarifs de l’électricité au 1er aout 2026",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12847,7 +12873,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -13032,7 +13058,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-35-1785509257000",
+      "id": "revolution-energetique-rss-36-1785509257000",
       "title": "Ces trois projets d’hydrogène bas-carbone qui vont toucher 780 millions d’euros de l’État",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13058,7 +13084,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-36-1785486825000",
+      "id": "revolution-energetique-rss-37-1785486825000",
       "title": "Cette usine près de Marseille produira 30 flotteurs d’éoliennes chaque année",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13211,7 +13237,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -13351,7 +13377,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-37-1785387544000",
+      "id": "revolution-energetique-rss-38-1785387544000",
       "title": "Le coût du soutien aux énergies renouvelables va bondir de 15 % en 2027",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13684,7 +13710,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-38-1785315428000",
+      "id": "revolution-energetique-rss-39-1785315428000",
       "title": "Comment mieux faire accepter les projets éoliens et solaires ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13866,7 +13892,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
@@ -14058,7 +14084,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-39-1785256289000",
+      "id": "revolution-energetique-rss-40-1785256289000",
       "title": "Pourquoi ce projet de stockage profond de déchets nucléaires a été abandonné aux Etats-Unis",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14304,7 +14330,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-40-1785146080000",
+      "id": "revolution-energetique-rss-41-1785146080000",
       "title": "Ce catamaran électrique est autonome en énergie grâce au soleil",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14378,7 +14404,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-41-1785046147000",
+      "id": "revolution-energetique-rss-42-1785046147000",
       "title": "Cette turbine à axe vertical veut révolutionner l’éolien en mer",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14404,7 +14430,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-42-1784957257000",
+      "id": "revolution-energetique-rss-43-1784957257000",
       "title": "Mini réacteur nucléaire français : Newcleo obtient un feu vert pour son usine de MOX",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14597,7 +14623,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-43-1784884583000",
+      "id": "revolution-energetique-rss-44-1784884583000",
       "title": "Explosion d’un transformateur : les salariés de RTE alertent sur l’état du réseau électrique français",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14938,7 +14964,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-44-1784818856000",
+      "id": "revolution-energetique-rss-45-1784818856000",
       "title": "Face à l’IA de Google, nous parions sur notre communauté",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15350,7 +15376,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-45-1784696696000",
+      "id": "revolution-energetique-rss-46-1784696696000",
       "title": "0,006 € le kilowattheure : la révision du tarif agent d’EDF fait débat",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15692,7 +15718,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-46-1784640827000",
+      "id": "revolution-energetique-rss-47-1784640827000",
       "title": "Panneaux solaires sur les rails : la SNCF réalise un premier test",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15718,7 +15744,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-47-1784610162000",
+      "id": "revolution-energetique-rss-48-1784610162000",
       "title": "Les énergies renouvelables seraient bien parmi les moins chères, même avec leurs coûts « cachés »",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16226,7 +16252,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-48-1784526593000",
+      "id": "revolution-energetique-rss-49-1784526593000",
       "title": "La centrale de Civaux peut produire de l’électricité pendant la canicule",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16248,32 +16274,6 @@
         "Confort d’été"
       ],
       "summary": "L’échauffement des rivières par les réacteurs nucléaires n’est pas une fatalité, la centrale de Civaux en est le parfait exemple. Mise en service à la […] L’article La centrale de Civaux peut produire de l’électricité pendant la canicule est apparu en premier sur Révolution Énerg…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "revolution-energetique-rss-49-1784474783000",
-      "title": "Le prix de l’électricité va bien augmenter au 1er août 2026",
-      "source": "Révolution Énergétique",
-      "sourceId": "revolution-energetique",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.revolution-energetique.com/actus/le-prix-de-lelectricite-va-bien-augmenter-au-1er-aout-2026/",
-      "image": null,
-      "date": "2026-07-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "ENR",
-        "Stockage",
-        "Réseaux",
-        "Réemploi"
-      ],
-      "summary": "En pleine crise des énergies fossiles, l’électricité joue les rôles de valeur refuge. Mais malheureusement, même la fée électrique voit son tarif augmenter à partir […] L’article Le prix de l’électricité va bien augmenter au 1er août 2026 est apparu en premier sur Révolution Éner…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
