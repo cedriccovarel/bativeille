@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-08-30T18:32:24.092Z",
+  "generatedAt": "2026-08-30T22:33:11.696Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2238,7 +2238,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788093600000",
+      "id": "enerzine-rss-0-1788127800000",
+      "title": "Nucléaire : le Japon vise 22 % d’électricité bas carbone en 2030",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/nucleaire-le-japon-vise-22-delectricite-bas-carbone-en-2030/193245-2026-08",
+      "image": null,
+      "date": "2026-08-30",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "La production nucléaire japonaise a atteint 101 TWh en 2025 et devrait grimper à 123,3 TWh d’ici 2035, selon GlobalData. Porté par la sécurité d’approvisionnement et la flambée des prix des combustibles fossiles, le redémarrage des réacteurs se heurte toutefois aux déchets, à la …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1788093600000",
       "title": "Référendum en Islande : le non à la reprise des négociations avec l’UE l’emporte avec 52,8 %",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2263,7 +2289,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788076440000",
+      "id": "enerzine-rss-2-1788076440000",
       "title": "Livret A : le taux passe à 1,7 % au 1er août 2026, une hausse qui ne réjouit qu’à moitié",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2288,7 +2314,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788063000000",
+      "id": "enerzine-rss-3-1788063000000",
       "title": "Des chercheurs ont réussi à multiplier par 5,5 la performance de transfert de chaleur des surfaces conventionnelles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2314,7 +2340,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788059400000",
+      "id": "enerzine-rss-4-1788059400000",
       "title": "Moins de lithium mais un transport ionique plus rapide",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2412,7 +2438,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788114729000",
+      "id": "le-commerce-du-bois-sitemap-0-1788129178000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2438,7 +2464,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788114729000",
+      "id": "le-commerce-du-bois-sitemap-1-1788129178000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2464,7 +2490,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788114729000",
+      "id": "le-commerce-du-bois-sitemap-2-1788129178000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2722,7 +2748,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1788041400000",
+      "id": "enerzine-rss-5-1788041400000",
       "title": "Photons intriqués : la lumière solaire remplace les lasers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2746,7 +2772,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1787998597000",
+      "id": "enerzine-rss-6-1787998597000",
       "title": "Microduck, le petit robot canard avec lequel Hugging Face veut rendre la robotique abordable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2771,7 +2797,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787976600000",
+      "id": "enerzine-rss-7-1787976600000",
       "title": "Égypte : mise en service de la plus grande centrale hybride d’Afrique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2795,7 +2821,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787973000000",
+      "id": "enerzine-rss-8-1787973000000",
       "title": "Le diamant fond à 7 300 kelvins, une avancée pour la fusion",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4341,7 +4367,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1787955000000",
+      "id": "enerzine-rss-9-1787955000000",
       "title": "Ferrari Luce adjugée 40 millions de dollars aux enchères à Monterey",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4362,32 +4388,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "La première Ferrari électrique de série, la Luce, a été adjugée 40 millions de dollars à Monterey, en Californie, chez RM Sotheby’s. L’estimation initiale d’environ 1,1 million de dollars a été pulvérisée, et l’intégralité de la somme financera des initiatives éducatives de la Fo…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1787934051000",
-      "title": "Passoire thermique : la nouvelle révision du DPE rebat les cartes pour 300 000 logements",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/passoire-thermique-revision-dpe-300-000-logements/193427-2026-08",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "Un arrêté publié au Journal officiel modifie en profondeur le calcul du diagnostic de performance énergétique (DPE). Conséquence directe : environ 300 000 logements pourraient sortir du statut de passoire thermique. Une notion mouvante, au cœur des tensions immobilières Une passo…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4695,7 +4695,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1787930014000",
+      "id": "le-journal-du-grand-paris-rss-0-1787929634000",
+      "title": "Deux départements résistent à la vague de radiations d’entreprises en Île-de-France",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/deux-departements-resistent-a-la-vague-de-radiations-dentreprises-en-ile-de-france/",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "RE2020"
+      ],
+      "summary": "Au premier semestre 2026, les radiations d’entreprises ont fortement progressé en France et en Île-de-France. La Seine-Saint-Denis et le Val-de-Marne font exception, avec des baisses respectives de 14,1 % et 6 %. Au premier semestre 2026, les radiations d’entreprises ont fortemen…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1787922814000",
       "title": "Canicule : les récoltes franciliennes paient le prix fort de l’été 2026",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4717,31 +4742,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Après un été marqué des canicules successives, les agriculteurs franciliens dressent les premiers bilans des récoltes. Si les grandes cultures ont globalement mieux résisté que dans d’autres régions françaises, les productions estivales, le maraîchage et l’arboriculture apparaiss…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-1-1787929634000",
-      "title": "Deux départements résistent à la vague de radiations d’entreprises en Île-de-France",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/deux-departements-resistent-a-la-vague-de-radiations-dentreprises-en-ile-de-france/",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "RE2020"
-      ],
-      "summary": "Au premier semestre 2026, les radiations d’entreprises ont fortement progressé en France et en Île-de-France. La Seine-Saint-Denis et le Val-de-Marne font exception, avec des baisses respectives de 14,1 % et 6 %. Au premier semestre 2026, les radiations d’entreprises ont fortemen…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13657,29 +13657,6 @@ window.BATIVEILLE_DATA = {
         "Air"
       ],
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "batylab-sitemap-0-1785336040000",
-      "title": "actualites",
-      "source": "Batylab",
-      "sourceId": "batylab",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Bretagne",
-      "url": "https://www.batylab.bzh/actualites",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "Bretagne",
-        "REX"
-      ],
-      "summary": "Publication détectée dans le sitemap de Batylab. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
