@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T22:33:11.696Z",
+  "generatedAt": "2026-08-31T04:37:33.408Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,7 +2161,210 @@
   ],
   "articles": [
     {
-      "id": "reporterre-rss-0-1788064200000",
+      "id": "reporterre-rss-0-1788150600000",
+      "title": "Réchauffement climatique : comment les scientifiques prêchent dans le désert depuis 200 ans",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Rechauffement-climatique-comment-les-scientifiques-prechent-dans-le-desert-depuis-200-ans",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20250702__64kw27b__v2__highres__colombiaeconomyenergy_1_-62f90.jpg?1788150603",
+      "date": "2026-08-31",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Les premières études scientifiques sur le lien entre émissions de CO2 et réchauffement remontent aux années 1820 et se sont multipliées depuis. Pourtant, les réponses à la hauteur de l'enjeu se font toujours attendre. L'été que l'Europe vient de traverser, ainsi que le tsunami de…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "vert-rss-0-1788148800000",
+      "title": "«Comment ne pas être triste en voyant ça ?» : au cœur du Morvan, un étang à sec et des touristes désabusés",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/climat/comment-ne-pas-etre-triste-en-voyant-ca-au-coeur-du-morvan-un-etang-a-sec-et-des-touristes-desabuses/",
+      "image": null,
+      "date": "2026-08-31",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Confort d’été"
+      ],
+      "summary": "À Lormes, dans la Nièvre, l’étang du Goulot, îlot de fraîcheur et poumon touristique, s’est asséché en quelques semaines sous l’effet conjugué de la sécheresse et d’une fuite souterraine. La mairie tente de réagir. Vert s'est rendu sur place. À Lormes, dans la Nièvre, l’étang du …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1788149400000",
+      "title": "Hydrolienne Mobula 5 : essais en mer réussis aux Pays-Bas",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/hydrolienne-mobula-5-essais-en-mer-reussis-aux-pays-bas/193240-2026-08",
+      "image": null,
+      "date": "2026-08-31",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "La start-up néerlandaise Equinox Ocean Turbines a validé en mer son prototype d’hydrolienne Mobula 5, déployé dans le détroit du Marsdiep, au nord des Pays-Bas. Annoncés le 25 août 2026, les essais confirment le fonctionnement intégré de la turbine et ouvrent la voie aux modèles …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1788145800000",
+      "title": "Eiffage décroche 132 millions d’euros de contrats hospitaliers à Angers et Avallon",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/eiffage-decroche-132-millions-deuros-de-contrats-hospitaliers-a-angers-et-avallon/193242-2026-08",
+      "image": null,
+      "date": "2026-08-31",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau",
+        "Bâtiment"
+      ],
+      "summary": "Eiffage a annoncé le 25 août 2026 avoir remporté, via Eiffage Construction et Eiffage Énergie Systèmes, des contrats hospitaliers à Angers et Avallon pour un montant global de 132 millions d’euros. Les travaux portent sur un plateau médico-technique et un nouvel hôpital. Le group…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-0-1788149280000",
+      "title": "Frappes dans le détroit d’Ormuz : le brut franchit les 90 dollars",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/08/31/iran-frappes-detroit-ormuz-brut-franchit-90-dollars/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/shutterstock_2633926403-2.jpg",
+      "date": "2026-08-31",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Les cours du pétrole ont franchi le seuil des 90 dollars le baril après l'échange de frappes entre les États-Unis et l'Iran sur l'île stratégique de Larak, située dans le détroit d'Ormuz. Washington a attaqué dimanche des lanceurs iraniens préparant des mines marines, provoquant …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1788151041000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-08-31",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1788151041000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-08-31",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1788151041000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-08-31",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "reporterre-rss-1-1788064200000",
       "title": "« Face à l'actualité dramatique, nos jardins peuvent nous aider à tenir »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2186,7 +2389,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1788066000000",
+      "id": "vert-rss-1-1788066000000",
       "title": "Les Gaulois contre la fast fashion : leurs vêtements étaient-ils vraiment écologiques ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -2238,7 +2441,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788127800000",
+      "id": "enerzine-rss-2-1788127800000",
       "title": "Nucléaire : le Japon vise 22 % d’électricité bas carbone en 2030",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2264,7 +2467,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788093600000",
+      "id": "enerzine-rss-3-1788093600000",
       "title": "Référendum en Islande : le non à la reprise des négociations avec l’UE l’emporte avec 52,8 %",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2289,7 +2492,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788076440000",
+      "id": "enerzine-rss-4-1788076440000",
       "title": "Livret A : le taux passe à 1,7 % au 1er août 2026, une hausse qui ne réjouit qu’à moitié",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2314,7 +2517,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788063000000",
+      "id": "enerzine-rss-5-1788063000000",
       "title": "Des chercheurs ont réussi à multiplier par 5,5 la performance de transfert de chaleur des surfaces conventionnelles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2340,7 +2543,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1788059400000",
+      "id": "enerzine-rss-6-1788059400000",
       "title": "Moins de lithium mais un transport ionique plus rapide",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2364,7 +2567,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1788070800000",
+      "id": "lenergeek-rss-1-1788070800000",
       "title": "La plus grande centrale nucléaire du monde n’a pas produit un seul watt depuis 2011 : au Japon, ses sept réacteurs attendent un redémarrage que personne n’ose fixer",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2388,7 +2591,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1788069019000",
+      "id": "lenergeek-rss-2-1788069019000",
       "title": "Népal demande un ‘effort mondial’ pour combattre le changement climatique après des inondations éclair destructrices",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2412,7 +2615,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1788067256000",
+      "id": "lenergeek-rss-3-1788067256000",
       "title": "Cet ingénieur réfugié a rempli de sable des bouteilles jetées pour bâtir une maison dans le désert : sa grand-mère y vit depuis 2016",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2436,84 +2639,6 @@
       "summary": "Un ingénieur réfugié transforme 6 000 bouteilles jetées en maison résistant vingt fois mieux qu'une brique traditionnelle. Sa grand-mère y gagne 5°C de fraîcheur. Comment ce geste a-t-il changé la vie de tout un camp ? L’article Cet ingénieur réfugié a rempli de sable des bouteil…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1788129178000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-08-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1788129178000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-08-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1788129178000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-08-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "odeys-rss-0-1788004303000",
@@ -2594,7 +2719,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1787990873000",
+      "id": "reporterre-rss-2-1787990873000",
       "title": "La COP17 contre la désertification s'achève… sans prise de décision",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2618,7 +2743,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1787980800000",
+      "id": "reporterre-rss-3-1787980800000",
       "title": "Manger de la terre, se frotter à des coraux... Comment les animaux se soignent",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2644,7 +2769,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1787980620000",
+      "id": "reporterre-rss-4-1787980620000",
       "title": "En Ukraine, ils développent une plante capable de capturer les métaux lourds",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2670,7 +2795,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1787980500000",
+      "id": "reporterre-rss-5-1787980500000",
       "title": "Football : les clubs se creusent la tête face aux pelouses cramées par le soleil",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2696,7 +2821,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1787979600000",
+      "id": "vert-rss-2-1787979600000",
       "title": "Légumes brûlés, maïs en chute libre, prairies grillées… Les chiffres chocs d’un été catastrophique pour l’agriculture française",
       "source": "Vert",
       "sourceId": "vert",
@@ -2748,7 +2873,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1788041400000",
+      "id": "enerzine-rss-7-1788041400000",
       "title": "Photons intriqués : la lumière solaire remplace les lasers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2772,7 +2897,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1787998597000",
+      "id": "enerzine-rss-8-1787998597000",
       "title": "Microduck, le petit robot canard avec lequel Hugging Face veut rendre la robotique abordable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2797,7 +2922,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1787976600000",
+      "id": "enerzine-rss-9-1787976600000",
       "title": "Égypte : mise en service de la plus grande centrale hybride d’Afrique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2821,32 +2946,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1787973000000",
-      "title": "Le diamant fond à 7 300 kelvins, une avancée pour la fusion",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/diamant-fond-7300-kelvins-avancee-fusion/192996-2026-08",
-      "image": null,
-      "date": "2026-08-29",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Des chercheurs du Lawrence Livermore National Laboratory ont résolu une divergence vieille de vingt ans sur la fusion du diamant sous pression extrême. Publiée dans Nature Physics, la mesure de 7 300 kelvins pourrait tripler le gain des expériences de fusion nucléaire et affiner …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-3-1787984419000",
+      "id": "lenergeek-rss-4-1787984419000",
       "title": "Netflix a diffusé l’aperçu étendu de GTA VI et personne ne s’attendait à ce qui s’est passé ensuite sur la plateforme",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2870,7 +2970,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1787982635000",
+      "id": "lenergeek-rss-5-1787982635000",
       "title": "Des ouvriers creusent pour une autoroute et mettent au jour des centaines de pièces d’or enfouies depuis des siècles : « ça n’aurait jamais été trouvé »",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2896,7 +2996,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1787980818000",
+      "id": "lenergeek-rss-6-1787980818000",
       "title": "Alors que la lutte pour le pétrole fait rage, la Chine suggère une alternative radicale, construire des avions propulsés par de l’eau",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3831,7 +3931,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1787928575000",
+      "id": "reporterre-rss-6-1787928575000",
       "title": "« On a perdu beaucoup de betteraves à sucre » : les agriculteurs pâtissent de l'été caniculaire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3857,7 +3957,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1787924850000",
+      "id": "reporterre-rss-7-1787924850000",
       "title": "Légumes asséchés, productions perdues... Une crise historique se confirme pour l'agriculture",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3882,7 +3982,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1787924337000",
+      "id": "reporterre-rss-8-1787924337000",
       "title": "Algues vertes : l'État renforce la lutte... sans remettre en cause l'élevage",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3907,7 +4007,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1787924269000",
+      "id": "reporterre-rss-9-1787924269000",
       "title": "« On ne va pas se laisser faire » : la riposte contre le futur parc Dragon Ball commence",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3933,7 +4033,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1787919995000",
+      "id": "reporterre-rss-10-1787919995000",
       "title": "Deux fois plus de déchets abandonnés dans les calanques de Marseille cet été",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3959,7 +4059,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1787919019000",
+      "id": "reporterre-rss-11-1787919019000",
       "title": "Grand tétras : la fin du programme de réintroduction dans les Vosges confirmée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3984,7 +4084,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1787912930000",
+      "id": "reporterre-rss-12-1787912930000",
       "title": "L'État sort 300 000 logements du statut de « passoires thermiques »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4010,7 +4110,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1787901750000",
+      "id": "reporterre-rss-13-1787901750000",
       "title": "El Niño : le Panama décrète un état d'urgence climatique, aussitôt contesté",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4036,7 +4136,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1787894100000",
+      "id": "reporterre-rss-14-1787894100000",
       "title": "« Ça devient orchestré » : le lobbying des laboratoires pour peser sur la Haute autorité de santé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4061,7 +4161,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1787893200000",
+      "id": "reporterre-rss-15-1787893200000",
       "title": "Comment choisir ses pâtes quand 80 % sont contaminées au cadmium ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4085,7 +4185,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1787905837000",
+      "id": "vert-rss-3-1787905837000",
       "title": "Il va disparaître des Vosges : le grand tétras ne sera plus réintroduit dans le massif, après deux ans de lâchers critiqués",
       "source": "Vert",
       "sourceId": "vert",
@@ -4111,7 +4211,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1787889600000",
+      "id": "vert-rss-4-1787889600000",
       "title": "Près de Lyon, ils apprennent à construire leur maison en paille et en bois : «C’est un choix politique, qui allie écologie et économie»",
       "source": "Vert",
       "sourceId": "vert",
@@ -4367,31 +4467,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1787955000000",
-      "title": "Ferrari Luce adjugée 40 millions de dollars aux enchères à Monterey",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/ferrari-luce-adjugee-40-millions-de-dollars-aux-encheres-a-monterey/192987-2026-08",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "La première Ferrari électrique de série, la Luce, a été adjugée 40 millions de dollars à Monterey, en Californie, chez RM Sotheby’s. L’estimation initiale d’environ 1,1 million de dollars a été pulvérisée, et l’intégralité de la somme financera des initiatives éducatives de la Fo…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "observer-journal-des-energies-renouvelables-sitemap-3-1787928969000",
       "title": "etude publication",
       "source": "Observ’ER - Journal des Énergies Renouvelables",
@@ -4543,7 +4618,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "lenergeek-rss-6-1787921609000",
+      "id": "lenergeek-rss-7-1787921609000",
       "title": "ID. California Cruise : l’autonomie électrique face au défi du camping itinérant",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4567,7 +4642,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1787916012000",
+      "id": "lenergeek-rss-8-1787916012000",
       "title": "Nucléaire : deux réacteurs à l’arrêt à Gravelines",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4593,7 +4668,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1787915586000",
+      "id": "lenergeek-rss-9-1787915586000",
       "title": "ZFE : l’Insee estime que l’impact sur le pollution de l’air est limitié",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4618,7 +4693,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1787898045000",
+      "id": "lenergeek-rss-10-1787898045000",
       "title": "Changement de nom sur le contrat d’électricité : voilà la règle officielle imposée par la loi avant la coupure",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4644,7 +4719,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1787896207000",
+      "id": "lenergeek-rss-11-1787896207000",
       "title": "Prix des carburants : voilà les 10 conseils officiels pour réduire votre consommation",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4669,7 +4744,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1787894443000",
+      "id": "lenergeek-rss-12-1787894443000",
       "title": "Ils creusaient pour poser des panneaux solaires dans leur champ : sous la terre, une forteresse de 5 000 ans que personne ne soupçonnait",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5793,7 +5868,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1787847648000",
+      "id": "reporterre-rss-16-1787847648000",
       "title": "Intrusion chez Lafarge : les militants écologistes condamnés à de la prison avec sursis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5818,7 +5893,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1787847029000",
+      "id": "reporterre-rss-17-1787847029000",
       "title": "Crues meurtrières au Népal : comment le dérèglement climatique fragilise le toit du monde",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5844,7 +5919,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1787832903000",
+      "id": "reporterre-rss-18-1787832903000",
       "title": "Légionellose : le brumisateur d'un restaurant de Chambéry à l'origine de contaminations",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5869,7 +5944,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1787832141000",
+      "id": "reporterre-rss-19-1787832141000",
       "title": "« Ce n'est pas ici qu'on a trouvé une solution » : la déception des éleveurs à la COP17 sur la désertification",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5895,7 +5970,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1787831863000",
+      "id": "reporterre-rss-20-1787831863000",
       "title": "Canicule : 15 800 morts liés à la chaleur en Allemagne, un record",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5921,7 +5996,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1787831545000",
+      "id": "reporterre-rss-21-1787831545000",
       "title": "Il a fait tellement chaud cet été que des œufs de crocodile ont éclos naturellement dans la Drôme",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5946,7 +6021,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1787820486000",
+      "id": "reporterre-rss-22-1787820486000",
       "title": "Au moins 270 morts dans des inondations dévastatrices au Népal et au Tibet",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5970,7 +6045,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1787815713000",
+      "id": "reporterre-rss-23-1787815713000",
       "title": "« Des hôpitaux font des opérations dans le noir » : la chaleur et la clim privent la Tunisie d'électricité",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5996,7 +6071,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1787810400000",
+      "id": "reporterre-rss-24-1787810400000",
       "title": "Réchauffement de la Méditerranée : « Les écosystèmes marins se dirigent vers une révolution »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6022,7 +6097,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1787806800000",
+      "id": "reporterre-rss-25-1787806800000",
       "title": "« On apprend à souffrir en silence » : dans les écoles vétérinaires, des suicides et un mal-être généralisé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6047,7 +6122,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1787837542000",
+      "id": "vert-rss-5-1787837542000",
       "title": "La crue meurtrière au Népal et au Tibet est-elle liée au réchauffement climatique ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -6072,7 +6147,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1787803200000",
+      "id": "vert-rss-6-1787803200000",
       "title": "Après un été brûlant, la rentrée s’annonce chaude : tour d’horizon des principales manifestations pour le climat et l’écologie",
       "source": "Vert",
       "sourceId": "vert",
@@ -6200,7 +6275,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1787834161000",
+      "id": "lenergeek-rss-13-1787834161000",
       "title": "Nucléaire modulaire : les trois microréacteurs qui vont alimenter l’armée américaine",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6226,7 +6301,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1787819599000",
+      "id": "lenergeek-rss-14-1787819599000",
       "title": "Un chantier naval danois entretient la flotte qui rapporte 1,9 Md€ à Moscou",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6252,7 +6327,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1787812909000",
+      "id": "lenergeek-rss-15-1787812909000",
       "title": "États-Unis : Donald Trump déclare l’état d’urgence sur le réseau électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6277,7 +6352,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1787811650000",
+      "id": "lenergeek-rss-16-1787811650000",
       "title": "Pourquoi il ne faut jamais jeter vos verres cassés dans le bac à verre : les éboueurs alertent sur un danger que personne ne soupçonne",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6302,7 +6377,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1787809822000",
+      "id": "lenergeek-rss-17-1787809822000",
       "title": "Jusqu’à 500 000 passoires thermiques vont changer de statut grâce à une simple modification du DPE, sans aucun travaux",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6327,7 +6402,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1787808048000",
+      "id": "lenergeek-rss-18-1787808048000",
       "title": "Geely promet une recharge complète en quelques minutes : les ingénieurs de Tesla et BYD n’avaient pas vu venir cette technologie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6352,7 +6427,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1787803802000",
+      "id": "lenergeek-rss-19-1787803802000",
       "title": "Diesel +59%, GNL asiatique +75% : la facture énergétique explose",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7218,7 +7293,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1787759490000",
+      "id": "reporterre-rss-26-1787759490000",
       "title": "L'éolien et le solaire au secours du système électrique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7244,7 +7319,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1787752755000",
+      "id": "reporterre-rss-27-1787752755000",
       "title": "« Elles seront les dernières à brûler » : face au chaos climatique, les vieilles forêts résistent",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7270,7 +7345,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1787752709000",
+      "id": "reporterre-rss-28-1787752709000",
       "title": "Trop pollués, certains arbres finissent par polluer eux-mêmes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7295,7 +7370,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1787748626000",
+      "id": "reporterre-rss-29-1787748626000",
       "title": "Un cycliste poignardé au cou par un automobiliste après une altercation à Paris",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7320,7 +7395,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1787747711000",
+      "id": "reporterre-rss-30-1787747711000",
       "title": "Sortie des énergies fossiles : plus de 200 organisations interpellent la Commission européenne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7346,7 +7421,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1787745272000",
+      "id": "reporterre-rss-31-1787745272000",
       "title": "Elon Musk veut construire le plus grand site de lancement spatial au monde",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7372,7 +7447,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1787737450000",
+      "id": "reporterre-rss-32-1787737450000",
       "title": "En images : Pomas, au lendemain de la tornade",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7397,7 +7472,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1787731534000",
+      "id": "reporterre-rss-33-1787731534000",
       "title": "Victime d'un traitement hormonal, elle est devenue lanceuse d'alerte",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7423,7 +7498,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1787724000000",
+      "id": "reporterre-rss-34-1787724000000",
       "title": "« Nous avons dû agir » : contre la ruée vers l'or, ces petites villes font leur propre loi",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7449,7 +7524,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1787720400000",
+      "id": "reporterre-rss-35-1787720400000",
       "title": "JO 2030 : des goodies « made in China » malgré la promesse de Laurent Wauquiez",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7474,7 +7549,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1787738591000",
+      "id": "vert-rss-7-1787738591000",
       "title": "Tornade à Pomas : ce genre de phénomène devient-il plus fréquent et plus intense avec le réchauffement climatique ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -7499,7 +7574,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1787733000000",
+      "id": "vert-rss-8-1787733000000",
       "title": "«Groenland, échos arctiques» : une BD pour naviguer au cœur du réchauffement climatique",
       "source": "Vert",
       "sourceId": "vert",
@@ -7523,7 +7598,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1787716800000",
+      "id": "vert-rss-9-1787716800000",
       "title": "Après un été caniculaire, ces Français s’engagent pour l’écologie : «J’ai compris que l’action battait l’anxiété»",
       "source": "Vert",
       "sourceId": "vert",
@@ -7703,7 +7778,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1787755182000",
+      "id": "lenergeek-rss-20-1787755182000",
       "title": "Gaz : pourquoi le Qatar ne parvient plus à exporter son GNL",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7728,7 +7803,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1787735690000",
+      "id": "lenergeek-rss-21-1787735690000",
       "title": "Heures creuses : une ouverture inédite aux petits consommateurs d’électricité",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7754,7 +7829,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1787729906000",
+      "id": "lenergeek-rss-22-1787729906000",
       "title": "Renault 5 Five : une nouvelle batterie qui améliore considérablement l’autonomie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7778,7 +7853,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1787725200000",
+      "id": "lenergeek-rss-23-1787725200000",
       "title": "Tous les propriétaires de moteur Diesel ont déjà commis cette erreur : voilà l’astuce qui les a sauvé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7798,32 +7873,6 @@
         "ENR"
       ],
       "summary": "À 14,99 euros, ce jerrican Norauto promet de préserver votre moteur diesel. Mais l'additif seul ne suffit pas : trois erreurs quotidiennes abîment discrètement votre mécanique, et la ville reste son pire ennemi. L’article Tous les propriétaires de moteur Diesel ont déjà commis ce…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1787723561000",
-      "title": "Pétrole : le Brent perd 3,89% et le WTI 3,12% mardi 25 août 2026",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/08/26/petrole-brent-perd-3-89-wti-3-12/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/08/shutterstock_2633926403-2.jpg",
-      "date": "2026-08-26",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Les cours du pétrole ont terminé en baisse mardi 25 août 2026, le Brent perdant 3,89% à 88,58 dollars et le WTI reculant de 3,12% à 82,36 dollars. Malgré l'annonce de nouvelles sanctions américaines contre l'Iran, les discussions entre Téhéran et Oman sur un « couloir temporaire …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8440,7 +8489,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1787672852000",
+      "id": "reporterre-rss-36-1787672852000",
       "title": "La guerre par les flammes : Israël brûle forêts et vergers au Sud-Liban",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8466,7 +8515,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1787670684000",
+      "id": "reporterre-rss-37-1787670684000",
       "title": "Les dauphins du Marineland n'iront pas à Beauval qui renonce à son projet de delphinarium",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8492,7 +8541,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1787667247000",
+      "id": "reporterre-rss-38-1787667247000",
       "title": "1 milliard d'euros pour le Fonds vert : une hausse loin des besoins",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8518,7 +8567,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1787665613000",
+      "id": "reporterre-rss-39-1787665613000",
       "title": "Avec leurs vidéos, deux frères dynamisent une lutte contre du gaz naturel liquéfié",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8543,7 +8592,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1787664614000",
+      "id": "reporterre-rss-40-1787664614000",
       "title": "IA : Trump veut autoriser le plus grand projet gazier jamais réalisé aux États-Unis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8569,7 +8618,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1787662368000",
+      "id": "reporterre-rss-41-1787662368000",
       "title": "L'Arabie saoudite va créer trois parcs d'attractions près de Paris, Emmanuel Macron ravi",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8595,7 +8644,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1787661216000",
+      "id": "reporterre-rss-42-1787661216000",
       "title": "Interdiction des pubs pour les énergies fossiles : l'ambition du décret revue à la baisse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8621,7 +8670,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1787651019000",
+      "id": "reporterre-rss-43-1787651019000",
       "title": "« C'est pas le trail qui fait fondre les glaciers » : chez les coureurs de l'Ultra trail du Mont-Blanc, la tentation du déni",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8645,7 +8694,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1787643157000",
+      "id": "reporterre-rss-44-1787643157000",
       "title": "Présidentielle 2027 : et soudain, l'écologie est partout",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8670,7 +8719,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1787637908000",
+      "id": "reporterre-rss-45-1787637908000",
       "title": "Des énergies fossiles ou rien : Donald Trump sabote l'éolien en mer",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8692,31 +8741,6 @@
         "Énergie"
       ],
       "summary": "Président des énergies fossiles, Donald Trump mène une croisade contre les éoliennes en mer, au profit de l'industrie pétrogazière. Plusieurs régions côtières de l'Est pourraient en payer le prix fort. Lire la suite - Info / Énergie , Monde Président des énergies fossiles, Donald…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "vert-rss-9-1787650169000",
-      "title": "«Où irons-nous ?» : pour sauver le canal de Panama face à la sécheresse, 38 villages bientôt engloutis par un lac artificiel géant",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/international/ou-irons-nous-pour-sauver-le-canal-de-panama-face-a-la-secheresse-38-villages-bientot-engloutis-par-un-lac-artificiel-geant/",
-      "image": null,
-      "date": "2026-08-25",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques",
-        "Biosourcé"
-      ],
-      "summary": "La sécheresse au Panama menace le fonctionnement du célèbre canal : sans pluie, le passage des navires est limité. Pour faire face, l’un des plus grands fleuves du pays sera bientôt détourné, engloutissant au passage 4 600 hectares et 38 villages ruraux du centre du pays. Des mil…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9287,7 +9311,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1787583811000",
+      "id": "reporterre-rss-46-1787583811000",
       "title": "Seulement 16 % des mesures de la Convention citoyenne pour le climat sont vraiment appliquées",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9312,7 +9336,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1787580643000",
+      "id": "reporterre-rss-47-1787580643000",
       "title": "La température moyenne à la surface des océans vient de battre un nouveau record",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9338,7 +9362,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1787579175000",
+      "id": "reporterre-rss-48-1787579175000",
       "title": "« Ce n'est pas acceptable » : à la COP17, la société civile exclue des débats",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9364,7 +9388,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1787578930000",
+      "id": "reporterre-rss-49-1787578930000",
       "title": "Sécurité alimentaire : l'agro-industrie monopolise un débat européen",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9389,7 +9413,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1787578363000",
+      "id": "reporterre-rss-50-1787578363000",
       "title": "50 000 Suédois manifestent pour le climat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9414,7 +9438,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1787573466000",
+      "id": "reporterre-rss-51-1787573466000",
       "title": "Rentrée scolaire : 6 astuces pour des fournitures plus écolos (et moins mauvaises pour la santé)",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9439,7 +9463,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1787558914000",
+      "id": "reporterre-rss-52-1787558914000",
       "title": "Des centaines de canards pris au piège à la frontière franco-belge",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9464,7 +9488,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1787557227000",
+      "id": "reporterre-rss-53-1787557227000",
       "title": "« Une aberration » : l'autorisation de tuer les renards et autres animaux classés « nuisibles » renouvelée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9490,7 +9514,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1787547600000",
+      "id": "reporterre-rss-54-1787547600000",
       "title": "« Diktat végane » : un vote populaire sur l'alimentation divise la Suisse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9617,7 +9641,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1787466959000",
+      "id": "reporterre-rss-55-1787466959000",
       "title": "Comment les oiseaux migrateurs affrontent-ils la sécheresse ? Des naturalistes leur rendent visite en canoë",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9669,7 +9693,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1787384700000",
+      "id": "reporterre-rss-56-1787384700000",
       "title": "L'eau manque ? Trois ouvrages pour comprendre cette précieuse ressource",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9695,7 +9719,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1787374800000",
+      "id": "reporterre-rss-57-1787374800000",
       "title": "« Il ne suffit pas d'avoir eu raison » : Les Écologistes cherchent une boussole pour 2027",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9721,7 +9745,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1787374800000",
+      "id": "reporterre-rss-58-1787374800000",
       "title": "« Un discours autour de l'habitabilité de la planète » : la France insoumise se présente comme le parti de l'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9920,7 +9944,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-58-1787326006000",
+      "id": "reporterre-rss-59-1787326006000",
       "title": "« Un soupir de soulagement » : Trump suspend son projet anti-immigration dans un parc national",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9941,32 +9965,6 @@
         "Confort d’été"
       ],
       "summary": "Face à une mobilisation transpartisane, l'administration Trump a finalement suspendu jusqu'à nouvel ordre son projet anti-immigration à la frontière avec le Mexique, dans le parc national de Big Bend. Les opposants restent toutefois « sur leurs gardes ». joyau de la couronne » du…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1787324158000",
-      "title": "El Niño : un épisode d'une ampleur « sans précédent » prévu pour 2026",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/El-Nino-un-episode-d-une-ampleur-sans-precedent-prevu-pour-2026",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/elninoeverywhere-22392.jpg?1787324255",
-      "date": "2026-08-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Confort d’été",
-        "Énergie"
-      ],
-      "summary": "« Sans précédent », l'épisode El Niño débuté en juin 2026, « restera dans les mémoires », selon l'agence météorologique britannique, le Met Office. L'ampleur de ce phénomène pourrait faire de 2027 l'année la plus chaude jamais enregistrée. Je n'ai jamais observé un phénomène El N…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13657,6 +13655,29 @@
         "Air"
       ],
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "batylab-sitemap-0-1785336040000",
+      "title": "actualites",
+      "source": "Batylab",
+      "sourceId": "batylab",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Bretagne",
+      "url": "https://www.batylab.bzh/actualites",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "Bretagne",
+        "REX"
+      ],
+      "summary": "Publication détectée dans le sitemap de Batylab. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -18829,7 +18850,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
