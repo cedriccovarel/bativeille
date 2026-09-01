@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T18:17:58.815Z",
+  "generatedAt": "2026-09-01T22:30:22.355Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3004,6 +3004,54 @@
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "oreo-bretagne-sitemap-62-1788253075000",
+      "title": "analyse ventes produits et substances phytosanitaire bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/eau/article/analyse-ventes-produits-et-substances-phytosanitaire-bretagne",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-144-1788252797000",
+      "title": "usages pesticides bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/eau/article/usages-pesticides-bretagne",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "acpresse-rss-0-1788276360000",
       "title": "Cem’In’Eu lance son nouveau CEM II/B-LL 42,5 N",
       "source": "ACPresse",
@@ -3748,7 +3796,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788250200000",
+      "id": "enerzine-rss-0-1788300600000",
+      "title": "Un verre métallique testé sur l’ISS : la recherche sur des gouttelettes en lévitation en microgravité",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-verre-metallique-teste-sur-liss-la-recherche-sur-des-gouttelettes-en-levitation-en-microgravite/193341-2026-09",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "L’équipe de recherche dirigée par le spécialiste des matériaux Ralf Busch de l’université de la Sarre se prépare pour sa première mission scientifique dans l’espace. Si tout se passe comme prévu, à partir du 31 août, les chercheurs passeront une semaine à étudier à distance des a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1788250200000",
       "title": "Les El Niño récents atteignent une intensité inédite depuis un millénaire, selon des coraux des Galápagos",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3773,7 +3846,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788241500000",
+      "id": "enerzine-rss-2-1788241500000",
       "title": "Les simulateurs quantiques obtiennent des barres d’erreur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3797,7 +3870,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788239400000",
+      "id": "enerzine-rss-3-1788239400000",
       "title": "Des vibrations de surface sur mesure pour améliorer les performances aérodynamiques des avions de ligne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3821,7 +3894,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788235800000",
+      "id": "enerzine-rss-4-1788235800000",
       "title": "Des carreaux réfléchissants peu coûteux ouvrent la voie à des communications sans fil à ondes millimétriques économiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3847,7 +3920,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1788232200000",
+      "id": "enerzine-rss-5-1788232200000",
       "title": "Bâtiment vert : « durable » est le nouveau « soutenable »",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4224,7 +4297,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788286658000",
+      "id": "le-commerce-du-bois-sitemap-0-1788301803000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4250,7 +4323,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788286658000",
+      "id": "le-commerce-du-bois-sitemap-1-1788301803000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4276,7 +4349,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788286658000",
+      "id": "le-commerce-du-bois-sitemap-2-1788301803000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4302,7 +4375,33 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1788286294000",
+      "id": "le-journal-du-grand-paris-rss-0-1788288479000",
+      "title": "Raphaëlle Bernabei prend les rênes de Marne-au-Bois SPL et SEM",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/raphaelle-bernabei-prend-les-renes-de-marne-au-bois-spl-et-sem/",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "À compter du 1er septembre 2026, Raphaëlle Bernabei succède à François Bourvic à la direction générale des deux structures dédiées à la transformation du territoire de l'Est parisien. À compter du 1er septembre 2026, Raphaëlle Bernabei succède à François Bourvic à la direction gé…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1788286294000",
       "title": "Julien Roux : « Avec Énergies du Grand Paris, le réseau de la CPCU va devenir plus vert »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4323,12 +4422,12 @@
         "Réglementation",
         "Eau"
       ],
-      "summary": "La Semop qui reprendra, le 1er janvier 2027, le réseau de chaleur exploité depuis 99 ans par la CPCU s'appellera Énergies du Grand Paris. Son directeur général, Julien Roux, détaille pour Le Journal du Grand Paris – première interview accordée au nom de la nouvelle société – les …",
+      "summary": "La Semop qui reprendra, le 1er janvier 2027, le réseau de chaleur exploité depuis 99 ans par la CPCU s'appellera Énergies du Grand Paris. Son directeur général, Julien Roux, détaille pour Le journal du Grand Paris – première interview accordée au nom de la nouvelle société – les …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1788285675000",
+      "id": "le-journal-du-grand-paris-rss-2-1788285675000",
       "title": "Tourisme en Île-de-France : un été 2026 marqué par des retombées économiques record",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4353,7 +4452,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1788273638000",
+      "id": "le-journal-du-grand-paris-rss-3-1788273638000",
       "title": "Des ombrières photovoltaïques installées par le Sigeif à Roissy-en-France",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4378,7 +4477,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1788265206000",
+      "id": "le-journal-du-grand-paris-rss-4-1788265206000",
       "title": "Valérie Pécresse dévoile les nouveautés de la rentrée 2026-2027 pour les lycéens franciliens",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5852,7 +5951,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1788214200000",
+      "id": "enerzine-rss-6-1788214200000",
       "title": "Portugal : les renouvelables progressent, le gaz reste indispensable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5877,7 +5976,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1788174300000",
+      "id": "enerzine-rss-7-1788174300000",
       "title": "Carburants : la mention « Contient des additifs métalliques » s’invite sur les pompes de SP95-SP98-E10",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5901,7 +6000,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1788154200000",
+      "id": "enerzine-rss-8-1788154200000",
       "title": "Un gel intelligent « commutable » pourrait ouvrir la voie aux technologies de délivrance de médicaments",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5926,7 +6025,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1788153000000",
+      "id": "enerzine-rss-9-1788153000000",
       "title": "DJI Osmo Action 6 filme une fusée réutilisable chinoise dans l’espace",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5948,30 +6047,6 @@
         "Confort d’été"
       ],
       "summary": "Douze DJI Osmo Action 6, caméras grand public non modifiées, ont embarqué sur la fusée réutilisable Zhuque-3 de LandSpace. Elles ont filmé l’intégralité du vol orbital et l’atterrissage vertical de précision, fournissant des images exploitables aux ingénieurs. Douze DJI Osmo Acti…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1788149400000",
-      "title": "Hydrolienne Mobula 5 : essais en mer réussis aux Pays-Bas",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/hydrolienne-mobula-5-essais-en-mer-reussis-aux-pays-bas/193240-2026-08",
-      "image": null,
-      "date": "2026-08-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "La start-up néerlandaise Equinox Ocean Turbines a validé en mer son prototype d’hydrolienne Mobula 5, déployé dans le détroit du Marsdiep, au nord des Pays-Bas. Annoncés le 25 août 2026, les essais confirment le fonctionnement intégré de la turbine et ouvrent la voie aux modèles …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6176,7 +6251,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1788212957000",
+      "id": "le-journal-du-grand-paris-rss-5-1788212957000",
       "title": "Edouard Balladur : l’homme qui voulait unifier la petite couronne",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6200,7 +6275,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1788192159000",
+      "id": "le-journal-du-grand-paris-rss-6-1788192159000",
       "title": "Marion Vergeylen prend la direction générale du syndicat de la forêt de Maubuisson",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6226,7 +6301,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1788180530000",
+      "id": "le-journal-du-grand-paris-rss-7-1788180530000",
       "title": "Pierre Lombard – Stratégique",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6250,7 +6325,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1788178470000",
+      "id": "le-journal-du-grand-paris-rss-8-1788178470000",
       "title": "Jean-Philippe Dugoin-Clément annonce sa candidature à la présidence de l’Amif",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6275,7 +6350,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1788172620000",
+      "id": "le-journal-du-grand-paris-rss-9-1788172620000",
       "title": "216 000 baigneurs cet été à Paris dont 120 000 dans la Seine",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6297,31 +6372,6 @@
         "Énergie"
       ],
       "summary": "La Ville de Paris annonce 216 000 baigneurs enregistrés entre le 4 juillet et le 29 août sur les sites de baignade dans la Seine et dans les canaux ainsi que dans les centres sportifs ouverts à cet effet. La Ville de Paris annonce 216 000 baigneurs enregistrés entre le 4 juillet …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1788171915000",
-      "title": "À Saint-Bernard, 30 ans après, une plaque pour ne pas oublier",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/a-saint-bernard-30-ans-apres-une-plaque-pour-ne-pas-oublier/",
-      "image": null,
-      "date": "2026-08-31",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été"
-      ],
-      "summary": "Trente ans après l’expulsion brutale des sans-papiers de l’église Saint-Bernard, une plaque a été dévoilée le 26 août, rue Saint-Luc, dans le quartier de la Goutte d’Or dans le 18e arrondissement. Un geste de mémoire dans un Paris toujours confronté à des familles sans toit. Tren…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8455,30 +8505,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-62-1787840513000",
-      "title": "analyse ventes produits et substances phytosanitaire bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/thematique/eau/article/analyse-ventes-produits-et-substances-phytosanitaire-bretagne",
-      "image": null,
-      "date": "2026-08-27",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "oreo-bretagne-sitemap-76-1787840117000",
       "title": "analyse du risque environnemental pesticides bretagne",
       "source": "OREO Bretagne",
@@ -8521,30 +8547,6 @@
         "Climat",
         "Environnement",
         "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreo-bretagne-sitemap-144-1787840676000",
-      "title": "usages pesticides bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/thematique/eau/article/usages-pesticides-bretagne",
-      "image": null,
-      "date": "2026-08-27",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Eau"
       ],
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
@@ -10854,6 +10856,31 @@
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "adeus-strasbourg-rss-0-1787218890000",
+      "title": "Observatoire local des loyers du Bas-Rhin résultats 2025 : périmètre Eurométropole de Strasbourg",
+      "source": "ADEUS Strasbourg",
+      "sourceId": "adeus-strasbourg",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.adeus.org/publications/observatoire-local-des-loyers-du-bas-rhin-resultats-2025-perimetre-eurometropole-de-strasbourg/",
+      "image": "https://www.adeus.org/wp-content/uploads/Rapport-OLL-2025-2.jpg",
+      "date": "2026-08-20",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Strasbourg",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "Le parc locatif privé constitue une composante essentielle de l’offre de logement dans l’Eurométropole de Strasbourg, répondant aux besoins d’une population diversifiée : jeunes actifs, étudiants, familles monoparentales, personnes âgées ou ménages... L’article Observatoire local…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "acpresse-rss-6-1787263200000",
@@ -15749,6 +15776,146 @@
       "collectMethod": "rss"
     },
     {
+      "id": "adeus-strasbourg-rss-1-1784729316000",
+      "title": "Enquête mobilité 2024-2025 : Résultats essentiels",
+      "source": "ADEUS Strasbourg",
+      "sourceId": "adeus-strasbourg",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.adeus.org/publications/enquete-mobilite-2024-2025-resultats-essentiels-8/",
+      "image": "https://www.adeus.org/wp-content/uploads/visuel_web-EMC2-sans-texte_Bandeau.jpg",
+      "date": "2026-07-22",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Strasbourg",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation"
+      ],
+      "summary": "Contribution de l’enquête mobilité à l’évaluation de la zone à faibles émissions-mobilité de l’Eurométropole de Strasbourg Le présent rapport s’inscrit dans le processus d’évaluation de la ZFE-m sur le territoire de l’Eurométropole... L’article Enquête mobilité 2024-2025 : Résult…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "adeus-strasbourg-rss-2-1784728309000",
+      "title": "Enquête mobilité 2024-2025 : Résultats essentiels",
+      "source": "ADEUS Strasbourg",
+      "sourceId": "adeus-strasbourg",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.adeus.org/publications/enquete-mobilite-2024-2025-resultats-essentiels-7/",
+      "image": "https://www.adeus.org/wp-content/uploads/visuel_web-EMC2-sans-texte_Bandeau.jpg",
+      "date": "2026-07-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Strasbourg",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Colmar Agglomération Le présent rapport, réalisé par l’Adauhr, fournit les premiers et principaux résultats de cette enquête à l’échelle de Colmar Agglomération (20communes). Il propose une analyse approfondie de la situation 2025. L’article Enquête mobilité 2024-2025 : Résultats…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "adeus-strasbourg-rss-3-1784727335000",
+      "title": "Enquête mobilité 2024-2025 : Résultats essentiels",
+      "source": "ADEUS Strasbourg",
+      "sourceId": "adeus-strasbourg",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.adeus.org/publications/enquete-mobilite-2024-2025-resultats-essentiels-6/",
+      "image": "https://www.adeus.org/wp-content/uploads/visuel_web-EMC2-sans-texte_Bandeau.jpg",
+      "date": "2026-07-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Strasbourg",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Région Mulhousienne Le présent rapport, réalisé par l’Afut Sud Alsace, fournit les premiers et principaux résultats de cette enquête à l’échelle de la Région mulhousienne (39 communes). Il propose une analyse approfondie... L’article Enquête mobilité 2024-2025 : Résultats essenti…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "adeus-strasbourg-rss-4-1784726797000",
+      "title": "Enquête mobilité 2024-2025 : Résultats essentiels",
+      "source": "ADEUS Strasbourg",
+      "sourceId": "adeus-strasbourg",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.adeus.org/publications/enquete-mobilite-2024-2025-resultats-essentiels-5/",
+      "image": "https://www.adeus.org/wp-content/uploads/visuel_web-EMC2-sans-texte_Bandeau.jpg",
+      "date": "2026-07-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Strasbourg",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Agglomération de Saint-Louis et pays du Sundgau Le présent rapport, réalisé par l’Afut Sud Alsace, donne les premiers et principaux résultats de cette enquête à l’échelle de l’Agglomération de Saint-Louis (40 communes)... L’article Enquête mobilité 2024-2025 : Résultats essentiel…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "adeus-strasbourg-rss-5-1784726349000",
+      "title": "Enquête mobilité 2024-2025 : Résultats essentiels",
+      "source": "ADEUS Strasbourg",
+      "sourceId": "adeus-strasbourg",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.adeus.org/publications/enquete-mobilite-2024-2025-resultats-essentiels-4/",
+      "image": "https://www.adeus.org/wp-content/uploads/visuel_web-EMC2-sans-texte_Bandeau.jpg",
+      "date": "2026-07-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Strasbourg",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Bassin sud Alsace Le présent rapport, réalisé par l’Afut Sud Alsace, fournit les premiers et principaux résultats de cette enquête à l’échelle du Bassin Sud Alsace en descendant à la maille des... L’article Enquête mobilité 2024-2025 : Résultats essentiels est apparu en premier s…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "adeus-strasbourg-rss-6-1784725543000",
+      "title": "Enquête mobilité 2024-2025 : Résultats essentiels",
+      "source": "ADEUS Strasbourg",
+      "sourceId": "adeus-strasbourg",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.adeus.org/publications/enquete-mobilite-2024-2025-resultats-essentiels-3/",
+      "image": "https://www.adeus.org/wp-content/uploads/visuel_web-EMC2-sans-texte_Bandeau.jpg",
+      "date": "2026-07-22",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Strasbourg",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation"
+      ],
+      "summary": "Alsace Contexte et objectifs de la démarche L’Enquête Mobilité Certifiée CEREMA 2024-2025 est le résultat d’une ambitieuse collaboration de l’ensemble des acteurs publics alsaciens pour connaître les pratiques de mobilité à l’échelle... L’article Enquête mobilité 2024-2025 : Résu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "acpresse-rss-7-1784734920000",
       "title": "Première pose du Géomur d’Hylgéo sur un chantier à Angers",
       "source": "ACPresse",
@@ -17587,6 +17754,79 @@
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "adeus-strasbourg-rss-7-1783694198000",
+      "title": "Portes ouvertes 2026 de l’Adeus",
+      "source": "ADEUS Strasbourg",
+      "sourceId": "adeus-strasbourg",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.adeus.org/evenements/portes-ouvertes-2026-de-ladeus/",
+      "image": "https://www.adeus.org/wp-content/uploads/Image_Savethedate_Journee-presentation_045-2026_adeus-info-1.jpg",
+      "date": "2026-07-10",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Strasbourg",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation"
+      ],
+      "summary": "L’Adeus vous convie à sa matinale « portes ouvertes » qui aura lieu le : 17 septembre 2026 entre 8h30 et 12h30dans les locaux de l’agence, 2 allée Käthe Kollwitz 67000 à Strasbourg... L’article Portes ouvertes 2026 de l’Adeus est apparu en premier sur Adeus. L’Adeus vous convie à…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "adeus-strasbourg-rss-8-1783687047000",
+      "title": "Observatoire de la mise en œuvre du réseau express métropolitain européen",
+      "source": "ADEUS Strasbourg",
+      "sourceId": "adeus-strasbourg",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.adeus.org/observatoires-adeus/observatoire-de-la-mobilite/observatoire-de-la-mise-en-oeuvre-du-reseau-express-metropolitain-europeen/",
+      "image": "https://www.adeus.org/wp-content/uploads/schema_REME_V5_sanschiffres-1.jpg",
+      "date": "2026-07-10",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Strasbourg",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "L’Adeus porte depuis 2021 un observatoire du réseau express métropolitain européen (REME) en partenariat avec la Région Grand Est, l’Eurométropole de Strasbourg, la Maison de la Région Strasbourg, et la Compagnie des... L’article Observatoire de la mise en œuvre du réseau express…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "adeus-strasbourg-rss-9-1783686243000",
+      "title": "Observatoire de la zone à faibles émissions mobilités (ZFE-m)",
+      "source": "ADEUS Strasbourg",
+      "sourceId": "adeus-strasbourg",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Grand Est",
+      "url": "https://www.adeus.org/observatoires-adeus/observatoire-de-la-mobilite/observatoire-de-la-zone-a-faibles-emissions-mobilites-zfe-m/",
+      "image": "https://www.adeus.org/wp-content/uploads/Note-358_ZFE-Bilan-2025_JI-2.jpg",
+      "date": "2026-07-10",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Strasbourg",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation"
+      ],
+      "summary": "Depuis 2022 et jusqu’en 2028, la mise en œuvre progressive de la ZFE-m s’accompagne, dans l’Eurométropole de Strasbourg, de restrictions de circulation visant les véhicules les plus polluants. Cette évolution soulève plusieurs... L’article Observatoire de la zone à faibles émissi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "connaissance-des-energies-rss-17-1783641600000",
