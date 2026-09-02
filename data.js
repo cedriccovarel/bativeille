@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-02T18:31:00.444Z",
+  "generatedAt": "2026-09-02T22:29:44.523Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3086,30 +3086,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-0-1788334221000",
-      "title": "Associations et fondations : le Grand Dialogue prolonge sa consultation d’une semaine",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/associations-et-fondations-le-grand-dialogue-prolonge-sa-consultation-dune-semaine/",
-      "image": null,
-      "date": "2026-09-02",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Initialement ouverte jusqu’au 31 août, la consultation destinée aux associations et fondations est prolongée d’une semaine, pour recueillir les témoignages d’acteurs appelés à nourrir le débat lors du prochain Forum national des Associations et Fondations. Lancé par Make.org Foun…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-0-1788362840000",
       "title": "Le prix des assurances habitation explose à cause des catastrophes climatiques",
       "source": "Reporterre",
@@ -4194,7 +4170,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788373844000",
+      "id": "le-commerce-du-bois-sitemap-0-1788388167000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4220,7 +4196,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788373844000",
+      "id": "le-commerce-du-bois-sitemap-1-1788388167000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4246,7 +4222,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788373844000",
+      "id": "le-commerce-du-bois-sitemap-2-1788388167000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4272,7 +4248,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1788361185000",
+      "id": "le-journal-du-grand-paris-rss-0-1788378439000",
+      "title": "Grand Paris express : la BEI prête 3 milliards d’euros pour la ligne 15 Ouest",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/grand-paris-express-la-bei-prete-3-milliards-deuros-pour-la-ligne-15-ouest/",
+      "image": null,
+      "date": "2026-09-02",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Confort d’été",
+        "Économie du bâtiment"
+      ],
+      "summary": "À Nanterre (Hauts-de-Seine), la Banque européenne d'investissement et la Société des Grands Projets ont signé un nouvel accord de financement qui porte à 6,5 milliards d'euros l'engagement de l'institution européenne sur la ligne 15. À Nanterre (Hauts-de-Seine), la Banque europée…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1788361185000",
       "title": "Une mission d’expertise lancée sur le RER D",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4463,6 +4465,29 @@ window.BATIVEILLE_DATA = {
         "Transition"
       ],
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-338-1788220800000",
+      "title": "actu simple 31",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/actu-simple-31",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -5341,30 +5366,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-1-1788245100000",
-      "title": "Quel patronat pour 2027 ?",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/quel-patronat-pour-2027/",
-      "image": null,
-      "date": "2026-09-01",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Le Medef, Impact France et l’UDES : trois rentrées patronales, trois visions de l’entreprise, et une question politique de fond qui va devenir centrale à l’approche de 2027 : quel patronat voulons-nous, pour quel modèle économique ? Alors que le Medef faisait sa rentrée la semain…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-8-1788279216000",
       "title": "IA : l'une des plus grandes mines de charbon au monde va alimenter d'immenses data centers",
       "source": "Reporterre",
@@ -6204,7 +6205,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1788288479000",
+      "id": "le-journal-du-grand-paris-rss-2-1788288479000",
       "title": "Raphaëlle Bernabei prend les rênes de Marne-au-Bois SPL et SEM",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6230,7 +6231,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1788286294000",
+      "id": "le-journal-du-grand-paris-rss-3-1788286294000",
       "title": "Julien Roux : « Avec Énergies du Grand Paris, le réseau de la CPCU va devenir plus vert »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6256,7 +6257,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1788286055000",
+      "id": "le-journal-du-grand-paris-rss-4-1788286055000",
       "title": "Patrick Ollier : « Nous souhaitons adopter le PMHH en décembre prochain »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6282,7 +6283,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1788285675000",
+      "id": "le-journal-du-grand-paris-rss-5-1788285675000",
       "title": "Tourisme en Île-de-France : un été 2026 marqué par des retombées économiques record",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6307,7 +6308,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1788273638000",
+      "id": "le-journal-du-grand-paris-rss-6-1788273638000",
       "title": "Des ombrières photovoltaïques installées par le Sigeif à Roissy-en-France",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6332,7 +6333,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1788265206000",
+      "id": "le-journal-du-grand-paris-rss-7-1788265206000",
       "title": "Valérie Pécresse dévoile les nouveautés de la rentrée 2026-2027 pour les lycéens franciliens",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7043,31 +7044,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-2-1788185802000",
-      "title": "Les associations doivent-elles se mêler de politique ? The Good Lobby France lance une enquête inédite",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/les-associations-doivent-elles-se-meler-de-politique-the-good-lobby-france-lance-une-enquete-inedite/",
-      "image": null,
-      "date": "2026-08-31",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation"
-      ],
-      "summary": "Des menaces de suppression de crédits pour des associations jugées trop politisées, une proposition de loi à l’Assemblée nationale pour que le préfet puisse suspendre des subventions locales s’il le souhaite : les tentatives de faire taire les associations se multiplient depuis u…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-17-1788187188000",
       "title": "Pénalités contre la fast-fashion : Shein, Temu et AliExpress dans le viseur des autorités",
       "source": "Reporterre",
@@ -7633,7 +7609,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1788212957000",
+      "id": "le-journal-du-grand-paris-rss-8-1788212957000",
       "title": "Edouard Balladur : l’homme qui voulait unifier la petite couronne",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7657,7 +7633,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1788192159000",
+      "id": "le-journal-du-grand-paris-rss-9-1788192159000",
       "title": "Marion Vergeylen prend la direction générale du syndicat de la forêt de Maubuisson",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7679,30 +7655,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "L'ancienne directrice générale de l'Association des maires d'Île-de-France (Amif) dirige depuis cet été le Syndicat mixte d'aménagement de la plaine de Pierrelaye-Bessancourt (Smapp), maître d'ouvrage du plus vaste chantier de création de forêt nouvelle : 1,5 million d'arbres sur…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1788180530000",
-      "title": "Pierre Lombard – Stratégique",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/pierre-lombard-strategique/",
-      "image": null,
-      "date": "2026-08-31",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "L’adjoint au maire de Paris à la propreté a fait ses classes au cabinet d’Anne Hidalgo, pour laquelle il a quitté le Conseil d’État, séduit par sa radicalité et sa détermination à transformer Paris. Un dessein au service duquel il entend bien continuer à œuvrer aux côtés d’Emmanu…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8596,32 +8548,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Le Medef, Impact France et Jean-Marc Jancovici ont tous lancé leurs évènements pour tenter d'influencer le débat pré-éléctoral. @Pexels / Arturo Añez. A huit mois de la présidentielle, la bataille pour influencer les candidats fait déjà rage. Jeudi 27 août, le Medef a ouvert le b…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-3-1787898600000",
-      "title": "David Cluzeau : « Peser plus lourd », la réponse de l’UDES face à une rentrée à haut risque",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/david-cluzeau-peser-plus-lourd-la-reponse-de-ludes-face-a-une-rentree-a-haut-risque/",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Un été de coupes budgétaires décidées sans préavis, des colonies de vacances en danger de disparition pour les familles les plus modestes, des structures associatives historiques mises à terre du jour au lendemain : la rentrée de l’économie sociale et solidaire s’ouvre sur un con…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9582,32 +9508,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Le chantier de la passerelle d’Escoire n’a pas été sans défis. Toute l’organisation a dû tenir compte des risques élevés de crues. The post La passerelle d’Escoire promeut les mobilités douces appeared first on ACPresse. Le chantier de la passerelle d’Escoire n’a pas été sans déf…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-4-1787823933000",
-      "title": "Financer l’ESS autrement : les collectivités locales en première ligne",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/financer-less-autrement-les-collectivites-locales-en-premiere-ligne/",
-      "image": null,
-      "date": "2026-08-27",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Avec le nouveau désengagement budgétaire de l’État, cet été encore, sur l’économie sociale et solidaire, les collectivités locales et territoriales semblent à présent les seules à pouvoir faire encore face à la préservation des structures d’intérêt général sur leur territoire. Et…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10661,30 +10561,6 @@ window.BATIVEILLE_DATA = {
         "Habitat"
       ],
       "summary": "Découvrez notre plaquette de présentation 🙂 L’article L’AGURAM : ressource locale d’observation & d’ingénierie territoriale est apparu en premier sur AGURAM. Découvrez notre plaquette de présentation 🙂 L’article L&rsquo;AGURAM : ressource locale d&rsquo;observation & d&rsquo;in…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-5-1787673132000",
-      "title": "Le handicap, angle mort persistant de la rentrée scolaire",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/le-handicap-angle-mort-persistant-de-la-rentree-scolaire/",
-      "image": null,
-      "date": "2026-08-25",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Ewan a 15 ans. Cette rentrée, ses camarades retrouveront leur collège ou leur lycée. Lui restera à la maison, faute de place en institut médico-éducatif. Sa mère finance de sa poche un enseignement à domicile et une éducatrice spécialisée, en sachant que rien ne remplace un accom…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12877,32 +12753,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de AURBSE Rouen Seine-Eure. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "mediatico-rss-6-1786086000000",
-      "title": "Canicule : une appli associative cartographie l’accès à l’eau en ville !",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/canicule-une-appli-associative-cartographie-lacces-a-leau-en-ville/",
-      "image": null,
-      "date": "2026-08-07",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Trouver un point d’eau potable en pleine canicule ne devrait pas relever du parcours du combattant. En ces temps de canicule, c’est pourtant la réalité de millions d’usagers dans les villes françaises, où l’information sur les ressources essentielles — sanitaires, eau, ombre — re…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-29-1786117303000",
@@ -15551,30 +15401,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-7-1784880049000",
-      "title": "Mécénat de compétences : quand les entreprises mettent leurs salariés au service des associations",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/mecenat-de-competences-quand-les-entreprises-mettent-leurs-salaries-au-service-des-associations/",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Prêter un salarié à une association, sur son temps de travail, pour qu’il y exerce les compétences qu’il exerce déjà en entreprise : c’est le principe du mécénat de compétences. Un dispositif consensuel, utile aux associations comme aux entreprises — mais qui reste marginal. Seul…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-47-1784884583000",
       "title": "Explosion d’un transformateur : les salariés de RTE alertent sur l’état du réseau électrique français",
       "source": "Révolution Énergétique",
@@ -15788,32 +15614,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "mediatico-rss-8-1784790000000",
-      "title": "Comment Paris veut changer les règles du jeu de l’ESS",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/comment-paris-veut-changer-les-regles-du-jeu-de-less/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "« Nous ne pourrons pas compenser le désengagement de l’État. » Dès les premières minutes de son intervention, Amina Bouri, adjointe au maire de Paris en charge de l’économie sociale et solidaire, fixe les contours de son action : la Ville de Paris n’a pas les moyens de remplacer …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-48-1784818856000",
@@ -16174,31 +15974,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Alsace Contexte et objectifs de la démarche L’Enquête Mobilité Certifiée CEREMA 2024-2025 est le résultat d’une ambitieuse collaboration de l’ensemble des acteurs publics alsaciens pour connaître les pratiques de mobilité à l’échelle... L’article Enquête mobilité 2024-2025 : Résu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-9-1784703600000",
-      "title": "Groupe SOS : nouvelle gouvernance, ambitions renforcées… et prise de position sans ambiguïté contre le RN",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/groupe-sos-nouvelle-gouvernance-ambitions-renforcees-et-prise-de-position-sans-ambiguite-contre-le-rn/",
-      "image": null,
-      "date": "2026-07-22",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Économie du bâtiment"
-      ],
-      "summary": "Quarante ans après sa création, le Groupe SOS poursuit sa transformation et amorce une nouvelle phase de son histoire. Engagé à l’origine dans la lutte contre le VIH et les addictions, il est devenu l’un des plus importants acteurs européens de l’économie sociale et solidaire, av…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -19259,6 +19034,29 @@ window.BATIVEILLE_DATA = {
       "summary": "L’article Juillet 2026 est apparu en premier sur ADEME Infos. L’article Juillet 2026 est apparu en premier sur ADEME Infos . Juillet 2026",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "title": "avancees ffb 2026",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "cerema-sitemap-806-1783067940000",
