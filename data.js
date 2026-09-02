@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-01T22:30:22.355Z",
+  "generatedAt": "2026-09-02T03:42:24.709Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,110 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1788318600000",
+      "title": "Un nouveau plastique se transforme en gaz quand on le chauffe, puis se reforme en refroidissant",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-nouveau-plastique-se-transforme-en-gaz-quand-on-le-chauffe-puis-se-reforme-en-refroidissant/193344-2026-09",
+      "image": null,
+      "date": "2026-09-02",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Un nouveau type de plastique, qui se transforme en gaz lorsqu’on le chauffe et redevient solide une fois refroidi, a été mis au point par des scientifiques de l’Université du Surrey. Cette avancée ouvre une nouvelle approche pour le traitement et le recyclage des polymères. Dans …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1788320527000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-02",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1788320527000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-02",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1788320527000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-02",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1788264001000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -3796,7 +3900,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788300600000",
+      "id": "enerzine-rss-1-1788300600000",
       "title": "Un verre métallique testé sur l’ISS : la recherche sur des gouttelettes en lévitation en microgravité",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3821,7 +3925,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788250200000",
+      "id": "enerzine-rss-2-1788250200000",
       "title": "Les El Niño récents atteignent une intensité inédite depuis un millénaire, selon des coraux des Galápagos",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3846,7 +3950,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788241500000",
+      "id": "enerzine-rss-3-1788241500000",
       "title": "Les simulateurs quantiques obtiennent des barres d’erreur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3870,7 +3974,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788239400000",
+      "id": "enerzine-rss-4-1788239400000",
       "title": "Des vibrations de surface sur mesure pour améliorer les performances aérodynamiques des avions de ligne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3894,7 +3998,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1788235800000",
+      "id": "enerzine-rss-5-1788235800000",
       "title": "Des carreaux réfléchissants peu coûteux ouvrent la voie à des communications sans fil à ondes millimétriques économiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3920,7 +4024,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1788232200000",
+      "id": "enerzine-rss-6-1788232200000",
       "title": "Bâtiment vert : « durable » est le nouveau « soutenable »",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4295,84 +4399,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Après deux décennies de certificats d’économies d’énergie et un marché hexagonal devenu ultra-concurrentiel, les professionnels français de la rénovation énergétique regardent de plus en plus vers le sud. Depuis 2023, ... L’article Rénovation énergétique : les acteurs français pa…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1788301803000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1788301803000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1788301803000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1788288479000",
@@ -5951,7 +5977,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1788214200000",
+      "id": "enerzine-rss-7-1788214200000",
       "title": "Portugal : les renouvelables progressent, le gaz reste indispensable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5976,7 +6002,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1788174300000",
+      "id": "enerzine-rss-8-1788174300000",
       "title": "Carburants : la mention « Contient des additifs métalliques » s’invite sur les pompes de SP95-SP98-E10",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6000,7 +6026,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1788154200000",
+      "id": "enerzine-rss-9-1788154200000",
       "title": "Un gel intelligent « commutable » pourrait ouvrir la voie aux technologies de délivrance de médicaments",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6021,32 +6047,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Des scientifiques de l’Université de Birmingham ont développé un nouveau matériau qui passe d’un état gélifié à un état quasi liquide sous lumière ultraviolette, et qui peut être reconstitué par la chaleur ou démantelé par un acide. Publiant leur découverte dans le Journal of the…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1788153000000",
-      "title": "DJI Osmo Action 6 filme une fusée réutilisable chinoise dans l’espace",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/dji-osmo-action-6-filme-une-fusee-reutilisable-chinoise-dans-lespace/193271-2026-08",
-      "image": null,
-      "date": "2026-08-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Douze DJI Osmo Action 6, caméras grand public non modifiées, ont embarqué sur la fusée réutilisable Zhuque-3 de LandSpace. Elles ont filmé l’intégralité du vol orbital et l’atterrissage vertical de précision, fournissant des images exploitables aux ingénieurs. Douze DJI Osmo Acti…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
