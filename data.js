@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-02T22:29:44.523Z",
+  "generatedAt": "2026-09-03T03:41:59.969Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,110 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1788405000000",
+      "title": "Sandia mène un test de nouvelle génération pour le véhicule de transport sécurisé",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/sandia-mene-un-test-de-nouvelle-generation-pour-le-vehicule-de-transport-securise/193478-2026-09",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Propulsée par des fusées sur la piste de traîneau à fusées de Sandia National Laboratories, une semi-remorque chargée de répliques d’armes nucléaires s’est écrasée contre une barrière. Il n’a fallu que quelques instants pour réaliser le deuxième et dernier crash test à grande éch…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1788406902000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1788406902000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1788406902000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1788336001000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -2715,6 +2819,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "envirobatbdm-rss-0-1788387121000",
+      "title": "MB ARCHITECTES",
+      "source": "EnvirobatBDM",
+      "sourceId": "envirobatbdm",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://envirobatbdm.eu/node/173061",
+      "image": null,
+      "date": "2026-09-02",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "BDM",
+        "Bâtiment durable",
+        "Méditerranée",
+        "Eau"
+      ],
+      "summary": "MB ARCHITECTES Anonyme (non vérifié) jeu 03/09/2026 - 00:12 Adresse 98 RUE CONSOLAT 13001 MARSEILLE France Téléphone Non renseigné Email info@mbarchitectes.fr Niveau de diffusion Niveau 4 Est-ce un accompagnateur ? Off Etiquette Evb Evb / evb25 Evb / evb26 MB ARCHITECTES Anonyme …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1788307200000",
       "title": "loto du patrimoine 2026 six tresors de provence alpes cote dazur a sauver",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -3082,6 +3210,30 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Jerry Greenfield, cofondateur de Ben & Jerry's reproche à Unilever de vouloir faire taire la marque de crèmes glacées sur les sujets sociaux. @Ben & Jerry's, CC BY-NC 2.0 sur Flickr Nouvelle étape dans la controverse qui entoure la mission sociale de Ben & Jerry's. Le fabricant d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-0-1788334221000",
+      "title": "Associations et fondations : le Grand Dialogue prolonge sa consultation d’une semaine",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/associations-et-fondations-le-grand-dialogue-prolonge-sa-consultation-dune-semaine/",
+      "image": null,
+      "date": "2026-09-02",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Initialement ouverte jusqu’au 31 août, la consultation destinée aux associations et fondations est prolongée d’une semaine, pour recueillir les témoignages d’acteurs appelés à nourrir le débat lors du prochain Forum national des Associations et Fondations. Lancé par Make.org Foun…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3669,7 +3821,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788327900000",
+      "id": "enerzine-rss-1-1788327900000",
       "title": "Des chercheurs percent le code : une astuce moléculaire ouvre la porte à une nouvelle génération de verre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3694,7 +3846,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788325800000",
+      "id": "enerzine-rss-2-1788325800000",
       "title": "Les parcs éoliens offshore pourraient modifier les régimes de précipitations",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3719,7 +3871,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788322200000",
+      "id": "enerzine-rss-3-1788322200000",
       "title": "Un câble à fibre optique révèle des crevasses cachées dans la glace",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3743,7 +3895,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788318600000",
+      "id": "enerzine-rss-4-1788318600000",
       "title": "Un nouveau plastique se transforme en gaz quand on le chauffe, puis se reforme en refroidissant",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4168,84 +4320,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Le 1er septembre 2026, deux supertankers ont été frappés dans le Détroit d'Ormuz, propulsant le pétrole Brent à 95,32 $ le baril et le WTI à 90,72 $. L’article Pétrole : le Brent atteint 95,32 $ après des attaques dans le Détroit d’Ormuz est apparu en premier sur L'EnerGeek. Le 1…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1788388167000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1788388167000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1788388167000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1788378439000",
@@ -5065,7 +5139,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-0-1788282721000",
+      "id": "envirobatbdm-rss-1-1788282721000",
       "title": "JE BATIS MA MAISON",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
@@ -5362,6 +5436,30 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Shein accusée de greenwashing en Allemagne sur ses allégations de neutralité carbone @STEPHANE OUZOUNOFF / HANS LUCAS / HANS LUCAS VIA AFP Ce mardi 1er septembre marque l’entrée en bourse du géant de l’ultra fast-fashion, Shein. Après plusieurs tentatives avortées à New York, pui…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-1-1788245100000",
+      "title": "Quel patronat pour 2027 ?",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/quel-patronat-pour-2027/",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Le Medef, Impact France et l’UDES : trois rentrées patronales, trois visions de l’entreprise, et une question politique de fond qui va devenir centrale à l’approche de 2027 : quel patronat voulons-nous, pour quel modèle économique ? Alors que le Medef faisait sa rentrée la semain…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5855,7 +5953,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1788300600000",
+      "id": "enerzine-rss-5-1788300600000",
       "title": "Un verre métallique testé sur l’ISS : la recherche sur des gouttelettes en lévitation en microgravité",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5880,7 +5978,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1788250200000",
+      "id": "enerzine-rss-6-1788250200000",
       "title": "Les El Niño récents atteignent une intensité inédite depuis un millénaire, selon des coraux des Galápagos",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5905,7 +6003,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1788241500000",
+      "id": "enerzine-rss-7-1788241500000",
       "title": "Les simulateurs quantiques obtiennent des barres d’erreur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5929,7 +6027,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1788239400000",
+      "id": "enerzine-rss-8-1788239400000",
       "title": "Des vibrations de surface sur mesure pour améliorer les performances aérodynamiques des avions de ligne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5953,7 +6051,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1788235800000",
+      "id": "enerzine-rss-9-1788235800000",
       "title": "Des carreaux réfléchissants peu coûteux ouvrent la voie à des communications sans fil à ondes millimétriques économiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5975,32 +6073,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Contrairement aux signaux WiFi ou cellulaires, les canaux de communication sans fil à ondes millimétriques ne peuvent pas traverser les murs, les meubles ou d’autres objets. Cette réalité contribue à freiner le déploiement des communications sans fil à ondes millimétriques, pourt…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1788232200000",
-      "title": "Bâtiment vert : « durable » est le nouveau « soutenable »",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/batiment-vert-durable-est-le-nouveau-soutenable/193339-2026-09",
-      "image": null,
-      "date": "2026-09-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "Réduire l’impact environnemental négatif des bâtiments ( mondialement l’un des plus grands contributeurs aux gaz à effet de serre ) pourrait être encore plus difficile que prévu. De nouvelles recherches de l’université Drexel indiquent qu’en raison de l’augmentation régulière des…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7040,6 +7112,31 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "L'année 2026 marque l'année des trois COP issues du sommet de Rio. @Pexels / Ann H Climate Week à New York, aux Etats-Unis : du 20 au 27 septembre 2026 La Climate week 2026 de New York \"mettra l'accent sur l'énergie, l'impact et l'action que nous menons ensemble\", explique Climat…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-2-1788185802000",
+      "title": "Les associations doivent-elles se mêler de politique ? The Good Lobby France lance une enquête inédite",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/les-associations-doivent-elles-se-meler-de-politique-the-good-lobby-france-lance-une-enquete-inedite/",
+      "image": null,
+      "date": "2026-08-31",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "Des menaces de suppression de crédits pour des associations jugées trop politisées, une proposition de loi à l’Assemblée nationale pour que le préfet puisse suspendre des subventions locales s’il le souhaite : les tentatives de faire taire les associations se multiplient depuis u…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8552,6 +8649,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-3-1787898600000",
+      "title": "David Cluzeau : « Peser plus lourd », la réponse de l’UDES face à une rentrée à haut risque",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/david-cluzeau-peser-plus-lourd-la-reponse-de-ludes-face-a-une-rentree-a-haut-risque/",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Un été de coupes budgétaires décidées sans préavis, des colonies de vacances en danger de disparition pour les familles les plus modestes, des structures associatives historiques mises à terre du jour au lendemain : la rentrée de l’économie sociale et solidaire s’ouvre sur un con…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-33-1787928575000",
       "title": "« On a perdu beaucoup de betteraves à sucre » : les agriculteurs pâtissent de l'été caniculaire",
       "source": "Reporterre",
@@ -9224,7 +9347,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-1-1787868721000",
+      "id": "envirobatbdm-rss-2-1787868721000",
       "title": "EAUNERGIE",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
@@ -9508,6 +9631,32 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Le chantier de la passerelle d’Escoire n’a pas été sans défis. Toute l’organisation a dû tenir compte des risques élevés de crues. The post La passerelle d’Escoire promeut les mobilités douces appeared first on ACPresse. Le chantier de la passerelle d’Escoire n’a pas été sans déf…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-4-1787823933000",
+      "title": "Financer l’ESS autrement : les collectivités locales en première ligne",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/financer-less-autrement-les-collectivites-locales-en-premiere-ligne/",
+      "image": null,
+      "date": "2026-08-27",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Avec le nouveau désengagement budgétaire de l’État, cet été encore, sur l’économie sociale et solidaire, les collectivités locales et territoriales semblent à présent les seules à pouvoir faire encore face à la préservation des structures d’intérêt général sur leur territoire. Et…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10565,6 +10714,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-5-1787673132000",
+      "title": "Le handicap, angle mort persistant de la rentrée scolaire",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/le-handicap-angle-mort-persistant-de-la-rentree-scolaire/",
+      "image": null,
+      "date": "2026-08-25",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Ewan a 15 ans. Cette rentrée, ses camarades retrouveront leur collège ou leur lycée. Lui restera à la maison, faute de place en institut médico-éducatif. Sa mère finance de sa poche un enseignement à domicile et une éducatrice spécialisée, en sachant que rien ne remplace un accom…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-7-1787651966000",
       "title": "Extraire l’uranium de l’océan : bientôt une réalité à grande échelle ?",
       "source": "Révolution Énergétique",
@@ -11396,7 +11569,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-2-1787054918000",
+      "id": "envirobatbdm-rss-3-1787054918000",
       "title": "Visite de la nouvelle école de Saint-Martin-de-Castillon",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
@@ -12102,7 +12275,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-3-1786519349000",
+      "id": "envirobatbdm-rss-4-1786519349000",
       "title": "2e Rencontres professionnelles de la copro",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
@@ -12755,6 +12928,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "mediatico-rss-6-1786086000000",
+      "title": "Canicule : une appli associative cartographie l’accès à l’eau en ville !",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/canicule-une-appli-associative-cartographie-lacces-a-leau-en-ville/",
+      "image": null,
+      "date": "2026-08-07",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Trouver un point d’eau potable en pleine canicule ne devrait pas relever du parcours du combattant. En ces temps de canicule, c’est pourtant la réalité de millions d’usagers dans les villes françaises, où l’information sur les ressources essentielles — sanitaires, eau, ombre — re…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-29-1786117303000",
       "title": "Une électrification trop lente coûtera cher prévient RTE",
       "source": "Révolution Énergétique",
@@ -13180,7 +13379,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-4-1785852722000",
+      "id": "envirobatbdm-rss-5-1785852722000",
       "title": "Permabita",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
@@ -13664,7 +13863,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-5-1785575581000",
+      "id": "envirobatbdm-rss-6-1785575581000",
       "title": "Réhabiliter les logements post 1948",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
@@ -14858,32 +15057,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobatbdm-rss-6-1785269521000",
-      "title": "FIBOIS SUD PACA",
-      "source": "EnvirobatBDM",
-      "sourceId": "envirobatbdm",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://envirobatbdm.eu/node/172861",
-      "image": null,
-      "date": "2026-07-28",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "BDM",
-        "Bâtiment durable",
-        "Méditerranée",
-        "Réglementation",
-        "Eau",
-        "Biosourcé"
-      ],
-      "summary": "FIBOIS SUD PACA Anonyme (non vérifié) mar 28/07/2026 - 22:12 Association, groupement professionnel Adresse Pavillon du Roy René 13120 GARDANNE France Téléphone Non renseigné Email contact@fibois-paca.fr Site Web http://www.fibois-paca.fr Détail secteur d'activité Conseil aux prof…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1785196800000",
       "title": "tour de france femmes 2026",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -15401,6 +15574,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-7-1784880049000",
+      "title": "Mécénat de compétences : quand les entreprises mettent leurs salariés au service des associations",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/mecenat-de-competences-quand-les-entreprises-mettent-leurs-salaries-au-service-des-associations/",
+      "image": null,
+      "date": "2026-07-24",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Prêter un salarié à une association, sur son temps de travail, pour qu’il y exerce les compétences qu’il exerce déjà en entreprise : c’est le principe du mécénat de compétences. Un dispositif consensuel, utile aux associations comme aux entreprises — mais qui reste marginal. Seul…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-47-1784884583000",
       "title": "Explosion d’un transformateur : les salariés de RTE alertent sur l’état du réseau électrique français",
       "source": "Révolution Énergétique",
@@ -15614,6 +15811,32 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "mediatico-rss-8-1784790000000",
+      "title": "Comment Paris veut changer les règles du jeu de l’ESS",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/comment-paris-veut-changer-les-regles-du-jeu-de-less/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "« Nous ne pourrons pas compenser le désengagement de l’État. » Dès les premières minutes de son intervention, Amina Bouri, adjointe au maire de Paris en charge de l’économie sociale et solidaire, fixe les contours de son action : la Ville de Paris n’a pas les moyens de remplacer …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-48-1784818856000",
@@ -15974,6 +16197,31 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Alsace Contexte et objectifs de la démarche L’Enquête Mobilité Certifiée CEREMA 2024-2025 est le résultat d’une ambitieuse collaboration de l’ensemble des acteurs publics alsaciens pour connaître les pratiques de mobilité à l’échelle... L’article Enquête mobilité 2024-2025 : Résu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-9-1784703600000",
+      "title": "Groupe SOS : nouvelle gouvernance, ambitions renforcées… et prise de position sans ambiguïté contre le RN",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/groupe-sos-nouvelle-gouvernance-ambitions-renforcees-et-prise-de-position-sans-ambiguite-contre-le-rn/",
+      "image": null,
+      "date": "2026-07-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Économie du bâtiment"
+      ],
+      "summary": "Quarante ans après sa création, le Groupe SOS poursuit sa transformation et amorce une nouvelle phase de son histoire. Engagé à l’origine dans la lutte contre le VIH et les addictions, il est devenu l’un des plus importants acteurs européens de l’économie sociale et solidaire, av…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
