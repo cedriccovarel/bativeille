@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:27:15.312Z",
+  "generatedAt": "2026-09-03T22:31:39.298Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3886,7 +3886,57 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788441745000",
+      "id": "enerzine-rss-0-1788473400000",
+      "title": "Des ingénieurs rendent l’IA embarquée plus efficace en repensant l’algorithme et le matériel",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-ingenieurs-rendent-lia-embarquee-plus-efficace-en-repensant-lalgorithme-et-le-materiel/193481-2026-09",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020"
+      ],
+      "summary": "Des chercheurs du Riccio College of Engineering de l’université du Massachusetts à Amherst ont démontré qu’en repensant à la fois le matériel et l’algorithme, il est possible de rendre plus efficaces les applications d’IA sur les appareils de périphérie. Comme preuve de concept, …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1788464432000",
+      "title": "NVIDIA veut racheter Hugging Face pour 12,93 milliards de dollars, un pari sur l’infrastructure de l’IA ouverte",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/nvidia-rachete-hugging-face-acquisition-ia-ouverte/193851-2026-09",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Le géant américain des semi-conducteurs NVIDIA a annoncé un accord pour acquérir Hugging Face, plateforme centrale de diffusion de modèles, jeux de données et applications d’intelligence artificielle, pour 12,9303 milliards de dollars. L’opération, qui reste soumise aux autorisat…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1788441745000",
       "title": "Parc photovoltaïque au sol : ce qu’un bail emphytéotique rapporte réellement au propriétaire foncier",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3911,7 +3961,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788437400000",
+      "id": "enerzine-rss-3-1788437400000",
       "title": "Renault Scénic E-Tech electric : évolutions techniques et autonomie relevée",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3935,7 +3985,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788415800000",
+      "id": "enerzine-rss-4-1788415800000",
       "title": "Des billes de biopolymères naturels : une solution intelligente pour le traitement durable des eaux usées",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3960,7 +4010,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788414300000",
+      "id": "enerzine-rss-5-1788414300000",
       "title": "Un isolant en carbone d’épaisseur atomique pour les microprocesseurs de nouvelle génération",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3986,7 +4036,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1788412200000",
+      "id": "enerzine-rss-6-1788412200000",
       "title": "SwRI développe un outil dynamique pour mieux prévoir les incendies de forêt",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4010,7 +4060,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1788408600000",
+      "id": "enerzine-rss-7-1788408600000",
       "title": "Des ingénieurs créent une solution portable pour optimiser l’ajustement et le confort des prothèses",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4034,7 +4084,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1788405000000",
+      "id": "enerzine-rss-8-1788405000000",
       "title": "Sandia mène un test de nouvelle génération pour le véhicule de transport sécurisé",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4410,7 +4460,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788460013000",
+      "id": "le-commerce-du-bois-sitemap-0-1788474679000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4436,7 +4486,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788460013000",
+      "id": "le-commerce-du-bois-sitemap-1-1788474679000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4462,7 +4512,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788460013000",
+      "id": "le-commerce-du-bois-sitemap-2-1788474679000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4488,7 +4538,33 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1788451470000",
+      "id": "le-journal-du-grand-paris-rss-0-1788466238000",
+      "title": "L’essentiel de la semaine du 31 août 2026 en quelques clics",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-31-aout-2026-en-quelques-clics/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. La rentrée francilienne a démarré sur les chapeaux de roue, avec la 5e édition du Salon de l’immobilier bas-carbone (Sibca) qui se tenait du 1er au 3 septembre au Grand Pala…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1788451470000",
       "title": "Trophées BBCA 2026 : Nexity, WO2 et Gecina en tête, Stellata et Marcadet Belvédère primés",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4514,7 +4590,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1788447872000",
+      "id": "le-journal-du-grand-paris-rss-2-1788447872000",
       "title": "A Méry-sur-Oise, Mathieu Lefèvre en visite pour saluer l’osmose inversée basse pression",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4539,7 +4615,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1788445775000",
+      "id": "le-journal-du-grand-paris-rss-3-1788445775000",
       "title": "Foncier post-carbone : les grands propriétaires apprennent à choisir leurs combats",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4565,7 +4641,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1788443884000",
+      "id": "le-journal-du-grand-paris-rss-4-1788443884000",
       "title": "Au Sibca, les élus repensent la ville autour du soin",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4591,7 +4667,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1788443392000",
+      "id": "le-journal-du-grand-paris-rss-5-1788443392000",
       "title": "Rafraîchir la ville : les quatre leviers d’une adaptation à marche forcée",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4617,7 +4693,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1788427092000",
+      "id": "le-journal-du-grand-paris-rss-6-1788427092000",
       "title": "Le Syctom distingué pour sa gestion de l’incendie du centre de tri des Batignolles",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6176,7 +6252,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1788327900000",
+      "id": "enerzine-rss-9-1788327900000",
       "title": "Des chercheurs percent le code : une astuce moléculaire ouvre la porte à une nouvelle génération de verre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6197,55 +6273,6 @@
         "Réglementation"
       ],
       "summary": "Des chercheurs de l’Université technique de Dortmund, de l’Université de Paderborn, de l’Université de Duisbourg-Essen et de l’Université d’Oxford ont mis au point une nouvelle méthode permettant de modifier sélectivement la structure interne de certains types de verre. L’étude, …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1788325800000",
-      "title": "Les parcs éoliens offshore pourraient modifier les régimes de précipitations",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/les-parcs-eoliens-offshore-pourraient-modifier-les-regimes-de-precipitations/193606-2026-09",
-      "image": null,
-      "date": "2026-09-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "Les chercheurs de l’Institut des systèmes côtiers – analyse et modélisation de Hereon ont utilisé le modèle climatique régional à haute résolution COSMO-CLM pour simuler différents scénarios techniques d’expansion de l’énergie éolienne offshore. Les simulations se sont appuyées s…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1788322200000",
-      "title": "Un câble à fibre optique révèle des crevasses cachées dans la glace",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-cable-a-fibre-optique-revele-des-crevasses-cachees-dans-la-glace/193472-2026-09",
-      "image": null,
-      "date": "2026-09-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Ces dernières années, les Alpes ont connu des effondrements dévastateurs de glaciers : en septembre 2023, une partie du glacier de la Marmolada, dans les Dolomites, s’est effondrée, entraînant la mort de sept alpinistes. Un peu plus d’un an et demi plus tard, en mai 2025, le glac…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6500,7 +6527,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1788378439000",
+      "id": "le-journal-du-grand-paris-rss-7-1788378439000",
       "title": "Grand Paris express : la BEI prête 3 milliards d’euros pour la ligne 15 Ouest",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6526,7 +6553,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1788361185000",
+      "id": "le-journal-du-grand-paris-rss-8-1788361185000",
       "title": "Une mission d’expertise lancée sur le RER D",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7935,7 +7962,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1788288479000",
+      "id": "le-journal-du-grand-paris-rss-9-1788288479000",
       "title": "Raphaëlle Bernabei prend les rênes de Marne-au-Bois SPL et SEM",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7957,32 +7984,6 @@
         "Biosourcé"
       ],
       "summary": "À compter du 1er septembre 2026, Raphaëlle Bernabei succède à François Bourvic à la direction générale des deux structures dédiées à la transformation du territoire de l'Est parisien. À compter du 1er septembre 2026, Raphaëlle Bernabei succède à François Bourvic à la direction gé…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1788286294000",
-      "title": "Julien Roux : « Avec Énergies du Grand Paris, le réseau de la CPCU va devenir plus vert »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/julien-roux-avec-energies-du-grand-paris-le-reseau-de-la-cpcu-va-devenir-plus-vert/",
-      "image": null,
-      "date": "2026-09-01",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "La Semop qui reprendra, le 1er janvier 2027, le réseau de chaleur exploité depuis 99 ans par la CPCU s'appellera Énergies du Grand Paris. Son directeur général, Julien Roux, détaille pour Le journal du Grand Paris – première interview accordée au nom de la nouvelle société – les …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
