@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-04T14:07:17.958Z",
+  "generatedAt": "2026-09-04T18:14:01.962Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2446,7 +2446,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "atmo-france-sitemap-40-1788522988000",
+      "id": "atmo-france-sitemap-40-1788533551000",
       "title": "le fonctionnement datmo france",
       "source": "Atmo France",
       "sourceId": "atmo-france",
@@ -2492,7 +2492,57 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-0-1788512100000",
+      "id": "batiweb-rss-0-1788526800000",
+      "title": "Coup de rabot de 40 millions d'euros pour la rénovation thermique des écoles",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/renovation-energetique/renovation-ecoles-plan-canicule-budget-40-millions-49255",
+      "image": "https://img.batiweb.com/repo-images/article/49255/renoecolebudgetampute.jpg",
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation",
+        "Rénovation"
+      ],
+      "summary": "L’enveloppe publique consacrée à l’adaptation des écoles aux fortes chaleurs perd 40 millions d’euros. Seuls 2 500 établissements devraient en bénéficier et uniquement pour des audits énergétiques. L’enveloppe publique consacrée à l’adaptation des écoles aux fortes chaleurs perd …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-1-1788526500000",
+      "title": "RE2020 : le gouvernement annonce rendre publique ses données",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/developpement-durable/re2020-donnees-batiments-neufs-publiques-49252",
+      "image": "https://img.batiweb.com/repo-images/article/49252/donn%C3%A9esRE2020.jpeg",
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "RE2020",
+        "Bâtiment"
+      ],
+      "summary": "Après quatre ans de mise en œuvre de la RE2020, des données sur les performances des bâtiments neufs sont désormais accessibles sur data.gouv. Après quatre ans de mise en œuvre de la RE2020, des données sur les performances des bâtiments neufs sont désormais accessibles sur data.…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-2-1788512100000",
       "title": "Data centers : 43 milliards d'euros d'investissements nécessaires selon la FNTP",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2516,7 +2566,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-1-1788507000000",
+      "id": "batiweb-rss-3-1788507000000",
       "title": "Blum part à la rencontre des professionnels de l’agencement avec un roadshow inédit",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2539,7 +2589,82 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-0-1788518766000",
+      "id": "batiweb-rss-4-1788501600000",
+      "title": "WO2 : « Nos bâtiments, très souvent, respirent la nature »",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/immobilier/wo2-immobilier-bas-carbone-bois-reversibilite-sibca-49233",
+      "image": "https://img.batiweb.com/repo-images/article/49233/marclafont.jpg",
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation",
+        "Carbone",
+        "Confort d’été"
+      ],
+      "summary": "À l'occasion du salon de l'immobilier bas carbone (SIBCA), rencontre avec Marc Lafont, président de WO2. Cette société tend à redéfinir la promotion immobilière, afin d'être plus en phase avec enjeux environnementaux. À l'occasion du salon de l'immobilier bas carbone (SIBCA), ren…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-0-1788534920000",
+      "title": "Confort d'été : le bioclimatique et le low-tech s'imposent face aux canicules",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/canicule-solutions-low-tech-bioclimatiques-ecoles-logements-refuge-climatique-racine-sibca-48472.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48472_large.jpg",
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "Ventilation naturelle, brasseurs d'air, brise-soleil, moucharabiehs, végétalisation : face aux canicules, élus, architectes et promoteurs misent sur des solutions low-tech et bioclimatiques pour rafraîchir logements et écoles. Ventilation naturelle, brasseurs d'air, brise-soleil,…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-1-1788531490000",
+      "title": "Les températures de l'été 2026 correspondraient à un été ordinaire dans une France à +4 °C",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/ete-2026-record-chaleur-france-4degres-48471.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48471_large.jpg",
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Confort d’été"
+      ],
+      "summary": "Rythmé par 53 jours en vague de chaleur et une température moyenne sur 24 heures de 24,0 °C, l'été 2026 a été l'été le plus chaud jamais enregistré, d'après le bilan climatique de l'été de Météo France. 90 % du territoire a connu au moins une foi... Rythmé par 53 jours en vague d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-2-1788518766000",
       "title": "Inventaire national des friches : 20 000 friches recensées en 2026",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2562,7 +2687,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-1-1788518436000",
+      "id": "actu-environnement-rss-3-1788518436000",
       "title": "Les populations de reptiles et d'amphibiens déclinent dans l'Hexagone",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2585,7 +2710,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-2-1788518111000",
+      "id": "actu-environnement-rss-4-1788518111000",
       "title": "L'agglo de Saint-Brieuc inaugure la première borne connectée de distribution d'eau industrielle en France",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2659,7 +2784,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-0-1788526184000",
+      "id": "auat-toulouse-rss-0-1788534751000",
+      "title": "Quel avenir pour les zones commerciales de périphérie ?",
+      "source": "AUAT Toulouse",
+      "sourceId": "auat-toulouse",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.aua-toulouse.org/quel-avenir-pour-les-zones-commerciales-de-peripherie/",
+      "image": "https://www.aua-toulouse.org/wp-content/uploads/2026/06/commerce_rencontreobs.jpg",
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Toulouse",
+        "Urbanisme",
+        "Habitat",
+        "Confort d’été"
+      ],
+      "summary": "Continuer de lire “Quel avenir pour les zones commerciales de périphérie ?”… L’article Quel avenir pour les zones commerciales de périphérie ? est apparu en premier sur AUAT. Les zones commerciales vivent une bascule décisive. Alors qu’une nécessaire sobriété foncière doit s’y ap…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "auat-toulouse-rss-1-1788526184000",
       "title": "Climat : la trajectoire qu’envisage le PNUE pour revenir en dessous de 1,5 °C",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -2682,7 +2831,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-1-1788526138000",
+      "id": "auat-toulouse-rss-2-1788526138000",
       "title": "Comment préserver la ressource en période de stress hydrique ?",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -2755,7 +2904,111 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-0-1788520729000",
+      "id": "odeys-rss-0-1788538142000",
+      "title": "[RENCONTRE] « Faites » de l'éco-habitat, la 10e édition",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/agenda/rencontre-faites-de-leco-habitat-la-10e-edition",
+      "image": "https://www.odeys.fr/sites/default/files/2026-09/Flyer%20FEH%202026_Page_0.png",
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "16 & 17 OCTOBRE 2026 Ustaritz (64) Dix ans que l'éco-habitat se raconte en fête au Pays Basque. Deux jours de tables rondes, d'ateliers pratiques, de témoignages et de musique, ouverts à toutes et tous (particuliers, professionnels, collectivités). Odéys est partenaire de cette 1…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "odeys-rss-1-1788537272000",
+      "title": "[RENCONTRE] Les Petits Déjeuners de la construction durable",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/agenda/rencontre-les-petits-dejeuners-de-la-construction-durable",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine",
+        "RE2020",
+        "Eau",
+        "Bâtiment"
+      ],
+      "summary": "24 SEPTEMBRE 2026 Anglet (64) Une heure, un café, et l'essentiel de l'actualité de la construction et de l'aménagement durables. Le format a bientôt un an : l'occasion, ce 24 septembre, de faire le point ensemble et de préparer la suite. 📆Jeudi 24 septembre 2026 🕐8h30 à 9h30 📍…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "odeys-rss-2-1788536114000",
+      "title": "[VISITES] Chantier de la Nef et de La Bascule en Charente",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/agenda/visites-chantier-de-la-nef-et-de-la-bascule-en-charente",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "29 SEPTEMBRE 2026 Angoulême (86) La Charente se bouge. Deux sites, deux façons de faire bouger les lignes du bâtiment durable sur le territoire charentais : un chantier de réhabilitation qui touche à sa fin, et une plateforme de réemploi qui monte en puissance. Odéys vous emmène …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "odeys-rss-3-1788529976000",
+      "title": "[RENCONTRE] Adhérents Odéys en Charente",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/agenda/rencontre-adherents-odeys-en-charente",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "29 SEPTEMBRE 2026 Iteuil (86) Une matinée pour se retrouver entre adhérents charentais, prendre le pouls du territoire et repartir avec des contacts utiles. Odéys réunit son réseau local le 29 septembre au CESI, dans un format volontairement ouvert : ce sont vos actualités et vos…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "odeys-rss-4-1788520729000",
       "title": "[EXPOSITION] La semaine de l'habitat 10 ans d'architecture frugale, LE BEST OFF du DD",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -2777,6 +3030,55 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "14 AU 19 SEPTEMBRE 2026 Mourenx (64) Dix ans de projets qui ont osé faire autrement. Odéys installe au MI[X] de Mourenx l'exposition itinérante « 10 ans d'architecture frugale, LE BEST OFF du DD », dans le cadre de la Semaine de l'habitat durable organisée par la Communauté de co…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batylab-rss-0-1788532634000",
+      "title": "MOOC « S’adapter au changement climatique avec les Solutions fondées sur la Nature »",
+      "source": "Batylab",
+      "sourceId": "batylab",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Bretagne",
+      "url": "https://www.batylab.bzh/mooc-sadapter-au-changement-climatique-avec-les-solutions-fondees-sur-la-nature",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "Bretagne",
+        "REX"
+      ],
+      "summary": "Dans le cadre du projet LIFE ARTISAN, l’Office français de la biodiversité (OFB) organise le MOOC « S'adapter au changement climatique avec les Solutions fondées sur la Nature ». Ce MOOC 100% gratuit, vous permet de vous accompagner pour mieux comprendre, agir et transformer vos …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-centre-rss-0-1788531164000",
+      "title": "Webinaire - Confort d'été dans les bâtiments : apprendre de 2026 pour faire face à partir de 2027",
+      "source": "Envirobat Centre",
+      "sourceId": "envirobat-centre",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Centre-Val de Loire",
+      "url": "https://www.envirobatcentre.com/evenement/webinaire-confort-dete-dans-les-batiments-apprendre-de-2026-pour-faire-face-partir-de",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Centre-Val de Loire",
+        "RE2020",
+        "Eau",
+        "Confort d’été",
+        "Rénovation"
+      ],
+      "summary": "Webinaire - Confort d'été dans les bâtiments : apprendre de 2026 pour faire face à partir de 2027 Type d’événement Webinaire ASureau ven 04/09/2026 - 16:12 Contenu Un été 2026 riche en enseignements Les épisodes de forte chaleur de l'été 2026 ont mis en lumière les enjeux du conf…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -2856,7 +3158,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "techniques-de-lingenieur-actualites-sitemap-21-1788516932000",
+      "id": "techniques-de-lingenieur-actualites-sitemap-21-1788533325000",
       "title": "wp home",
       "source": "Techniques de l’Ingénieur Actualités",
       "sourceId": "techniques-de-lingenieur-actualites",
@@ -3315,7 +3617,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-0-1788526030000",
+      "id": "greenunivers-rss-0-1788537430000",
       "title": "Les salariés des EnR préparent une manifestation lors du colloque du Ser",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -3341,7 +3643,59 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-1-1788512059000",
+      "id": "greenunivers-rss-1-1788536796000",
+      "title": "Réseaux, décarbonation et souveraineté dans les débats à Giverny",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/reseaux-decarbonation-et-souverainete-dans-les-debats-a-giverny-432355/",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "« Le principal risque auquel le réseau électrique est exposé est le changement climatique », a indiqué Emilie Piette, présidente du directoire de RTE, lors d’une L’article Réseaux, décarbonation et souveraineté dans les débats à Giverny est apparu en premier sur GreenUnivers. « L…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-2-1788534924000",
+      "title": "Au premier semestre, le solaire et l’éolien progressent, le biogaz freine",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/au-premier-semestre-le-solaire-et-leolien-progressent-le-biogaz-freine-432339/",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Eau",
+        "Énergie"
+      ],
+      "summary": "Le solaire photovoltaïque continue sa progression rapide dans l’Hexagone, avec 3 GW connectés au réseau au premier semestre, d’après les derniers chiffres du ministère de la transition écologique. C’est même L’article Au premier semestre, le solaire et l’éolien progressent, le bi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-3-1788512059000",
       "title": "En juillet et août, les cleantech françaises lèvent 110 M€",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -3366,7 +3720,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-2-1788509400000",
+      "id": "greenunivers-rss-4-1788509400000",
       "title": "Les documents de la semaine",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -3392,7 +3746,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-3-1788509280000",
+      "id": "greenunivers-rss-5-1788509280000",
       "title": "L’agenda de la transition énergétique",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -3418,7 +3772,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-4-1788509010000",
+      "id": "greenunivers-rss-6-1788509010000",
       "title": "Coût et autonomie freinent l’électrification des chantiers",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -3800,6 +4154,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "hellio-actualites-rss-0-1788538743000",
+      "title": "IND-UT-141 “Chaudière industrielle électrique\" I Hellio",
+      "source": "Hellio Actualités",
+      "sourceId": "hellio-actualites",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.hellio.com/actualites/reglementation/ind-ut-141-chaudiere-industrielle-electrique",
+      "image": "https://www.hellio.com/hubfs/s%C3%A9choir-industriel.png",
+      "date": "2026-09-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "CEE",
+        "Aides",
+        "Rénovation énergétique",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Dans un contexte géopolitique qui bouleverse durablement notre rapport à l'énergie, l'électrification des usages s'impose comme un levier central de souveraineté énergétique et de décarbonation. Dans un contexte géopolitique qui bouleverse durablement notre rapport à l'énergie, l…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "lenergeek-rss-0-1788517079000",
       "title": "Solution cloud : que deviennent vos fichiers en cas de panne ?",
       "source": "L’ÉnerGeek",
@@ -3949,7 +4329,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788530820000",
+      "id": "le-commerce-du-bois-sitemap-0-1788545622000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3975,7 +4355,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788530820000",
+      "id": "le-commerce-du-bois-sitemap-1-1788545622000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4001,7 +4381,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788530820000",
+      "id": "le-commerce-du-bois-sitemap-2-1788545622000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4049,6 +4429,30 @@ window.BATIVEILLE_DATA = {
         "Rénovation"
       ],
       "summary": "Un accord-cadre de prestations intellectuelles vient d'être publié par la métropole du Grand Paris pour accompagner les communes et établissements publics territoriaux dans la rénovation énergétique de leur patrimoine bâti. Ce marché, structuré en quatre lots, s'inscrit dans le p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1788515119000",
+      "title": "Exclusif – Stéphane Troussel seul candidat à la présidence de Séquano",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/exclusif-stephane-troussel-seul-candidat-a-la-presidence-de-sequano/",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Le président du conseil départemental de Seine-Saint-Denis devrait prendre la tête de la SEM Séquano et de la SPL Séquano Grand Paris lors du conseil d'administration de début octobre. La présidence de l'aménageur séquano-dionysien est vacante depuis le décès de Frédéric Molossi.…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4296,7 +4700,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-2-1788476700000",
+      "id": "batiweb-rss-5-1788476700000",
       "title": "Rairies Montrieux présentera ses nouveautés et son catalogue à BATIMAT 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4321,7 +4725,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-3-1788446100000",
+      "id": "batiweb-rss-6-1788446100000",
       "title": "37 % des annonces immobilières ne respectent pas l'encadrement des loyers",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4345,7 +4749,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-4-1788444300000",
+      "id": "batiweb-rss-7-1788444300000",
       "title": "Dulux Valentine lance sa nouvelle collection de peinture « Crème de couleur »",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4368,7 +4772,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-5-1788444000000",
+      "id": "batiweb-rss-8-1788444000000",
       "title": "Wiha présentera MFT One à BATIMAT, son innovation pour les contrôles électriques",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4392,7 +4796,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-6-1788425100000",
+      "id": "batiweb-rss-9-1788425100000",
       "title": "Friches : plus de 20 000 sites recensés en France en 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4415,7 +4819,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-7-1788422100000",
+      "id": "batiweb-rss-10-1788422100000",
       "title": "A69 : Atosca mis en demeure pour les émissions d'une centrale à bitume",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4440,7 +4844,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-3-1788449787000",
+      "id": "actu-environnement-rss-5-1788449787000",
       "title": "Le chiffre du jour : 44 %",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4464,7 +4868,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-4-1788446610000",
+      "id": "actu-environnement-rss-6-1788446610000",
       "title": "Climat : la trajectoire qu'envisage le PNUE pour revenir en dessous de 1,5 °C",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4488,7 +4892,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-5-1788444673000",
+      "id": "actu-environnement-rss-7-1788444673000",
       "title": "Réseau électrique : le bac à sable permet de faire évoluer les pratiques",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4512,7 +4916,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-6-1788444296000",
+      "id": "actu-environnement-rss-8-1788444296000",
       "title": "Pollution dans le Haut-Rhin : une société de recyclage de câbles électriques et son gérant condamnés",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4537,7 +4941,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-7-1788441357000",
+      "id": "actu-environnement-rss-9-1788441357000",
       "title": "Commande publique : de nouvelles obligations de verdissement entrent en vigueur",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4560,7 +4964,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-8-1788426758000",
+      "id": "actu-environnement-rss-10-1788426758000",
       "title": "Prélèvement d'eau illégal : le juge des référés nîmois juge non nécessaire la prise de mesures d'urgence",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4584,7 +4988,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-9-1788424200000",
+      "id": "actu-environnement-rss-11-1788424200000",
       "title": "Nouvelle loi anti fast-fashion : l'offensive de la France contre la mode ultra-express",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4897,7 +5301,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-1-1788435100000",
+      "id": "odeys-rss-5-1788435100000",
       "title": "[RENCONTRE] Campus local Édurénov en N-A | Rénover nos écoles : de la stratégie à l’action",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -4923,7 +5327,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-2-1788429739000",
+      "id": "odeys-rss-6-1788429739000",
       "title": "[RENCONTRE] Journée Technique Qualité de l'air",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -4949,7 +5353,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-3-1788422374000",
+      "id": "odeys-rss-7-1788422374000",
       "title": "[RENCONTRE] Prix Régional de la Construction Bois - 10e anniversaire",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -5479,7 +5883,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-5-1788450288000",
+      "id": "greenunivers-rss-7-1788450288000",
       "title": "Budget 2027 : les dossiers à suivre dans l’énergie",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5505,7 +5909,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-6-1788448057000",
+      "id": "greenunivers-rss-8-1788448057000",
       "title": "Voltalia peine à se redresser, la Bourse sanctionne",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5530,7 +5934,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-7-1788447934000",
+      "id": "greenunivers-rss-9-1788447934000",
       "title": "La production d’e-carburants pour le maritime démarre en Europe",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
@@ -5550,32 +5954,6 @@ window.BATIVEILLE_DATA = {
         "Marché énergie"
       ],
       "summary": "Dans les carburants de synthèse pour le maritime, six unités sont opérationnelles en Europe. La plupart sont de petites tailles. Néanmoins, en comptant aussi L’article La production d’e-carburants pour le maritime démarre en Europe est apparu en premier sur GreenUnivers. Dans les…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-8-1788447728000",
-      "title": "Dans l’énergie, la géothermie est « une grande oubliée » [Eurazeo]",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/dans-lenergie-la-geothermie-est-un-grand-oublie-eurazeo-432166/",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Économie du bâtiment",
-        "Énergie"
-      ],
-      "summary": "« Le bruit politique masque aujourd’hui une réalité plus profonde, le fait que la bascule de l’économie est en route », affirme Sophie Flak, membre du directoire d’Eurazeo chargée L’article Dans l’énergie, la géothermie est « une grande oubliée » [Eurazeo] est apparu en premier s…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6181,7 +6559,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1788466238000",
+      "id": "le-journal-du-grand-paris-rss-2-1788466238000",
       "title": "L’essentiel de la semaine du 31 août 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6207,7 +6585,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1788451470000",
+      "id": "le-journal-du-grand-paris-rss-3-1788451470000",
       "title": "Trophées BBCA 2026 : Nexity, WO2 et Gecina en tête, Stellata et Marcadet Belvédère primés",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6233,7 +6611,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1788447872000",
+      "id": "le-journal-du-grand-paris-rss-4-1788447872000",
       "title": "A Méry-sur-Oise, Mathieu Lefèvre en visite pour saluer l’osmose inversée basse pression",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6258,7 +6636,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1788445775000",
+      "id": "le-journal-du-grand-paris-rss-5-1788445775000",
       "title": "Foncier post-carbone : les grands propriétaires apprennent à choisir leurs combats",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6284,7 +6662,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1788443884000",
+      "id": "le-journal-du-grand-paris-rss-6-1788443884000",
       "title": "Au Sibca, les élus repensent la ville autour du soin",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6310,7 +6688,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1788443392000",
+      "id": "le-journal-du-grand-paris-rss-7-1788443392000",
       "title": "Rafraîchir la ville : les quatre leviers d’une adaptation à marche forcée",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6336,7 +6714,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1788427092000",
+      "id": "le-journal-du-grand-paris-rss-8-1788427092000",
       "title": "Le Syctom distingué pour sa gestion de l’incendie du centre de tri des Batignolles",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6606,7 +6984,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-8-1788390300000",
+      "id": "batiweb-rss-11-1788390300000",
       "title": "Rectolight : 4 astuces pour réussir la rénovation d’un plancher d’étage",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6632,7 +7010,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-9-1788390300000",
+      "id": "batiweb-rss-12-1788390300000",
       "title": "EXP’AIR TOUR : une véritable expérience immersive dans le traitement de l’air",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6655,7 +7033,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-10-1788357900000",
+      "id": "batiweb-rss-13-1788357900000",
       "title": "Immobilier ancien : « le marché n'est pas bloqué, mais la reprise plafonne »",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6680,7 +7058,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-11-1788357300000",
+      "id": "batiweb-rss-14-1788357300000",
       "title": "La Capeb note une baisse d'activité au T2 et se tourne vers la présidentielle",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6705,7 +7083,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-12-1788341400000",
+      "id": "batiweb-rss-15-1788341400000",
       "title": "Logement social : les loyers progressent plus vite que les plafonds APL",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6729,7 +7107,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-13-1788332400000",
+      "id": "batiweb-rss-16-1788332400000",
       "title": "Sécheresse 2026 : réagissez aux désordres apparaissant sur vos bâtiments",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6754,7 +7132,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-2-1788335427000",
+      "id": "auat-toulouse-rss-3-1788335427000",
       "title": "Quand les bâtiments s’offrent à de nouveaux usages entre deux vies",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -6779,7 +7157,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-3-1788335374000",
+      "id": "auat-toulouse-rss-4-1788335374000",
       "title": "60 % de l’eau douce mondiale est entre les mains de seulement neuf pays",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -7475,30 +7853,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-9-1788363361000",
-      "title": "Les grands sujets de la rentrée dans la transition énergétique",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/les-grands-sujets-de-la-rentree-dans-la-transition-energetique-431982/",
-      "image": null,
-      "date": "2026-09-02",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie"
-      ],
-      "summary": "Dernière rentrée de la présidence Macron. Les échéances électorales de 2027 sont déjà dans toutes les têtes, mais septembre démarre tout de même avec de gros enjeux pour la transition énergétique. Entre les ultimes L’article Les grands sujets de la rentrée dans la transition éner…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-2-1788362279000",
       "title": "Nouveau DPE : 300 000 logements ne seront plus des passoires thermiques, mais ce n’est pas une bonne nouvelle",
       "source": "Révolution Énergétique",
@@ -7775,7 +8129,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1788378439000",
+      "id": "le-journal-du-grand-paris-rss-9-1788378439000",
       "title": "Grand Paris express : la BEI prête 3 milliards d’euros pour la ligne 15 Ouest",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7797,32 +8151,6 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "À Nanterre (Hauts-de-Seine), la Banque européenne d'investissement et la Société des Grands Projets ont signé un nouvel accord de financement qui porte à 6,5 milliards d'euros l'engagement de l'institution européenne sur la ligne 15. À Nanterre (Hauts-de-Seine), la Banque europée…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1788361185000",
-      "title": "Une mission d’expertise lancée sur le RER D",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/une-mission-dexpertise-lancee-sur-le-rer-d/",
-      "image": null,
-      "date": "2026-09-02",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Alors que le RER D subit depuis plusieurs mois une baisse de performance, notamment en matière de ponctualité, Valérie Pécresse, présidente d'Île-de-France mobilités, demande à Transilien SNCF Voyageurs et à SNCF Réseau \"de prendre toutes les dispositions nécessaires et mettre le…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7995,7 +8323,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-14-1788303900000",
+      "id": "batiweb-rss-17-1788303900000",
       "title": "Le Topfix Large : l'innovation primée pour protéger les grandes verrières",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8020,7 +8348,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-15-1788258900000",
+      "id": "batiweb-rss-18-1788258900000",
       "title": "Olivier Salleron prend ses fonctions de président de la SMABTP",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8044,33 +8372,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-16-1788256800000",
-      "title": "WO2 : « Nos bâtiments, très souvent, respirent la nature »",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/immobilier/wo2-immobilier-bas-carbone-bois-reversibilite-sibca-49233",
-      "image": "https://img.batiweb.com/repo-images/article/49233/marclafont.jpg",
-      "date": "2026-09-01",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "Carbone",
-        "Confort d’été"
-      ],
-      "summary": "À l'occasion du salon de l'immobilier bas carbone (SIBCA), rencontre avec Marc Lafont, président de WO2. Cette société tend à redéfinir la promotion immobilière, afin d'être plus en phase avec enjeux environnementaux. À l'occasion du salon de l'immobilier bas carbone (SIBCA), ren…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-17-1788255300000",
+      "id": "batiweb-rss-19-1788255300000",
       "title": "Etex : chiffre d’affaires et rentabilité en hausse au premier semestre 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8090,55 +8392,6 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "Etex améliore ses résultats au premier semestre 2026, avec un chiffre d’affaires de 2,02 milliards d'euros et un REBITDA en hausse de 8,8 %, malgré un marché volatil. Etex améliore ses résultats au premier semestre 2026, avec un chiffre d’affaires de 2,02 milliards d'euros et un …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-18-1788246000000",
-      "title": "Crise du bâtiment : comment la FFB et l'AGS accompagnent les entreprises",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/vie-des-societes/ags-ffb-entreprises-batiment-difficultes-49225",
-      "image": "https://img.batiweb.com/repo-images/article/49225/facture.jpg",
-      "date": "2026-09-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "Mercredi 26 août, une convention a été signée entre la Fédération française du bâtiment (FFB) et l'Association de la garantie des salaires scellant un partenariat pour accompagner les entreprises du secteur en difficultés économiques. Un partenariat articulé autour de trois prior…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-19-1788233100000",
-      "title": "Gamme iD : le concept Tout-en-Un qui simplifie le choix des sols LVT",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/gammeid-sols-lvt-concept-tout-en-un-49215",
-      "image": "https://img.batiweb.com/repo-images/publi/49215/tarkett-09-02-une.jpg",
-      "date": "2026-09-01",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "RE2020"
-      ],
-      "summary": "La Gamme iD de Tarkett simplifie le choix des sols LVT grâce au concept Tout-en-Un, pensé pour tous les projets. La Gamme iD de Tarkett simplifie le choix des sols LVT grâce au concept Tout-en-Un, pensé pour tous les projets. Gamme iD : le concept Tout-en-Un qui simplifie le choi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8379,7 +8632,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "auat-toulouse-rss-4-1788251231000",
+      "id": "auat-toulouse-rss-5-1788251231000",
       "title": "L’économie suisse fragilisée par le niveau historiquement bas du Rhin",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -8404,7 +8657,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-5-1788251187000",
+      "id": "auat-toulouse-rss-6-1788251187000",
       "title": "Quand les incendies s’éteignent, les sols se transforment",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -9767,7 +10020,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-4-1788004303000",
+      "id": "odeys-rss-8-1788004303000",
       "title": "Webinaire Rénovation Performante : Isolation intérieure biosourcée : que nous apprennent la recherche et l'instrumentation de parois isolées ?",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -9793,7 +10046,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-5-1787989496000",
+      "id": "odeys-rss-9-1787989496000",
       "title": "[RENCONTRE] EXPÉRIMENTATION ET CONFÉRENCE Human Adaptation Institute",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -9815,32 +10068,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "17 et 18 Septembre 2026 LA ROCHELLE (17) Et si on comprenait mieux en expérimentant ? Faites partie des 5 entreprises qui embarqueront avec avec Odéys pour expérimenter en conditions réelles des températures à 50°C ! 📅 Vendredi 18 septembre 2026 🕢 Créneau de 35min réservé à 11:…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "odeys-rss-6-1787988510000",
-      "title": "56e Congrès du collège national des experts architectes français",
-      "source": "Odéys",
-      "sourceId": "odeys",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.odeys.fr/actualites/56e-congres-du-college-national-des-experts-architectes-francais",
-      "image": "https://www.odeys.fr/sites/default/files/styles/large/public/2026-08/Capture%20d%27%C3%A9cran%202026-08-29%20093908_0.png?itok=kss4Woj_",
-      "date": "2026-08-29",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Innovation",
-        "Nouvelle-Aquitaine",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "29.08.2026 56eme Congrès du Collège National des Experts Architectes Français Formation continue organisée par le CNEAF UN BÂTI, ET PLUSIEURS VIES Les transformations du « déjà-là » 📆 Jeudi 5 novembre 2026 & Vendredi 6 novembre 2026 📍 Cité des Congrès de Nantes, 5 rue de Valmy …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10547,7 +10774,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-6-1787818334000",
+      "id": "auat-toulouse-rss-7-1787818334000",
       "title": "Loi biodiversité de 2016 : dix ans après, la reconquête reste un vœu pieux",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -10571,7 +10798,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-7-1787818294000",
+      "id": "auat-toulouse-rss-8-1787818294000",
       "title": "“Nous devons faire le tri dans nos rêves d’enfants gâtés”",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -10637,32 +10864,6 @@ window.BATIVEILLE_DATA = {
         "Habitat"
       ],
       "summary": "L’article SCOT AIX-MARSEILLE-PROVENCE – SYNTHÈSE TECHNIQUE – juin 2026 est apparu en premier sur AGAM. L’article SCOT AIX-MARSEILLE-PROVENCE &#8211; SYNTHÈSE TECHNIQUE &#8211; juin 2026 est apparu en premier sur AGAM . SCOT AIX-MARSEILLE-PROVENCE – SYNTHÈSE TECHNIQUE – juin 2026",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "odeys-rss-7-1787828562000",
-      "title": "[RENCONTRE] Séminaire « Adapter la Nouvelle-Aquitaine aux effets du changement climatique, aujourd’hui et demain »",
-      "source": "Odéys",
-      "sourceId": "odeys",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.odeys.fr/agenda/rencontre-seminaire-adapter-la-nouvelle-aquitaine-aux-effets-du-changement-climatique",
-      "image": null,
-      "date": "2026-08-27",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Innovation",
-        "Nouvelle-Aquitaine",
-        "Réglementation",
-        "RE2020",
-        "Carbone"
-      ],
-      "summary": "10 SEPTEMBRE 2026 Bordeaux (33) Séminaire « Adapter la Nouvelle-Aquitaine aux effets du changement climatique, aujourd’hui et demain : le Bâti » 📆 Jeudi 10 Septembre 2026 🕛 10h à 16:30 📍Hôtel de région de Bordeaux - Salle plénière 14, rue François-de-Sourdis 🎓Une journée dédi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10982,7 +11183,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-8-1787730090000",
+      "id": "auat-toulouse-rss-9-1787730090000",
       "title": "L’Europe a besoin de dix millions de logements « net zéro » neufs ou rénovés d’ici 2040",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -11006,7 +11207,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-9-1787730049000",
+      "id": "auat-toulouse-rss-10-1787730049000",
       "title": "Sécheresse : en Allemagne, les voies navigables seront-elles réaménagées ou laissées à l’état naturel ?",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -11310,7 +11511,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-10-1787644629000",
+      "id": "auat-toulouse-rss-11-1787644629000",
       "title": "La canicule, piège silencieux pour les personnes atteintes de maladies chroniques",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -11330,32 +11531,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "L’article La canicule, piège silencieux pour les personnes atteintes de maladies chroniques est apparu en premier sur AUAT. L’article La canicule, piège silencieux pour les personnes atteintes de maladies chroniques est apparu en premier sur AUAT . La canicule, piège silencieux p…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "odeys-rss-8-1787647266000",
-      "title": "[APPEL À PROJETS] Grand Prix national du paysage 2026",
-      "source": "Odéys",
-      "sourceId": "odeys",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.odeys.fr/actualites/appel-projets-grand-prix-national-du-paysage-2026",
-      "image": null,
-      "date": "2026-08-25",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Innovation",
-        "Nouvelle-Aquitaine",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "11.09.2026 Mettez à l'honneur vos projets d'aménagement du quotidien ! Le Ministère de la Transition Écologique a officiellement lancé l’appel à candidatures pour l’édition 2026 du Grand Prix National du Paysage. Décerné tous les deux ans, ce prix met cette année un coup de proje…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11502,7 +11677,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "hellio-actualites-rss-0-1787646390000",
+      "id": "hellio-actualites-rss-1-1787646390000",
       "title": "Label bas carbone dans l'agriculture : guide complet | Hellio",
       "source": "Hellio Actualités",
       "sourceId": "hellio-actualites",
@@ -11606,7 +11781,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-11-1787571628000",
+      "id": "auat-toulouse-rss-12-1787571628000",
       "title": "Sobriété hydrique : visite d’un aménagement inspirant à Toulouse le 6 octobre 2026",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -11632,7 +11807,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-12-1787571230000",
+      "id": "auat-toulouse-rss-13-1787571230000",
       "title": "Les générateurs d’eau atmosphérique, une solution face à la crise de l’eau ?",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -11656,7 +11831,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-13-1787571186000",
+      "id": "auat-toulouse-rss-14-1787571186000",
       "title": "“Un hiver sec précédant un été comparable à 2026 pourrait être catastrophique”",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -11904,32 +12079,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-9-1787318531000",
-      "title": "10e édition des assises nationales de la terre crue",
-      "source": "Odéys",
-      "sourceId": "odeys",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.odeys.fr/actualites/10e-edition-des-assises-nationales-de-la-terre-crue",
-      "image": "https://www.odeys.fr/sites/default/files/2026-08/assises%20Terre%20Crue%20programme.png.jpg",
-      "date": "2026-08-21",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Innovation",
-        "Nouvelle-Aquitaine",
-        "Réglementation",
-        "Biosourcé",
-        "Bâtiment"
-      ],
-      "summary": "19.11.2026 Du 19 au 21 novembre 2026, Saint-Omer (62) accueille la 10e édition des Assises nationales de la construction en terre crue, placée sous le signe du partage « au-delà des frontières ». EN SAVOIR PLUS Le CD2E, partenaire de l’événement, s’engage aux côtés des acteurs de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-13-1787306952000",
       "title": "Fou d’éoliennes, le Brésil conforte sa présence dans le Top 5 mondial avec un nouveau parc",
       "source": "Révolution Énergétique",
@@ -12131,7 +12280,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "hellio-actualites-rss-1-1787224719000",
+      "id": "hellio-actualites-rss-2-1787224719000",
       "title": "Prime CEE voiture électrique d’occasion : montant, conditions | Hellio",
       "source": "Hellio Actualités",
       "sourceId": "hellio-actualites",
@@ -12334,7 +12483,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-centre-rss-0-1787051189000",
+      "id": "envirobat-centre-rss-1-1787051189000",
       "title": "Quelles sont les limites de la clim ?",
       "source": "Envirobat Centre",
       "sourceId": "envirobat-centre",
@@ -12354,32 +12503,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Quelles sont les limites de la clim ? Gwen mar 18/08/2026 - 13:06 À chaque canicule, la climatisation apparaît comme la réponse la plus immédiate à la chaleur. Dans certains cas, elle devient même un outil de protection sanitaire : l’Organisation mondiale de la santé (OMS) rappel…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-centre-rss-1-1787050772000",
-      "title": "Canicules : le rôle de l’isolation et de l’inertie thermique des bâtiments pour se protéger contre la chaleur",
-      "source": "Envirobat Centre",
-      "sourceId": "envirobat-centre",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Centre-Val de Loire",
-      "url": "https://www.envirobatcentre.com/centre-de-ressources/actualites/canicules-le-role-de-lisolation-et-de-linertie-thermique-des-batiments-pour-se-proteger",
-      "image": "https://www.envirobatcentre.com/sites/default/files/styles/thumbnail/public/media/image/2021-09/guide%20reno_11.jpg?itok=TjGKfr8T",
-      "date": "2026-08-18",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Centre-Val de Loire",
-        "Confort d’été",
-        "Rénovation",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Canicules : le rôle de l’isolation et de l’inertie thermique des bâtiments pour se protéger contre la chaleur Gwen mar 18/08/2026 - 12:59 Les canicules successives de l’été 2026 et leurs victimes nous rappellent le manque d’adaptation du parc immobilier français au réchauffement …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12410,7 +12533,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "hellio-actualites-rss-2-1787047292000",
+      "id": "hellio-actualites-rss-3-1787047292000",
       "title": "Impact carbone : définition, calcul et leviers | Hellio",
       "source": "Hellio Actualités",
       "sourceId": "hellio-actualites",
@@ -13069,7 +13192,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "hellio-actualites-rss-3-1786550017000",
+      "id": "hellio-actualites-rss-4-1786550017000",
       "title": "L'Île-de-France finance les projets de géothermie | Hellio",
       "source": "Hellio Actualités",
       "sourceId": "hellio-actualites",
@@ -13093,7 +13216,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "hellio-actualites-rss-4-1786549995000",
+      "id": "hellio-actualites-rss-5-1786549995000",
       "title": "Contrat Énergie en Île-de-France : financez vos programmes d'investissements",
       "source": "Hellio Actualités",
       "sourceId": "hellio-actualites",
@@ -13196,7 +13319,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "hellio-actualites-rss-5-1786435641000",
+      "id": "hellio-actualites-rss-6-1786435641000",
       "title": "Voiture de fonction électrique : pourquoi passer au vert ? | Hellio",
       "source": "Hellio Actualités",
       "sourceId": "hellio-actualites",
@@ -14191,7 +14314,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "hellio-actualites-rss-6-1785754514000",
+      "id": "hellio-actualites-rss-7-1785754514000",
       "title": "PUE data center : comment le calculer et l’améliorer | Hellio",
       "source": "Hellio Actualités",
       "sourceId": "hellio-actualites",
@@ -14527,7 +14650,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "auat-toulouse-rss-14-1785503098000",
+      "id": "auat-toulouse-rss-15-1785503098000",
       "title": "L’AUAT à BâtiFRAIS 2026 : renforcer l’expertise collective face au défi du confort d’été",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -14552,7 +14675,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-15-1785484362000",
+      "id": "auat-toulouse-rss-16-1785484362000",
       "title": "Les régions rouvrent la voie aux petites lignes ferroviaires",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -14575,7 +14698,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-16-1785484321000",
+      "id": "auat-toulouse-rss-17-1785484321000",
       "title": "Habiter en hauteur : un immobilier cher et recherché, mais vulnérable aux fortes chaleurs",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -14843,7 +14966,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "auat-toulouse-rss-17-1785396281000",
+      "id": "auat-toulouse-rss-18-1785396281000",
       "title": "“Le changement climatique peut effacer une grande partie de la croissance économique”",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -14866,7 +14989,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-18-1785396245000",
+      "id": "auat-toulouse-rss-19-1785396245000",
       "title": "“Ce qui brûle aujourd’hui n’est pas seulement une forêt, mais une manière d’habiter”",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -15249,29 +15372,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batylab-sitemap-0-1785336040000",
-      "title": "actualites",
-      "source": "Batylab",
-      "sourceId": "batylab",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Bretagne",
-      "url": "https://www.batylab.bzh/actualites",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "Bretagne",
-        "REX"
-      ],
-      "summary": "Publication détectée dans le sitemap de Batylab. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "verre-protections-magazine-rss-8-1785357659000",
       "title": "Filière REP pour les emballages professionnels : mise en oeuvre opérationnelle de la filière à partir du 1er janvier 2027",
       "source": "Verre & Protections Magazine",
@@ -15497,29 +15597,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "auat-toulouse-rss-19-1785224638000",
-      "title": "Pourquoi le “bien commun” fait son grand retour dans le débat public",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/pourquoi-le-bien-commun-fait-son-grand-retour-dans-le-debat-public/",
-      "image": null,
-      "date": "2026-07-28",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Pourquoi le “bien commun” fait son grand retour dans le débat public est apparu en premier sur AUAT. L’article Pourquoi le “bien commun” fait son grand retour dans le débat public est apparu en premier sur AUAT . Pourquoi le “bien commun” fait son grand retour dans le d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1785196800000",
       "title": "tour de france femmes 2026",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -15619,7 +15696,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "hellio-actualites-rss-7-1785229201000",
+      "id": "hellio-actualites-rss-8-1785229201000",
       "title": "Rétrofit camion : coût, aides et solutions pour les flottes I Hellio",
       "source": "Hellio Actualités",
       "sourceId": "hellio-actualites",
@@ -18501,7 +18578,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "hellio-actualites-rss-8-1783585432000",
+      "id": "hellio-actualites-rss-9-1783585432000",
       "title": "Poids lourd électrique : avantages, coûts et aides I Hellio",
       "source": "Hellio Actualités",
       "sourceId": "hellio-actualites",
@@ -19003,32 +19080,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "hellio-actualites-rss-9-1783411891000",
-      "title": "2 ans de CoproSolutions : l'état des lieux des copropriétés françaises | Hellio",
-      "source": "Hellio Actualités",
-      "sourceId": "hellio-actualites",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.hellio.com/actualites/communiques/2-ans-coprosolutions-etat-des-lieux-coproprietes-fran%C3%A7aises",
-      "image": "https://www.hellio.com/hubfs/Logo%20CoproSolutions%20r%C3%A9duit%20(1).png",
-      "date": "2026-07-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "CEE",
-        "Aides",
-        "Rénovation énergétique",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Projet de loi Relance Logement : les copropriétés françaises sont-elles prêtes pour la prochaine étape de la transition énergétique ? La rénovation énergétique s’impose plus que jamais comme un enjeu central des politiques du logement. Alors que le projet de loi Relance Logement …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "observatoire-de-l-immobilier-durable-oid-rss-4-1783342908000",
       "title": "Former les professionnels de l’immobilier aux enjeux de biodiversité",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -19458,6 +19509,52 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "adulm-lille-metropole-sitemap-108-1783088598000",
+      "title": "installation de la nouvelle gouvernance de ladulm",
+      "source": "ADULM Lille Métropole",
+      "sourceId": "adulm-lille-metropole",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Hauts-de-France",
+      "url": "https://www.adu-lille-metropole.org/actualites/installation-de-la-nouvelle-gouvernance-de-ladulm/",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Lille",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de ADULM Lille Métropole. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "adulm-lille-metropole-sitemap-109-1783088640000",
+      "title": "lancement des ateliers renaturation a hem",
+      "source": "ADULM Lille Métropole",
+      "sourceId": "adulm-lille-metropole",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Hauts-de-France",
+      "url": "https://www.adu-lille-metropole.org/actualites/lancement-des-ateliers-renaturation-a-hem/",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Lille",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "Publication détectée dans le sitemap de ADULM Lille Métropole. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "aurbse-rouen-seine-eure-sitemap-23-1783085820000",
       "title": "le grand territoire face au besoin de renaturation",
       "source": "AURBSE Rouen Seine-Eure",
@@ -19553,7 +19650,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "adulm-lille-metropole-sitemap-108-1782992561000",
+      "id": "adulm-lille-metropole-sitemap-107-1782992561000",
       "title": "partenariat de proximite avec cysoing",
       "source": "ADULM Lille Métropole",
       "sourceId": "adulm-lille-metropole",
@@ -19768,7 +19865,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "adulm-lille-metropole-sitemap-107-1782926390000",
+      "id": "adulm-lille-metropole-sitemap-106-1782926390000",
       "title": "groupement regional de sante environnement",
       "source": "ADULM Lille Métropole",
       "sourceId": "adulm-lille-metropole",
