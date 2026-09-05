@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-04T22:16:01.464Z",
+  "generatedAt": "2026-09-05T03:41:57.217Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,108 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1788577800000",
+      "title": "Des scientifiques donnent une seconde vie aux déchets de composites aéronautiques",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-scientifiques-donnent-une-seconde-vie-aux-dechets-de-composites-aeronautiques/193542-2026-09",
+      "image": null,
+      "date": "2026-09-05",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des chercheurs de l’Université nationale de Singapour (NUS) ont développé une méthode pour transformer les déchets de composites résistants et légers utilisés dans les avions et d’autres structures haute performance en aérogels pouvant servir à l’isolation thermique, à l’absorpti…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1788579699000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-05",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1788579699000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-05",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1788579699000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-05",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1788508801000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -3309,6 +3411,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-0-1788505230000",
+      "title": "Première ressourcerie culturelle de France, La Réserve des Arts placée en liquidation judiciaire",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/premiere-ressourcerie-culturelle-de-france-la-reserve-des-arts-placee-en-liquidation-judiciaire/",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "RE2020"
+      ],
+      "summary": "Tristesse. Après dix-sept ans d’existence, La Réserve des Arts a fermé ses portes définitivement le 1er septembre. Le Tribunal des activités économiques a prononcé la liquidation judiciaire de l’association le 12 août dernier, mettant fin à l’aventure de la première ressourcerie …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-0-1788529958000",
       "title": "Victimes de pesticides : pour la première fois, le seuil des 1 000 demandes d'indemnisation a été franchi",
       "source": "Reporterre",
@@ -3999,7 +4126,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788559800000",
+      "id": "enerzine-rss-1-1788559800000",
       "title": "Ajouter du fer dans l’océan peut éliminer le CO2 – mais à quel prix pour la nature ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4025,7 +4152,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788554700000",
+      "id": "enerzine-rss-2-1788554700000",
       "title": "Panneau de signalisation routière : connaissez vous les P-33 et P-35 en Espagne ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4050,7 +4177,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788552300000",
+      "id": "enerzine-rss-3-1788552300000",
       "title": "Salmonellose : 81 cas liés à des graines de courge contaminées, l’alerte sanitaire s’étend en France",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4074,7 +4201,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788513000000",
+      "id": "enerzine-rss-4-1788513000000",
       "title": "Transition énergétique : pourquoi le recrutement ne peut plus reposer uniquement sur les compétences techniques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4100,7 +4227,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1788507600000",
+      "id": "enerzine-rss-5-1788507600000",
       "title": "Logement social : l’inaccessible devient-il la norme ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4126,7 +4253,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1788500700000",
+      "id": "enerzine-rss-6-1788500700000",
       "title": "OpenAI dévoile GPT-6 Astra, un modèle d’IA aux capacités cyber jugées « critiques »",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4150,7 +4277,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1788498600000",
+      "id": "enerzine-rss-7-1788498600000",
       "title": "Des chercheurs utilisent un dispositif physique pour prendre le contrôle de l’électronique d’un Boeing 737",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4176,7 +4303,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1788495000000",
+      "id": "enerzine-rss-8-1788495000000",
       "title": "« Embarquement immédiat » … à 240 000 miles de la Terre, au premier aéroport de la Lune",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4201,7 +4328,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1788491400000",
+      "id": "enerzine-rss-9-1788491400000",
       "title": "Le rythme du changement climatique affecte la stabilité de l’AMOC",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4400,84 +4527,6 @@ window.BATIVEILLE_DATA = {
       "summary": "456 bombes, un million et demi de vies exposées, un secret d'État plus long que la guerre froide. Ce que l'URSS a caché à sa propre population dans la steppe kazakhe dépasse l'imaginable. L’article Ils testent une nouvelle arme nucléaire et fond exploser 456 engins : les doses so…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1788560139000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1788560139000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1788560139000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1788516616000",
@@ -4771,6 +4820,30 @@ window.BATIVEILLE_DATA = {
       "summary": "Paris, le 2 septembre 2026 – La reprise de l’activité se fait toujours attendre dans l’artisanat du bâtiment. Au deuxième trimestre 2026, l’activité recule de 1,5 % sur un an, enregistrant ainsi un 13e trimestre consécutif de baisse. Paris, le 2 septembre 2026 – La reprise de l’a…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "cstb-sitemap-61-1788446713000",
+      "title": "renforcer securite eau potable",
+      "source": "CSTB",
+      "sourceId": "cstb",
+      "sourceType": "Organisme technique",
+      "region": "National",
+      "url": "https://www.cstb.fr/communiques-de-presse/renforcer-securite-eau-potable",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Technique",
+        "Innovation",
+        "Construction",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de CSTB. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "batiweb-rss-5-1788476700000",
@@ -5580,6 +5653,57 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-1-1788431434000",
+      "title": "Le Shakirail, un lieu qui encourage l’initiative citoyenne et développe le pouvoir d’agir",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/le-shakirail-un-lieu-qui-encourage-linitiative-citoyenne-et-developpe-le-pouvoir-dagir/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Bâtiment"
+      ],
+      "summary": "Depuis 2011, un ancien équipement SNCF aux portes de Paris accueille des artistes émergents et précaires, dans le quartier Marx Dormoy-La Chapelle.Reconnu de longue date pour son action culturelle « hors les murs » auprès des habitants du quartier, dont ceux vivant au sein de log…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-2-1788418842000",
+      "title": "Économie sociale et solidaire : l’été a révélé l’incohérence de la stratégie nationale",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/economie-sociale-et-solidaire-lete-a-revele-lincoherence-de-la-strategie-nationale/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Confort d’été",
+        "Économie du bâtiment"
+      ],
+      "summary": "La stratégie nationale de l’économie sociale et solidaire vient à peine d’être adoptée que les derniers choix budgétaires du gouvernement racontent une autre histoire. PTCE, tiers-lieux, Territoires zéro chômeur longue durée : l’État affiche toujours son soutien aux dynamiques te…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-10-1788452398000",
       "title": "Sécheresse : l'OFB alerte sur l'état de dégradation « exceptionnel » des petits cours d'eau",
       "source": "Reporterre",
@@ -6128,31 +6252,6 @@ window.BATIVEILLE_DATA = {
         "Pédagogie"
       ],
       "summary": "Au 1er semestre 2026, les exportations américaines de gaz naturel liquéfié (GNL) ont augmenté de 23 % par rapport aux six premiers mois de 2025, selon les dernières données de l’EIA américaine (Energy Information Administration). Au 1er semestre 2026, les exportations américaines…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1788473400000",
-      "title": "Des ingénieurs rendent l’IA embarquée plus efficace en repensant l’algorithme et le matériel",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-ingenieurs-rendent-lia-embarquee-plus-efficace-en-repensant-lalgorithme-et-le-materiel/193481-2026-09",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "RE2020"
-      ],
-      "summary": "Des chercheurs du Riccio College of Engineering de l’université du Massachusetts à Amherst ont démontré qu’en repensant à la fois le matériel et l’algorithme, il est possible de rendre plus efficaces les applications d’IA sur les appareils de périphérie. Comme preuve de concept, …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7499,6 +7598,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-3-1788334221000",
+      "title": "Associations et fondations : le Grand Dialogue prolonge sa consultation d’une semaine",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/associations-et-fondations-le-grand-dialogue-prolonge-sa-consultation-dune-semaine/",
+      "image": null,
+      "date": "2026-09-02",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Initialement ouverte jusqu’au 31 août, la consultation destinée aux associations et fondations est prolongée d’une semaine, pour recueillir les témoignages d’acteurs appelés à nourrir le débat lors du prochain Forum national des Associations et Fondations. Lancé par Make.org Foun…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-20-1788362840000",
       "title": "Le prix des assurances habitation explose à cause des catastrophes climatiques",
       "source": "Reporterre",
@@ -8830,6 +8953,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-4-1788245100000",
+      "title": "Quel patronat pour 2027 ?",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/quel-patronat-pour-2027/",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Le Medef, Impact France et l’UDES : trois rentrées patronales, trois visions de l’entreprise, et une question politique de fond qui va devenir centrale à l’approche de 2027 : quel patronat voulons-nous, pour quel modèle économique ? Alors que le Medef faisait sa rentrée la semain…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-28-1788279216000",
       "title": "IA : l'une des plus grandes mines de charbon au monde va alimenter d'immenses data centers",
       "source": "Reporterre",
@@ -9479,6 +9626,31 @@ window.BATIVEILLE_DATA = {
         "Rénovation"
       ],
       "summary": "Cette fois, c’est fait. À compter de ce mardi 1er septembre 2026, le remplacement des fenêtres sort du dispositif MaPrimeRénov’ “par geste ”. Avec lui disparaissent également les aides à plusieurs autres travaux d’isolation et équipements. La décision, annoncée fin... L’article M…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-5-1788185802000",
+      "title": "Les associations doivent-elles se mêler de politique ? The Good Lobby France lance une enquête inédite",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/les-associations-doivent-elles-se-meler-de-politique-the-good-lobby-france-lance-une-enquete-inedite/",
+      "image": null,
+      "date": "2026-08-31",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "Des menaces de suppression de crédits pour des associations jugées trop politisées, une proposition de loi à l’Assemblée nationale pour que le préfet puisse suspendre des subventions locales s’il le souhaite : les tentatives de faire taire les associations se multiplient depuis u…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10269,6 +10441,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-6-1787898600000",
+      "title": "David Cluzeau : « Peser plus lourd », la réponse de l’UDES face à une rentrée à haut risque",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/david-cluzeau-peser-plus-lourd-la-reponse-de-ludes-face-a-une-rentree-a-haut-risque/",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Un été de coupes budgétaires décidées sans préavis, des colonies de vacances en danger de disparition pour les familles les plus modestes, des structures associatives historiques mises à terre du jour au lendemain : la rentrée de l’économie sociale et solidaire s’ouvre sur un con…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-53-1787928575000",
       "title": "« On a perdu beaucoup de betteraves à sucre » : les agriculteurs pâtissent de l'été caniculaire",
       "source": "Reporterre",
@@ -10882,6 +11080,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-7-1787823933000",
+      "title": "Financer l’ESS autrement : les collectivités locales en première ligne",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/financer-less-autrement-les-collectivites-locales-en-premiere-ligne/",
+      "image": null,
+      "date": "2026-08-27",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Avec le nouveau désengagement budgétaire de l’État, cet été encore, sur l’économie sociale et solidaire, les collectivités locales et territoriales semblent à présent les seules à pouvoir faire encore face à la préservation des structures d’intérêt général sur leur territoire. Et…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-8-1787810272000",
       "title": "Le chantier des réacteurs nucléaires EPR2 de Gravelines peut enfin commencer",
       "source": "Révolution Énergétique",
@@ -11423,6 +11647,30 @@ window.BATIVEILLE_DATA = {
         "Habitat"
       ],
       "summary": "Découvrez notre plaquette de présentation 🙂 L’article L’AGURAM : ressource locale d’observation & d’ingénierie territoriale est apparu en premier sur AGURAM. Découvrez notre plaquette de présentation 🙂 L’article L&rsquo;AGURAM : ressource locale d&rsquo;observation & d&rsquo;in…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-8-1787673132000",
+      "title": "Le handicap, angle mort persistant de la rentrée scolaire",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/le-handicap-angle-mort-persistant-de-la-rentree-scolaire/",
+      "image": null,
+      "date": "2026-08-25",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Ewan a 15 ans. Cette rentrée, ses camarades retrouveront leur collège ou leur lycée. Lui restera à la maison, faute de place en institut médico-éducatif. Sa mère finance de sa poche un enseignement à domicile et une éducatrice spécialisée, en sachant que rien ne remplace un accom…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13367,50 +13615,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "aurbse-rouen-seine-eure-sitemap-0-1786106640000",
-      "title": "actualites",
-      "source": "AURBSE Rouen Seine-Eure",
-      "sourceId": "aurbse-rouen-seine-eure",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Normandie",
-      "url": "https://www.aurbse.org/actualites",
+      "id": "mediatico-rss-9-1786086000000",
+      "title": "Canicule : une appli associative cartographie l’accès à l’eau en ville !",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/canicule-une-appli-associative-cartographie-lacces-a-leau-en-ville/",
       "image": null,
       "date": "2026-08-07",
-      "access": "open",
+      "access": "Accès gratuit partiel",
       "official": false,
       "highImpact": false,
-      "impactScore": 72,
+      "impactScore": 96,
       "tags": [
-        "Rouen",
-        "Urbanisme",
-        "Habitat"
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau",
+        "Confort d’été"
       ],
-      "summary": "Publication détectée dans le sitemap de AURBSE Rouen Seine-Eure. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "summary": "Trouver un point d’eau potable en pleine canicule ne devrait pas relever du parcours du combattant. En ces temps de canicule, c’est pourtant la réalité de millions d’usagers dans les villes françaises, où l’information sur les ressources essentielles — sanitaires, eau, ombre — re…",
       "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aurbse-rouen-seine-eure-sitemap-14-1786105020000",
-      "title": "et si vous partiez en randonnee urbaine entre ville et paysage",
-      "source": "AURBSE Rouen Seine-Eure",
-      "sourceId": "aurbse-rouen-seine-eure",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Normandie",
-      "url": "https://www.aurbse.org/actualites/et-si-vous-partiez-en-randonnee-urbaine-entre-ville-et-paysage",
-      "image": null,
-      "date": "2026-08-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Rouen",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AURBSE Rouen Seine-Eure. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
+      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-31-1786117303000",
@@ -19300,29 +19528,6 @@ window.BATIVEILLE_DATA = {
         "Habitat"
       ],
       "summary": "Publication détectée dans le sitemap de ADULM Lille Métropole. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "aurbse-rouen-seine-eure-sitemap-23-1783085820000",
-      "title": "le grand territoire face au besoin de renaturation",
-      "source": "AURBSE Rouen Seine-Eure",
-      "sourceId": "aurbse-rouen-seine-eure",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Normandie",
-      "url": "https://www.aurbse.org/actualites/le-grand-territoire-face-au-besoin-de-renaturation",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Rouen",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Publication détectée dans le sitemap de AURBSE Rouen Seine-Eure. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
