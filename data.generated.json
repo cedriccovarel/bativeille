@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:20:32.759Z",
+  "generatedAt": "2026-09-05T17:14:47.198Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2463,7 +2463,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788614407000",
+      "id": "le-commerce-du-bois-sitemap-0-1788628460000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2489,7 +2489,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788614407000",
+      "id": "le-commerce-du-bois-sitemap-1-1788628460000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2515,7 +2515,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788614407000",
+      "id": "le-commerce-du-bois-sitemap-2-1788628460000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3259,6 +3259,30 @@
       "summary": "Commission démarche BDM en session numérique Priscillia ven 04/09/2026 - 11:53 Découvrez les projets en démarche BDM ! jeu 05/11/2026 - 08:30 Participer à une commission en visio, c'est découvrir en quelques minutes des bâtiments de votre région en démarche BDM (bâtiments durable…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1788480000000",
+      "title": "dechets merterre",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/dechets-merterre",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "aupa-pays-d-aix-rss-0-1788528928000",
@@ -4020,187 +4044,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-0-1788537430000",
-      "title": "Les salariés des EnR préparent une manifestation lors du colloque du Ser",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/les-salaries-des-enr-preparent-une-manifestation-lors-du-colloque-du-ser-432277/",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Confort d’été",
-        "Énergie"
-      ],
-      "summary": "Exclusif — Ils remettent le couvert. Les Comités sociaux et économiques (CSE) qui avaient organisé en février dernier deux manifestations à Paris et Montpellier pour soutenir les employés de l’électricité renouvelable ont acté en début de semaine le principe d’une nouvelle manife…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-1-1788536796000",
-      "title": "Réseaux, décarbonation et souveraineté dans les débats à Giverny",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/reseaux-decarbonation-et-souverainete-dans-les-debats-a-giverny-432355/",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "« Le principal risque auquel le réseau électrique est exposé est le changement climatique », a indiqué Emilie Piette, présidente du directoire de RTE, lors d’une L’article Réseaux, décarbonation et souveraineté dans les débats à Giverny est apparu en premier sur GreenUnivers. « L…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-2-1788534924000",
-      "title": "Au premier semestre, le solaire et l’éolien progressent, le biogaz freine",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/au-premier-semestre-le-solaire-et-leolien-progressent-le-biogaz-freine-432339/",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Eau",
-        "Énergie"
-      ],
-      "summary": "Le solaire photovoltaïque continue sa progression rapide dans l’Hexagone, avec 3 GW connectés au réseau au premier semestre, d’après les derniers chiffres du ministère de la transition écologique. C’est même L’article Au premier semestre, le solaire et l’éolien progressent, le bi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-3-1788512059000",
-      "title": "En juillet et août, les cleantech françaises lèvent 110 M€",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/en-juillet-et-aout-les-cleantech-francaises-levent-110-me-432077/",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Confort d’été"
-      ],
-      "summary": "Traditionnellement calme, la période estivale n’a pourtant pas été mauvaise pour les cleantech françaises. Elles collectent un L’article En juillet et août, les cleantech françaises lèvent 110 M€ est apparu en premier sur GreenUnivers. Traditionnellement calme, la période estival…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-4-1788509400000",
-      "title": "Les documents de la semaine",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/les-documents-de-la-semaine-381215/",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-5-1788509280000",
-      "title": "L’agenda de la transition énergétique",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/lagenda-de-la-transition-energetique-281-431464/",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Rénovation",
-        "Énergie"
-      ],
-      "summary": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. S…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-6-1788509010000",
-      "title": "Coût et autonomie freinent l’électrification des chantiers",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/cout-et-autonomie-freinent-lelectrification-des-chantiers-432138/",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Les travaux publics passent à l’électrique. Après les voitures, bus et camions, les batteries prennent de vitesse les autres carburants alternatifs pour décarboner les engins de chantier. Pour changer d’échelle, l’électrification du BTP se heurte néanmoins à la réalité du terrain…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "pv-magazine-france-rss-0-1788530400000",
       "title": "Un risque de surcapacités dans l’industrie photovoltaïque indienne",
       "source": "PV Magazine France",
@@ -4726,6 +4569,56 @@
         "Réglementation"
       ],
       "summary": "456 bombes, un million et demi de vies exposées, un secret d'État plus long que la guerre froide. Ce que l'URSS a caché à sa propre population dans la steppe kazakhe dépasse l'imaginable. L’article Ils testent une nouvelle arme nucléaire et fond exploser 456 engins : les doses so…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1788516616000",
+      "title": "Les marchés du Grand Paris – La MGP s’outille pour accompagner la rénovation énergétique des bâtiments publics",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/les-marches-du-grand-paris-la-mgp-soutille-pour-accompagner-la-renovation-energetique-de-ses-batiments-publics/",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Économie du bâtiment",
+        "Rénovation"
+      ],
+      "summary": "Un accord-cadre de prestations intellectuelles vient d'être publié par la métropole du Grand Paris pour accompagner les communes et établissements publics territoriaux dans la rénovation énergétique de leur patrimoine bâti. Ce marché, structuré en quatre lots, s'inscrit dans le p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1788515119000",
+      "title": "Exclusif – Stéphane Troussel seul candidat à la présidence de Séquano",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/exclusif-stephane-troussel-seul-candidat-a-la-presidence-de-sequano/",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Le président du conseil départemental de Seine-Saint-Denis devrait prendre la tête de la SEM Séquano et de la SPL Séquano Grand Paris lors du conseil d'administration de début octobre. La présidence de l'aménageur séquano-dionysien est vacante depuis le décès de Frédéric Molossi.…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5315,7 +5208,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1788393600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-1-1788393600000",
       "title": "rentree scolaire ca se pass",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -5338,7 +5231,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-1-1788393600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1788393600000",
       "title": "rentree transports scolaires",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -5361,7 +5254,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1788393600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1788393600000",
       "title": "400 ans de la marine nationale en region sud lhistoire secrit encore au large",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -5384,7 +5277,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1788393600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1788393600000",
       "title": "terre de hockey",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -6013,81 +5906,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-7-1788450288000",
-      "title": "Budget 2027 : les dossiers à suivre dans l’énergie",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/budget-2027-les-dossiers-a-suivre-dans-lenergie-432194/",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Parmi les grands dossiers de la rentrée, celui du budget pour 2027 est au sommet de la pile. Le gouvernement compte déposer sa première mouture de projet de loi de finances (PLF 2027) le 30 septembre devant l’Assemblée nationale. Plusieurs arbitrages concernant la transition éner…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-8-1788448057000",
-      "title": "Voltalia peine à se redresser, la Bourse sanctionne",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/voltalia-peine-a-se-redresser-la-bourse-sanctionne-432147/",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation"
-      ],
-      "summary": "Cette année, Voltalia devait sortir du rouge, améliorer son Ebitda et commencer à réduire son lourd endettement. Au vu des résultats semestriels et des prévisions pour l’année, communiqués aujourd’hui, c’est raté pour la rentabilité et mal parti pour la dette, en hausse de 5%. Se…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-9-1788447934000",
-      "title": "La production d’e-carburants pour le maritime démarre en Europe",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/la-production-de-carburants-pour-le-maritime-demarre-en-europe-432111/",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie"
-      ],
-      "summary": "Dans les carburants de synthèse pour le maritime, six unités sont opérationnelles en Europe. La plupart sont de petites tailles. Néanmoins, en comptant aussi L’article La production d’e-carburants pour le maritime démarre en Europe est apparu en premier sur GreenUnivers. Dans les…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "pv-magazine-france-rss-6-1788445800000",
       "title": "Appel à manifestation d’intérêt : Soren recherche des acteurs pour recycler les panneaux CdTe et CIGS",
       "source": "PV Magazine France",
@@ -6590,6 +6408,187 @@
       "collectMethod": "rss"
     },
     {
+      "id": "le-journal-du-grand-paris-rss-2-1788466238000",
+      "title": "L’essentiel de la semaine du 31 août 2026 en quelques clics",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-31-aout-2026-en-quelques-clics/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. La rentrée francilienne a démarré sur les chapeaux de roue, avec la 5e édition du Salon de l’immobilier bas-carbone (Sibca) qui se tenait du 1er au 3 septembre au Grand Pala…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-3-1788451470000",
+      "title": "Trophées BBCA 2026 : Nexity, WO2 et Gecina en tête, Stellata et Marcadet Belvédère primés",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/trophees-bbca-2026-nexity-wo2-et-gecina-en-tete-stellata-et-marcadet-belvedere-primes/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "L'association Bâtiment bas carbone (BBCA) a remis ses Trophées 2026 le 2 septembre au Salon de l'immobilier bas-carbone (Sibca), au Grand Palais. Le palmarès des maîtres d'ouvrage consacre Nexity, WO2 et Gecina, tandis que cinq Grands Prix et deux coups de cœur distinguent des op…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-4-1788447872000",
+      "title": "A Méry-sur-Oise, Mathieu Lefèvre en visite pour saluer l’osmose inversée basse pression",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/a-mery-sur-oise-mathieu-lefevre-en-visite-pour-saluer-losmose-inversee-basse-pression/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau"
+      ],
+      "summary": "Déjà pionnière de la filtration membranaire, l’usine du Syndicat des eaux d’Île-de-France (Sedif) va combiner nanofiltration et osmose inverse basse pression afin de mieux retenir les micropolluants. En visite sur le site mercredi 2 septembre, le ministre de la Transition écologi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-5-1788445775000",
+      "title": "Foncier post-carbone : les grands propriétaires apprennent à choisir leurs combats",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/foncier-post-carbone-les-grands-proprietaires-apprennent-a-choisir-leurs-combats/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Au Salon de l'immobilier bas-carbone, le 2 septembre au Grand Palais, l'État, La Poste Immobilier, ADP et AREP ont détaillé leurs outils pour décarboner et adapter des parcs qui se comptent en millions de mètres carrés. Au Salon de l'immobilier bas-carbone, le 2 septembre au Gran…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-6-1788443884000",
+      "title": "Au Sibca, les élus repensent la ville autour du soin",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/au-sibca-les-elus-repensent-la-ville-autour-du-soin/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Réunis mardi 1er septembre au Grand Palais, à l’occasion du Salon de l’immobilier bas carbone (Sibca), plusieurs élus franciliens ont échangé autour d’une même question : comment prendre soin des habitants et des territoires dans un contexte de crise climatique, de tension sur l’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-7-1788443392000",
+      "title": "Rafraîchir la ville : les quatre leviers d’une adaptation à marche forcée",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/rafraichir-la-ville-les-quatre-leviers-dune-adaptation-a-marche-forcee/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Architecte, promoteur, industriel de l'eau et maire-aménageur ont confronté leurs solutions, le 1er septembre au Grand Palais, lors de la 5e édition du Salon de l'immobilier bas-carbone (Sibca). La table ronde « De la ville surchauffée à la ville résiliente – Régénération urbaine…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-8-1788427092000",
+      "title": "Le Syctom distingué pour sa gestion de l’incendie du centre de tri des Batignolles",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/le-syctom-distingue-pour-sa-gestion-de-lincendie-du-centre-de-tri-des-batignolles/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "RE2020"
+      ],
+      "summary": "Les Acteurs du Grand Paris ont remis, le 1er septembre au Grand Palais, un prix exceptionnel de la résilience au président du Syctom, Corentin Duprey, lors de la soirée des cinq ans du Salon de l'immobilier bas-carbone (Sibca). Les Acteurs du Grand Paris ont remis, le 1er septemb…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "acteurs-publics-sitemap-9-1788450600000",
       "title": "le systeme des donnees de sante latout francais sous exploite",
       "source": "Acteurs Publics",
@@ -7055,7 +7054,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1788307200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1788307200000",
       "title": "loto du patrimoine 2026 six tresors de provence alpes cote dazur a sauver",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -7903,6 +7902,32 @@
       "collectMethod": "rss"
     },
     {
+      "id": "le-journal-du-grand-paris-rss-9-1788378439000",
+      "title": "Grand Paris express : la BEI prête 3 milliards d’euros pour la ligne 15 Ouest",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/grand-paris-express-la-bei-prete-3-milliards-deuros-pour-la-ligne-15-ouest/",
+      "image": null,
+      "date": "2026-09-02",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Confort d’été",
+        "Économie du bâtiment"
+      ],
+      "summary": "À Nanterre (Hauts-de-Seine), la Banque européenne d'investissement et la Société des Grands Projets ont signé un nouvel accord de financement qui porte à 6,5 milliards d'euros l'engagement de l'institution européenne sur la ligne 15. À Nanterre (Hauts-de-Seine), la Banque europée…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "acteurs-publics-sitemap-19-1788354180000",
       "title": "le ministere de leducation nationale veut creer une nouvelle direction pour anticiper le choc demographique scolaire",
       "source": "Acteurs Publics",
@@ -8452,7 +8477,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1788220800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1788220800000",
       "title": "jeunesse engagee",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -10851,7 +10876,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1787702400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1787702400000",
       "title": "les secrets de lhotel de region",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11631,7 +11656,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1787270400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1787270400000",
       "title": "lycee golf hotel",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11654,7 +11679,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1787270400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1787270400000",
       "title": "panier de naissance provencal",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11677,7 +11702,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1787270400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1787270400000",
       "title": "le pass sud montagne devient le pass plein air",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11777,7 +11802,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1787184000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1787184000000",
       "title": "bourse au merite les bacheliers de lacademie de nice mis a lhonneur",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -12488,7 +12513,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1786665600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1786665600000",
       "title": "le collier marseillais",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -12588,7 +12613,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1786579200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1786579200000",
       "title": "guerre du feu",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -12611,7 +12636,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1786579200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1786579200000",
       "title": "zidane equipe de france",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13016,7 +13041,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1786320000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1786320000000",
       "title": "eclipse solaire",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14342,7 +14367,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1785456000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1785456000000",
       "title": "les trains circuleront a nouveau entre nice et saint andre les alpes des le 1er aout",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14366,7 +14391,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1785456000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1785456000000",
       "title": "incendies comment aider les animaux",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14633,7 +14658,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1785369600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1785369600000",
       "title": "feux de foret tous mobilises",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14970,7 +14995,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1785283200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1785283200000",
       "title": "a la pointe de la cybersecurite",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15218,7 +15243,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1785196800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1785196800000",
       "title": "tour de france femmes 2026",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15567,7 +15592,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1784851200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1784851200000",
       "title": "premiere economie maritime",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15903,7 +15928,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1784678400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1784678400000",
       "title": "la bataille de gaulle",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16190,7 +16215,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1784592000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1784592000000",
       "title": "tour de france 2026 region sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16213,7 +16238,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1784592000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1784592000000",
       "title": "bouclier sanitaire la region sud investit pour renforcer loffre de soins en vaucluse",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16793,7 +16818,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1784246400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1784246400000",
       "title": "infirmiers et aides soignants de nouveaux diplomes rejoignent les professionnels de sante en region sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16989,7 +17014,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1784160000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1784160000000",
       "title": "billets de train poste",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17012,7 +17037,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1784160000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1784160000000",
       "title": "metiers de lombre festivals",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17397,7 +17422,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1784073600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1784073600000",
       "title": "cosquer mediterranee 2 millions de visiteurs et des nouveautes",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17711,37 +17736,13 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1783641600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1783641600000",
       "title": "patrouille de france lhistoire dun symbole national ancre en region sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
       "sourceType": "Observatoire énergie-climat-air",
       "region": "Provence-Alpes-Côte d’Azur",
       "url": "https://www.maregionsud.fr/actualites/detail/patrouille-de-france-lhistoire-dun-symbole-national-ancre-en-region-sud",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1783641600000",
-      "title": "bourse au merite les bacheliers de lacademie daix marseille recompenses",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/bourse-au-merite-les-bacheliers-de-lacademie-daix-marseille-recompenses",
       "image": null,
       "date": "2026-07-10",
       "access": "open",
