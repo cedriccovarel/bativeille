@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-05T08:54:17.568Z",
+  "generatedAt": "2026-09-05T13:20:32.759Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2290,7 +2290,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788592200000",
+      "id": "enerzine-rss-0-1788598500000",
+      "title": "Changement d’heure hiver 2026 : date, heure et conséquences pratiques",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/changement-heure-hiver-2026-date-heure/193967-2026-09",
+      "image": null,
+      "date": "2026-09-05",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "À l’approche de l’automne, une interrogation revient avec une régularité de métronome : quand faudra-t-il passer à l’heure d’hiver ? il vous faudra patienter encore, puisque le basculement est attendu dans la nuit du samedi 24 au dimanche 25 octobre 2026. Derrière cet évènement s…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1788592200000",
       "title": "Matière noire : ces signaux expérimentaux qui relancent le mystère cosmique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2314,7 +2338,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788581400000",
+      "id": "enerzine-rss-2-1788581400000",
       "title": "Un dispositif de stockage d’énergie conçu pour être recyclé",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2339,7 +2363,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788577800000",
+      "id": "enerzine-rss-3-1788577800000",
       "title": "Des scientifiques donnent une seconde vie aux déchets de composites aéronautiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2363,7 +2387,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1788587407000",
+      "id": "lenergeek-rss-0-1788599472000",
+      "title": "DPE : l’impact du coefficient électrique à 1,9 sur l’évaluation énergétique",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/09/05/dpe-impact-coefficient-electrique/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/09/DPE-2.jpg",
+      "date": "2026-09-05",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "RE2020",
+        "Bâtiment"
+      ],
+      "summary": "Le coefficient de conversion de l'électricité en énergie primaire (CEP) est passé de 2,3 à 1,9 le 1er janvier 2026, permettant à 800 000 logements de gagner une classe énergétique sans travaux. Ce changement technique révèle les failles méthodologiques du DPE et interroge la mesu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1788587407000",
       "title": "Mervin, agriculteur de 86 ans, refuse une somme colossale pour préserver ses terres",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2388,7 +2438,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1788585613000",
+      "id": "lenergeek-rss-2-1788585613000",
       "title": "Carburant : le prix de l’essence n’avait encore jamais atteint ce niveau depuis le début de la guerre au Moyen-Orient",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2413,7 +2463,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788598438000",
+      "id": "le-commerce-du-bois-sitemap-0-1788614407000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2439,7 +2489,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788598438000",
+      "id": "le-commerce-du-bois-sitemap-1-1788614407000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2465,7 +2515,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788598438000",
+      "id": "le-commerce-du-bois-sitemap-2-1788614407000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4354,7 +4404,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788559800000",
+      "id": "enerzine-rss-4-1788559800000",
       "title": "Ajouter du fer dans l’océan peut éliminer le CO2 – mais à quel prix pour la nature ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4380,7 +4430,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1788554700000",
+      "id": "enerzine-rss-5-1788554700000",
       "title": "Panneau de signalisation routière : connaissez vous les P-33 et P-35 en Espagne ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4405,7 +4455,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1788552300000",
+      "id": "enerzine-rss-6-1788552300000",
       "title": "Salmonellose : 81 cas liés à des graines de courge contaminées, l’alerte sanitaire s’étend en France",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4429,7 +4479,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1788513000000",
+      "id": "enerzine-rss-7-1788513000000",
       "title": "Transition énergétique : pourquoi le recrutement ne peut plus reposer uniquement sur les compétences techniques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4455,7 +4505,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1788507600000",
+      "id": "enerzine-rss-8-1788507600000",
       "title": "Logement social : l’inaccessible devient-il la norme ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4481,7 +4531,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1788500700000",
+      "id": "enerzine-rss-9-1788500700000",
       "title": "OpenAI dévoile GPT-6 Astra, un modèle d’IA aux capacités cyber jugées « critiques »",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4501,32 +4551,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "OpenAI lance GPT-6 Astra, une IA conçue pour naviguer sur ordinateur, coder, analyser des données et assister des tâches professionnelles complexes. Mais ses performances en cybersécurité conduisent l’entreprise à le classer parmi ses modèles les plus sensibles. OpenAI a annoncé …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1788498600000",
-      "title": "Des chercheurs utilisent un dispositif physique pour prendre le contrôle de l’électronique d’un Boeing 737",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-chercheurs-utilisent-un-dispositif-physique-pour-prendre-le-controle-de-lelectronique-dun-boeing-737/193512-2026-09",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "L’accès physique à un avion n’a généralement pas été considéré comme un risque de cybersécurité – mais il devrait l’être, selon une équipe d’informaticiens de l’Université de Californie à San Diego. Dans un article présenté le 13 août au symposium USENIX Security à Baltimore (Mar…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4557,7 +4581,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1788517079000",
+      "id": "lenergeek-rss-3-1788517079000",
       "title": "Solution cloud : que deviennent vos fichiers en cas de panne ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4581,7 +4605,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1788515332000",
+      "id": "lenergeek-rss-4-1788515332000",
       "title": "Sécheresse : l’OFB alerte sur une dégradation importante des cours d’eau",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4607,7 +4631,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1788502846000",
+      "id": "lenergeek-rss-5-1788502846000",
       "title": "Retour de la canicule : ceux qui attendent l’année prochaine pour s’équiper d’une clim paieront 40% plus cher",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4632,7 +4656,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1788501036000",
+      "id": "lenergeek-rss-6-1788501036000",
       "title": "Cristian, 46 ans, agriculteur : il refuse de vendre son terrain 700 000 euros alors qu’il l’a acheté seulement 38 000 euros",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4656,7 +4680,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1788500938000",
+      "id": "lenergeek-rss-7-1788500938000",
       "title": "Carburant : le prix du diesel atteint un niveau jamais vu aux US",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4681,7 +4705,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1788499200000",
+      "id": "lenergeek-rss-8-1788499200000",
       "title": "Ils testent une nouvelle arme nucléaire et fond exploser 456 engins : les doses sont proches de celles d’Hiroshima",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4702,56 +4726,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "456 bombes, un million et demi de vies exposées, un secret d'État plus long que la guerre froide. Ce que l'URSS a caché à sa propre population dans la steppe kazakhe dépasse l'imaginable. L’article Ils testent une nouvelle arme nucléaire et fond exploser 456 engins : les doses so…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1788516616000",
-      "title": "Les marchés du Grand Paris – La MGP s’outille pour accompagner la rénovation énergétique des bâtiments publics",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-marches-du-grand-paris-la-mgp-soutille-pour-accompagner-la-renovation-energetique-de-ses-batiments-publics/",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Économie du bâtiment",
-        "Rénovation"
-      ],
-      "summary": "Un accord-cadre de prestations intellectuelles vient d'être publié par la métropole du Grand Paris pour accompagner les communes et établissements publics territoriaux dans la rénovation énergétique de leur patrimoine bâti. Ce marché, structuré en quatre lots, s'inscrit dans le p…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-1-1788515119000",
-      "title": "Exclusif – Stéphane Troussel seul candidat à la présidence de Séquano",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/exclusif-stephane-troussel-seul-candidat-a-la-presidence-de-sequano/",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Le président du conseil départemental de Seine-Saint-Denis devrait prendre la tête de la SEM Séquano et de la SPL Séquano Grand Paris lors du conseil d'administration de début octobre. La présidence de l'aménageur séquano-dionysien est vacante depuis le décès de Frédéric Molossi.…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6417,7 +6391,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "lenergeek-rss-8-1788442697000",
+      "id": "lenergeek-rss-9-1788442697000",
       "title": "Carburants : arrêtons le procès d’intention aux distributeurs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6441,7 +6415,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1788433532000",
+      "id": "lenergeek-rss-10-1788433532000",
       "title": "Carburant : Maud Bregeon prolonge l’aide aux gros rouleurs jusqu’au 30 septembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6465,7 +6439,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1788429382000",
+      "id": "lenergeek-rss-11-1788429382000",
       "title": "Gaz : pour traquer les fuites, GRDF innove avec une voiture spéciale",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6490,7 +6464,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1788419640000",
+      "id": "lenergeek-rss-12-1788419640000",
       "title": "Hybrides rechargeables : le scandale des émissions cachées",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6515,7 +6489,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1788416437000",
+      "id": "lenergeek-rss-13-1788416437000",
       "title": "Le Japon souhaite construire un anneau solaire autour de la Lune pour fournir à la Terre une énergie propre et sans limite",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6541,7 +6515,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1788414638000",
+      "id": "lenergeek-rss-14-1788414638000",
       "title": "Des géologues mettent au jour le plus vaste gisement minéral mondial dans les batteries et produits de soin sous un comté coréen renommé pour son vin et son jazz",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6566,7 +6540,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1788412815000",
+      "id": "lenergeek-rss-15-1788412815000",
       "title": "Rocío a construit sa maison en pierre et terre dans un coin de paradis à Córdoba et motive beaucoup d’autres femmes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6592,7 +6566,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1788407311000",
+      "id": "lenergeek-rss-16-1788407311000",
       "title": "Pétrole : Junin-5, le champ super-géant de 35 milliards de barils confié à Eni",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6612,187 +6586,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "Le champ pétrolier Junin-5, situé dans la Ceinture de l'Orénoque au Venezuela, renferme 35 milliards de barils de réserves certifiées. L’article Pétrole : Junin-5, le champ super-géant de 35 milliards de barils confié à Eni est apparu en premier sur L'EnerGeek. Le champ pétrolier…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-2-1788466238000",
-      "title": "L’essentiel de la semaine du 31 août 2026 en quelques clics",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-31-aout-2026-en-quelques-clics/",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. La rentrée francilienne a démarré sur les chapeaux de roue, avec la 5e édition du Salon de l’immobilier bas-carbone (Sibca) qui se tenait du 1er au 3 septembre au Grand Pala…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-3-1788451470000",
-      "title": "Trophées BBCA 2026 : Nexity, WO2 et Gecina en tête, Stellata et Marcadet Belvédère primés",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/trophees-bbca-2026-nexity-wo2-et-gecina-en-tete-stellata-et-marcadet-belvedere-primes/",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "L'association Bâtiment bas carbone (BBCA) a remis ses Trophées 2026 le 2 septembre au Salon de l'immobilier bas-carbone (Sibca), au Grand Palais. Le palmarès des maîtres d'ouvrage consacre Nexity, WO2 et Gecina, tandis que cinq Grands Prix et deux coups de cœur distinguent des op…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-4-1788447872000",
-      "title": "A Méry-sur-Oise, Mathieu Lefèvre en visite pour saluer l’osmose inversée basse pression",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/a-mery-sur-oise-mathieu-lefevre-en-visite-pour-saluer-losmose-inversee-basse-pression/",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau"
-      ],
-      "summary": "Déjà pionnière de la filtration membranaire, l’usine du Syndicat des eaux d’Île-de-France (Sedif) va combiner nanofiltration et osmose inverse basse pression afin de mieux retenir les micropolluants. En visite sur le site mercredi 2 septembre, le ministre de la Transition écologi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-5-1788445775000",
-      "title": "Foncier post-carbone : les grands propriétaires apprennent à choisir leurs combats",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/foncier-post-carbone-les-grands-proprietaires-apprennent-a-choisir-leurs-combats/",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Au Salon de l'immobilier bas-carbone, le 2 septembre au Grand Palais, l'État, La Poste Immobilier, ADP et AREP ont détaillé leurs outils pour décarboner et adapter des parcs qui se comptent en millions de mètres carrés. Au Salon de l'immobilier bas-carbone, le 2 septembre au Gran…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-6-1788443884000",
-      "title": "Au Sibca, les élus repensent la ville autour du soin",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/au-sibca-les-elus-repensent-la-ville-autour-du-soin/",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Réunis mardi 1er septembre au Grand Palais, à l’occasion du Salon de l’immobilier bas carbone (Sibca), plusieurs élus franciliens ont échangé autour d’une même question : comment prendre soin des habitants et des territoires dans un contexte de crise climatique, de tension sur l’…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-7-1788443392000",
-      "title": "Rafraîchir la ville : les quatre leviers d’une adaptation à marche forcée",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/rafraichir-la-ville-les-quatre-leviers-dune-adaptation-a-marche-forcee/",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Architecte, promoteur, industriel de l'eau et maire-aménageur ont confronté leurs solutions, le 1er septembre au Grand Palais, lors de la 5e édition du Salon de l'immobilier bas-carbone (Sibca). La table ronde « De la ville surchauffée à la ville résiliente – Régénération urbaine…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1788427092000",
-      "title": "Le Syctom distingué pour sa gestion de l’incendie du centre de tri des Batignolles",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/le-syctom-distingue-pour-sa-gestion-de-lincendie-du-centre-de-tri-des-batignolles/",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "Les Acteurs du Grand Paris ont remis, le 1er septembre au Grand Palais, un prix exceptionnel de la résilience au président du Syctom, Corentin Duprey, lors de la soirée des cinq ans du Salon de l'immobilier bas-carbone (Sibca). Les Acteurs du Grand Paris ont remis, le 1er septemb…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7936,7 +7729,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1788359902000",
+      "id": "lenergeek-rss-17-1788359902000",
       "title": "Dacia Sandero électrique : 430 km d’autonomie pour moins de 23 000 €",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7961,7 +7754,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1788353091000",
+      "id": "lenergeek-rss-18-1788353091000",
       "title": "Une attaque terroriste provoque une coupure de l’alimentation électrique en Allemagne",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7986,7 +7779,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1788352080000",
+      "id": "lenergeek-rss-19-1788352080000",
       "title": "Gaz : pourquoi les 71,3% de stocks ne rassurent qu’à moitié",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8010,7 +7803,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1788349960000",
+      "id": "lenergeek-rss-20-1788349960000",
       "title": "Great Sea Interconnector : entre promesses énergétiques et tensions géopolitiques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8035,7 +7828,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1788344896000",
+      "id": "lenergeek-rss-21-1788344896000",
       "title": "Pétrole : le secrétaire d’État américain à l’Énergie se rend au Venezuela",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8059,7 +7852,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1788336708000",
+      "id": "lenergeek-rss-22-1788336708000",
       "title": "Amiral Nakhimov : un projet à 2,3 milliards avec propulsion nucléaire et autonomie illimitée",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8084,7 +7877,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1788330025000",
+      "id": "lenergeek-rss-23-1788330025000",
       "title": "Banni pendant 90 ans, ce matériau de construction fait son retour avec une isolation 15 fois supérieure au béton et un stockage du CO₂ sur des siècles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8106,57 +7899,6 @@ window.BATIVEILLE_DATA = {
         "Carbone"
       ],
       "summary": "Interdit pendant 90 ans, le chanvre revient en force dans la construction américaine : isolation record, bilan carbone quasi négatif et chantiers déjà lancés de New York à Lviv. Un matériau qui redéfinit les maisons de demain. L’article Banni pendant 90 ans, ce matériau de constr…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1788328242000",
-      "title": "Ce navire médiéval de 24,5 mètres dormait sous une rue depuis les années 1360, jusqu’à ce que des ouvriers du bâtiment percent la chaussée",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/09/02/ce-navire-medieval-de-245-metres-dormait-sous-une-rue-depuis-les-annees-1360-jusqua-ce-que-des-ouvriers-du-batiment-percent-la-chaussee/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/09/Ce-navire-medieval-de-245-metres-dormait-sous-une-rue-depuis-les-annees-1360-jusqua-ce-que-des-ouvriers-du-batiment-p.webp",
-      "date": "2026-09-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Bâtiment"
-      ],
-      "summary": "Un compas vieux de six siècles qui fonctionne toujours, des rats momifiés, un naufrage dans l'urgence : ce navire enseveli sous Tallinn cache bien plus de mystères qu'on ne le pensait. L’article Ce navire médiéval de 24,5 mètres dormait sous une rue depuis les années 1360, jusqu’…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1788378439000",
-      "title": "Grand Paris express : la BEI prête 3 milliards d’euros pour la ligne 15 Ouest",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/grand-paris-express-la-bei-prete-3-milliards-deuros-pour-la-ligne-15-ouest/",
-      "image": null,
-      "date": "2026-09-02",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été",
-        "Économie du bâtiment"
-      ],
-      "summary": "À Nanterre (Hauts-de-Seine), la Banque européenne d'investissement et la Société des Grands Projets ont signé un nouvel accord de financement qui porte à 6,5 milliards d'euros l'engagement de l'institution européenne sur la ligne 15. À Nanterre (Hauts-de-Seine), la Banque europée…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
