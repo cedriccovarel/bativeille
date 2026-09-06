@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T09:15:01.032Z",
+  "generatedAt": "2026-09-06T13:29:51.841Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2236,7 +2236,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788667800000",
+      "id": "enerzine-rss-0-1788687900000",
+      "title": "Sim swapping : l’arnaque qui détourne votre numéro pour vider vos comptes bancaires",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/sim-swapping-arnaque-carte-sim/193993-2026-09",
+      "image": null,
+      "date": "2026-09-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020"
+      ],
+      "summary": "Le SIM swapping, ou détournement de carte SIM, est une fraude où un escroc fait transférer le numéro de téléphone d’une victime vers une SIM ou une eSIM qu’il contrôle. Il intercepte ensuite les SMS de validation bancaire, accède à l’espace client et peut vider les comptes. Le pr…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1788667800000",
       "title": "Un semi-conducteur effaçable programmé par la lumière",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2261,7 +2286,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788664200000",
+      "id": "enerzine-rss-2-1788664200000",
       "title": "Système énergétique hybride : un toit pour l’électricité, le chauffage et le refroidissement",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2361,7 +2386,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788686074000",
+      "id": "le-commerce-du-bois-sitemap-0-1788701375000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2387,7 +2412,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788686074000",
+      "id": "le-commerce-du-bois-sitemap-1-1788701375000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2413,7 +2438,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788686074000",
+      "id": "le-commerce-du-bois-sitemap-2-1788701375000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2568,7 +2593,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788646200000",
+      "id": "enerzine-rss-3-1788646200000",
       "title": "Une nouvelle approche des batteries de traction : sûres, réparables, durables",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2594,7 +2619,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788598500000",
+      "id": "enerzine-rss-4-1788598500000",
       "title": "Changement d’heure hiver 2026 : date, heure et conséquences pratiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2618,7 +2643,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1788592200000",
+      "id": "enerzine-rss-5-1788592200000",
       "title": "Matière noire : ces signaux expérimentaux qui relancent le mystère cosmique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2642,7 +2667,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1788581400000",
+      "id": "enerzine-rss-6-1788581400000",
       "title": "Un dispositif de stockage d’énergie conçu pour être recyclé",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2667,7 +2692,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1788577800000",
+      "id": "enerzine-rss-7-1788577800000",
       "title": "Des scientifiques donnent une seconde vie aux déchets de composites aéronautiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3217,6 +3242,126 @@
         "Confort d’été"
       ],
       "summary": "À l'occasion du salon de l'immobilier bas carbone (SIBCA), rencontre avec Marc Lafont, président de WO2. Cette société tend à redéfinir la promotion immobilière, afin d'être plus en phase avec enjeux environnementaux. À l'occasion du salon de l'immobilier bas carbone (SIBCA), ren…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-0-1788534920000",
+      "title": "Confort d'été : le bioclimatique et le low-tech s'imposent face aux canicules",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/canicule-solutions-low-tech-bioclimatiques-ecoles-logements-refuge-climatique-racine-sibca-48472.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48472_large.jpg",
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "Ventilation naturelle, brasseurs d'air, brise-soleil, moucharabiehs, végétalisation : face aux canicules, élus, architectes et promoteurs misent sur des solutions low-tech et bioclimatiques pour rafraîchir logements et écoles. Ventilation naturelle, brasseurs d'air, brise-soleil,…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-1-1788531490000",
+      "title": "Les températures de l'été 2026 correspondraient à un été ordinaire dans une France à +4 °C",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/ete-2026-record-chaleur-france-4degres-48471.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48471_large.jpg",
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Confort d’été"
+      ],
+      "summary": "Rythmé par 53 jours en vague de chaleur et une température moyenne sur 24 heures de 24,0 °C, l'été 2026 a été l'été le plus chaud jamais enregistré, d'après le bilan climatique de l'été de Météo France. 90 % du territoire a connu au moins une foi... Rythmé par 53 jours en vague d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-2-1788518766000",
+      "title": "Inventaire national des friches : 20 000 friches recensées en 2026",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/inventaire-national-friches-cerema-2026-48470.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48470_large.jpg",
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "20 000 friches sont recensées en France, soit l'équivalent de 61 000 hectares (ha) de foncier, selon le bilan annuel 2026 de l'inventaire national réalisé par le Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'amé... 20 000 friches sont recensées…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-3-1788518436000",
+      "title": "Les populations de reptiles et d'amphibiens déclinent dans l'Hexagone",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/reptiles-amphibiens-declin-france-uicn-48469.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48469_large.jpg",
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Près d'un amphibien sur cinq et un reptile sur quatre sont actuellement menacés. C'est le bilan dressé par l'Union internationale pour la conservation de la nature (UICN) pour la troisième évaluation des reptiles et amphibiens de France hexagonale... Près d'un amphibien sur cinq …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-4-1788518111000",
+      "title": "L'agglo de Saint-Brieuc inaugure la première borne connectée de distribution d'eau industrielle en France",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/saint-brieuc-armor-agglomeration-facilite-acces-a-eau-industrielle-pour-acteurs-publics-et-prives-48458.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48458_large.jpg",
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau",
+        "Bâtiment"
+      ],
+      "summary": "Une borne de puisage rend accessible les eaux de process de l'usine de potabilisation de Saint-Brieuc Armor Agglomération pour le nettoyage de voiries et de chantiers, l'hydrocurage, l'arrosage, etc. Une façon de « réduire la pression » sur l'eau ... Une borne de puisage rend acc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3815,6 +3960,31 @@
         "Confort d’été"
       ],
       "summary": "Plus de 180 maisons ont brûlé au Porge en Gironde après les incendies. Julien de Rosa / AFP Quand les gendarmes arrivent, Ludivine Daurignac n’a que cinq minutes pour partir. Il est autour de 20 heures. Depuis plusieurs heures, elle voit le feu se rapprocher du Porge, son village…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-0-1788505230000",
+      "title": "Première ressourcerie culturelle de France, La Réserve des Arts placée en liquidation judiciaire",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/premiere-ressourcerie-culturelle-de-france-la-reserve-des-arts-placee-en-liquidation-judiciaire/",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "RE2020"
+      ],
+      "summary": "Tristesse. Après dix-sept ans d’existence, La Réserve des Arts a fermé ses portes définitivement le 1er septembre. Le Tribunal des activités économiques a prononcé la liquidation judiciaire de l’association le 12 août dernier, mettant fin à l’aventure de la première ressourcerie …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4509,7 +4679,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1788559800000",
+      "id": "enerzine-rss-8-1788559800000",
       "title": "Ajouter du fer dans l’océan peut éliminer le CO2 – mais à quel prix pour la nature ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4535,7 +4705,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1788554700000",
+      "id": "enerzine-rss-9-1788554700000",
       "title": "Panneau de signalisation routière : connaissez vous les P-33 et P-35 en Espagne ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4556,30 +4726,6 @@
         "Eau"
       ],
       "summary": "En matière de sécurité routière, certains panneaux traversent les frontières sans jamais vraiment se faire remarquer. C’est pourtant ce qui arrive aux signaux espagnols P-33 et P-35. Le premier met en garde contre une visibilité réduite ; le second contre une zone de croisement d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1788552300000",
-      "title": "Salmonellose : 81 cas liés à des graines de courge contaminées, l’alerte sanitaire s’étend en France",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/salmonellose-graines-de-courge-rappel-81-cas/193941-2026-09",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "L’alerte sanitaire autour de graines de courge contaminées par des salmonelles prend une certaine ampleur. Fin août 2026, les autorités françaises ont publié des fiches de rappel visant des graines de courge et des mélanges en contenant, commercialisés notamment chez Grand Frais.…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5688,6 +5834,57 @@
         "Confort d’été"
       ],
       "summary": "Les conférences et évenements RSE à suivre pour la rentrée 2026 - Photo de Terren Hurstsur Unsplash Après un été caniculaire particulièrement marquant, cette rentrée 2026 est forcément singulière pour les professionnels de la transformation durable et de la RSE (Responsabilité so…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-1-1788431434000",
+      "title": "Le Shakirail, un lieu qui encourage l’initiative citoyenne et développe le pouvoir d’agir",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/le-shakirail-un-lieu-qui-encourage-linitiative-citoyenne-et-developpe-le-pouvoir-dagir/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Bâtiment"
+      ],
+      "summary": "Depuis 2011, un ancien équipement SNCF aux portes de Paris accueille des artistes émergents et précaires, dans le quartier Marx Dormoy-La Chapelle.Reconnu de longue date pour son action culturelle « hors les murs » auprès des habitants du quartier, dont ceux vivant au sein de log…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-2-1788418842000",
+      "title": "Économie sociale et solidaire : l’été a révélé l’incohérence de la stratégie nationale",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/economie-sociale-et-solidaire-lete-a-revele-lincoherence-de-la-strategie-nationale/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Confort d’été",
+        "Économie du bâtiment"
+      ],
+      "summary": "La stratégie nationale de l’économie sociale et solidaire vient à peine d’être adoptée que les derniers choix budgétaires du gouvernement racontent une autre histoire. PTCE, tiers-lieux, Territoires zéro chômeur longue durée : l’État affiche toujours son soutien aux dynamiques te…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7586,6 +7783,30 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-3-1788334221000",
+      "title": "Associations et fondations : le Grand Dialogue prolonge sa consultation d’une semaine",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/associations-et-fondations-le-grand-dialogue-prolonge-sa-consultation-dune-semaine/",
+      "image": null,
+      "date": "2026-09-02",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Initialement ouverte jusqu’au 31 août, la consultation destinée aux associations et fondations est prolongée d’une semaine, pour recueillir les témoignages d’acteurs appelés à nourrir le débat lors du prochain Forum national des Associations et Fondations. Lancé par Make.org Foun…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-24-1788362840000",
       "title": "Le prix des assurances habitation explose à cause des catastrophes climatiques",
       "source": "Reporterre",
@@ -8156,6 +8377,29 @@
         "Transition"
       ],
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-318-1788220800000",
+      "title": "actu simple 31",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/actu-simple-31",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -8739,6 +8983,30 @@
         "Réglementation"
       ],
       "summary": "Shein accusée de greenwashing en Allemagne sur ses allégations de neutralité carbone @STEPHANE OUZOUNOFF / HANS LUCAS / HANS LUCAS VIA AFP Ce mardi 1er septembre marque l’entrée en bourse du géant de l’ultra fast-fashion, Shein. Après plusieurs tentatives avortées à New York, pui…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-4-1788245100000",
+      "title": "Quel patronat pour 2027 ?",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/quel-patronat-pour-2027/",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Le Medef, Impact France et l’UDES : trois rentrées patronales, trois visions de l’entreprise, et une question politique de fond qui va devenir centrale à l’approche de 2027 : quel patronat voulons-nous, pour quel modèle économique ? Alors que le Medef faisait sa rentrée la semain…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9340,6 +9608,31 @@
         "Rénovation"
       ],
       "summary": "Cette fois, c’est fait. À compter de ce mardi 1er septembre 2026, le remplacement des fenêtres sort du dispositif MaPrimeRénov’ “par geste ”. Avec lui disparaissent également les aides à plusieurs autres travaux d’isolation et équipements. La décision, annoncée fin... L’article M…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-5-1788185802000",
+      "title": "Les associations doivent-elles se mêler de politique ? The Good Lobby France lance une enquête inédite",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/les-associations-doivent-elles-se-meler-de-politique-the-good-lobby-france-lance-une-enquete-inedite/",
+      "image": null,
+      "date": "2026-08-31",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "Des menaces de suppression de crédits pour des associations jugées trop politisées, une proposition de loi à l’Assemblée nationale pour que le préfet puisse suspendre des subventions locales s’il le souhaite : les tentatives de faire taire les associations se multiplient depuis u…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10130,6 +10423,32 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-6-1787898600000",
+      "title": "David Cluzeau : « Peser plus lourd », la réponse de l’UDES face à une rentrée à haut risque",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/david-cluzeau-peser-plus-lourd-la-reponse-de-ludes-face-a-une-rentree-a-haut-risque/",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Un été de coupes budgétaires décidées sans préavis, des colonies de vacances en danger de disparition pour les familles les plus modestes, des structures associatives historiques mises à terre du jour au lendemain : la rentrée de l’économie sociale et solidaire s’ouvre sur un con…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-57-1787928575000",
       "title": "« On a perdu beaucoup de betteraves à sucre » : les agriculteurs pâtissent de l'été caniculaire",
       "source": "Reporterre",
@@ -10636,6 +10955,32 @@
         "Confort d’été"
       ],
       "summary": "Cet outil, mis à jour chaque année en lien étroit avec les intercommunalités, permet de mieux identifier, caractériser et mobiliser ce foncier déjà artificialisé — une ressource stratégique face aux objectifs de sobriété foncière. Les chiffres clés à retenir de ce millésime 2025 …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-7-1787823933000",
+      "title": "Financer l’ESS autrement : les collectivités locales en première ligne",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/financer-less-autrement-les-collectivites-locales-en-premiere-ligne/",
+      "image": null,
+      "date": "2026-08-27",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Avec le nouveau désengagement budgétaire de l’État, cet été encore, sur l’économie sociale et solidaire, les collectivités locales et territoriales semblent à présent les seules à pouvoir faire encore face à la préservation des structures d’intérêt général sur leur territoire. Et…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11181,6 +11526,30 @@
         "Habitat"
       ],
       "summary": "Découvrez notre plaquette de présentation 🙂 L’article L’AGURAM : ressource locale d’observation & d’ingénierie territoriale est apparu en premier sur AGURAM. Découvrez notre plaquette de présentation 🙂 L’article L&rsquo;AGURAM : ressource locale d&rsquo;observation & d&rsquo;in…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-8-1787673132000",
+      "title": "Le handicap, angle mort persistant de la rentrée scolaire",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/le-handicap-angle-mort-persistant-de-la-rentree-scolaire/",
+      "image": null,
+      "date": "2026-08-25",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Ewan a 15 ans. Cette rentrée, ses camarades retrouveront leur collège ou leur lycée. Lui restera à la maison, faute de place en institut médico-éducatif. Sa mère finance de sa poche un enseignement à domicile et une éducatrice spécialisée, en sachant que rien ne remplace un accom…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13169,6 +13538,32 @@
       "summary": "Publication détectée dans le sitemap de AURBSE Rouen Seine-Eure. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "mediatico-rss-9-1786086000000",
+      "title": "Canicule : une appli associative cartographie l’accès à l’eau en ville !",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/canicule-une-appli-associative-cartographie-lacces-a-leau-en-ville/",
+      "image": null,
+      "date": "2026-08-07",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Trouver un point d’eau potable en pleine canicule ne devrait pas relever du parcours du combattant. En ces temps de canicule, c’est pourtant la réalité de millions d’usagers dans les villes françaises, où l’information sur les ressources essentielles — sanitaires, eau, ombre — re…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-33-1786117303000",
@@ -18842,6 +19237,29 @@
       "summary": "L’article Juillet 2026 est apparu en premier sur ADEME Infos. L’article Juillet 2026 est apparu en premier sur ADEME Infos . Juillet 2026",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
+      "title": "avancees ffb 2026",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "cerema-sitemap-806-1783067940000",
