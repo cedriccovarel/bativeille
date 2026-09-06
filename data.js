@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-05T22:00:10.981Z",
+  "generatedAt": "2026-09-06T03:44:14.083Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,110 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1788664200000",
+      "title": "Système énergétique hybride : un toit pour l’électricité, le chauffage et le refroidissement",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/systeme-energetique-hybride-un-toit-pour-lelectricite-le-chauffage-et-le-refroidissement/193516-2026-09",
+      "image": null,
+      "date": "2026-09-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau",
+        "Bâtiment"
+      ],
+      "summary": "Les panneaux photovoltaïques produisent de l’électricité, les capteurs solaires thermiques fournissent de la chaleur, tandis que le refroidissement est généralement assuré par des systèmes de climatisation qui consomment eux-mêmes de l’électricité. Les bâtiments ont donc besoin d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1788666235000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1788666235000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1788666235000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "reporterre-rss-0-1788585600000",
       "title": "Canicules : « Dans mon champ, rien ne va, et pourtant, dehors, rien ne bouge »",
       "source": "Reporterre",
@@ -2290,7 +2394,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788598500000",
+      "id": "enerzine-rss-1-1788646200000",
+      "title": "Une nouvelle approche des batteries de traction : sûres, réparables, durables",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/une-nouvelle-approche-des-batteries-de-traction-sures-reparables-durables/193532-2026-09",
+      "image": null,
+      "date": "2026-09-05",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "RE2020"
+      ],
+      "summary": "Le développement des batteries de traction pour véhicules électriques devient de plus en plus complexe. Les performances électriques, le comportement thermique et la sécurité mécanique interagissent étroitement et nécessitent des solutions intégrées. Parallèlement, on constate à …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1788598500000",
       "title": "Changement d’heure hiver 2026 : date, heure et conséquences pratiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2314,7 +2444,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788592200000",
+      "id": "enerzine-rss-3-1788592200000",
       "title": "Matière noire : ces signaux expérimentaux qui relancent le mystère cosmique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2338,7 +2468,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788581400000",
+      "id": "enerzine-rss-4-1788581400000",
       "title": "Un dispositif de stockage d’énergie conçu pour être recyclé",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2363,7 +2493,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788577800000",
+      "id": "enerzine-rss-5-1788577800000",
       "title": "Des scientifiques donnent une seconde vie aux déchets de composites aéronautiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2461,84 +2591,6 @@ window.BATIVEILLE_DATA = {
       "summary": "2,090 euros le litre de sans-plomb, du jamais-vu depuis février. Entre pénurie de brut russe et tensions au Moyen-Orient, jusqu'où grimperont vos pleins cet automne ? Les réponses des professionnels risquent de vous surprendre. L’article Carburant : le prix de l’essence n’avait e…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1788645596000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1788645596000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1788645596000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1788508801000",
@@ -4428,7 +4480,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1788559800000",
+      "id": "enerzine-rss-6-1788559800000",
       "title": "Ajouter du fer dans l’océan peut éliminer le CO2 – mais à quel prix pour la nature ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4454,7 +4506,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1788554700000",
+      "id": "enerzine-rss-7-1788554700000",
       "title": "Panneau de signalisation routière : connaissez vous les P-33 et P-35 en Espagne ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4479,7 +4531,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1788552300000",
+      "id": "enerzine-rss-8-1788552300000",
       "title": "Salmonellose : 81 cas liés à des graines de courge contaminées, l’alerte sanitaire s’étend en France",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4503,7 +4555,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1788513000000",
+      "id": "enerzine-rss-9-1788513000000",
       "title": "Transition énergétique : pourquoi le recrutement ne peut plus reposer uniquement sur les compétences techniques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4525,56 +4577,6 @@ window.BATIVEILLE_DATA = {
         "Carbone"
       ],
       "summary": "La transition énergétique ne transforme pas seulement les technologies et les infrastructures. Elle fait également évoluer les métiers et les compétences nécessaires pour les exercer. Développement des énergies renouvelables, électrification des usages, décarbonation de l’industr…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1788507600000",
-      "title": "Logement social : l’inaccessible devient-il la norme ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/logement-social-loyers-plafond-apl-hclpd-2024/193871-2026-09",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "La question n’a rien d’un simple débat sémantique. Selon un avis du Haut Comité pour le droit au logement (HCLPD), une large majorité des loyers du parc social dépasseraient désormais les plafonds retenus pour le calcul des aides personnelles au logement (APL). Autrement dit, le …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1788500700000",
-      "title": "OpenAI dévoile GPT-6 Astra, un modèle d’IA aux capacités cyber jugées « critiques »",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/openai-gpt-6-astra-ia-cybersecurite/193858-2026-09",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "OpenAI lance GPT-6 Astra, une IA conçue pour naviguer sur ordinateur, coder, analyser des données et assister des tâches professionnelles complexes. Mais ses performances en cybersécurité conduisent l’entreprise à le classer parmi ses modèles les plus sensibles. OpenAI a annoncé …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5045,30 +5047,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Paris, le 2 septembre 2026 – La reprise de l’activité se fait toujours attendre dans l’artisanat du bâtiment. Au deuxième trimestre 2026, l’activité recule de 1,5 % sur un an, enregistrant ainsi un 13e trimestre consécutif de baisse. Paris, le 2 septembre 2026 – La reprise de l’a…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "cstb-sitemap-61-1788446713000",
-      "title": "renforcer securite eau potable",
-      "source": "CSTB",
-      "sourceId": "cstb",
-      "sourceType": "Organisme technique",
-      "region": "National",
-      "url": "https://www.cstb.fr/communiques-de-presse/renforcer-securite-eau-potable",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Technique",
-        "Innovation",
-        "Construction",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de CSTB. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "batiweb-rss-5-1788476700000",
@@ -13819,53 +13797,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "qualitel-cerqual-rss-0-1785935988000",
-      "title": "Le Fonds de dotation QUALITEL aux côtés de l’AFEJI Hauts-de-France pour améliorer le quotidien des seniors",
-      "source": "Qualitel / Cerqual",
-      "sourceId": "qualitel-cerqual",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.qualitel.org/magazine/fonds-de-dotation-qualitel-afeji-hauts-de-france/",
-      "image": null,
-      "date": "2026-08-05",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Logement",
-        "Qualité",
-        "Certification"
-      ],
-      "summary": "The post Le Fonds de dotation QUALITEL aux côtés de l’AFEJI Hauts-de-France pour améliorer le quotidien des seniors appeared first on Association Qualitel. The post Le Fonds de dotation QUALITEL aux côtés de l&rsquo;AFEJI Hauts-de-France pour améliorer le quotidien des seniors ap…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "qualitel-cerqual-rss-1-1785935489000",
-      "title": "Le Fonds de dotation QUALITEL aux côtés de La Case Départ pour favoriser la réinsertion par le logement",
-      "source": "Qualitel / Cerqual",
-      "sourceId": "qualitel-cerqual",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.qualitel.org/magazine/fonds-de-dotation-qualitel-case-depart/",
-      "image": null,
-      "date": "2026-08-05",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Logement",
-        "Qualité",
-        "Certification",
-        "Bâtiment"
-      ],
-      "summary": "The post Le Fonds de dotation QUALITEL aux côtés de La Case Départ pour favoriser la réinsertion par le logement appeared first on Association Qualitel. The post Le Fonds de dotation QUALITEL aux côtés de La Case Départ pour favoriser la réinsertion par le logement appeared first…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "arb-nouvelle-aquitaine-rss-1-1785934141000",
       "title": "Quand les centres de sauvegarde de la faune sauvage font avancer la science",
       "source": "ARB Nouvelle-Aquitaine",
@@ -14793,29 +14724,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Les données récentes publiées par Météo-France démontrent que l’été 2026 s’inscrit parmi les épisodes de sécheresse les plus sévères en France. Au 15 juillet, l’humidité des sols atteint des niveaux […] L’article Sécheresse et retrait-gonflement des argiles : un été sous tension …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "qualitel-cerqual-rss-2-1785398684000",
-      "title": "La Cuisine de l’Arc : un tiers-lieu solidaire prend vie au cœur de Marseille grâce au soutien du Fonds de dotation QUALITEL",
-      "source": "Qualitel / Cerqual",
-      "sourceId": "qualitel-cerqual",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.qualitel.org/magazine/fonds-de-dotation-qualitel-cuisine-arc-bouillon-de-noailles/",
-      "image": null,
-      "date": "2026-07-30",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Logement",
-        "Qualité",
-        "Certification"
-      ],
-      "summary": "The post La Cuisine de l’Arc : un tiers-lieu solidaire prend vie au cœur de Marseille grâce au soutien du Fonds de dotation QUALITEL appeared first on Association Qualitel. The post La Cuisine de l&rsquo;Arc&#160;: un tiers-lieu solidaire prend vie au cœur de Marseille grâce au s…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -19100,78 +19008,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "cequami-rss-0-1783353692000",
-      "title": "Florent Merlaud, Directeur de C3P : « NF Habitat nous pousse à progresser en permanence »",
-      "source": "Céquami",
-      "sourceId": "cequami",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.qualitel.org/professionnels/actualites/florent-merlaud-directeur-de-c3p/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Maison individuelle",
-        "NF Habitat",
-        "Qualité"
-      ],
-      "summary": "The post Florent Merlaud, Directeur de C3P : « NF Habitat nous pousse à progresser en permanence » appeared first on Qualitel | Professionnels. The post Florent Merlaud, Directeur de C3P&#160;: «&#160;NF Habitat nous pousse à progresser en permanence&#160;» appeared first on Qual…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "cequami-rss-1-1783337311000",
-      "title": "EnerJ-Meeting Lyon 2026 : demandez le programme !",
-      "source": "Céquami",
-      "sourceId": "cequami",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.qualitel.org/professionnels/actualites/enerj-meeting-lyon/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Maison individuelle",
-        "NF Habitat",
-        "Qualité"
-      ],
-      "summary": "The post EnerJ-Meeting Lyon 2026 : demandez le programme ! appeared first on Qualitel | Professionnels. The post EnerJ-Meeting Lyon 2026&#160;: demandez le programme&#160;! appeared first on Qualitel | Professionnels . EnerJ-Meeting Lyon 2026 : demandez le programme !",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "cequami-rss-2-1783334760000",
-      "title": "Linkcity et CDC Habitat : « La certification NF Habitat HQE apporte un cadre complet qui permet d’aller au-delà de la seule conformité réglementaire »",
-      "source": "Céquami",
-      "sourceId": "cequami",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.qualitel.org/professionnels/actualites/linkcity-et-cdc-habitat-operation-parcs-en-scene-orly/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Maison individuelle",
-        "NF Habitat",
-        "Qualité",
-        "Réglementation",
-        "RE2020",
-        "Confort d’été"
-      ],
-      "summary": "Caractéristiques principales Nom : Parcs en Scène, lots 2.4 E et 2.4 E’ Certification(s) : NF Habitat HQE Très Performant, RE2020 Seuils 2025, RE2020 Seuils 2028, Label BBCA Livraison : 15 avril 2026 Acteurs : Groupement constitué par Linkcity et CDC Habitat, associés au sein d’u…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "fncaue-rss-2-1783344570000",
       "title": "Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL",
       "source": "FNCAUE",
@@ -19619,29 +19455,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cequami-rss-3-1782910837000",
-      "title": "Programme EPAU : « Les démarches de certification offrent un cadre commun pour objectiver les ambitions des projets »",
-      "source": "Céquami",
-      "sourceId": "cequami",
-      "sourceType": "Certification / label",
-      "region": "National",
-      "url": "https://www.qualitel.org/professionnels/interview-bilan-programme-epau/",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Maison individuelle",
-        "NF Habitat",
-        "Qualité"
-      ],
-      "summary": "The post Programme EPAU : « Les démarches de certification offrent un cadre commun pour objectiver les ambitions des projets » appeared first on Qualitel | Professionnels. The post Programme EPAU&#160;: «&#160;Les démarches de certification offrent un cadre commun pour objectiver…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "agam-marseille-rss-6-1782903801000",
