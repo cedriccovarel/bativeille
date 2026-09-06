@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-06T17:34:55.438Z",
+  "generatedAt": "2026-09-06T22:02:34.576Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2412,7 +2412,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788716078000",
+      "id": "le-commerce-du-bois-sitemap-0-1788732137000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2438,7 +2438,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788716078000",
+      "id": "le-commerce-du-bois-sitemap-1-1788732137000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2464,7 +2464,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788716078000",
+      "id": "le-commerce-du-bois-sitemap-2-1788732137000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -15065,6 +15065,191 @@ window.BATIVEILLE_DATA = {
       "summary": "La ville éphémère en canne de Provence et en tuile de réemploi de la Biennale Beaux Détours. The post Le Festival des cannes à Marseille appeared first on Bellastock. La ville éphémère en canne de Provence et en tuile de réemploi de la Biennale Beaux Détours. The post Le Festival…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ekopolis-sitemap-9-1785314239000",
+      "title": "societe resiliente transition ecologique et cohesion sociale etudes de quelques",
+      "source": "Ekopolis",
+      "sourceId": "ekopolis",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Île-de-France",
+      "url": "https://www.ekopolis.fr/ressources/societe-resiliente-transition-ecologique-et-cohesion-sociale-etudes-de-quelques",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "REX",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ekopolis-sitemap-49-1785313782000",
+      "title": "guide amenagement et construction durable de lenseignement superieur de la recherche et",
+      "source": "Ekopolis",
+      "sourceId": "ekopolis",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Île-de-France",
+      "url": "https://www.ekopolis.fr/ressources/guide-amenagement-et-construction-durable-de-lenseignement-superieur-de-la-recherche-et",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "REX",
+        "Régional",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ekopolis-sitemap-68-1785314102000",
+      "title": "les opportunites de developpement de leconomie sociale et solidaire dans la filiere du",
+      "source": "Ekopolis",
+      "sourceId": "ekopolis",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Île-de-France",
+      "url": "https://www.ekopolis.fr/ressources/les-opportunites-de-developpement-de-leconomie-sociale-et-solidaire-dans-la-filiere-du",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "REX",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ekopolis-sitemap-131-1785313963000",
+      "title": "presentation programme sante ville amenagement durable",
+      "source": "Ekopolis",
+      "sourceId": "ekopolis",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Île-de-France",
+      "url": "https://www.ekopolis.fr/ressources/presentation-programme-sante-ville-amenagement-durable",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "REX",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ekopolis-sitemap-226-1785316581000",
+      "title": "guide construire sain ed 2013",
+      "source": "Ekopolis",
+      "sourceId": "ekopolis",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Île-de-France",
+      "url": "https://www.ekopolis.fr/ressources/guide-construire-sain-ed-2013",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "REX",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ekopolis-sitemap-357-1785316517000",
+      "title": "la biodiversite publications du ministere",
+      "source": "Ekopolis",
+      "sourceId": "ekopolis",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Île-de-France",
+      "url": "https://www.ekopolis.fr/ressources/la-biodiversite-publications-du-ministere",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "REX",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ekopolis-sitemap-361-1785313612000",
+      "title": "label ever espaces verts ecologiques pour la gestion ecologique des espaces verts",
+      "source": "Ekopolis",
+      "sourceId": "ekopolis",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Île-de-France",
+      "url": "https://www.ekopolis.fr/ressources/label-ever-espaces-verts-ecologiques-pour-la-gestion-ecologique-des-espaces-verts",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "REX",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ekopolis-sitemap-374-1785316763000",
+      "title": "de la nature en ville mais quelle idee",
+      "source": "Ekopolis",
+      "sourceId": "ekopolis",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Île-de-France",
+      "url": "https://www.ekopolis.fr/ressources/de-la-nature-en-ville-mais-quelle-idee",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "REX",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1785283200000",
