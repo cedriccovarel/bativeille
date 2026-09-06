@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-06T13:29:51.841Z",
+  "generatedAt": "2026-09-06T17:34:55.438Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2312,7 +2312,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1788675651000",
+      "id": "lenergeek-rss-0-1788699900000",
+      "title": "Recharge électrique en copropriété : quels besoins en puissance ?",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/09/06/recharge-electrique-copropriete-puissance/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/09/recharge-electrique-2.jpg",
+      "date": "2026-09-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Confort d’été",
+        "Rénovation"
+      ],
+      "summary": "L'installation d'infrastructures de recharge électrique en copropriété impose un dimensionnement précis de l'installation électrique. Entre besoins en puissance pour vélos et véhicules électriques, impact sur la facture énergétique et stratégies d'optimisation, les copropriétés d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1788675651000",
       "title": "Cet ado de 15 ans a conçu un robot tortue qui détecte les menaces sous-marines avec 96 % de précision : les océanographes n’en reviennent pas",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2337,7 +2363,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1788673859000",
+      "id": "lenergeek-rss-2-1788673859000",
       "title": "Ni ventilateur ni électricité : les Incas rafraîchissaient leurs palais avec une technique que les architectes redécouvrent à peine en 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2361,7 +2387,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1788672058000",
+      "id": "lenergeek-rss-3-1788672058000",
       "title": "En 2022, Hawaï a utilisé l’équivalent de 195 000 bouteilles en plastique recyclé pour le revêtement d’une route, mais cette initiative soulève une question environnementale méconnue",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2386,7 +2412,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788701375000",
+      "id": "le-commerce-du-bois-sitemap-0-1788716078000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2412,7 +2438,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788701375000",
+      "id": "le-commerce-du-bois-sitemap-1-1788716078000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2438,7 +2464,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788701375000",
+      "id": "le-commerce-du-bois-sitemap-2-1788716078000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2462,6 +2488,32 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1788702538000",
+      "title": "Au Sibca, la décarbonation des quartiers d’affaires en débat",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/au-sibca-les-quartiers-daffaires-accelerent-leur-transition-bas-carbone/",
+      "image": null,
+      "date": "2026-09-06",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "À l’occasion de la dernière journée du Salon immobilier bas carbone (Sibca), jeudi 3 septembre, les quartiers d’affaires européens figuraient au cœur d’une conférence consacrée à leur décarbonation. Pierre-Yves Guice, directeur général de Paris La Défense a présenté les enjeux au…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "reporterre-rss-1-1788585600000",
@@ -2716,7 +2768,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1788599472000",
+      "id": "lenergeek-rss-4-1788599472000",
       "title": "DPE : l’impact du coefficient électrique à 1,9 sur l’évaluation énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2742,7 +2794,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1788587407000",
+      "id": "lenergeek-rss-5-1788587407000",
       "title": "Mervin, agriculteur de 86 ans, refuse une somme colossale pour préserver ses terres",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2767,7 +2819,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1788585613000",
+      "id": "lenergeek-rss-6-1788585613000",
       "title": "Carburant : le prix de l’essence n’avait encore jamais atteint ce niveau depuis le début de la guerre au Moyen-Orient",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4368,7 +4420,7 @@ window.BATIVEILLE_DATA = {
         "Eau",
         "Énergie"
       ],
-      "summary": "Le solaire photovoltaïque continue sa progression rapide dans l’Hexagone, avec 3 GW connectés au réseau au premier semestre, d’après les derniers chiffres du ministère de la transition écologique. C’est même L’article Au premier semestre, le solaire et l’éolien progressent, le bi…",
+      "summary": "Le solaire photovoltaïque continue sa progression rapide dans l’Hexagone, avec 3 GW connectés au réseau au premier semestre, d’après les derniers chiffres du ministère de la Transition écologique. C’est même L’article Au premier semestre, le solaire et l’éolien progressent, le bi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4756,7 +4808,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1788517079000",
+      "id": "lenergeek-rss-7-1788517079000",
       "title": "Solution cloud : que deviennent vos fichiers en cas de panne ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4780,7 +4832,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1788515332000",
+      "id": "lenergeek-rss-8-1788515332000",
       "title": "Sécheresse : l’OFB alerte sur une dégradation importante des cours d’eau",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4806,7 +4858,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1788502846000",
+      "id": "lenergeek-rss-9-1788502846000",
       "title": "Retour de la canicule : ceux qui attendent l’année prochaine pour s’équiper d’une clim paieront 40% plus cher",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4831,7 +4883,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1788501036000",
+      "id": "lenergeek-rss-10-1788501036000",
       "title": "Cristian, 46 ans, agriculteur : il refuse de vendre son terrain 700 000 euros alors qu’il l’a acheté seulement 38 000 euros",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4855,7 +4907,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1788500938000",
+      "id": "lenergeek-rss-11-1788500938000",
       "title": "Carburant : le prix du diesel atteint un niveau jamais vu aux US",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4880,7 +4932,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1788499200000",
+      "id": "lenergeek-rss-12-1788499200000",
       "title": "Ils testent une nouvelle arme nucléaire et fond exploser 456 engins : les doses sont proches de celles d’Hiroshima",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4905,7 +4957,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1788516616000",
+      "id": "le-journal-du-grand-paris-rss-1-1788516616000",
       "title": "Les marchés du Grand Paris – La MGP s’outille pour accompagner la rénovation énergétique des bâtiments publics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4931,7 +4983,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1788515119000",
+      "id": "le-journal-du-grand-paris-rss-2-1788515119000",
       "title": "Exclusif – Stéphane Troussel seul candidat à la présidence de Séquano",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6592,7 +6644,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "lenergeek-rss-12-1788442697000",
+      "id": "lenergeek-rss-13-1788442697000",
       "title": "Carburants : arrêtons le procès d’intention aux distributeurs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6616,7 +6668,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1788433532000",
+      "id": "lenergeek-rss-14-1788433532000",
       "title": "Carburant : Maud Bregeon prolonge l’aide aux gros rouleurs jusqu’au 30 septembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6640,7 +6692,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1788429382000",
+      "id": "lenergeek-rss-15-1788429382000",
       "title": "Gaz : pour traquer les fuites, GRDF innove avec une voiture spéciale",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6665,7 +6717,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1788419640000",
+      "id": "lenergeek-rss-16-1788419640000",
       "title": "Hybrides rechargeables : le scandale des émissions cachées",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6690,7 +6742,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1788416437000",
+      "id": "lenergeek-rss-17-1788416437000",
       "title": "Le Japon souhaite construire un anneau solaire autour de la Lune pour fournir à la Terre une énergie propre et sans limite",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6716,7 +6768,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1788414638000",
+      "id": "lenergeek-rss-18-1788414638000",
       "title": "Des géologues mettent au jour le plus vaste gisement minéral mondial dans les batteries et produits de soin sous un comté coréen renommé pour son vin et son jazz",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6741,7 +6793,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1788412815000",
+      "id": "lenergeek-rss-19-1788412815000",
       "title": "Rocío a construit sa maison en pierre et terre dans un coin de paradis à Córdoba et motive beaucoup d’autres femmes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6767,7 +6819,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1788407311000",
+      "id": "lenergeek-rss-20-1788407311000",
       "title": "Pétrole : Junin-5, le champ super-géant de 35 milliards de barils confié à Eni",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6791,7 +6843,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1788466238000",
+      "id": "le-journal-du-grand-paris-rss-3-1788466238000",
       "title": "L’essentiel de la semaine du 31 août 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6817,7 +6869,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1788451470000",
+      "id": "le-journal-du-grand-paris-rss-4-1788451470000",
       "title": "Trophées BBCA 2026 : Nexity, WO2 et Gecina en tête, Stellata et Marcadet Belvédère primés",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6843,7 +6895,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1788447872000",
+      "id": "le-journal-du-grand-paris-rss-5-1788447872000",
       "title": "A Méry-sur-Oise, Mathieu Lefèvre en visite pour saluer l’osmose inversée basse pression",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6868,7 +6920,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1788445775000",
+      "id": "le-journal-du-grand-paris-rss-6-1788445775000",
       "title": "Foncier post-carbone : les grands propriétaires apprennent à choisir leurs combats",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6894,7 +6946,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1788443884000",
+      "id": "le-journal-du-grand-paris-rss-7-1788443884000",
       "title": "Au Sibca, les élus repensent la ville autour du soin",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6920,7 +6972,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1788443392000",
+      "id": "le-journal-du-grand-paris-rss-8-1788443392000",
       "title": "Rafraîchir la ville : les quatre leviers d’une adaptation à marche forcée",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6946,7 +6998,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1788427092000",
+      "id": "le-journal-du-grand-paris-rss-9-1788427092000",
       "title": "Le Syctom distingué pour sa gestion de l’incendie du centre de tri des Batignolles",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8111,7 +8163,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1788359902000",
+      "id": "lenergeek-rss-21-1788359902000",
       "title": "Dacia Sandero électrique : 430 km d’autonomie pour moins de 23 000 €",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8136,7 +8188,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1788353091000",
+      "id": "lenergeek-rss-22-1788353091000",
       "title": "Une attaque terroriste provoque une coupure de l’alimentation électrique en Allemagne",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8161,7 +8213,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1788352080000",
+      "id": "lenergeek-rss-23-1788352080000",
       "title": "Gaz : pourquoi les 71,3% de stocks ne rassurent qu’à moitié",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8181,57 +8233,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "Les stocks de gaz français atteignent 71,3% de remplissage au 2 septembre 2026, progressant vers l'objectif de 85% avant l'hiver. La présidente de la CRE, Emmanuelle Wargon, juge ces chiffres « relativement rassurants », mais rappelle la vulnérabilité structurelle de la France, q…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1788349960000",
-      "title": "Great Sea Interconnector : entre promesses énergétiques et tensions géopolitiques",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/09/02/great-sea-interconnector-entre-promesses-energetiques-et-tensions-geopolitiques/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/03/tat-8-cables-sous-marins-mv-maasvliet.webp",
-      "date": "2026-09-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "La première phase du projet Great Sea Interconnector (GSI) doit relier les réseaux électriques de la Grèce et de Chypre, avec une ligne sous-marine longue de 898 km. Un projet ambitieux ... L’article Great Sea Interconnector : entre promesses énergétiques et tensions géopolitique…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1788378439000",
-      "title": "Grand Paris express : la BEI prête 3 milliards d’euros pour la ligne 15 Ouest",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/grand-paris-express-la-bei-prete-3-milliards-deuros-pour-la-ligne-15-ouest/",
-      "image": null,
-      "date": "2026-09-02",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été",
-        "Économie du bâtiment"
-      ],
-      "summary": "À Nanterre (Hauts-de-Seine), la Banque européenne d'investissement et la Société des Grands Projets ont signé un nouvel accord de financement qui porte à 6,5 milliards d'euros l'engagement de l'institution européenne sur la ligne 15. À Nanterre (Hauts-de-Seine), la Banque europée…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -15064,191 +15065,6 @@ window.BATIVEILLE_DATA = {
       "summary": "La ville éphémère en canne de Provence et en tuile de réemploi de la Biennale Beaux Détours. The post Le Festival des cannes à Marseille appeared first on Bellastock. La ville éphémère en canne de Provence et en tuile de réemploi de la Biennale Beaux Détours. The post Le Festival…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ekopolis-sitemap-9-1785314239000",
-      "title": "societe resiliente transition ecologique et cohesion sociale etudes de quelques",
-      "source": "Ekopolis",
-      "sourceId": "ekopolis",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Île-de-France",
-      "url": "https://www.ekopolis.fr/ressources/societe-resiliente-transition-ecologique-et-cohesion-sociale-etudes-de-quelques",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "REX",
-        "Régional"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ekopolis-sitemap-49-1785313782000",
-      "title": "guide amenagement et construction durable de lenseignement superieur de la recherche et",
-      "source": "Ekopolis",
-      "sourceId": "ekopolis",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Île-de-France",
-      "url": "https://www.ekopolis.fr/ressources/guide-amenagement-et-construction-durable-de-lenseignement-superieur-de-la-recherche-et",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Bâtiment durable",
-        "REX",
-        "Régional",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ekopolis-sitemap-68-1785314102000",
-      "title": "les opportunites de developpement de leconomie sociale et solidaire dans la filiere du",
-      "source": "Ekopolis",
-      "sourceId": "ekopolis",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Île-de-France",
-      "url": "https://www.ekopolis.fr/ressources/les-opportunites-de-developpement-de-leconomie-sociale-et-solidaire-dans-la-filiere-du",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "REX",
-        "Régional"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ekopolis-sitemap-131-1785313963000",
-      "title": "presentation programme sante ville amenagement durable",
-      "source": "Ekopolis",
-      "sourceId": "ekopolis",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Île-de-France",
-      "url": "https://www.ekopolis.fr/ressources/presentation-programme-sante-ville-amenagement-durable",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "REX",
-        "Régional"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ekopolis-sitemap-226-1785316581000",
-      "title": "guide construire sain ed 2013",
-      "source": "Ekopolis",
-      "sourceId": "ekopolis",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Île-de-France",
-      "url": "https://www.ekopolis.fr/ressources/guide-construire-sain-ed-2013",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "REX",
-        "Régional"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ekopolis-sitemap-357-1785316517000",
-      "title": "la biodiversite publications du ministere",
-      "source": "Ekopolis",
-      "sourceId": "ekopolis",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Île-de-France",
-      "url": "https://www.ekopolis.fr/ressources/la-biodiversite-publications-du-ministere",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "REX",
-        "Régional"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ekopolis-sitemap-361-1785313612000",
-      "title": "label ever espaces verts ecologiques pour la gestion ecologique des espaces verts",
-      "source": "Ekopolis",
-      "sourceId": "ekopolis",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Île-de-France",
-      "url": "https://www.ekopolis.fr/ressources/label-ever-espaces-verts-ecologiques-pour-la-gestion-ecologique-des-espaces-verts",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "REX",
-        "Régional"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ekopolis-sitemap-374-1785316763000",
-      "title": "de la nature en ville mais quelle idee",
-      "source": "Ekopolis",
-      "sourceId": "ekopolis",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Île-de-France",
-      "url": "https://www.ekopolis.fr/ressources/de-la-nature-en-ville-mais-quelle-idee",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "REX",
-        "Régional"
-      ],
-      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1785283200000",
