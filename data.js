@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-07T19:04:49.796Z",
+  "generatedAt": "2026-09-07T22:39:58.888Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2766,6 +2766,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "oreo-bretagne-sitemap-2-1788788073000",
+      "title": "etat sante especes infeodees aux milieux zones humides bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/patrimoine-naturel/article/etat-sante-especes-infeodees-aux-milieux-zones-humides-bretagne",
+      "image": null,
+      "date": "2026-09-07",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "oreo-bretagne-sitemap-7-1788778594000",
       "title": "evolution fragmentation milieux naturels bretagne",
       "source": "OREO Bretagne",
@@ -2773,6 +2796,77 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Observatoire environnement",
       "region": "Bretagne",
       "url": "https://bretagne-environnement.fr/thematique/patrimoine-naturel/article/evolution-fragmentation-milieux-naturels-bretagne",
+      "image": null,
+      "date": "2026-09-07",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-30-1788788024000",
+      "title": "leffort territoires bretons pour inventorier zones humides",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/patrimoine-naturel/article/leffort-territoires-bretons-pour-inventorier-zones-humides",
+      "image": null,
+      "date": "2026-09-07",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-32-1788788142000",
+      "title": "evolution du nombre cartes delivrees pour peche loisir eau douce bretagne",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/patrimoine-naturel/article/evolution-du-nombre-cartes-delivrees-pour-peche-loisir-eau-douce-bretagne",
+      "image": null,
+      "date": "2026-09-07",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Environnement",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreo-bretagne-sitemap-36-1788794853000",
+      "title": "plateforme bretagne donnees biodiversite",
+      "source": "OREO Bretagne",
+      "sourceId": "oreo-bretagne",
+      "sourceType": "Observatoire environnement",
+      "region": "Bretagne",
+      "url": "https://bretagne-environnement.fr/thematique/patrimoine-naturel/article/plateforme-bretagne-donnees-biodiversite",
       "image": null,
       "date": "2026-09-07",
       "access": "open",
@@ -3167,7 +3261,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "reporterre-rss-7-1788766038000",
-      "title": "« Comment Monsieur Bouygues peut-il ne pas être au courant vu que c'est son argent ? » : le milliardaire jugé pour braconnage d'espèces protégées",
+      "title": "« Comment Monsieur Bouygues peut-il ne pas être au courant ? » : le milliardaire jugé pour braconnage d'espèces protégées",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -3597,7 +3691,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788768600000",
+      "id": "enerzine-rss-0-1788819000000",
+      "title": "Des bactéries programmées pour calculer au cœur des cultures",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-bacteries-programmees-pour-calculer-au-coeur-des-cultures/193687-2026-09",
+      "image": null,
+      "date": "2026-09-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des chercheurs du MIT ont conçu des colonies bactériennes capables d’effectuer des calculs logiques simples. Publiés le 17 août dans Nature Chemical Biology, les travaux ouvrent la voie à des capteurs vivants posés sur les plantes pour surveiller sécheresse, ravageurs ou maladies…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1788768600000",
       "title": "Granulés ou bûches : quel combustible chauffe réellement le plus pour votre argent ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3623,7 +3741,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788757800000",
+      "id": "enerzine-rss-2-1788757800000",
       "title": "Des ingénieurs mettent au point un pacemaker capable de s’alimenter lui-même",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3648,7 +3766,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788754200000",
+      "id": "enerzine-rss-3-1788754200000",
       "title": "Ce cookie est né d’une bouteille en plastique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3673,7 +3791,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788750600000",
+      "id": "enerzine-rss-4-1788750600000",
       "title": "Diraq dévoile sa feuille de route vers des millions de qubits",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3699,7 +3817,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1788750600000",
+      "id": "enerzine-rss-5-1788750600000",
       "title": "La défense naturelle qui pourrait aider les villes à vaincre la chaleur extrême",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3950,7 +4068,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788807862000",
+      "id": "le-commerce-du-bois-sitemap-0-1788820775000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3976,7 +4094,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788807862000",
+      "id": "le-commerce-du-bois-sitemap-1-1788820775000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4002,7 +4120,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788807862000",
+      "id": "le-commerce-du-bois-sitemap-2-1788820775000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4566,7 +4684,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1788732600000",
+      "id": "enerzine-rss-6-1788732600000",
       "title": "Une nouvelle imprimante holographique crée des formes 3D, creux compris, en une seule prise",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4591,7 +4709,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1788732600000",
+      "id": "enerzine-rss-7-1788732600000",
       "title": "Fusion nucléaire : Eni vise une centrale en Europe avant 2040",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4616,7 +4734,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1788687900000",
+      "id": "enerzine-rss-8-1788687900000",
       "title": "Sim swapping : l’arnaque qui détourne votre numéro pour vider vos comptes bancaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4641,7 +4759,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1788667800000",
+      "id": "enerzine-rss-9-1788667800000",
       "title": "Un semi-conducteur effaçable programmé par la lumière",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4662,32 +4780,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Des chercheurs de l’école d’ingénierie de Princeton ont créé un semi-conducteur aux propriétés uniques : il n’a que quelques molécules d’épaisseur et peut modifier à plusieurs reprises ses propriétés en réponse à la lumière. C’est un pas vers la création de capteurs, de dispositi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1788664200000",
-      "title": "Système énergétique hybride : un toit pour l’électricité, le chauffage et le refroidissement",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/systeme-energetique-hybride-un-toit-pour-lelectricite-le-chauffage-et-le-refroidissement/193516-2026-09",
-      "image": null,
-      "date": "2026-09-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "Les panneaux photovoltaïques produisent de l’électricité, les capteurs solaires thermiques fournissent de la chaleur, tandis que le refroidissement est généralement assuré par des systèmes de climatisation qui consomment eux-mêmes de l’électricité. Les bâtiments ont donc besoin d…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5549,6 +5641,30 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Commerce et territoires : mutations, stratégies et nouveaux équilibres. 5 ans de dynamiques commerciales sur le territoire de l'aire métropolitaine Lyon Saint Etienne Anonyme (non vérifié) ven 04/09/2026 - 22:00 À la demande des élus de l’inter-Scot, les Agences d’urbanisme de Ly…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "novabuild-rss-0-1788506057000",
+      "title": "Faites évaluer les performances de la végétalisation de vos aménagements urbains !",
+      "source": "Novabuild",
+      "sourceId": "novabuild",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Pays de la Loire",
+      "url": "https://www.novabuild.fr/faites-evaluer-les-performances-de-la-vegetalisation-de-vos-amenagements-urbains/",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Régional",
+        "Réemploi"
+      ],
+      "summary": "NOBATEK et le CSTB lancent un Appel à Manifestation d’Intérêt (AMI) portant sur l’évaluation multicritère des performances des aménagements végétalisés en milieu urbain. Dans un contexte d’adaptation au changement climatique, d’érosion de la biodiversité et d’amélioration du cadr…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7132,6 +7248,30 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de CSTB. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "novabuild-rss-1-1788443656000",
+      "title": "Planisols : aides en faveur de la sobriété foncière et de la limitation de l’artificialisation des sols dans les stratégies territoriales",
+      "source": "Novabuild",
+      "sourceId": "novabuild",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Pays de la Loire",
+      "url": "https://www.novabuild.fr/planisols-aides-en-faveur-de-la-sobriete-fonciere-et-de-la-limitation-de-lartificialisation-des-sols-dans-les-strategies-territoriales/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Régional",
+        "Confort d’été"
+      ],
+      "summary": "Les territoires sont en première ligne pour préserver les sols, lutter contre l’artificialisation, engager une politique de sobriété foncière et de renaturation dans l'objectif d’atteindre le ZAN (Zéro artificialisation nette). Pour les accompagner, l'ADEME propose un soutien tec…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "envirobat-occitanie-rss-1-1788450566000",
@@ -9369,6 +9509,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "novabuild-rss-2-1788242280000",
+      "title": "Découvrez la cartographie des acteurs du réemploi en Pays de la Loire !",
+      "source": "Novabuild",
+      "sourceId": "novabuild",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Pays de la Loire",
+      "url": "https://www.novabuild.fr/decouvrez-la-cartographie-des-acteurs-du-reemploi-en-pays-de-la-loire/",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Régional",
+        "Réglementation",
+        "Réemploi",
+        "Bâtiment"
+      ],
+      "summary": "Matémorphose, Novabuild et Format53, s'associent en faveur du réemploi en Pays de la Loire ! Découvrez la nouvelle cartographie qui recense les acteurs du réemploi. Dans un contexte de raréfaction des ressources, et où le réemploi représente encore moins de 1 % des pratiques dans…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "ordeco-occitanie-sitemap-0-1788220800000",
       "title": "etudes ordeco economie circulaire",
       "source": "ORDECO Occitanie",
@@ -10741,6 +10907,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "novabuild-rss-3-1787894700000",
+      "title": "Recensement des solutions d'adaptation au changement climatique basés sur la nature en Pays de la Loire",
+      "source": "Novabuild",
+      "sourceId": "novabuild",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Pays de la Loire",
+      "url": "https://www.novabuild.fr/recensement-des-solutions-dadaptation-au-changement-climatique-bases-sur-la-nature-en-pays-de-la-loire/",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Régional",
+        "Réglementation"
+      ],
+      "summary": "En partenariat avec l’OFB (Office français de la biodiversité), la Région Pays de la Loire lance un grand recensement des actions et projets du territoire régional pouvant être qualifiés de \"Solutions fondées sur la nature\" (SfN) et contribuant à l’adaptation au changement climat…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "oreo-bretagne-sitemap-23-1787875354000",
       "title": "reglementation etat eau surface littorale Bretagne",
       "source": "OREO Bretagne",
@@ -10890,6 +11080,32 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "novabuild-rss-4-1787807820000",
+      "title": "Adaptation au changement climatique et confort d’été : Novabuild ouvre deux nouveaux espaces de réflexions collectives",
+      "source": "Novabuild",
+      "sourceId": "novabuild",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Pays de la Loire",
+      "url": "https://www.novabuild.fr/adaptation-au-changement-climatique-et-confort-dete-novabuild-ouvre-deux-nouveaux-espaces-de-reflexions-collectives/",
+      "image": null,
+      "date": "2026-08-27",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Régional",
+        "Eau",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "Face à l’accélération des effets du changement climatique, Novabuild renforce son action collective avec le lancement du GR Adaptation et du GT Confort d’été. Deux espaces pour partager les expertises, confronter les expériences et faire émerger des réponses concrètes pour les bâ…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "envirobat-occitanie-rss-8-1787845041000",
@@ -11129,30 +11345,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-139-1787837316000",
-      "title": "richesse abondance biodiversite sols bretagne",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/thematique/patrimoine-naturel/article/richesse-abondance-biodiversite-sols-bretagne",
-      "image": null,
-      "date": "2026-08-27",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "aguram-metz-rss-0-1787842140000",
       "title": "EMPLOI : LES CHIFFRES-CLÉS DANS L’EUROMÉTROPOLE DE METZ",
       "source": "AGURAM Metz",
@@ -11249,6 +11441,30 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "EDF n’a pas de temps à perdre, s’il veut tenir l’objectif de mise en service fixé à 2038 pour la mise en service de ses […] L’article Le chantier des réacteurs nucléaires EPR2 de Gravelines peut enfin commencer est apparu en premier sur Révolution Énergétique. EDF n&#8217;a pas d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "novabuild-rss-5-1787721180000",
+      "title": "Les règles pro pour la paille porteuse ont besoin de vous !",
+      "source": "Novabuild",
+      "sourceId": "novabuild",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Pays de la Loire",
+      "url": "https://www.novabuild.fr/les-regles-pro-pour-la-paille-porteuse-ont-besoin-de-vous/",
+      "image": null,
+      "date": "2026-08-26",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Régional",
+        "Biosourcé"
+      ],
+      "summary": "Depuis 2018, une vingtaine d’artisan·es, architectes, ingénieur·es et contrôleur·ses techniques coordonnées par Nebraska rédigent les futures Règles professionnelles. Aujourd'hui les essais sont financés, mais pas l’écriture du texte qui doit les rendre utilisables par toute la f…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11549,6 +11765,32 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Tornades et trombes Une tornade est un tourbillon de vents violents se développant sous un cumulonimbus et se prolongeant jusqu'à terre. C’est un phénomène assez bref et très localisé. La tornade est rendue visible par les gouttelettes de condensation qui y naissent, formant une …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "novabuild-rss-6-1787635380000",
+      "title": "Le Pont Anne-de-Bretagne, d'un simple franchissement automobile à un véritable espace public",
+      "source": "Novabuild",
+      "sourceId": "novabuild",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Pays de la Loire",
+      "url": "https://www.novabuild.fr/le-pont-anne-de-bretagne-dun-simple-franchissement-automobile-a-un-veritable-espace-public/",
+      "image": null,
+      "date": "2026-08-25",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Régional",
+        "Réglementation",
+        "RE2020",
+        "Bâtiment"
+      ],
+      "summary": "Le 22 mai 2026, les adhérentes et adhérents de Novabuild ont eu le plaisir de découvrir le chantier du Pont Anne de Bretagne et d'échanger avec les acteurs présents. En savoir plus Le pont Anne-de-Bretagne, qui traverse la Loire et permet de relier le quai de la Fosse à l'île de …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12225,6 +12467,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "novabuild-rss-7-1787206500000",
+      "title": "Découvrez la nouvelle trajectoire 2050 pour Nantes Saint-Nazaire !",
+      "source": "Novabuild",
+      "sourceId": "novabuild",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Pays de la Loire",
+      "url": "https://www.novabuild.fr/decouvrez-la-nouvelle-trajectoire-2050-pour-nantes-saint-nazaire/",
+      "image": null,
+      "date": "2026-08-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Régional",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Face à l'urgence climatique, la transformation du cadre de vie exige de croiser les enjeux A²BCS (Atténuation, Adaptation, Biodiversité, Circularité et Santé). En inscrivant au cœur de sa trajectoire 2050 la sobriété foncière, le « faire ensemble » et l’approche globale « One Hea…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1787184000000",
       "title": "bourse au merite les bacheliers de lacademie de nice mis a lhonneur",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -12401,6 +12668,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "novabuild-rss-8-1787115600000",
+      "title": "Des projets de recherche sur la qualité de l'air ? Candidatez à l'appel à proposition de recherche de l'ADEME \"AQACIA\" !",
+      "source": "Novabuild",
+      "sourceId": "novabuild",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Pays de la Loire",
+      "url": "https://www.novabuild.fr/des-projets-de-recherche-sur-la-qualite-de-lair-candidatez-a-lappel-a-proposition-de-recherche-de-lademe-aqacia/",
+      "image": null,
+      "date": "2026-08-19",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Régional"
+      ],
+      "summary": "AQACIA (Amélioration de la Qualité de l’Air : Comprendre, Innover, Agir) vise à faire émerger des projets de R&D orientés vers la compréhension et l’amélioration de la qualité de l’air intérieur et extérieur, dans un objectif d'accompagnement des politiques publiques.Depuis 2020,…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-18-1787116953000",
       "title": "Tout juste lancée, voici la plus grande batterie d’Europe en 2026",
       "source": "Révolution Énergétique",
@@ -12473,6 +12763,32 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Zigzag 2026 : un parcours itinérant pour interroger les transformations des territoires Maxence NORMANDIE mar 18/08/2026 - 15:00 Un événement au croisement de la culture, du territoire et de l’architecture Zigzag s’inscrit dans une démarche de découverte et de valorisation des te…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "novabuild-rss-9-1787030100000",
+      "title": "En 2026, l’offre « Énergie et Décarbonation » de Nantes Métropole passe à la vitesse supérieure !",
+      "source": "Novabuild",
+      "sourceId": "novabuild",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Pays de la Loire",
+      "url": "https://www.novabuild.fr/en-2026-loffre-energie-et-decarbonation-de-nantes-metropole-passe-a-la-vitesse-superieure/",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Régional",
+        "Réglementation",
+        "Carbone",
+        "Énergie"
+      ],
+      "summary": "Retour sur les étapes du parcours Transition énergétique de Nantes Métropole.Alisée, Atlansun, Novabuild et Orace unissent leurs expertises pour donner un nouvel élan à l’accompagnement des entreprises de la métropole. Objectif : leur proposer un parcours structuré, concret et pr…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -15722,29 +16038,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-36-1785162393000",
-      "title": "plateforme bretagne donnees biodiversite",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/thematique/patrimoine-naturel/article/plateforme-bretagne-donnees-biodiversite",
-      "image": null,
-      "date": "2026-07-27",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "filiere-3e-rss-9-1785148115000",
       "title": "MERSEN CONFIRME SA PERFORMANCE RSE AVEC UNE NOUVELLE PROGRESSION DE SON SCORE ECOVADIS",
       "source": "Filière 3e",
@@ -17838,30 +18131,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreo-bretagne-sitemap-135-1784110391000",
-      "title": "nitrates eau surface",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/thematique/eau/article/nitrates-eau-surface",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "cd2e-rss-2-1784117968000",
       "title": "APPEL D’OFFRE : concevez et réalisez notre démonstrateur mobile",
       "source": "CD2E",
@@ -18698,30 +18967,6 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Observatoire environnement",
       "region": "Bretagne",
       "url": "https://bretagne-environnement.fr/thematique/eau/article/plan-lutte-marees-vertes-bretagne",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Environnement",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de OREO Bretagne. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreo-bretagne-sitemap-143-1783468908000",
-      "title": "pesticides cours deau bretons",
-      "source": "OREO Bretagne",
-      "sourceId": "oreo-bretagne",
-      "sourceType": "Observatoire environnement",
-      "region": "Bretagne",
-      "url": "https://bretagne-environnement.fr/article/pesticides-cours-deau-bretons",
       "image": null,
       "date": "2026-07-08",
       "access": "open",
