@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T18:26:41.204Z",
+  "generatedAt": "2026-09-08T22:30:09.939Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3719,7 +3719,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788885000000",
+      "id": "enerzine-rss-0-1788905400000",
+      "title": "Un objet hybride entre étoile et trou noir détecté",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-objet-hybride-entre-etoile-et-trou-noir-detecte/193904-2026-09",
+      "image": null,
+      "date": "2026-09-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Une équipe conduite par Rohan Naidu a repéré dans l’univers primordial, 660 millions d’années après le Big Bang, un objet nommé MoM-BH*-1. Sa taille comparable au Système solaire et son rayonnement extrême évoquent un trou noir massif entouré d’une enveloppe gazeuse, une piste po…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1788885000000",
       "title": "Livret A : le plafond va-t-il passer de 22 950 à 30 000 € ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3744,7 +3768,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788878400000",
+      "id": "enerzine-rss-2-1788878400000",
       "title": "Le frein filet fort, dernier rempart contre les desserrages invisibles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3770,7 +3794,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788874500000",
+      "id": "enerzine-rss-3-1788874500000",
       "title": "OpenAI proclame l’ère de l’AGI, pour un accès à GPT-6 Astra au compte-gouttes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3794,7 +3818,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788851100000",
+      "id": "enerzine-rss-4-1788851100000",
       "title": "Mistral revendique une levée record de 3 milliards d’euros pour accélérer dans l’IA souveraine",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3818,7 +3842,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1788845400000",
+      "id": "enerzine-rss-5-1788845400000",
       "title": "Comprimer des batteries à état solide contre les dendrites prévient les courts-circuits",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3842,7 +3866,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1788844200000",
+      "id": "enerzine-rss-6-1788844200000",
       "title": "Du dépôt de tantale sur silicium à 200 °C grâce au krypton",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3866,7 +3890,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1788840600000",
+      "id": "enerzine-rss-7-1788840600000",
       "title": "Comment transformer des protons autrefois problématiques en ressource de stockage d’énergie pour batteries",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3892,7 +3916,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1788837000000",
+      "id": "enerzine-rss-8-1788837000000",
       "title": "Centrale agrivoltaïque : 100 millions pour l’autosuffisance du Vatican",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4093,7 +4117,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1788891973000",
+      "id": "le-commerce-du-bois-sitemap-0-1788906584000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4119,7 +4143,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1788891973000",
+      "id": "le-commerce-du-bois-sitemap-1-1788906584000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4145,7 +4169,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1788891973000",
+      "id": "le-commerce-du-bois-sitemap-2-1788906584000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4171,32 +4195,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1788881944000",
-      "title": "Stéphane Troussel : « Le développement des data centers relève davantage du Far-west que de l’eldorado numérique »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/stephane-troussel-le-developpement-des-data-centers-releve-davantage-du-far-west-que-de-leldorado-numerique/",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Vingt-sept data centers quadrillent déjà la Seine-Saint-Denis. Stéphane Troussel, président du conseil départemental, demande une pause et une régulation par la puissance publique. Il détaille les nuisances documentées, l'enlisement de la proposition de loi et les outils qu'il ré…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-1-1788872757000",
+      "id": "le-journal-du-grand-paris-rss-0-1788872757000",
       "title": "Romane Maréchaux succède à Jean Plateau à la direction du port de Gennevillliers",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4218,6 +4217,31 @@
         "Confort d’été"
       ],
       "summary": "Romane Maréchaux a été nommée à la direction du port de Gennevilliers. Elle succède à Jean Plateau, dont elle était l'adjointe depuis avril 2025 et qui rejoint quant à lui le ministère de la Transition écologique. Romane Maréchaux a été nommée à la direction du port de Gennevilli…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1788871144000",
+      "title": "Stéphane Troussel : « Le développement des data centers relève davantage du Far-west que de l’eldorado numérique »",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/stephane-troussel-le-developpement-des-data-centers-releve-davantage-du-far-west-que-de-leldorado-numerique/",
+      "image": null,
+      "date": "2026-09-08",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation"
+      ],
+      "summary": "Vingt-sept data centers quadrillent déjà la Seine-Saint-Denis. Stéphane Troussel, président du conseil départemental, demande une pause et une régulation par la puissance publique. Il détaille les nuisances documentées, l'enlisement de la proposition de loi et les outils qu'il ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4566,6 +4590,29 @@
     },
     {
       "id": "batiweb-rss-3-1788822300000",
+      "title": "DXW : la fenêtre de toit plat conçue pour être praticable",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/dxw-fenetre-toit-plat-praticable-49224",
+      "image": "https://img.batiweb.com/repo-images/publi/49224/fakro-09-09-une.jpg",
+      "date": "2026-09-07",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "DXW, la fenêtre de toit plat praticable : plus de lumière naturelle, une circulation sécurisée et un design contemporain. DXW, la fenêtre de toit plat praticable : plus de lumière naturelle, une circulation sécurisée et un design contemporain. DXW : la fenêtre de toit plat conçue…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-4-1788822300000",
       "title": "Bosch lance sa nouvelle pompe à chaleur air/eau Compress 3800i AW",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4586,29 +4633,6 @@
         "Eau"
       ],
       "summary": "Bosch dévoile la Compress 3800i AW, une pompe à chaleur air/eau monobloc au propane R290 alliant performance et rapport qualité-prix. Bosch dévoile la Compress 3800i AW, une pompe à chaleur air/eau monobloc au propane R290 alliant performance et rapport qualité-prix. Bosch lance …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-4-1788822300000",
-      "title": "DXW : la fenêtre de toit plat conçue pour être praticable",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/dxw-fenetre-toit-plat-praticable-49224",
-      "image": "https://img.batiweb.com/repo-images/publi/49224/fakro-09-09-une.jpg",
-      "date": "2026-09-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "DXW, la fenêtre de toit plat praticable : plus de lumière naturelle, une circulation sécurisée et un design contemporain. DXW, la fenêtre de toit plat praticable : plus de lumière naturelle, une circulation sécurisée et un design contemporain. DXW : la fenêtre de toit plat conçue…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4637,26 +4661,27 @@
     },
     {
       "id": "batiweb-rss-6-1788793200000",
-      "title": "Crise du logement : l’UE veut davantage encadrer les locations de type Airbnb",
+      "title": "Formaldéhyde : nouvelles règles européennes pour les meubles",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/legislation/regulation-locations-courte-duree-projet-europeen-49259",
-      "image": "https://img.batiweb.com/repo-images/article/49259/airbnb.jpg",
+      "url": "https://www.batiweb.com/actualites/legislation/formaldehyde-reach-regles-meubles-adhesifs-49185",
+      "image": "https://img.batiweb.com/repo-images/article/49185/mememmee.jpg",
       "date": "2026-09-07",
       "access": "open",
       "official": false,
-      "highImpact": false,
-      "impactScore": 88,
+      "highImpact": true,
+      "impactScore": 96,
       "tags": [
         "Construction",
         "Produits",
         "Marché",
-        "Eau",
-        "Bâtiment"
+        "Réglementation",
+        "RE2020",
+        "Biosourcé"
       ],
-      "summary": "Face à la crise du logement dans certaines zones de l’Union européenne, Bruxelles s’apprête à proposer un nouveau cadre législatif pour mieux encadrer les locations de courte durée type Airbnb. Face à la crise du logement dans certaines zones de l’Union européenne, Bruxelles s’ap…",
+      "summary": "Le règlement européen REACH fixe depuis le 6 août de nouvelles exigences sur les émissions de formaldéhyde des meubles et articles à base de bois. Les fabricants peuvent notamment se tourner vers des résines adhésives sans formaldéhyde. Le règlement européen REACH fixe depuis le …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4688,27 +4713,26 @@
     },
     {
       "id": "batiweb-rss-8-1788793200000",
-      "title": "Formaldéhyde : nouvelles règles européennes pour les meubles",
+      "title": "Crise du logement : l’UE veut davantage encadrer les locations de type Airbnb",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/legislation/formaldehyde-reach-regles-meubles-adhesifs-49185",
-      "image": "https://img.batiweb.com/repo-images/article/49185/mememmee.jpg",
+      "url": "https://www.batiweb.com/actualites/legislation/regulation-locations-courte-duree-projet-europeen-49259",
+      "image": "https://img.batiweb.com/repo-images/article/49259/airbnb.jpg",
       "date": "2026-09-07",
       "access": "open",
       "official": false,
-      "highImpact": true,
-      "impactScore": 96,
+      "highImpact": false,
+      "impactScore": 88,
       "tags": [
         "Construction",
         "Produits",
         "Marché",
-        "Réglementation",
-        "RE2020",
-        "Biosourcé"
+        "Eau",
+        "Bâtiment"
       ],
-      "summary": "Le règlement européen REACH fixe depuis le 6 août de nouvelles exigences sur les émissions de formaldéhyde des meubles et articles à base de bois. Les fabricants peuvent notamment se tourner vers des résines adhésives sans formaldéhyde. Le règlement européen REACH fixe depuis le …",
+      "summary": "Face à la crise du logement dans certaines zones de l’Union européenne, Bruxelles s’apprête à proposer un nouveau cadre législatif pour mieux encadrer les locations de courte durée type Airbnb. Face à la crise du logement dans certaines zones de l’Union européenne, Bruxelles s’ap…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6041,7 +6065,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1788819000000",
+      "id": "enerzine-rss-9-1788819000000",
       "title": "Des bactéries programmées pour calculer au cœur des cultures",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6061,32 +6085,6 @@
         "ENR"
       ],
       "summary": "Des chercheurs du MIT ont conçu des colonies bactériennes capables d’effectuer des calculs logiques simples. Publiés le 17 août dans Nature Chemical Biology, les travaux ouvrent la voie à des capteurs vivants posés sur les plantes pour surveiller sécheresse, ravageurs ou maladies…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1788768600000",
-      "title": "Granulés ou bûches : quel combustible chauffe réellement le plus pour votre argent ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/granules-ou-buches-comparatif-prix-chauffage/194010-2026-09",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "À l’approche de chaque saison froide, la même comparaison revient dans les foyers équipés d’un poêle ou d’une chaudière à bois. Faut-il miser sur les granulés, pratiques et réguliers, ou sur les bûches, réputées moins chères ? Derrière le coût d’un sac ou d’un stère se cachent de…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6585,25 +6583,25 @@
     },
     {
       "id": "batiweb-rss-12-1788735900000",
-      "title": "Trois solutions SANS RESSORTS pour les portes sectionnelles industrielles",
+      "title": "CEKAL : organisme de certification des vitrages",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/portes-sectionnelles-industrielles-sans-ressorts-solutions-49143",
-      "image": "https://img.batiweb.com/repo-images/publi/49143/javey-09-08-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/cekal-organisme-certification-vitrages-49241",
+      "image": "https://img.batiweb.com/repo-images/publi/49241/cekal-09-14-une.jpg",
       "date": "2026-09-06",
       "access": "open",
       "official": false,
-      "highImpact": false,
+      "highImpact": true,
       "impactScore": 80,
       "tags": [
         "Construction",
         "Produits",
         "Marché",
-        "Bâtiment"
+        "Réglementation"
       ],
-      "summary": "Modernisez vos portes sectionnelles industrielles grâce à une technologie brevetée adaptée aux grandes ouvertures comme aux bâtiments industriels. Modernisez vos portes sectionnelles industrielles grâce à une technologie brevetée adaptée aux grandes ouvertures comme aux bâtiments…",
+      "summary": "CEKAL certifie la qualité et l’aptitude à l’emploi des vitrages isolants, feuilletés et trempés. CEKAL certifie la qualité et l’aptitude à l’emploi des vitrages isolants, feuilletés et trempés. CEKAL : organisme de certification des vitrages",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6633,31 +6631,6 @@
     },
     {
       "id": "batiweb-rss-14-1788735900000",
-      "title": "K2 Systems présente ses solutions photovoltaïques pour chaque surface du bâtiment",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/k2-systems-solutions-photovoltaiques-surfaces-batiment-49200",
-      "image": "https://img.batiweb.com/repo-images/publi/49200/k2systems-09-14-une.jpg",
-      "date": "2026-09-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "K2 Systems dévoilera à BATIMAT, stand H1-P084, ses solutions de montage photovoltaïque pour toitures, façades, parkings et autres applications. K2 Systems dévoilera à BATIMAT, stand H1-P084, ses solutions de montage photovoltaïque pour toitures, façades, parkings et autres applic…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-15-1788735900000",
       "title": "Cyclosecure 30 : une bordure à pente adoucie pour des pistes plus sûres",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6681,7 +6654,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-16-1788735900000",
+      "id": "batiweb-rss-15-1788735900000",
       "title": "Hellio donne rendez-vous aux pros du bâtiment à BATIMAT 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6701,6 +6674,31 @@
         "Bâtiment"
       ],
       "summary": "Hellio accompagne les pros du bâtiment à BATIMAT 2026 avec ses solutions dédiées. Retrouvez nos équipes stand H1-K042. Hellio accompagne les pros du bâtiment à BATIMAT 2026 avec ses solutions dédiées. Retrouvez nos équipes stand H1-K042. Hellio donne rendez-vous aux pros du bâtim…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-16-1788735900000",
+      "title": "K2 Systems présente ses solutions photovoltaïques pour chaque surface du bâtiment",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/k2-systems-solutions-photovoltaiques-surfaces-batiment-49200",
+      "image": "https://img.batiweb.com/repo-images/publi/49200/k2systems-09-14-une.jpg",
+      "date": "2026-09-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Énergie",
+        "Bâtiment"
+      ],
+      "summary": "K2 Systems dévoilera à BATIMAT, stand H1-P084, ses solutions de montage photovoltaïque pour toitures, façades, parkings et autres applications. K2 Systems dévoilera à BATIMAT, stand H1-P084, ses solutions de montage photovoltaïque pour toitures, façades, parkings et autres applic…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6756,25 +6754,25 @@
     },
     {
       "id": "batiweb-rss-19-1788735900000",
-      "title": "CEKAL : organisme de certification des vitrages",
+      "title": "Trois solutions SANS RESSORTS pour les portes sectionnelles industrielles",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/cekal-organisme-certification-vitrages-49241",
-      "image": "https://img.batiweb.com/repo-images/publi/49241/cekal-09-14-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/portes-sectionnelles-industrielles-sans-ressorts-solutions-49143",
+      "image": "https://img.batiweb.com/repo-images/publi/49143/javey-09-08-une.jpg",
       "date": "2026-09-06",
       "access": "open",
       "official": false,
-      "highImpact": true,
+      "highImpact": false,
       "impactScore": 80,
       "tags": [
         "Construction",
         "Produits",
         "Marché",
-        "Réglementation"
+        "Bâtiment"
       ],
-      "summary": "CEKAL certifie la qualité et l’aptitude à l’emploi des vitrages isolants, feuilletés et trempés. CEKAL certifie la qualité et l’aptitude à l’emploi des vitrages isolants, feuilletés et trempés. CEKAL : organisme de certification des vitrages",
+      "summary": "Modernisez vos portes sectionnelles industrielles grâce à une technologie brevetée adaptée aux grandes ouvertures comme aux bâtiments industriels. Modernisez vos portes sectionnelles industrielles grâce à une technologie brevetée adaptée aux grandes ouvertures comme aux bâtiments…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10330,6 +10328,29 @@
       "summary": "En pleine électrification de la politique énergétique française, le DPE évolue encore pour favoriser l’électricité par rapport au gaz ou au fioul. Mais si c’est […] L’article Nouveau DPE : 300 000 logements ne seront plus des passoires thermiques, mais ce n’est pas une bonne nouv…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-318-1788220800000",
+      "title": "actu simple 31",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/actu-simple-31",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "urbalyon-rss-1-1788292821000",
@@ -19796,6 +19817,29 @@
       "summary": "L’article Juillet 2026 est apparu en premier sur ADEME Infos. L’article Juillet 2026 est apparu en premier sur ADEME Infos . Juillet 2026",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
+      "title": "avancees ffb 2026",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "cerema-sitemap-806-1783067940000",
