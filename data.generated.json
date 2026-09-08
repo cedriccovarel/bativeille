@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T22:39:58.888Z",
+  "generatedAt": "2026-09-08T03:48:48.215Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,109 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1788837000000",
+      "title": "Centrale agrivoltaïque : 100 millions pour l’autosuffisance du Vatican",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/centrale-agrivoltaique-100-millions-pour-lautosuffisance-du-vatican/193892-2026-09",
+      "image": null,
+      "date": "2026-09-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Bâtiment"
+      ],
+      "summary": "Le Saint-Siège engage un projet d’environ 100 millions d’euros sur le domaine de Santa Maria di Galeria, au nord-ouest de Rome. Une centrale agrivoltaïque de 80 à 90 mégawatts vise l’autosuffisance énergétique d’ici deux ans, avec un calendrier de 18 à 24 mois. Le Vatican a valid…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1788839309000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1788839309000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1788839309000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "observatoire-de-l-immobilier-durable-oid-rss-0-1788784201000",
       "title": "SIBCA 2026 : retour sur trois jours au Pavillon de la Résilience Climatique de l’Immobilier, avec l’OID",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -2187,80 +2290,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "cerema-sitemap-1068-1788768391000",
-      "title": "mobitc logiciel analyse mobilite du trait cote",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/actualites/mobitc-logiciel-analyse-mobilite-du-trait-cote",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "batiweb-rss-0-1788793200000",
-      "title": "Solplanet France renforce son activité dans le photovoltaïque commercial et industriel",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/industrie/solplanet-photovoltaique-entreprises-ci-49234",
-      "image": "https://img.batiweb.com/repo-images/article/49234/gdgdgdg.jpg",
-      "date": "2026-09-07",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Solplanet France renforce son activité photovoltaïque auprès des entreprises, bâtiments industriels, exploitations agricoles et parkings sans un contexte d'hausse de l’autoconsommation et de nouvelles réglementations. Solplanet France renforce son activité photovoltaïque auprès d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-1-1788793200000",
-      "title": "Développement durable : Schneider Electric satisfait de ses progrès",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/energie/schneider-electric-impact-2030-resultats-premier-semestre-2026-49156",
-      "image": "https://img.batiweb.com/repo-images/article/49156/Schneiderelectric.png",
-      "date": "2026-09-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Six mois après le lancement d'Impact 2030, Schneider Electric affiche ses ambitions en matière de développement durable. Six mois après le lancement d'Impact 2030, Schneider Electric affiche ses ambitions en matière de développement durable. Développement durable : Schneider Elec…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-2-1788793200000",
       "title": "Formaldéhyde : nouvelles règles européennes pour les meubles",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2286,7 +2316,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-3-1788793200000",
+      "id": "batiweb-rss-1-1788793200000",
       "title": "Crise du logement : l’UE veut davantage encadrer les locations de type Airbnb",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2307,6 +2337,55 @@
         "Bâtiment"
       ],
       "summary": "Face à la crise du logement dans certaines zones de l’Union européenne, Bruxelles s’apprête à proposer un nouveau cadre législatif pour mieux encadrer les locations de courte durée type Airbnb. Face à la crise du logement dans certaines zones de l’Union européenne, Bruxelles s’ap…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-2-1788793200000",
+      "title": "Solplanet France renforce son activité dans le photovoltaïque commercial et industriel",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/industrie/solplanet-photovoltaique-entreprises-ci-49234",
+      "image": "https://img.batiweb.com/repo-images/article/49234/gdgdgdg.jpg",
+      "date": "2026-09-07",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation",
+        "Énergie",
+        "Bâtiment"
+      ],
+      "summary": "Solplanet France renforce son activité photovoltaïque auprès des entreprises, bâtiments industriels, exploitations agricoles et parkings sans un contexte d'hausse de l’autoconsommation et de nouvelles réglementations. Solplanet France renforce son activité photovoltaïque auprès d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-3-1788793200000",
+      "title": "Développement durable : Schneider Electric satisfait de ses progrès",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/energie/schneider-electric-impact-2030-resultats-premier-semestre-2026-49156",
+      "image": "https://img.batiweb.com/repo-images/article/49156/Schneiderelectric.png",
+      "date": "2026-09-07",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Six mois après le lancement d'Impact 2030, Schneider Electric affiche ses ambitions en matière de développement durable. Six mois après le lancement d'Impact 2030, Schneider Electric affiche ses ambitions en matière de développement durable. Développement durable : Schneider Elec…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3691,7 +3770,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788819000000",
+      "id": "enerzine-rss-1-1788819000000",
       "title": "Des bactéries programmées pour calculer au cœur des cultures",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3715,7 +3794,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788768600000",
+      "id": "enerzine-rss-2-1788768600000",
       "title": "Granulés ou bûches : quel combustible chauffe réellement le plus pour votre argent ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3741,7 +3820,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788757800000",
+      "id": "enerzine-rss-3-1788757800000",
       "title": "Des ingénieurs mettent au point un pacemaker capable de s’alimenter lui-même",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3766,7 +3845,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788754200000",
+      "id": "enerzine-rss-4-1788754200000",
       "title": "Ce cookie est né d’une bouteille en plastique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3787,32 +3866,6 @@
         "Réglementation"
       ],
       "summary": "Le plastique est peut-être le dernier ingrédient que vous ajouteriez à une recette de cookies. Mais une équipe de chercheurs compte bien changer cela. Ils ont programmé des levures pour transformer le plastique et les déchets agricoles en protéines comestibles et en molécules aro…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-4-1788750600000",
-      "title": "Diraq dévoile sa feuille de route vers des millions de qubits",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/diraq-devoile-sa-feuille-de-route-vers-des-millions-de-qubits/193729-2026-09",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "La société australienne Diraq, basée à Sydney, publie une feuille de route chiffrée jusqu’en 2033. Elle vise 150 000 qubits physiques dès 2029, puis des dizaines de millions, en exploitant les usines de semi-conducteurs existantes. Diraq fixe un cap chiffré à l’informatique quant…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3839,6 +3892,32 @@
         "Confort d’été"
       ],
       "summary": "Les espaces verts et bleus, comme les boisements et les berges de rivière, pourraient constituer une ligne de défense vitale pour les villes confrontées à des étés de plus en plus chauds, selon une nouvelle étude de l’Université du Surrey. Dans une étude publiée dans Environment …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-6-1788750600000",
+      "title": "Diraq dévoile sa feuille de route vers des millions de qubits",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/diraq-devoile-sa-feuille-de-route-vers-des-millions-de-qubits/193729-2026-09",
+      "image": null,
+      "date": "2026-09-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "La société australienne Diraq, basée à Sydney, publie une feuille de route chiffrée jusqu’en 2033. Elle vise 150 000 qubits physiques dès 2029, puis des dizaines de millions, en exploitant les usines de semi-conducteurs existantes. Diraq fixe un cap chiffré à l’informatique quant…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4066,84 +4145,6 @@
       "summary": "260 tombes circulaires vieilles de 6000 ans viennent d'être repérées par satellite entre le Nil et la mer Rouge. Une civilisation pastorale oubliée refait surface, mais l'or menace déjà de l'effacer à jamais. L’article La NASA oriente ses satellites vers le Sahara et met au jour …",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1788820775000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1788820775000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1788820775000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1788794309000",
@@ -4415,13 +4416,37 @@
     },
     {
       "id": "batiweb-rss-7-1788735900000",
-      "title": "Cyclosecure 30 : une bordure à pente adoucie pour des pistes plus sûres",
+      "title": "Hellio donne rendez-vous aux pros du bâtiment à BATIMAT 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/cyclosecure-30-bordure-pente-adoucie-pistes-sures-49119",
-      "image": "https://img.batiweb.com/repo-images/publi/49119/alkern-0908-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/hellio-batimat-2026-pros-batiment-49204",
+      "image": "https://img.batiweb.com/repo-images/publi/49204/hellio-09-15-une-v2.png",
+      "date": "2026-09-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Bâtiment"
+      ],
+      "summary": "Hellio accompagne les pros du bâtiment à BATIMAT 2026 avec ses solutions dédiées. Retrouvez nos équipes stand H1-K042. Hellio accompagne les pros du bâtiment à BATIMAT 2026 avec ses solutions dédiées. Retrouvez nos équipes stand H1-K042. Hellio donne rendez-vous aux pros du bâtim…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-8-1788735900000",
+      "title": "CEKAL : organisme de certification des vitrages",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/cekal-organisme-certification-vitrages-49241",
+      "image": "https://img.batiweb.com/repo-images/publi/49241/cekal-09-14-une.jpg",
       "date": "2026-09-06",
       "access": "open",
       "official": false,
@@ -4433,12 +4458,12 @@
         "Marché",
         "Réglementation"
       ],
-      "summary": "Pensée pour les mobilités douces, Cyclosecure 30 réduit les risques de choc grâce à une pente adoucie conforme aux recommandations du Cerema. Pensée pour les mobilités douces, Cyclosecure 30 réduit les risques de choc grâce à une pente adoucie conforme aux recommandations du Cere…",
+      "summary": "CEKAL certifie la qualité et l’aptitude à l’emploi des vitrages isolants, feuilletés et trempés. CEKAL certifie la qualité et l’aptitude à l’emploi des vitrages isolants, feuilletés et trempés. CEKAL : organisme de certification des vitrages",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-8-1788735900000",
+      "id": "batiweb-rss-9-1788735900000",
       "title": "Trois solutions SANS RESSORTS pour les portes sectionnelles industrielles",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4462,32 +4487,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-9-1788735900000",
-      "title": "K2 Systems présente ses solutions photovoltaïques pour chaque surface du bâtiment",
+      "id": "batiweb-rss-10-1788735900000",
+      "title": "Cyclosecure 30 : une bordure à pente adoucie pour des pistes plus sûres",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/k2-systems-solutions-photovoltaiques-surfaces-batiment-49200",
-      "image": "https://img.batiweb.com/repo-images/publi/49200/k2systems-09-14-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/cyclosecure-30-bordure-pente-adoucie-pistes-sures-49119",
+      "image": "https://img.batiweb.com/repo-images/publi/49119/alkern-0908-une.jpg",
       "date": "2026-09-06",
       "access": "open",
       "official": false,
-      "highImpact": false,
-      "impactScore": 88,
+      "highImpact": true,
+      "impactScore": 80,
       "tags": [
         "Construction",
         "Produits",
         "Marché",
-        "Énergie",
-        "Bâtiment"
+        "Réglementation"
       ],
-      "summary": "K2 Systems dévoilera à BATIMAT, stand H1-P084, ses solutions de montage photovoltaïque pour toitures, façades, parkings et autres applications. K2 Systems dévoilera à BATIMAT, stand H1-P084, ses solutions de montage photovoltaïque pour toitures, façades, parkings et autres applic…",
+      "summary": "Pensée pour les mobilités douces, Cyclosecure 30 réduit les risques de choc grâce à une pente adoucie conforme aux recommandations du Cerema. Pensée pour les mobilités douces, Cyclosecure 30 réduit les risques de choc grâce à une pente adoucie conforme aux recommandations du Cere…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-10-1788735900000",
+      "id": "batiweb-rss-11-1788735900000",
       "title": "DAKO participe pour la 10ᵉ fois au salon Batimat ! Découvrez nos nouveautés !",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4507,32 +4531,6 @@
         "Eau"
       ],
       "summary": "Nous vous invitons à visiter le stand DAKO (H4-F028) au salon Batimat. Dévoilez nos solutions innovantes en menuiserie - Parlons de votre développement ! Nous vous invitons à visiter le stand DAKO (H4-F028) au salon Batimat. Dévoilez nos solutions innovantes en menuiserie - Parlo…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-11-1788735900000",
-      "title": "BATIMAT 2026 : EDILIANS présente ses solutions pour la toiture de demain",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/batimat-2026-edilians-solutions-toiture-49247",
-      "image": "https://img.batiweb.com/repo-images/publi/49247/edilians-09-14-une.jpg",
-      "date": "2026-09-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Eau",
-        "Biosourcé",
-        "Rénovation"
-      ],
-      "summary": "À BATIMAT 2026, EDILIANS dévoile ses nouveautés tuile terre cuite, solaire photovoltaïque et rénovation énergétique pour les projets en neuf comme en rénovation. À BATIMAT 2026, EDILIANS dévoile ses nouveautés tuile terre cuite, solaire photovoltaïque et rénovation énergétique po…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4562,49 +4560,52 @@
     },
     {
       "id": "batiweb-rss-13-1788735900000",
-      "title": "Hellio donne rendez-vous aux pros du bâtiment à BATIMAT 2026",
+      "title": "K2 Systems présente ses solutions photovoltaïques pour chaque surface du bâtiment",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/hellio-batimat-2026-pros-batiment-49204",
-      "image": "https://img.batiweb.com/repo-images/publi/49204/hellio-09-15-une-v2.png",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/k2-systems-solutions-photovoltaiques-surfaces-batiment-49200",
+      "image": "https://img.batiweb.com/repo-images/publi/49200/k2systems-09-14-une.jpg",
       "date": "2026-09-06",
       "access": "open",
       "official": false,
       "highImpact": false,
-      "impactScore": 80,
+      "impactScore": 88,
       "tags": [
         "Construction",
         "Produits",
         "Marché",
+        "Énergie",
         "Bâtiment"
       ],
-      "summary": "Hellio accompagne les pros du bâtiment à BATIMAT 2026 avec ses solutions dédiées. Retrouvez nos équipes stand H1-K042. Hellio accompagne les pros du bâtiment à BATIMAT 2026 avec ses solutions dédiées. Retrouvez nos équipes stand H1-K042. Hellio donne rendez-vous aux pros du bâtim…",
+      "summary": "K2 Systems dévoilera à BATIMAT, stand H1-P084, ses solutions de montage photovoltaïque pour toitures, façades, parkings et autres applications. K2 Systems dévoilera à BATIMAT, stand H1-P084, ses solutions de montage photovoltaïque pour toitures, façades, parkings et autres applic…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
       "id": "batiweb-rss-14-1788735900000",
-      "title": "CEKAL : organisme de certification des vitrages",
+      "title": "BATIMAT 2026 : EDILIANS présente ses solutions pour la toiture de demain",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/cekal-organisme-certification-vitrages-49241",
-      "image": "https://img.batiweb.com/repo-images/publi/49241/cekal-09-14-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/batimat-2026-edilians-solutions-toiture-49247",
+      "image": "https://img.batiweb.com/repo-images/publi/49247/edilians-09-14-une.jpg",
       "date": "2026-09-06",
       "access": "open",
       "official": false,
-      "highImpact": true,
-      "impactScore": 80,
+      "highImpact": false,
+      "impactScore": 96,
       "tags": [
         "Construction",
         "Produits",
         "Marché",
-        "Réglementation"
+        "Eau",
+        "Biosourcé",
+        "Rénovation"
       ],
-      "summary": "CEKAL certifie la qualité et l’aptitude à l’emploi des vitrages isolants, feuilletés et trempés. CEKAL certifie la qualité et l’aptitude à l’emploi des vitrages isolants, feuilletés et trempés. CEKAL : organisme de certification des vitrages",
+      "summary": "À BATIMAT 2026, EDILIANS dévoile ses nouveautés tuile terre cuite, solaire photovoltaïque et rénovation énergétique pour les projets en neuf comme en rénovation. À BATIMAT 2026, EDILIANS dévoile ses nouveautés tuile terre cuite, solaire photovoltaïque et rénovation énergétique po…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4684,7 +4685,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1788732600000",
+      "id": "enerzine-rss-7-1788732600000",
       "title": "Une nouvelle imprimante holographique crée des formes 3D, creux compris, en une seule prise",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4709,7 +4710,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1788732600000",
+      "id": "enerzine-rss-8-1788732600000",
       "title": "Fusion nucléaire : Eni vise une centrale en Europe avant 2040",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4734,7 +4735,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1788687900000",
+      "id": "enerzine-rss-9-1788687900000",
       "title": "Sim swapping : l’arnaque qui détourne votre numéro pour vider vos comptes bancaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4755,31 +4756,6 @@
         "RE2020"
       ],
       "summary": "Le SIM swapping, ou détournement de carte SIM, est une fraude où un escroc fait transférer le numéro de téléphone d’une victime vers une SIM ou une eSIM qu’il contrôle. Il intercepte ensuite les SMS de validation bancaire, accède à l’espace client et peut vider les comptes. Le pr…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1788667800000",
-      "title": "Un semi-conducteur effaçable programmé par la lumière",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-semi-conducteur-effacable-programme-par-la-lumiere/193591-2026-09",
-      "image": null,
-      "date": "2026-09-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "Des chercheurs de l’école d’ingénierie de Princeton ont créé un semi-conducteur aux propriétés uniques : il n’a que quelques molécules d’épaisseur et peut modifier à plusieurs reprises ses propriétés en réponse à la lumière. C’est un pas vers la création de capteurs, de dispositi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10809,30 +10785,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "cerema-sitemap-835-1787897621000",
-      "title": "aout 2026 decouvrez lettre information du cerema",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/lettre-informations-du-cerema/derniers-numeros-notre-lettre-information/aout-2026-decouvrez-lettre-information-du-cerema",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "meteo-france-rss-1-1787902213000",
       "title": "Comment choisit-on le nom d’une tempête ?",
       "source": "Météo-France",
@@ -13398,30 +13350,6 @@
       "summary": "L’enquête publique concernant le futur raccordement du parc éolien Bretagne Sud vient d’ouvrir. L’occasion pour l’opposition d’afficher clairement ses ambitions : faire annuler le projet […] L’article L’opposition s’organise autour du parc éolien Bretagne Sud est apparu en premie…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "cerema-sitemap-1152-1786524240000",
-      "title": "quels espaces publics ecoquartiers",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/actualites/quels-espaces-publics-ecoquartiers",
-      "image": null,
-      "date": "2026-08-12",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "arec-occitanie-rss-5-1786526118000",
@@ -16113,54 +16041,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "cerema-sitemap-792-1784897333000",
-      "title": "flash mobilites ndeg18 logistique urbaine durable",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/flash-mobilites-ex-transflash/flash-mobilites-ndeg18-logistique-urbaine-durable/flash-mobilites-ndeg18-logistique-urbaine-durable",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-834-1784897899000",
-      "title": "flash mobilites ndeg19 mobilites quotidiennes tendances",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/flash-mobilites-ex-transflash/flash-mobilites-ndeg19-mobilites-quotidiennes-tendances/flash-mobilites-ndeg19-mobilites-quotidiennes-tendances",
-      "image": null,
-      "date": "2026-07-24",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1784851200000",
       "title": "premiere economie maritime",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -16736,30 +16616,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "cerema-sitemap-833-1784623634000",
-      "title": "juillet 2026 decouvrez nos dernieres publications",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/vient-paraitre/derniers-numeros-notre-vient-paraitre/juillet-2026-decouvrez-nos-dernieres-publications",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "bruitparif-rss-2-1784592000000",
       "title": "Une station de mesure du bruit aérien déployé à Juvisy-sur-Orge pour quelques mois",
       "source": "Bruitparif",
@@ -16975,150 +16831,6 @@
       "summary": "À l’occasion des Rencontres des Métiers du Bâtiment organisées par la CAPEB à Marseille, la CAPEB, la CNATP, l’IRIS-ST et l’OPPBTP ont signé une nouvelle convention de partenariat visant à renforcer l’accompagnement des très petites entreprises du bâtiment et des travaux publics …",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "cerema-sitemap-827-1784560156000",
-      "title": "1 caracterisation sols roches",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-29/1-caracterisation-sols-roches",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-828-1784560154000",
-      "title": "2 alea mouvements terrain",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-29/2-alea-mouvements-terrain",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-829-1784560153000",
-      "title": "3 prevention protection",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-29/3-prevention-protection",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-830-1784560151000",
-      "title": "4 gestion risques",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-29/4-gestion-risques",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-831-1784560149000",
-      "title": "5 evenements",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-29/5-evenements",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-832-1784560148000",
-      "title": "6 congres seminaires",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-29/6-congres-seminaires",
-      "image": null,
-      "date": "2026-07-20",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "promotelec-sitemap-49-1784554386000",
@@ -17721,198 +17433,6 @@
       "summary": "La Stratégie Régionale relative aux Espèces Exotiques Envahissantes en Nouvelle-Aquitaine constitue un cadre d’action sur 10 ans (2024-2033) en matière de prévention et de lutte contre les EEE, co-construit avec les acteurs du territoire régional, en cohérence avec les politiques…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "cerema-sitemap-758-1784120363000",
-      "title": "1 caracterisation sols roches",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-28/1-caracterisation-sols-roches",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-759-1784120363000",
-      "title": "2 alea mouvements terrain",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-28/2-alea-mouvements-terrain",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-760-1784120363000",
-      "title": "3 prevention protection",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-28/3-prevention-protection",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-761-1784120363000",
-      "title": "4 gestion risques",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-28/4-gestion-risques",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-762-1784120363000",
-      "title": "5 normalisation",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-28/5-normalisation",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-763-1784120363000",
-      "title": "6 evenements",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-28/6-evenements",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-764-1784120363000",
-      "title": "7 congres seminaires",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-28/7-congres-seminaires",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-765-1784120363000",
-      "title": "8 focus site",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/risques-mouvements-terrain/risques-mouvements-terrain-ndeg-28/8-focus-site",
-      "image": null,
-      "date": "2026-07-15",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "inc-institut-national-de-la-consommation-rss-5-1784152800000",
@@ -19271,30 +18791,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "cerema-sitemap-1181-1783333538000",
-      "title": "ateliers du gt ravi ateliers participatifs annuels cerema",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/actualites/ateliers-du-gt-ravi-ateliers-participatifs-annuels-cerema",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "atmo-france-sitemap-51-1783332469000",
       "title": "contributions notes articles",
       "source": "Atmo France",
@@ -19525,30 +19021,6 @@
         "Entreprises"
       ],
       "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cerema-sitemap-806-1783067940000",
-      "title": "connaissance mobilisation du foncier mai juin 2026",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/connaissance-mobilisation-du-foncier/connaissance-mobilisation-du-foncier-mai-juin-2026/connaissance-mobilisation-du-foncier-mai-juin-2026",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -19836,30 +19308,6 @@
       "summary": "L’article Juillet 2026 est apparu en premier sur ADEME Infos. L’article Juillet 2026 est apparu en premier sur ADEME Infos . Juillet 2026",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "cerema-sitemap-826-1782902501000",
-      "title": "juin 2026 decouvrez lettre information du cerema",
-      "source": "CEREMA",
-      "sourceId": "cerema",
-      "sourceType": "Institution publique / centre ressources",
-      "region": "National",
-      "url": "https://www.cerema.fr/fr/centre-ressources/newsletters/lettre-informations-du-cerema/derniers-numeros-notre-lettre-information/juin-2026-decouvrez-lettre-information-du-cerema",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "Adaptation climatique",
-        "Risques",
-        "Bâtiment",
-        "Territoires"
-      ],
-      "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "cequami-rss-3-1782910837000",
