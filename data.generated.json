@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T22:30:09.939Z",
+  "generatedAt": "2026-09-09T03:52:49.998Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,109 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1788923400000",
+      "title": "Ford utilisera la plateforme Geely pour un SUV produit à Valence",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/ford-utilisera-la-plateforme-geely-pour-un-suv-produit-a-valence/193898-2026-09",
+      "image": null,
+      "date": "2026-09-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Ford et Geely officialisent à Valence la production du novueau SUV Ford sur la plateforme modulaire GEA, via une coentreprise détenue à 66 % par Ford. L’usine espagnole tourne actuellement en dessous de sa capacité et devrait accueillir, une équipe, deux marques et cinq véhicules…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1788925952000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1788925952000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1788925952000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "atmo-france-sitemap-40-1788857415000",
       "title": "le fonctionnement datmo france",
       "source": "Atmo France",
@@ -3719,7 +3822,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1788905400000",
+      "id": "enerzine-rss-1-1788905400000",
       "title": "Un objet hybride entre étoile et trou noir détecté",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3743,7 +3846,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1788885000000",
+      "id": "enerzine-rss-2-1788885000000",
       "title": "Livret A : le plafond va-t-il passer de 22 950 à 30 000 € ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3768,7 +3871,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1788878400000",
+      "id": "enerzine-rss-3-1788878400000",
       "title": "Le frein filet fort, dernier rempart contre les desserrages invisibles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3794,7 +3897,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1788874500000",
+      "id": "enerzine-rss-4-1788874500000",
       "title": "OpenAI proclame l’ère de l’AGI, pour un accès à GPT-6 Astra au compte-gouttes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3818,7 +3921,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1788851100000",
+      "id": "enerzine-rss-5-1788851100000",
       "title": "Mistral revendique une levée record de 3 milliards d’euros pour accélérer dans l’IA souveraine",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3842,7 +3945,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1788845400000",
+      "id": "enerzine-rss-6-1788845400000",
       "title": "Comprimer des batteries à état solide contre les dendrites prévient les courts-circuits",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3866,7 +3969,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1788844200000",
+      "id": "enerzine-rss-7-1788844200000",
       "title": "Du dépôt de tantale sur silicium à 200 °C grâce au krypton",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3890,7 +3993,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1788840600000",
+      "id": "enerzine-rss-8-1788840600000",
       "title": "Comment transformer des protons autrefois problématiques en ressource de stockage d’énergie pour batteries",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3916,7 +4019,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1788837000000",
+      "id": "enerzine-rss-9-1788837000000",
       "title": "Centrale agrivoltaïque : 100 millions pour l’autosuffisance du Vatican",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4115,84 +4218,6 @@
       "summary": "Du 10 au 19 septembre 2026, le réseau Fibois France donne rendez-vous au public dans la cour de la Bibliothèque historique de la Ville de Paris (BHVP) pour découvrir l'exposition Bois Français & Design 2026, temps fort de la Paris Design Week consacré à la création en bois frança…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1788906584000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1788906584000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1788906584000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1788872757000",
@@ -4590,29 +4615,6 @@
     },
     {
       "id": "batiweb-rss-3-1788822300000",
-      "title": "DXW : la fenêtre de toit plat conçue pour être praticable",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/dxw-fenetre-toit-plat-praticable-49224",
-      "image": "https://img.batiweb.com/repo-images/publi/49224/fakro-09-09-une.jpg",
-      "date": "2026-09-07",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "DXW, la fenêtre de toit plat praticable : plus de lumière naturelle, une circulation sécurisée et un design contemporain. DXW, la fenêtre de toit plat praticable : plus de lumière naturelle, une circulation sécurisée et un design contemporain. DXW : la fenêtre de toit plat conçue…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-4-1788822300000",
       "title": "Bosch lance sa nouvelle pompe à chaleur air/eau Compress 3800i AW",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4633,6 +4635,29 @@
         "Eau"
       ],
       "summary": "Bosch dévoile la Compress 3800i AW, une pompe à chaleur air/eau monobloc au propane R290 alliant performance et rapport qualité-prix. Bosch dévoile la Compress 3800i AW, une pompe à chaleur air/eau monobloc au propane R290 alliant performance et rapport qualité-prix. Bosch lance …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-4-1788822300000",
+      "title": "DXW : la fenêtre de toit plat conçue pour être praticable",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/dxw-fenetre-toit-plat-praticable-49224",
+      "image": "https://img.batiweb.com/repo-images/publi/49224/fakro-09-09-une.jpg",
+      "date": "2026-09-07",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "DXW, la fenêtre de toit plat praticable : plus de lumière naturelle, une circulation sécurisée et un design contemporain. DXW, la fenêtre de toit plat praticable : plus de lumière naturelle, une circulation sécurisée et un design contemporain. DXW : la fenêtre de toit plat conçue…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6065,30 +6090,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1788819000000",
-      "title": "Des bactéries programmées pour calculer au cœur des cultures",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-bacteries-programmees-pour-calculer-au-coeur-des-cultures/193687-2026-09",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Des chercheurs du MIT ont conçu des colonies bactériennes capables d’effectuer des calculs logiques simples. Publiés le 17 août dans Nature Chemical Biology, les travaux ouvrent la voie à des capteurs vivants posés sur les plantes pour surveiller sécheresse, ravageurs ou maladies…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "lenergeek-rss-6-1788789054000",
       "title": "Pétrole : le prix du baril pourrait atteindre 120 dollars",
       "source": "L’ÉnerGeek",
@@ -6583,25 +6584,25 @@
     },
     {
       "id": "batiweb-rss-12-1788735900000",
-      "title": "CEKAL : organisme de certification des vitrages",
+      "title": "Trois solutions SANS RESSORTS pour les portes sectionnelles industrielles",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/cekal-organisme-certification-vitrages-49241",
-      "image": "https://img.batiweb.com/repo-images/publi/49241/cekal-09-14-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/portes-sectionnelles-industrielles-sans-ressorts-solutions-49143",
+      "image": "https://img.batiweb.com/repo-images/publi/49143/javey-09-08-une.jpg",
       "date": "2026-09-06",
       "access": "open",
       "official": false,
-      "highImpact": true,
+      "highImpact": false,
       "impactScore": 80,
       "tags": [
         "Construction",
         "Produits",
         "Marché",
-        "Réglementation"
+        "Bâtiment"
       ],
-      "summary": "CEKAL certifie la qualité et l’aptitude à l’emploi des vitrages isolants, feuilletés et trempés. CEKAL certifie la qualité et l’aptitude à l’emploi des vitrages isolants, feuilletés et trempés. CEKAL : organisme de certification des vitrages",
+      "summary": "Modernisez vos portes sectionnelles industrielles grâce à une technologie brevetée adaptée aux grandes ouvertures comme aux bâtiments industriels. Modernisez vos portes sectionnelles industrielles grâce à une technologie brevetée adaptée aux grandes ouvertures comme aux bâtiments…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6631,6 +6632,31 @@
     },
     {
       "id": "batiweb-rss-14-1788735900000",
+      "title": "K2 Systems présente ses solutions photovoltaïques pour chaque surface du bâtiment",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/k2-systems-solutions-photovoltaiques-surfaces-batiment-49200",
+      "image": "https://img.batiweb.com/repo-images/publi/49200/k2systems-09-14-une.jpg",
+      "date": "2026-09-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Énergie",
+        "Bâtiment"
+      ],
+      "summary": "K2 Systems dévoilera à BATIMAT, stand H1-P084, ses solutions de montage photovoltaïque pour toitures, façades, parkings et autres applications. K2 Systems dévoilera à BATIMAT, stand H1-P084, ses solutions de montage photovoltaïque pour toitures, façades, parkings et autres applic…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-15-1788735900000",
       "title": "Cyclosecure 30 : une bordure à pente adoucie pour des pistes plus sûres",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6654,7 +6680,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-15-1788735900000",
+      "id": "batiweb-rss-16-1788735900000",
       "title": "Hellio donne rendez-vous aux pros du bâtiment à BATIMAT 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6674,31 +6700,6 @@
         "Bâtiment"
       ],
       "summary": "Hellio accompagne les pros du bâtiment à BATIMAT 2026 avec ses solutions dédiées. Retrouvez nos équipes stand H1-K042. Hellio accompagne les pros du bâtiment à BATIMAT 2026 avec ses solutions dédiées. Retrouvez nos équipes stand H1-K042. Hellio donne rendez-vous aux pros du bâtim…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-16-1788735900000",
-      "title": "K2 Systems présente ses solutions photovoltaïques pour chaque surface du bâtiment",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/k2-systems-solutions-photovoltaiques-surfaces-batiment-49200",
-      "image": "https://img.batiweb.com/repo-images/publi/49200/k2systems-09-14-une.jpg",
-      "date": "2026-09-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "K2 Systems dévoilera à BATIMAT, stand H1-P084, ses solutions de montage photovoltaïque pour toitures, façades, parkings et autres applications. K2 Systems dévoilera à BATIMAT, stand H1-P084, ses solutions de montage photovoltaïque pour toitures, façades, parkings et autres applic…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6754,25 +6755,25 @@
     },
     {
       "id": "batiweb-rss-19-1788735900000",
-      "title": "Trois solutions SANS RESSORTS pour les portes sectionnelles industrielles",
+      "title": "CEKAL : organisme de certification des vitrages",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/portes-sectionnelles-industrielles-sans-ressorts-solutions-49143",
-      "image": "https://img.batiweb.com/repo-images/publi/49143/javey-09-08-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/cekal-organisme-certification-vitrages-49241",
+      "image": "https://img.batiweb.com/repo-images/publi/49241/cekal-09-14-une.jpg",
       "date": "2026-09-06",
       "access": "open",
       "official": false,
-      "highImpact": false,
+      "highImpact": true,
       "impactScore": 80,
       "tags": [
         "Construction",
         "Produits",
         "Marché",
-        "Bâtiment"
+        "Réglementation"
       ],
-      "summary": "Modernisez vos portes sectionnelles industrielles grâce à une technologie brevetée adaptée aux grandes ouvertures comme aux bâtiments industriels. Modernisez vos portes sectionnelles industrielles grâce à une technologie brevetée adaptée aux grandes ouvertures comme aux bâtiments…",
+      "summary": "CEKAL certifie la qualité et l’aptitude à l’emploi des vitrages isolants, feuilletés et trempés. CEKAL certifie la qualité et l’aptitude à l’emploi des vitrages isolants, feuilletés et trempés. CEKAL : organisme de certification des vitrages",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16225,6 +16226,30 @@
       "collectMethod": "wordpress_api"
     },
     {
+      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-38-1785237848000",
+      "title": "webinaire 15 octobre 2026 vers suivi plus fin la consommation des espaces naturels",
+      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
+      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
+      "sourceType": "Observatoire",
+      "region": "National",
+      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/webinaire-15-octobre-2026-vers-suivi-plus-fin-la-consommation-des-espaces-naturels",
+      "image": null,
+      "date": "2026-07-28",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "ZAN",
+        "Artificialisation",
+        "Foncier",
+        "Urbanisme"
+      ],
+      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "capeb-rss-4-1785222916000",
       "title": "Incendies : les dispositifs de soutien mobilisés pour les entreprises du bâtiment",
       "source": "CAPEB",
@@ -20076,6 +20101,30 @@
       "summary": "La France a exporté 56,8 TWh d'électricité au cours des 6 premiers mois de l'année, selon les dernières données de RTE publiées ce 2 juillet. La France a exporté 56,8 TWh d&#039;électricité au cours des 6 premiers mois de l&#039;année, selon les dernières données de RTE publiées …",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-37-1782884876000",
+      "title": "parution des donnees consommation despaces naturels agricoles et forestiers 2011 2025",
+      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
+      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
+      "sourceType": "Observatoire",
+      "region": "National",
+      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/parution-des-donnees-consommation-despaces-naturels-agricoles-et-forestiers-2011-2025",
+      "image": null,
+      "date": "2026-07-01",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "ZAN",
+        "Artificialisation",
+        "Foncier",
+        "Urbanisme"
+      ],
+      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "ademe-rss-1-1782924567000",
