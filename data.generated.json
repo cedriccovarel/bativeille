@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T18:14:14.057Z",
+  "generatedAt": "2026-09-10T22:22:59.613Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2427,31 +2427,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-2-1789054700000",
-      "title": "Économie circulaire : la Commission européenne ouvre une consultation sur la TVA circulaire",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/commission-europeenne-consultation-tva-circulaire-48495.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48495_large.jpg",
-      "date": "2026-09-10",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Économie du bâtiment"
-      ],
-      "summary": "Mercredi 9 septembre, la Commission européenne a ouvert une consultation publique sur son initiative « TVA circulaire » (aussi appelée « TVA verte »). L'exécutif européen envisage l'adoption d'une directive qui se concentrera sur trois axes d'adap... Mercredi 9 septembre, la Comm…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-3-1789050602000",
+      "id": "actu-environnement-rss-2-1789050602000",
       "title": "Les ENR ont une valeur assurantielle pour le système électrique, selon la CRE",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2475,7 +2451,55 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-4-1789042561000",
+      "id": "actu-environnement-rss-3-1789042725000",
+      "title": "« L'Europe ouvre la porte à l'ADN environnemental, encouragée par les travaux scientifiques »",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/adn-environnemental-directive-surveillance-eaux-europeennes-travaux-scientifiques-48491.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/interview/48491_large.jpg",
+      "date": "2026-09-10",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau"
+      ],
+      "summary": "Le nouveau cadre de la surveillance des eaux européennes pourrait ouvrir la porte à des approches comme l'ADN environnemental. Précisions de Christian Chauvin, ingénieur à INRAE et coordonnateur du consortium Aquaref. Le nouveau cadre de la surveillance des eaux européennes pourr…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-4-1789042640000",
+      "title": "Économie circulaire : la Commission européenne ouvre une consultation sur la TVA circulaire",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/commission-europeenne-consultation-tva-circulaire-48495.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48495_large.jpg",
+      "date": "2026-09-10",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Économie du bâtiment"
+      ],
+      "summary": "Mercredi 9 septembre, la Commission européenne a ouvert une consultation publique sur son initiative « TVA circulaire » (aussi appelée « TVA verte »). L'exécutif européen envisage l'adoption d'une directive qui se concentrera sur trois axes d'adap... Mercredi 9 septembre, la Comm…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-5-1789042561000",
       "title": "Coraux d'eaux froides : un programme de restauration prometteur dans le golfe de Gascogne",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2496,30 +2520,6 @@
         "Réemploi"
       ],
       "summary": "« Nous avons observé que les coraux immergés en 2025 sont toujours vivants et que les neuf récifs sont désormais colonisés par de nombreuses espèces marines (oursins, poissons, crabes, crinoïdes). Il est encore trop tôt pour mesurer leur croissanc... « Nous avons observé que les …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-5-1789042425000",
-      "title": "« L'Europe ouvre la porte à l'ADN environnemental, encouragée par les travaux scientifiques »",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/adn-environnemental-directive-surveillance-eaux-europeennes-travaux-scientifiques-48491.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/interview/48491_large.jpg",
-      "date": "2026-09-10",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "Le nouveau cadre de la surveillance des eaux européennes pourrait ouvrir la porte à des approches comme l'ADN environnemental. Précisions de Christian Chauvin, ingénieur à INRAE et coordonnateur du consortium Aquaref. Le nouveau cadre de la surveillance des eaux européennes pourr…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3698,7 +3698,57 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789062600000",
+      "id": "enerzine-rss-0-1789078200000",
+      "title": "Le Japon soutient Helical Fusion et le stellarator commercial",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/le-japon-soutient-helical-fusion-et-le-stellarator-commercial/194046-2026-09",
+      "image": null,
+      "date": "2026-09-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été",
+        "Économie du bâtiment"
+      ],
+      "summary": "La société Helical Fusion a été retenue par le METI pour développer un stellarator hélicoïdal. Le programme japonais, doté de 60 milliards de yens sur trois ans jusqu’en 2028, vise une démonstration d’énergie de fusion dans les années 2030. Le ministère japonais de l’Économie, du…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789069500000",
+      "title": "Arianespace enchaîne les contrats : Amazon Leo commande six lancements Ariane 6 supplémentaires",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/ariane-6-amazon-leo-lancements-arianespace/194302-2026-09",
+      "image": null,
+      "date": "2026-09-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Alors que le sommet international de l’Espace à Paris bat son plein, Arianespace frappe fort. Amazon Leo (ex Kuiper) a confié six missions supplémentaires à la fusée Ariane 64, portant à 24 le total des lancements commandés par le géant américain. Dans le même temps, la plateform…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1789062600000",
       "title": "Diesel : pourquoi le gazole flambe et dépasse désormais l’essence",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3722,7 +3772,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789036800000",
+      "id": "enerzine-rss-3-1789036800000",
       "title": "Un cloporte vivant dans l’intestin : le cas médical qui a surpris les chirurgiens de Bologne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3747,7 +3797,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789018200000",
+      "id": "enerzine-rss-4-1789018200000",
       "title": "Une bactérie marine modifiée accélère la capture de CO2",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3772,7 +3822,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789017000000",
+      "id": "enerzine-rss-5-1789017000000",
       "title": "Les compagnies pétrolières accélèrent leurs investissements dans la fusion nucléaire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3797,7 +3847,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789013400000",
+      "id": "enerzine-rss-6-1789013400000",
       "title": "IA et génomique accélèrent la sélection des tubercules",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3822,7 +3872,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789009800000",
+      "id": "enerzine-rss-7-1789009800000",
       "title": "ROC-E automatise 4 127 missions logistiques chez MECAPREC",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3847,7 +3897,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789006200000",
+      "id": "enerzine-rss-8-1789006200000",
       "title": "Maersk va installer une voile rotative sur un porte-conteneurs en 2027",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4171,7 +4221,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789064037000",
+      "id": "le-commerce-du-bois-sitemap-0-1789078962000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4197,7 +4247,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789064037000",
+      "id": "le-commerce-du-bois-sitemap-1-1789078962000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4223,7 +4273,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789064037000",
+      "id": "le-commerce-du-bois-sitemap-2-1789078962000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4249,7 +4299,31 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1789054257000",
+      "id": "le-journal-du-grand-paris-rss-0-1789074160000",
+      "title": "L’essentiel de la semaine du 7 septembre 2026 en quelques clics",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-7-septembre-2026-en-quelques-clics/",
+      "image": null,
+      "date": "2026-09-10",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. Ile-de-France Mobilités a choisi celle du 7 septembre pour lancer son premier projet de transport collectif autonome, avec un premier service à la demande prévu dès 2028. Re…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1789054257000",
       "title": "Île-de-France mobilités lance le premier projet francilien de transport collectif autonome",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5988,7 +6062,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1788991843000",
+      "id": "enerzine-rss-9-1788991843000",
       "title": "Dacia Spring : la citadine électrique low-cost change de camp et redevient européenne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6009,56 +6083,6 @@
         "Réglementation"
       ],
       "summary": "Dacia relance la Spring, l’une des citadines électriques les plus vendues d’Europe, avec une deuxième génération dévoilée début septembre 2026 et commercialisée à partir de 17 900 euros avant aides. La petite électrique ne sera plus assemblée en Chine mais à Novo Mesto, en Slovén…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1788984984000",
-      "title": "Hantavirus des Andes : quarantaine en France après un cas importé d’Amérique du Sud",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/hantavirus-andes-quarantaine-france/194235-2026-09",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Un jeune Franco-Argentin testé positif au hantavirus des Andes à son retour d’un séjour estival a déclenché la mise en quarantaine de quarante-cinq contacts à haut risque, une mesure spécifique dans l’Hexagone pour cette infection. Un décret du ministère de la Santé autorise déso…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1788975600000",
-      "title": "Anthropic : un chercheur démissionne et accuse, « Elles jouent avec nos vies »",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/jacob-coxon-anthropic-demission-superintelligence/194218-2026-09",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "À 27 ans, le chercheur britannique Jacob Coxon a claqué la porte d’Anthropic et de toute l’industrie de l’IA. Son accusation, postée sur X et vue des dizaines de million de fois, n’y va par quatre chemins. Pour faire court, les grands laboratoires foncent vers une superintelligen…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6390,7 +6414,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1788971562000",
+      "id": "le-journal-du-grand-paris-rss-2-1788971562000",
       "title": "Implantation des data centers : une équation territoriale subtile à résoudre",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6416,7 +6440,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1788969636000",
+      "id": "le-journal-du-grand-paris-rss-3-1788969636000",
       "title": "Début timide du Jeanbrun, commercialisations en baisse : c’est la douche froide pour les promoteurs",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6441,7 +6465,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1788967133000",
+      "id": "le-journal-du-grand-paris-rss-4-1788967133000",
       "title": "Rio Tinto poursuit la réhabilitation de sa friche industrielle à Dammarie-les-Lys",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6466,7 +6490,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1788966467000",
+      "id": "le-journal-du-grand-paris-rss-5-1788966467000",
       "title": "Le Cercle (IMGP 1) et All Suites Paris 13 : inauguration Porte d’Italie de deux bâtiments signés Pichet",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6492,7 +6516,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1788958514000",
+      "id": "le-journal-du-grand-paris-rss-6-1788958514000",
       "title": "Valère Pelletier – La face immergée de la RATP",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8023,7 +8047,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1788872757000",
+      "id": "le-journal-du-grand-paris-rss-7-1788872757000",
       "title": "Romane Maréchaux succède à Jean Plateau à la direction du port de Gennevillliers",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8049,7 +8073,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1788871144000",
+      "id": "le-journal-du-grand-paris-rss-8-1788871144000",
       "title": "Stéphane Troussel : « Le développement des data centers relève davantage du Far-west que de l’eldorado numérique »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8074,7 +8098,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1788852674000",
+      "id": "le-journal-du-grand-paris-rss-9-1788852674000",
       "title": "Portrait d’agence – Goudchaux Architecte et Associés : entre héritage et exploration du champ des possibles",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8492,24 +8516,27 @@
     },
     {
       "id": "batiweb-rss-19-1788793200000",
-      "title": "Développement durable : Schneider Electric satisfait de ses progrès",
+      "title": "Formaldéhyde : nouvelles règles européennes pour les meubles",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/energie/schneider-electric-impact-2030-resultats-premier-semestre-2026-49156",
-      "image": "https://img.batiweb.com/repo-images/article/49156/Schneiderelectric.png",
+      "url": "https://www.batiweb.com/actualites/legislation/formaldehyde-reach-regles-meubles-adhesifs-49185",
+      "image": "https://img.batiweb.com/repo-images/article/49185/mememmee.jpg",
       "date": "2026-09-07",
       "access": "open",
       "official": false,
-      "highImpact": false,
-      "impactScore": 72,
+      "highImpact": true,
+      "impactScore": 96,
       "tags": [
         "Construction",
         "Produits",
-        "Marché"
+        "Marché",
+        "Réglementation",
+        "RE2020",
+        "Biosourcé"
       ],
-      "summary": "Six mois après le lancement d'Impact 2030, Schneider Electric affiche ses ambitions en matière de développement durable. Six mois après le lancement d'Impact 2030, Schneider Electric affiche ses ambitions en matière de développement durable. Développement durable : Schneider Elec…",
+      "summary": "Le règlement européen REACH fixe depuis le 6 août de nouvelles exigences sur les émissions de formaldéhyde des meubles et articles à base de bois. Les fabricants peuvent notamment se tourner vers des résines adhésives sans formaldéhyde. Le règlement européen REACH fixe depuis le …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9246,32 +9273,6 @@
         "Carbone"
       ],
       "summary": "L'installation de captage de CO₂ du site Yara de Sluiskil, aux Pays-Bas, vient d'être inaugurée. Elle capturera jusqu'à 800 000 tonnes de CO₂ par an, qui seront ensuite transportées en Norvège pour un stockage définitif sous les fonds marins. Le projet illustre les ambitions euro…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1788794309000",
-      "title": "La région Île-de-France débloque 5 millions d’euros pour soutenir les agriculteurs",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/la-region-ile-de-france-debloque-5-millions-deuros-pour-soutenir-les-agriculteurs/",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Après un été marqué par plusieurs épisodes de canicule et de sécheresse, la région Île-de-France annonce un plan d’urgence de 5 millions d’euros pour soutenir les exploitations agricoles fragilisées. Présenté lundi 7 septembre par Valérie Pécresse, le dispositif doit également re…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
