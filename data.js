@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-11T18:18:14.930Z",
+  "generatedAt": "2026-09-11T22:22:16.682Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3734,7 +3734,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789104600000",
+      "id": "enerzine-rss-0-1789164600000",
+      "title": "Des scientifiques observent la gravité d’Einstein dans le monde quantique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-scientifiques-observent-la-gravite-deinstein-dans-le-monde-quantique/194086-2026-09",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Une équipe internationale incluant le professeur Sir Roger Penrose, physicien lauréat du prix Nobel, a observé pour la première fois un effet de la gravité prédit depuis longtemps sur un objet quantique en chute libre. Ce résultat montre qu’un principe fondamental au cœur de la t…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789104600000",
       "title": "Un nouveau centre de données IA à l’Institut de technologie de Karlsruhe (KIT)",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3760,7 +3784,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789103400000",
+      "id": "enerzine-rss-2-1789103400000",
       "title": "Auto-organisation thermique dans la commutation résistive volatile révélée par la RMN",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3784,7 +3808,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789099800000",
+      "id": "enerzine-rss-3-1789099800000",
       "title": "Une avancée en physique pourrait améliorer la mémoire et l’apprentissage de l’IA",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3810,7 +3834,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789096200000",
+      "id": "enerzine-rss-4-1789096200000",
       "title": "Un microscope électronique couplé à un ordinateur quantique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4331,7 +4355,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789150677000",
+      "id": "le-commerce-du-bois-sitemap-0-1789165317000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4357,7 +4381,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789150677000",
+      "id": "le-commerce-du-bois-sitemap-1-1789165317000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4383,7 +4407,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789150677000",
+      "id": "le-commerce-du-bois-sitemap-2-1789165317000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -6115,7 +6139,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789078200000",
+      "id": "enerzine-rss-5-1789078200000",
       "title": "Le Japon soutient Helical Fusion et le stellarator commercial",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6141,7 +6165,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789069500000",
+      "id": "enerzine-rss-6-1789069500000",
       "title": "Arianespace enchaîne les contrats : Amazon Leo commande six lancements Ariane 6 supplémentaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6165,7 +6189,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789062600000",
+      "id": "enerzine-rss-7-1789062600000",
       "title": "Diesel : pourquoi le gazole flambe et dépasse désormais l’essence",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6189,7 +6213,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789036800000",
+      "id": "enerzine-rss-8-1789036800000",
       "title": "Un cloporte vivant dans l’intestin : le cas médical qui a surpris les chirurgiens de Bologne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6214,7 +6238,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789018200000",
+      "id": "enerzine-rss-9-1789018200000",
       "title": "Une bactérie marine modifiée accélère la capture de CO2",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6235,31 +6259,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Des chercheurs du Wyss Institute de l’université Harvard ont modifié une bactérie marine pour accélérer la dissolution de l’olivine dans l’eau de mer, augmentant la capture de CO2 atmosphérique, selon une étude publiée vendredi dans Nature Biotechnology. Des chercheurs du Wyss In…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789017000000",
-      "title": "Les compagnies pétrolières accélèrent leurs investissements dans la fusion nucléaire",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/les-compagnies-petrolieres-accelerent-leurs-investissements-dans-la-fusion-nucleaire/193789-2026-09",
-      "image": null,
-      "date": "2026-09-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "Chevron, Shell, Eni et Cenovus financent des projets de fusion nucléaire dans le monde. Les fonds privés totaux ont atteint 4,48 milliards de dollars sur douze mois, un record, pour préparer une production d’électricité commerciale attendue dans les années 2030. Les plus grandes …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
