@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-10T22:22:59.613Z",
+  "generatedAt": "2026-09-11T03:48:49.071Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,159 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1789096200000",
+      "title": "Un microscope électronique couplé à un ordinateur quantique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-microscope-electronique-couple-a-un-ordinateur-quantique/194059-2026-09",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau",
+        "Bâtiment"
+      ],
+      "summary": "Des équipes autrichiennes de la TU Wien, des universités de Vienne, de Linz et d’Innsbruck ont mis au point une méthode associant un faisceau d’électrons à un ordinateur quantique. L’objectif : extraire davantage d’informations par électron et préserver les échantillons sensibles…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1789098512000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1789098512000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1789098512000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1789098423000",
+      "title": "Carte scolaire : le maire du Kremlin-Bicêtre réclame une commission de pré-rentrée",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/carte-scolaire-le-maire-du-kremlin-bicetre-reclame-une-commission-de-pre-rentree/",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Alors que deux fermetures de classes sont maintenues à la rentrée dans les écoles du Kremlin-Bicêtre (Val-de-Marne). Lionel Zinciroglu, élu maire le 28 mars, a saisi le ministre de l'Éducation nationale, des parlementaires ainsi que le président de l'Association des maires de Fra…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1789097870000",
+      "title": "Philippe Laurent affrontera David Lisnard pour la présidence de l’AMF",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/philippe-laurent-affrontera-david-lisnard-pour-la-presidence-de-lamf/",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau"
+      ],
+      "summary": "Le maire de Sceaux (Hauts-de-Seine), vice-président de l'Association des maires de France, a annoncé le 10 septembre sa candidature à la présidence de l'association. Il affrontera le président sortant, David Lisnard, par ailleurs candidat à l'élection présidentielle. Le maire de …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reseau-des-cerc-rss-0-1789050907000",
       "title": "Dernières tendances de conjoncture nationale et interrégionales de la filière Construction",
       "source": "Réseau des CERC",
@@ -2816,7 +2969,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreo-bretagne-sitemap-53-1789044467000",
+      "id": "oreo-bretagne-sitemap-53-1789044893000",
       "title": "animer reseau observatoires photographiques paysage bretagne",
       "source": "OREO Bretagne",
       "sourceId": "oreo-bretagne",
@@ -3698,7 +3851,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789078200000",
+      "id": "enerzine-rss-1-1789078200000",
       "title": "Le Japon soutient Helical Fusion et le stellarator commercial",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3724,7 +3877,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789069500000",
+      "id": "enerzine-rss-2-1789069500000",
       "title": "Arianespace enchaîne les contrats : Amazon Leo commande six lancements Ariane 6 supplémentaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3748,7 +3901,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789062600000",
+      "id": "enerzine-rss-3-1789062600000",
       "title": "Diesel : pourquoi le gazole flambe et dépasse désormais l’essence",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3772,7 +3925,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789036800000",
+      "id": "enerzine-rss-4-1789036800000",
       "title": "Un cloporte vivant dans l’intestin : le cas médical qui a surpris les chirurgiens de Bologne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3797,7 +3950,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789018200000",
+      "id": "enerzine-rss-5-1789018200000",
       "title": "Une bactérie marine modifiée accélère la capture de CO2",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3822,7 +3975,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789017000000",
+      "id": "enerzine-rss-6-1789017000000",
       "title": "Les compagnies pétrolières accélèrent leurs investissements dans la fusion nucléaire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3847,7 +4000,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789013400000",
+      "id": "enerzine-rss-7-1789013400000",
       "title": "IA et génomique accélèrent la sélection des tubercules",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3872,7 +4025,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789009800000",
+      "id": "enerzine-rss-8-1789009800000",
       "title": "ROC-E automatise 4 127 missions logistiques chez MECAPREC",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3897,7 +4050,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789006200000",
+      "id": "enerzine-rss-9-1789006200000",
       "title": "Maersk va installer une voile rotative sur un porte-conteneurs en 2027",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4221,85 +4374,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789078962000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1789078962000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1789078962000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1789074160000",
+      "id": "le-journal-du-grand-paris-rss-2-1789074160000",
       "title": "L’essentiel de la semaine du 7 septembre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4323,7 +4398,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1789054257000",
+      "id": "le-journal-du-grand-paris-rss-3-1789054257000",
       "title": "Île-de-France mobilités lance le premier projet francilien de transport collectif autonome",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6062,31 +6137,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1788991843000",
-      "title": "Dacia Spring : la citadine électrique low-cost change de camp et redevient européenne",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/dacia-spring-la-citadine-electrique-low-cost-change-de-camp-et-redevient-europeenne/194248-2026-09",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Dacia relance la Spring, l’une des citadines électriques les plus vendues d’Europe, avec une deuxième génération dévoilée début septembre 2026 et commercialisée à partir de 17 900 euros avant aides. La petite électrique ne sera plus assemblée en Chine mais à Novo Mesto, en Slovén…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "hellio-actualites-rss-0-1788965656000",
       "title": "Camion benne électrique prix : tarifs et comparatif I Hellio",
       "source": "Hellio Actualités",
@@ -6414,7 +6464,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1788971562000",
+      "id": "le-journal-du-grand-paris-rss-4-1788971562000",
       "title": "Implantation des data centers : une équation territoriale subtile à résoudre",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6440,7 +6490,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1788969636000",
+      "id": "le-journal-du-grand-paris-rss-5-1788969636000",
       "title": "Début timide du Jeanbrun, commercialisations en baisse : c’est la douche froide pour les promoteurs",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6465,7 +6515,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1788967133000",
+      "id": "le-journal-du-grand-paris-rss-6-1788967133000",
       "title": "Rio Tinto poursuit la réhabilitation de sa friche industrielle à Dammarie-les-Lys",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6490,7 +6540,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1788966467000",
+      "id": "le-journal-du-grand-paris-rss-7-1788966467000",
       "title": "Le Cercle (IMGP 1) et All Suites Paris 13 : inauguration Porte d’Italie de deux bâtiments signés Pichet",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6516,7 +6566,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1788958514000",
+      "id": "le-journal-du-grand-paris-rss-8-1788958514000",
       "title": "Valère Pelletier – La face immergée de la RATP",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8047,7 +8097,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1788872757000",
+      "id": "le-journal-du-grand-paris-rss-9-1788872757000",
       "title": "Romane Maréchaux succède à Jean Plateau à la direction du port de Gennevillliers",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8069,56 +8119,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Romane Maréchaux a été nommée à la direction du port de Gennevilliers. Elle succède à Jean Plateau, dont elle était l'adjointe depuis avril 2025 et qui rejoint quant à lui le ministère de la Transition écologique. Romane Maréchaux a été nommée à la direction du port de Gennevilli…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1788871144000",
-      "title": "Stéphane Troussel : « Le développement des data centers relève davantage du Far-west que de l’eldorado numérique »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/stephane-troussel-le-developpement-des-data-centers-releve-davantage-du-far-west-que-de-leldorado-numerique/",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Vingt-sept data centers quadrillent déjà la Seine-Saint-Denis. Stéphane Troussel, président du conseil départemental, demande une pause et une régulation par la puissance publique. Il détaille les nuisances documentées, l'enlisement de la proposition de loi et les outils qu'il ré…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1788852674000",
-      "title": "Portrait d’agence – Goudchaux Architecte et Associés : entre héritage et exploration du champ des possibles",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/portrait-dagence-goudchaux-architecte-et-associes-entre-heritage-et-exploration-du-champ-des-possibles/",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été"
-      ],
-      "summary": "Entre transmission familiale et renouvellement des pratiques, Goudchaux Architecte et Associés, créé il y a plus de 25 ans, revendique une architecture attentive aux usages, à la sobriété constructive et aux mutations de la ville. Avec l’arrivée de Colombe Goudchaux aux côtés de …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
