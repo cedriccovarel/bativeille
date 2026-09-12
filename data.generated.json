@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T09:07:37.064Z",
+  "generatedAt": "2026-09-12T13:28:24.824Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2263,7 +2263,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-0-1789189331000",
+      "id": "revolution-energetique-rss-0-1789217976000",
+      "title": "La capacité de stockage par batterie explose dans le monde, tirée par la Chine",
+      "source": "Révolution Énergétique",
+      "sourceId": "revolution-energetique",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.revolution-energetique.com/actus/la-capacite-de-stockage-par-batterie-explose-dans-le-monde-tiree-par-la-chine/",
+      "image": null,
+      "date": "2026-09-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "ENR",
+        "Stockage",
+        "Réseaux",
+        "Réglementation"
+      ],
+      "summary": "La transition énergétique est loin d’être un long fleuve tranquille. L’augmentation exponentielle des capacités de production d’énergie renouvelable crée de plus en plus de tensions […] L’article La capacité de stockage par batterie explose dans le monde, tirée par la Chine est a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "revolution-energetique-rss-1-1789189331000",
       "title": "Le prix de l’électricité a explosé au mois d’aout, mais les opérateurs de stockage se frottent les mains",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -2289,7 +2315,56 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789201551000",
+      "id": "enerzine-rss-0-1789216200000",
+      "title": "Revalorisation complémentaire : la hausse de novembre 2026 reste une promesse non votée",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/agirc-arrco-revalorisation-novembre-2026/194542-2026-09",
+      "image": null,
+      "date": "2026-09-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "Les retraités du privé attendent une revalorisation Agirc-Arrco au 1er novembre 2026, mais aucune décision n’a été prise à ce jour. Le conseil d’administration ne tranchera qu’à la mi-octobre, sur la base d’un point de retraite dont la valeur de 1.4386 est la même depuis le 1er n…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789208400000",
+      "title": "Pénurie d’essence : 21 % des stations à sec en SP95, le plein va t-il devenir un casse-tête ?",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/penurie-essence-stations-rupture-carburant/194533-2026-09",
+      "image": null,
+      "date": "2026-09-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Trouver du SP95 relève du parcours du combattant dans plusieurs régions françaises. Au 11 septembre 2026, 21 % des stations* en étaient dépourvues, contre seulement 2 % pour le gazole. Derrière ces ruptures en apparence massives, la France ne manque pas de carburant, elle encaiss…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1789201551000",
       "title": "Méningiomes et pilule au désogestrel : l’ANSM écrit directement à 1,6 million de femmes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2313,7 +2388,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789186200000",
+      "id": "enerzine-rss-3-1789186200000",
       "title": "Energy Vault finalise l’acquisition du site BESS Stoney Creek australien",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2338,7 +2413,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789182600000",
+      "id": "enerzine-rss-4-1789182600000",
       "title": "Des ingénieurs créent le premier titane flottant au monde",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2439,7 +2514,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789204041000",
+      "id": "le-commerce-du-bois-sitemap-0-1789219678000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2465,7 +2540,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789204041000",
+      "id": "le-commerce-du-bois-sitemap-1-1789219678000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2491,7 +2566,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789204041000",
+      "id": "le-commerce-du-bois-sitemap-2-1789219678000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4065,7 +4140,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-1-1789139222000",
+      "id": "revolution-energetique-rss-2-1789139222000",
       "title": "Éolien : vers une puissance installée record pour l’Europe en 2026 ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -4116,7 +4191,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789164600000",
+      "id": "enerzine-rss-5-1789164600000",
       "title": "Des scientifiques observent la gravité d’Einstein dans le monde quantique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4140,7 +4215,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789104600000",
+      "id": "enerzine-rss-6-1789104600000",
       "title": "Un nouveau centre de données IA à l’Institut de technologie de Karlsruhe (KIT)",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4166,7 +4241,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789103400000",
+      "id": "enerzine-rss-7-1789103400000",
       "title": "Auto-organisation thermique dans la commutation résistive volatile révélée par la RMN",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4190,7 +4265,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789099800000",
+      "id": "enerzine-rss-8-1789099800000",
       "title": "Une avancée en physique pourrait améliorer la mémoire et l’apprentissage de l’IA",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4216,7 +4291,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789096200000",
+      "id": "enerzine-rss-9-1789096200000",
       "title": "Un microscope électronique couplé à un ordinateur quantique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6417,7 +6492,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-2-1789052300000",
+      "id": "revolution-energetique-rss-3-1789052300000",
       "title": "Énergies renouvelables : les investissements stagnent depuis l’année dernière",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -6439,56 +6514,6 @@
         "Économie du bâtiment"
       ],
       "summary": "Depuis l’année 2024, qui avait explosé tous les compteurs, les investissements dans la production d’énergie renouvelable sont en chute libre. Cette baisse drastique s’explique notamment […] L’article Énergies renouvelables : les investissements stagnent depuis l’année dernière es…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1789078200000",
-      "title": "Le Japon soutient Helical Fusion et le stellarator commercial",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/le-japon-soutient-helical-fusion-et-le-stellarator-commercial/194046-2026-09",
-      "image": null,
-      "date": "2026-09-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été",
-        "Économie du bâtiment"
-      ],
-      "summary": "La société Helical Fusion a été retenue par le METI pour développer un stellarator hélicoïdal. Le programme japonais, doté de 60 milliards de yens sur trois ans jusqu’en 2028, vise une démonstration d’énergie de fusion dans les années 2030. Le ministère japonais de l’Économie, du…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789069500000",
-      "title": "Arianespace enchaîne les contrats : Amazon Leo commande six lancements Ariane 6 supplémentaires",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/ariane-6-amazon-leo-lancements-arianespace/194302-2026-09",
-      "image": null,
-      "date": "2026-09-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Alors que le sommet international de l’Espace à Paris bat son plein, Arianespace frappe fort. Amazon Leo (ex Kuiper) a confié six missions supplémentaires à la fusée Ariane 64, portant à 24 le total des lancements commandés par le géant américain. Dans le même temps, la plateform…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7979,7 +8004,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-3-1788940591000",
+      "id": "revolution-energetique-rss-4-1788940591000",
       "title": "Voici le premier train électrique français à batterie en service commercial",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -9415,7 +9440,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-4-1788877297000",
+      "id": "revolution-energetique-rss-5-1788877297000",
       "title": "Ce lac russe est le lieu le plus radioactif de la planète",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10249,7 +10274,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-5-1788768383000",
+      "id": "revolution-energetique-rss-6-1788768383000",
       "title": "La Norvège tient tête à l’UE en multipliant les explorations pétrolières dans l’Arctique",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10298,7 +10323,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-6-1788678075000",
+      "id": "revolution-energetique-rss-7-1788678075000",
       "title": "Voici le premier système houlomoteur certifié au monde",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10400,7 +10425,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-7-1788589652000",
+      "id": "revolution-energetique-rss-8-1788589652000",
       "title": "Ces moulins à eau fournissent de l’électricité moins chère à leur voisinage",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11124,7 +11149,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-8-1788512674000",
+      "id": "revolution-energetique-rss-9-1788512674000",
       "title": "Plus puissant, le chauffage solaire made in France de Solar Brother lancé dans une nouvelle version",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11496,7 +11521,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-9-1788431677000",
+      "id": "revolution-energetique-rss-10-1788431677000",
       "title": "Le parc éolien Dieppe-Le Tréport produit de l’électricité depuis déjà 2 mois",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11887,7 +11912,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-10-1788362279000",
+      "id": "revolution-energetique-rss-11-1788362279000",
       "title": "Nouveau DPE : 300 000 logements ne seront plus des passoires thermiques, mais ce n’est pas une bonne nouvelle",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11911,29 +11936,6 @@
       "summary": "En pleine électrification de la politique énergétique française, le DPE évolue encore pour favoriser l’électricité par rapport au gaz ou au fioul. Mais si c’est […] L’article Nouveau DPE : 300 000 logements ne seront plus des passoires thermiques, mais ce n’est pas une bonne nouv…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-318-1788220800000",
-      "title": "actu simple 31",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/actu-simple-31",
-      "image": null,
-      "date": "2026-09-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "urbalyon-rss-2-1788292821000",
@@ -12132,7 +12134,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-11-1788276361000",
+      "id": "revolution-energetique-rss-12-1788276361000",
       "title": "L’effacement de la consommation électrique est extrêmement coûteux selon la Cour des comptes",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12330,7 +12332,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-12-1788154060000",
+      "id": "revolution-energetique-rss-13-1788154060000",
       "title": "Malgré la guerre, la Russie veut installer 30 GW de nouvelles capacités nucléaires",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12382,7 +12384,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-13-1788073763000",
+      "id": "revolution-energetique-rss-14-1788073763000",
       "title": "Ce vieux réacteur nucléaire français a 40 ans pour être démantelé",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12408,7 +12410,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-14-1787986500000",
+      "id": "revolution-energetique-rss-15-1787986500000",
       "title": "Le plus petit pays du monde bientôt autonome en électricité grâce au solaire",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12630,7 +12632,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-15-1787897338000",
+      "id": "revolution-energetique-rss-16-1787897338000",
       "title": "Ce parc éolien flottant est devenu un véritable refuge pour la biodiversité",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12992,7 +12994,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-16-1787810272000",
+      "id": "revolution-energetique-rss-17-1787810272000",
       "title": "Le chantier des réacteurs nucléaires EPR2 de Gravelines peut enfin commencer",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13466,7 +13468,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-17-1787651966000",
+      "id": "revolution-energetique-rss-18-1787651966000",
       "title": "Extraire l’uranium de l’océan : bientôt une réalité à grande échelle ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13621,7 +13623,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-18-1787566416000",
+      "id": "revolution-energetique-rss-19-1787566416000",
       "title": "Le solaire génère 10 % de l’électricité mondiale, mais il y a un problème",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13697,7 +13699,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-19-1787468382000",
+      "id": "revolution-energetique-rss-20-1787468382000",
       "title": "Ce pays va ouvrir l’une des plus grandes mines d’uranium au monde et c’est une bonne nouvelle pour la France",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13723,7 +13725,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-20-1787379489000",
+      "id": "revolution-energetique-rss-21-1787379489000",
       "title": "Cette startup pose des panneaux solaires directement sur le sol, et ça marche !",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13844,7 +13846,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-21-1787306952000",
+      "id": "revolution-energetique-rss-22-1787306952000",
       "title": "Fou d’éoliennes, le Brésil conforte sa présence dans le Top 5 mondial avec un nouveau parc",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14068,7 +14070,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-22-1787203266000",
+      "id": "revolution-energetique-rss-23-1787203266000",
       "title": "L’Île de Sein se décarbone grâce à une seule éolienne de 250 kW",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14146,7 +14148,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-23-1787116953000",
+      "id": "revolution-energetique-rss-24-1787116953000",
       "title": "Tout juste lancée, voici la plus grande batterie d’Europe en 2026",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14399,7 +14401,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-24-1786958987000",
+      "id": "revolution-energetique-rss-25-1786958987000",
       "title": "L’Australie construit une raffinerie à terres rares pour concurrencer la Chine",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14477,7 +14479,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-25-1786905065000",
+      "id": "revolution-energetique-rss-26-1786905065000",
       "title": "La Hongrie coule deux péniches dans le Danube pour sauver sa centrale nucléaire",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14503,7 +14505,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-26-1786859115000",
+      "id": "revolution-energetique-rss-27-1786859115000",
       "title": "La Chine inaugure une usine géante de batteries longue durée",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14529,7 +14531,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-27-1786816590000",
+      "id": "revolution-energetique-rss-28-1786816590000",
       "title": "L’Espagne prolonge sa centrale nucléaire la plus puissante",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14554,7 +14556,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-28-1786786892000",
+      "id": "revolution-energetique-rss-29-1786786892000",
       "title": "Des chercheurs parviennent à recycler 100% de l’argent contenu dans les panneaux solaires",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14603,7 +14605,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-29-1786694651000",
+      "id": "revolution-energetique-rss-30-1786694651000",
       "title": "L’industrie éolienne européenne retrouve des couleurs",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14700,7 +14702,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-30-1786634997000",
+      "id": "revolution-energetique-rss-31-1786634997000",
       "title": "Sécheresse et méduses : la puissance nucléaire française réduite de 20%",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14726,7 +14728,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-31-1786606789000",
+      "id": "revolution-energetique-rss-32-1786606789000",
       "title": "L’opposition s’organise autour du parc éolien Bretagne Sud",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14827,7 +14829,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-32-1786519938000",
+      "id": "revolution-energetique-rss-33-1786519938000",
       "title": "L’aviation nucléaire a failli devenir une réalité dans les années 50",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14954,7 +14956,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-33-1786425905000",
+      "id": "revolution-energetique-rss-34-1786425905000",
       "title": "Amazon va construire la plus grande centrale gaz des USA",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15076,7 +15078,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-34-1786375535000",
+      "id": "revolution-energetique-rss-35-1786375535000",
       "title": "La Chine gaspille une grande partie de sa production d’électricité renouvelable",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15102,7 +15104,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-35-1786339382000",
+      "id": "revolution-energetique-rss-36-1786339382000",
       "title": "Tarifs dynamique et batterie solaire : une association qui va vous faire économiser 600€",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15127,7 +15129,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-36-1786259365000",
+      "id": "revolution-energetique-rss-37-1786259365000",
       "title": "Éclipse du 12 août : RTE se prépare à une baisse soudaine de la production photovoltaïque",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15152,7 +15154,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-37-1786204061000",
+      "id": "revolution-energetique-rss-38-1786204061000",
       "title": "Le gouvernement allemand souhaite freiner les renouvelables",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15177,7 +15179,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-38-1786167191000",
+      "id": "revolution-energetique-rss-39-1786167191000",
       "title": "L’État débourse 260 millions d’euros pour adapter les ports français aux éoliennes flottantes",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15249,7 +15251,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-39-1786117303000",
+      "id": "revolution-energetique-rss-40-1786117303000",
       "title": "Une électrification trop lente coûtera cher prévient RTE",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15275,7 +15277,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-40-1786080747000",
+      "id": "revolution-energetique-rss-41-1786080747000",
       "title": "La plus grande centrale solaire de France épargnée par les méga feux",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15424,7 +15426,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-41-1785993890000",
+      "id": "revolution-energetique-rss-42-1785993890000",
       "title": "Les niveaux historiquement bas du Danube mettent à mal la sécurité énergétique européenne",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15572,7 +15574,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-42-1785942576000",
+      "id": "revolution-energetique-rss-43-1785942576000",
       "title": "Comment décarboner efficacement les logements par l’électrification ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15598,7 +15600,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-43-1785906915000",
+      "id": "revolution-energetique-rss-44-1785906915000",
       "title": "Ces centrales nucléaires européennes flambant neuves n’ont jamais démarré",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15700,7 +15702,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-44-1785826962000",
+      "id": "revolution-energetique-rss-45-1785826962000",
       "title": "Solaire résidentiel : la France fait toujours moins bien que ses voisins européens",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15824,7 +15826,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-45-1785771188000",
+      "id": "revolution-energetique-rss-46-1785771188000",
       "title": "Les ENR totalisent 20 GW de puissance supplémentaire par rapport au nucléaire en 2025",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15849,7 +15851,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-46-1785741382000",
+      "id": "revolution-energetique-rss-47-1785741382000",
       "title": "Ce moteur de bateau est le premier à fonctionner entièrement à l’hydrogène",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16108,7 +16110,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-47-1785648484000",
+      "id": "revolution-energetique-rss-48-1785648484000",
       "title": "Hyper électrification de la France : ce député propose 29 solutions pour y parvenir",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16134,7 +16136,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-48-1785557737000",
+      "id": "revolution-energetique-rss-49-1785557737000",
       "title": "Ils augmentent : voici les nouveaux tarifs de l’électricité au 1er aout 2026",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16192,7 +16194,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -16256,32 +16258,6 @@
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "revolution-energetique-rss-49-1785509257000",
-      "title": "Ces trois projets d’hydrogène bas-carbone qui vont toucher 780 millions d’euros de l’État",
-      "source": "Révolution Énergétique",
-      "sourceId": "revolution-energetique",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.revolution-energetique.com/actus/ces-trois-projets-dhydrogene-bas-carbone-qui-vont-toucher-780-millions-deuros-de-letat/",
-      "image": null,
-      "date": "2026-07-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "ENR",
-        "Stockage",
-        "Réseaux",
-        "Réglementation"
-      ],
-      "summary": "Les trois projets HydroZère (Engie Solutions H2), eM-Rhône (Elyse Energy) et FertHySomme (FertigHy) percevront 778 millions d’euros pour concevoir leurs électrolyseurs et produire de l’hydrogène […] L’article Ces trois projets d’hydrogène bas-carbone qui vont toucher 780 millions…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "connaissance-des-energies-rss-13-1785456000000",
@@ -16412,7 +16388,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -16946,7 +16922,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
@@ -20168,29 +20144,6 @@
       "summary": "L’article Juillet 2026 est apparu en premier sur ADEME Infos. L’article Juillet 2026 est apparu en premier sur ADEME Infos . Juillet 2026",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
-      "title": "avancees ffb 2026",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "cerema-sitemap-806-1783067940000",
