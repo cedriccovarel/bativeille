@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-12T17:44:34.461Z",
+  "generatedAt": "2026-09-12T22:04:16.786Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2341,7 +2341,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789231800000",
+      "id": "enerzine-rss-0-1789242000000",
+      "title": "Dario Amodei veut ralentir l’IA : Anthropic peut-elle vraiment tenir ses garde-fous ?",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/dario-amodei-ralentir-ia-anthropic/194567-2026-09",
+      "image": null,
+      "date": "2026-09-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Ralentir pour ne pas perdre le contrôle. Dario Amodei, patron d’Anthropic, appelle les entreprises d’intelligence artificielle à freiner l’amélioration des capacités de leurs modèles le temps d’aligner, d’évaluer et de sécuriser des systèmes qu’il juge plus rapides que la capacit…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789231800000",
       "title": "Alpine A390 : 67 120 € après prime CEE, la sportive électrique reste hors de portée",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2366,7 +2390,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789227900000",
+      "id": "enerzine-rss-2-1789227900000",
       "title": "Micron Technology vise 50 milliards sur un trimestre, pendant que Taïwan menace d’un grève",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2390,7 +2414,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789216200000",
+      "id": "enerzine-rss-3-1789216200000",
       "title": "Revalorisation complémentaire : la hausse de novembre 2026 reste une promesse non votée",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2415,7 +2439,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789208400000",
+      "id": "enerzine-rss-4-1789208400000",
       "title": "Pénurie d’essence : 21 % des stations à sec en SP95, le plein va t-il devenir un casse-tête ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2439,7 +2463,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789201551000",
+      "id": "enerzine-rss-5-1789201551000",
       "title": "Méningiomes et pilule au désogestrel : l’ANSM écrit directement à 1,6 million de femmes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2463,7 +2487,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789186200000",
+      "id": "enerzine-rss-6-1789186200000",
       "title": "Energy Vault finalise l’acquisition du site BESS Stoney Creek australien",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2488,7 +2512,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789182600000",
+      "id": "enerzine-rss-7-1789182600000",
       "title": "Des ingénieurs créent le premier titane flottant au monde",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2589,7 +2613,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789235058000",
+      "id": "le-commerce-du-bois-sitemap-0-1789250624000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2615,7 +2639,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789235058000",
+      "id": "le-commerce-du-bois-sitemap-1-1789250624000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2641,7 +2665,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789235058000",
+      "id": "le-commerce-du-bois-sitemap-2-1789250624000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3461,56 +3485,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "techniques-de-lingenieur-actualites-sitemap-0-1789129440000",
-      "title": "actualite",
-      "source": "Techniques de l’Ingénieur Actualités",
-      "sourceId": "techniques-de-lingenieur-actualites",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.techniques-ingenieur.fr/actualite/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Technique",
-        "Énergie",
-        "Environnement",
-        "Innovation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "techniques-de-lingenieur-actualites-sitemap-22-1789127857000",
-      "title": "articles",
-      "source": "Techniques de l’Ingénieur Actualités",
-      "sourceId": "techniques-de-lingenieur-actualites",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.techniques-ingenieur.fr/actualite/articles/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Technique",
-        "Énergie",
-        "Environnement",
-        "Innovation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "novethic-rss-0-1789127126000",
       "title": "Comptabilité carbone : vers une norme unifiée entre l'ISO et le GHG Protocol",
       "source": "Novethic",
@@ -4266,7 +4240,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789164600000",
+      "id": "enerzine-rss-8-1789164600000",
       "title": "Des scientifiques observent la gravité d’Einstein dans le monde quantique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4290,7 +4264,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789104600000",
+      "id": "enerzine-rss-9-1789104600000",
       "title": "Un nouveau centre de données IA à l’Institut de technologie de Karlsruhe (KIT)",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4312,30 +4286,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "La recherche en médecine, l’approvisionnement énergétique respectueux de l’environnement et les applications modernes d’IA exigent une puissance de calcul considérable. Parallèlement, les exigences en matière d’exploitation économe en énergie des centres de données ne cessent d’a…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789103400000",
-      "title": "Auto-organisation thermique dans la commutation résistive volatile révélée par la RMN",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/auto-organisation-thermique-dans-la-commutation-resistive-volatile-revelee-par-la-rmn/194073-2026-09",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Les transitions métal-isolant (MIT), au cours desquelles un matériau passe d’un état métallique à faible résistivité à un état isolant sous l’effet d’un changement d’un paramètre externe, comme la température, la pression ou un champ électrique, constituent un sujet central de la…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9083,31 +9033,6 @@ window.BATIVEILLE_DATA = {
       "summary": "BSH août 2026",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "techniques-de-lingenieur-actualites-sitemap-21-1788860441000",
-      "title": "wp home",
-      "source": "Techniques de l’Ingénieur Actualités",
-      "sourceId": "techniques-de-lingenieur-actualites",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.techniques-ingenieur.fr/actualite/wp-home/",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Technique",
-        "Énergie",
-        "Environnement",
-        "Innovation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "novethic-rss-9-1788871507000",
@@ -16214,7 +16139,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -16408,7 +16333,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -16942,7 +16867,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
