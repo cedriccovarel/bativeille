@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:22:16.682Z",
+  "generatedAt": "2026-09-12T03:52:18.430Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,109 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1789182600000",
+      "title": "Des ingénieurs créent le premier titane flottant au monde",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-ingenieurs-creent-le-premier-titane-flottant-au-monde/194096-2026-09",
+      "image": null,
+      "date": "2026-09-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Des ingénieurs australiens ont créé un matériau en titane à la fois solide et léger qui flotte dans l’eau, même après des dommages sévères, révélant un nouveau matériau prometteur pour les infrastructures marines. Des recherches menées par l’Université RMIT montrent que ce treill…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1789185119000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1789185119000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1789185119000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1789128001000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -3734,7 +3837,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789164600000",
+      "id": "enerzine-rss-1-1789164600000",
       "title": "Des scientifiques observent la gravité d’Einstein dans le monde quantique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3758,7 +3861,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789104600000",
+      "id": "enerzine-rss-2-1789104600000",
       "title": "Un nouveau centre de données IA à l’Institut de technologie de Karlsruhe (KIT)",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3784,7 +3887,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789103400000",
+      "id": "enerzine-rss-3-1789103400000",
       "title": "Auto-organisation thermique dans la commutation résistive volatile révélée par la RMN",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3808,7 +3911,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789099800000",
+      "id": "enerzine-rss-4-1789099800000",
       "title": "Une avancée en physique pourrait améliorer la mémoire et l’apprentissage de l’IA",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3834,7 +3937,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789096200000",
+      "id": "enerzine-rss-5-1789096200000",
       "title": "Un microscope électronique couplé à un ordinateur quantique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4353,84 +4456,6 @@
       "summary": "La Commission de régulation de l'énergie annonce une hausse de 6,3% du prix repère du gaz au 1er octobre 2026, portant le PRVG à 182,88 €/MWh TTC. L’article Prix repère du gaz : la CRE annonce encore une très mauvaise nouvelle est apparu en premier sur L'EnerGeek. La Commission d…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1789165317000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1789165317000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1789165317000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1789115356000",
@@ -6139,7 +6164,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789078200000",
+      "id": "enerzine-rss-6-1789078200000",
       "title": "Le Japon soutient Helical Fusion et le stellarator commercial",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6165,7 +6190,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789069500000",
+      "id": "enerzine-rss-7-1789069500000",
       "title": "Arianespace enchaîne les contrats : Amazon Leo commande six lancements Ariane 6 supplémentaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6189,7 +6214,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789062600000",
+      "id": "enerzine-rss-8-1789062600000",
       "title": "Diesel : pourquoi le gazole flambe et dépasse désormais l’essence",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6213,7 +6238,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789036800000",
+      "id": "enerzine-rss-9-1789036800000",
       "title": "Un cloporte vivant dans l’intestin : le cas médical qui a surpris les chirurgiens de Bologne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6234,31 +6259,6 @@
         "Réglementation"
       ],
       "summary": "Une octogénaire admise pour une occlusion intestinale, une masse obstruante extraite au bloc opératoire, et soudain un petit être vivant qui en jaillit pour grimper sur les champs stériles. Une histoire ancienne rapportée dans la revue BMJ Case Reports par une équipe médicale de …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789018200000",
-      "title": "Une bactérie marine modifiée accélère la capture de CO2",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/une-bacterie-marine-modifiee-accelere-la-capture-de-co2/193786-2026-09",
-      "image": null,
-      "date": "2026-09-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Des chercheurs du Wyss Institute de l’université Harvard ont modifié une bactérie marine pour accélérer la dissolution de l’olivine dans l’eau de mer, augmentant la capture de CO2 atmosphérique, selon une étude publiée vendredi dans Nature Biotechnology. Des chercheurs du Wyss In…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11885,29 +11885,6 @@
       "summary": "En pleine électrification de la politique énergétique française, le DPE évolue encore pour favoriser l’électricité par rapport au gaz ou au fioul. Mais si c’est […] L’article Nouveau DPE : 300 000 logements ne seront plus des passoires thermiques, mais ce n’est pas une bonne nouv…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-318-1788220800000",
-      "title": "actu simple 31",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/actu-simple-31",
-      "image": null,
-      "date": "2026-09-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "urbalyon-rss-2-1788292821000",
@@ -20167,29 +20144,6 @@
       "summary": "L’article Juillet 2026 est apparu en premier sur ADEME Infos. L’article Juillet 2026 est apparu en premier sur ADEME Infos . Juillet 2026",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
-      "title": "avancees ffb 2026",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "cerema-sitemap-806-1783067940000",
