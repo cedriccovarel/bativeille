@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-13T10:06:19.226Z",
+  "generatedAt": "2026-09-13T18:01:57.784Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2264,7 +2264,105 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789293075000",
+      "id": "enerzine-rss-0-1789319400000",
+      "title": "Retraites : la fin de l’abattement fiscal de 10 % pour sauver l’indexation ?",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/suppression-abattement-fiscal-retraites/194645-2026-09",
+      "image": null,
+      "date": "2026-09-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Le couperet est tombé. Le ministre des comptes publics David Amiel entend conditionner toute indexation des retraites à la suppression partielle ou totale de l’abattement fiscal de 10 %. Pour les retraités, la promesse de maintenir leur pouvoir d’achat se transforme en une factur…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789315800000",
+      "title": "Dyson CameraJet à 479 € : cette brosse à dents voit tout, mais le prix fait mal",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/dyson-camerajet-brosse-dents-prix/194632-2026-09",
+      "image": null,
+      "date": "2026-09-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Dyson débarque dans la salle de bains avec une caméra macro et un jet interdentaire. Le brossage devient une expérience connectée facturée 479 euros. 📌 L’essentiel en 3 points La marque britannique, reine des aspirateurs et des soins capillaires, a profité d’une présentation à P…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1789311900000",
+      "title": "Sam Altman prêt à freiner l’IA : le virage d’OpenAI face au risque d’extinction",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/sam-altman-ralentir-ia-openai-virage/194623-2026-09",
+      "image": null,
+      "date": "2026-09-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Après des années de course effrénée, le patron d’OpenAI évoque ouvertement un ralentissement du développement de ses modèles d’IA. Sam Altman aurait ainsi répété en interne, début septembre, qu’OpenAI pouvait caler le rythme de développement de ses modèles frontière sur celui d’a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-3-1789308300000",
+      "title": "Revolut : un sésame bancaire aux États-Unis, une fuite de données qui inquiète",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/revolut-banque-americaine-fuite-donnees/194610-2026-09",
+      "image": null,
+      "date": "2026-09-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Le 12 septembre 2026, Revolut a confirmé une fuite de données clients sensibles. Quelques jours plus tôt, la fintech britannique décrochait l’approbation conditionnelle de l’OCC pour lancer une banque aux États-Unis en 2027. 📌 L’essentiel en 3 points Une expansion américaine qui…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-4-1789293075000",
       "title": "Apple entre dans l’ère du pliable, Samsung défend son avance sur le terrain du « passeport »",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2290,7 +2388,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789272600000",
+      "id": "enerzine-rss-5-1789272600000",
       "title": "Google investit 13 milliards d’euros en Finlande et mise sur le nucléaire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2314,7 +2412,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789269000000",
+      "id": "enerzine-rss-6-1789269000000",
       "title": "Furo lève 4 millions de dollars pour optimiser le pilotage des batteries",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2443,7 +2541,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789293951000",
+      "id": "le-commerce-du-bois-sitemap-0-1789322500000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2469,7 +2567,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789293951000",
+      "id": "le-commerce-du-bois-sitemap-1-1789322500000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2495,7 +2593,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789293951000",
+      "id": "le-commerce-du-bois-sitemap-2-1789322500000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2701,7 +2799,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789251000000",
+      "id": "enerzine-rss-7-1789251000000",
       "title": "Des coquilles d’œufs en aluminium contre les débris spatiaux",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2726,7 +2824,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789242000000",
+      "id": "enerzine-rss-8-1789242000000",
       "title": "Dario Amodei veut ralentir l’IA : Anthropic peut-elle vraiment tenir ses garde-fous ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2750,7 +2848,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789231800000",
+      "id": "enerzine-rss-9-1789231800000",
       "title": "Alpine A390 : 67 120 € après prime CEE, la sportive électrique reste hors de portée",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2771,103 +2869,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Une remise de 380 € sur une facture qui grimpe à 67 120 € , voilà l’un des nouveaux arguments commerciaux d’Alpine pour son A390. La sportive électrique gagne un coup de projecteur sur les aides publiques et la recharge, sans quitter la zone tarifaire qui la tient à distance de l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-6-1789227900000",
-      "title": "Micron Technology vise 50 milliards sur un trimestre, pendant que Taïwan menace d’un grève",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/micron-resultats-trimestre-greve-taiwan/194550-2026-09",
-      "image": null,
-      "date": "2026-09-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Le 30 septembre, le géant américain des semi-conducteurs Micron Technology dévoile ses comptes du quatrième trimestre fiscal 2026 avec un consensus qui tourne autour de 50 milliards de dollars de revenus. Sur les mêmes semaines, les salariés de ses sites taïwanais portent une rev…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-7-1789216200000",
-      "title": "Revalorisation complémentaire : la hausse de novembre 2026 reste une promesse non votée",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/agirc-arrco-revalorisation-novembre-2026/194542-2026-09",
-      "image": null,
-      "date": "2026-09-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "Les retraités du privé attendent une revalorisation Agirc-Arrco au 1er novembre 2026, mais aucune décision n’a été prise à ce jour. Le conseil d’administration ne tranchera qu’à la mi-octobre, sur la base d’un point de retraite dont la valeur de 1.4386 est la même depuis le 1er n…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1789208400000",
-      "title": "Pénurie d’essence : 21 % des stations à sec en SP95, le plein va t-il devenir un casse-tête ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/penurie-essence-stations-rupture-carburant/194533-2026-09",
-      "image": null,
-      "date": "2026-09-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Trouver du SP95 relève du parcours du combattant dans plusieurs régions françaises. Au 11 septembre 2026, 21 % des stations* en étaient dépourvues, contre seulement 2 % pour le gazole. Derrière ces ruptures en apparence massives, la France ne manque pas de carburant, elle encaiss…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789201551000",
-      "title": "Méningiomes et pilule au désogestrel : l’ANSM écrit directement à 1,6 million de femmes",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/meningiomes-pilule-desogestrel-ansm-16-million-femmes/194516-2026-09",
-      "image": null,
-      "date": "2026-09-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Une nouvelle activation de la pharmacovigilance française d’importance. Après l’étude Epi-Phare confirmant un risque rare de méningiome associé aux pilules microprogestatives au désogestrel 75 µg, l’Agence nationale de sécurité du médicament (ANSM) a adressé une lettre nominative…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -2970,6 +2971,31 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Réunis vendredi 11 septembre au conseil régional pour les Rencontres régionales du vélo, les acteurs du Vélo Île-de-France (VIF) ont distingué quatre collectivités pour leurs réalisations et leur engagement dans le déploiement du réseau cyclable régional. Réunis vendredi 11 septe…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1789196248000",
+      "title": "Ces collectivités franciliennes qui se mobilisent pour SOS Méditerranée",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/ces-collectivites-franciliennes-qui-se-mobilisent-pour-sos-mediterranee/",
+      "image": null,
+      "date": "2026-09-12",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau"
+      ],
+      "summary": "C’est un sujet des plus clivants. Une vingtaine de collectivités d’Île-de-France ont rejoint la Plateforme des collectivités solidaires de SOS Méditerranée, dont le navire Ocean Viking sillonne la mer pour sauver des naufragés en perdition. Les élus du département de la Seine-Sai…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5042,7 +5068,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1789115356000",
+      "id": "le-journal-du-grand-paris-rss-2-1789115356000",
       "title": "Les marchés du Grand Paris – 800 logements pour transformer les abords de la future gare de Créteil l’Échat",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5068,7 +5094,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1789100492000",
+      "id": "le-journal-du-grand-paris-rss-3-1789100492000",
       "title": "La chapelle de la Sorbonne franchit la première étape de sa restauration",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5093,7 +5119,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1789098423000",
+      "id": "le-journal-du-grand-paris-rss-4-1789098423000",
       "title": "Carte scolaire : le maire du Kremlin-Bicêtre réclame une commission de pré-rentrée",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5117,7 +5143,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1789097870000",
+      "id": "le-journal-du-grand-paris-rss-5-1789097870000",
       "title": "Philippe Laurent affrontera David Lisnard pour la présidence de l’AMF",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6847,7 +6873,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1789074160000",
+      "id": "le-journal-du-grand-paris-rss-6-1789074160000",
       "title": "L’essentiel de la semaine du 7 septembre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6871,7 +6897,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1789054257000",
+      "id": "le-journal-du-grand-paris-rss-7-1789054257000",
       "title": "Île-de-France mobilités lance le premier projet francilien de transport collectif autonome",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8314,7 +8340,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1788971562000",
+      "id": "le-journal-du-grand-paris-rss-8-1788971562000",
       "title": "Implantation des data centers : une équation territoriale subtile à résoudre",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8340,7 +8366,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1788969636000",
+      "id": "le-journal-du-grand-paris-rss-9-1788969636000",
       "title": "Début timide du Jeanbrun, commercialisations en baisse : c’est la douche froide pour les promoteurs",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8361,31 +8387,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Alors qu’ils espéraient enfin apercevoir le bout du tunnel à la faveur de promesses politiques et d’un timide frémissement de la demande, les promoteurs immobiliers déchantent. Les derniers chiffres publiés par la Fédération des promoteurs immobiliers (FPI) traduisent une rechute…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1788967133000",
-      "title": "Rio Tinto poursuit la réhabilitation de sa friche industrielle à Dammarie-les-Lys",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/rio-tinto-poursuit-la-rehabilitation-de-sa-friche-industrielle-a-dammarie-les-lys/",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Bâtiment"
-      ],
-      "summary": "À Dammarie-lès-Lys (Seine-et-Marne), Rio Tinto poursuit la réhabilitation du site industriel dans la quartier Saint-Louis. Une étape majeure vient d’être franchie avec l’évacuation des matériaux issus de l’ancienne activité industrielle. Le chantier doit permettre de rendre le fo…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
