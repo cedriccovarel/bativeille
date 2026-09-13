@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T18:01:57.784Z",
+  "generatedAt": "2026-09-13T22:15:47.276Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2264,7 +2264,57 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789319400000",
+      "id": "enerzine-rss-0-1789337400000",
+      "title": "ZincFive lance un système de gestion dédié à ses batteries nickel-zinc",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/zincfive-lance-un-systeme-de-gestion-dedie-a-ses-batteries-nickel-zinc/194356-2026-09",
+      "image": null,
+      "date": "2026-09-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "ZincFive annonce le lancement du ZincFive BMS, un système de gestion de batteries conçu pour sa chimie nickel-zinc et assemblé aux États-Unis. Livré en série avec les armoires BC Series, il vise à répondre aux besoins de surveillance, de cybersécurité et de gestion des impulsions…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789323000000",
+      "title": "Résolution de Navier-Stokes par l’IA : exploit historique ou précipitation dangereuse ?",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/ia-navier-stokes-alerte-math/194661-2026-09",
+      "image": null,
+      "date": "2026-09-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Réemploi"
+      ],
+      "summary": "En 88 heures, 10 000 agents IA auraient résolu un exemple de singularité des équations de Navier-Stokes 3D, un problème du millénaire. Pourtant, les mathématiciens de premier plan dénoncent une validation bâclée et un emballement médiatique dangereux. L’exploit technique : 88 heu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1789319400000",
       "title": "Retraites : la fin de l’abattement fiscal de 10 % pour sauver l’indexation ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2288,7 +2338,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789315800000",
+      "id": "enerzine-rss-3-1789315800000",
       "title": "Dyson CameraJet à 479 € : cette brosse à dents voit tout, mais le prix fait mal",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2312,7 +2362,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789311900000",
+      "id": "enerzine-rss-4-1789311900000",
       "title": "Sam Altman prêt à freiner l’IA : le virage d’OpenAI face au risque d’extinction",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2338,7 +2388,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789308300000",
+      "id": "enerzine-rss-5-1789308300000",
       "title": "Revolut : un sésame bancaire aux États-Unis, une fuite de données qui inquiète",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2362,7 +2412,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789293075000",
+      "id": "enerzine-rss-6-1789293075000",
       "title": "Apple entre dans l’ère du pliable, Samsung défend son avance sur le terrain du « passeport »",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2388,7 +2438,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789272600000",
+      "id": "enerzine-rss-7-1789279800000",
+      "title": "Lune : le modèle open source NASA-IBM promet des cartes du sol inédites",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/nasa-ibm-ia-lune-cartographie/194673-2026-09",
+      "image": null,
+      "date": "2026-09-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "La NASA et IBM viennent de publier un modèle d’IA spécialisé dans l’analyse du sol lunaire, entraîné sur les données du Lunar Reconnaissance Orbiter. Objectif : doper la cartographie des cratères, du régolithe et des dépôts de glace, alors que la présence humaine durable sur la L…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-8-1789272600000",
       "title": "Google investit 13 milliards d’euros en Finlande et mise sur le nucléaire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2412,7 +2486,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789269000000",
+      "id": "enerzine-rss-9-1789269000000",
       "title": "Furo lève 4 millions de dollars pour optimiser le pilotage des batteries",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2541,7 +2615,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789322500000",
+      "id": "le-commerce-du-bois-sitemap-0-1789337728000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2567,7 +2641,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789322500000",
+      "id": "le-commerce-du-bois-sitemap-1-1789337728000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2593,7 +2667,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789322500000",
+      "id": "le-commerce-du-bois-sitemap-2-1789337728000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2617,6 +2691,32 @@
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1789324341000",
+      "title": "Orange installe un pylône par hélicoptère pour déployer la 5G à Saint-Loup-de-Naud",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/orange-installe-un-pylone-par-helicoptere-pour-deployer-la-5g-a-saint-loup-de-naud/",
+      "image": null,
+      "date": "2026-09-13",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "Un hélicoptère a acheminé, jeudi 10 septembre, les cinq éléments d’un nouveau pylône à Saint-Loup-de-Naud. Cette opération exceptionnelle doit permettre à Orange d’améliorer la couverture 4G et de déployer la 5G dans ce secteur rural. Un hélicoptère a acheminé, jeudi 10 septembre…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "reporterre-rss-2-1789191000000",
@@ -2799,80 +2899,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789251000000",
-      "title": "Des coquilles d’œufs en aluminium contre les débris spatiaux",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-coquilles-doeufs-en-aluminium-contre-les-debris-spatiaux/194343-2026-09",
-      "image": null,
-      "date": "2026-09-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Une équipe de l’Université de technologie de Dalian montre que des coques d’aluminium en forme d’œufs, imprimées en 3D et remplies d’eau, réduisent de près de 65 % la vitesse d’un projectile. L’étude, parue dans le Journal of Applied Physics, vise la protection des engins spatiau…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1789242000000",
-      "title": "Dario Amodei veut ralentir l’IA : Anthropic peut-elle vraiment tenir ses garde-fous ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/dario-amodei-ralentir-ia-anthropic/194567-2026-09",
-      "image": null,
-      "date": "2026-09-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Ralentir pour ne pas perdre le contrôle. Dario Amodei, patron d’Anthropic, appelle les entreprises d’intelligence artificielle à freiner l’amélioration des capacités de leurs modèles le temps d’aligner, d’évaluer et de sécuriser des systèmes qu’il juge plus rapides que la capacit…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789231800000",
-      "title": "Alpine A390 : 67 120 € après prime CEE, la sportive électrique reste hors de portée",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/alpine-a390-prix-prime-cee/194548-2026-09",
-      "image": null,
-      "date": "2026-09-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Une remise de 380 € sur une facture qui grimpe à 67 120 € , voilà l’un des nouveaux arguments commerciaux d’Alpine pour son A390. La sportive électrique gagne un coup de projecteur sur les aides publiques et la recharge, sans quitter la zone tarifaire qui la tient à distance de l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "lenergeek-rss-4-1789194059000",
       "title": "Mettre une bouteille d’eau dans le réservoir des toilettes, à quoi ça sert et pourquoi c’est déjà une habitude dans plusieurs pays",
       "source": "L’ÉnerGeek",
@@ -2949,7 +2975,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1789197805000",
+      "id": "le-journal-du-grand-paris-rss-1-1789197805000",
       "title": "Le réseau vélo Île-de-France récompense quatre territoires pour leurs aménagements cyclables",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2975,7 +3001,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1789196248000",
+      "id": "le-journal-du-grand-paris-rss-2-1789196248000",
       "title": "Ces collectivités franciliennes qui se mobilisent pour SOS Méditerranée",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4262,7 +4288,7 @@
         "Financement",
         "Marché énergie"
       ],
-      "summary": "Les 100 territoires d’électrification, devenus 109, démarrent officiellement leur parcours. Le gouvernement a publié la cartographie des zones sélectionnées, consultable en bas de page, et va maintenant leur demander de détailler les axes de travail afin de pouvoir signer des feu…",
+      "summary": "Les 100 territoires d’électrification, devenus 109, démarrent officiellement leur parcours. Le gouvernement a publié la cartographie des zones sélectionnées, consultable en bas de page, et va maintenant L’article Electrification : le gouvernement prépare de nouvelles mesures, sél…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5068,7 +5094,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1789115356000",
+      "id": "le-journal-du-grand-paris-rss-3-1789115356000",
       "title": "Les marchés du Grand Paris – 800 logements pour transformer les abords de la future gare de Créteil l’Échat",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5094,7 +5120,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1789100492000",
+      "id": "le-journal-du-grand-paris-rss-4-1789100492000",
       "title": "La chapelle de la Sorbonne franchit la première étape de sa restauration",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5119,7 +5145,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1789098423000",
+      "id": "le-journal-du-grand-paris-rss-5-1789098423000",
       "title": "Carte scolaire : le maire du Kremlin-Bicêtre réclame une commission de pré-rentrée",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5143,7 +5169,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1789097870000",
+      "id": "le-journal-du-grand-paris-rss-6-1789097870000",
       "title": "Philippe Laurent affrontera David Lisnard pour la présidence de l’AMF",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6873,7 +6899,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1789074160000",
+      "id": "le-journal-du-grand-paris-rss-7-1789074160000",
       "title": "L’essentiel de la semaine du 7 septembre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6897,7 +6923,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1789054257000",
+      "id": "le-journal-du-grand-paris-rss-8-1789054257000",
       "title": "Île-de-France mobilités lance le premier projet francilien de transport collectif autonome",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8340,7 +8366,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1788971562000",
+      "id": "le-journal-du-grand-paris-rss-9-1788971562000",
       "title": "Implantation des data centers : une équation territoriale subtile à résoudre",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8362,31 +8388,6 @@
         "Eau"
       ],
       "summary": "La multiplication des projets de data centers place les collectivités face à un nouveau défi : accueillir les infrastructures nécessaires au développement de l’intelligence artificielle sans sacrifier le foncier, les ressources ni l’acceptabilité locale. Réunis le 2 septembre au …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1788969636000",
-      "title": "Début timide du Jeanbrun, commercialisations en baisse : c’est la douche froide pour les promoteurs",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/flop-du-dispositif-jeanbrun-commercialisations-et-reservations-en-baisse-cest-la-douche-froide-pour-les-promoteurs/",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Alors qu’ils espéraient enfin apercevoir le bout du tunnel à la faveur de promesses politiques et d’un timide frémissement de la demande, les promoteurs immobiliers déchantent. Les derniers chiffres publiés par la Fédération des promoteurs immobiliers (FPI) traduisent une rechute…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16219,7 +16220,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -16413,7 +16414,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -16947,7 +16948,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
