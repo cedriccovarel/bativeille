@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T19:47:50.976Z",
+  "generatedAt": "2026-09-14T23:02:29.217Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3187,30 +3187,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-0-1789376432000",
-      "title": "Fondation Croix Saint-Simon : 37 offres de reprise déposées, mais pas sur tout le périmètre",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/fondation-croix-saint-simon-37-offres-de-reprise-deposees-mais-pas-sur-tout-le-perimetre/",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "C’est un signal fort pour tout le secteur médico-social, mais aussi – et surtout – pour les 1800 professionnels des crèches et des EHPAD de la Fondation Croix Saint-Simon. À deux semaines de l’échéance cruciale du 29 septembre, qui verra le Tribunal des Activités Économiques exam…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-0-1789394400000",
       "title": "Arrestations, abattage d'arbres : l'État enclenche la marche forcée pour un centre où enfermer les exilés",
       "source": "Reporterre",
@@ -3439,134 +3415,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "greenunivers-rss-0-1789398839000",
-      "title": "Hy24 investit dans l’infrastructure hydrogène allemande",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/hy24-investit-dans-linfrastructure-hydrogene-allemande-433022/",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "« L’Allemagne se positionne au cœur du système hydrogène européen, notamment grâce à la loi d’accélération de l’hydrogène adoptée en février 2026 », observe le fonds d’investissement spécialiste de l’hydrogène Hy24. Cette loi prévoit outre-Rhin le L’article Hy24 investit dans l’i…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-1-1789398698000",
-      "title": "La recharge des flottes d’entreprises attise les convoitises",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/la-recharge-des-flottes-dentreprises-attise-les-convoitises-432992/",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie"
-      ],
-      "summary": "« La recharge à domicile est devenue le point de blocage numéro un des projets d’électrification de flottes », estime L’article La recharge des flottes d’entreprises attise les convoitises est apparu en premier sur GreenUnivers. « La recharge à domicile est devenue le point de bl…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-2-1789398369000",
-      "title": "« Il faut espérer un hiver doux, pluvieux et venteux » [Marchés]",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/la-fin-de-lannee-sannonce-tendue-pour-le-gaz-et-lelectricite-marches-433003/",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le marché de l’énergie se crispe sous l’effet des dernières secousses géopolitiques et monte à des niveaux inédits depuis 2022. Au Moyen-Orient, le passage des navires à travers le détroit d’Ormuz se fait toujours au compte-gouttes. Au Yémen, les Houtis accentuent la pression sur…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-3-1789398045000",
-      "title": "MCel Energy à l’achat dans le solaire en France",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/mcel-energy-a-lachat-dans-le-solaire-en-france-433018/",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Eau",
-        "Énergie"
-      ],
-      "summary": "« Dans la logistique, la demande pour recharger les camions électriques va faire exploser la consommation des entrepôts. Problème : nombre d’entre eux n’ont pas le raccordement au réseau qu’il faut », constate Maarten de Haas, cofondateur l’année dernière de MCel Energy. En insta…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-4-1789397901000",
-      "title": "La crise du gaz réduit l’impact budgétaire des renouvelables",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/la-crise-du-gaz-reduit-limpact-budgetaire-des-renouvelables-433027/",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Économie du bâtiment",
-        "Énergie"
-      ],
-      "summary": "Plus les prix de l’électricité sont élevés, moins les tarfis de vente garantis sur les installations d’énergies renouvelables, éolien, photovoltaïque et biogaz, ne coûte à la puissance publique. « L’État ajuste donc légitimement son L’article La crise du gaz réduit l’impact budgé…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "pv-magazine-france-rss-0-1789390800000",
       "title": "Le parking de la télécabine du Fierney solarisé en ombrières",
       "source": "PV Magazine France",
@@ -3722,7 +3570,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789414500000",
+      "id": "enerzine-rss-0-1789423800000",
+      "title": "ASML lance la construction d’un second campus industriel près d’Eindhoven",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/asml-lance-la-construction-dun-second-campus-industriel-pres-deindhoven/194380-2026-09",
+      "image": null,
+      "date": "2026-09-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "ASML, détenteur d’un quasi-monopole sur les machines de lithographie avançées, a lancé les travaux d’un campus de 350 000 m² près d’Eindhoven, convaincu que la demande de puces pour l’intelligence artificielle soutiendra sa croissance pendant de nombreuses années. La firme néerla…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789414500000",
       "title": "Lithium en Auvergne : un permis d’exploration de 442 km² accordé en Limagne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3747,7 +3621,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789391100000",
+      "id": "enerzine-rss-2-1789391100000",
       "title": "Gaz, 6 millions de ménages exposés à une hausse de 6,3 % dès le 1er octobre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3771,7 +3645,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789377000000",
+      "id": "enerzine-rss-3-1789377000000",
       "title": "Tesla Roadster 2, Tesla va enfin lever le voile après neuf ans d’attente",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3795,7 +3669,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789373100000",
+      "id": "enerzine-rss-4-1789373100000",
       "title": "Rafale F5 : nouveaux contrats et lancement en réalisation attendu fin 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3821,7 +3695,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789363800000",
+      "id": "enerzine-rss-5-1789363800000",
       "title": "Parkings solaires : un report d’échéance conditionné aux panneaux européens",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3847,7 +3721,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789362600000",
+      "id": "enerzine-rss-6-1789362600000",
       "title": "Octopus Energy France rachète les 20 000 contrats particuliers d’elmy",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3871,7 +3745,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789359000000",
+      "id": "enerzine-rss-7-1789359000000",
       "title": "SolarEdge fait fonctionner en charge sa conversion 800 VCC pour data centers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3897,7 +3771,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789355400000",
+      "id": "enerzine-rss-8-1789355400000",
       "title": "Hydrogène neutre : FAST publie son catalogue, MeerKAT capte le signal",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3921,7 +3795,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789351800000",
+      "id": "enerzine-rss-9-1789351800000",
       "title": "Des pales d’éoliennes transformées en skis et en fibres de verre, le vrai prix du recyclage",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4096,7 +3970,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789415251000",
+      "id": "le-commerce-du-bois-sitemap-0-1789426931000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4122,7 +3996,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789415251000",
+      "id": "le-commerce-du-bois-sitemap-1-1789426931000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4148,7 +4022,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789415251000",
+      "id": "le-commerce-du-bois-sitemap-2-1789426931000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4619,31 +4493,6 @@
     },
     {
       "id": "batiweb-rss-4-1789340700000",
-      "title": "Préparer l’automne : les solutions ARALTEC pour des systèmes d’évacuation des eaux pluviales durables et performants",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/solutions-araltec-evacuation-eaux-pluviales-durables-49139",
-      "image": "https://img.batiweb.com/repo-images/publi/49139/araltec-09-15-une.jpg",
-      "date": "2026-09-13",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "À l'approche de l'automne, les systèmes d’évacuation des eaux pluviales sont particulièrement sollicités. ARALTEC accompagne les professionnels du bâtiment avec une gamme complète de solutions pensées pour améliorer la performance, la durabilité des installations et limiter l’ent…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-5-1789340700000",
       "title": "Réhabilitation du Belvédère à Saint-Brieuc : un projet de sobriété carbone",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4665,6 +4514,31 @@
         "Confort d’été"
       ],
       "summary": "À Saint-Brieuc, le Belvédère renaît grâce au projet Renaissance du Groupe Commespace, avec les solutions de protection solaire DUCO pour un meilleur confort d’été. À Saint-Brieuc, le Belvédère renaît grâce au projet Renaissance du Groupe Commespace, avec les solutions de protecti…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-5-1789340700000",
+      "title": "Préparer l’automne : les solutions ARALTEC pour des systèmes d’évacuation des eaux pluviales durables et performants",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/solutions-araltec-evacuation-eaux-pluviales-durables-49139",
+      "image": "https://img.batiweb.com/repo-images/publi/49139/araltec-09-15-une.jpg",
+      "date": "2026-09-13",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Eau",
+        "Bâtiment"
+      ],
+      "summary": "À l'approche de l'automne, les systèmes d’évacuation des eaux pluviales sont particulièrement sollicités. ARALTEC accompagne les professionnels du bâtiment avec une gamme complète de solutions pensées pour améliorer la performance, la durabilité des installations et limiter l’ent…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4768,30 +4642,6 @@
         "Bâtiment"
       ],
       "summary": "En quelques années, le nucléaire a pris une part très importante dans les débats concernant la transition énergétique. Si cet engouement se traduit d’ores et […] L’article Les chantiers nucléaires se multiplient dans le monde, mais les mises en service sont extrêment lentes est a…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789338600000",
-      "title": "Lune : le modèle open source NASA-IBM promet des cartes du sol inédites",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/nasa-ibm-ia-lune-cartographie/194673-2026-09",
-      "image": null,
-      "date": "2026-09-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "La NASA et IBM viennent de publier un modèle d’IA spécialisé dans l’analyse du sol lunaire, entraîné sur les données du Lunar Reconnaissance Orbiter. Objectif : doper la cartographie des cratères, du régolithe et des dépôts de glace, alors que la présence humaine durable sur la L…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5624,54 +5474,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-1-1789117200000",
-      "title": "Fairtrade réforme son label Textile équitable : pragmatisme ou recul stratégique ?",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/fairtrade-reforme-son-label-textile-equitable-pragmatisme-ou-recul-strategique/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Depuis le 1er septembre 2026, le Standard Textile Fairtrade a changé de philosophie. Historiquement conçu pour couvrir les pratiques équitables et responsables de l’ensemble de la chaîne textile – de l’égrenage du coton jusqu’au produit fini en passant par la filature et le tissa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-2-1789110000000",
-      "title": "Cinq centres sociaux parisiens renforcent le pouvoir d’agir des habitants sur leur cadre de vie",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/cinq-centres-sociaux-parisiens-sallient-pour-renforcer-le-pouvoir-dagir-des-habitants-sur-leur-cadre-de-vie/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "L’environnement urbain ne cesse d’évoluer au gré de transformations, qui peuvent être subies par les habitants, notamment les plus vulnérables. Comment les conduire à comprendre, s’approprier et prendre part aux évolutions de leur cadre de vie ? Entre 2024 et 2025, cinq centres s…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-13-1789143704000",
       "title": "Le Secrétariat général à la planification écologique change de chef et d'organisation",
       "source": "Reporterre",
@@ -5919,131 +5721,6 @@
         "Bâtiment"
       ],
       "summary": "C’est un projet qui rappelle la très décriée A69 : en Haute-Savoie, la future autoroute du Chablais suscite la colère de riverain·es et militant·es écologistes. Alors que l’abattage d’arbres a débuté, Vert a rencontré celles et ceux qui tentent de stopper les travaux. C’est un pr…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-5-1789145993000",
-      "title": "Marine Le Pen et Bernard Fontana s’entretiennent sur le nucléaire tricolore",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/marine-le-pen-et-bernard-fontana-sentretiennent-sur-le-nucleaire-tricolore-432922/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie"
-      ],
-      "summary": "Exclusif — Bernard Fontana, PDG d’EDF, et Marine Le Pen, candidate RN à la présidentielle, se sont entretenus au siège d’EDF en début de semaine. L’occasion d’échanger sur « Marie Curie ». Non pas la physicienne, mais le programme énergétique du parti à la flamme. Ce n’est pas pa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-6-1789141232000",
-      "title": "Comment Valorem se prépare à 2027 et au-delà",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/comment-valorem-se-prepare-a-2027-et-au-dela-432760/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Énergie"
-      ],
-      "summary": "Entretien — En France, l’année qui vient est à fort risque politique pour l’électricité renouvelable. Avec 1,8 TWh généré l’année dernière, Valorem en est un producteur important. Comment se prépare-t-il ? Que prévoit ce spécialiste de l’éolien et du solaire pour les années suiva…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-7-1789141163000",
-      "title": "Electrification : le gouvernement prépare de nouvelles mesures, sélectionne 109 territoires tests",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/electrification-le-gouvernement-prepare-de-nouvelles-mesures-selectionne-109-territoires-tests-432838/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie"
-      ],
-      "summary": "Les 100 territoires d’électrification, devenus 109, démarrent officiellement leur parcours. Le gouvernement a publié la cartographie des zones sélectionnées, consultable en bas de page, et va maintenant L’article Electrification : le gouvernement prépare de nouvelles mesures, sél…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-8-1789140895000",
-      "title": "Où en est Le Bon Tuyau, défricheur de la géothermie en location ?",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/ou-en-est-le-bon-tuyau-defricheur-de-la-geothermie-en-location-432882/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Pourvoyeuse en abondance de chaleur et froid renouvelable, la géothermie présente un attrait indéniable sur le papier. Sur le terrain, c’est différent. L’investissement L’article Où en est Le Bon Tuyau, défricheur de la géothermie en location ? est apparu en premier sur GreenUniv…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-9-1789123964000",
-      "title": "Les documents de la semaine",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/les-documents-de-la-semaine-381215/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7528,30 +7205,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-3-1789023600000",
-      "title": "Mentorat : comment Twoo et Uxco aident les jeunes à trouver leur place dans le monde du travail",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/mentorat-comment-twoo-et-uxco-aident-les-jeunes-a-trouver-leur-place-dans-le-monde-du-travail/",
-      "image": null,
-      "date": "2026-09-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Isolement, précarité, décrochage : l’entrée dans la vie professionnelle est devenue, pour une partie de la jeunesse, une zone à risque plutôt qu’un rite de passage. Face à ce constat, une association et une entreprise privée ont choisi de répondre ensemble plutôt que séparément. …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-22-1789047000000",
       "title": "« Un passage en force » : la LGV Bordeaux-Toulouse ravive le cauchemar de l'A69",
       "source": "Reporterre",
@@ -8752,30 +8405,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-4-1788937200000",
-      "title": "Sport et handicap : le chiffre-choc de la valeur sociale ne suffit plus, il faut la démontrer",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/sport-et-handicap-le-chiffre-choc-de-la-valeur-sociale-ne-suffit-plus-il-faut-la-demontrer/",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "« Le taux de pratique sportive des personnes en situation de handicap est de 47 %, alors qu’il est de 80 % pour le reste de la population française ». Une inégalité qui dit tout de l’exclusion du champ sportif pour les personnes en situation de handicap. Une injustice, assurément…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-31-1788993000000",
       "title": "Les villes européennes sont les plus touchées par le réchauffement climatique",
       "source": "Reporterre",
@@ -9795,31 +9424,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "mediatico-rss-5-1788849900000",
-      "title": "ZEvent, le record : 33 millions d’euros levés pour les associations en un week-end",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/zevent-33-millions-deuros-la-fin-dun-format-qui-a-reecrit-les-regles-du-don/",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation"
-      ],
-      "summary": "Le compteur du ZEvent a définitivement cessé de tourner dimanche soir, c’était écrit. Mais l’événement a tiré sa révérence sur une apothéose. Quel exploit, en effet, que cette ultime édition de jeux vidéo en streaming, qui nous embarquait une nouvelle fois sur la voie d’un événem…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-39-1788885897000",
       "title": "« Un système industriel » : pour ses chasses interdites, Olivier Bouygues risque 5 ans de prison avec sursis",
       "source": "Reporterre",
@@ -10578,32 +10182,6 @@
         "Bâtiment"
       ],
       "summary": "candidatez en quelques clics Candidatez à la prochaine revue de projet rev 3 bâtiment durable… L’article Candidatez à la 4éme revue de projet rev3 est apparu en premier sur CD2E. candidatez en quelques clics Candidatez à la prochaine revue de projet rev 3 bâtiment durable&#8230; …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-6-1788777897000",
-      "title": "K-BOSSÉS : des ordinateurs professionnels reconditionnés, à partir de 140€ pour la rentrée",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/k-bosses-des-ordinateurs-professionnels-reconditionnes-a-partir-de-140e-pour-la-rentree/",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Après le retour des légumes moches imposé par un été caniculaire, voici la rentrée des ordinateurs K-BOSSÉS ! Lancée en février 2026 avec succès – 150 exemplaires vendus en quelques semaines – la gamme d’ordinateurs K-BOSSÉS reconditionnés par les Ateliers du Bocage aborde donc s…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11406,31 +10984,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-7-1788505230000",
-      "title": "Première ressourcerie culturelle de France, La Réserve des Arts placée en liquidation judiciaire",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/premiere-ressourcerie-culturelle-de-france-la-reserve-des-arts-placee-en-liquidation-judiciaire/",
-      "image": null,
-      "date": "2026-09-04",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "RE2020"
-      ],
-      "summary": "Tristesse. Après dix-sept ans d’existence, La Réserve des Arts a fermé ses portes définitivement le 1er septembre. Le Tribunal des activités économiques a prononcé la liquidation judiciaire de l’association le 12 août dernier, mettant fin à l’aventure de la première ressourcerie …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-12-1788512674000",
       "title": "Plus puissant, le chauffage solaire made in France de Solar Brother lancé dans une nouvelle version",
       "source": "Révolution Énergétique",
@@ -11748,57 +11301,6 @@
         "Réglementation"
       ],
       "summary": "ABB Robotics annonce une collaboration mondiale avec Roche Diagnostics visant à développer et à commercialiser de nouvelles solutions robotiques destinées aux laboratoires cliniques. Cette coopération pose les bases d’une nouvelle génération de laboratoires connectés, plus flexib…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-8-1788431434000",
-      "title": "Le Shakirail, un lieu qui encourage l’initiative citoyenne et développe le pouvoir d’agir",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/le-shakirail-un-lieu-qui-encourage-linitiative-citoyenne-et-developpe-le-pouvoir-dagir/",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Bâtiment"
-      ],
-      "summary": "Depuis 2011, un ancien équipement SNCF aux portes de Paris accueille des artistes émergents et précaires, dans le quartier Marx Dormoy-La Chapelle.Reconnu de longue date pour son action culturelle « hors les murs » auprès des habitants du quartier, dont ceux vivant au sein de log…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-9-1788418842000",
-      "title": "Économie sociale et solidaire : l’été qui révèle l’incohérence de la stratégie nationale",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/economie-sociale-et-solidaire-lete-a-revele-lincoherence-de-la-strategie-nationale/",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Confort d’été",
-        "Économie du bâtiment"
-      ],
-      "summary": "La stratégie nationale de l’économie sociale et solidaire vient à peine d’être adoptée que les derniers choix budgétaires du gouvernement racontent une autre histoire. PTCE, tiers-lieux, Territoires zéro chômeur longue durée : l’État affiche toujours son soutien aux dynamiques te…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
