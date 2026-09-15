@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:48:57.190Z",
+  "generatedAt": "2026-09-15T22:48:27.286Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2763,7 +2763,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -3949,7 +3949,81 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789479900000",
+      "id": "enerzine-rss-0-1789510200000",
+      "title": "Quantique : la chaleur circule à contre-courant sans violer la thermodynamique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/quantique-la-chaleur-circule-a-contre-courant-sans-violer-la-thermodynamique/194400-2026-09",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Des physiciens de l’Université de Hong Kong et de l’Université normale de Qufu ont réalisé en laboratoire une simulation photonique d’un flux de chaleur allant du froid vers le chaud, grâce à un ordre causal indéfini entre deux processus. Leurs travaux démontrent un fonctionnemen…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789509155000",
+      "title": "Avion spatial Vortex, le pari français pour envoyer des astronautes sans capsule",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/avion-spatial-vortex-pari-francais-astronautes-capsule/194834-2026-09",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020"
+      ],
+      "summary": "La France a annoncé son soutien au projet VORTEX-S développé par Dassault Aviation et l’allemand OHB. Le programme s’inscrit dans l’ambition de renforcer les capacités européennes de transport spatial, avec un concept d’avion spatial réutilisable capable, selon sa feuille de rout…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1789505400000",
+      "title": "iOS 27 : votre iPhone aura-t-il accès à Apple Intelligence et Siri AI ?",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/ios-27-iphone-compatibles-apple-intelligence-siri-ai/194823-2026-09",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Sortie le 14 septembre 2026, la mise à jour iOS 27 annonce une refonte majeure centrée sur Siri AI et Apple Intelligence. Mais si votre iPhone 11 peut techniquement l’installer, il restera à la porte des fonctions les plus avancées, réservées aux modèles les plus récents. 📌 L’es…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-3-1789479900000",
       "title": "Test de vue sur smartphone : utile pour l’acuité, insuffisant pour dépister toutes les maladies des yeux",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3974,7 +4048,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789470300000",
+      "id": "enerzine-rss-4-1789470300000",
       "title": "Vega-C propulse deux sentinelles climatiques au cœur des défis européens",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4000,7 +4074,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789464039000",
+      "id": "enerzine-rss-5-1789464039000",
       "title": "Thermal Master P3, une caméra thermique mobile à utiliser avec discernement",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4024,7 +4098,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789449000000",
+      "id": "enerzine-rss-6-1789449000000",
       "title": "PNT et navigation résiliente : le socle invisible des mobilités modernes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4049,7 +4123,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789445400000",
+      "id": "enerzine-rss-7-1789445400000",
       "title": "Batteries solides : ProLogium mise tout sur sa gigafactory de Dunkerque",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4075,7 +4149,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789441800000",
+      "id": "enerzine-rss-8-1789441800000",
       "title": "XPeng lance la première ligne de production automatisée de robots humanoïdes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4100,7 +4174,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789438200000",
+      "id": "enerzine-rss-9-1789438200000",
       "title": "L’IA prélève moins d’eau sur site, mais les data centers font grimper la facture énergétique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4125,32 +4199,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789434600000",
-      "title": "Distributeurs de billets : le grand basculement vers des automates mutualisés ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
+      "id": "lenergeek-rss-0-1789496395000",
+      "title": "Attaques de drones : l’Europe privée de pétrole saoudien",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
       "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://www.enerzine.com/distributeurs-billets-cash-services-retrait-especes/194753-2026-09",
-      "image": null,
+      "url": "https://lenergeek.com/2026/09/15/crise-petrole-attaques-drones-europe-privee-saoudien/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/09/714ed65e-crise-petrole-attaques-drones-europe-privee-saoudien-scaled.jpg",
       "date": "2026-09-15",
       "access": "Gratuit",
       "official": false,
       "highImpact": false,
-      "impactScore": 88,
+      "impactScore": 80,
       "tags": [
         "Presse professionnelle",
         "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
+        "Politiques publiques",
+        "ENR"
       ],
-      "summary": "Le réseau français de distributeurs de billets continue de se réduire, tandis que les banques accélèrent la mutualisation de leurs automates. Cette transformation ne signifie pas, à ce stade, la disparition de l’accès aux espèces, mais elle modifie les lieux et les conditions d’a…",
+      "summary": "L'Arabie saoudite a réduit ses expéditions de pétrole vers l'Europe après que des attaques de drones ont endommagé son principal oléoduc d'exportation vers la mer Rouge. La crise pétrole qui en découle pousse les prix des cargaisons au-delà de 120 dollars le baril et contraint le…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1789472621000",
+      "id": "lenergeek-rss-1-1789472621000",
       "title": "Carburant : face à la hausse des prix, la raffinerie de Fos-sur-Mer bloquée",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4174,7 +4247,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1789466245000",
+      "id": "lenergeek-rss-2-1789466245000",
       "title": "Grève du 15 septembre : les salariés de l’énergie défendent le tarif préférentiel",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4199,7 +4272,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1789464354000",
+      "id": "lenergeek-rss-3-1789464354000",
       "title": "TotalEnergies mise sur l’IA agentique de Mistral pour optimiser ses gisements",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4224,7 +4297,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1789453250000",
+      "id": "lenergeek-rss-4-1789453250000",
       "title": "En 2021, la Chine a fabriqué sa première route en plastique avec 6 000 bouteilles de lait, convertissant des déchets plastiques difficiles à recycler en matériau utilisé pour le pavage",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4249,7 +4322,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1789451419000",
+      "id": "lenergeek-rss-5-1789451419000",
       "title": "Ni le réfrigérateur ni la climatisation : l’appareil qui consomme le plus chez vous surprend même les électriciens",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4273,7 +4346,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1789449623000",
+      "id": "lenergeek-rss-6-1789449623000",
       "title": "En 1983, Atari a enfoui des camions remplis de jeux vidéo non vendus dans une décharge du Nouveau-Mexique, et lors de l’excavation en 2014, environ 1 300 cartouches ont été retrouvées, certaines valant ensuite plusieurs centaines voire milliers de dollars",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4299,7 +4372,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789498113000",
+      "id": "le-commerce-du-bois-sitemap-0-1789512487000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4325,7 +4398,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789498113000",
+      "id": "le-commerce-du-bois-sitemap-1-1789512487000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4351,7 +4424,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789498113000",
+      "id": "le-commerce-du-bois-sitemap-2-1789512487000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4377,7 +4450,33 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1789481644000",
+      "id": "le-journal-du-grand-paris-rss-0-1789509698000",
+      "title": "Face au péril climatique et aux « lubies de l’extrême droite », la charge du mouvement HLM",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/face-au-peril-climatique-et-aux-lubies-de-lextreme-droite-la-charge-du-mouvement-hlm/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Tandis que la crise atteint un nouveau point de tension en Île-de-France, l’Union sociale pour l’habitat réclame des moyens pour préserver le parc social et l’adapter au climat, avec 8,6 milliards d’euros d’investissements estimés sur l'ensemble du territoire français. À l’approc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1789481644000",
       "title": "Face à la crise persistante de l’immobilier, le Mipim contraint (aussi) de s’adapter",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4401,7 +4500,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1789477986000",
+      "id": "le-journal-du-grand-paris-rss-2-1789477986000",
       "title": "Portrait d’agence – Anyoji Beltrando, l’architecture de la transformation",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4427,7 +4526,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1789477605000",
+      "id": "le-journal-du-grand-paris-rss-3-1789477605000",
       "title": "Le groupe « Communistes, citoyen.nes et écologistes » lance un nouvel appel à mobilisation sur le logement",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4452,7 +4551,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1789469149000",
+      "id": "le-journal-du-grand-paris-rss-4-1789469149000",
       "title": "Paris Reille : in’li engage la transformation d’un ancien couvent en 107 logements",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4477,7 +4576,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1789468978000",
+      "id": "le-journal-du-grand-paris-rss-5-1789468978000",
       "title": "Frédéric Mira nommé directeur général adjoint d’Immobilière 3F",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4503,7 +4602,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1789467036000",
+      "id": "le-journal-du-grand-paris-rss-6-1789467036000",
       "title": "Proudreed inaugure son premier parc d’activités à étage à Bobigny",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4528,7 +4627,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1789465663000",
+      "id": "le-journal-du-grand-paris-rss-7-1789465663000",
       "title": "À Bezons, Foncière logement lance la transformation d’un îlot d’habitat dégradé",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4553,7 +4652,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1789435782000",
+      "id": "le-journal-du-grand-paris-rss-8-1789435782000",
       "title": "Mathieu Lefèvre fait l’éloge de la géothermie à Fontenay-sous-Bois",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5992,7 +6091,7 @@
         "Économie du bâtiment",
         "Énergie"
       ],
-      "summary": "Plus les prix de l’électricité sont élevés, moins les tarfis de vente garantis sur les installations d’énergies renouvelables, éolien, photovoltaïque et biogaz, ne coûte à la puissance publique. « L’État ajuste donc légitimement son L’article La crise du gaz réduit l’impact budgé…",
+      "summary": "Plus les prix de l’électricité sont élevés, moins les tarifs de vente garantis sur les installations d’énergies renouvelables, éolien, photovoltaïque et biogaz, ne coûtent à la puissance publique. « L’État ajuste donc légitimement son L’article La crise du gaz réduit l’impact bud…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6126,58 +6225,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789423800000",
-      "title": "ASML lance la construction d’un second campus industriel près d’Eindhoven",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/asml-lance-la-construction-dun-second-campus-industriel-pres-deindhoven/194380-2026-09",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "ASML, détenteur d’un quasi-monopole sur les machines de lithographie avançées, a lancé les travaux d’un campus de 350 000 m² près d’Eindhoven, convaincu que la demande de puces pour l’intelligence artificielle soutiendra sa croissance pendant de nombreuses années. La firme néerla…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789414500000",
-      "title": "Lithium en Auvergne : un permis d’exploration de 442 km² accordé en Limagne",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/lithium-auvergne-permis-recherche-bassin-limagne-2gre-arverne/194759-2026-09",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Le bassin de Limagne fait l’objet d’un permis exclusif de recherches de mines de lithium couvrant 442,68 km² dans le Puy-de-Dôme. Le titre ouvre une phase d’exploration mais il ne vaut ni autorisation d’extraction, ni autorisation de construire une mine. 📌 L’essentiel en 3 point…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-6-1789393519000",
+      "id": "lenergeek-rss-7-1789393519000",
       "title": "iOS 27 : l’impact des nouveautés IA sur l’autonomie de votre iPhone",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6203,7 +6251,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1789392410000",
+      "id": "lenergeek-rss-8-1789392410000",
       "title": "Énergie : fin du tarif préférentiel pour les électriciens et les gaziers",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6228,7 +6276,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1789376462000",
+      "id": "lenergeek-rss-9-1789376462000",
       "title": "Japon : deux japonais forcés de démissionner après avoir trafiqué des données sismiques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6252,7 +6300,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1789366850000",
+      "id": "lenergeek-rss-10-1789366850000",
       "title": "Ce porte-avions unique intégrera une énergie révolutionnaire : une innovation de TechnicAtome",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6277,7 +6325,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1789365027000",
+      "id": "lenergeek-rss-11-1789365027000",
       "title": "Cette famille a planté 840 000 arbres sur un ancien pâturage : 25 ans plus tard, un animal qu’on croyait disparu depuis un siècle est réapparu",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6301,7 +6349,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1789363238000",
+      "id": "lenergeek-rss-12-1789363238000",
       "title": "Voici la température idéale à programmer pour faire des économies sur votre facture d’énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6327,7 +6375,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1789404155000",
+      "id": "le-journal-du-grand-paris-rss-9-1789404155000",
       "title": "À Ivry-sur-Seine, SNCF immobilier déploie la solution Toits temporaires urbains",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6349,30 +6397,6 @@
         "Eau"
       ],
       "summary": "À partir de novembre, une trentaine d'agents de SNCF réseau travaillant à l'entretien des voies à Ivry-sur-Seine (Val-de-Marne) seront accueillis dans un bâtiment temporaire construit avec des modules de la solution de Toits temporaires urbains. À partir de novembre, une trentain…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1789397405000",
-      "title": "Alexandre Frémiot quitte Plaine Commune pour la direction générale adjointe du Siaap",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/alexandre-fremiot-quitte-plaine-commune-pour-la-direction-generale-adjointe-du-siaap/",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Directeur général des services de Plaine Commune depuis novembre 2020, Alexandre Frémiot est nommé directeur général adjoint du Syndicat interdépartemental pour l’assainissement de l’agglomération parisienne. Directeur général des services de Plaine Commune depuis novembre 2020, …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6725,7 +6749,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1789290060000",
+      "id": "lenergeek-rss-13-1789290060000",
       "title": "Voitures électriques : une consommation réelle de 16,5 à 21 kWh/100km sur longs trajets",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6751,7 +6775,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1789280439000",
+      "id": "lenergeek-rss-14-1789280439000",
       "title": "Ni construction sèche ni brique, la technologie innovante pour bâtir une maison de 120 m2 en 48 heures",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6777,7 +6801,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1789278650000",
+      "id": "lenergeek-rss-15-1789278650000",
       "title": "Une ville complète viendra de Chine pour s’installer dans la cordillère argentine, accueillant 5 000 travailleurs d’un mégaprojet minier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6803,7 +6827,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1789276828000",
+      "id": "lenergeek-rss-16-1789276828000",
       "title": "Des bouteilles en plastique recyclé attachées aux filets de pêche, les dauphins les repèrent et 88 % des captures accidentelles s’annulent",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7008,7 +7032,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1789194059000",
+      "id": "lenergeek-rss-17-1789194059000",
       "title": "Mettre une bouteille d’eau dans le réservoir des toilettes, à quoi ça sert et pourquoi c’est déjà une habitude dans plusieurs pays",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7034,7 +7058,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1789192222000",
+      "id": "lenergeek-rss-18-1789192222000",
       "title": "Chauffage : une étude scientifique allemande confirme que ce système de chauffage est le plus économique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7058,7 +7082,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1789190418000",
+      "id": "lenergeek-rss-19-1789190418000",
       "title": "Philadelphie a placé des toits blancs sur environ 340 maisons de seniors à faible revenu entre 2001 et 2003, les températures intérieures ont diminué et la consommation électrique a baissé de 560 kWh par an",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8027,7 +8051,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "lenergeek-rss-19-1789133892000",
+      "id": "lenergeek-rss-20-1789133892000",
       "title": "Bolloré arrête la production de bus électriques Bluebus",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8052,7 +8076,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1789132991000",
+      "id": "lenergeek-rss-21-1789132991000",
       "title": "Nucléaire : une aide substantielle pour relancer une centrale alimentant les datas centers de Google",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8076,7 +8100,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1789132480000",
+      "id": "lenergeek-rss-22-1789132480000",
       "title": "Recharge résidentielle : Logivolt lève 300 millions pour déployer 1,7 million de bornes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8102,7 +8126,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1789130639000",
+      "id": "lenergeek-rss-23-1789130639000",
       "title": "Alstom déploie sa plateforme Adessia au Royaume-Uni avec 29 trains électriques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8124,30 +8148,6 @@
         "Eau"
       ],
       "summary": "Alstom signe ce 11 septembre 2026 un contrat de 1,2 milliard d'euros avec TransPennine Express pour 29 trains électriques à batterie Adessia Stream, livrés à partir de 2032. Le projet inclut la première infrastructure de recharge ferroviaire du Royaume-Uni, avec trois stations à …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1789127100000",
-      "title": "Changement d’heure : pourquoi 440 GWh économisés ne suffisent plus",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/09/11/changement-dheure-pourquoi-440-gwh/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/09/shutterstock_2598003457.jpg",
-      "date": "2026-09-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Le changement d'heure du 25 octobre 2026 repose sur une logique énergétique vieille de 50 ans : synchroniser les activités humaines avec l'ensoleillement pour économiser 440 GWh annuels. Mais face aux smart grids, aux énergies renouvelables et à la généralisation des LED, ce disp…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16620,7 +16620,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -16791,7 +16791,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -17325,7 +17325,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
