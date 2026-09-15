@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-15T04:07:04.361Z",
+  "generatedAt": "2026-09-15T09:52:19.630Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,7 +2161,734 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
-      "id": "reporterre-rss-0-1789444800000",
+      "id": "sdes-donnees-et-etudes-statistiques-rss-0-1789459201000",
+      "title": "Avis de parution",
+      "source": "SDES — Données et études statistiques",
+      "sourceId": "sdes-donnees-et-etudes-statistiques",
+      "sourceType": "Statistiques publiques",
+      "region": "National",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1929384",
+      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2023-03/theme-transport_0_1.png",
+      "date": "2026-09-15",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Données",
+        "Construction",
+        "Logement",
+        "Énergie"
+      ],
+      "summary": "Avis de parution Transports Indices des prix du transport de fret et de l'entreposage au deuxième trimestre 2026 Statinfo Au deuxième trimestre 2026, les prix du fret augmentent dans le transport maritime (+ 13,9 %), le transport routier (+ 4,2 %) et l’entreposage (+ 0,9 %). À l’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "sdes-donnees-et-etudes-statistiques-rss-1-1789459200000",
+      "title": "Avis de parution",
+      "source": "SDES — Données et études statistiques",
+      "sourceId": "sdes-donnees-et-etudes-statistiques",
+      "sourceType": "Statistiques publiques",
+      "region": "National",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1929407",
+      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2023-03/theme-transport_0_1.png",
+      "date": "2026-09-15",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Données",
+        "Construction",
+        "Logement",
+        "Énergie"
+      ],
+      "summary": "Avis de parution Transports Indices des prix du transport de fret et de l'entreposage au deuxième trimestre 2026 Statinfo Au deuxième trimestre 2026, les prix du fret augmentent dans le transport maritime (+ 13,9 %), le transport routier (+ 4,2 %) et l’entreposage (+ 0,9 %). À l’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "sdes-donnees-et-etudes-statistiques-rss-2-1789459200000",
+      "title": "Avis de parution",
+      "source": "SDES — Données et études statistiques",
+      "sourceId": "sdes-donnees-et-etudes-statistiques",
+      "sourceType": "Statistiques publiques",
+      "region": "National",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1929405",
+      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2023-03/theme-transport_0_1.png",
+      "date": "2026-09-15",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Données",
+        "Construction",
+        "Logement",
+        "Énergie"
+      ],
+      "summary": "Avis de parution Transports Indices des prix du transport de fret et de l'entreposage au deuxième trimestre 2026 Statinfo Au deuxième trimestre 2026, les prix du fret augmentent dans le transport maritime (+ 13,9 %), le transport routier (+ 4,2 %) et l’entreposage (+ 0,9 %). À l’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "sdes-donnees-et-etudes-statistiques-rss-3-1789459200000",
+      "title": "Avis de parution",
+      "source": "SDES — Données et études statistiques",
+      "sourceId": "sdes-donnees-et-etudes-statistiques",
+      "sourceType": "Statistiques publiques",
+      "region": "National",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1929402",
+      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2023-03/theme-transport_0_1.png",
+      "date": "2026-09-15",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Données",
+        "Construction",
+        "Logement",
+        "Énergie"
+      ],
+      "summary": "Avis de parution Transports Indices des prix du transport de fret et de l'entreposage au deuxième trimestre 2026 Statinfo Au deuxième trimestre 2026, les prix du fret augmentent dans le transport maritime (+ 13,9 %), le transport routier (+ 4,2 %) et l’entreposage (+ 0,9 %). À l’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "sdes-donnees-et-etudes-statistiques-rss-4-1789459200000",
+      "title": "Avis de parution",
+      "source": "SDES — Données et études statistiques",
+      "sourceId": "sdes-donnees-et-etudes-statistiques",
+      "sourceType": "Statistiques publiques",
+      "region": "National",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1929401",
+      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2023-03/theme-transport_0_1.png",
+      "date": "2026-09-15",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Données",
+        "Construction",
+        "Logement",
+        "Énergie"
+      ],
+      "summary": "Avis de parution Transports Indices des prix du transport de fret et de l'entreposage au deuxième trimestre 2026 Statinfo Au deuxième trimestre 2026, les prix du fret augmentent dans le transport maritime (+ 13,9 %), le transport routier (+ 4,2 %) et l’entreposage (+ 0,9 %). À l’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "sdes-donnees-et-etudes-statistiques-rss-5-1789459200000",
+      "title": "Avis de parution",
+      "source": "SDES — Données et études statistiques",
+      "sourceId": "sdes-donnees-et-etudes-statistiques",
+      "sourceType": "Statistiques publiques",
+      "region": "National",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1929400",
+      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2023-03/theme-transport_0_1.png",
+      "date": "2026-09-15",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Données",
+        "Construction",
+        "Logement",
+        "Énergie"
+      ],
+      "summary": "Avis de parution Transports Indices des prix du transport de fret et de l'entreposage au deuxième trimestre 2026 Statinfo Au deuxième trimestre 2026, les prix du fret augmentent dans le transport maritime (+ 13,9 %), le transport routier (+ 4,2 %) et l’entreposage (+ 0,9 %). À l’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "sdes-donnees-et-etudes-statistiques-rss-6-1789459200000",
+      "title": "Avis de parution",
+      "source": "SDES — Données et études statistiques",
+      "sourceId": "sdes-donnees-et-etudes-statistiques",
+      "sourceType": "Statistiques publiques",
+      "region": "National",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1929399",
+      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2023-03/theme-transport_0_1.png",
+      "date": "2026-09-15",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Données",
+        "Construction",
+        "Logement",
+        "Énergie"
+      ],
+      "summary": "Avis de parution Transports Indices des prix du transport de fret et de l'entreposage au deuxième trimestre 2026 Statinfo Au deuxième trimestre 2026, les prix du fret augmentent dans le transport maritime (+ 13,9 %), le transport routier (+ 4,2 %) et l’entreposage (+ 0,9 %). À l’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "sdes-donnees-et-etudes-statistiques-rss-7-1789459200000",
+      "title": "Avis de parution",
+      "source": "SDES — Données et études statistiques",
+      "sourceId": "sdes-donnees-et-etudes-statistiques",
+      "sourceType": "Statistiques publiques",
+      "region": "National",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1929398",
+      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2023-03/theme-transport_0_1.png",
+      "date": "2026-09-15",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Données",
+        "Construction",
+        "Logement",
+        "Énergie"
+      ],
+      "summary": "Avis de parution Transports Indices des prix du transport de fret et de l'entreposage au deuxième trimestre 2026 Statinfo Au deuxième trimestre 2026, les prix du fret augmentent dans le transport maritime (+ 13,9 %), le transport routier (+ 4,2 %) et l’entreposage (+ 0,9 %). À l’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "sdes-donnees-et-etudes-statistiques-rss-8-1789459200000",
+      "title": "Avis de parution",
+      "source": "SDES — Données et études statistiques",
+      "sourceId": "sdes-donnees-et-etudes-statistiques",
+      "sourceType": "Statistiques publiques",
+      "region": "National",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1929397",
+      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2023-03/theme-transport_0_1.png",
+      "date": "2026-09-15",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Données",
+        "Construction",
+        "Logement",
+        "Énergie"
+      ],
+      "summary": "Avis de parution Transports Indices des prix du transport de fret et de l'entreposage au deuxième trimestre 2026 Statinfo Au deuxième trimestre 2026, les prix du fret augmentent dans le transport maritime (+ 13,9 %), le transport routier (+ 4,2 %) et l’entreposage (+ 0,9 %). À l’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "sdes-donnees-et-etudes-statistiques-rss-9-1789459200000",
+      "title": "Avis de parution",
+      "source": "SDES — Données et études statistiques",
+      "sourceId": "sdes-donnees-et-etudes-statistiques",
+      "sourceType": "Statistiques publiques",
+      "region": "National",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1929387",
+      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2023-03/theme-transport_0_1.png",
+      "date": "2026-09-15",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 90,
+      "tags": [
+        "Données",
+        "Construction",
+        "Logement",
+        "Énergie"
+      ],
+      "summary": "Avis de parution Transports Indices des prix du transport de fret et de l'entreposage au deuxième trimestre 2026 Statinfo Au deuxième trimestre 2026, les prix du fret augmentent dans le transport maritime (+ 13,9 %), le transport routier (+ 4,2 %) et l’entreposage (+ 0,9 %). À l’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-0-1789452000000",
+      "title": "Cuisine ouverte : comment bien l’aménager sans sacrifier le confort ?",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/cuisine-ouverte-amenagement-confort-49223",
+      "image": "https://img.batiweb.com/repo-images/publi/49223/getfluence-09-02-une.jpg",
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "La cuisine ouverte séduit depuis plusieurs années. Elle permet de gagner en lumière, de créer une pièce de vie conviviale et de garder le contact avec le reste du foyer pendant les repas. Mais pour qu’elle fonctionne au quotidien, son aménagement doit être pensé avec soin. La cui…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-0-1789461000000",
+      "title": "La révision des normes ESRS : ce qu'il faut retenir du règlement délégué du 3 juillet 2026",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/revision-normes-esrs-reglement-delegue-2026-48489.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/commentaire/48489_large.jpg",
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Confort d’été"
+      ],
+      "summary": "Dans la continuité de l'Omnibus I, le projet de texte révisant les ESRS a été adopté. Il précise l'obligation de reporting (double matérialité, régime d'omission) et réduit les points de données ainsi que le périmètre de collecte dans la chaîne de... Dans la continuité de l'Omnib…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "bruitparif-rss-0-1789430400000",
+      "title": "Une consultation du public en cours pour évaluer le réglement relatif à l'approche équilibrée en matière de gestion des nuisances sonores aéroportuaires",
+      "source": "Bruitparif",
+      "sourceId": "bruitparif",
+      "sourceType": "Observatoire bruit",
+      "region": "Île-de-France",
+      "url": "https://www.bruitparif.fr/une-consultation-du-public-en-cours-pour-evaluer-le-reglement-relatif-a-l-approche-equilibree-en-matiere-de-gestion-des-nuisances-sonores-aeroportuaires/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Bruit",
+        "Acoustique",
+        "Île-de-France",
+        "Réglementation"
+      ],
+      "summary": "Le 27 août 2026, la Commission européenne a lancé un appel à contributions afin d’évaluer si le règlement européen relatif à l’approche équilibrée a permis d’atteindre les objectifs poursuivis et s’il… Le 27 août 2026, la Commission européenne a lancé un appel à contributions afi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-occitanie-rss-0-1789458818000",
+      "title": "BSA",
+      "source": "Envirobat Occitanie",
+      "sourceId": "envirobat-occitanie",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Occitanie",
+      "url": "https://www.envirobat-oc.fr/bsa",
+      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-09/logo-bsa.png.webp?itok=80UF7ehU",
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "BDO",
+        "REX",
+        "Bâtiment"
+      ],
+      "summary": "BSA plefort@enviro… mar, 15 Sep 2026 - 09:53 82-Tarn-et-Garonne 257 Chem. de Beline 82200 Moissac Contact 05 63 32 52 87 Site internet BSA Entreprise de travaux de menuiseries et de métallerie. Non Projet BDO Aménagements intérieurs ou extérieurs – Finitions Enveloppe du bâtiment…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-occitanie-rss-1-1789457912000",
+      "title": "Delrot Electricité",
+      "source": "Envirobat Occitanie",
+      "sourceId": "envirobat-occitanie",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Occitanie",
+      "url": "https://www.envirobat-oc.fr/delrot-electricite",
+      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-01/icone-structure.png.webp?itok=bn8wN3LL",
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "BDO",
+        "REX"
+      ],
+      "summary": "Delrot Electricité plefort@enviro… mar, 15 Sep 2026 - 09:38 81-Tarn 20-22 Rue de l'Artisanat 81300 Graulhet 05 63 34 33 10 Entreprise de travaux électriques, CFO CFA. Non Projet BDO Equipements techniques Delrot Electricité plefort@enviro… mar, 15 Sep 2026 - 09:38 81-Tarn 20-22 R…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-occitanie-rss-2-1789457534000",
+      "title": "BSB Génie Climatique",
+      "source": "Envirobat Occitanie",
+      "sourceId": "envirobat-occitanie",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Occitanie",
+      "url": "https://www.envirobat-oc.fr/bsb-genie-climatique",
+      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-09/logo-bsb-genie-climatique.png.webp?itok=mAVVLt4w",
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "BDO",
+        "REX",
+        "Réglementation"
+      ],
+      "summary": "BSB Génie Climatique plefort@enviro… mar, 15 Sep 2026 - 09:32 31-Haute-Garonne ZAE Segla 2, 3 Rue Hélène Boucher 31600 Seysses Contact 07 86 36 31 71 Site internet BSB Génie Climatique Entreprise de travaux en génie climatique. Non Projet BDO Equipements techniques BSB Génie Clim…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-occitanie-rss-3-1789457276000",
+      "title": "BBS Peinture",
+      "source": "Envirobat Occitanie",
+      "sourceId": "envirobat-occitanie",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Occitanie",
+      "url": "https://www.envirobat-oc.fr/bbs-peinture",
+      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-09/logo-bbs-peinture.png.webp?itok=cxTuKNtg",
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "BDO",
+        "REX",
+        "Bâtiment"
+      ],
+      "summary": "BBS Peinture plefort@enviro… mar, 15 Sep 2026 - 09:27 31-Haute-Garonne 17 Av. Didier Daurat CS 10051 Bâtiment Socrate 31700 Blagnac Contact 05 67 70 29 61 Site internet BBS Peinture Entreprise de Peinture, Décoration, Façade, Revêtement de sols et murs. Non Projet BDO Aménagement…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-occitanie-rss-4-1789455718000",
+      "title": "Ronco Menuiserie",
+      "source": "Envirobat Occitanie",
+      "sourceId": "envirobat-occitanie",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Occitanie",
+      "url": "https://www.envirobat-oc.fr/ronco-menuiserie",
+      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-09/logo-ronco-menuiserie.png.webp?itok=RP2qw-w2",
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "BDO",
+        "REX",
+        "Réglementation",
+        "Biosourcé",
+        "Bâtiment"
+      ],
+      "summary": "Ronco Menuiserie plefort@enviro… mar, 15 Sep 2026 - 09:01 81-Tarn 460 Avenue des Terres Noires 81370 Saint-Sulpice-la-Pointe Contact 05 63 58 09 87 Site internet Ronco Menuiserie Menuiserie intérieure et extérieures et Agencement pour les professionnels. Fabrication sur mesure de…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-occitanie-rss-5-1789455327000",
+      "title": "Etanchéité Générale du Bâtiment (EG Bat)",
+      "source": "Envirobat Occitanie",
+      "sourceId": "envirobat-occitanie",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Occitanie",
+      "url": "https://www.envirobat-oc.fr/etancheite-generale-du-batiment-eg-bat",
+      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-09/logo-eg-bat.png.webp?itok=ux5lZfyE",
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "BDO",
+        "REX",
+        "Bâtiment"
+      ],
+      "summary": "Etanchéité Générale du Bâtiment (EG Bat) plefort@enviro… mar, 15 Sep 2026 - 08:55 31-Haute-Garonne 38 Rue des Graves 31780 Castelginest Contact 05 61 35 04 70 Site internet EG Bat Entreprise d'Étanchéité, Couverture et Bardage. Non Projet BDO Enveloppe du bâtiment Etanchéité Géné…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-occitanie-rss-6-1789454926000",
+      "title": "Starbat Midi Pyrénées",
+      "source": "Envirobat Occitanie",
+      "sourceId": "envirobat-occitanie",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Occitanie",
+      "url": "https://www.envirobat-oc.fr/starbat-midi-pyrenees",
+      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-09/logo-starbat.png.webp?itok=c0w2olio",
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "BDO",
+        "REX",
+        "Bâtiment"
+      ],
+      "summary": "Starbat Midi Pyrénées plefort@enviro… mar, 15 Sep 2026 - 08:48 31-Haute-Garonne 1Ter Rue de l'Industrie 31320 Castanet-Tolosan Contact 05 61 81 52 50 Site internet Starbat Entreprise générale de bâtiment. Non Projet BDO Structure - Gros Œuvre Starbat Midi Pyrénées plefort@enviro……",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "auat-toulouse-rss-0-1789456385000",
+      "title": "“Alors que nous pensions être enfin seuls dans un monde artificiel, la Terre nous répond avec force”",
+      "source": "AUAT Toulouse",
+      "sourceId": "auat-toulouse",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.aua-toulouse.org/alors-que-nous-pensions-etre-enfin-seuls-dans-un-monde-artificiel-la-terre-nous-repond-avec-force/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Toulouse",
+        "Urbanisme",
+        "Habitat",
+        "Biosourcé"
+      ],
+      "summary": "L’article “Alors que nous pensions être enfin seuls dans un monde artificiel, la Terre nous répond avec force” est apparu en premier sur AUAT. L’article “Alors que nous pensions être enfin seuls dans un monde artificiel, la Terre nous répond avec force” est apparu en premier sur …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "auat-toulouse-rss-1-1789456325000",
+      "title": "Îlot de chaleur urbain et santé publique, comment agir ?",
+      "source": "AUAT Toulouse",
+      "sourceId": "auat-toulouse",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Occitanie",
+      "url": "https://www.aua-toulouse.org/ilot-de-chaleur-urbain-et-sante-publique-comment-agir/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Toulouse",
+        "Urbanisme",
+        "Habitat"
+      ],
+      "summary": "L’article Îlot de chaleur urbain et santé publique, comment agir ? est apparu en premier sur AUAT. L’article Îlot de chaleur urbain et santé publique, comment agir ? est apparu en premier sur AUAT . Îlot de chaleur urbain et santé publique, comment agir ?",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1789430400000",
+      "title": "de saison la figue dans tous ses etats",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/de-saison-la-figue-dans-tous-ses-etats",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "agam-marseille-rss-0-1789458738000",
+      "title": "Patrimoine paysager : La végétation privée qui déborde au bénéfice de la rue et des piétons",
+      "source": "AGAM Marseille",
+      "sourceId": "agam-marseille",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.agam.org/patrimoine-paysager-la-vegetation-privee-qui-deborde-au-benefice-de-la-rue-et-des-pietons/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Marseille",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation"
+      ],
+      "summary": "L’article Patrimoine paysager : La végétation privée qui déborde au bénéfice de la rue et des piétons est apparu en premier sur AGAM. L’article Patrimoine paysager : La végétation privée qui déborde au bénéfice de la rue et des piétons est apparu en premier sur AGAM . Patrimoine …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "a-urba-bordeaux-aquitaine-rss-0-1789460409000",
+      "title": "CaMBo #29 : La ville, champ de bataille",
+      "source": "A’urba Bordeaux Aquitaine",
+      "sourceId": "a-urba-bordeaux-aquitaine",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.aurba.org/cambo-29-la-ville-champ-de-bataille/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Bordeaux",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation"
+      ],
+      "summary": "Parution du dernier numéro des Cahiers de la Métropole bordelaise Beyrouth, Sarajevo, Marioupol… Les villes sont le théâtre de guerres, aujourd’hui encore plus qu’hier, dans un monde toujours plus urbain. Comment la guerre transforme-t-elle la ville ? Et, inversement, comment la …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "filiere-3e-rss-0-1789465387000",
+      "title": "Le micromodule DIMAX 540 APP B de Theben simplifie la rénovation des installations de variation d’éclairage pour plus de modernité",
+      "source": "Filière 3e",
+      "sourceId": "filiere-3e",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.filiere-3e.fr/2026/09/15/le-micromodule-dimax-540-app-b-de-theben-simplifie-la-renovation-des-installations-de-variation-declairage-pour-plus-de-modernite/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Électricité",
+        "CVC",
+        "Bâtiment intelligent",
+        "Énergie",
+        "Rénovation"
+      ],
+      "summary": "À découvrir à IBS : stand n°E17-E20 Face aux enjeux de rénovation des installations électriques, les professionnels recherchent des solutions capables de moderniser les systèmes d’éclairage sans engager de travaux lourds. Dans ce contexte, Theben propose avec le DIMAX 540 APP B, …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "techniques-de-lingenieur-actualites-sitemap-22-1789464749000",
+      "title": "articles",
+      "source": "Techniques de l’Ingénieur Actualités",
+      "sourceId": "techniques-de-lingenieur-actualites",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.techniques-ingenieur.fr/actualite/articles/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Technique",
+        "Énergie",
+        "Environnement",
+        "Innovation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "novethic-rss-0-1789450189000",
+      "title": "Sécheresse : près de Grenoble, les habitants rationnés en eau, STMicroelectronics exempté",
+      "source": "Novethic",
+      "sourceId": "novethic",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.novethic.fr/environnement/biodiversite/secheresse-pres-de-grenoble-les-habitants-rationnes-en-eau-stmicroelectronics-exempte",
+      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/09/manifestation-STMicroelectronics-collectif-Stopmicro-150x150.jpg",
+      "date": "2026-09-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "ESG",
+        "Finance durable",
+        "Climat",
+        "Réglementation"
+      ],
+      "summary": "En juillet dernier, le collectif Stopmicro a coupé l'eau des locaux de la Dreal pour dénoncer l'exemption accordée à STMicroelectronics. @Collectif Stopmicro 160 bouteilles d’eau accrochées devant la préfecture de l’Isère, soit l’équivalent de ce que consomme STMicroelectronics c…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-0-1789454700000",
+      "title": "Panorama de l’ESS 2026 : Et si l’on comptait ce que le secteur non lucratif rapporte à la société ?",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/budget-2027-panorama-ess-2026-non-lucratif-economie-sociale-et-solidaire-edito-panorama-ess-france-observatoire/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Confort d’été",
+        "Économie du bâtiment"
+      ],
+      "summary": "À l’approche de 2027, la question budgétaire va revenir comme un refrain : combien coûte l’action publique ? Combien coûte une association ? Combien coûte une politique sociale ? Combien coûte l’ESS… ou au contraire combien rapporte-t-elle ? Mais oui, il serait temps de poser la …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-0-1789456996000",
+      "title": "Sécheresse : « Même un hiver pluvieux ne protège plus »",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Secheresse-Meme-un-hiver-pluvieux-ne-protege-plus",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260820__hl_isouriment_3259484__v1__highres__francegersdroughtsunflowerdrysoil_1_-17211.jpg?1789456998",
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Malgré un hiver pluvieux, la sécheresse connue par la France cet été bat tous les records. Si ce phénomène se répète les prochaines années, la situation deviendra « très critique » pour l'eau potable, alerte l'hydrogéologue Luc Aquilina. La pluie est retombée par endroits ces der…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1789444800000",
       "title": "« Un signal pour dire stop » : les Hauts-de-France réaffirment leur hostilité à l'éolien terrestre",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2187,8 +2914,8 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1789443000000",
-      "title": "Le gouvernement sabre dans les effectifs de l'écologie malgré cet été de chaos",
+      "id": "reporterre-rss-2-1789443000000",
+      "title": "Postes supprimés, moyens en baisse : l'écologie sacrifiée par le budget 2027",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2213,7 +2940,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1789444800000",
+      "id": "vert-rss-0-1789460235000",
+      "title": "Vert recrute : journaliste politique en CDD sur l’extrême droite et l’écologie",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/vert-vous-parle/vert-recrute-journaliste-politique-en-cdd-sur-lextreme-droite-et-lecologie/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques"
+      ],
+      "summary": "Vert recrute un·e journaliste sur l’extrême droite et l’écologie en contrat à durée déterminée d’octobre 2026 à juillet 2027 pour couvrir la campagne présidentielle et les élections législatives. Vert recrute un·e journaliste sur l’extrême droite et l’écologie en contrat à durée …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "vert-rss-1-1789444800000",
       "title": "«Le climat est devenu une épée de Damoclès» : après un été catastrophique, cet agriculteur du Poitou jette l’éponge",
       "source": "Vert",
       "sourceId": "vert",
@@ -2239,7 +2990,160 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789441800000",
+      "id": "pv-magazine-france-rss-0-1789457400000",
+      "title": "Les Pays-Bas ont installé 1,4 GW de solaire en 2025, en très net recul",
+      "source": "PV Magazine France",
+      "sourceId": "pv-magazine-france",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.pv-magazine.fr/2026/09/15/les-pays-bas-ont-installe-14-gw-de-solaire-en-2025-en-tres-net-recul/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Photovoltaïque",
+        "Autoconsommation",
+        "ENR",
+        "Confort d’été",
+        "Énergie"
+      ],
+      "summary": "Les Pays-Bas ont ajouté 1,4 GW de capacité photovoltaïque en 2025, selon les chiffres publiés par l’Agence néerlandaise pour l’entreprise (RVO). Les statistiques officielles montrent ainsi que le ralentissement des nouvelles installations solaires l’an dernier a été plus marqué q…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-1-1789453800000",
+      "title": "Pvwerk, société sœur d’Enerparc, demande à son tour une procédure d’insolvabilité en gestion autonome",
+      "source": "PV Magazine France",
+      "sourceId": "pv-magazine-france",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.pv-magazine.fr/2026/09/15/pvwerk-societe-soeur-denerparc-demande-a-son-tour-une-procedure-dinsolvabilite-en-gestion-autonome/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Photovoltaïque",
+        "Autoconsommation",
+        "ENR",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "L'Allemand Pvwerk est spécialisé dans la construction de centrales photovoltaïques et de systèmes de stockage par batteries. La procédure engagée doit permettre de raccorder au réseau le plus grand nombre possible des quelque 100 parcs solaires et systèmes de stockage actuellemen…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "revolution-energetique-rss-0-1789461814000",
+      "title": "La plus grande centrale nucléaire indienne a été piratée",
+      "source": "Révolution Énergétique",
+      "sourceId": "revolution-energetique",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.revolution-energetique.com/actus/la-plus-grande-centrale-nucleaire-indienne-a-ete-piratee/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "ENR",
+        "Stockage",
+        "Réseaux",
+        "Confort d’été"
+      ],
+      "summary": "Menaces majeures du XXIᵉ siècle, les cyberattaques n’épargnent pas les infrastructures énergétiques, qui sont souvent d’une grande importance pour la stabilité d’un pays. En Asie, […] L’article La plus grande centrale nucléaire indienne a été piratée est apparu en premier sur Rév…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1789464039000",
+      "title": "Thermal Master P3, une caméra thermique mobile à utiliser avec discernement",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/thermal-master-p3-test-avis-technique/194774-2026-09",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Un module de 59 × 27 × 17,2 mm, à raccorder à un appareil compatible, et l’écran du terminal devient l’interface de visualisation thermique. La Thermal Master P3 est un accessoire d’imagerie infrarouge destiné aux smartphones, tablettes et PC Windows pris en charge, plutôt qu’une…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789449000000",
+      "title": "PNT et navigation résiliente : le socle invisible des mobilités modernes",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/pnt-et-navigation-resiliente-le-socle-invisible-des-mobilites-modernes/194421-2026-09",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Alors que le marché mondial du GNSS devrait atteindre 580 milliards d’euros en 2034, l’Europe renforce sa souveraineté en matière de navigation. SBG Systems, spécialiste français de l’inertiel, explique pourquoi les technologies PNT et la résilience aux brouillages conditionnent …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1789445400000",
+      "title": "Batteries solides : ProLogium mise tout sur sa gigafactory de Dunkerque",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/prologium-batterie-solide-dunkerque/194322-2026-09",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "La batterie tout solide sort-elle enfin du laboratoire ? Début septembre, le taïwanais ProLogium a annoncé le passage à la production en série de sa batterie « Lithium Ceramic Battery » (LCB), dont la densité énergétique de 381 Wh/kg a été certifiée par TÜV Rheinland. Une avancée…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-3-1789441800000",
       "title": "XPeng lance la première ligne de production automatisée de robots humanoïdes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2264,7 +3168,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789438200000",
+      "id": "enerzine-rss-4-1789438200000",
       "title": "L’IA prélève moins d’eau sur site, mais les data centers font grimper la facture énergétique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2289,7 +3193,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789434600000",
+      "id": "enerzine-rss-5-1789434600000",
       "title": "Distributeurs de billets : le grand basculement vers des automates mutualisés ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2314,7 +3218,107 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789445205000",
+      "id": "lenergeek-rss-0-1789464354000",
+      "title": "TotalEnergies mise sur l’IA agentique de Mistral pour optimiser ses gisements",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/09/15/totalenergies-mise-ia-agentique-mistral/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/09/shutterstock_2590898549.jpg",
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "TotalEnergies et Mistral annoncent un partenariat de trois ans doté de plus de 100 millions d'euros pour développer des modèles d'intelligence artificielle agentique dédiés à l'exploration pétrolière. Avec 10 pétaflops de puissance de calcul et un siècle de données géoscientifiqu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1789453250000",
+      "title": "En 2021, la Chine a fabriqué sa première route en plastique avec 6 000 bouteilles de lait, convertissant des déchets plastiques difficiles à recycler en matériau utilisé pour le pavage",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/09/15/en-2021-la-chine-a-fabrique-sa-premiere-route-en-plastique-avec-6-000-bouteilles-de-lait-convertissant-des-dechets-plastiques-difficiles-a-recycler-en-materiau-utilise-pour-le-pavage/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/09/En-2021-la-Chine-a-fabrique-sa-premiere-route-en-plastique-avec-6-000-bouteilles-de-lait-convertissant-des-dechets-pla.webp",
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "6 000 bouteilles de lait jugées trop sales pour être recyclées se retrouvent finalement sous vos pieds, transformées en route à Shanghai. Comment ce déchet impossible à traiter est-il devenu une innovation copiée dans toute l'Asie ? L’article En 2021, la Chine a fabriqué sa premi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1789451419000",
+      "title": "Ni le réfrigérateur ni la climatisation : l’appareil qui consomme le plus chez vous surprend même les électriciens",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/09/15/ni-le-refrigerateur-ni-la-climatisation-lappareil-qui-consomme-le-plus-chez-vous-surprend-meme-les-electriciens/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/09/Ni-le-refrigerateur-ni-la-climatisation-lappareil-qui-consomme-le-plus-chez-vous-surprend-meme-les-electriciens.webp",
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Vous pensiez que le frigo plombait votre facture ? Une étude sur 100 foyers révèle que le four consomme jusqu'à 65 fois plus. Les astuces simples pour limiter les dégâts sans changer d'appareil. L’article Ni le réfrigérateur ni la climatisation : l’appareil qui consomme le plus c…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1789449623000",
+      "title": "En 1983, Atari a enfoui des camions remplis de jeux vidéo non vendus dans une décharge du Nouveau-Mexique, et lors de l’excavation en 2014, environ 1 300 cartouches ont été retrouvées, certaines valant ensuite plusieurs centaines voire milliers de dollars",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/09/15/en-1983-atari-a-enfoui-des-camions-remplis-de-jeux-video-non-vendus-dans-une-decharge-du-nouveau-mexique-et-lors-de-lexcavation-en-2014-environ-1-300-cartouches-ont-ete-retrouvees-certaines-vala/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/09/En-1983-Atari-a-enfoui-des-camions-remplis-de-jeux-video-non-vendus-dans-une-decharge-du-Nouveau-Mexique-et-lors-de-l.webp",
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Un porte-parole d'Atari a menti en 1983 sur le contenu de 14 camions. Trente ans plus tard, une excavation a révélé la vérité, et certaines cartouches se sont vendues plus de 1 500 dollars. L’article En 1983, Atari a enfoui des camions remplis de jeux vidéo non vendus dans une dé…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1789465921000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2340,7 +3344,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789445205000",
+      "id": "le-commerce-du-bois-sitemap-1-1789465921000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2366,7 +3370,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789445205000",
+      "id": "le-commerce-du-bois-sitemap-2-1789465921000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2392,7 +3396,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1789435782000",
+      "id": "le-journal-du-grand-paris-rss-0-1789465663000",
+      "title": "À Bezons, Foncière logement lance la transformation d’un îlot d’habitat dégradé",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/a-bezons-fonciere-logement-lance-la-transformation-dun-ilot-dhabitat-degrade/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Bâtiment"
+      ],
+      "summary": "Confiée à l'agence d’architecture A26 et construit par GA Smart Building, la transformation d'un îlot d'habitat dégradé de plus de 5 000 m2 au cœur de Bezons, acquis par Foncière logement à travers son dispositif Digneo, va donner lieu à la création de 141 logements. Confiée à l'…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1789435782000",
       "title": "Mathieu Lefèvre fait l’éloge de la géothermie à Fontenay-sous-Bois",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2413,259 +3442,83 @@ window.BATIVEILLE_DATA = {
         "Réglementation",
         "Eau"
       ],
-      "summary": "Le ministre délégué chargé de la transition écologique Mathieu Lefèvre a visité lundi 14 septembre la Régie du chauffage urbain de Fontenay-sous-Bois (Val-de-Marne), à l’occasion d’un déplacement consacré au développement de la géothermie. La collectivité prévoit notamment d’éten…",
+      "summary": "Le ministre délégué chargé de la Transition écologique Mathieu Lefèvre a visité lundi 14 septembre la Régie du chauffage urbain de Fontenay-sous-Bois (Val-de-Marne), à l’occasion d’un déplacement consacré au développement de la géothermie. La collectivité prévoit notamment d’éten…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "sdes-donnees-et-etudes-statistiques-rss-0-1789387201000",
-      "title": "Avis de parution",
-      "source": "SDES — Données et études statistiques",
-      "sourceId": "sdes-donnees-et-etudes-statistiques",
-      "sourceType": "Statistiques publiques",
+      "id": "acteurs-publics-sitemap-1-1789464960000",
+      "title": "apres la fusion des ira le gisp detaille sa feuille de route et prepare une nouvelle offre de formation",
+      "source": "Acteurs Publics",
+      "sourceId": "acteurs-publics",
+      "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1928782",
-      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-01/theme-logement.png",
-      "date": "2026-09-14",
-      "access": "official",
-      "official": true,
+      "url": "https://acteurspublics.fr/articles/apres-la-fusion-des-ira-le-gisp-detaille-sa-feuille-de-route-et-prepare-une-nouvelle-offre-de-formation/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Accès mixte",
+      "official": false,
       "highImpact": false,
-      "impactScore": 98,
+      "impactScore": 80,
       "tags": [
-        "Données",
-        "Construction",
-        "Logement",
-        "Énergie",
-        "Bâtiment"
+        "Presse professionnelle",
+        "Politiques publiques",
+        "Collectivités",
+        "Transition"
       ],
-      "summary": "Avis de parution Logement Rapport du compte du logement 2025 Dans un contexte de moindre croissance de l’activité économique et des prix, la dépense de l’ensemble des agents économiques dans le domaine du logement progresse de 0,4 % en 2025, pour s’établir à 621 Md€. Cette légère…",
+      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
-      "collectMethod": "rss"
+      "collectMethod": "sitemap_fast"
     },
     {
-      "id": "sdes-donnees-et-etudes-statistiques-rss-1-1789387200000",
-      "title": "Avis de parution",
-      "source": "SDES — Données et études statistiques",
-      "sourceId": "sdes-donnees-et-etudes-statistiques",
-      "sourceType": "Statistiques publiques",
+      "id": "acteurs-publics-sitemap-7-1789460340000",
+      "title": "a bout de financements linclusion numerique en quete de soutien",
+      "source": "Acteurs Publics",
+      "sourceId": "acteurs-publics",
+      "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1928805",
-      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-01/theme-logement.png",
-      "date": "2026-09-14",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 98,
+      "url": "https://acteurspublics.fr/articles/a-bout-de-financements-linclusion-numerique-en-quete-de-soutien/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
       "tags": [
-        "Données",
-        "Construction",
-        "Logement",
-        "Énergie",
-        "Bâtiment"
+        "Presse professionnelle",
+        "Politiques publiques",
+        "Collectivités",
+        "Transition",
+        "Réglementation"
       ],
-      "summary": "Avis de parution Logement Rapport du compte du logement 2025 Dans un contexte de moindre croissance de l’activité économique et des prix, la dépense de l’ensemble des agents économiques dans le domaine du logement progresse de 0,4 % en 2025, pour s’établir à 621 Md€. Cette légère…",
+      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
-      "collectMethod": "rss"
+      "collectMethod": "sitemap_fast"
     },
     {
-      "id": "sdes-donnees-et-etudes-statistiques-rss-2-1789387200000",
-      "title": "Avis de parution",
-      "source": "SDES — Données et études statistiques",
-      "sourceId": "sdes-donnees-et-etudes-statistiques",
-      "sourceType": "Statistiques publiques",
+      "id": "acteurs-publics-sitemap-25-1789459260000",
+      "title": "un rapport propose un nouveau mode de cooperation entre letat et les collectivites fonde sur la subsidiarite",
+      "source": "Acteurs Publics",
+      "sourceId": "acteurs-publics",
+      "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1928802",
-      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-01/theme-logement.png",
-      "date": "2026-09-14",
-      "access": "official",
-      "official": true,
+      "url": "https://acteurspublics.fr/articles/un-rapport-propose-un-nouveau-mode-de-cooperation-entre-letat-et-les-collectivites-fonde-sur-la-subsidiarite/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Accès mixte",
+      "official": false,
       "highImpact": false,
-      "impactScore": 98,
+      "impactScore": 88,
       "tags": [
-        "Données",
-        "Construction",
-        "Logement",
-        "Énergie",
-        "Bâtiment"
+        "Presse professionnelle",
+        "Politiques publiques",
+        "Collectivités",
+        "Transition",
+        "Eau"
       ],
-      "summary": "Avis de parution Logement Rapport du compte du logement 2025 Dans un contexte de moindre croissance de l’activité économique et des prix, la dépense de l’ensemble des agents économiques dans le domaine du logement progresse de 0,4 % en 2025, pour s’établir à 621 Md€. Cette légère…",
+      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "sdes-donnees-et-etudes-statistiques-rss-3-1789387200000",
-      "title": "Avis de parution",
-      "source": "SDES — Données et études statistiques",
-      "sourceId": "sdes-donnees-et-etudes-statistiques",
-      "sourceType": "Statistiques publiques",
-      "region": "National",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1928801",
-      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-01/theme-logement.png",
-      "date": "2026-09-14",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 98,
-      "tags": [
-        "Données",
-        "Construction",
-        "Logement",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Avis de parution Logement Rapport du compte du logement 2025 Dans un contexte de moindre croissance de l’activité économique et des prix, la dépense de l’ensemble des agents économiques dans le domaine du logement progresse de 0,4 % en 2025, pour s’établir à 621 Md€. Cette légère…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "sdes-donnees-et-etudes-statistiques-rss-4-1789387200000",
-      "title": "Avis de parution",
-      "source": "SDES — Données et études statistiques",
-      "sourceId": "sdes-donnees-et-etudes-statistiques",
-      "sourceType": "Statistiques publiques",
-      "region": "National",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1928798",
-      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-01/theme-logement.png",
-      "date": "2026-09-14",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 98,
-      "tags": [
-        "Données",
-        "Construction",
-        "Logement",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Avis de parution Logement Rapport du compte du logement 2025 Dans un contexte de moindre croissance de l’activité économique et des prix, la dépense de l’ensemble des agents économiques dans le domaine du logement progresse de 0,4 % en 2025, pour s’établir à 621 Md€. Cette légère…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "sdes-donnees-et-etudes-statistiques-rss-5-1789387200000",
-      "title": "Avis de parution",
-      "source": "SDES — Données et études statistiques",
-      "sourceId": "sdes-donnees-et-etudes-statistiques",
-      "sourceType": "Statistiques publiques",
-      "region": "National",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1928797",
-      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-01/theme-logement.png",
-      "date": "2026-09-14",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 98,
-      "tags": [
-        "Données",
-        "Construction",
-        "Logement",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Avis de parution Logement Rapport du compte du logement 2025 Dans un contexte de moindre croissance de l’activité économique et des prix, la dépense de l’ensemble des agents économiques dans le domaine du logement progresse de 0,4 % en 2025, pour s’établir à 621 Md€. Cette légère…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "sdes-donnees-et-etudes-statistiques-rss-6-1789387200000",
-      "title": "Avis de parution",
-      "source": "SDES — Données et études statistiques",
-      "sourceId": "sdes-donnees-et-etudes-statistiques",
-      "sourceType": "Statistiques publiques",
-      "region": "National",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1928796",
-      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-01/theme-logement.png",
-      "date": "2026-09-14",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 98,
-      "tags": [
-        "Données",
-        "Construction",
-        "Logement",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Avis de parution Logement Rapport du compte du logement 2025 Dans un contexte de moindre croissance de l’activité économique et des prix, la dépense de l’ensemble des agents économiques dans le domaine du logement progresse de 0,4 % en 2025, pour s’établir à 621 Md€. Cette légère…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "sdes-donnees-et-etudes-statistiques-rss-7-1789387200000",
-      "title": "Avis de parution",
-      "source": "SDES — Données et études statistiques",
-      "sourceId": "sdes-donnees-et-etudes-statistiques",
-      "sourceType": "Statistiques publiques",
-      "region": "National",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1928794",
-      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-01/theme-logement.png",
-      "date": "2026-09-14",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 98,
-      "tags": [
-        "Données",
-        "Construction",
-        "Logement",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Avis de parution Logement Rapport du compte du logement 2025 Dans un contexte de moindre croissance de l’activité économique et des prix, la dépense de l’ensemble des agents économiques dans le domaine du logement progresse de 0,4 % en 2025, pour s’établir à 621 Md€. Cette légère…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "sdes-donnees-et-etudes-statistiques-rss-8-1789387200000",
-      "title": "Avis de parution",
-      "source": "SDES — Données et études statistiques",
-      "sourceId": "sdes-donnees-et-etudes-statistiques",
-      "sourceType": "Statistiques publiques",
-      "region": "National",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1928793",
-      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-01/theme-logement.png",
-      "date": "2026-09-14",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 98,
-      "tags": [
-        "Données",
-        "Construction",
-        "Logement",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Avis de parution Logement Rapport du compte du logement 2025 Dans un contexte de moindre croissance de l’activité économique et des prix, la dépense de l’ensemble des agents économiques dans le domaine du logement progresse de 0,4 % en 2025, pour s’établir à 621 Md€. Cette légère…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "sdes-donnees-et-etudes-statistiques-rss-9-1789387200000",
-      "title": "Avis de parution",
-      "source": "SDES — Données et études statistiques",
-      "sourceId": "sdes-donnees-et-etudes-statistiques",
-      "sourceType": "Statistiques publiques",
-      "region": "National",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/node/1928792",
-      "image": "https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2018-01/theme-logement.png",
-      "date": "2026-09-14",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 98,
-      "tags": [
-        "Données",
-        "Construction",
-        "Logement",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Avis de parution Logement Rapport du compte du logement 2025 Dans un contexte de moindre croissance de l’activité économique et des prix, la dépense de l’ensemble des agents économiques dans le domaine du logement progresse de 0,4 % en 2025, pour s’établir à 621 Md€. Cette légère…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "atmo-france-sitemap-534-1789398023000",
@@ -2741,7 +3594,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-0-1789395900000",
+      "id": "batiweb-rss-1-1789427100000",
+      "title": "Parexlanko puise dans le génie des bâtisseurs romains pour créer PAR HÉRITAGE SE",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/parexlanko-par-heritage-se-batisseurs-romains-49254",
+      "image": "https://img.batiweb.com/repo-images/publi/49254/parexlanko-09-16-une.jpg",
+      "date": "2026-09-14",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Parexlanko lance PAR HÉRITAGE SE, un sous-enduit à la chaux aérienne pour le bâti ancien, alliant matériaux naturels et performances actuelles. Parexlanko lance PAR HÉRITAGE SE, un sous-enduit à la chaux aérienne pour le bâti ancien, alliant matériaux naturels et performances act…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-2-1789395900000",
       "title": "Logement : les dépenses nationales ont atteint 620,7 milliards d’euros en 2025",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2766,7 +3642,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-1-1789394400000",
+      "id": "batiweb-rss-3-1789394400000",
       "title": "Encadrement des loyers : douze élus veulent le prolonger et le pérenniser",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2789,7 +3665,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-2-1789392600000",
+      "id": "batiweb-rss-4-1789392600000",
       "title": "Hub Tyxal+ : Delta Dore renforce la sécurité de l’habitat connecté",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2812,7 +3688,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-3-1789378800000",
+      "id": "batiweb-rss-5-1789378800000",
       "title": "Logement : Marine Le Pen cible le ZAN, le DPE et la SRU",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2838,7 +3714,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-0-1789400966000",
+      "id": "actu-environnement-rss-1-1789400966000",
       "title": "Prime à l'incorporation (2/4) : accompagner une bascule durable vers le plastique recyclé",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2862,7 +3738,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-1-1789400917000",
+      "id": "actu-environnement-rss-2-1789400917000",
       "title": "L'adoption des Sdage est reportée pour prendre en compte la loi d'urgence agricole",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2886,7 +3762,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-2-1789398070000",
+      "id": "actu-environnement-rss-3-1789398070000",
       "title": "Recyclage chimique : TotalEnergies détient désormais 100 % du capital de l'usine de pyrolyse de Grandpuits",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2909,7 +3785,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-3-1789397941000",
+      "id": "actu-environnement-rss-4-1789397941000",
       "title": "Un nouveau décret accélère la décarbonation des équipements de chauffage",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2935,7 +3811,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-4-1789397752000",
+      "id": "actu-environnement-rss-5-1789397752000",
       "title": "Gestion du Rhône : la Commission de coopération sur les eaux transfrontalières est installée",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2960,7 +3836,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-5-1789397182000",
+      "id": "actu-environnement-rss-6-1789397182000",
       "title": "Federrec et l'A3M signent un « pacte » pour développer l'acier recyclé français",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2986,7 +3862,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-6-1789393011000",
+      "id": "actu-environnement-rss-7-1789393011000",
       "title": "Tourterelle des bois : le juge des référés du Conseil d'État ne suspend pas l'arrêté autorisant sa chasse",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -3010,7 +3886,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-7-1789380192000",
+      "id": "actu-environnement-rss-8-1789380192000",
       "title": "« Le changement climatique accentue les tempêtes de sable, or les données sanitaires manquent »",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -3033,7 +3909,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-8-1789378816000",
+      "id": "actu-environnement-rss-9-1789378816000",
       "title": "Une réduction du budget de l'État qui touche en premier lieu l'écologie",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -3056,7 +3932,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-9-1789378540000",
+      "id": "actu-environnement-rss-10-1789378540000",
       "title": "Le chiffre du jour : 452 cas",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -3079,7 +3955,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-10-1789369200000",
+      "id": "actu-environnement-rss-11-1789369200000",
       "title": "Le World Cleanup Day : un relais de terrain pour Alcome face aux mégots mal jetés",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -3128,7 +4004,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-0-1789370780000",
+      "id": "auat-toulouse-rss-2-1789370780000",
       "title": "Climat : la France veut enfin chiffrer le prix de son retard sur l’adaptation",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -3151,7 +4027,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-1-1789370738000",
+      "id": "auat-toulouse-rss-3-1789370738000",
       "title": "Lutte contre la pollution de l’air : hors ZFE, focus sur les leviers d’action des collectivités",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -3174,7 +4050,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "agam-marseille-rss-0-1789375096000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-1-1789344000000",
+      "title": "la region sud ouvre son aide de 250 eur pour rouler moins cher au bioethanol",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/la-region-sud-ouvre-son-aide-de-250-eur-pour-rouler-moins-cher-au-bioethanol",
+      "image": null,
+      "date": "2026-09-14",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "agam-marseille-rss-1-1789375096000",
       "title": "Inscrits à France Travail – Données du 1ᵉʳ trimestre 2026",
       "source": "AGAM Marseille",
       "sourceId": "agam-marseille",
@@ -3342,32 +4241,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "techniques-de-lingenieur-actualites-sitemap-22-1789373665000",
-      "title": "articles",
-      "source": "Techniques de l’Ingénieur Actualités",
-      "sourceId": "techniques-de-lingenieur-actualites",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.techniques-ingenieur.fr/actualite/articles/",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Technique",
-        "Énergie",
-        "Environnement",
-        "Innovation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "novethic-rss-0-1789391409000",
+      "id": "novethic-rss-1-1789391409000",
       "title": "IA : contenus violents, travailleurs exposés… Teleperformance rattrapé par son devoir de vigilance",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -3392,7 +4266,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-1-1789388685000",
+      "id": "novethic-rss-2-1789388685000",
       "title": "Carbone, biodiversité, eau, sols : la France inaugure le premier projet quadruplement certifié au monde",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -3418,7 +4292,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-2-1789361117000",
+      "id": "novethic-rss-3-1789361117000",
       "title": "Le changement climatique va-t-il faire perdre son statut de leader touristique à la France ?",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -3444,7 +4318,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1789394400000",
+      "id": "mediatico-rss-1-1789376432000",
+      "title": "Fondation Croix Saint-Simon : 37 offres de reprise déposées, mais pas sur tout le périmètre",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/fondation-croix-saint-simon-37-offres-de-reprise-deposees-mais-pas-sur-tout-le-perimetre/",
+      "image": null,
+      "date": "2026-09-14",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "C’est un signal fort pour tout le secteur médico-social, mais aussi – et surtout – pour les 1800 professionnels des crèches et des EHPAD de la Fondation Croix Saint-Simon. À deux semaines de l’échéance cruciale du 29 septembre, qui verra le Tribunal des Activités Économiques exam…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-3-1789394400000",
       "title": "Arrestations, abattage d'arbres : l'État enclenche la marche forcée pour un centre où enfermer les exilés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3470,7 +4368,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1789391155000",
+      "id": "reporterre-rss-4-1789391155000",
       "title": "L'IA booste la production de PFAS",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3495,7 +4393,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1789390800000",
+      "id": "reporterre-rss-5-1789390800000",
       "title": "Autoroutes et data centers : l'été caniculaire n'a pas découragé les bétonneurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3521,7 +4419,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1789389747000",
+      "id": "reporterre-rss-6-1789389747000",
       "title": "Le maire de Bordeaux renonce à un data center... pour le construire ailleurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3547,7 +4445,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1789388050000",
+      "id": "reporterre-rss-7-1789388050000",
       "title": "Désinformation climatique : 452 cas à la télé et la radio au premier semestre 2026",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3571,7 +4469,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1789371651000",
+      "id": "reporterre-rss-8-1789371651000",
       "title": "Médicaments : la bonne idée antigaspi qui irrite les labos",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3596,13 +4494,13 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1789367814000",
+      "id": "reporterre-rss-9-1789367814000",
       "title": "« Une guerre culturelle » : des livres censurés et des cours sur le climat menacés aux États-Unis",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://reporterre.net/Manuels-censures-cours-menaces-l-enseignement-du-climat-en-peril-sous-Trump",
+      "url": "https://reporterre.net/Une-guerre-culturelle-des-livres-censures-et-des-cours-sur-le-climat-menaces-aux-Etats",
       "image": "https://reporterre.net/local/cache-vignettes/L700xH467/livre-scolaire-e1291.jpg?1789367818",
       "date": "2026-09-14",
       "access": "Gratuit",
@@ -3621,7 +4519,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1789358400000",
+      "id": "reporterre-rss-10-1789358400000",
       "title": "Derrière l'IA et ses data centers, une industrie minière qui ravage la planète",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3647,7 +4545,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1789358400000",
+      "id": "vert-rss-2-1789358400000",
       "title": "Canicules relativisées et débats sur la climatisation : 452 cas de mésinformation climatique à la télé et à la radio entre janvier et juin",
       "source": "Vert",
       "sourceId": "vert",
@@ -3672,7 +4570,135 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-0-1789390800000",
+      "id": "greenunivers-rss-0-1789398839000",
+      "title": "Hy24 investit dans l’infrastructure hydrogène allemande",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/hy24-investit-dans-linfrastructure-hydrogene-allemande-433022/",
+      "image": null,
+      "date": "2026-09-14",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "« L’Allemagne se positionne au cœur du système hydrogène européen, notamment grâce à la loi d’accélération de l’hydrogène adoptée en février 2026 », observe le fonds d’investissement spécialiste de l’hydrogène Hy24. Cette loi prévoit outre-Rhin le L’article Hy24 investit dans l’i…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-1-1789398698000",
+      "title": "La recharge des flottes d’entreprises attise les convoitises",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/la-recharge-des-flottes-dentreprises-attise-les-convoitises-432992/",
+      "image": null,
+      "date": "2026-09-14",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "« La recharge à domicile est devenue le point de blocage numéro un des projets d’électrification de flottes », estime L’article La recharge des flottes d’entreprises attise les convoitises est apparu en premier sur GreenUnivers. « La recharge à domicile est devenue le point de bl…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-2-1789398369000",
+      "title": "« Il faut espérer un hiver doux, pluvieux et venteux » [Marchés]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/la-fin-de-lannee-sannonce-tendue-pour-le-gaz-et-lelectricite-marches-433003/",
+      "image": null,
+      "date": "2026-09-14",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le marché de l’énergie se crispe sous l’effet des dernières secousses géopolitiques et monte à des niveaux inédits depuis 2022. Au Moyen-Orient, le passage des navires à travers le détroit d’Ormuz se fait toujours au compte-gouttes. Au Yémen, les Houtis accentuent la pression sur…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-3-1789398045000",
+      "title": "Mcel.energy à l’achat dans le solaire en France",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/mcel-energy-a-lachat-dans-le-solaire-en-france-433018/",
+      "image": null,
+      "date": "2026-09-14",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Eau",
+        "Énergie"
+      ],
+      "summary": "« Dans la logistique, la demande pour recharger les camions électriques va faire exploser la consommation des entrepôts. Problème : nombre d’entre eux n’ont pas le raccordement au réseau qu’il faut », constate Maarten de Haas, cofondateur l’année dernière de mcel.energy. En insta…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-4-1789397901000",
+      "title": "La crise du gaz réduit l’impact budgétaire des renouvelables",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/la-crise-du-gaz-reduit-limpact-budgetaire-des-renouvelables-433027/",
+      "image": null,
+      "date": "2026-09-14",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Économie du bâtiment",
+        "Énergie"
+      ],
+      "summary": "Plus les prix de l’électricité sont élevés, moins les tarfis de vente garantis sur les installations d’énergies renouvelables, éolien, photovoltaïque et biogaz, ne coûte à la puissance publique. « L’État ajuste donc légitimement son L’article La crise du gaz réduit l’impact budgé…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-2-1789390800000",
       "title": "Le parking de la télécabine du Fierney solarisé en ombrières",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -3698,7 +4724,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-1-1789387200000",
+      "id": "pv-magazine-france-rss-3-1789387200000",
       "title": "Mise en service de la centrale photovoltaïque hybride de Saint-Élix-le-Château",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -3724,7 +4750,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-2-1789376400000",
+      "id": "pv-magazine-france-rss-4-1789376400000",
       "title": "Stockage tertiaire : le nouveau relais de croissance des installateurs solaires",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -3750,7 +4776,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-3-1789371000000",
+      "id": "pv-magazine-france-rss-5-1789371000000",
       "title": "Les BESS sont-ils réellement compétitifs pour les centres de données ?",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -3775,7 +4801,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-4-1789367400000",
+      "id": "pv-magazine-france-rss-6-1789367400000",
       "title": "Rendement record de 27,35 % pour une cellule solaire tandem pérovskite-organique",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -3827,7 +4853,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789423800000",
+      "id": "enerzine-rss-6-1789423800000",
       "title": "ASML lance la construction d’un second campus industriel près d’Eindhoven",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3853,7 +4879,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789414500000",
+      "id": "enerzine-rss-7-1789414500000",
       "title": "Lithium en Auvergne : un permis d’exploration de 442 km² accordé en Limagne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3878,7 +4904,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789391100000",
+      "id": "enerzine-rss-8-1789391100000",
       "title": "Gaz, 6 millions de ménages exposés à une hausse de 6,3 % dès le 1er octobre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3902,7 +4928,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789377000000",
+      "id": "enerzine-rss-9-1789377000000",
       "title": "Tesla Roadster 2, Tesla va enfin lever le voile après neuf ans d’attente",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3926,83 +4952,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789373100000",
-      "title": "Rafale F5 : nouveaux contrats et lancement en réalisation attendu fin 2026",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/rafale-f5-contrats-dga-2026/194708-2026-09",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "La France a officiellement engagé une nouvelle phase de travaux industriels préparant le Rafale F5, avec plusieurs contrats notifiés cet été à Dassault Aviation, MBDA, Thales et Safran. Le chasseur promet une transformation profonde, mais il devra encore franchir le cap du lancem…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1789363800000",
-      "title": "Parkings solaires : un report d’échéance conditionné aux panneaux européens",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/parkings-solaires-un-report-decheance-conditionne-aux-panneaux-europeens/194424-2026-09",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Un décret permet aux propriétaires de parcs de stationnement de 1 500 à 10 000 m² de reporter jusqu’en 2030 leur obligation de solarisation, à condition d’installer des panneaux assemblés en Europe. L’objectif affiché : soutenir l’émergence d’une filière photovoltaïque européenne…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789362600000",
-      "title": "Octopus Energy France rachète les 20 000 contrats particuliers d’elmy",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/octopus-energy-france-rachete-les-20-000-contrats-particuliers-delmy/194427-2026-09",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Octopus Energy France a réalisé sa première opération de rachat de portefeuille en France avec l’acquisition des 20 000 contrats particuliers du fournisseur d’énergie renouvelable elmy. Les clients conservent leurs tarifs, garantis jusqu’en 2028, tandis qu’elmy se recentre sur le…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-0-1789393519000",
+      "id": "lenergeek-rss-4-1789393519000",
       "title": "iOS 27 : l’impact des nouveautés IA sur l’autonomie de votre iPhone",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4028,7 +4978,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1789392410000",
+      "id": "lenergeek-rss-5-1789392410000",
       "title": "Énergie : fin du tarif préférentiel pour les électriciens et les gaziers",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4053,7 +5003,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1789376462000",
+      "id": "lenergeek-rss-6-1789376462000",
       "title": "Japon : deux japonais forcés de démissionner après avoir trafiqué des données sismiques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4077,7 +5027,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1789366850000",
+      "id": "lenergeek-rss-7-1789366850000",
       "title": "Ce porte-avions unique intégrera une énergie révolutionnaire : une innovation de TechnicAtome",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4102,7 +5052,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1789365027000",
+      "id": "lenergeek-rss-8-1789365027000",
       "title": "Cette famille a planté 840 000 arbres sur un ancien pâturage : 25 ans plus tard, un animal qu’on croyait disparu depuis un siècle est réapparu",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4126,7 +5076,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1789363238000",
+      "id": "lenergeek-rss-9-1789363238000",
       "title": "Voici la température idéale à programmer pour faire des économies sur votre facture d’énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4152,7 +5102,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1789404155000",
+      "id": "le-journal-du-grand-paris-rss-2-1789404155000",
       "title": "À Ivry-sur-Seine, SNCF immobilier déploie la solution Toits temporaires urbains",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4178,7 +5128,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1789397405000",
+      "id": "le-journal-du-grand-paris-rss-3-1789397405000",
       "title": "Alexandre Frémiot quitte Plaine Commune pour la direction générale adjointe du Siaap",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4202,7 +5152,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1789397276000",
+      "id": "le-journal-du-grand-paris-rss-4-1789397276000",
       "title": "Michel Guenneau prend la direction générale des services du Val-de-Marne",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4228,7 +5178,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1789396194000",
+      "id": "le-journal-du-grand-paris-rss-5-1789396194000",
       "title": "TotalEnergies propriétaire à 100 % de l’usine de recyclage de plastiques de Grandpuits",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4253,7 +5203,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1789384279000",
+      "id": "le-journal-du-grand-paris-rss-6-1789384279000",
       "title": "Grégory Canal – À plein régime",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4278,7 +5228,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1789370862000",
+      "id": "le-journal-du-grand-paris-rss-7-1789370862000",
       "title": "Les coulisses du Grand Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4302,7 +5252,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1789369813000",
+      "id": "le-journal-du-grand-paris-rss-8-1789369813000",
       "title": "5 registres d’accompagnement de l’Institut Paris Region pour éviter de naviguer à vue",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4327,7 +5277,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1789369786000",
+      "id": "le-journal-du-grand-paris-rss-9-1789369786000",
       "title": "N. Bauquet : « Il faut à la fois faire le deuil du monde que l’on a connu et recommencer à rêver »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4353,7 +5303,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-1-1789395720000",
+      "id": "acteurs-publics-sitemap-2-1789395720000",
       "title": "souverainete numerique les organisations publiques cherchent un equilibre entre maitrise et innovation",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -4377,7 +5327,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-2-1789395600000",
+      "id": "acteurs-publics-sitemap-3-1789395600000",
       "title": "sept mois apres sa creation la direction generale de ladministration penitentiaire peine encore a depasser le symbole",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -4402,7 +5352,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-3-1789398900000",
+      "id": "acteurs-publics-sitemap-4-1789398900000",
       "title": "un bouclier de recettes pour brider la tentation de letat de rogner les dotations locales",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -4427,7 +5377,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-4-1789392000000",
+      "id": "acteurs-publics-sitemap-5-1789392000000",
       "title": "fonction publique les eleves de banlieue et des zones rurales encore minoritaires au sein des prepas talents",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -4451,7 +5401,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-5-1789390740000",
+      "id": "acteurs-publics-sitemap-6-1789390740000",
       "title": "refere suspension le conseil detat refuse de suspendre la radiation disciplinaire dun officier",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -4475,32 +5425,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-6-1789397100000",
-      "title": "a bout de financements linclusion numerique en quete de soutien",
-      "source": "Acteurs Publics",
-      "sourceId": "acteurs-publics",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://acteurspublics.fr/articles/a-bout-de-financements-linclusion-numerique-en-quete-de-soutien/",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Politiques publiques",
-        "Collectivités",
-        "Transition",
-        "Réglementation"
-      ],
-      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "acteurs-publics-sitemap-7-1789384440000",
+      "id": "acteurs-publics-sitemap-8-1789384440000",
       "title": "65 des etablissements scolaires manquent au moins dun professeur a la rentree",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -4524,7 +5449,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-8-1789383840000",
+      "id": "acteurs-publics-sitemap-9-1789383840000",
       "title": "finances publiques conditions de travail parlement",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -4548,7 +5473,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-19-1789371480000",
+      "id": "acteurs-publics-sitemap-20-1789371480000",
       "title": "commande publique letat et la filiere numerique scellent leur reconciliation autour dun pacte",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -4572,7 +5497,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-26-1789371420000",
+      "id": "acteurs-publics-sitemap-27-1789371420000",
       "title": "pour lutter contre linflation du contentieux le conseil detat va developper plusieurs outils dia",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -4596,32 +5521,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-4-1789340700000",
-      "title": "Préparer l’automne : les solutions ARALTEC pour des systèmes d’évacuation des eaux pluviales durables et performants",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/solutions-araltec-evacuation-eaux-pluviales-durables-49139",
-      "image": "https://img.batiweb.com/repo-images/publi/49139/araltec-09-15-une.jpg",
-      "date": "2026-09-13",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "À l'approche de l'automne, les systèmes d’évacuation des eaux pluviales sont particulièrement sollicités. ARALTEC accompagne les professionnels du bâtiment avec une gamme complète de solutions pensées pour améliorer la performance, la durabilité des installations et limiter l’ent…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-5-1789340700000",
+      "id": "batiweb-rss-6-1789340700000",
       "title": "Réhabilitation du Belvédère à Saint-Brieuc : un projet de sobriété carbone",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4647,7 +5547,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1789279200000",
+      "id": "batiweb-rss-7-1789340700000",
+      "title": "Préparer l’automne : les solutions ARALTEC pour des systèmes d’évacuation des eaux pluviales durables et performants",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/solutions-araltec-evacuation-eaux-pluviales-durables-49139",
+      "image": "https://img.batiweb.com/repo-images/publi/49139/araltec-09-15-une.jpg",
+      "date": "2026-09-13",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Eau",
+        "Bâtiment"
+      ],
+      "summary": "À l'approche de l'automne, les systèmes d’évacuation des eaux pluviales sont particulièrement sollicités. ARALTEC accompagne les professionnels du bâtiment avec une gamme complète de solutions pensées pour améliorer la performance, la durabilité des installations et limiter l’ent…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-11-1789279200000",
       "title": "« Protéger la nature en étant nourri et logé » : chaque été, des milliers d'Allemands prennent soin de leurs forêts",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4673,7 +5598,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1789277400000",
+      "id": "reporterre-rss-12-1789277400000",
       "title": "Pour réduire les coûts, ils participent à la construction de leur maison en paille",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4699,7 +5624,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-0-1789279471000",
+      "id": "revolution-energetique-rss-1-1789279471000",
       "title": "La centrale nucléaire de Nogent-sur-Seine veut accueillir une paire d’EPR2",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -4724,7 +5649,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-1-1789275115000",
+      "id": "revolution-energetique-rss-2-1789275115000",
       "title": "Les chantiers nucléaires se multiplient dans le monde, mais les mises en service sont extrêment lentes",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -4750,7 +5675,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1789290060000",
+      "id": "lenergeek-rss-10-1789290060000",
       "title": "Voitures électriques : une consommation réelle de 16,5 à 21 kWh/100km sur longs trajets",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4776,7 +5701,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1789280439000",
+      "id": "lenergeek-rss-11-1789280439000",
       "title": "Ni construction sèche ni brique, la technologie innovante pour bâtir une maison de 120 m2 en 48 heures",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4802,7 +5727,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1789278650000",
+      "id": "lenergeek-rss-12-1789278650000",
       "title": "Une ville complète viendra de Chine pour s’installer dans la cordillère argentine, accueillant 5 000 travailleurs d’un mégaprojet minier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4828,7 +5753,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1789276828000",
+      "id": "lenergeek-rss-13-1789276828000",
       "title": "Des bouteilles en plastique recyclé attachées aux filets de pêche, les dauphins les repèrent et 88 % des captures accidentelles s’annulent",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4853,33 +5778,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-9-1789324341000",
-      "title": "Orange installe un pylône par hélicoptère pour déployer la 5G à Saint-Loup-de-Naud",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/orange-installe-un-pylone-par-helicoptere-pour-deployer-la-5g-a-saint-loup-de-naud/",
-      "image": null,
-      "date": "2026-09-13",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "Un hélicoptère a acheminé, jeudi 10 septembre, les cinq éléments d’un nouveau pylône à Saint-Loup-de-Naud. Cette opération exceptionnelle doit permettre à Orange d’améliorer la couverture 4G et de déployer la 5G dans ce secteur rural. Un hélicoptère a acheminé, jeudi 10 septembre…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-12-1789191000000",
+      "id": "reporterre-rss-13-1789191000000",
       "title": "« Kroak, kroak » : comment déchiffrer le langage des oiseaux nocturnes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4905,7 +5804,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1789189200000",
+      "id": "reporterre-rss-14-1789189200000",
       "title": "Ni eau, ni frigo, ni WC : le dur quotidien de ces bergers dans des cabanes insalubres",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4931,7 +5830,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1789185600000",
+      "id": "reporterre-rss-15-1789185600000",
       "title": "Céline Dion à Paris : peut-on encore se permettre une telle gabegie écologique ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4956,7 +5855,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1789189200000",
+      "id": "vert-rss-3-1789189200000",
       "title": "«C’est frappant d’entendre si peu d’alouettes» : dans les jumelles d’un ornithologue à l’heure du déclin des oiseaux",
       "source": "Vert",
       "sourceId": "vert",
@@ -4981,7 +5880,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-2-1789224099000",
+      "id": "revolution-energetique-rss-3-1789224099000",
       "title": "Cette ancienne carrière va accueillir un parc photovoltaïque flottant",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -5007,7 +5906,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-3-1789217976000",
+      "id": "revolution-energetique-rss-4-1789217976000",
       "title": "La capacité de stockage par batterie explose dans le monde, tirée par la Chine",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -5033,7 +5932,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-4-1789189331000",
+      "id": "revolution-energetique-rss-5-1789189331000",
       "title": "Le prix de l’électricité a explosé au mois d’aout, mais les opérateurs de stockage se frottent les mains",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -5059,7 +5958,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1789194059000",
+      "id": "lenergeek-rss-14-1789194059000",
       "title": "Mettre une bouteille d’eau dans le réservoir des toilettes, à quoi ça sert et pourquoi c’est déjà une habitude dans plusieurs pays",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5085,7 +5984,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1789192222000",
+      "id": "lenergeek-rss-15-1789192222000",
       "title": "Chauffage : une étude scientifique allemande confirme que ce système de chauffage est le plus économique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5109,7 +6008,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1789190418000",
+      "id": "lenergeek-rss-16-1789190418000",
       "title": "Philadelphie a placé des toits blancs sur environ 340 maisons de seniors à faible revenu entre 2001 et 2003, les températures intérieures ont diminué et la consommation électrique a baissé de 560 kWh par an",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5158,7 +6057,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-6-1789138800000",
+      "id": "batiweb-rss-8-1789138800000",
       "title": "Énergie : les propositions de la FEDENE pour le prochain quinquennat",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5184,7 +6083,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-7-1789135200000",
+      "id": "batiweb-rss-9-1789135200000",
       "title": "Entreprises du paysage : +3 % d’activité au 1er semestre 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5208,7 +6107,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-8-1789133400000",
+      "id": "batiweb-rss-10-1789133400000",
       "title": "Delta Dore et Survoltage s'allient pour démocratiser la flexibilité électrique",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5231,7 +6130,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-9-1789120800000",
+      "id": "batiweb-rss-11-1789120800000",
       "title": "Solarisation des parkings intermédiaires : un report... sous conditions",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5257,7 +6156,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-10-1789110000000",
+      "id": "batiweb-rss-12-1789110000000",
       "title": "Chaudières combustibles fossiles : que change l'arrêté du 4 septembre 2026 ?",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5333,7 +6232,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-2-1789112471000",
+      "id": "auat-toulouse-rss-4-1789112471000",
       "title": "Les organismes HLM investissent dans la recherche et développement",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -5356,7 +6255,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-3-1789112423000",
+      "id": "auat-toulouse-rss-5-1789112423000",
       "title": "Climat : séparer adaptation et atténuation freine-t-il l’action ?",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -5475,7 +6374,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-3-1789127126000",
+      "id": "novethic-rss-4-1789127126000",
       "title": "Comptabilité carbone : vers une norme unifiée entre l'ISO et le GHG Protocol",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -5501,7 +6400,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-4-1789119918000",
+      "id": "novethic-rss-5-1789119918000",
       "title": "Donald Trump saborde l’éolien offshore, la Californie riposte",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -5527,7 +6426,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-5-1789101948000",
+      "id": "novethic-rss-6-1789101948000",
       "title": "Rapports CSRD, saison 2 : la transformation commence à se dessiner \"en pointillés\"",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -5552,7 +6451,55 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1789143704000",
+      "id": "mediatico-rss-2-1789117200000",
+      "title": "Fairtrade réforme son label Textile équitable : pragmatisme ou recul stratégique ?",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/fairtrade-reforme-son-label-textile-equitable-pragmatisme-ou-recul-strategique/",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Depuis le 1er septembre 2026, le Standard Textile Fairtrade a changé de philosophie. Historiquement conçu pour couvrir les pratiques équitables et responsables de l’ensemble de la chaîne textile – de l’égrenage du coton jusqu’au produit fini en passant par la filature et le tissa…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-3-1789110000000",
+      "title": "Cinq centres sociaux parisiens renforcent le pouvoir d’agir des habitants sur leur cadre de vie",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/cinq-centres-sociaux-parisiens-sallient-pour-renforcer-le-pouvoir-dagir-des-habitants-sur-leur-cadre-de-vie/",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "L’environnement urbain ne cesse d’évoluer au gré de transformations, qui peuvent être subies par les habitants, notamment les plus vulnérables. Comment les conduire à comprendre, s’approprier et prendre part aux évolutions de leur cadre de vie ? Entre 2024 et 2025, cinq centres s…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-16-1789143704000",
       "title": "Le Secrétariat général à la planification écologique change de chef et d'organisation",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5578,7 +6525,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1789142803000",
+      "id": "reporterre-rss-17-1789142803000",
       "title": "Plus de 1/4 des Français se déclarent en situation de précarité, selon le Secours populaire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5603,7 +6550,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1789136168000",
+      "id": "reporterre-rss-18-1789136168000",
       "title": "Le gouvernement sacrifie encore l'écologie pour financer les aides aux agriculteurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5628,7 +6575,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1789135200000",
+      "id": "reporterre-rss-19-1789135200000",
       "title": "Ces algues étouffent les Antilles : et si on les transformait en compost ou en béton ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5652,7 +6599,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1789131600000",
+      "id": "reporterre-rss-20-1789131600000",
       "title": "Un « super El Niño » dévastateur arrive : pourquoi l'Europe devrait être épargnée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5677,7 +6624,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1789129297000",
+      "id": "reporterre-rss-21-1789129297000",
       "title": "Poussières toxiques du 11-Septembre : le maire de New York accuse les anciens élus d'avoir tu le danger",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5701,7 +6648,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1789102800000",
+      "id": "reporterre-rss-22-1789102800000",
       "title": "« C'est vivant ! » : en pleine sécheresse, ces paysans ont eu de l'eau grâce aux zones humides",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5727,7 +6674,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1789101000000",
+      "id": "reporterre-rss-23-1789101000000",
       "title": "Quitter Gmail, ils l'ont fait : les conseils pour le grand saut",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5752,7 +6699,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1789099200000",
+      "id": "reporterre-rss-24-1789099200000",
       "title": "« C'est irresponsable » : à Strasbourg, les socialistes reviennent sur la végétalisation des cours d'école",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5778,7 +6725,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1789132585000",
+      "id": "vert-rss-4-1789132585000",
       "title": "En Haute-Savoie, une nouvelle autoroute décriée : ce chantier «condamne l’habitabilité de notre territoire»",
       "source": "Vert",
       "sourceId": "vert",
@@ -5803,7 +6750,132 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-5-1789131600000",
+      "id": "greenunivers-rss-5-1789145993000",
+      "title": "Marine Le Pen et Bernard Fontana s’entretiennent sur le nucléaire tricolore",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/marine-le-pen-et-bernard-fontana-sentretiennent-sur-le-nucleaire-tricolore-432922/",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "Exclusif — Bernard Fontana, PDG d’EDF, et Marine Le Pen, candidate RN à la présidentielle, se sont entretenus au siège d’EDF en début de semaine. L’occasion d’échanger sur « Marie Curie ». Non pas la physicienne, mais le programme énergétique du parti à la flamme. Ce n’est pas pa…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-6-1789141232000",
+      "title": "Comment Valorem se prépare à 2027 et au-delà",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/comment-valorem-se-prepare-a-2027-et-au-dela-432760/",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "Entretien — En France, l’année qui vient est à fort risque politique pour l’électricité renouvelable. Avec 1,8 TWh généré l’année dernière, Valorem en est un producteur important. Comment se prépare-t-il ? Que prévoit ce spécialiste de l’éolien et du solaire pour les années suiva…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-7-1789141163000",
+      "title": "Electrification : le gouvernement prépare de nouvelles mesures, sélectionne 109 territoires tests",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/electrification-le-gouvernement-prepare-de-nouvelles-mesures-selectionne-109-territoires-tests-432838/",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "Les 100 territoires d’électrification, devenus 109, démarrent officiellement leur parcours. Le gouvernement a publié la cartographie des zones sélectionnées, consultable en bas de page, et va maintenant L’article Electrification : le gouvernement prépare de nouvelles mesures, sél…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-8-1789140895000",
+      "title": "Où en est Le Bon Tuyau, défricheur de la géothermie en location ?",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/ou-en-est-le-bon-tuyau-defricheur-de-la-geothermie-en-location-432882/",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Pourvoyeuse en abondance de chaleur et froid renouvelable, la géothermie présente un attrait indéniable sur le papier. Sur le terrain, c’est différent. L’investissement L’article Où en est Le Bon Tuyau, défricheur de la géothermie en location ? est apparu en premier sur GreenUniv…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-9-1789123964000",
+      "title": "Les documents de la semaine",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/les-documents-de-la-semaine-381215/",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "pv-magazine-france-rss-7-1789131600000",
       "title": "20 000 clients particuliers d’elmy passent chez Octopus Energy",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -5828,7 +6900,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-6-1789128000000",
+      "id": "pv-magazine-france-rss-8-1789128000000",
       "title": "La Caisse d’Épargne Bretagne Pays de Loire et SeeYouSun renouvellent leur partenariat",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -5853,7 +6925,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-7-1789117200000",
+      "id": "pv-magazine-france-rss-9-1789117200000",
       "title": "Un rapport de la CRE confirme l’avènement du couple « PV + flexibilité »",
       "source": "PV Magazine France",
       "sourceId": "pv-magazine-france",
@@ -5878,59 +6950,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-8-1789113600000",
-      "title": "Un collectif de développeurs solaires appelle à publier deux appels d’offres « PV sur bâtiment »",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/09/11/un-collectif-de-developpeurs-solaires-appelle-a-publier-deux-appels-doffres-pv-sur-batiment/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Énergie",
-        "Bâtiment"
-      ],
-      "summary": "Les 13 entreprises demandent au gouvernement « de respecter ses engagements, à faire preuve de cohérence avec ses propres politiques publiques et à donner de la visibilité à une filière industrielle », en lançant deux appels d’offres « bâtiment » de 300 MWc d’ici à l’élection pré…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-9-1789111800000",
-      "title": "L’Union européenne a déployé 33,8 GW de solaire au premier semestre",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/09/11/lunion-europeenne-a-deploye-338-gw-de-solaire-au-premier-semestre/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Eau",
-        "Énergie"
-      ],
-      "summary": "SolarPower Europe prévoit que l’Union européenne installera 68,1 GW de nouvelles capacités solaires en 2026, soit seulement 2,1 % de moins que le record de 69,6 GW ajouté en 2025. Les perspectives se sont améliorées depuis décembre, mais les incertitudes politiques, la réduction …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "revolution-energetique-rss-5-1789139222000",
+      "id": "revolution-energetique-rss-6-1789139222000",
       "title": "Éolien : vers une puissance installée record pour l’Europe en 2026 ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -6157,7 +7177,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "lenergeek-rss-13-1789133892000",
+      "id": "lenergeek-rss-17-1789133892000",
       "title": "Bolloré arrête la production de bus électriques Bluebus",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6182,7 +7202,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1789132991000",
+      "id": "lenergeek-rss-18-1789132991000",
       "title": "Nucléaire : une aide substantielle pour relancer une centrale alimentant les datas centers de Google",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6206,7 +7226,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1789132480000",
+      "id": "lenergeek-rss-19-1789132480000",
       "title": "Recharge résidentielle : Logivolt lève 300 millions pour déployer 1,7 million de bornes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6232,7 +7252,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1789130639000",
+      "id": "lenergeek-rss-20-1789130639000",
       "title": "Alstom déploie sa plateforme Adessia au Royaume-Uni avec 29 trains électriques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6258,7 +7278,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1789127100000",
+      "id": "lenergeek-rss-21-1789127100000",
       "title": "Changement d’heure : pourquoi 440 GWh économisés ne suffisent plus",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6282,7 +7302,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1789125002000",
+      "id": "lenergeek-rss-22-1789125002000",
       "title": "L’UE a déjà versé 7,3 milliards d’euros au GNL russe en huit mois",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6306,7 +7326,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1789110060000",
+      "id": "lenergeek-rss-23-1789110060000",
       "title": "Pétrole : les gagnants et les perdants de la guerre en Iran",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6331,104 +7351,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1789107635000",
-      "title": "Les maçons sont unanimes : cette technique pour réparer un mur humide sans assainir ni débris surprend même les architectes",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/09/11/les-macons-sont-unanimes-cette-technique-pour-reparer-un-mur-humide-sans-assainir-ni-debris-surprend-meme-les-architectes/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/09/Les-macons-sont-unanimes-cette-technique-pour-reparer-un-mur-humide-sans-assainir-ni-debris-surprend-meme-les-architecte.webp",
-      "date": "2026-09-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Des taches sombres, un crépi qui s'effrite ? Des maçons révèlent une astuce en six étapes pour stopper l'humidité qui grimpe dans vos murs, sans casser ni salir toute la maison. L’article Les maçons sont unanimes : cette technique pour réparer un mur humide sans assainir ni débri…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-21-1789105838000",
-      "title": "Hannah, 15 ans et étudiante, fabrique un générateur à 12 € pour alimenter des foyers isolés, et ça fonctionne",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/09/11/hannah-15-ans-et-etudiante-fabrique-un-generateur-a-12-e-pour-alimenter-des-foyers-isoles-et-ca-fonctionne/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/09/Hannah-15-ans-et-etudiante-fabrique-un-generateur-a-12-E-pour-alimenter-des-foyers-isoles-et-ca-fonctionne.webp",
-      "date": "2026-09-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Douze dollars, un tube en PVC et une idée d'ado : comment Hannah Herbst a transformé un simple courant marin en électricité, sous le regard impressionné des ingénieurs de 3M. L’article Hannah, 15 ans et étudiante, fabrique un générateur à 12 € pour alimenter des foyers isolés, et…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1789105493000",
-      "title": "Tentative de sabotage : la Russie testait une arme sous-marine secrète",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/09/11/sabotage-tentative-russie-testait-arme-marine-secrete/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/03/tat-8-cables-sous-marins-mv-maasvliet.webp",
-      "date": "2026-09-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Une opération conjointe de l'OTAN a permis de déjouer un exercice secret russe visant à tester une arme de sabotage contre des câbles sous-marins en Arctique. L’article Tentative de sabotage : la Russie testait une arme sous-marine secrète est apparu en premier sur L'EnerGeek. Un…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1789104027000",
-      "title": "Des chercheurs ont transformé des restes de riz et de jaunes d’œufs en batterie : après 10 000 cycles, elle garde encore 82 % de sa capacité",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/09/11/des-chercheurs-ont-transforme-des-restes-de-riz-et-de-jaunes-doeufs-en-batterie-apres-10-000-cycles-elle-garde-encore-82-de-sa-capacite/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/09/Des-chercheurs-ont-transforme-des-restes-de-riz-et-de-jaunes-doeufs-en-batterie-apres-10-000-cycles-elle-garde-encore-8.webp",
-      "date": "2026-09-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Un reste de riz, un jaune d'œuf, et voilà un matériau capable de stocker de l'électricité comme une éponge géante. Sa surface interne ? Celle d'un appartement entier, dans un simple gramme de poudre. L’article Des chercheurs ont transformé des restes de riz et de jaunes d’œufs en…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "acteurs-publics-sitemap-9-1789122660000",
+      "id": "acteurs-publics-sitemap-10-1789122660000",
       "title": "bercy annule 500 millions deuros de credits issus de la reserve de precaution",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6452,7 +7375,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-10-1789122300000",
+      "id": "acteurs-publics-sitemap-11-1789122300000",
       "title": "justice budget modernisation numerique",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6476,7 +7399,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-11-1789121520000",
+      "id": "acteurs-publics-sitemap-12-1789121520000",
       "title": "directive europeenne sur les salaires un nouveau defi pour les drh publiques",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6501,7 +7424,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-12-1789119360000",
+      "id": "acteurs-publics-sitemap-13-1789119360000",
       "title": "lindependance au coeur du nouveau projet de service de linspection generale de leducation nationale",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6526,7 +7449,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-13-1789119540000",
+      "id": "acteurs-publics-sitemap-14-1789119540000",
       "title": "pour tenter dendiguer le shadow ai letat publie un guide a destination des agents",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6550,7 +7473,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-14-1789115280000",
+      "id": "acteurs-publics-sitemap-15-1789115280000",
       "title": "nbi charges detudes documentaires quoi de neuf au jo cette semaine",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6574,7 +7497,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-15-1789116660000",
+      "id": "acteurs-publics-sitemap-16-1789116660000",
       "title": "claire thoury presidente du cese nous devons aborder des sujets sur lesquels nous ne sommes pas attendus",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6599,7 +7522,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-16-1789112100000",
+      "id": "acteurs-publics-sitemap-17-1789112100000",
       "title": "fonction publique laccord sur legalite professionnelle au bord de lechec",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6624,7 +7547,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-17-1789109700000",
+      "id": "acteurs-publics-sitemap-18-1789109700000",
       "title": "le compte rendu du conseil des ministres du 10 septembre",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6723,7 +7646,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-11-1789050600000",
+      "id": "batiweb-rss-13-1789050600000",
       "title": "Donations : les notaires proposent de réduire certaines taxes de moitié",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6746,7 +7669,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-12-1789050300000",
+      "id": "batiweb-rss-14-1789050300000",
       "title": "HLM : des capacités d'investissement dépendantes des ventes de logements",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6771,7 +7694,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-13-1789048800000",
+      "id": "batiweb-rss-15-1789048800000",
       "title": "Edycem reprend quatre centrales à béton BHR en Loire-Atlantique",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6795,7 +7718,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-14-1789047000000",
+      "id": "batiweb-rss-16-1789047000000",
       "title": "Smart TRV, la tête thermostatique intelligente grâce à l'IA embarquée",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6818,7 +7741,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-15-1789034400000",
+      "id": "batiweb-rss-17-1789034400000",
       "title": "Électricité : les renouvelables ont fait baisser les prix, selon la CRE",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6894,7 +7817,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-4-1789026235000",
+      "id": "auat-toulouse-rss-6-1789026235000",
       "title": "En Gironde et dans les Landes, les parcs naturels régionaux dessinent les contours d’un territoire moins vulnérable au feu",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -6917,7 +7840,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-5-1789026197000",
+      "id": "auat-toulouse-rss-7-1789026197000",
       "title": "ZAN : des données et des normes",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -6992,7 +7915,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1788998400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1788998400000",
       "title": "formations dexception",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -7016,7 +7939,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "agam-marseille-rss-1-1789050678000",
+      "id": "agam-marseille-rss-2-1789050678000",
       "title": "Atelier 1 – Outil de diagnostic partagé des Espaces Publics",
       "source": "AGAM Marseille",
       "sourceId": "agam-marseille",
@@ -7039,7 +7962,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "agam-marseille-rss-2-1789035994000",
+      "id": "agam-marseille-rss-3-1789035994000",
       "title": "POUR DES ESPACES PUBLICS MÉDITERRANÉENS ACCUEILLANTS, RÉSISTANTS ET RÉSILIENTS À MARSEILLE",
       "source": "AGAM Marseille",
       "sourceId": "agam-marseille",
@@ -7062,7 +7985,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "agam-marseille-rss-5-1789053570000",
+      "id": "agam-marseille-rss-6-1789053570000",
       "title": "L’AGAM à l’ENSA‑Marseille : éclairages sur les mobilités, les activités et l’économie",
       "source": "AGAM Marseille",
       "sourceId": "agam-marseille",
@@ -7206,7 +8129,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-6-1789040718000",
+      "id": "novethic-rss-7-1789040718000",
       "title": "Pour affaiblir le Nutri-score, l’agroalimentaire reprend les vieilles recettes du tabac",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7231,7 +8154,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-7-1789033909000",
+      "id": "novethic-rss-8-1789033909000",
       "title": "Elimination du carbone dans l’air : \"les acteurs sont dans une phase de traversée du désert\"",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7257,7 +8180,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-8-1789015536000",
+      "id": "novethic-rss-9-1789015536000",
       "title": "Wikipédia au bord de la crise : salariés et bénévoles prêts à faire grève",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7283,7 +8206,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1789047000000",
+      "id": "mediatico-rss-4-1789023600000",
+      "title": "Mentorat : comment Twoo et Uxco aident les jeunes à trouver leur place dans le monde du travail",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/mentorat-comment-twoo-et-uxco-aident-les-jeunes-a-trouver-leur-place-dans-le-monde-du-travail/",
+      "image": null,
+      "date": "2026-09-10",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Isolement, précarité, décrochage : l’entrée dans la vie professionnelle est devenue, pour une partie de la jeunesse, une zone à risque plutôt qu’un rite de passage. Face à ce constat, une association et une entreprise privée ont choisi de répondre ensemble plutôt que séparément. …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-25-1789047000000",
       "title": "« Un passage en force » : la LGV Bordeaux-Toulouse ravive le cauchemar de l'A69",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7309,7 +8256,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1789046438000",
+      "id": "reporterre-rss-26-1789046438000",
       "title": "Répression : le traitement de militants de Greenpeace jugé « préoccupant » par un rapporteur de l'ONU",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7333,7 +8280,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1789045666000",
+      "id": "reporterre-rss-27-1789045666000",
       "title": "1,6 million de Françaises alertées d'un risque de tumeur au cerveau lié à leur pilule",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7359,7 +8306,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1789045200000",
+      "id": "reporterre-rss-28-1789045200000",
       "title": "Record de température : l'océan est en surchauffe depuis 100 jours",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7385,7 +8332,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1789043400000",
+      "id": "reporterre-rss-29-1789043400000",
       "title": "« Tu as l'impression que tu vas étouffer » : la poussière rend malades les ouvriers d'une mine d'Imerys",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7411,7 +8358,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1789030800000",
+      "id": "reporterre-rss-30-1789030800000",
       "title": "Incendies, pergélisol... Ces émissions de CO₂ vont réchauffer le climat au-delà de nos prévisions",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7437,7 +8384,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1789022560000",
+      "id": "reporterre-rss-31-1789022560000",
       "title": "Cacophonie et RN en roue libre : sur BFM, un débat chaotique sur l'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7462,7 +8409,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1789012800000",
+      "id": "reporterre-rss-32-1789012800000",
       "title": "Paradis des oiseaux, ce banc de sable pourrait être englouti par les eaux",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7487,7 +8434,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1789005600000",
+      "id": "reporterre-rss-33-1789005600000",
       "title": "Le mois d'août a été le plus chaud jamais enregistré à l'échelle mondiale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7513,7 +8460,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1789055751000",
+      "id": "vert-rss-5-1789055751000",
       "title": "Après cet été caniculaire, allez-vous payer vos aliments plus cher dans les supermarchés ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -7539,7 +8486,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1789052749000",
+      "id": "vert-rss-6-1789052749000",
       "title": "Congé climatique, «journée intensive»… Pour concilier travail et chaleur, la France pourrait s’inspirer de solutions espagnoles",
       "source": "Vert",
       "sourceId": "vert",
@@ -7565,7 +8512,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1789034233000",
+      "id": "vert-rss-7-1789034233000",
       "title": "Les Français face à l’amnésie climatique : combien de temps trouverons-nous ces étés caniculaires anormaux ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -7591,7 +8538,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1789030640000",
+      "id": "vert-rss-8-1789030640000",
       "title": "Où habiter en 2050 ? Les pistes du géographe Guillaume Faburel, des collines normandes aux Préalpes",
       "source": "Vert",
       "sourceId": "vert",
@@ -7616,7 +8563,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-6-1789052300000",
+      "id": "revolution-energetique-rss-7-1789052300000",
       "title": "Énergies renouvelables : les investissements stagnent depuis l’année dernière",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -7642,7 +8589,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-18-1789055940000",
+      "id": "acteurs-publics-sitemap-19-1789055940000",
       "title": "reforme de letat recrutements ia services publics la revue de presse internationale",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7666,7 +8613,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-20-1789047000000",
+      "id": "acteurs-publics-sitemap-21-1789047000000",
       "title": "dans la fonction publique un management toxique peut entrainer une revocation",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7690,7 +8637,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-21-1789046280000",
+      "id": "acteurs-publics-sitemap-22-1789046280000",
       "title": "elections professionnelles les syndicats en campagne pour reveiller la participation des agents",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7714,7 +8661,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-22-1789048380000",
+      "id": "acteurs-publics-sitemap-23-1789048380000",
       "title": "commande publique la commission europeenne propose une reforme dampleur",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7738,7 +8685,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-23-1789036980000",
+      "id": "acteurs-publics-sitemap-24-1789036980000",
       "title": "cabinets ministeriels demarches administratives cybersecurite",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7762,32 +8709,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-24-1789035660000",
-      "title": "un rapport propose un nouveau mode de cooperation entre letat et les collectivites fonde sur la subsidiarite",
-      "source": "Acteurs Publics",
-      "sourceId": "acteurs-publics",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://acteurspublics.fr/articles/un-rapport-propose-un-nouveau-mode-de-cooperation-entre-letat-et-les-collectivites-fonde-sur-la-subsidiarite/",
-      "image": null,
-      "date": "2026-09-10",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Politiques publiques",
-        "Collectivités",
-        "Transition",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "acteurs-publics-sitemap-25-1789028820000",
+      "id": "acteurs-publics-sitemap-26-1789028820000",
       "title": "la pression temporelle au travail dans la fonction publique a augmente de 3 entre 2016 et 2024",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7836,7 +8758,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-16-1788995100000",
+      "id": "batiweb-rss-18-1788995100000",
       "title": "Testo présente une nouvelle génération d'instruments de mesure connectés",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7860,7 +8782,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-17-1788995100000",
+      "id": "batiweb-rss-19-1788995100000",
       "title": "BATIMAT : BREMAUD met la menuiserie en mouvement",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7879,56 +8801,6 @@ window.BATIVEILLE_DATA = {
         "Marché"
       ],
       "summary": "Le mouvement sera présent Hall 4 – Allée E - Stand 092. Rejoignez-le ! Le mouvement sera présent Hall 4 – Allée E - Stand 092. Rejoignez-le ! BATIMAT : BREMAUD met la menuiserie en mouvement",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-18-1788995100000",
-      "title": "Pourquoi certaines enveloppes résistent-elles mieux à la chaleur que d'autres ?",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/enveloppes-batiment-resistance-chaleur-49195",
-      "image": "https://img.batiweb.com/repo-images/publi/49195/eternit-09-14-une.jpg",
-      "date": "2026-09-09",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Confort d’été"
-      ],
-      "summary": "Limiter l'entrée de la chaleur avant de devoir l'évacuer : un principe simple qui replace l'enveloppe au cœur du confort d'été. Limiter l'entrée de la chaleur avant de devoir l'évacuer : un principe simple qui replace l'enveloppe au cœur du confort d'été. Pourquoi certaines envel…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-19-1788963600000",
-      "title": "Décarbonation : France Gaz chiffre jusqu’à 460 Md€ d’économies grâce aux gaz verts",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/energie/gaz-verts-economies-france-gaz-2050-49271",
-      "image": "https://img.batiweb.com/repo-images/article/49271/fg.jpg",
-      "date": "2026-09-09",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "Carbone",
-        "Économie du bâtiment"
-      ],
-      "summary": "France Gaz estime que le recours aux gaz renouvelables pourraient réduire de 330 à 460 milliards d’euros les investissements dans la transition énergétique d’ici 2050. France Gaz estime que le recours aux gaz renouvelables pourraient réduire de 330 à 460 milliards d’euros les inv…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7958,7 +8830,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-occitanie-rss-0-1788948030000",
+      "id": "envirobat-occitanie-rss-7-1788948030000",
       "title": "PAC collectives : le raccordement électrique, préalable à toute conversion de chaufferie",
       "source": "Envirobat Occitanie",
       "sourceId": "envirobat-occitanie",
@@ -7982,7 +8854,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-occitanie-rss-1-1788947186000",
+      "id": "envirobat-occitanie-rss-8-1788947186000",
       "title": "Enquête filière bâtiment : donnez votre avis pour construire les actions innovation de demain",
       "source": "Envirobat Occitanie",
       "sourceId": "envirobat-occitanie",
@@ -8003,32 +8875,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Enquête filière bâtiment : donnez votre avis pour construire les actions innovation de demain eponsribot@env… mer, 9 Sep 2026 - 11:46 Enquête filière bâtiment : donnez votre avis pour construire les actions innovation de demain eponsribot@env… mer, 9 Sep 2026 - 11:46 Enquête fili…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-occitanie-rss-2-1788946134000",
-      "title": "Visite de l'immeuble L'Orival à Toulouse, un exemple en matière de sobriété hydrique",
-      "source": "Envirobat Occitanie",
-      "sourceId": "envirobat-occitanie",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Occitanie",
-      "url": "https://www.envirobat-oc.fr/visite-de-l-immeuble-l-orival-a-toulouse-un-exemple-en-matiere-de-sobriete-hydrique",
-      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/cke_media_resize_large/public/2026-09/logo_aeag_site_observatoire-1320x495.jpg.webp?itok=ozQGTQjO",
-      "date": "2026-09-09",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "BDO",
-        "REX",
-        "Réglementation",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Visite de l'immeuble L'Orival à Toulouse, un exemple en matière de sobriété hydrique eponsribot@env… mer, 9 Sep 2026 - 11:28 L'observatoire eau & aménagement, porté par l'AUAT en partenariat avec l'agence de l'eau Adour-Garonne et coanimé avec les agences d'urbanisme de Bordeaux …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8218,7 +9064,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "auat-toulouse-rss-6-1788959885000",
+      "id": "auat-toulouse-rss-8-1788959885000",
       "title": "Protégé : Qu’est-ce que la sobriété foncière ?",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -8242,7 +9088,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-7-1788941028000",
+      "id": "auat-toulouse-rss-9-1788941028000",
       "title": "Data centers : les illusions de la récupération de chaleur",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -8265,7 +9111,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-8-1788940964000",
+      "id": "auat-toulouse-rss-10-1788940964000",
       "title": "Face au climat, les territoires apprennent à renoncer",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -8288,7 +9134,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-1-1788912000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1788912000000",
       "title": "pour la semaine de la mobilite 2025 bougez dans le sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -8312,7 +9158,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1788912000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1788912000000",
       "title": "septembre bouge profitez du pass plein air pour vous mettre en mouvement",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -8336,7 +9182,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "agam-marseille-rss-6-1788945528000",
+      "id": "agam-marseille-rss-7-1788945528000",
       "title": "Atelier dédié à l’immobilier en santé",
       "source": "AGAM Marseille",
       "sourceId": "agam-marseille",
@@ -8457,33 +9303,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-9-1788961502000",
-      "title": "100 000 emplois supprimés : Volkswagen paie sa trop lente transition",
-      "source": "Novethic",
-      "sourceId": "novethic",
+      "id": "mediatico-rss-5-1788937200000",
+      "title": "Sport et handicap : le chiffre-choc de la valeur sociale ne suffit plus, il faut la démontrer",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
       "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/licenciements-massifs-surcapacites-volkswagen-paie-lente-transition",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/fileadmin/user_upload/tx_ausynovethicarticles/illustrations/Volkswagen_JULIAN_STRATENSCHULTE_-DPA_-_dpa_Picture-Alliance_-AFP-150x150.jpg",
+      "url": "https://mediatico.fr/sport-et-handicap-le-chiffre-choc-de-la-valeur-sociale-ne-suffit-plus-il-faut-la-demontrer/",
+      "image": null,
       "date": "2026-09-09",
       "access": "Accès gratuit partiel",
       "official": false,
-      "highImpact": true,
-      "impactScore": 96,
+      "highImpact": false,
+      "impactScore": 80,
       "tags": [
         "Presse professionnelle",
         "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Réglementation"
+        "Transition écologique",
+        "Économie sociale"
       ],
-      "summary": "Face à la concurrence des constructeurs chinois et à son retard dans les véhicules électriques, Volkswagen réduit drastiquement ses coûts. @JULIAN STRATENSCHULTE DPA Picture-Alliance AFP Volkswagen était l’un des symboles de la réussite industrielle allemande. Le constructeur de …",
+      "summary": "« Le taux de pratique sportive des personnes en situation de handicap est de 47 %, alors qu’il est de 80 % pour le reste de la population française ». Une inégalité qui dit tout de l’exclusion du champ sportif pour les personnes en situation de handicap. Une injustice, assurément…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1788993000000",
+      "id": "reporterre-rss-34-1788993000000",
       "title": "Les villes européennes sont les plus touchées par le réchauffement climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8507,7 +9351,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1788991260000",
+      "id": "reporterre-rss-35-1788991260000",
       "title": "Vêtements d'occasion : acheter sur internet émet jusqu'à 5 fois plus de CO2 qu'en boutique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8533,7 +9377,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1788964531000",
+      "id": "reporterre-rss-36-1788964531000",
       "title": "« Une véritable arnaque » : les voitures hybrides rechargeables émettent six fois plus de CO2 que les tests officiels",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8557,7 +9401,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1788962400000",
+      "id": "reporterre-rss-37-1788962400000",
       "title": "Marine Tondelier : « Ce qui se passe est trop grave pour abdiquer »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8583,7 +9427,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1788960499000",
+      "id": "reporterre-rss-38-1788960499000",
       "title": "Sécheresse : 74 départements en « crise », du jamais-vu en septembre",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8609,7 +9453,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1788958350000",
+      "id": "reporterre-rss-39-1788958350000",
       "title": "« D'où il sort celui-là ? » : ce loup n'attaque pas les troupeaux et n'a pas peur des humains",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8634,7 +9478,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1788938145000",
+      "id": "reporterre-rss-40-1788938145000",
       "title": "« Un passage en force similaire à l'A69 » : contre l'A412, ils se perchent sur des engins de chantier",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8660,7 +9504,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1788932400000",
+      "id": "reporterre-rss-41-1788932400000",
       "title": "François Ruffin : « Le moyen de sortir de la crise climatique, c'est le travail »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8686,7 +9530,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1788948040000",
+      "id": "vert-rss-9-1788948040000",
       "title": "«Prendre soin de vous en prenant soin du monde» : les conseils du psychologue Pierre-Éric Sutter pour faire face à l’éco-anxiété",
       "source": "Vert",
       "sourceId": "vert",
@@ -8711,33 +9555,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-9-1788945690000",
-      "title": "Une situation «dégradée» : après un été chaud et sec, la France aborde l’automne avec des réserves d’eau sous les normales",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/climat/une-situation-degradee-apres-un-ete-chaud-et-sec-la-france-aborde-lautomne-avec-des-reserves-deau-sous-les-normales/",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "La France sort de l’été avec des nappes phréatiques fragilisées. Au 1er septembre, le niveau de la majorité d’entre elles se situe sous les normales. Les pluies des prochaines semaines seront déterminantes pour reconstituer les réserves. On fait le point. La France sort de l’été …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "revolution-energetique-rss-7-1788940591000",
+      "id": "revolution-energetique-rss-8-1788940591000",
       "title": "Voici le premier train électrique français à batterie en service commercial",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -8866,7 +9684,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-27-1788964020000",
+      "id": "acteurs-publics-sitemap-28-1788964020000",
       "title": "amelie de montchalin recadre les regles deontologiques de la cour des comptes",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8890,7 +9708,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-28-1788960960000",
+      "id": "acteurs-publics-sitemap-29-1788960960000",
       "title": "lexecutif ecarte definitivement la transposition de la reforme de la haute fonction publique aux inspecteurs de sante publique",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8914,37 +9732,13 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-29-1788960840000",
+      "id": "acteurs-publics-sitemap-30-1788960840000",
       "title": "numerique public le run cette depense que letat ne veut pas voir",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
       "sourceType": "Presse professionnelle",
       "region": "National",
       "url": "https://acteurspublics.fr/articles/numerique-public-le-run-cette-depense-que-letat-ne-veut-pas-voir/",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Politiques publiques",
-        "Collectivités",
-        "Transition"
-      ],
-      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "acteurs-publics-sitemap-30-1788961320000",
-      "title": "aux rencontres de la relation citoyen les dirigeants publics face a leurs choix",
-      "source": "Acteurs Publics",
-      "sourceId": "acteurs-publics",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://acteurspublics.fr/articles/aux-rencontres-de-la-relation-citoyen-les-dirigeants-publics-face-a-leurs-choix/",
       "image": null,
       "date": "2026-09-09",
       "access": "Accès mixte",
@@ -8995,7 +9789,7 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Ordre professionnel",
       "region": "National",
       "url": "https://www.architectes.org/evenements/rencontre-architectures-territoires-16-octobre-2026-orleans-138631",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-09/AT26_Header-site_CROA%20CVL_1200px.jpg?itok=3pQMijPH",
+      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-09/CVDL_AT26_Header%20site_VF_1200px.jpg?itok=B-apzkKp",
       "date": "2026-09-08",
       "access": "open",
       "official": false,
@@ -9112,157 +9906,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-occitanie-rss-3-1788883093000",
-      "title": "Journée \"Qualité de la Construction Occitanie\"",
-      "source": "Envirobat Occitanie",
-      "sourceId": "envirobat-occitanie",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Occitanie",
-      "url": "https://www.envirobat-oc.fr/journee-qualite-de-la-construction-occitanie",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "BDO",
-        "REX",
-        "Réglementation",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "Journée \"Qualité de la Construction Occitanie\" eponsribot@env… mar, 8 Sep 2026 - 17:58 La DREAL Occitanie organise la 18ème édition de la Journée Qualité de la Construction (JQC), le 17 novembre à Toulouse. Cette édition, dédiée aux risques naturels dans le bâtiment, est co-organ…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-occitanie-rss-4-1788881961000",
-      "title": "Sicob Charpente",
-      "source": "Envirobat Occitanie",
-      "sourceId": "envirobat-occitanie",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Occitanie",
-      "url": "https://www.envirobat-oc.fr/sicob-charpente",
-      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-09/logo-sicob.png.webp?itok=nlVIux1P",
-      "date": "2026-09-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "BDO",
-        "REX",
-        "Réglementation",
-        "Biosourcé",
-        "Bâtiment"
-      ],
-      "summary": "Sicob Charpente plefort@enviro… mar, 8 Sep 2026 - 17:39 12-Aveyron Rte de Rodez 12240 Rieupeyroux Contact 05 65 65 51 29 Site internet Sicob Charpente Entreprise de charpente et de couverture. Non Projet BDO Enveloppe du bâtiment Structure - Gros Œuvre Bois Paille Sicob Charpente…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-occitanie-rss-5-1788881565000",
-      "title": "Journée régionale du bois énergie : nouveaux défis, nouvelles opportunités",
-      "source": "Envirobat Occitanie",
-      "sourceId": "envirobat-occitanie",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Occitanie",
-      "url": "https://www.envirobat-oc.fr/journee-regionale-du-bois-energie-nouveaux-defis-nouvelles-opportunites",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "BDO",
-        "REX",
-        "Réglementation",
-        "Eau",
-        "Biosourcé"
-      ],
-      "summary": "Journée régionale du bois énergie : nouveaux défis, nouvelles opportunités eponsribot@env… mar, 8 Sep 2026 - 17:32 La 5ᵉ édition de la Journée régionale du bois énergie se tiendra le 12 octobre 2026 à Espira de l'Agly, dans les Pyrénées-Orientales. Intitulée « Nouveaux défis et n…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-occitanie-rss-6-1788878168000",
-      "title": "Fouquet Architecture",
-      "source": "Envirobat Occitanie",
-      "sourceId": "envirobat-occitanie",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Occitanie",
-      "url": "https://www.envirobat-oc.fr/fouquet-architecture",
-      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-01/icone-structure.png.webp?itok=bn8wN3LL",
-      "date": "2026-09-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Bâtiment durable",
-        "BDO",
-        "REX"
-      ],
-      "summary": "Fouquet Architecture plefort@enviro… mar, 8 Sep 2026 - 16:36 34-Hérault 55 Rue Haguenot 34070 Montpellier Contact 04 67 92 45 82 Site internet Fouquet Architecture Nathanaël Fouquet et Julie Huguet Non Projet BDO Architecte Fouquet Architecture plefort@enviro… mar, 8 Sep 2026 - 1…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-occitanie-rss-7-1788875619000",
-      "title": "Inauguration de la plateforme de réemploi de Retolosa",
-      "source": "Envirobat Occitanie",
-      "sourceId": "envirobat-occitanie",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Occitanie",
-      "url": "https://www.envirobat-oc.fr/inauguration-de-la-plateforme-de-reemploi-de-retolosa",
-      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/cke_media_resize_large/public/2026-09/20260907092258-retaolosaproa5fp2mm-1.webp?itok=_JnypckW",
-      "date": "2026-09-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "BDO",
-        "REX",
-        "Réglementation",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Inauguration de la plateforme de réemploi de Retolosa eponsribot@env… mar, 8 Sep 2026 - 15:53 L'association Retolosa inaugure son nouveau lieu dédié à l'économie circulaire et au réemploi ! Au programme 14h00 : Ouverture des portes 15h00 : Présentation de l'association Retolosa :…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-occitanie-rss-8-1788858351000",
-      "title": "Commune de Saint-Paul-Flaugnac",
-      "source": "Envirobat Occitanie",
-      "sourceId": "envirobat-occitanie",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Occitanie",
-      "url": "https://www.envirobat-oc.fr/commune-de-saint-paul-flaugnac",
-      "image": "https://www.envirobat-oc.fr/sites/default/files/styles/full/public/2026-01/icone-structure.png.webp?itok=bn8wN3LL",
-      "date": "2026-09-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Bâtiment durable",
-        "BDO",
-        "REX",
-        "Eau"
-      ],
-      "summary": "Commune de Saint-Paul-Flaugnac plefort@enviro… mar, 8 Sep 2026 - 11:05 46-Lot Mairie principale 69 Impasse du Château 46170 Flaugnac Mairie annexe 475 Rue des écoliers 46170 Saint-Paul-de-Loubressac Contact 05 65 21 97 06 Site internet Saint-Paul-Flaugnac Nouvelle commune depuis …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "arec-occitanie-rss-0-1788882132000",
       "title": "Journées nationales du biogaz 2026",
       "source": "AREC Occitanie",
@@ -9287,7 +9930,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-9-1788854530000",
+      "id": "auat-toulouse-rss-11-1788854530000",
       "title": "« 80 % de logements publics, 90 % de propriétaires : le paradoxe singapourien qui devrait inspirer la France »",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -9311,7 +9954,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-10-1788854489000",
+      "id": "auat-toulouse-rss-12-1788854489000",
       "title": "Eolien, solaire : rencontre avec ces citoyens qui se réapproprient la production d’énergie",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -9335,7 +9978,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "agam-marseille-rss-7-1788874001000",
+      "id": "agam-marseille-rss-8-1788874001000",
       "title": "Séminaire annuel des directeurs et directrices des agences d’urbanisme",
       "source": "AGAM Marseille",
       "sourceId": "agam-marseille",
@@ -9354,29 +9997,6 @@ window.BATIVEILLE_DATA = {
         "Habitat"
       ],
       "summary": "L’article Séminaire annuel des directeurs et directrices des agences d’urbanisme est apparu en premier sur AGAM. L’article Séminaire annuel des directeurs et directrices des agences d’urbanisme est apparu en premier sur AGAM . Séminaire annuel des directeurs et directrices des ag…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "agam-marseille-rss-8-1788872472000",
-      "title": "La Fnau renouvelle ses instances",
-      "source": "AGAM Marseille",
-      "sourceId": "agam-marseille",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.agam.org/la-fnau-renouvelle-ses-instances/",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Marseille",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article La Fnau renouvelle ses instances est apparu en premier sur AGAM. L’article La Fnau renouvelle ses instances est apparu en premier sur AGAM . La Fnau renouvelle ses instances",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9502,7 +10122,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-41-1788885897000",
+      "id": "mediatico-rss-6-1788849900000",
+      "title": "ZEvent, le record : 33 millions d’euros levés pour les associations en un week-end",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/zevent-33-millions-deuros-la-fin-dun-format-qui-a-reecrit-les-regles-du-don/",
+      "image": null,
+      "date": "2026-09-08",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "Le compteur du ZEvent a définitivement cessé de tourner dimanche soir, c’était écrit. Mais l’événement a tiré sa révérence sur une apothéose. Quel exploit, en effet, que cette ultime édition de jeux vidéo en streaming, qui nous embarquait une nouvelle fois sur la voie d’un événem…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-42-1788885897000",
       "title": "« Un système industriel » : pour ses chasses interdites, Olivier Bouygues risque 5 ans de prison avec sursis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9528,7 +10173,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1788883422000",
+      "id": "reporterre-rss-43-1788883422000",
       "title": "« La colère gronde dans les casernes » : les pompiers remontés après une réunion au ministère de l'Intérieur",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9554,7 +10199,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1788874200000",
+      "id": "reporterre-rss-44-1788874200000",
       "title": "« On revient vingt ans en arrière » : à Avignon, le nouveau maire relance le tout-voiture",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9579,7 +10224,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1788872400000",
+      "id": "reporterre-rss-45-1788872400000",
       "title": "« Faire des vidéos, je trouve ça hyper déplacé » : quand l'été du chaos force les influenceurs à se soucier d'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9604,7 +10249,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1788871024000",
+      "id": "reporterre-rss-46-1788871024000",
       "title": "Interdiction de chasse : le grand tétras et le lagopède alpin désormais protégés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9630,7 +10275,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1788863040000",
+      "id": "reporterre-rss-47-1788863040000",
       "title": "Insultes, jets d'œufs... FNE porte plainte contre la Coordination rurale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9655,7 +10300,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1788855489000",
+      "id": "reporterre-rss-48-1788855489000",
       "title": "Réparer son smartphone : trop de fabricants ne respectent pas la réglementation",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9681,7 +10326,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1788845400000",
+      "id": "reporterre-rss-49-1788845400000",
       "title": "Pesticides : on en sait (enfin) plus sur l'effet cocktail",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9706,7 +10351,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1788843600000",
+      "id": "reporterre-rss-50-1788843600000",
       "title": "« Fuck la planète » : comment les puissants ont fait le choix du réchauffement climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9731,7 +10376,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1788840000000",
+      "id": "reporterre-rss-51-1788840000000",
       "title": "Écorégions : pourquoi Mélenchon veut redécouper la France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9757,7 +10402,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-8-1788877297000",
+      "id": "revolution-energetique-rss-9-1788877297000",
       "title": "Ce lac russe est le lieu le plus radioactif de la planète",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -9932,7 +10577,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "auat-toulouse-rss-11-1788765788000",
+      "id": "auat-toulouse-rss-13-1788765788000",
       "title": "Comment le changement climatique impacte-t-il les réseaux électriques ?",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -9956,7 +10601,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-12-1788765740000",
+      "id": "auat-toulouse-rss-14-1788765740000",
       "title": "Les températures de l’été 2026 correspondraient à un été ordinaire dans une France à +4 °C",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -9980,7 +10625,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1788739200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1788739200000",
       "title": "400 ans de la marine nationale en region sud lhistoire secrit encore au large",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -10003,7 +10648,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1788739200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1788739200000",
       "title": "dechets merterre",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -10240,7 +10885,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1788795811000",
+      "id": "mediatico-rss-7-1788777897000",
+      "title": "K-BOSSÉS : des ordinateurs professionnels reconditionnés, à partir de 140€ pour la rentrée",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/k-bosses-des-ordinateurs-professionnels-reconditionnes-a-partir-de-140e-pour-la-rentree/",
+      "image": null,
+      "date": "2026-09-07",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Après le retour des légumes moches imposé par un été caniculaire, voici la rentrée des ordinateurs K-BOSSÉS ! Lancée en février 2026 avec succès – 150 exemplaires vendus en quelques semaines – la gamme d’ordinateurs K-BOSSÉS reconditionnés par les Ateliers du Bocage aborde donc s…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-52-1788795811000",
       "title": "Autoroute A412 : des opposants veulent « paralyser l'avancée des engins » en Haute-Savoie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10264,7 +10935,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1788790519000",
+      "id": "reporterre-rss-53-1788790519000",
       "title": "Nucléaire : la centrale de Belleville-sur-Loire totalement à l'arrêt suite à un incident technique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10290,7 +10961,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1788789845000",
+      "id": "reporterre-rss-54-1788789845000",
       "title": "« Stérin, Bouygues... Stoppons ces milliardaires qui font sécession en Sologne »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10315,7 +10986,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1788789008000",
+      "id": "reporterre-rss-55-1788789008000",
       "title": "Consigne pour plastique : nouveau rétropédalage du gouvernement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10341,7 +11012,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1788788165000",
+      "id": "reporterre-rss-56-1788788165000",
       "title": "Guerre contre la « dictature climatique » et l'« idéologie arc-en-ciel » : l'extrême droite allemande aux portes du pouvoir local",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10365,7 +11036,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1788787751000",
+      "id": "reporterre-rss-57-1788787751000",
       "title": "100 000 morts par an : les fumées des mégafeux menacent la santé mondiale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10390,7 +11061,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1788786580000",
+      "id": "reporterre-rss-58-1788786580000",
       "title": "Trois cyclones se suivent dans le Pacifique, dopés par un El Niño historique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10415,7 +11086,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-58-1788766038000",
+      "id": "reporterre-rss-59-1788766038000",
       "title": "« Comment Monsieur Bouygues peut-il ne pas être au courant ? » : le milliardaire jugé pour braconnage d'espèces protégées",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10441,32 +11112,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-59-1788765778000",
-      "title": "« L'écologie ne doit pas être réservée à quelques-uns » : animaux, fripes et vélos s'installent au pied des barres d'immeubles",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Lama-poneys-chevres-Ils-ramenent-une-ferme-au-pied-des-barres-d-immeubles",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/9_-_haroon_-40637.jpg?1788765783",
-      "date": "2026-09-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Confort d’été"
-      ],
-      "summary": "Chèvres, lama, poneys... Le temps d'une journée, une ferme a été recréée à Bagnolet, en Seine-Saint-Denis, en plein cœur d'un quartier populaire. L'idée : mettre de la nature dans un lieu bétonné, et ne pas faire de l'écologie un privilège. Elle c'est Zoulette, elle c'est Frida… …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "revolution-energetique-rss-9-1788768383000",
+      "id": "revolution-energetique-rss-10-1788768383000",
       "title": "La Norvège tient tête à l’UE en multipliant les explorations pétrolières dans l’Arctique",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10491,7 +11137,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-10-1788678075000",
+      "id": "revolution-energetique-rss-11-1788678075000",
       "title": "Voici le premier système houlomoteur certifié au monde",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10516,7 +11162,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-11-1788589652000",
+      "id": "revolution-energetique-rss-12-1788589652000",
       "title": "Ces moulins à eau fournissent de l’électricité moins chère à leur voisinage",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10690,7 +11336,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-13-1788534751000",
+      "id": "auat-toulouse-rss-15-1788534751000",
       "title": "Quel avenir pour les zones commerciales de périphérie ?",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -10714,7 +11360,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-14-1788526184000",
+      "id": "auat-toulouse-rss-16-1788526184000",
       "title": "Climat : la trajectoire qu’envisage le PNUE pour revenir en dessous de 1,5 °C",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -10737,7 +11383,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-15-1788526138000",
+      "id": "auat-toulouse-rss-17-1788526138000",
       "title": "Comment préserver la ressource en période de stress hydrique ?",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -10988,7 +11634,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-12-1788512674000",
+      "id": "mediatico-rss-8-1788505230000",
+      "title": "Première ressourcerie culturelle de France, La Réserve des Arts placée en liquidation judiciaire",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/premiere-ressourcerie-culturelle-de-france-la-reserve-des-arts-placee-en-liquidation-judiciaire/",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "RE2020"
+      ],
+      "summary": "Tristesse. Après dix-sept ans d’existence, La Réserve des Arts a fermé ses portes définitivement le 1er septembre. Le Tribunal des activités économiques a prononcé la liquidation judiciaire de l’association le 12 août dernier, mettant fin à l’aventure de la première ressourcerie …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "revolution-energetique-rss-13-1788512674000",
       "title": "Plus puissant, le chauffage solaire made in France de Solar Brother lancé dans une nouvelle version",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11136,7 +11807,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1788393600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1788393600000",
       "title": "rentree scolaire ca se pass",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11159,7 +11830,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1788393600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1788393600000",
       "title": "rentree transports scolaires",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11182,7 +11853,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1788393600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1788393600000",
       "title": "terre de hockey",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11283,7 +11954,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-0-1788429782000",
+      "id": "filiere-3e-rss-1-1788429782000",
       "title": "ABB Robotics collabore avec Roche pour déployer l’IA physique dans les laboratoires",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -11309,7 +11980,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-13-1788431677000",
+      "id": "mediatico-rss-9-1788431434000",
+      "title": "Le Shakirail, un lieu qui encourage l’initiative citoyenne et développe le pouvoir d’agir",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/le-shakirail-un-lieu-qui-encourage-linitiative-citoyenne-et-developpe-le-pouvoir-dagir/",
+      "image": null,
+      "date": "2026-09-03",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Bâtiment"
+      ],
+      "summary": "Depuis 2011, un ancien équipement SNCF aux portes de Paris accueille des artistes émergents et précaires, dans le quartier Marx Dormoy-La Chapelle.Reconnu de longue date pour son action culturelle « hors les murs » auprès des habitants du quartier, dont ceux vivant au sein de log…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "revolution-energetique-rss-14-1788431677000",
       "title": "Le parc éolien Dieppe-Le Tréport produit de l’électricité depuis déjà 2 mois",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11384,7 +12080,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-16-1788335427000",
+      "id": "auat-toulouse-rss-18-1788335427000",
       "title": "Quand les bâtiments s’offrent à de nouveaux usages entre deux vies",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -11409,7 +12105,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-17-1788335374000",
+      "id": "auat-toulouse-rss-19-1788335374000",
       "title": "60 % de l’eau douce mondiale est entre les mains de seulement neuf pays",
       "source": "AUAT Toulouse",
       "sourceId": "auat-toulouse",
@@ -11457,7 +12153,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1788307200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1788307200000",
       "title": "loto du patrimoine 2026 six tresors de provence alpes cote dazur a sauver",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11699,7 +12395,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-1-1788336823000",
+      "id": "filiere-3e-rss-2-1788336823000",
       "title": "MERSEN CONTRIBUE AUX TRAVAUX DU GIMELEC : POUR FAIRE PROGRESSER LA PROTECTION CONTRE LA FOUDRE",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -11725,7 +12421,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-14-1788362279000",
+      "id": "revolution-energetique-rss-15-1788362279000",
       "title": "Nouveau DPE : 300 000 logements ne seront plus des passoires thermiques, mais ce n’est pas une bonne nouvelle",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11825,54 +12521,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-18-1788251231000",
-      "title": "L’économie suisse fragilisée par le niveau historiquement bas du Rhin",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/leconomie-suisse-fragilisee-par-le-niveau-historiquement-bas-du-rhin/",
-      "image": null,
-      "date": "2026-09-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "L’article L’économie suisse fragilisée par le niveau historiquement bas du Rhin est apparu en premier sur AUAT. L’article L&#8217;économie suisse fragilisée par le niveau historiquement bas du Rhin est apparu en premier sur AUAT . L’économie suisse fragilisée par le niveau histor…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auat-toulouse-rss-19-1788251187000",
-      "title": "Quand les incendies s’éteignent, les sols se transforment",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/quand-les-incendies-seteignent-les-sols-se-transforment/",
-      "image": null,
-      "date": "2026-09-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Quand les incendies s’éteignent, les sols se transforment est apparu en premier sur AUAT. L’article Quand les incendies s&#8217;éteignent, les sols se transforment est apparu en premier sur AUAT . Quand les incendies s’éteignent, les sols se transforment",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "envirobatbdm-rss-4-1788282721000",
       "title": "JE BATIS MA MAISON",
       "source": "EnvirobatBDM",
@@ -11897,7 +12545,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1788220800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1788220800000",
       "title": "jeunesse engagee",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11970,7 +12618,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-15-1788276361000",
+      "id": "revolution-energetique-rss-16-1788276361000",
       "title": "L’effacement de la consommation électrique est extrêmement coûteux selon la Cour des comptes",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12070,7 +12718,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bruitparif-rss-0-1788134400000",
+      "id": "bruitparif-rss-1-1788134400000",
       "title": "Publication d'une circulaire relative à la mise en oeuvre de la directive bruit",
       "source": "Bruitparif",
       "sourceId": "bruitparif",
@@ -12093,7 +12741,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "bruitparif-rss-1-1788134400000",
+      "id": "bruitparif-rss-2-1788134400000",
       "title": "Projet d'arrêté relatif aux pics de bruit ferroviaire",
       "source": "Bruitparif",
       "sourceId": "bruitparif",
@@ -12168,7 +12816,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-16-1788154060000",
+      "id": "revolution-energetique-rss-17-1788154060000",
       "title": "Malgré la guerre, la Russie veut installer 30 GW de nouvelles capacités nucléaires",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12220,7 +12868,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-17-1788073763000",
+      "id": "revolution-energetique-rss-18-1788073763000",
       "title": "Ce vieux réacteur nucléaire français a 40 ans pour être démantelé",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12246,7 +12894,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-18-1787986500000",
+      "id": "revolution-energetique-rss-19-1787986500000",
       "title": "Le plus petit pays du monde bientôt autonome en électricité grâce au solaire",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12442,7 +13090,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "filiere-3e-rss-2-1787916803000",
+      "id": "filiere-3e-rss-3-1787916803000",
       "title": "Bilan CIGRE 2026 : construire ls réseaux électriques pour une nouvelle ère de l’électrification",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -12468,7 +13116,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-19-1787897338000",
+      "id": "revolution-energetique-rss-20-1787897338000",
       "title": "Ce parc éolien flottant est devenu un véritable refuge pour la biodiversité",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12619,7 +13267,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "agam-marseille-rss-4-1787833983000",
+      "id": "agam-marseille-rss-5-1787833983000",
       "title": "SCOT AIX-MARSEILLE-PROVENCE – SYNTHÈSE TECHNIQUE – juin 2026",
       "source": "AGAM Marseille",
       "sourceId": "agam-marseille",
@@ -12783,7 +13431,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-20-1787810272000",
+      "id": "revolution-energetique-rss-21-1787810272000",
       "title": "Le chantier des réacteurs nucléaires EPR2 de Gravelines peut enfin commencer",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12883,7 +13531,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1787702400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1787702400000",
       "title": "les secrets de lhotel de region",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -12906,7 +13554,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "filiere-3e-rss-3-1787739817000",
+      "id": "filiere-3e-rss-4-1787739817000",
       "title": "J3e partenaire officiel du salon DATA CENTRE WORLD PARIS 2026",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -12931,7 +13579,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-4-1787734639000",
+      "id": "filiere-3e-rss-5-1787734639000",
       "title": "Filière 3e, J3e, Electricien+ et Lumières partenaires du salon IBS 2026 du 14 & 15 Octobre 2026 à Paris | Porte de Versailles",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -12957,7 +13605,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-5-1787732892000",
+      "id": "filiere-3e-rss-6-1787732892000",
       "title": "SÉCURLITE DÉVOILE OSMO ALU",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -12983,7 +13631,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-6-1787729941000",
+      "id": "filiere-3e-rss-7-1787729941000",
       "title": "Cedia Expo 2026 : DoorBird présente ses nouvelles solutions d’accès D22 et D31 5G, ainsi que des solutions configurables individuellement",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -13234,7 +13882,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-21-1787651966000",
+      "id": "revolution-energetique-rss-22-1787651966000",
       "title": "Extraire l’uranium de l’océan : bientôt une réalité à grande échelle ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13389,7 +14037,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-22-1787566416000",
+      "id": "revolution-energetique-rss-23-1787566416000",
       "title": "Le solaire génère 10 % de l’électricité mondiale, mais il y a un problème",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13465,7 +14113,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-23-1787468382000",
+      "id": "revolution-energetique-rss-24-1787468382000",
       "title": "Ce pays va ouvrir l’une des plus grandes mines d’uranium au monde et c’est une bonne nouvelle pour la France",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13491,7 +14139,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-24-1787379489000",
+      "id": "revolution-energetique-rss-25-1787379489000",
       "title": "Cette startup pose des panneaux solaires directement sur le sol, et ça marche !",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13543,7 +14191,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1787270400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1787270400000",
       "title": "lycee golf hotel",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13566,7 +14214,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1787270400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1787270400000",
       "title": "panier de naissance provencal",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13589,7 +14237,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1787270400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1787270400000",
       "title": "le pass sud montagne devient le pass plein air",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13612,7 +14260,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-25-1787306952000",
+      "id": "revolution-energetique-rss-26-1787306952000",
       "title": "Fou d’éoliennes, le Brésil conforte sa présence dans le Top 5 mondial avec un nouveau parc",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13738,7 +14386,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1787184000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1787184000000",
       "title": "bourse au merite les bacheliers de lacademie de nice mis a lhonneur",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13787,7 +14435,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-7-1787226767000",
+      "id": "filiere-3e-rss-8-1787226767000",
       "title": "J3e et Filière 3e partenaires du salon SIDO 2026 : les réponses à vos enjeux de production, transformation numérique et amélioration de process revient à Lyon les 16 et 17 septembre 2026",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -13813,7 +14461,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-26-1787203266000",
+      "id": "revolution-energetique-rss-27-1787203266000",
       "title": "L’Île de Sein se décarbone grâce à une seule éolienne de 250 kW",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13891,7 +14539,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-27-1787116953000",
+      "id": "revolution-energetique-rss-28-1787116953000",
       "title": "Tout juste lancée, voici la plus grande batterie d’Europe en 2026",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14093,7 +14741,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-28-1786958987000",
+      "id": "revolution-energetique-rss-29-1786958987000",
       "title": "L’Australie construit une raffinerie à terres rares pour concurrencer la Chine",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14171,7 +14819,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-29-1786905065000",
+      "id": "revolution-energetique-rss-30-1786905065000",
       "title": "La Hongrie coule deux péniches dans le Danube pour sauver sa centrale nucléaire",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14197,7 +14845,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-30-1786859115000",
+      "id": "revolution-energetique-rss-31-1786859115000",
       "title": "La Chine inaugure une usine géante de batteries longue durée",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14223,7 +14871,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-31-1786816590000",
+      "id": "revolution-energetique-rss-32-1786816590000",
       "title": "L’Espagne prolonge sa centrale nucléaire la plus puissante",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14248,7 +14896,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-32-1786786892000",
+      "id": "revolution-energetique-rss-33-1786786892000",
       "title": "Des chercheurs parviennent à recycler 100% de l’argent contenu dans les panneaux solaires",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14274,7 +14922,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1786665600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1786665600000",
       "title": "le collier marseillais",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14297,7 +14945,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-33-1786694651000",
+      "id": "revolution-energetique-rss-34-1786694651000",
       "title": "L’industrie éolienne européenne retrouve des couleurs",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14348,7 +14996,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1786579200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1786579200000",
       "title": "guerre du feu",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14371,7 +15019,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1786579200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1786579200000",
       "title": "zidane equipe de france",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14394,7 +15042,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-34-1786634997000",
+      "id": "revolution-energetique-rss-35-1786634997000",
       "title": "Sécheresse et méduses : la puissance nucléaire française réduite de 20%",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14420,7 +15068,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-35-1786606789000",
+      "id": "revolution-energetique-rss-36-1786606789000",
       "title": "L’opposition s’organise autour du parc éolien Bretagne Sud",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14521,7 +15169,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-36-1786519938000",
+      "id": "revolution-energetique-rss-37-1786519938000",
       "title": "L’aviation nucléaire a failli devenir une réalité dans les années 50",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14648,7 +15296,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-37-1786425905000",
+      "id": "revolution-energetique-rss-38-1786425905000",
       "title": "Amazon va construire la plus grande centrale gaz des USA",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14700,7 +15348,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1786320000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1786320000000",
       "title": "eclipse solaire",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14770,7 +15418,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-38-1786375535000",
+      "id": "revolution-energetique-rss-39-1786375535000",
       "title": "La Chine gaspille une grande partie de sa production d’électricité renouvelable",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14796,7 +15444,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-39-1786339382000",
+      "id": "revolution-energetique-rss-40-1786339382000",
       "title": "Tarifs dynamique et batterie solaire : une association qui va vous faire économiser 600€",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14821,7 +15469,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-40-1786259365000",
+      "id": "revolution-energetique-rss-41-1786259365000",
       "title": "Éclipse du 12 août : RTE se prépare à une baisse soudaine de la production photovoltaïque",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14846,7 +15494,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-41-1786204061000",
+      "id": "revolution-energetique-rss-42-1786204061000",
       "title": "Le gouvernement allemand souhaite freiner les renouvelables",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14871,7 +15519,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-42-1786167191000",
+      "id": "revolution-energetique-rss-43-1786167191000",
       "title": "L’État débourse 260 millions d’euros pour adapter les ports français aux éoliennes flottantes",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14943,7 +15591,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-43-1786117303000",
+      "id": "revolution-energetique-rss-44-1786117303000",
       "title": "Une électrification trop lente coûtera cher prévient RTE",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14969,7 +15617,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-44-1786080747000",
+      "id": "revolution-energetique-rss-45-1786080747000",
       "title": "La plus grande centrale solaire de France épargnée par les méga feux",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15118,7 +15766,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-45-1785993890000",
+      "id": "revolution-energetique-rss-46-1785993890000",
       "title": "Les niveaux historiquement bas du Danube mettent à mal la sécurité énergétique européenne",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15266,7 +15914,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-46-1785942576000",
+      "id": "revolution-energetique-rss-47-1785942576000",
       "title": "Comment décarboner efficacement les logements par l’électrification ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15292,7 +15940,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-47-1785906915000",
+      "id": "revolution-energetique-rss-48-1785906915000",
       "title": "Ces centrales nucléaires européennes flambant neuves n’ont jamais démarré",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15394,7 +16042,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-48-1785826962000",
+      "id": "revolution-energetique-rss-49-1785826962000",
       "title": "Solaire résidentiel : la France fait toujours moins bien que ses voisins européens",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15514,31 +16162,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Le Groupe Aurige vient d’intégrer les entreprises Verre & Métal et HEFI, spécialisées dans la conception et la réalisation d’ouvrages architecturaux en acier et en verre. Fondée en 1921 et basée à Bonneuil-sur-Marne (Île-de-France), Verre & Métal conçoit, fabrique et... L’article…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "revolution-energetique-rss-49-1785771188000",
-      "title": "Les ENR totalisent 20 GW de puissance supplémentaire par rapport au nucléaire en 2025",
-      "source": "Révolution Énergétique",
-      "sourceId": "revolution-energetique",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.revolution-energetique.com/actus/les-enr-comptent-20-gw-de-puissance-supplementaire-par-rapport-au-nucleaire-en-2025/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "ENR",
-        "Stockage",
-        "Réseaux"
-      ],
-      "summary": "La France a raccordé 7,3 GW de capacités renouvelables supplémentaires en 2025, pour 84,2 GW de puissance totale. Pourtant, les ENR marquent le pas par […] L’article Les ENR totalisent 20 GW de puissance supplémentaire par rapport au nucléaire en 2025 est apparu en premier sur Ré…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -15827,7 +16450,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1785456000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1785456000000",
       "title": "les trains circuleront a nouveau entre nice et saint andre les alpes des le 1er aout",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15851,7 +16474,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1785456000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1785456000000",
       "title": "incendies comment aider les animaux",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16021,7 +16644,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1785369600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1785369600000",
       "title": "feux de foret tous mobilises",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16070,7 +16693,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-8-1785403216000",
+      "id": "filiere-3e-rss-9-1785403216000",
       "title": "LES SOLUTIONS PROGRID NOMMEES AU GIT SECURITY AWARD 2026 : UNE NOUVELLE RECONNAISSANCE POUR MERSEN ET SES PROTECTIONS DES RESEAUX BASSE TENSION",
       "source": "Filière 3e",
       "sourceId": "filiere-3e",
@@ -16332,7 +16955,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1785283200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1785283200000",
       "title": "a la pointe de la cybersecurite",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16554,7 +17177,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1785196800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1785196800000",
       "title": "tour de france femmes 2026",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16679,31 +17302,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "filiere-3e-rss-9-1785148115000",
-      "title": "MERSEN CONFIRME SA PERFORMANCE RSE AVEC UNE NOUVELLE PROGRESSION DE SON SCORE ECOVADIS",
-      "source": "Filière 3e",
-      "sourceId": "filiere-3e",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.filiere-3e.fr/2026/07/27/mersen-confirme-sa-performance-rse-avec-une-nouvelle-progression-de-son-score-ecovadis/",
-      "image": null,
-      "date": "2026-07-27",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Électricité",
-        "CVC",
-        "Bâtiment intelligent",
-        "Énergie"
-      ],
-      "summary": "La nouvelle évaluation EcoVadis de Mersen vient d'être dévoilée et montre une progression de son score par rapport à l’année dernière avec 77/100 (contre 75/100 en 2025). The post MERSEN CONFIRME SA PERFORMANCE RSE AVEC UNE NOUVELLE PROGRESSION DE SON SCORE ECOVADIS appeared firs…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "connaissance-des-energies-rss-18-1785110400000",
       "title": "Impacts de l’IA générative : l’Ademe appelle à la « vigilance »",
       "source": "Connaissance des Énergies",
@@ -16776,7 +17374,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1784851200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1784851200000",
       "title": "premiere economie maritime",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17112,7 +17710,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1784678400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1784678400000",
       "title": "la bataille de gaulle",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17375,7 +17973,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bruitparif-rss-2-1784592000000",
+      "id": "bruitparif-rss-3-1784592000000",
       "title": "Une station de mesure du bruit aérien déployé à Juvisy-sur-Orge pour quelques mois",
       "source": "Bruitparif",
       "sourceId": "bruitparif",
@@ -17399,7 +17997,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1784592000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1784592000000",
       "title": "tour de france 2026 region sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17422,7 +18020,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1784592000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1784592000000",
       "title": "bouclier sanitaire la region sud investit pour renforcer loffre de soins en vaucluse",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17928,30 +18526,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1784246400000",
-      "title": "infirmiers et aides soignants de nouveaux diplomes rejoignent les professionnels de sante en region sud",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/infirmiers-et-aides-soignants-de-nouveaux-diplomes-rejoignent-les-professionnels-de-sante-en-region-sud",
-      "image": null,
-      "date": "2026-07-17",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "aguram-metz-rss-8-1784281022000",
       "title": "DOSSIERS FNAU / Inscrire les espaces périurbains au cœur de la stratégie d’aménagement des territoires : d’un impensé à une priorité",
       "source": "AGURAM Metz",
@@ -18124,30 +18698,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1784160000000",
-      "title": "billets de train poste",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/billets-de-train-poste",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "agam-marseille-rss-3-1784187550000",
+      "id": "agam-marseille-rss-4-1784187550000",
       "title": "Le « cagnascore »",
       "source": "AGAM Marseille",
       "sourceId": "agam-marseille",
