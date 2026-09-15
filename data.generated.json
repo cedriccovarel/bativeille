@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T23:02:29.217Z",
+  "generatedAt": "2026-09-15T04:07:04.361Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,263 @@
   ],
   "articles": [
     {
+      "id": "reporterre-rss-0-1789444800000",
+      "title": "« Un signal pour dire stop » : les Hauts-de-France réaffirment leur hostilité à l'éolien terrestre",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Un-signal-pour-dire-stop-les-Hauts-de-France-reaffirment-leur-hostilite-a-l-eolien",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/eoledanslenord-b37a3.jpg?1789444801",
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Le Comité régional de l'énergie des Hauts-de-France s'est prononcé contre tout nouveau projet éolien terrestre d'ici 2035. Un vote non contraignant, qui a vu des écologistes s'abstenir, faute de garanties pour la faune. Victoire symbolique pour l'ordre du contrevent : le 9 septem…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1789443000000",
+      "title": "Le gouvernement sabre dans les effectifs de l'écologie malgré cet été de chaos",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Le-gouvernement-sabre-dans-les-effectifs-de-l-ecologie-malgre-cet-ete-de-chaos",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260906__hl_qtop_3277552__v1__highres__franceetsautwildfireobserversmokemounta_1_-6ea96.jpg?1789443001",
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Agences de l'eau, OFB, parcs nationaux, Ademe : le projet de budget 2027 prévoit de nouvelles suppressions de postes dans l'écologie. Le 15 septembre devant Bercy, une quarantaine d'organisations réclameront des moyens « à la hauteur de l'urgence climatique ». Le lieu est bien ch…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "vert-rss-0-1789444800000",
+      "title": "«Le climat est devenu une épée de Damoclès» : après un été catastrophique, cet agriculteur du Poitou jette l’éponge",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/agriculture/le-climat-est-devenu-une-epee-de-damocles-apres-un-ete-catastrophique-cet-agriculteur-du-poitou-jette-leponge/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Après cet été brûlant, 64% des responsables d’exploitation de Charente-Maritime et des Deux-Sèvres envisagent de changer de métier, selon un sondage de la chambre d’agriculture locale. Paysan en bio dans le sud du Poitou, Samuel Le Mercier a franchi le pas. La cause : des récolte…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1789441800000",
+      "title": "XPeng lance la première ligne de production automatisée de robots humanoïdes",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/xpeng-lance-la-premiere-ligne-de-production-automatisee-de-robots-humanoides/194383-2026-09",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Le constructeur chinois XPeng a annoncé la mise en service de lignes automatisée dans son usine de Guangzhou et a montré un premier IRON assemblé. Le groupe devancerait Tesla, dont le programme Optimus accumule les retards, la production en série étant prévue pour fin 2026. Dans …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789438200000",
+      "title": "L’IA prélève moins d’eau sur site, mais les data centers font grimper la facture énergétique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/data-centers-eau-electricite-ia/194735-2026-09",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Les centres de données ont directement consommé 222 milliards de litres d’eau en 2025 pour leur seul refroidissement, selon Rystad Energy. Un gain d’efficacité réel à l’échelle de chaque installation, mais qui ne freine pas la trajectoire globale. Le cabinet d’analyse projette un…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1789434600000",
+      "title": "Distributeurs de billets : le grand basculement vers des automates mutualisés ?",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/distributeurs-billets-cash-services-retrait-especes/194753-2026-09",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Le réseau français de distributeurs de billets continue de se réduire, tandis que les banques accélèrent la mutualisation de leurs automates. Cette transformation ne signifie pas, à ce stade, la disparition de l’accès aux espèces, mais elle modifie les lieux et les conditions d’a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1789445205000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1789445205000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1789445205000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1789435782000",
+      "title": "Mathieu Lefèvre fait l’éloge de la géothermie à Fontenay-sous-Bois",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/mathieu-lefevre-fait-leloge-de-la-geothermie-a-fontenay-sous-bois/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Le ministre délégué chargé de la transition écologique Mathieu Lefèvre a visité lundi 14 septembre la Régie du chauffage urbain de Fontenay-sous-Bois (Val-de-Marne), à l’occasion d’un déplacement consacré au développement de la géothermie. La collectivité prévoit notamment d’éten…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1789387201000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -3187,7 +3444,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1789394400000",
+      "id": "reporterre-rss-2-1789394400000",
       "title": "Arrestations, abattage d'arbres : l'État enclenche la marche forcée pour un centre où enfermer les exilés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3213,7 +3470,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1789391155000",
+      "id": "reporterre-rss-3-1789391155000",
       "title": "L'IA booste la production de PFAS",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3238,7 +3495,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1789390800000",
+      "id": "reporterre-rss-4-1789390800000",
       "title": "Autoroutes et data centers : l'été caniculaire n'a pas découragé les bétonneurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3264,7 +3521,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1789389747000",
+      "id": "reporterre-rss-5-1789389747000",
       "title": "Le maire de Bordeaux renonce à un data center... pour le construire ailleurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3290,7 +3547,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1789388050000",
+      "id": "reporterre-rss-6-1789388050000",
       "title": "Désinformation climatique : 452 cas à la télé et la radio au premier semestre 2026",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3314,7 +3571,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1789371651000",
+      "id": "reporterre-rss-7-1789371651000",
       "title": "Médicaments : la bonne idée antigaspi qui irrite les labos",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3339,7 +3596,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1789367814000",
+      "id": "reporterre-rss-8-1789367814000",
       "title": "« Une guerre culturelle » : des livres censurés et des cours sur le climat menacés aux États-Unis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3364,7 +3621,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1789358400000",
+      "id": "reporterre-rss-9-1789358400000",
       "title": "Derrière l'IA et ses data centers, une industrie minière qui ravage la planète",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3390,7 +3647,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1789358400000",
+      "id": "vert-rss-1-1789358400000",
       "title": "Canicules relativisées et débats sur la climatisation : 452 cas de mésinformation climatique à la télé et à la radio entre janvier et juin",
       "source": "Vert",
       "sourceId": "vert",
@@ -3570,7 +3827,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789423800000",
+      "id": "enerzine-rss-3-1789423800000",
       "title": "ASML lance la construction d’un second campus industriel près d’Eindhoven",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3596,7 +3853,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789414500000",
+      "id": "enerzine-rss-4-1789414500000",
       "title": "Lithium en Auvergne : un permis d’exploration de 442 km² accordé en Limagne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3621,7 +3878,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789391100000",
+      "id": "enerzine-rss-5-1789391100000",
       "title": "Gaz, 6 millions de ménages exposés à une hausse de 6,3 % dès le 1er octobre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3645,7 +3902,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789377000000",
+      "id": "enerzine-rss-6-1789377000000",
       "title": "Tesla Roadster 2, Tesla va enfin lever le voile après neuf ans d’attente",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3669,7 +3926,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789373100000",
+      "id": "enerzine-rss-7-1789373100000",
       "title": "Rafale F5 : nouveaux contrats et lancement en réalisation attendu fin 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3695,7 +3952,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789363800000",
+      "id": "enerzine-rss-8-1789363800000",
       "title": "Parkings solaires : un report d’échéance conditionné aux panneaux européens",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3721,7 +3978,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789362600000",
+      "id": "enerzine-rss-9-1789362600000",
       "title": "Octopus Energy France rachète les 20 000 contrats particuliers d’elmy",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3741,81 +3998,6 @@
         "ENR"
       ],
       "summary": "Octopus Energy France a réalisé sa première opération de rachat de portefeuille en France avec l’acquisition des 20 000 contrats particuliers du fournisseur d’énergie renouvelable elmy. Les clients conservent leurs tarifs, garantis jusqu’en 2028, tandis qu’elmy se recentre sur le…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-7-1789359000000",
-      "title": "SolarEdge fait fonctionner en charge sa conversion 800 VCC pour data centers",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/solaredge-fait-fonctionner-en-charge-sa-conversion-800-vcc-pour-data-centers/194418-2026-09",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "La mise en charge de l’étape de conversion moyenne tension en 800 VCC de SolarEdge ouvre une voie vers les centres de données IA. L’entreprise publie parallèlement avec NVIDIA un cadre de protection et de mise à la terre destiné à un déploiement sûr du 800 VCC. SolarEdge a annonc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1789355400000",
-      "title": "Hydrogène neutre : FAST publie son catalogue, MeerKAT capte le signal",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/hydrogene-neutre-fast-publie-son-catalogue-meerkat-capte-le-signal/194367-2026-09",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "L’Observatoire astronomique national chinois a publié FASHI DR2, son deuxième recensement de l’hydrogène neutre mené avec le radiotélescope FAST, couvrant 19 500 degrés carrés de ciel. En Afrique du Sud, une équipe internationale utilisant MeerKAT a détecté directement le signal …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789351800000",
-      "title": "Des pales d’éoliennes transformées en skis et en fibres de verre, le vrai prix du recyclage",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/recyclage-pales-eoliennes-skis-fibre-verre/194678-2026-09",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Depuis le 1er janvier 2026, la filière européenne s’est imposée un bannissement volontaire de mise en décharge des pales. Ce n’est pas une interdiction légale européenne. Hormis quelques pays, l’enfouissement reste légalement possible. Toutefois, des débouchés (cimenterie, broyag…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3970,85 +4152,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789426931000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1789426931000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1789426931000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1789404155000",
+      "id": "le-journal-du-grand-paris-rss-1-1789404155000",
       "title": "À Ivry-sur-Seine, SNCF immobilier déploie la solution Toits temporaires urbains",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4074,7 +4178,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1789397405000",
+      "id": "le-journal-du-grand-paris-rss-2-1789397405000",
       "title": "Alexandre Frémiot quitte Plaine Commune pour la direction générale adjointe du Siaap",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4098,7 +4202,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1789397276000",
+      "id": "le-journal-du-grand-paris-rss-3-1789397276000",
       "title": "Michel Guenneau prend la direction générale des services du Val-de-Marne",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4124,7 +4228,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1789396194000",
+      "id": "le-journal-du-grand-paris-rss-4-1789396194000",
       "title": "TotalEnergies propriétaire à 100 % de l’usine de recyclage de plastiques de Grandpuits",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4149,7 +4253,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1789384279000",
+      "id": "le-journal-du-grand-paris-rss-5-1789384279000",
       "title": "Grégory Canal – À plein régime",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4174,7 +4278,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1789370862000",
+      "id": "le-journal-du-grand-paris-rss-6-1789370862000",
       "title": "Les coulisses du Grand Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4198,7 +4302,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1789369813000",
+      "id": "le-journal-du-grand-paris-rss-7-1789369813000",
       "title": "5 registres d’accompagnement de l’Institut Paris Region pour éviter de naviguer à vue",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4223,7 +4327,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1789369786000",
+      "id": "le-journal-du-grand-paris-rss-8-1789369786000",
       "title": "N. Bauquet : « Il faut à la fois faire le deuil du monde que l’on a connu et recommencer à rêver »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4493,6 +4597,31 @@
     },
     {
       "id": "batiweb-rss-4-1789340700000",
+      "title": "Préparer l’automne : les solutions ARALTEC pour des systèmes d’évacuation des eaux pluviales durables et performants",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/solutions-araltec-evacuation-eaux-pluviales-durables-49139",
+      "image": "https://img.batiweb.com/repo-images/publi/49139/araltec-09-15-une.jpg",
+      "date": "2026-09-13",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Eau",
+        "Bâtiment"
+      ],
+      "summary": "À l'approche de l'automne, les systèmes d’évacuation des eaux pluviales sont particulièrement sollicités. ARALTEC accompagne les professionnels du bâtiment avec une gamme complète de solutions pensées pour améliorer la performance, la durabilité des installations et limiter l’ent…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-5-1789340700000",
       "title": "Réhabilitation du Belvédère à Saint-Brieuc : un projet de sobriété carbone",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4518,32 +4647,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-5-1789340700000",
-      "title": "Préparer l’automne : les solutions ARALTEC pour des systèmes d’évacuation des eaux pluviales durables et performants",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/solutions-araltec-evacuation-eaux-pluviales-durables-49139",
-      "image": "https://img.batiweb.com/repo-images/publi/49139/araltec-09-15-une.jpg",
-      "date": "2026-09-13",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "À l'approche de l'automne, les systèmes d’évacuation des eaux pluviales sont particulièrement sollicités. ARALTEC accompagne les professionnels du bâtiment avec une gamme complète de solutions pensées pour améliorer la performance, la durabilité des installations et limiter l’ent…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-8-1789279200000",
+      "id": "reporterre-rss-10-1789279200000",
       "title": "« Protéger la nature en étant nourri et logé » : chaque été, des milliers d'Allemands prennent soin de leurs forêts",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4569,7 +4673,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1789277400000",
+      "id": "reporterre-rss-11-1789277400000",
       "title": "Pour réduire les coûts, ils participent à la construction de leur maison en paille",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4749,7 +4853,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1789324341000",
+      "id": "le-journal-du-grand-paris-rss-9-1789324341000",
       "title": "Orange installe un pylône par hélicoptère pour déployer la 5G à Saint-Loup-de-Naud",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4775,7 +4879,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1789191000000",
+      "id": "reporterre-rss-12-1789191000000",
       "title": "« Kroak, kroak » : comment déchiffrer le langage des oiseaux nocturnes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4801,7 +4905,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1789189200000",
+      "id": "reporterre-rss-13-1789189200000",
       "title": "Ni eau, ni frigo, ni WC : le dur quotidien de ces bergers dans des cabanes insalubres",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4827,7 +4931,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1789185600000",
+      "id": "reporterre-rss-14-1789185600000",
       "title": "Céline Dion à Paris : peut-on encore se permettre une telle gabegie écologique ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4852,7 +4956,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1789189200000",
+      "id": "vert-rss-2-1789189200000",
       "title": "«C’est frappant d’entendre si peu d’alouettes» : dans les jumelles d’un ornithologue à l’heure du déclin des oiseaux",
       "source": "Vert",
       "sourceId": "vert",
@@ -5027,32 +5131,6 @@
         "Confort d’été"
       ],
       "summary": "Peindre son toit en blanc pour faire chuter la facture de clim et gagner plusieurs degrés en été ? Philadelphie relance une astuce simple testée depuis 2001, avec des résultats qui donnent envie de sortir le pinceau. L’article Philadelphie a placé des toits blancs sur environ 340…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1789197805000",
-      "title": "Le réseau vélo Île-de-France récompense quatre territoires pour leurs aménagements cyclables",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/le-reseau-velo-ile-de-france-recompense-quatre-territoires-pour-leurs-amenagements-cyclables/",
-      "image": null,
-      "date": "2026-09-12",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Réunis vendredi 11 septembre au conseil régional pour les Rencontres régionales du vélo, les acteurs du Vélo Île-de-France (VIF) ont distingué quatre collectivités pour leurs réalisations et leur engagement dans le déploiement du réseau cyclable régional. Réunis vendredi 11 septe…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5474,7 +5552,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1789143704000",
+      "id": "reporterre-rss-15-1789143704000",
       "title": "Le Secrétariat général à la planification écologique change de chef et d'organisation",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5500,7 +5578,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1789142803000",
+      "id": "reporterre-rss-16-1789142803000",
       "title": "Plus de 1/4 des Français se déclarent en situation de précarité, selon le Secours populaire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5525,7 +5603,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1789136168000",
+      "id": "reporterre-rss-17-1789136168000",
       "title": "Le gouvernement sacrifie encore l'écologie pour financer les aides aux agriculteurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5550,7 +5628,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1789135200000",
+      "id": "reporterre-rss-18-1789135200000",
       "title": "Ces algues étouffent les Antilles : et si on les transformait en compost ou en béton ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5574,7 +5652,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1789131600000",
+      "id": "reporterre-rss-19-1789131600000",
       "title": "Un « super El Niño » dévastateur arrive : pourquoi l'Europe devrait être épargnée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5599,7 +5677,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1789129297000",
+      "id": "reporterre-rss-20-1789129297000",
       "title": "Poussières toxiques du 11-Septembre : le maire de New York accuse les anciens élus d'avoir tu le danger",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5623,7 +5701,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1789102800000",
+      "id": "reporterre-rss-21-1789102800000",
       "title": "« C'est vivant ! » : en pleine sécheresse, ces paysans ont eu de l'eau grâce aux zones humides",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5649,7 +5727,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1789101000000",
+      "id": "reporterre-rss-22-1789101000000",
       "title": "Quitter Gmail, ils l'ont fait : les conseils pour le grand saut",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5674,7 +5752,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1789099200000",
+      "id": "reporterre-rss-23-1789099200000",
       "title": "« C'est irresponsable » : à Strasbourg, les socialistes reviennent sur la végétalisation des cours d'école",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5700,7 +5778,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1789132585000",
+      "id": "vert-rss-3-1789132585000",
       "title": "En Haute-Savoie, une nouvelle autoroute décriée : ce chantier «condamne l’habitabilité de notre territoire»",
       "source": "Vert",
       "sourceId": "vert",
@@ -7205,7 +7283,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1789047000000",
+      "id": "reporterre-rss-24-1789047000000",
       "title": "« Un passage en force » : la LGV Bordeaux-Toulouse ravive le cauchemar de l'A69",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7231,7 +7309,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1789046438000",
+      "id": "reporterre-rss-25-1789046438000",
       "title": "Répression : le traitement de militants de Greenpeace jugé « préoccupant » par un rapporteur de l'ONU",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7255,7 +7333,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1789045666000",
+      "id": "reporterre-rss-26-1789045666000",
       "title": "1,6 million de Françaises alertées d'un risque de tumeur au cerveau lié à leur pilule",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7281,7 +7359,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1789045200000",
+      "id": "reporterre-rss-27-1789045200000",
       "title": "Record de température : l'océan est en surchauffe depuis 100 jours",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7307,7 +7385,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1789043400000",
+      "id": "reporterre-rss-28-1789043400000",
       "title": "« Tu as l'impression que tu vas étouffer » : la poussière rend malades les ouvriers d'une mine d'Imerys",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7333,7 +7411,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1789030800000",
+      "id": "reporterre-rss-29-1789030800000",
       "title": "Incendies, pergélisol... Ces émissions de CO₂ vont réchauffer le climat au-delà de nos prévisions",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7359,7 +7437,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1789022560000",
+      "id": "reporterre-rss-30-1789022560000",
       "title": "Cacophonie et RN en roue libre : sur BFM, un débat chaotique sur l'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7384,7 +7462,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1789012800000",
+      "id": "reporterre-rss-31-1789012800000",
       "title": "Paradis des oiseaux, ce banc de sable pourrait être englouti par les eaux",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7409,7 +7487,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1789005600000",
+      "id": "reporterre-rss-32-1789005600000",
       "title": "Le mois d'août a été le plus chaud jamais enregistré à l'échelle mondiale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7435,7 +7513,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1789055751000",
+      "id": "vert-rss-4-1789055751000",
       "title": "Après cet été caniculaire, allez-vous payer vos aliments plus cher dans les supermarchés ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -7461,7 +7539,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1789052749000",
+      "id": "vert-rss-5-1789052749000",
       "title": "Congé climatique, «journée intensive»… Pour concilier travail et chaleur, la France pourrait s’inspirer de solutions espagnoles",
       "source": "Vert",
       "sourceId": "vert",
@@ -7487,7 +7565,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1789034233000",
+      "id": "vert-rss-6-1789034233000",
       "title": "Les Français face à l’amnésie climatique : combien de temps trouverons-nous ces étés caniculaires anormaux ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -7513,7 +7591,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1789030640000",
+      "id": "vert-rss-7-1789030640000",
       "title": "Où habiter en 2050 ? Les pistes du géographe Guillaume Faburel, des collines normandes aux Préalpes",
       "source": "Vert",
       "sourceId": "vert",
@@ -8405,7 +8483,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1788993000000",
+      "id": "reporterre-rss-33-1788993000000",
       "title": "Les villes européennes sont les plus touchées par le réchauffement climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8429,7 +8507,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1788991260000",
+      "id": "reporterre-rss-34-1788991260000",
       "title": "Vêtements d'occasion : acheter sur internet émet jusqu'à 5 fois plus de CO2 qu'en boutique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8455,7 +8533,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1788964531000",
+      "id": "reporterre-rss-35-1788964531000",
       "title": "« Une véritable arnaque » : les voitures hybrides rechargeables émettent six fois plus de CO2 que les tests officiels",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8479,7 +8557,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1788962400000",
+      "id": "reporterre-rss-36-1788962400000",
       "title": "Marine Tondelier : « Ce qui se passe est trop grave pour abdiquer »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8505,7 +8583,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1788960499000",
+      "id": "reporterre-rss-37-1788960499000",
       "title": "Sécheresse : 74 départements en « crise », du jamais-vu en septembre",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8531,7 +8609,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1788958350000",
+      "id": "reporterre-rss-38-1788958350000",
       "title": "« D'où il sort celui-là ? » : ce loup n'attaque pas les troupeaux et n'a pas peur des humains",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8556,7 +8634,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1788938145000",
+      "id": "reporterre-rss-39-1788938145000",
       "title": "« Un passage en force similaire à l'A69 » : contre l'A412, ils se perchent sur des engins de chantier",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8582,7 +8660,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1788932400000",
+      "id": "reporterre-rss-40-1788932400000",
       "title": "François Ruffin : « Le moyen de sortir de la crise climatique, c'est le travail »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8608,7 +8686,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1788948040000",
+      "id": "vert-rss-8-1788948040000",
       "title": "«Prendre soin de vous en prenant soin du monde» : les conseils du psychologue Pierre-Éric Sutter pour faire face à l’éco-anxiété",
       "source": "Vert",
       "sourceId": "vert",
@@ -8633,7 +8711,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1788945690000",
+      "id": "vert-rss-9-1788945690000",
       "title": "Une situation «dégradée» : après un été chaud et sec, la France aborde l’automne avec des réserves d’eau sous les normales",
       "source": "Vert",
       "sourceId": "vert",
@@ -9424,7 +9502,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-39-1788885897000",
+      "id": "reporterre-rss-41-1788885897000",
       "title": "« Un système industriel » : pour ses chasses interdites, Olivier Bouygues risque 5 ans de prison avec sursis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9450,7 +9528,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1788883422000",
+      "id": "reporterre-rss-42-1788883422000",
       "title": "« La colère gronde dans les casernes » : les pompiers remontés après une réunion au ministère de l'Intérieur",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9476,7 +9554,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1788874200000",
+      "id": "reporterre-rss-43-1788874200000",
       "title": "« On revient vingt ans en arrière » : à Avignon, le nouveau maire relance le tout-voiture",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9501,7 +9579,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1788872400000",
+      "id": "reporterre-rss-44-1788872400000",
       "title": "« Faire des vidéos, je trouve ça hyper déplacé » : quand l'été du chaos force les influenceurs à se soucier d'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9526,7 +9604,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1788871024000",
+      "id": "reporterre-rss-45-1788871024000",
       "title": "Interdiction de chasse : le grand tétras et le lagopède alpin désormais protégés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9552,7 +9630,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1788863040000",
+      "id": "reporterre-rss-46-1788863040000",
       "title": "Insultes, jets d'œufs... FNE porte plainte contre la Coordination rurale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9577,7 +9655,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1788855489000",
+      "id": "reporterre-rss-47-1788855489000",
       "title": "Réparer son smartphone : trop de fabricants ne respectent pas la réglementation",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9603,7 +9681,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1788845400000",
+      "id": "reporterre-rss-48-1788845400000",
       "title": "Pesticides : on en sait (enfin) plus sur l'effet cocktail",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9628,7 +9706,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1788843600000",
+      "id": "reporterre-rss-49-1788843600000",
       "title": "« Fuck la planète » : comment les puissants ont fait le choix du réchauffement climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9653,7 +9731,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1788840000000",
+      "id": "reporterre-rss-50-1788840000000",
       "title": "Écorégions : pourquoi Mélenchon veut redécouper la France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9675,30 +9753,6 @@
         "Eau"
       ],
       "summary": "Jean-Luc Mélenchon propose de remplacer les régions actuelles par des écorégions organisées autour de l'eau et de la géographie des territoires. Inspirées du biorégionalisme, ces écorégions dont le tracé n'est pas encore arrêté seraient chargées de la planification écologique. À …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "vert-rss-9-1788882651000",
-      "title": "Vert recrute : journaliste politique/écologie en CDD",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/vert-vous-parle/vert-recrute-journaliste-politique-ecologie-en-cdd/",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques"
-      ],
-      "summary": "Vert recrute un·e journaliste politique/écologie en contrat à durée déterminée d’octobre 2026 à juillet 2027 pour couvrir la campagne présidentielle et les élections législatives. Vert recrute un·e journaliste politique/écologie en contrat à durée déterminée d’octobre 2026 à juil…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10186,7 +10240,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1788795811000",
+      "id": "reporterre-rss-51-1788795811000",
       "title": "Autoroute A412 : des opposants veulent « paralyser l'avancée des engins » en Haute-Savoie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10210,7 +10264,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1788790519000",
+      "id": "reporterre-rss-52-1788790519000",
       "title": "Nucléaire : la centrale de Belleville-sur-Loire totalement à l'arrêt suite à un incident technique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10236,7 +10290,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1788789845000",
+      "id": "reporterre-rss-53-1788789845000",
       "title": "« Stérin, Bouygues... Stoppons ces milliardaires qui font sécession en Sologne »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10261,7 +10315,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1788789008000",
+      "id": "reporterre-rss-54-1788789008000",
       "title": "Consigne pour plastique : nouveau rétropédalage du gouvernement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10287,7 +10341,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1788788165000",
+      "id": "reporterre-rss-55-1788788165000",
       "title": "Guerre contre la « dictature climatique » et l'« idéologie arc-en-ciel » : l'extrême droite allemande aux portes du pouvoir local",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10311,7 +10365,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1788787751000",
+      "id": "reporterre-rss-56-1788787751000",
       "title": "100 000 morts par an : les fumées des mégafeux menacent la santé mondiale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10336,7 +10390,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1788786580000",
+      "id": "reporterre-rss-57-1788786580000",
       "title": "Trois cyclones se suivent dans le Pacifique, dopés par un El Niño historique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10361,7 +10415,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1788766038000",
+      "id": "reporterre-rss-58-1788766038000",
       "title": "« Comment Monsieur Bouygues peut-il ne pas être au courant ? » : le milliardaire jugé pour braconnage d'espèces protégées",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10387,7 +10441,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1788765778000",
+      "id": "reporterre-rss-59-1788765778000",
       "title": "« L'écologie ne doit pas être réservée à quelques-uns » : animaux, fripes et vélos s'installent au pied des barres d'immeubles",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10408,32 +10462,6 @@
         "Confort d’été"
       ],
       "summary": "Chèvres, lama, poneys... Le temps d'une journée, une ferme a été recréée à Bagnolet, en Seine-Saint-Denis, en plein cœur d'un quartier populaire. L'idée : mettre de la nature dans un lieu bétonné, et ne pas faire de l'écologie un privilège. Elle c'est Zoulette, elle c'est Frida… …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-58-1788757500000",
-      "title": "Des « refuges climatiques » pour supporter la chaleur : le pari réussi de Barcelone",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Des-refuges-climatiques-pour-supporter-la-chaleur-le-pari-reussi-de-Barcelone",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/img_3171-ca1d8.jpg?1788757503",
-      "date": "2026-09-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Barcelone mise sur un réseau de 500 refuges climatiques pour permettre à ses habitants de trouver gratuitement fraîcheur et lien social. Un dispositif essentiel encore loin d'être généralisé dans le pays. Je viens ici presque (…) Lire la suite - Reportage / Climat , Monde , Alter…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10459,30 +10487,6 @@
         "Réseaux"
       ],
       "summary": "Si la fin des énergies fossiles semble inéluctable, la gestion des prochaines décennies alimente les débats et suscite des tensions, même au sein de l’Europe. […] L’article La Norvège tient tête à l’UE en multipliant les explorations pétrolières dans l’Arctique est apparu en prem…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1788672600000",
-      "title": "Fini l'élevage et bienvenue à la mine : la « transition verte » détruit la culture de populations autochtones en Suède",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Fini-l-elevage-et-bienvenue-a-la-mine-la-transition-verte-detruit-la-culture-de",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/img_8324_hd_pernot_260810-8c6d3.jpg?1788672601",
-      "date": "2026-09-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat"
-      ],
-      "summary": "À l'approche des élections, le gouvernement suédois et certains partis menacent les droits des éleveurs autochtones Sámis. Ces derniers dénoncent un colonialisme vert, en raison des projets de mines, de barrages et de parcs éoliens qui mettent en péril leur mode de vie millénaire…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
