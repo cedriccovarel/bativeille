@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-17T18:53:58.428Z",
+  "generatedAt": "2026-09-17T22:46:15.307Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3927,7 +3927,55 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789667400000",
+      "id": "enerzine-rss-0-1789683000000",
+      "title": "Renforcer la puissance du plasma pour l’industrie",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/renforcer-la-puissance-du-plasma-pour-lindustrie/194483-2026-09",
+      "image": null,
+      "date": "2026-09-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Tokyo, Japon – Des scientifiques de l’Université métropolitaine de Tokyo ont trouvé un moyen de rendre le plasma plus efficace pour ses nombreux usages, allant des applications antimicrobiennes au traitement de surface dans l’industrie des semi-conducteurs. Ils ont cartographié l…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789674300000",
+      "title": "Aqara et la faille du cloud, quand votre serrure connectée s’ouvre sans vous",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/aqara-failles-cloud-serrures-cameras-connectees/194977-2026-09",
+      "image": null,
+      "date": "2026-09-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Dix vulnérabilités dans le cloud domotique d’Aqara viennent d’être rendues publiques. Certaines permettent à un attaquant non authentifié de piloter des serrures et des caméras sans jamais toucher au compte de l’utilisateur. 📌 L’essentiel en 3 points Le mythe du capteur espion s…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1789667400000",
       "title": "L’iPhone 18 Pro à 1.479 euros, faut-il craquer ce soir ? sa disponibilité commence demain",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3951,7 +3999,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789662098000",
+      "id": "enerzine-rss-3-1789662098000",
       "title": "Voiture électrique : record de 38% des ventes en France en août 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3977,7 +4025,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789623000000",
+      "id": "enerzine-rss-4-1789623000000",
       "title": "Un matériau prometteur pour des batteries Li-ion plus sûres atteint une conductivité record",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4002,7 +4050,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789621800000",
+      "id": "enerzine-rss-5-1789621800000",
       "title": "Une nouvelle conception de dispositif pourrait miniaturiser la photonique et les technologies quantiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4028,7 +4076,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789618200000",
+      "id": "enerzine-rss-6-1789618200000",
       "title": "Les robots peuvent-ils vraiment comprendre les besoins des infirmières ? Une chercheuse veut le savoir",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4054,7 +4102,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789614600000",
+      "id": "enerzine-rss-7-1789614600000",
       "title": "PACMAN : un cadre d’IA pour contrôler en toute sécurité les systèmes de fusion prend des décisions clés en quelques millisecondes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4257,7 +4305,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789671220000",
+      "id": "le-commerce-du-bois-sitemap-0-1789685154000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4283,7 +4331,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789671220000",
+      "id": "le-commerce-du-bois-sitemap-1-1789685154000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4309,7 +4357,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789671220000",
+      "id": "le-commerce-du-bois-sitemap-2-1789685154000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4335,7 +4383,59 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1789665323000",
+      "id": "le-journal-du-grand-paris-rss-0-1789674776000",
+      "title": "L’essentiel de la semaine du 14 septembre 2026 en quelques clics",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-14-septembre-2026-en-quelques-clics/",
+      "image": null,
+      "date": "2026-09-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. Celle du 14 septembre a été largement marquée par les enjeux du logement et les perspectives du très attendu Anru 3. Retrouvez chaque vendredi dans Le journal du Grand Paris…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1789674585000",
+      "title": "Anru 3 : « Une promesse doit devenir une loi, un cadre et un calendrier ! »",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/lanru-3-entre-urgence-climatique-justice-sociale-et-bataille-budgetaire/",
+      "image": null,
+      "date": "2026-09-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Sous la toile tendue de l’Académie Fratellini à Saint-Denis jeudi 17 septembre, la Journée nationale de l'Anru a balayé le vernis technocratique pour poser une question brute : comment garder les quartiers habitables quand la planète surchauffe et que le calendrier politique mena…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-2-1789665323000",
       "title": "Journées du patrimoine : une exposition sur 50 ans d’aménagement francilien à l’hôtel de Roquelaure",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4359,7 +4459,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1789664443000",
+      "id": "le-journal-du-grand-paris-rss-3-1789664443000",
       "title": "Les maires du Val-de-Marne affichent leur unité, le mandat de Fatah Aggoune à leur tête prolongé",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4384,7 +4484,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1789636648000",
+      "id": "le-journal-du-grand-paris-rss-4-1789636648000",
       "title": "La SNCF lance son label « Gare remarquable »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4409,7 +4509,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1789621195000",
+      "id": "le-journal-du-grand-paris-rss-5-1789621195000",
       "title": "Xavier Lépine reconduit à la tête de Paris Ile-de-France Capitale Economique",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5999,7 +6099,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789596600000",
+      "id": "enerzine-rss-8-1789596600000",
       "title": "Une nouvelle méthode prédit où se produiront les grands séismes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6025,7 +6125,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789595400000",
+      "id": "enerzine-rss-9-1789595400000",
       "title": "PS5 Pro. La mise à jour active le PSSR amélioré par défaut alors que les prix flambent",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6047,57 +6147,6 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "Sony déploie un firmware d’envergure qui promet d’affiner le rendu sur PS5 Pro. Cette amélioration tombe à pic alors que la console devient rare et coûteuse sur le marché. 📌 L’essentiel en 3 points La version 26.06-14.00.00, diffusée le 16 septembre 2026, active par défaut le pa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1789592700000",
-      "title": "Des IA simulent 8 mondes virtuels et finissent par un vote pour écarter l’un des leurs",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-ia-simulent-8-mondes-virtuels-et-finissent-par-un-vote-pour-ecarter-lun-des-leurs/194919-2026-09",
-      "image": null,
-      "date": "2026-09-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Seize jours de simulation autonome ont suffi pour que des agents d’intelligence artificielle dérapent dans des univers parallèles. Mensonges, vols, langage codé et un vote pour révoquer un pair, les résultats d’Emergence World 2 bousculent la confiance dans les agents autonomes. …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789589973000",
-      "title": "Le prix Europhysics 2026 récompense la découverte de l’altermagnétisme",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/prix-europhysics-2026-recompense-decouverte-altermagnetisme/194913-2026-09",
-      "image": null,
-      "date": "2026-09-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Le prix Europhysics 2026 de la Société européenne de physique récompense Jairo Sinova, Libor Šmejkal et Tomas Jungwirth pour la découverte de l’altermagnétisme. La remise du prix aura lieu à Graz, en Autriche, en septembre 2026. 📌 L’essentiel en 3 points La Société européenne de…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6303,7 +6352,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1789586682000",
+      "id": "le-journal-du-grand-paris-rss-6-1789586682000",
       "title": "Gestion du Dalo, politique locale du logement, quartier d’affaires de La Défense : ce que prévoit le projet de loi pour la région",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6329,7 +6378,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1789585464000",
+      "id": "le-journal-du-grand-paris-rss-7-1789585464000",
       "title": "Loi logement : Vincent Jeanbrun plaide sa cause avant l’examen à l’Assemblée",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6355,7 +6404,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1789585147000",
+      "id": "le-journal-du-grand-paris-rss-8-1789585147000",
       "title": "Rencontres régionales du vélo 2026 : la Région affiche ses ambitions",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6380,7 +6429,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1789574433000",
+      "id": "le-journal-du-grand-paris-rss-9-1789574433000",
       "title": "Dossier construction bois (1/4) – Comment ce matériau transforme la conception architecturale",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6402,58 +6451,6 @@ window.BATIVEILLE_DATA = {
         "RE2020"
       ],
       "summary": "Longtemps associée aux constructions traditionnelles ou aux projets expérimentaux, la construction bois s’impose progressivement dans l’architecture contemporaine. Entre recherche de sobriété carbone, nouvelles écritures esthétiques et défis techniques, quatre architectes raconte…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1789574418000",
-      "title": "Dossier construction bois (2/4) – H. Genin : « La construction bois est un atout majeur pour atteindre l’excellence bas carbone »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/dossier-construction-bois-2-4-h-genin-la-construction-bois-est-un-atout-majeur-pour-atteindre-lexcellence-bas-carbone/",
-      "image": null,
-      "date": "2026-09-16",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Depuis sa création en 2015, l’association BBCA (Bâtiment Bas Carbone) mesure et valorise l’impact carbone des bâtiments. À l’heure où la construction bois prend une place croissante dans les projets, Hélène Genin, sa déléguée générale, explique pourquoi ce matériau constitue un l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1789574403000",
-      "title": "Dossier construction bois (3/4) – À Versailles-Chantiers, l’infrapôle SNCF construit en bois",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/dossier-construction-bois-3-4-a-versailles-chantiers-linfrapole-sncf-construit-en-bois/",
-      "image": null,
-      "date": "2026-09-16",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Inauguré au printemps dernier en présence du maire de Versailles François de Mazières, le nouveau bâtiment de maintenance ferroviaire signé Arep pour SNCF Réseau, derrière sa façade en brique, déploie le bois sous toutes ses formes. Un pari constructif et bas-carbone sur un fonci…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7065,7 +7062,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -11764,28 +11761,6 @@ window.BATIVEILLE_DATA = {
         "Territoires"
       ],
       "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "cite-de-l-architecture-et-du-patrimoine-sitemap-190-1788787260000",
-      "title": "ressources pedagogiques",
-      "source": "Cité de l’architecture et du patrimoine",
-      "sourceId": "cite-de-l-architecture-et-du-patrimoine",
-      "sourceType": "Institution culturelle",
-      "region": "National",
-      "url": "https://www.citedelarchitecture.fr/fr/article/ressources-pedagogiques",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Architecture",
-        "Patrimoine"
-      ],
-      "summary": "Publication détectée dans le sitemap de Cité de l’architecture et du patrimoine. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -16918,7 +16893,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -17113,7 +17088,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -17621,7 +17596,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
