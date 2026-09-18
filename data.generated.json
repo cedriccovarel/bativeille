@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:11:59.906Z",
+  "generatedAt": "2026-09-18T22:26:29.998Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3727,7 +3727,57 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789754700000",
+      "id": "enerzine-rss-0-1789769400000",
+      "title": "Batteries solides : Panasonic vise 150 °C, Fraunhofer promet jusqu’à 15% d’énergie en plus",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/batteries-solides-panasonic-150-degres-fraunhofer-15-energie/194824-2026-09",
+      "image": null,
+      "date": "2026-09-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Panasonic Energy affirme avoir développé une petite batterie prismatique à l’état solide capable de fonctionner jusqu’à 150 °C, et prévoit d’expédier ses premiers échantillons entre octobre et décembre 2026. Au même moment, l’institut Fraunhofer ISE présente une nouvelle architec…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789763700000",
+      "title": "Un calmar colossal filmé vivant pour la première fois en 2025, une énigme des abysses se dévoilait",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/calmar-colossal-juvenile-filme-vivant-abysses/194998-2026-09",
+      "image": null,
+      "date": "2026-09-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Retour sur les images inédites de l’un des fantômes les plus insaisissables de l’océan. Un calmar colossal juvénile avait été filmé en pleine eau en 2025, une première historique à l’époque qui comble une grande lacune dans ce que nous savions de ce géant des profondeurs. 📌 L’es…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1789754700000",
       "title": "Mistral Small 4 débarque dans Firefox, et la France en bénéficie déjà",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3751,7 +3801,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789752900000",
+      "id": "enerzine-rss-3-1789752900000",
       "title": "Automédication. L’illusion de l’efficacité face à des armoires à pharmacie trompeuses",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3776,7 +3826,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789749300000",
+      "id": "enerzine-rss-4-1789749300000",
       "title": "Des data centers « sobres en eau » face au durcissement réglementaire du Texas",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3802,7 +3852,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789737900000",
+      "id": "enerzine-rss-5-1789737900000",
       "title": "Lune, la NASA découvre un cratère de 222 mètres né d’un impact rarissime",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3826,7 +3876,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789709400000",
+      "id": "enerzine-rss-6-1789709400000",
       "title": "Oleo100 B100 au Mans : une course et une collecte décarbonée",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3852,7 +3902,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789708200000",
+      "id": "enerzine-rss-7-1789708200000",
       "title": "L’impression 3D inspirée de la nature pourrait améliorer le stockage à grande échelle des énergies renouvelables",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3876,7 +3926,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789704600000",
+      "id": "enerzine-rss-8-1789704600000",
       "title": "Batteries tout solide, la promesse à 381 Wh/kg affronte l’épreuve de la production",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3902,7 +3952,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789701000000",
+      "id": "enerzine-rss-9-1789701000000",
       "title": "La chimie transforme la façon dont les chercheurs développent la technologie de l’IA",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4053,7 +4103,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789755093000",
+      "id": "le-commerce-du-bois-sitemap-0-1789770369000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4079,7 +4129,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789755093000",
+      "id": "le-commerce-du-bois-sitemap-1-1789770369000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4105,7 +4155,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789755093000",
+      "id": "le-commerce-du-bois-sitemap-2-1789770369000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4739,32 +4789,6 @@
     },
     {
       "id": "batiweb-rss-5-1789686300000",
-      "title": "3 ans de REP Bâtiment : la filière minérale change d’échelle",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/rep-batiment-3-ans-filiere-minerale-49258",
-      "image": "https://img.batiweb.com/repo-images/publi/49258/ecominero-09-21-une.jpg",
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâce à un réseau national. REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-6-1789686300000",
       "title": "Crédit immobilier : pourquoi le taux d’assurance peut faire varier sensiblement le coût de votre prêt",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4789,7 +4813,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-7-1789686300000",
+      "id": "batiweb-rss-6-1789686300000",
       "title": "Les meilleures SCPI en 2026 : rendement, frais, risques… les critères à comparer",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4810,6 +4834,32 @@
         "Économie du bâtiment"
       ],
       "summary": "En 2026, le marché des SCPI propose des stratégies très différentes les unes des autres, avec des niveaux de rendement qui ne peuvent pas être comparés à eux seuls. De la diversification, en passant par l'ancienneté, et jusqu'aux perspectives, quelles sont les meilleures SCPI à p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-7-1789686300000",
+      "title": "3 ans de REP Bâtiment : la filière minérale change d’échelle",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/rep-batiment-3-ans-filiere-minerale-49258",
+      "image": "https://img.batiweb.com/repo-images/publi/49258/ecominero-09-21-une.jpg",
+      "date": "2026-09-17",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâce à un réseau national. REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6241,54 +6291,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789683000000",
-      "title": "Renforcer la puissance du plasma pour l’industrie",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/renforcer-la-puissance-du-plasma-pour-lindustrie/194483-2026-09",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Tokyo, Japon – Des scientifiques de l’Université métropolitaine de Tokyo ont trouvé un moyen de rendre le plasma plus efficace pour ses nombreux usages, allant des applications antimicrobiennes au traitement de surface dans l’industrie des semi-conducteurs. Ils ont cartographié l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789674300000",
-      "title": "Aqara et la faille du cloud, quand votre serrure connectée s’ouvre sans vous",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/aqara-failles-cloud-serrures-cameras-connectees/194977-2026-09",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Dix vulnérabilités dans le cloud domotique d’Aqara viennent d’être rendues publiques. Certaines permettent à un attaquant non authentifié de piloter des serrures et des caméras sans jamais toucher au compte de l’utilisateur. 📌 L’essentiel en 3 points Le mythe du capteur espion s…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "lenergeek-rss-5-1789651053000",
       "title": "Carburant : les pays européens déploient des mesures anti-inflation",
       "source": "L’ÉnerGeek",
@@ -7034,7 +7036,7 @@
     },
     {
       "id": "envirobatbdm-rss-1-1789589521000",
-      "title": "CEREMA MEDITERRANEE",
+      "title": "CEREMA DTER-MED",
       "source": "EnvirobatBDM",
       "sourceId": "envirobatbdm",
       "sourceType": "Centre ressources bâtiment durable",
@@ -7052,7 +7054,7 @@
         "Méditerranée",
         "Eau"
       ],
-      "summary": "CEREMA MEDITERRANEE Anonyme (non vérifié) mer 16/09/2026 - 22:12 Maîtrise d'ouvrage publique (MOA) Adresse 30 Avenue Albert Einstein 13593 Aix-en-Provence Cedex 03 France Téléphone 04 42 24 76 76 Email karine.jan@cerema.fr Site Web http://www.cerema.fr Détail secteur d'activité E…",
+      "summary": "CEREMA DTER-MED Anonyme (non vérifié) mer 16/09/2026 - 22:12 Maîtrise d'ouvrage publique (MOA) Adresse 30 Avenue Albert Einstein 13593 Aix-en-Provence Cedex 03 France Téléphone 04 42 24 76 76 Email karine.jan@cerema.fr Site Web http://www.cerema.fr Détail secteur d'activité Entre…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13853,29 +13855,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "fncaue-rss-0-1787928775000",
-      "title": "Les Enfants du patrimoine – dossier de presse",
-      "source": "FNCAUE",
-      "sourceId": "fncaue",
-      "sourceType": "Réseau CAUE",
-      "region": "National",
-      "url": "https://www.fncaue.com/les-enfants-du-patrimoine-dossier-de-presse/",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Architecture",
-        "Urbanisme",
-        "Conseil"
-      ],
-      "summary": "Les informations détaillées de la 9e édition Cet article Les Enfants du patrimoine – dossier de presse est apparu en premier sur CAUE. Les informations détaillées de la 9e édition Cet article Les Enfants du patrimoine &#8211; dossier de presse est apparu en premier sur CAUE . Les…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "novabuild-rss-9-1787894700000",
       "title": "Recensement des solutions d'adaptation au changement climatique basés sur la nature en Pays de la Loire",
       "source": "Novabuild",
@@ -17349,7 +17328,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ekopolis-sitemap-14-1785314239000",
+      "id": "ekopolis-sitemap-15-1785314239000",
       "title": "societe resiliente transition ecologique et cohesion sociale etudes de quelques",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17372,7 +17351,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-54-1785313782000",
+      "id": "ekopolis-sitemap-55-1785313782000",
       "title": "guide amenagement et construction durable de lenseignement superieur de la recherche et",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17396,7 +17375,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-73-1785314102000",
+      "id": "ekopolis-sitemap-74-1785314102000",
       "title": "les opportunites de developpement de leconomie sociale et solidaire dans la filiere du",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17419,7 +17398,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-136-1785313963000",
+      "id": "ekopolis-sitemap-137-1785313963000",
       "title": "presentation programme sante ville amenagement durable",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17442,7 +17421,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-231-1785316581000",
+      "id": "ekopolis-sitemap-232-1785316581000",
       "title": "guide construire sain ed 2013",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17465,7 +17444,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-362-1785316517000",
+      "id": "ekopolis-sitemap-363-1785316517000",
       "title": "la biodiversite publications du ministere",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17488,7 +17467,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-366-1785313612000",
+      "id": "ekopolis-sitemap-367-1785313612000",
       "title": "label ever espaces verts ecologiques pour la gestion ecologique des espaces verts",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17511,7 +17490,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-379-1785316763000",
+      "id": "ekopolis-sitemap-380-1785316763000",
       "title": "de la nature en ville mais quelle idee",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17992,31 +17971,6 @@
       "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "fncaue-rss-1-1784792568000",
-      "title": "La FNCAUE mobilisée pour le déploiement du « Parcours Projet Habitat Rural »",
-      "source": "FNCAUE",
-      "sourceId": "fncaue",
-      "sourceType": "Réseau CAUE",
-      "region": "National",
-      "url": "https://www.fncaue.com/la-fncaue-mobilisee-pour-le-deploiement-du-parcours-projet-habitat-rural/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Architecture",
-        "Urbanisme",
-        "Conseil",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "Face aux enjeux spécifiques du logement dans les territoires ruraux, la Direction générale de l’aménagement, du logement et de la nature (DGALN), a développé le Parcours Projet Habitat Rural, en partenariat avec l’Agence nationale de la cohésion des territoires (ANCT). Conçu comm…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "arec-nouvelle-aquitaine-rss-2-1784794183000",
@@ -20568,29 +20522,6 @@
         "Confort d’été"
       ],
       "summary": "Caractéristiques principales Nom : Parcs en Scène, lots 2.4 E et 2.4 E’ Certification(s) : NF Habitat HQE Très Performant, RE2020 Seuils 2025, RE2020 Seuils 2028, Label BBCA Livraison : 15 avril 2026 Acteurs : Groupement constitué par Linkcity et CDC Habitat, associés au sein d’u…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "fncaue-rss-2-1783344570000",
-      "title": "Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL",
-      "source": "FNCAUE",
-      "sourceId": "fncaue",
-      "sourceType": "Réseau CAUE",
-      "region": "National",
-      "url": "https://www.fncaue.com/taxe-damenagement-un-courrier-conjoint-adresse-au-ministre-david-amiel/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Architecture",
-        "Urbanisme",
-        "Conseil"
-      ],
-      "summary": "Les associations nationales unies pour une réponse rapide de l'État Cet article Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL est apparu en premier sur CAUE. Les associations nationales unies pour une réponse rapide de l'État Cet article Taxe d&rsquo;a…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
