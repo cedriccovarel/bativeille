@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-17T22:46:15.307Z",
+  "generatedAt": "2026-09-18T03:56:12.135Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,108 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1789701000000",
+      "title": "La chimie transforme la façon dont les chercheurs développent la technologie de l’IA",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/la-chimie-transforme-la-facon-dont-les-chercheurs-developpent-la-technologie-de-lia/194472-2026-09",
+      "image": null,
+      "date": "2026-09-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Alors que la plupart des gens estiment que l’intelligence artificielle (IA) transforme la science, des chercheurs de l’Université de Notre Dame explorent l’inverse. Dans un article publié dans Chemical Reviews, des experts en IA comme en chimie ont expliqué comment les subtilités…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1789703752000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1789703752000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1789703752000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "cerema-sitemap-892-1789633437000",
       "title": "copari project vulnerability flood risks",
       "source": "CEREMA",
@@ -3927,7 +4029,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789683000000",
+      "id": "enerzine-rss-1-1789683000000",
       "title": "Renforcer la puissance du plasma pour l’industrie",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3951,7 +4053,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789674300000",
+      "id": "enerzine-rss-2-1789674300000",
       "title": "Aqara et la faille du cloud, quand votre serrure connectée s’ouvre sans vous",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3975,7 +4077,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789667400000",
+      "id": "enerzine-rss-3-1789667400000",
       "title": "L’iPhone 18 Pro à 1.479 euros, faut-il craquer ce soir ? sa disponibilité commence demain",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3999,7 +4101,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789662098000",
+      "id": "enerzine-rss-4-1789662098000",
       "title": "Voiture électrique : record de 38% des ventes en France en août 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4025,7 +4127,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789623000000",
+      "id": "enerzine-rss-5-1789623000000",
       "title": "Un matériau prometteur pour des batteries Li-ion plus sûres atteint une conductivité record",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4050,7 +4152,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789621800000",
+      "id": "enerzine-rss-6-1789621800000",
       "title": "Une nouvelle conception de dispositif pourrait miniaturiser la photonique et les technologies quantiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4076,7 +4178,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789618200000",
+      "id": "enerzine-rss-7-1789618200000",
       "title": "Les robots peuvent-ils vraiment comprendre les besoins des infirmières ? Une chercheuse veut le savoir",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4102,7 +4204,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789614600000",
+      "id": "enerzine-rss-8-1789614600000",
       "title": "PACMAN : un cadre d’IA pour contrôler en toute sécurité les systèmes de fusion prend des décisions clés en quelques millisecondes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4305,84 +4407,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789685154000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1789685154000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1789685154000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "le-journal-du-grand-paris-rss-0-1789674776000",
       "title": "L’essentiel de la semaine du 14 septembre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
@@ -4410,7 +4434,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "le-journal-du-grand-paris-rss-1-1789674585000",
-      "title": "Anru 3 : « Une promesse doit devenir une loi, un cadre et un calendrier ! »",
+      "title": "Anru 3 : « Une promesse doit devenir une loi, un cadre et un calendrier ! », déclare Bally Bagayoko",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
@@ -6099,7 +6123,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789596600000",
+      "id": "enerzine-rss-9-1789596600000",
       "title": "Une nouvelle méthode prédit où se produiront les grands séismes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6121,32 +6145,6 @@ window.BATIVEILLE_DATA = {
         "Biosourcé"
       ],
       "summary": "Des scientifiques de l’Université de Californie à Riverside (UC Riverside) ont mis au point une méthode permettant d’identifier où les plus puissants séismes de la Terre risquent le plus de se produire, offrant un nouvel outil de taille pour améliorer la préparation aux catastrop…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789595400000",
-      "title": "PS5 Pro. La mise à jour active le PSSR amélioré par défaut alors que les prix flambent",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/ps5-firmware-26-06-14-00-00-pssr-defaut-ps5-pro/194927-2026-09",
-      "image": null,
-      "date": "2026-09-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Sony déploie un firmware d’envergure qui promet d’affiner le rendu sur PS5 Pro. Cette amélioration tombe à pic alors que la console devient rare et coûteuse sur le marché. 📌 L’essentiel en 3 points La version 26.06-14.00.00, diffusée le 16 septembre 2026, active par défaut le pa…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11761,6 +11759,28 @@ window.BATIVEILLE_DATA = {
         "Territoires"
       ],
       "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "cite-de-l-architecture-et-du-patrimoine-sitemap-190-1788787260000",
+      "title": "ressources pedagogiques",
+      "source": "Cité de l’architecture et du patrimoine",
+      "sourceId": "cite-de-l-architecture-et-du-patrimoine",
+      "sourceType": "Institution culturelle",
+      "region": "National",
+      "url": "https://www.citedelarchitecture.fr/fr/article/ressources-pedagogiques",
+      "image": null,
+      "date": "2026-09-07",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Architecture",
+        "Patrimoine"
+      ],
+      "summary": "Publication détectée dans le sitemap de Cité de l’architecture et du patrimoine. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
