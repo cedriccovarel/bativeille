@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T22:26:29.998Z",
+  "generatedAt": "2026-09-19T03:53:53.451Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,110 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1789787400000",
+      "title": "Micro-réseaux : les Amériques en tête à l’horizon 2030",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/micro-reseaux-ameriques-tete-horizon-2030/194871-2026-09",
+      "image": null,
+      "date": "2026-09-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Selon GlobalData, le marché mondial des micro-réseaux devrait enregistrer une forte croissance d’ici 2030, porté par les investissements des gouvernements, des services publics et des communautés isolées dans les Amériques, l’Asie-Pacifique et la zone EMEA. Le marché mondial des …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1789790009000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1789790009000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1789790009000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1789718401000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -3044,32 +3148,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-0-1789714845000",
-      "title": "Adopte un Bureau veut structurer la filière du mobilier reconditionné",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/adopte-un-bureau-veut-structurer-la-filiere-du-mobilier-reconditionne/",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Fondée en 2015, Adopte un Bureau a déjà donné une seconde vie à plus de 30 000 meubles professionnels. Entreprise de l’économie sociale et solidaire, elle ambitionne désormais de doubler son volume d’ici 2027, avec l’appui de l’Accélérateur ESS d’HEC Paris. Son objectif : faire é…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-0-1789747816000",
       "title": "Hausse de l'utilisation des pesticides : le grand flou du gouvernement",
       "source": "Reporterre",
@@ -3727,7 +3805,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789769400000",
+      "id": "enerzine-rss-1-1789773099000",
+      "title": "Fractons, ces quasi-particules figées qui pourraient sauver l’ordinateur quantique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/fractons-quasi-particules-figees-info-quantique/195073-2026-09",
+      "image": null,
+      "date": "2026-09-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Des physiciens viennent d’identifier, par simulation numérique, des signatures précises d’une phase à fractons dans un modèle de spins quantiques plus microscopique que les théories de jauge habituelles.Ces quasi-particules à la mobilité extrêmement réduite pourraient fournir un …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1789769400000",
       "title": "Batteries solides : Panasonic vise 150 °C, Fraunhofer promet jusqu’à 15% d’énergie en plus",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3751,7 +3854,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789763700000",
+      "id": "enerzine-rss-3-1789763700000",
       "title": "Un calmar colossal filmé vivant pour la première fois en 2025, une énigme des abysses se dévoilait",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3777,7 +3880,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789754700000",
+      "id": "enerzine-rss-4-1789754700000",
       "title": "Mistral Small 4 débarque dans Firefox, et la France en bénéficie déjà",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3801,7 +3904,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789752900000",
+      "id": "enerzine-rss-5-1789752900000",
       "title": "Automédication. L’illusion de l’efficacité face à des armoires à pharmacie trompeuses",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3826,7 +3929,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789749300000",
+      "id": "enerzine-rss-6-1789749300000",
       "title": "Des data centers « sobres en eau » face au durcissement réglementaire du Texas",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3852,7 +3955,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789737900000",
+      "id": "enerzine-rss-7-1789737900000",
       "title": "Lune, la NASA découvre un cratère de 222 mètres né d’un impact rarissime",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3876,7 +3979,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789709400000",
+      "id": "enerzine-rss-8-1789709400000",
       "title": "Oleo100 B100 au Mans : une course et une collecte décarbonée",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3902,7 +4005,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789708200000",
+      "id": "enerzine-rss-9-1789708200000",
       "title": "L’impression 3D inspirée de la nature pourrait améliorer le stockage à grande échelle des énergies renouvelables",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3922,56 +4025,6 @@
         "ENR"
       ],
       "summary": "Des chercheurs ont créé une électrode imprimée en 3D qui pourrait rendre plus facile et plus sûr le stockage de grandes quantités d’énergie renouvelable produite par les parcs éoliens et solaires. Dirigée par Dr Maxime van der Heijden, professeur à l’Université de Waterloo, l’équ…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1789704600000",
-      "title": "Batteries tout solide, la promesse à 381 Wh/kg affronte l’épreuve de la production",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/batteries-tout-solide-381-wh-kg-defi-industriel/194742-2026-09",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "RE2020",
-        "Économie du bâtiment"
-      ],
-      "summary": "Une batterie affichant 381 Wh/kg selon un rapport TÜV cité par son fabricant sort des lignes de production taïwanaises, et une autre promet de fonctionner jusqu’à 150 °C selon son concepteur. La voiture électrique change de dimension sur le papier, mais aucun prix ni rendement in…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789701000000",
-      "title": "La chimie transforme la façon dont les chercheurs développent la technologie de l’IA",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/la-chimie-transforme-la-facon-dont-les-chercheurs-developpent-la-technologie-de-lia/194472-2026-09",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Alors que la plupart des gens estiment que l’intelligence artificielle (IA) transforme la science, des chercheurs de l’Université de Notre Dame explorent l’inverse. Dans un article publié dans Chemical Reviews, des experts en IA comme en chimie ont expliqué comment les subtilités…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4101,84 +4154,6 @@
       "summary": "137 euros par mois pour rouler à l'essence, contre 46 pour l'électrique. L'écart se creuse dangereusement à cause d'une crise loin de chez nous. Votre portefeuille tient-il le choc ? L’article Carburant : le coût mensuel de l’essence est maintenant trois fois supérieur à celui de…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1789770369000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1789770369000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1789770369000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1789737122000",
@@ -4789,6 +4764,32 @@
     },
     {
       "id": "batiweb-rss-5-1789686300000",
+      "title": "3 ans de REP Bâtiment : la filière minérale change d’échelle",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/rep-batiment-3-ans-filiere-minerale-49258",
+      "image": "https://img.batiweb.com/repo-images/publi/49258/ecominero-09-21-une.jpg",
+      "date": "2026-09-17",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâce à un réseau national. REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-6-1789686300000",
       "title": "Crédit immobilier : pourquoi le taux d’assurance peut faire varier sensiblement le coût de votre prêt",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4813,7 +4814,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-6-1789686300000",
+      "id": "batiweb-rss-7-1789686300000",
       "title": "Les meilleures SCPI en 2026 : rendement, frais, risques… les critères à comparer",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4834,32 +4835,6 @@
         "Économie du bâtiment"
       ],
       "summary": "En 2026, le marché des SCPI propose des stratégies très différentes les unes des autres, avec des niveaux de rendement qui ne peuvent pas être comparés à eux seuls. De la diversification, en passant par l'ancienneté, et jusqu'aux perspectives, quelles sont les meilleures SCPI à p…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-7-1789686300000",
-      "title": "3 ans de REP Bâtiment : la filière minérale change d’échelle",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/rep-batiment-3-ans-filiere-minerale-49258",
-      "image": "https://img.batiweb.com/repo-images/publi/49258/ecominero-09-21-une.jpg",
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâce à un réseau national. REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5630,30 +5605,6 @@
         "Réglementation"
       ],
       "summary": "Le nombre de data centers en construction connaît une forte accélération pour répondre aux besoins de l'intelligence artificielle. @Field Engineer, Pexels Plus d'énergie renouvelable, moins de consommation d'eau, des mesures pour préserver la souveraineté et le contrôle des donné…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-1-1789665395000",
-      "title": "Cathy Mounier, RUP : « La communication ne peut pas être responsable si les modèles économiques ne le sont pas »",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/cathy-mounier-rup-la-communication-ne-peut-pas-etre-responsable-si-les-modeles-economiques-ne-le-sont-pas-2/",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Depuis toujours au service de l’intérêt général, l’agence RUP fête ses 20 ans. Invitée dans « ESS On Air », Cathy Mounier revient sur les transformations que vit le secteur de la communication engagée, sur cette période de « backlash » écologique et social, mais aussi sur le rôle…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7282,32 +7233,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-2-1789542035000",
-      "title": "20 pays créent le groupe de pays « Amis de l’ESS », sans la France !",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/20-pays-creent-le-groupe-de-pays-amis-de-less-sans-la-france/",
-      "image": null,
-      "date": "2026-09-16",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Confort d’été",
-        "Économie du bâtiment"
-      ],
-      "summary": "Un échec diplomatique de plus pour la France, ou un véritable renoncement stratégique ? Vingt pays ont lancé cet été, sous l’égide de l’Organisation internationale du Travail (OIT), le Groupe des Amis de l’économie sociale et solidaire. Parmi les signataires : l’Italie, l’Espagne…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-21-1789574400000",
       "title": "Sac, botte... Du plastique retrouvé à près de 4 000 m de profondeur",
       "source": "Reporterre",
@@ -8372,32 +8297,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-3-1789454700000",
-      "title": "Panorama de l’ESS 2026 : Et si l’on comptait ce que le secteur non lucratif rapporte à la société ?",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/budget-2027-panorama-ess-2026-non-lucratif-economie-sociale-et-solidaire-edito-panorama-ess-france-observatoire/",
-      "image": null,
-      "date": "2026-09-15",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Confort d’été",
-        "Économie du bâtiment"
-      ],
-      "summary": "À l’approche de 2027, la question budgétaire va revenir comme un refrain : combien coûte l’action publique ? Combien coûte une association ? Combien coûte une politique sociale ? Combien coûte l’ESS… ou au contraire combien rapporte-t-elle ? Mais oui, il serait temps de poser la …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-31-1789485302000",
       "title": "« Une vaste fumisterie démocratique » : les opposants à l'enfouissement des déchets nucléaires dénoncent une procédure à marche forcée",
       "source": "Reporterre",
@@ -9255,30 +9154,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-4-1789376432000",
-      "title": "Fondation Croix Saint-Simon : 37 offres de reprise déposées, mais pas sur tout le périmètre",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/fondation-croix-saint-simon-37-offres-de-reprise-deposees-mais-pas-sur-tout-le-perimetre/",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "C’est un signal fort pour tout le secteur médico-social, mais aussi – et surtout – pour les 1800 professionnels des crèches et des EHPAD de la Fondation Croix Saint-Simon. À deux semaines de l’échéance cruciale du 29 septembre, qui verra le Tribunal des Activités Économiques exam…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-41-1789394400000",
       "title": "Arrestations, abattage d'arbres : l'État enclenche la marche forcée pour un centre où enfermer les exilés",
       "source": "Reporterre",
@@ -9977,54 +9852,6 @@
         "Eau"
       ],
       "summary": "Entre ouverture de l’A355, mise en œuvre des voies réservées au covoiturage, restrictions de circulation sur les boulevards strasbourgeois et extensions de tram et de bus à haut niveau de service, l’infrastructure... L’article Flux routiers eurométropolitains : vers une baisse de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-5-1789117200000",
-      "title": "Fairtrade réforme son label Textile équitable : pragmatisme ou recul stratégique ?",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/fairtrade-reforme-son-label-textile-equitable-pragmatisme-ou-recul-strategique/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Depuis le 1er septembre 2026, le Standard Textile Fairtrade a changé de philosophie. Historiquement conçu pour couvrir les pratiques équitables et responsables de l’ensemble de la chaîne textile – de l’égrenage du coton jusqu’au produit fini en passant par la filature et le tissa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-6-1789110000000",
-      "title": "Cinq centres sociaux parisiens renforcent le pouvoir d’agir des habitants sur leur cadre de vie",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/cinq-centres-sociaux-parisiens-sallient-pour-renforcer-le-pouvoir-dagir-des-habitants-sur-leur-cadre-de-vie/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "L’environnement urbain ne cesse d’évoluer au gré de transformations, qui peuvent être subies par les habitants, notamment les plus vulnérables. Comment les conduire à comprendre, s’approprier et prendre part aux évolutions de leur cadre de vie ? Entre 2024 et 2025, cinq centres s…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10866,30 +10693,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-7-1789023600000",
-      "title": "Mentorat : comment Twoo et Uxco aident les jeunes à trouver leur place dans le monde du travail",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/mentorat-comment-twoo-et-uxco-aident-les-jeunes-a-trouver-leur-place-dans-le-monde-du-travail/",
-      "image": null,
-      "date": "2026-09-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Isolement, précarité, décrochage : l’entrée dans la vie professionnelle est devenue, pour une partie de la jeunesse, une zone à risque plutôt qu’un rite de passage. Face à ce constat, une association et une entreprise privée ont choisi de répondre ensemble plutôt que séparément. …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-11-1789052300000",
       "title": "Énergies renouvelables : les investissements stagnent depuis l’année dernière",
       "source": "Révolution Énergétique",
@@ -11367,30 +11170,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-8-1788937200000",
-      "title": "Sport et handicap : le chiffre-choc de la valeur sociale ne suffit plus, il faut la démontrer",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/sport-et-handicap-le-chiffre-choc-de-la-valeur-sociale-ne-suffit-plus-il-faut-la-demontrer/",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "« Le taux de pratique sportive des personnes en situation de handicap est de 47 %, alors qu’il est de 80 % pour le reste de la population française ». Une inégalité qui dit tout de l’exclusion du champ sportif pour les personnes en situation de handicap. Une injustice, assurément…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-12-1788940591000",
       "title": "Voici le premier train électrique français à batterie en service commercial",
       "source": "Révolution Énergétique",
@@ -11861,31 +11640,6 @@
       "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "mediatico-rss-9-1788849900000",
-      "title": "ZEvent, le record : 33 millions d’euros levés pour les associations en un week-end",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/zevent-33-millions-deuros-la-fin-dun-format-qui-a-reecrit-les-regles-du-don/",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation"
-      ],
-      "summary": "Le compteur du ZEvent a définitivement cessé de tourner dimanche soir, c’était écrit. Mais l’événement a tiré sa révérence sur une apothéose. Quel exploit, en effet, que cette ultime édition de jeux vidéo en streaming, qui nous embarquait une nouvelle fois sur la voie d’un événem…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-13-1788877297000",
@@ -13851,6 +13605,29 @@
         "Bâtiment"
       ],
       "summary": "24.09 Trait de côte en mouvement : réinventer l'attractivité de notre littoral – à Toulon v.feisthauer ven 28/08/2026 - 16:10 Plus qu’une conférence, un laboratoire de solutions Pour dépasser la théorie, nous accueillerons comme grand témoin Thomas Hervé, architecte au sein de la…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "fncaue-rss-0-1787928775000",
+      "title": "Les Enfants du patrimoine – dossier de presse",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/les-enfants-du-patrimoine-dossier-de-presse/",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil"
+      ],
+      "summary": "Les informations détaillées de la 9e édition Cet article Les Enfants du patrimoine – dossier de presse est apparu en premier sur CAUE. Les informations détaillées de la 9e édition Cet article Les Enfants du patrimoine &#8211; dossier de presse est apparu en premier sur CAUE . Les…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -17973,6 +17750,31 @@
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "fncaue-rss-1-1784792568000",
+      "title": "La FNCAUE mobilisée pour le déploiement du « Parcours Projet Habitat Rural »",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/la-fncaue-mobilisee-pour-le-deploiement-du-parcours-projet-habitat-rural/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "Face aux enjeux spécifiques du logement dans les territoires ruraux, la Direction générale de l’aménagement, du logement et de la nature (DGALN), a développé le Parcours Projet Habitat Rural, en partenariat avec l’Agence nationale de la cohésion des territoires (ANCT). Conçu comm…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "arec-nouvelle-aquitaine-rss-2-1784794183000",
       "title": "Nouvelles données énergie et gaz à effet de serre en Nouvelle-Aquitaine",
       "source": "AREC Nouvelle-Aquitaine",
@@ -20522,6 +20324,29 @@
         "Confort d’été"
       ],
       "summary": "Caractéristiques principales Nom : Parcs en Scène, lots 2.4 E et 2.4 E’ Certification(s) : NF Habitat HQE Très Performant, RE2020 Seuils 2025, RE2020 Seuils 2028, Label BBCA Livraison : 15 avril 2026 Acteurs : Groupement constitué par Linkcity et CDC Habitat, associés au sein d’u…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "fncaue-rss-2-1783344570000",
+      "title": "Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/taxe-damenagement-un-courrier-conjoint-adresse-au-ministre-david-amiel/",
+      "image": null,
+      "date": "2026-07-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil"
+      ],
+      "summary": "Les associations nationales unies pour une réponse rapide de l'État Cet article Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL est apparu en premier sur CAUE. Les associations nationales unies pour une réponse rapide de l'État Cet article Taxe d&rsquo;a…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
