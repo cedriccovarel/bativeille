@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T09:18:41.541Z",
+  "generatedAt": "2026-09-19T13:48:16.225Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2288,7 +2288,56 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789791000000",
+      "id": "enerzine-rss-0-1789815900000",
+      "title": "L’Europe tente d’endiguer la vague des hybrides chinoises à 15 % du marché",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/europe-plafond-hybrides-chinoises/195089-2026-09",
+      "image": null,
+      "date": "2026-09-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "La déferlante des voitures hybrides chinoises sur le Vieux Continent n’a plus rien d’une simple tendance. Selon le Financial Times, Bruxelles demande désormais à Pékin une limitation volontaire des exportations, autour de 15% du marché européen des hybrides, alors que les marques…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789809900000",
+      "title": "Fusion laser en Allemagne, la promesse d’une énergie infinie face au défi industriel",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/fusion-laser-biblis-focused-energy/195081-2026-09",
+      "image": null,
+      "date": "2026-09-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Sur l’ancien site nucléaire de Biblis, l’Allemagne amorce un virage spectaculaire. La start-up Focused Energy, basée à Darmstadt, veut y construire la première centrale à fusion laser commerciale au monde, avec un calendrier aussi ambitieux que risqué. 📌 L’essentiel en 3 points …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1789791000000",
       "title": "Soletanche Bachy rachète Bradshaw Construction aux États-Unis",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2314,7 +2363,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789787400000",
+      "id": "enerzine-rss-3-1789787400000",
       "title": "Micro-réseaux : les Amériques en tête à l’horizon 2030",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2414,7 +2463,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789809499000",
+      "id": "le-commerce-du-bois-sitemap-0-1789825672000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2440,7 +2489,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789809499000",
+      "id": "le-commerce-du-bois-sitemap-1-1789825672000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2466,7 +2515,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789809499000",
+      "id": "le-commerce-du-bois-sitemap-2-1789825672000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3797,7 +3846,7 @@
         "Financement",
         "Marché énergie"
       ],
-      "summary": "Depuis plusieurs semaines, le PDG d’EDF, Bernard Fontana, enchaîne les rendez-vous avec les candidats à la présidentielle de 2027. S’il a rencontré Marine Le Pen la semaine dernière, comme l’a révélé GreenUnivers, l’ingénieur à la tête de l’électricien national a aussi vu L’artic…",
+      "summary": "– Article actualisé le 19/09/2026. Depuis plusieurs semaines, le PDG d’EDF, Bernard Fontana, enchaîne les rendez-vous avec les candidats à la présidentielle de 2027. S’il a rencontré Marine Le Pen la semaine dernière, comme l’a révélé GreenUnivers, l’ingénieur à la tête de l’élec…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4058,7 +4107,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789773099000",
+      "id": "enerzine-rss-4-1789773099000",
       "title": "Fractons, ces quasi-particules figées qui pourraient sauver l’ordinateur quantique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4083,7 +4132,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789769400000",
+      "id": "enerzine-rss-5-1789769400000",
       "title": "Batteries solides : Panasonic vise 150 °C, Fraunhofer promet jusqu’à 15% d’énergie en plus",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4107,7 +4156,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789763700000",
+      "id": "enerzine-rss-6-1789763700000",
       "title": "Un calmar colossal filmé vivant pour la première fois en 2025, une énigme des abysses se dévoilait",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4133,7 +4182,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789754700000",
+      "id": "enerzine-rss-7-1789754700000",
       "title": "Mistral Small 4 débarque dans Firefox, et la France en bénéficie déjà",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4157,7 +4206,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789752900000",
+      "id": "enerzine-rss-8-1789752900000",
       "title": "Automédication. L’illusion de l’efficacité face à des armoires à pharmacie trompeuses",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4182,7 +4231,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789749300000",
+      "id": "enerzine-rss-9-1789749300000",
       "title": "Des data centers « sobres en eau » face au durcissement réglementaire du Texas",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4204,56 +4253,6 @@
         "Eau"
       ],
       "summary": "Le gouverneur du Texas, Greg Abbott, a ordonné aux régulateurs de sanctionner les centres de données qui ne déclarent pas leur consommation d’eau. Cette décision frappe un État devenu l’un des territoires les plus dynamiques au monde pour l’infrastructure d’intelligence artificie…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1789737900000",
-      "title": "Lune, la NASA découvre un cratère de 222 mètres né d’un impact rarissime",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/cratere-lune-nasa-mcgetchin-222-m/194999-2026-09",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "La NASA vient de révéler un cratère lunaire de 222 mètres de diamètre, creusé en quelques secondes par un objet de la taille d’un immeuble. Cette découverte signée par l’orbiteur Lunar Reconnaissance Orbiter change la lecture des impacts récents dans le Système solaire. 📌 L’esse…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789709400000",
-      "title": "Oleo100 B100 au Mans : une course et une collecte décarbonée",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/oleo100-b100-mans-course-collecte-decarbonee/194858-2026-09",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Oleo100, biocarburant B100 issu du colza français, alimente depuis 2021 les camions de course d’ARAVI Racing sur le circuit du Mans et depuis 2022 une partie des poids lourds de Le Mans Métropole pour la collecte des déchets, afin de réduire les émissions de gaz à effet de serre.…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4993,32 +4992,6 @@
     },
     {
       "id": "batiweb-rss-5-1789686300000",
-      "title": "3 ans de REP Bâtiment : la filière minérale change d’échelle",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/rep-batiment-3-ans-filiere-minerale-49258",
-      "image": "https://img.batiweb.com/repo-images/publi/49258/ecominero-09-21-une.jpg",
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâce à un réseau national. REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-6-1789686300000",
       "title": "Crédit immobilier : pourquoi le taux d’assurance peut faire varier sensiblement le coût de votre prêt",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5043,7 +5016,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-7-1789686300000",
+      "id": "batiweb-rss-6-1789686300000",
       "title": "Les meilleures SCPI en 2026 : rendement, frais, risques… les critères à comparer",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5064,6 +5037,32 @@
         "Économie du bâtiment"
       ],
       "summary": "En 2026, le marché des SCPI propose des stratégies très différentes les unes des autres, avec des niveaux de rendement qui ne peuvent pas être comparés à eux seuls. De la diversification, en passant par l'ancienneté, et jusqu'aux perspectives, quelles sont les meilleures SCPI à p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-7-1789686300000",
+      "title": "3 ans de REP Bâtiment : la filière minérale change d’échelle",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/rep-batiment-3-ans-filiere-minerale-49258",
+      "image": "https://img.batiweb.com/repo-images/publi/49258/ecominero-09-21-une.jpg",
+      "date": "2026-09-17",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâce à un réseau national. REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8265,7 +8264,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -8470,6 +8469,30 @@
         "Réglementation"
       ],
       "summary": "L’article Patrimoine paysager : La végétation privée qui déborde au bénéfice de la rue et des piétons est apparu en premier sur AGAM. L’article Patrimoine paysager : La végétation privée qui déborde au bénéfice de la rue et des piétons est apparu en premier sur AGAM . Patrimoine …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "a-urba-bordeaux-aquitaine-rss-0-1789460409000",
+      "title": "CaMBo #29 : La ville, champ de bataille",
+      "source": "A’urba Bordeaux Aquitaine",
+      "sourceId": "a-urba-bordeaux-aquitaine",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.aurba.org/cambo-29-la-ville-champ-de-bataille/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Bordeaux",
+        "Urbanisme",
+        "Habitat",
+        "Réglementation"
+      ],
+      "summary": "Parution du dernier numéro des Cahiers de la Métropole bordelaiseCAMBO_29 Beyrouth, Sarajevo, Marioupol… Les villes sont le théâtre de guerres, aujourd’hui encore plus qu’hier, dans un monde toujours plus urbain. Comment la guerre transforme-t-elle la ville ? Et, inversement, com…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11749,32 +11772,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-2-1788874335000",
-      "title": "Envie d'Innover ? Découvrez la formation : Développement de nouveaux produits pour la construction",
-      "source": "Odéys",
-      "sourceId": "odeys",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.odeys.fr/agenda/envie-dinnover-decouvrez-la-formation-developpement-de-nouveaux-produits-pour-la",
-      "image": "https://www.odeys.fr/sites/default/files/2026-08/Accr%20formation%20site%20-%20reemploi%20niveau%201%20%284%29.png",
-      "date": "2026-09-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Innovation",
-        "Nouvelle-Aquitaine",
-        "Réglementation",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "18 SEPTEMBRE 2026 Webinaire Envie d'Innover ? Découvrez la formation \"Développement de Nouveaux produits pour la Construction\" 45 min pour répondre à toutes vos questions ! 📆 Vendredi 18 Septembre 2026 🕛 12:00 à 12:45 Les 13 et 14 octobre 2026 à Bordeaux, profitez de deux jours…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "arec-nouvelle-aquitaine-rss-0-1788881337000",
       "title": "Climat en Nouvelle-Aquitaine : 2026, une année qui illustre déjà les défis de l’adaptation",
       "source": "AREC Nouvelle-Aquitaine",
@@ -12165,7 +12162,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-3-1788784595000",
+      "id": "odeys-rss-2-1788784595000",
       "title": "[WEBINAIRE] Découvrir la démarche BDNA : pourquoi et comment engager son opération ?",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -12649,7 +12646,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-4-1788538142000",
+      "id": "odeys-rss-3-1788538142000",
       "title": "[RENCONTRE] « Faites » de l'éco-habitat, la 10e édition",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -12675,7 +12672,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-5-1788537272000",
+      "id": "odeys-rss-4-1788537272000",
       "title": "[RENCONTRE] Les Petits Déjeuners de la construction durable",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -12697,6 +12694,32 @@
         "Bâtiment"
       ],
       "summary": "24 SEPTEMBRE 2026 Anglet (64) Une heure, un café, et l'essentiel de l'actualité de la construction et de l'aménagement durables. Le format a bientôt un an : l'occasion, ce 24 septembre, de faire le point ensemble et de préparer la suite. 📆Jeudi 24 septembre 2026 🕐8h30 à 9h30 📍…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "odeys-rss-5-1788536114000",
+      "title": "[VISITES] Chantier de la Nef et de La Bascule en Charente",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/agenda/visites-chantier-de-la-nef-et-de-la-bascule-en-charente",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "29 SEPTEMBRE 2026 Angoulême (86) La Charente se bouge. Deux sites, deux façons de faire bouger les lignes du bâtiment durable sur le territoire charentais : un chantier de réhabilitation qui touche à sa fin, et une plateforme de réemploi qui monte en puissance. Odéys vous emmène …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -17018,7 +17041,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -17213,7 +17236,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -17721,7 +17744,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
