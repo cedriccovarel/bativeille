@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-20T14:02:41.083Z",
+  "generatedAt": "2026-09-20T18:08:03.564Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2284,7 +2284,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789902900000",
+      "id": "enerzine-rss-0-1789924200000",
+      "title": "SpaceX rêve d’une ville lunaire, mais l’eau pourrait manquer en deux ans",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/spacex-ville-lunaire-eau-rare/195172-2026-09",
+      "image": null,
+      "date": "2026-09-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Une colonie d’un million d’habitants sur la Lune pourrait épuiser sa ressource la plus précieuse en moins de trois ans sans recyclage de l’eau. Tandis que SpaceX affiche des vols cargo lunaires au plus tôt en 2028, une étude scientifique fragilise le scénario d’une grande cité au…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789902900000",
       "title": "Gazole à plus de 2,41 € le litre, est-il encore raisonnable d’acheter une motorisation diesel ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2309,7 +2334,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789862700000",
+      "id": "enerzine-rss-2-1789862700000",
       "title": "DeepL Voice traduit désormais votre voix en temps réel dans plus de 30 langues",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2409,7 +2434,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789912935000",
+      "id": "le-commerce-du-bois-sitemap-0-1789927657000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2435,7 +2460,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789912935000",
+      "id": "le-commerce-du-bois-sitemap-1-1789927657000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2461,7 +2486,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789912935000",
+      "id": "le-commerce-du-bois-sitemap-2-1789927657000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2487,7 +2512,57 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1789905742000",
+      "id": "le-journal-du-grand-paris-rss-0-1789913813000",
+      "title": "Hélène Chartier prend la direction des solutions climatiques du C40",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/helene-chartier-prend-la-direction-des-solutions-climatiques-du-c40/",
+      "image": null,
+      "date": "2026-09-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau"
+      ],
+      "summary": "L'ancienne conseillère d'Anne Hidalgo, qui dirige l'urbanisme et le design au sein du réseau de villes C40 Cities, est nommée Senior Director of Climate Solutions. Elle pilotera aussi le hub parisien de l'organisation internationale. L'ancienne conseillère d'Anne Hidalgo, qui dir…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1789907452000",
+      "title": "A New York, Emmanuel Grégoire échange sur le défi des villes face au logement cher et au changement climatique",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/a-new-york-emmanuel-gregoire-plaide-pour-les-villes-face-au-logement-cher-et-au-changement-climatique/",
+      "image": null,
+      "date": "2026-09-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Bâtiment"
+      ],
+      "summary": "Le maire de Paris Emmanuel Grégoire a rencontré son homologue new-yorkais Zohran Mamdani, vendredi 18 septembre, avant de participer tout le week-end au sommet Urban 20, le forum des villes du G20 cofondé par Paris en 2017. Le maire de Paris Emmanuel Grégoire a rencontré son homo…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-2-1789905742000",
       "title": "Campus Paris, le pari de Finapar et Deskeo sur l’immobilier scolaire flexible",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2664,7 +2739,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789859100000",
+      "id": "enerzine-rss-3-1789859100000",
       "title": "Vibrio vulnificus : la Floride et la Louisiane font face à une hausse des cas mortels",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2689,7 +2764,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789855800000",
+      "id": "enerzine-rss-4-1789855800000",
       "title": "X-VOLT devient banc d’essai volant pour l’ERA d’AURA AERO",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2714,7 +2789,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789830300000",
+      "id": "enerzine-rss-5-1789830300000",
       "title": "Pénurie de carburant, faut-il vraiment craindre la panne sèche cet automne ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2739,7 +2814,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789827671000",
+      "id": "enerzine-rss-6-1789827671000",
       "title": "Clicks muscle son BlackBerry sans toucher au prix, la facture viendra plus tard",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2764,7 +2839,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789815900000",
+      "id": "enerzine-rss-7-1789815900000",
       "title": "L’Europe tente d’endiguer la vague des hybrides chinoises à 15 % du marché",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2789,7 +2864,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789809900000",
+      "id": "enerzine-rss-8-1789809900000",
       "title": "Fusion laser en Allemagne, la promesse d’une énergie infinie face au défi industriel",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2813,7 +2888,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789791000000",
+      "id": "enerzine-rss-9-1789791000000",
       "title": "Soletanche Bachy rachète Bradshaw Construction aux États-Unis",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2835,32 +2910,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Soletanche Bachy, filiale de VINCI Construction, annonce l’acquisition de Bradshaw Construction, société américaine de microtunnels basée à Eldersburg, dans le Maryland. Fondée il y a plus de soixante ans, l’entreprise est basée à Eldersburg, dans le Maryland. Elle intervient sur…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789787400000",
-      "title": "Micro-réseaux : les Amériques en tête à l’horizon 2030",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/micro-reseaux-ameriques-tete-horizon-2030/194871-2026-09",
-      "image": null,
-      "date": "2026-09-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Selon GlobalData, le marché mondial des micro-réseaux devrait enregistrer une forte croissance d’ici 2030, porté par les investissements des gouvernements, des services publics et des communautés isolées dans les Amériques, l’Asie-Pacifique et la zone EMEA. Le marché mondial des …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -2939,7 +2988,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1789849502000",
+      "id": "le-journal-du-grand-paris-rss-3-1789849502000",
       "title": "Laurent Clemot rejoint le cabinet de Vincent Jeanbrun",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2964,7 +3013,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1789849090000",
+      "id": "le-journal-du-grand-paris-rss-4-1789849090000",
       "title": "Visite guidée du méthaniseur de Brie-Comte-Robert",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -3677,6 +3726,32 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "Les entreprises à impact confirment leur développement en Europe - Photo de Markus Spiske sur Unsplash Il était très attendu par les acteurs de l'économie à impact. La Commission européenne vient de dévoiler son rapport sur l'état des modèles d'affaires à impact positif dans l'Un…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-0-1789714845000",
+      "title": "Adopte un Bureau veut structurer la filière du mobilier reconditionné",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/adopte-un-bureau-veut-structurer-la-filiere-du-mobilier-reconditionne/",
+      "image": null,
+      "date": "2026-09-18",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Fondée en 2015, Adopte un Bureau a déjà donné une seconde vie à plus de 30 000 meubles professionnels. Entreprise de l’économie sociale et solidaire, elle ambitionne désormais de doubler son volume d’ici 2027, avec l’appui de l’Accélérateur ESS d’HEC Paris. Son objectif : faire é…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4465,7 +4540,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1789733876000",
+      "id": "le-journal-du-grand-paris-rss-5-1789733876000",
       "title": "Les marchés du Grand Paris – VNF lance une opération de déchirage de bateaux-logements abandonnés sur la Seine",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4491,7 +4566,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1789716751000",
+      "id": "le-journal-du-grand-paris-rss-6-1789716751000",
       "title": "Emmanuel Grégoire à New York pour rencontrer Zohran Mamdani",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4516,7 +4591,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1789715815000",
+      "id": "le-journal-du-grand-paris-rss-7-1789715815000",
       "title": "Notre-Dame : le réaménagement des abords se poursuivra jusqu’en 2030",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5750,6 +5825,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-1-1789665395000",
+      "title": "Cathy Mounier, RUP : « La communication ne peut pas être responsable si les modèles économiques ne le sont pas »",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/cathy-mounier-rup-la-communication-ne-peut-pas-etre-responsable-si-les-modeles-economiques-ne-le-sont-pas-2/",
+      "image": null,
+      "date": "2026-09-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Depuis toujours au service de l’intérêt général, l’agence RUP fête ses 20 ans. Invitée dans « ESS On Air », Cathy Mounier revient sur les transformations que vit le secteur de la communication engagée, sur cette période de « backlash » écologique et social, mais aussi sur le rôle…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-15-1789660454000",
       "title": "Le réalisateur et militant écologiste Marc de la Ménardière est mort",
       "source": "Reporterre",
@@ -6561,7 +6660,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1789674776000",
+      "id": "le-journal-du-grand-paris-rss-8-1789674776000",
       "title": "L’essentiel de la semaine du 14 septembre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6587,7 +6686,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1789674585000",
+      "id": "le-journal-du-grand-paris-rss-9-1789674585000",
       "title": "Anru 3 : « Une promesse doit devenir une loi, un cadre et un calendrier ! », déclare Bally Bagayoko",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6609,55 +6708,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Sous la toile tendue de l’Académie Fratellini à Saint-Denis jeudi 17 septembre, la Journée nationale de l'Anru a balayé le vernis technocratique pour poser une question brute : comment garder les quartiers habitables quand la planète surchauffe et que le calendrier politique mena…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1789665323000",
-      "title": "Journées du patrimoine : une exposition sur 50 ans d’aménagement francilien à l’hôtel de Roquelaure",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/journees-du-patrimoine-une-expo-sur-50-ans-damenagement-francilien-a-lhotel-de-roquelaure/",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "À l'occasion des Journées européennes du patrimoine, les 19 et 20 septembre, les ministères de la Transition écologique et des Transports ouvrent l'Hôtel de Roquelaure et l'Hôtel du Play au public. Au programme : une exposition retraçant 50 ans d'aménagement du territoire francil…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1789664443000",
-      "title": "Les maires du Val-de-Marne affichent leur unité, le mandat de Fatah Aggoune à leur tête prolongé",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-maires-du-val-de-marne-affichent-leur-unite-le-mandat-de-fatah-aggoune-a-leur-tete-prolonge/",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été"
-      ],
-      "summary": "Réunis pour leurs universités d'été, qui se sont tenues le 17 septembre à l'Espace Jean-Monnet de Rungis, les maires du Val-de-Marne ont affiché leur unité à la tribune, en présence du préfet du département, des présidents de la Métropole et du Département ainsi que des deux mini…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7294,6 +7344,32 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "L’Intelligence artificielle pourrait être la cause de près de 2 milliards de tonnes de CO₂ émises par an, via l’exploitation d’énergies fossiles. @Pexels / Steve McCaul L'intelligence artificielle au service de l'industrie pétrolière ? Mardi 15 septembre, TotalEnergies a official…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-2-1789542035000",
+      "title": "20 pays créent le groupe de pays « Amis de l’ESS », sans la France !",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/20-pays-creent-le-groupe-de-pays-amis-de-less-sans-la-france/",
+      "image": null,
+      "date": "2026-09-16",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Confort d’été",
+        "Économie du bâtiment"
+      ],
+      "summary": "Un échec diplomatique de plus pour la France, ou un véritable renoncement stratégique ? Vingt pays ont lancé cet été, sous l’égide de l’Organisation internationale du Travail (OIT), le Groupe des Amis de l’économie sociale et solidaire. Parmi les signataires : l’Italie, l’Espagne…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8310,6 +8386,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-3-1789454700000",
+      "title": "Panorama de l’ESS 2026 : Et si l’on comptait ce que le secteur non lucratif rapporte à la société ?",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/budget-2027-panorama-ess-2026-non-lucratif-economie-sociale-et-solidaire-edito-panorama-ess-france-observatoire/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Confort d’été",
+        "Économie du bâtiment"
+      ],
+      "summary": "À l’approche de 2027, la question budgétaire va revenir comme un refrain : combien coûte l’action publique ? Combien coûte une association ? Combien coûte une politique sociale ? Combien coûte l’ESS… ou au contraire combien rapporte-t-elle ? Mais oui, il serait temps de poser la …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-36-1789485302000",
       "title": "« Une vaste fumisterie démocratique » : les opposants à l'enfouissement des déchets nucléaires dénoncent une procédure à marche forcée",
       "source": "Reporterre",
@@ -9020,6 +9122,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-4-1789376432000",
+      "title": "Fondation Croix Saint-Simon : 37 offres de reprise déposées, mais pas sur tout le périmètre",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/fondation-croix-saint-simon-37-offres-de-reprise-deposees-mais-pas-sur-tout-le-perimetre/",
+      "image": null,
+      "date": "2026-09-14",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "C’est un signal fort pour tout le secteur médico-social, mais aussi – et surtout – pour les 1800 professionnels des crèches et des EHPAD de la Fondation Croix Saint-Simon. À deux semaines de l’échéance cruciale du 29 septembre, qui verra le Tribunal des Activités Économiques exam…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-46-1789394400000",
       "title": "Arrestations, abattage d'arbres : l'État enclenche la marche forcée pour un centre où enfermer les exilés",
       "source": "Reporterre",
@@ -9718,6 +9844,54 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Entre ouverture de l’A355, mise en œuvre des voies réservées au covoiturage, restrictions de circulation sur les boulevards strasbourgeois et extensions de tram et de bus à haut niveau de service, l’infrastructure... L’article Flux routiers eurométropolitains : vers une baisse de…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-5-1789117200000",
+      "title": "Fairtrade réforme son label Textile équitable : pragmatisme ou recul stratégique ?",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/fairtrade-reforme-son-label-textile-equitable-pragmatisme-ou-recul-strategique/",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Depuis le 1er septembre 2026, le Standard Textile Fairtrade a changé de philosophie. Historiquement conçu pour couvrir les pratiques équitables et responsables de l’ensemble de la chaîne textile – de l’égrenage du coton jusqu’au produit fini en passant par la filature et le tissa…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-6-1789110000000",
+      "title": "Cinq centres sociaux parisiens renforcent le pouvoir d’agir des habitants sur leur cadre de vie",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/cinq-centres-sociaux-parisiens-sallient-pour-renforcer-le-pouvoir-dagir-des-habitants-sur-leur-cadre-de-vie/",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "L’environnement urbain ne cesse d’évoluer au gré de transformations, qui peuvent être subies par les habitants, notamment les plus vulnérables. Comment les conduire à comprendre, s’approprier et prendre part aux évolutions de leur cadre de vie ? Entre 2024 et 2025, cinq centres s…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10436,6 +10610,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-7-1789023600000",
+      "title": "Mentorat : comment Twoo et Uxco aident les jeunes à trouver leur place dans le monde du travail",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/mentorat-comment-twoo-et-uxco-aident-les-jeunes-a-trouver-leur-place-dans-le-monde-du-travail/",
+      "image": null,
+      "date": "2026-09-10",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Isolement, précarité, décrochage : l’entrée dans la vie professionnelle est devenue, pour une partie de la jeunesse, une zone à risque plutôt qu’un rite de passage. Face à ce constat, une association et une entreprise privée ont choisi de répondre ensemble plutôt que séparément. …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-14-1789052300000",
       "title": "Énergies renouvelables : les investissements stagnent depuis l’année dernière",
       "source": "Révolution Énergétique",
@@ -10913,6 +11111,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-8-1788937200000",
+      "title": "Sport et handicap : le chiffre-choc de la valeur sociale ne suffit plus, il faut la démontrer",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/sport-et-handicap-le-chiffre-choc-de-la-valeur-sociale-ne-suffit-plus-il-faut-la-demontrer/",
+      "image": null,
+      "date": "2026-09-09",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "« Le taux de pratique sportive des personnes en situation de handicap est de 47 %, alors qu’il est de 80 % pour le reste de la population française ». Une inégalité qui dit tout de l’exclusion du champ sportif pour les personnes en situation de handicap. Une injustice, assurément…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-15-1788940591000",
       "title": "Voici le premier train électrique français à batterie en service commercial",
       "source": "Révolution Énergétique",
@@ -11357,6 +11579,31 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "mediatico-rss-9-1788849900000",
+      "title": "ZEvent, le record : 33 millions d’euros levés pour les associations en un week-end",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/zevent-33-millions-deuros-la-fin-dun-format-qui-a-reecrit-les-regles-du-don/",
+      "image": null,
+      "date": "2026-09-08",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "Le compteur du ZEvent a définitivement cessé de tourner dimanche soir, c’était écrit. Mais l’événement a tiré sa révérence sur une apothéose. Quel exploit, en effet, que cette ultime édition de jeux vidéo en streaming, qui nous embarquait une nouvelle fois sur la voie d’un événem…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-16-1788877297000",
