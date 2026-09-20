@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-19T22:16:11.908Z",
+  "generatedAt": "2026-09-20T04:10:24.243Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,109 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1789862700000",
+      "title": "DeepL Voice traduit désormais votre voix en temps réel dans plus de 30 langues",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/deepl-voice-traduit-voix-en-temps-reel-30-langues/195113-2026-09",
+      "image": null,
+      "date": "2026-09-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "DeepL franchit un cap sur la voix. Depuis le 15 septembre 2026, sa traduction vocale en temps réel est en mesure de conserver la voix du locuteur, dans 14 langues prises en charge. Une évolution pensée pour les réunions multilingues. 📌 L’essentiel en 3 points L’annonce a été pub…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1789877395000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1789877395000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1789877395000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "reporterre-rss-0-1789794000000",
       "title": "« La prochaine victime, ça pourrait être moi » : la loi sur le « permis de tuer » inquiète les militants écologistes",
       "source": "Reporterre",
@@ -2314,7 +2417,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789855800000",
+      "id": "enerzine-rss-1-1789859100000",
+      "title": "Vibrio vulnificus : la Floride et la Louisiane font face à une hausse des cas mortels",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/vibrio-vulnificus-floride-louisiane-mortel-2026/195112-2026-09",
+      "image": null,
+      "date": "2026-09-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Un quatrième décès en Floride, dix morts recensés cette année entre la Floride et la Louisiane, et une bactérie toujours présente dans les eaux chaudes du Golfe du Mexique. Vibrio vulnificus, souvent décrite dans les médias américains comme la bactérie mangeuse de chair, revient …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1789855800000",
       "title": "X-VOLT devient banc d’essai volant pour l’ERA d’AURA AERO",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2339,7 +2467,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789830300000",
+      "id": "enerzine-rss-3-1789830300000",
       "title": "Pénurie de carburant, faut-il vraiment craindre la panne sèche cet automne ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2364,7 +2492,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789827671000",
+      "id": "enerzine-rss-4-1789827671000",
       "title": "Clicks muscle son BlackBerry sans toucher au prix, la facture viendra plus tard",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2389,7 +2517,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789815900000",
+      "id": "enerzine-rss-5-1789815900000",
       "title": "L’Europe tente d’endiguer la vague des hybrides chinoises à 15 % du marché",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2414,7 +2542,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789809900000",
+      "id": "enerzine-rss-6-1789809900000",
       "title": "Fusion laser en Allemagne, la promesse d’une énergie infinie face au défi industriel",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2438,7 +2566,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789791000000",
+      "id": "enerzine-rss-7-1789791000000",
       "title": "Soletanche Bachy rachète Bradshaw Construction aux États-Unis",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2464,7 +2592,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789787400000",
+      "id": "enerzine-rss-8-1789787400000",
       "title": "Micro-réseaux : les Amériques en tête à l’horizon 2030",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2562,84 +2690,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Quatre ans de travail, deux pays, et un naufrage si brutal que rats, chaussures et cuillères en bois sont restés figés depuis 1374. La plus ancienne boussole d'Europe s'y cachait aussi. L’article Des ouvriers du bâtiment mettent au jour un navire médiéval de 24,5 mètres enterré s…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1789856146000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1789856146000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1789856146000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1789849502000",
@@ -4257,7 +4307,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789773099000",
+      "id": "enerzine-rss-9-1789773099000",
       "title": "Fractons, ces quasi-particules figées qui pourraient sauver l’ordinateur quantique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4278,56 +4328,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Des physiciens viennent d’identifier, par simulation numérique, des signatures précises d’une phase à fractons dans un modèle de spins quantiques plus microscopique que les théories de jauge habituelles.Ces quasi-particules à la mobilité extrêmement réduite pourraient fournir un …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1789769400000",
-      "title": "Batteries solides : Panasonic vise 150 °C, Fraunhofer promet jusqu’à 15% d’énergie en plus",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/batteries-solides-panasonic-150-degres-fraunhofer-15-energie/194824-2026-09",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Panasonic Energy affirme avoir développé une petite batterie prismatique à l’état solide capable de fonctionner jusqu’à 150 °C, et prévoit d’expédier ses premiers échantillons entre octobre et décembre 2026. Au même moment, l’institut Fraunhofer ISE présente une nouvelle architec…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789763700000",
-      "title": "Un calmar colossal filmé vivant pour la première fois en 2025, une énigme des abysses se dévoilait",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/calmar-colossal-juvenile-filme-vivant-abysses/194998-2026-09",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Retour sur les images inédites de l’un des fantômes les plus insaisissables de l’océan. Un calmar colossal juvénile avait été filmé en pleine eau en 2025, une première historique à l’époque qui comble une grande lacune dans ce que nous savions de ce géant des profondeurs. 📌 L’es…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5042,32 +5042,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-5-1789686300000",
-      "title": "3 ans de REP Bâtiment : la filière minérale change d’échelle",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/rep-batiment-3-ans-filiere-minerale-49258",
-      "image": "https://img.batiweb.com/repo-images/publi/49258/ecominero-09-21-une.jpg",
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâce à un réseau national. REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-6-1789686300000",
       "title": "Crédit immobilier : pourquoi le taux d’assurance peut faire varier sensiblement le coût de votre prêt",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5092,7 +5066,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-7-1789686300000",
+      "id": "batiweb-rss-6-1789686300000",
       "title": "Les meilleures SCPI en 2026 : rendement, frais, risques… les critères à comparer",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5113,6 +5087,32 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "En 2026, le marché des SCPI propose des stratégies très différentes les unes des autres, avec des niveaux de rendement qui ne peuvent pas être comparés à eux seuls. De la diversification, en passant par l'ancienneté, et jusqu'aux perspectives, quelles sont les meilleures SCPI à p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-7-1789686300000",
+      "title": "3 ans de REP Bâtiment : la filière minérale change d’échelle",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/rep-batiment-3-ans-filiere-minerale-49258",
+      "image": "https://img.batiweb.com/repo-images/publi/49258/ecominero-09-21-une.jpg",
+      "date": "2026-09-17",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâce à un réseau national. REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8289,7 +8289,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -17040,7 +17040,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -17235,7 +17235,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -17743,7 +17743,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
