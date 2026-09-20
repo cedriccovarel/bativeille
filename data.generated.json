@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T18:08:03.564Z",
+  "generatedAt": "2026-09-20T22:18:52.240Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2284,7 +2284,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789924200000",
+      "id": "enerzine-rss-0-1789942200000",
+      "title": "Comment des lasers transforment du plastique en nanodiamants ultra-purs",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/comment-des-lasers-transforment-du-plastique-en-nanodiamants-ultra-purs/195129-2026-09",
+      "image": null,
+      "date": "2026-09-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau",
+        "Réemploi"
+      ],
+      "summary": "Les nanodiamants sont de minuscules particules de diamant qui mesurent généralement quelques millionièmes de millimètre. Extrêmement durs, stables et résistants à la chaleur, ils se prêtent parfaitement à de nombreuses applications en médecine, dans les nouveaux matériaux, la cat…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789924200000",
       "title": "SpaceX rêve d’une ville lunaire, mais l’eau pourrait manquer en deux ans",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2309,7 +2335,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789902900000",
+      "id": "enerzine-rss-2-1789902900000",
       "title": "Gazole à plus de 2,41 € le litre, est-il encore raisonnable d’acheter une motorisation diesel ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2334,7 +2360,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789862700000",
+      "id": "enerzine-rss-3-1789862700000",
       "title": "DeepL Voice traduit désormais votre voix en temps réel dans plus de 30 langues",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2434,7 +2460,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789927657000",
+      "id": "le-commerce-du-bois-sitemap-0-1789942708000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2460,7 +2486,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789927657000",
+      "id": "le-commerce-du-bois-sitemap-1-1789942708000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2486,7 +2512,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789927657000",
+      "id": "le-commerce-du-bois-sitemap-2-1789942708000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2512,7 +2538,33 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1789913813000",
+      "id": "le-journal-du-grand-paris-rss-0-1789934454000",
+      "title": "Métro : le nouveau hall de maintenance de Châtillon présenté comme « l’atelier du futur »",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/metro-le-nouveau-hall-de-maintenance-de-chatillon-presente-comme-latelier-du-futur/",
+      "image": null,
+      "date": "2026-09-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Attendu sur la ligne 13 à partir de l'été 2027, le déploiement du métro de nouvelle génération MF19 a franchi une étape importante avec la mise en service du nouveau hall de maintenance de Châtillon (Hauts-de-Seine). Celui-ci est ainsi doté d'innovations technologiques spécialeme…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1789913813000",
       "title": "Hélène Chartier prend la direction des solutions climatiques du C40",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2537,7 +2589,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1789907452000",
+      "id": "le-journal-du-grand-paris-rss-2-1789907452000",
       "title": "A New York, Emmanuel Grégoire échange sur le défi des villes face au logement cher et au changement climatique",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2562,7 +2614,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1789905742000",
+      "id": "le-journal-du-grand-paris-rss-3-1789905742000",
       "title": "Campus Paris, le pari de Finapar et Deskeo sur l’immobilier scolaire flexible",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2739,7 +2791,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789859100000",
+      "id": "enerzine-rss-4-1789859100000",
       "title": "Vibrio vulnificus : la Floride et la Louisiane font face à une hausse des cas mortels",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2764,7 +2816,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789855800000",
+      "id": "enerzine-rss-5-1789855800000",
       "title": "X-VOLT devient banc d’essai volant pour l’ERA d’AURA AERO",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2789,7 +2841,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789830300000",
+      "id": "enerzine-rss-6-1789830300000",
       "title": "Pénurie de carburant, faut-il vraiment craindre la panne sèche cet automne ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2814,7 +2866,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789827671000",
+      "id": "enerzine-rss-7-1789827671000",
       "title": "Clicks muscle son BlackBerry sans toucher au prix, la facture viendra plus tard",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2839,7 +2891,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789815900000",
+      "id": "enerzine-rss-8-1789815900000",
       "title": "L’Europe tente d’endiguer la vague des hybrides chinoises à 15 % du marché",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2864,7 +2916,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789809900000",
+      "id": "enerzine-rss-9-1789809900000",
       "title": "Fusion laser en Allemagne, la promesse d’une énergie infinie face au défi industriel",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2884,32 +2936,6 @@
         "ENR"
       ],
       "summary": "Sur l’ancien site nucléaire de Biblis, l’Allemagne amorce un virage spectaculaire. La start-up Focused Energy, basée à Darmstadt, veut y construire la première centrale à fusion laser commerciale au monde, avec un calendrier aussi ambitieux que risqué. 📌 L’essentiel en 3 points …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789791000000",
-      "title": "Soletanche Bachy rachète Bradshaw Construction aux États-Unis",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/soletanche-bachy-rachete-bradshaw-construction-etats-unis/194874-2026-09",
-      "image": null,
-      "date": "2026-09-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "Soletanche Bachy, filiale de VINCI Construction, annonce l’acquisition de Bradshaw Construction, société américaine de microtunnels basée à Eldersburg, dans le Maryland. Fondée il y a plus de soixante ans, l’entreprise est basée à Eldersburg, dans le Maryland. Elle intervient sur…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -2988,7 +3014,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1789849502000",
+      "id": "le-journal-du-grand-paris-rss-4-1789849502000",
       "title": "Laurent Clemot rejoint le cabinet de Vincent Jeanbrun",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -3013,7 +3039,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1789849090000",
+      "id": "le-journal-du-grand-paris-rss-5-1789849090000",
       "title": "Visite guidée du méthaniseur de Brie-Comte-Robert",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4540,7 +4566,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1789733876000",
+      "id": "le-journal-du-grand-paris-rss-6-1789733876000",
       "title": "Les marchés du Grand Paris – VNF lance une opération de déchirage de bateaux-logements abandonnés sur la Seine",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4566,7 +4592,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1789716751000",
+      "id": "le-journal-du-grand-paris-rss-7-1789716751000",
       "title": "Emmanuel Grégoire à New York pour rencontrer Zohran Mamdani",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4591,7 +4617,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1789715815000",
+      "id": "le-journal-du-grand-paris-rss-8-1789715815000",
       "title": "Notre-Dame : le réaménagement des abords se poursuivra jusqu’en 2030",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6660,7 +6686,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1789674776000",
+      "id": "le-journal-du-grand-paris-rss-9-1789674776000",
       "title": "L’essentiel de la semaine du 14 septembre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6682,32 +6708,6 @@
         "Bâtiment"
       ],
       "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. Celle du 14 septembre a été largement marquée par les enjeux du logement et les perspectives du très attendu Anru 3. Retrouvez chaque vendredi dans Le journal du Grand Paris…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1789674585000",
-      "title": "Anru 3 : « Une promesse doit devenir une loi, un cadre et un calendrier ! », déclare Bally Bagayoko",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/lanru-3-entre-urgence-climatique-justice-sociale-et-bataille-budgetaire/",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Sous la toile tendue de l’Académie Fratellini à Saint-Denis jeudi 17 septembre, la Journée nationale de l'Anru a balayé le vernis technocratique pour poser une question brute : comment garder les quartiers habitables quand la planète surchauffe et que le calendrier politique mena…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
