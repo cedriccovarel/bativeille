@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T09:40:41.961Z",
+  "generatedAt": "2026-09-20T14:02:41.083Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2284,7 +2284,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789862700000",
+      "id": "enerzine-rss-0-1789902900000",
+      "title": "Gazole à plus de 2,41 € le litre, est-il encore raisonnable d’acheter une motorisation diesel ?",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/prix-gazole-record-diesel-plus-cher-essence/195094-2026-09",
+      "image": null,
+      "date": "2026-09-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "La pompe affiche un chiffre qui va faire grincer des dents. Le gazole vient de franchir la barre des 2,41 euros le litre, un record qui relance une question que beaucoup préféraient éviter. 📌 L’essentiel en 3 points Ce dimanche 20 septembre, la moyenne calculée à partir des tari…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789862700000",
       "title": "DeepL Voice traduit désormais votre voix en temps réel dans plus de 30 langues",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2384,7 +2409,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1789897216000",
+      "id": "le-commerce-du-bois-sitemap-0-1789912935000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2410,7 +2435,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1789897216000",
+      "id": "le-commerce-du-bois-sitemap-1-1789912935000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2436,7 +2461,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1789897216000",
+      "id": "le-commerce-du-bois-sitemap-2-1789912935000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2460,6 +2485,30 @@
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1789905742000",
+      "title": "Campus Paris, le pari de Finapar et Deskeo sur l’immobilier scolaire flexible",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/campus-paris-le-pari-de-finapar-et-deskeo-sur-limmobilier-scolaire-flexible/",
+      "image": null,
+      "date": "2026-09-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Le promoteur Finapar et l’opérateur immobilier Deskeo ont inauguré en septembre Le Campus Paris, un immeuble modulable de 8 500 m2 à destination d'établissements d’enseignements et d'organismes de formation. Jusqu'à 2 200 étudiants peuvent y être accueillis. Le promoteur Finapar …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "reporterre-rss-2-1789794000000",
@@ -2615,7 +2664,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789859100000",
+      "id": "enerzine-rss-2-1789859100000",
       "title": "Vibrio vulnificus : la Floride et la Louisiane font face à une hausse des cas mortels",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2640,7 +2689,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789855800000",
+      "id": "enerzine-rss-3-1789855800000",
       "title": "X-VOLT devient banc d’essai volant pour l’ERA d’AURA AERO",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2665,7 +2714,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789830300000",
+      "id": "enerzine-rss-4-1789830300000",
       "title": "Pénurie de carburant, faut-il vraiment craindre la panne sèche cet automne ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2690,7 +2739,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789827671000",
+      "id": "enerzine-rss-5-1789827671000",
       "title": "Clicks muscle son BlackBerry sans toucher au prix, la facture viendra plus tard",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2715,7 +2764,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789815900000",
+      "id": "enerzine-rss-6-1789815900000",
       "title": "L’Europe tente d’endiguer la vague des hybrides chinoises à 15 % du marché",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2740,7 +2789,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789809900000",
+      "id": "enerzine-rss-7-1789809900000",
       "title": "Fusion laser en Allemagne, la promesse d’une énergie infinie face au défi industriel",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2764,7 +2813,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789791000000",
+      "id": "enerzine-rss-8-1789791000000",
       "title": "Soletanche Bachy rachète Bradshaw Construction aux États-Unis",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2790,7 +2839,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789787400000",
+      "id": "enerzine-rss-9-1789787400000",
       "title": "Micro-réseaux : les Amériques en tête à l’horizon 2030",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2890,7 +2939,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1789849502000",
+      "id": "le-journal-du-grand-paris-rss-1-1789849502000",
       "title": "Laurent Clemot rejoint le cabinet de Vincent Jeanbrun",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2915,7 +2964,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1789849090000",
+      "id": "le-journal-du-grand-paris-rss-2-1789849090000",
       "title": "Visite guidée du méthaniseur de Brie-Comte-Robert",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -3327,196 +3376,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-0-1789746509000",
-      "title": "Adaptation au changement climatique : le Gouvernement fera des propositions fin septembre",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/adaptation-climatique-pnacc3-barbut-rapport-financement-public-prive-cout-inadaptation-48538.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48538_large.jpg",
-      "date": "2026-09-18",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Missionnée par le Premier ministre, la ministre Monique Barbut remettra le 30 septembre ses propositions pour accélérer le plan d'adaptation au changement climatique. Le financement reste à arbitrer dans un contexte budgétaire contraint. Missionnée par le Premier ministre, la min…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-1-1789744806000",
-      "title": "Projet de PNGMDR : l'ASNR précise ses attentes concernant la gestion des matières nucléaires",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/projet-pngmdr-attentes-asnr-gestion-matieres-nucleaires-48537.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48537_large.jpg",
-      "date": "2026-09-18",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Faute d'utilisation prévisible, les matières nucléaires doivent être considérées comme des déchets. L'autorité de sûreté nucléaire précise ses attentes, en particulier concernant les capacités de retraitement des combustibles usés. Faute d'utilisation prévisible, les matières nuc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-2-1789742903000",
-      "title": "Budget 2027 : Sébastien Lecornu annonce des crédits en hausse pour l'Écologie",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/budget-2027-ecologie-hausse-agences-48534.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48534_large.jpg",
-      "date": "2026-09-18",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Alors que le chef du Gouvernement demande un effort de 54 milliards d'euros pour le budget 2027, l'Écologie fait partie des rares missions annoncées en hausse. Des coupes parmi les agences sont toutefois craintes. Alors que le chef du Gouvernement demande un effort de 54 milliard…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-3-1789742857000",
-      "title": "Risque de pollution du Rhône : l'Ademe mobilisée en urgence sur le site de Fibre Excellence à Tarascon",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/ademe-urgence-fibre-excellence-tarascon-rhone-48536.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48536_large.jpg",
-      "date": "2026-09-18",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "« Face à la défaillance des liquidateurs de Fibre Excellence et au vu de la situation du site de Tarascon, classé Seveso, l'État a décidé de faire intervenir l'Ademe en urgence impérieuse afin de prévenir les risques d'incendie, de déversement de ... « Face à la défaillance des l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-4-1789741756000",
-      "title": "Le Parlement européen soutient l'extension du MACF à de nouveaux produits",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/macf-parlement-europeen-extension-produits-48535.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48535_large.jpg",
-      "date": "2026-09-18",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Carbone",
-        "Eau"
-      ],
-      "summary": "Après les Etats-membres, le Parlement européen s'est à son tour prononcé sur l'adaptation du mécanisme d'ajustement carbone proposé par la Commission européenne. Pleinement en vigueur depuis le 1er janvier 2026, le mécanisme d'ajustement carbone a... Après les Etats-membres, le P…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-5-1789736307000",
-      "title": "Amorce publie quatre guides à destination des élus locaux pour les accompagner sur la transition écologique",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/amorce-guides-elus-transition-ecologique-48531.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48531_large.jpg",
-      "date": "2026-09-18",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "L'association de collectivités Amorce met gratuitement à la disposition des élus quatre guides pour les aider à « mieux appréhender les politiques publiques liées aux déchets, à l'énergie, à l'eau et à la propreté ». Les guides, qui ont été publi... L'association de collectivités…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-6-1789736252000",
-      "title": "La chaleur estivale a pesé sur l'écosystème de l'étang de Berre",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/etang-berre-mortalite-poisson-chaleur-ete-acidification-eau-mistrak-malaigues-48532.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48532_large.jpg",
-      "date": "2026-09-18",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Si désormais l'oxygénation de l'étang de Berre a retrouvé un niveau quasi normal, la chaleur de cet été a pesé sur l'écosystème du lac, jusqu'à provoquer de manière indirecte la mort de quantité de poissons. Cette étendue d'eau qui compte parmi le... Si désormais l'oxygénation de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-7-1789736031000",
-      "title": "Santé des sols : lancement de SoilHarmony, un projet européen pour harmoniser la surveillance des sols",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/soilharmony-surveillance-sols-europe-inrae-48533.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48533_large.jpg",
-      "date": "2026-09-18",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "En lien avec la directive sur les sols européens, le projet SoilHarmony, coordonné par l'Institut national de la recherche agronomique (Inrae), vise à harmoniser les mesures et les données relatives à la surveillance des sols à l'échelle de l'Unio... En lien avec la directive sur…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "novabuild-rss-0-1789711020000",
       "title": "Défi IMPULS’ 2026 : un challenge interentreprises autour de l’économie circulaire et de la transition écologique",
       "source": "Novabuild",
@@ -3818,32 +3677,6 @@
         "Économie du bâtiment"
       ],
       "summary": "Les entreprises à impact confirment leur développement en Europe - Photo de Markus Spiske sur Unsplash Il était très attendu par les acteurs de l'économie à impact. La Commission européenne vient de dévoiler son rapport sur l'état des modèles d'affaires à impact positif dans l'Un…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-0-1789714845000",
-      "title": "Adopte un Bureau veut structurer la filière du mobilier reconditionné",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/adopte-un-bureau-veut-structurer-la-filiere-du-mobilier-reconditionne/",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Fondée en 2015, Adopte un Bureau a déjà donné une seconde vie à plus de 30 000 meubles professionnels. Entreprise de l’économie sociale et solidaire, elle ambitionne désormais de doubler son volume d’ici 2027, avec l’appui de l’Accélérateur ESS d’HEC Paris. Son objectif : faire é…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4505,31 +4338,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1789773099000",
-      "title": "Fractons, ces quasi-particules figées qui pourraient sauver l’ordinateur quantique",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/fractons-quasi-particules-figees-info-quantique/195073-2026-09",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Des physiciens viennent d’identifier, par simulation numérique, des signatures précises d’une phase à fractons dans un modèle de spins quantiques plus microscopique que les théories de jauge habituelles.Ces quasi-particules à la mobilité extrêmement réduite pourraient fournir un …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "lenergeek-rss-6-1789742171000",
       "title": "Eau : l’ONU estime que la Terre pourrait manquer d’eau douce",
       "source": "L’ÉnerGeek",
@@ -4657,7 +4465,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1789733876000",
+      "id": "le-journal-du-grand-paris-rss-3-1789733876000",
       "title": "Les marchés du Grand Paris – VNF lance une opération de déchirage de bateaux-logements abandonnés sur la Seine",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4683,7 +4491,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1789716751000",
+      "id": "le-journal-du-grand-paris-rss-4-1789716751000",
       "title": "Emmanuel Grégoire à New York pour rencontrer Zohran Mamdani",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4708,7 +4516,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1789715815000",
+      "id": "le-journal-du-grand-paris-rss-5-1789715815000",
       "title": "Notre-Dame : le réaménagement des abords se poursuivra jusqu’en 2030",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5435,149 +5243,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-8-1789661453000",
-      "title": "DERU 2 : la filière française de l'eau dresse les comptes",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/directive-eaux-residuaires-urbaines-comite-strategique-filiere-eau-cout-investissement-fonctionnement-benefices-48530.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48530_large.jpg",
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "La filière française de l'eau a estimé les besoins d'investissement et les coûts de fonctionnement liés à l'application de la Directive eaux résiduaires urbaines, pour la collecte comme le traitement. Mais aussi les bénéfices associés. Explications. La filière française de l'eau …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-9-1789653916000",
-      "title": "Règlement déforestation : la liste des produits concernés est modifiée",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/reglement-deforestation-liste-produits-modifiee-48529.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48529_large.jpg",
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Avant même son entrée en application prévue le 30 décembre 2026, le règlement européen du 31 mai 2023 qui met en place un dispositif destiné à lutter contre la déforestation fait l'objet d'une troisième modification. Par un règlement délégué, publ... Avant même son entrée en appl…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-10-1789648772000",
-      "title": "Le chiffre du jour : 8,6 milliards d’euros",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/dit-aujourdhui/1832.html#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/interface/common/logo_standard_carre.jpg",
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Économie du bâtiment",
-        "Bâtiment"
-      ],
-      "summary": "C’est ce que coûterait au total, l’installation dans chaque logement social d’un brasseur d’air et de volets occultants en France métropolitaine, estime l’Union sociale pour l’habitat (USH). Selon l’AFP, Emmanuelle Cosse, présidente de l’USH, a av... C’est ce que coûterait au tot…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-11-1789647119000",
-      "title": "Loi Egalim : un collectif d'associations somme l'État de montrer l'exemple",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/loi-egalim-restauration-collective-etat-associations-48527.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48527_large.jpg",
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Un collectif de cinq associations demande au Gouvernement de faire respecter les objectifs de la loi Egalim dans les restaurants collectifs dont il a la responsabilité. Cette loi exige, à compter du 1er janvier 2022, que les structures de restaur... Un collectif de cinq associati…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-12-1789645990000",
-      "title": "La contamination des eaux dans l'Estuaire de la Seine est ponctuellement accentuée par les orages et les crues",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/contamination-eaux-estuaire-seine-orages-crues-48528.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48528_large.jpg",
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "Le rapport de recherche Taranis, mené pendant 2 ans par des scientifiques de l'Ifremer et de l'Université de Reims Champagne-Ardenne dans le cadre du programme Seine-Aval, identifie que les épisodes de fortes pluies et de crues révèlent et remobil... Le rapport de recherche Taran…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-13-1789633800000",
-      "title": "L'obligation réelle environnementale, un outil de droit privé au service de l'intérêt général",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/ore-obligation-reelle-environnementale-droit-biodiversite-48498.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/etude/48498_large.jpg",
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "L'obligation réelle environnementale fête sa dixième bougie. À cette occasion, l'autrice de cet article revient sur la pratique et les perspectives de cet outil de droit privé au service de l'intérêt général. L'obligation réelle environnementale fête sa dixième bougie. À cette oc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "novabuild-rss-1-1789638145000",
       "title": "La Grange rouge : une architecture contemporaine vernaculaire biosourcée",
       "source": "Novabuild",
@@ -6081,30 +5746,6 @@
         "Réglementation"
       ],
       "summary": "Le nombre de data centers en construction connaît une forte accélération pour répondre aux besoins de l'intelligence artificielle. @Field Engineer, Pexels Plus d'énergie renouvelable, moins de consommation d'eau, des mesures pour préserver la souveraineté et le contrôle des donné…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-1-1789665395000",
-      "title": "Cathy Mounier, RUP : « La communication ne peut pas être responsable si les modèles économiques ne le sont pas »",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/cathy-mounier-rup-la-communication-ne-peut-pas-etre-responsable-si-les-modeles-economiques-ne-le-sont-pas-2/",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Depuis toujours au service de l’intérêt général, l’agence RUP fête ses 20 ans. Invitée dans « ESS On Air », Cathy Mounier revient sur les transformations que vit le secteur de la communication engagée, sur cette période de « backlash » écologique et social, mais aussi sur le rôle…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6920,7 +6561,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1789674776000",
+      "id": "le-journal-du-grand-paris-rss-6-1789674776000",
       "title": "L’essentiel de la semaine du 14 septembre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6946,7 +6587,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1789674585000",
+      "id": "le-journal-du-grand-paris-rss-7-1789674585000",
       "title": "Anru 3 : « Une promesse doit devenir une loi, un cadre et un calendrier ! », déclare Bally Bagayoko",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6972,7 +6613,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1789665323000",
+      "id": "le-journal-du-grand-paris-rss-8-1789665323000",
       "title": "Journées du patrimoine : une exposition sur 50 ans d’aménagement francilien à l’hôtel de Roquelaure",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6996,7 +6637,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1789664443000",
+      "id": "le-journal-du-grand-paris-rss-9-1789664443000",
       "title": "Les maires du Val-de-Marne affichent leur unité, le mandat de Fatah Aggoune à leur tête prolongé",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7017,31 +6658,6 @@
         "Confort d’été"
       ],
       "summary": "Réunis pour leurs universités d'été, qui se sont tenues le 17 septembre à l'Espace Jean-Monnet de Rungis, les maires du Val-de-Marne ont affiché leur unité à la tribune, en présence du préfet du département, des présidents de la Métropole et du Département ainsi que des deux mini…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1789636648000",
-      "title": "La SNCF lance son label « Gare remarquable »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/la-sncf-lance-son-label-gare-remarquable/",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Économie du bâtiment"
-      ],
-      "summary": "Devant la gare de Lyon, dans le 12e arrondissement de Paris, SNCF Gares & Connexions a dévoilé son label qui entend valoriser son patrimoine ferroviaire et flécher davantage d’investissements vers les gares distinguées. Devant la gare de Lyon, dans le 12e arrondissement de Paris,…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7678,32 +7294,6 @@
         "Réglementation"
       ],
       "summary": "L’Intelligence artificielle pourrait être la cause de près de 2 milliards de tonnes de CO₂ émises par an, via l’exploitation d’énergies fossiles. @Pexels / Steve McCaul L'intelligence artificielle au service de l'industrie pétrolière ? Mardi 15 septembre, TotalEnergies a official…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-2-1789542035000",
-      "title": "20 pays créent le groupe de pays « Amis de l’ESS », sans la France !",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/20-pays-creent-le-groupe-de-pays-amis-de-less-sans-la-france/",
-      "image": null,
-      "date": "2026-09-16",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Confort d’été",
-        "Économie du bâtiment"
-      ],
-      "summary": "Un échec diplomatique de plus pour la France, ou un véritable renoncement stratégique ? Vingt pays ont lancé cet été, sous l’égide de l’Organisation internationale du Travail (OIT), le Groupe des Amis de l’économie sociale et solidaire. Parmi les signataires : l’Italie, l’Espagne…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8720,32 +8310,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-3-1789454700000",
-      "title": "Panorama de l’ESS 2026 : Et si l’on comptait ce que le secteur non lucratif rapporte à la société ?",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/budget-2027-panorama-ess-2026-non-lucratif-economie-sociale-et-solidaire-edito-panorama-ess-france-observatoire/",
-      "image": null,
-      "date": "2026-09-15",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Confort d’été",
-        "Économie du bâtiment"
-      ],
-      "summary": "À l’approche de 2027, la question budgétaire va revenir comme un refrain : combien coûte l’action publique ? Combien coûte une association ? Combien coûte une politique sociale ? Combien coûte l’ESS… ou au contraire combien rapporte-t-elle ? Mais oui, il serait temps de poser la …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-36-1789485302000",
       "title": "« Une vaste fumisterie démocratique » : les opposants à l'enfouissement des déchets nucléaires dénoncent une procédure à marche forcée",
       "source": "Reporterre",
@@ -9456,30 +9020,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-4-1789376432000",
-      "title": "Fondation Croix Saint-Simon : 37 offres de reprise déposées, mais pas sur tout le périmètre",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/fondation-croix-saint-simon-37-offres-de-reprise-deposees-mais-pas-sur-tout-le-perimetre/",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "C’est un signal fort pour tout le secteur médico-social, mais aussi – et surtout – pour les 1800 professionnels des crèches et des EHPAD de la Fondation Croix Saint-Simon. À deux semaines de l’échéance cruciale du 29 septembre, qui verra le Tribunal des Activités Économiques exam…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-46-1789394400000",
       "title": "Arrestations, abattage d'arbres : l'État enclenche la marche forcée pour un centre où enfermer les exilés",
       "source": "Reporterre",
@@ -10178,54 +9718,6 @@
         "Eau"
       ],
       "summary": "Entre ouverture de l’A355, mise en œuvre des voies réservées au covoiturage, restrictions de circulation sur les boulevards strasbourgeois et extensions de tram et de bus à haut niveau de service, l’infrastructure... L’article Flux routiers eurométropolitains : vers une baisse de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-5-1789117200000",
-      "title": "Fairtrade réforme son label Textile équitable : pragmatisme ou recul stratégique ?",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/fairtrade-reforme-son-label-textile-equitable-pragmatisme-ou-recul-strategique/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Depuis le 1er septembre 2026, le Standard Textile Fairtrade a changé de philosophie. Historiquement conçu pour couvrir les pratiques équitables et responsables de l’ensemble de la chaîne textile – de l’égrenage du coton jusqu’au produit fini en passant par la filature et le tissa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-6-1789110000000",
-      "title": "Cinq centres sociaux parisiens renforcent le pouvoir d’agir des habitants sur leur cadre de vie",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/cinq-centres-sociaux-parisiens-sallient-pour-renforcer-le-pouvoir-dagir-des-habitants-sur-leur-cadre-de-vie/",
-      "image": null,
-      "date": "2026-09-11",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "L’environnement urbain ne cesse d’évoluer au gré de transformations, qui peuvent être subies par les habitants, notamment les plus vulnérables. Comment les conduire à comprendre, s’approprier et prendre part aux évolutions de leur cadre de vie ? Entre 2024 et 2025, cinq centres s…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10944,30 +10436,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-7-1789023600000",
-      "title": "Mentorat : comment Twoo et Uxco aident les jeunes à trouver leur place dans le monde du travail",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/mentorat-comment-twoo-et-uxco-aident-les-jeunes-a-trouver-leur-place-dans-le-monde-du-travail/",
-      "image": null,
-      "date": "2026-09-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "Isolement, précarité, décrochage : l’entrée dans la vie professionnelle est devenue, pour une partie de la jeunesse, une zone à risque plutôt qu’un rite de passage. Face à ce constat, une association et une entreprise privée ont choisi de répondre ensemble plutôt que séparément. …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-14-1789052300000",
       "title": "Énergies renouvelables : les investissements stagnent depuis l’année dernière",
       "source": "Révolution Énergétique",
@@ -11445,30 +10913,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-8-1788937200000",
-      "title": "Sport et handicap : le chiffre-choc de la valeur sociale ne suffit plus, il faut la démontrer",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/sport-et-handicap-le-chiffre-choc-de-la-valeur-sociale-ne-suffit-plus-il-faut-la-demontrer/",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "« Le taux de pratique sportive des personnes en situation de handicap est de 47 %, alors qu’il est de 80 % pour le reste de la population française ». Une inégalité qui dit tout de l’exclusion du champ sportif pour les personnes en situation de handicap. Une injustice, assurément…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-15-1788940591000",
       "title": "Voici le premier train électrique français à batterie en service commercial",
       "source": "Révolution Énergétique",
@@ -11913,31 +11357,6 @@
       "summary": "Publication détectée dans le sitemap de Techniques de l’Ingénieur Actualités. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "mediatico-rss-9-1788849900000",
-      "title": "ZEvent, le record : 33 millions d’euros levés pour les associations en un week-end",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/zevent-33-millions-deuros-la-fin-dun-format-qui-a-reecrit-les-regles-du-don/",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation"
-      ],
-      "summary": "Le compteur du ZEvent a définitivement cessé de tourner dimanche soir, c’était écrit. Mais l’événement a tiré sa révérence sur une apothéose. Quel exploit, en effet, que cette ultime édition de jeux vidéo en streaming, qui nous embarquait une nouvelle fois sur la voie d’un événem…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "revolution-energetique-rss-16-1788877297000",
