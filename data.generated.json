@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T22:18:52.240Z",
+  "generatedAt": "2026-09-21T04:07:39.831Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,133 @@
   ],
   "articles": [
     {
+      "id": "reporterre-rss-0-1789963200000",
+      "title": "Le RN à la chasse aux maires sans étiquette avant les élections sénatoriales",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Le-RN-a-la-chasse-aux-maires-sans-etiquette-avant-les-elections-senatoriales",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260913__c87c93d__v1__highres__france2027politicselectionrn_1_-2d960.jpg?1789963202",
+      "date": "2026-09-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat"
+      ],
+      "summary": "Partout en France, des maires « apartisans » rejoignent officiellement les rangs du RN avant les élections sénatoriales du 27 septembre. Une stratégie du parti de Marine Le Pen tournée vers les communes rurales pour s'implanter au Sénat. Après avoir fait campagne sans étiquette a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1789960200000",
+      "title": "Des ingénieurs de Nottingham créent un paradigme révolutionnaire d’effets sonores",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-ingenieurs-de-nottingham-creent-un-paradigme-revolutionnaire-deffets-sonores/195133-2026-09",
+      "image": null,
+      "date": "2026-09-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "Des ingénieurs en électronique de Nottingham ont trouvé une nouvelle façon de créer des effets sonores en manipulant l’interaction des ondes sonores, une méthode qui pourrait ouvrir de nouvelles possibilités dans l’interprétation et la production de la musique. La méthode a été d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1789963632000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1789963632000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1789963632000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "batiweb-rss-0-1789896600000",
       "title": "Eiffage : bénéfice net en hausse de 12 % au S1 2026",
       "source": "Batiweb",
@@ -2184,7 +2311,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1789882200000",
+      "id": "reporterre-rss-1-1789882200000",
       "title": "« Nos potagers, une absolue nécessité face au chaos climatique »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2210,7 +2337,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1789880400000",
+      "id": "reporterre-rss-2-1789880400000",
       "title": "« J'y ai passé 12 000 heures » : il a construit sa propre voiture à énergie solaire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2284,7 +2411,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789942200000",
+      "id": "enerzine-rss-1-1789942200000",
       "title": "Comment des lasers transforment du plastique en nanodiamants ultra-purs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2310,7 +2437,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789924200000",
+      "id": "enerzine-rss-2-1789924200000",
       "title": "SpaceX rêve d’une ville lunaire, mais l’eau pourrait manquer en deux ans",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2335,7 +2462,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789902900000",
+      "id": "enerzine-rss-3-1789902900000",
       "title": "Gazole à plus de 2,41 € le litre, est-il encore raisonnable d’acheter une motorisation diesel ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2360,7 +2487,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789862700000",
+      "id": "enerzine-rss-4-1789862700000",
       "title": "DeepL Voice traduit désormais votre voix en temps réel dans plus de 30 langues",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2458,84 +2585,6 @@
       "summary": "30 millions de tonnes d'uranium cachées sous le sable d'Ordos : la Chine vient-elle de bouleverser en silence tout l'équilibre énergétique mondial ? Les quatre géants historiques du secteur ont de quoi trembler. L’article Un gisement d’uranium vient d’être trouvé dans un désert c…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1789942708000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1789942708000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1789942708000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1789934454000",
@@ -2638,7 +2687,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1789794000000",
+      "id": "reporterre-rss-3-1789794000000",
       "title": "« La prochaine victime, ça pourrait être moi » : la loi sur le « permis de tuer » inquiète les militants écologistes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2664,7 +2713,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1789792200000",
+      "id": "reporterre-rss-4-1789792200000",
       "title": "Un Commun accord : comment Jean-Marc Jancovici réinvente la Convention citoyenne pour le climat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2689,7 +2738,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1789790400000",
+      "id": "reporterre-rss-5-1789790400000",
       "title": "Emmanuel Macron se rend à Saint-Pierre-et-Miquelon, un archipel menacé par la submersion",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2791,7 +2840,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789859100000",
+      "id": "enerzine-rss-5-1789859100000",
       "title": "Vibrio vulnificus : la Floride et la Louisiane font face à une hausse des cas mortels",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2816,7 +2865,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789855800000",
+      "id": "enerzine-rss-6-1789855800000",
       "title": "X-VOLT devient banc d’essai volant pour l’ERA d’AURA AERO",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2841,7 +2890,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789830300000",
+      "id": "enerzine-rss-7-1789830300000",
       "title": "Pénurie de carburant, faut-il vraiment craindre la panne sèche cet automne ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2866,7 +2915,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789827671000",
+      "id": "enerzine-rss-8-1789827671000",
       "title": "Clicks muscle son BlackBerry sans toucher au prix, la facture viendra plus tard",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2891,7 +2940,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789815900000",
+      "id": "enerzine-rss-9-1789815900000",
       "title": "L’Europe tente d’endiguer la vague des hybrides chinoises à 15 % du marché",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2912,30 +2961,6 @@
         "Économie du bâtiment"
       ],
       "summary": "La déferlante des voitures hybrides chinoises sur le Vieux Continent n’a plus rien d’une simple tendance. Selon le Financial Times, Bruxelles demande désormais à Pékin une limitation volontaire des exportations, autour de 15% du marché européen des hybrides, alors que les marques…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789809900000",
-      "title": "Fusion laser en Allemagne, la promesse d’une énergie infinie face au défi industriel",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/fusion-laser-biblis-focused-energy/195081-2026-09",
-      "image": null,
-      "date": "2026-09-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Sur l’ancien site nucléaire de Biblis, l’Allemagne amorce un virage spectaculaire. La start-up Focused Energy, basée à Darmstadt, veut y construire la première centrale à fusion laser commerciale au monde, avec un calendrier aussi ambitieux que risqué. 📌 L’essentiel en 3 points …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3782,7 +3807,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1789747816000",
+      "id": "reporterre-rss-6-1789747816000",
       "title": "Hausse de l'utilisation des pesticides : le grand flou du gouvernement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3806,7 +3831,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1789736400000",
+      "id": "reporterre-rss-7-1789736400000",
       "title": "De la viande de cheval dans nos assiettes : ce trafic lucratif continue",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3832,7 +3857,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1789735802000",
+      "id": "reporterre-rss-8-1789735802000",
       "title": "Nucléaire : un réacteur arrêté à cause du faible débit du Rhône",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3858,7 +3883,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1789734600000",
+      "id": "reporterre-rss-9-1789734600000",
       "title": "Pêche : l'État joue la montre et laisse les navires-usines piller le littoral",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3882,7 +3907,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1789734403000",
+      "id": "reporterre-rss-10-1789734403000",
       "title": "300 millions d'euros en moins : le budget de l'Agence de la transition écologique amputé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3908,7 +3933,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1789733238000",
+      "id": "reporterre-rss-11-1789733238000",
       "title": "Malgré une pétition à 500 000 signatures, la chasse ouvre à Fontainebleau",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3934,7 +3959,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1789725396000",
+      "id": "reporterre-rss-12-1789725396000",
       "title": "Donald Trump affaiblit la protection des espèces menacées",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3959,7 +3984,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1789713842000",
+      "id": "reporterre-rss-13-1789713842000",
       "title": "Dans les Landes, la saison des feux n'en finit pas",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3985,7 +4010,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1789707600000",
+      "id": "reporterre-rss-14-1789707600000",
       "title": "« Ils ne savent pas à qui ils ont affaire » : au cœur du combat des victimes de pesticides",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4009,7 +4034,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1789704000000",
+      "id": "reporterre-rss-15-1789704000000",
       "title": "« Tout est délirant, du début à la fin » : quand une fraude géante se retourne contre des éleveurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4106,131 +4131,6 @@
         "Bâtiment"
       ],
       "summary": "Village français de 600 âmes situé au large du Canada, Miquelon sombrera sous les eaux dans les prochaines décennies à cause du réchauffement climatique. Plutôt que d’assister impuissant·es à la catastrophe, les habitant·es ont entrepris la construction d’un nouveau village, à 1,…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-0-1789744867000",
-      "title": "Le gouvernement clarifie la révision des tarifs « S21 » et le « super AO neutre »",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/le-gouvernement-clarifie-la-revision-des-tarifs-s21-et-le-super-ao-neutre-433523/",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation"
-      ],
-      "summary": "– Article actualisé le 18/09/2026. Rebelotte. Après les tarifs « S6 » et « S10 », le gouvernement prévoit de revoir les tarifs du « S21 » dans le projet de loi de finances (PLF) de 2027, confirmant une information de Contexte vérifiée par GreenUnivers. La mesure porte sur les 8 0…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-1-1789743399000",
-      "title": "Les batteries encore refroidies par l’évolution du mécanisme de capacité",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/les-batteries-encore-refroidies-par-levolution-du-mecanisme-de-capacite-433580/",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie"
-      ],
-      "summary": "La refonte du mécanisme de capacité français a fait miroiter la possibilité pour des batteries de sécuriser une partie de leurs revenus sur plusieurs années, grâce à des contrats long terme. Suite à la dernière réunion du groupe de travail de RTE consacré au sujet, cette perspect…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-2-1789740917000",
-      "title": "Bernard Fontana fait la tournée des candidats à la présidentielle",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/bernard-fontana-fait-la-tournee-des-candidats-a-la-presidentielle-433577/",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie"
-      ],
-      "summary": "– Article actualisé le 19/09/2026. Depuis plusieurs semaines, le PDG d’EDF, Bernard Fontana, enchaîne les rendez-vous avec les candidats à la présidentielle de 2027. S’il a rencontré Marine Le Pen la semaine dernière, comme l’a révélé GreenUnivers, l’ingénieur à la tête de l’élec…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-3-1789733114000",
-      "title": "Les documents de la semaine",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/les-documents-de-la-semaine-381215/",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-4-1789726334000",
-      "title": "L’agenda de la transition énergétique",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/lagenda-de-la-transition-energetique-281-431464/",
-      "image": null,
-      "date": "2026-09-18",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. S…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5149,6 +5049,32 @@
     },
     {
       "id": "batiweb-rss-6-1789686300000",
+      "title": "3 ans de REP Bâtiment : la filière minérale change d’échelle",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/rep-batiment-3-ans-filiere-minerale-49258",
+      "image": "https://img.batiweb.com/repo-images/publi/49258/ecominero-09-21-une.jpg",
+      "date": "2026-09-17",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâce à un réseau national. REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-7-1789686300000",
       "title": "Crédit immobilier : pourquoi le taux d’assurance peut faire varier sensiblement le coût de votre prêt",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5173,7 +5099,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-7-1789686300000",
+      "id": "batiweb-rss-8-1789686300000",
       "title": "Les meilleures SCPI en 2026 : rendement, frais, risques… les critères à comparer",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5194,32 +5120,6 @@
         "Économie du bâtiment"
       ],
       "summary": "En 2026, le marché des SCPI propose des stratégies très différentes les unes des autres, avec des niveaux de rendement qui ne peuvent pas être comparés à eux seuls. De la diversification, en passant par l'ancienneté, et jusqu'aux perspectives, quelles sont les meilleures SCPI à p…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-8-1789686300000",
-      "title": "3 ans de REP Bâtiment : la filière minérale change d’échelle",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/rep-batiment-3-ans-filiere-minerale-49258",
-      "image": "https://img.batiweb.com/repo-images/publi/49258/ecominero-09-21-une.jpg",
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâce à un réseau national. REP Bâtiment : trois ans après son lancement, le recyclage, le réemploi et l’éco-conception des déchets inertes progressent grâc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5875,7 +5775,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1789660454000",
+      "id": "reporterre-rss-16-1789660454000",
       "title": "Le réalisateur et militant écologiste Marc de la Ménardière est mort",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5899,7 +5799,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1789650000000",
+      "id": "reporterre-rss-17-1789650000000",
       "title": "« Monsanto a construit de la fausse science pour vendre ses pesticides »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5923,7 +5823,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1789649055000",
+      "id": "reporterre-rss-18-1789649055000",
       "title": "« Google méprise les médias indépendants, rejoignez-nous ! »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5949,7 +5849,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1789648960000",
+      "id": "reporterre-rss-19-1789648960000",
       "title": "Plus de 120 défenseurs de l'environnement tués dans le monde en 2025, dont le Corse Pierre Alessandri",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5974,7 +5874,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1789648200000",
+      "id": "reporterre-rss-20-1789648200000",
       "title": "Irriguer, irriguer, irriguer : malgré la sécheresse, l'agro-industrie s'accroche à ses bassines",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6000,7 +5900,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1789640733000",
+      "id": "reporterre-rss-21-1789640733000",
       "title": "Crue au Népal : le bilan revu à la hausse, au moins 1 400 personnes sont mortes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6025,7 +5925,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1789631664000",
+      "id": "reporterre-rss-22-1789631664000",
       "title": "Les réserves d'eau douce dans le monde se dégradent à un rythme alarmant",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6051,7 +5951,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1789630993000",
+      "id": "reporterre-rss-23-1789630993000",
       "title": "Bio dans les cantines : l'État n'applique pas ses propres règles",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6077,7 +5977,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1789624800000",
+      "id": "reporterre-rss-24-1789624800000",
       "title": "Laurence Huc, toxicologue : « Les pesticides répandent le cancer, surtout chez les enfants »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6101,7 +6001,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1789621200000",
+      "id": "reporterre-rss-25-1789621200000",
       "title": "Maxi data center de Google : impuissants, une maire et ses adjoints démissionnent",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6126,7 +6026,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1789617600000",
+      "id": "reporterre-rss-26-1789617600000",
       "title": "Fraudes et abus massifs : les millions perdus de la transition écologique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6248,133 +6148,6 @@
         "Politiques publiques"
       ],
       "summary": "Vingt-huit médias et organisations, dont Vert, s’unissent pour lancer un appel collectif à soutenir les médias indépendants garantis 100% sans milliardaire. Avec comme enjeu central celui du pluralisme, face à Google notamment. Vingt-huit médias et organisations, dont Vert, s’uni…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-5-1789657610000",
-      "title": "Raccordements : de la place se libère sur le réseau électrique",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/raccordements-de-la-place-se-libere-sur-le-reseau-electrique-433410/",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Eau",
-        "Énergie"
-      ],
-      "summary": "Enquête – « Nous voyons de la capacité revenir autour de certains postes sources », observe Nicolas Sur, directeur général du développeur solaire Tryba Energy. D’après différents développeurs L’article Raccordements : de la place se libère sur le réseau électrique est apparu en p…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-6-1789657488000",
-      "title": "Défendre le soutien public aux toitures solaires, une cause perdue ?",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/defendre-le-soutien-public-aux-toitures-solaires-une-cause-perdue-433418/",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "« Les gentlemen ne défendent que les causes perdues », écrivait Jorge Luis Borges. La phrase pourrait résumer le sentiment d’un membre de la direction du syndicat des professionnels du photovoltaïque Enerplan, interrogé sur l’initiative d’un collectif d’entreprises* actives dans …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-7-1789657243000",
-      "title": "Le nouveau PPA multiacheteurs en Nouvelle-Aquitaine fait le plein",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/le-nouveau-ppa-multiacheteurs-en-nouvelle-aquitaine-fait-le-plein-433385/",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Eau",
-        "Énergie"
-      ],
-      "summary": "Son inauguration est prévue le 18 septembre mais la centrale solaire de Valeco à Durance (Lot-et-Garonne) a déjà commencé à produire. Ce parc photovoltaïque de 23,4 MWc fournit depuis le 1er août de l’électricité aux 9 entreprises ayant souscrit au premier power purchase agreemen…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-8-1789655266000",
-      "title": "Electricité renouvelable : un « super appel d’offres neutre » se profile",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/electricite-renouvelable-un-super-appel-doffres-neutre-se-profile-433405/",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie"
-      ],
-      "summary": "L’année 2027 approche sans appels d’offres annoncés. Ce silence devrait être brisé très prochainement, car, selon nos informations, les autorités L’article Electricité renouvelable : un « super appel d’offres neutre » se profile est apparu en premier sur GreenUnivers. L&#8217;ann…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "greenunivers-rss-9-1789648264000",
-      "title": "Accélérateur industriel européen : l’Allemagne se déradicalise",
-      "source": "GreenUnivers",
-      "sourceId": "greenunivers",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.greenunivers.com/2026/09/accelerateur-industriel-europeen-lallemagne-se-deradicalise-433371/",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "ENR",
-        "Financement",
-        "Marché énergie",
-        "Économie du bâtiment"
-      ],
-      "summary": "Les parlementaires européens chargés de travailler sur l’accélérateur industriel européen (IAA) ont fait évoluer le texte par rapport à la version transmise par la Commission européenne, en particulier sur la sélection des pays qui entrent dans la définition du « made in EU » ou …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7374,7 +7147,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1789574400000",
+      "id": "reporterre-rss-27-1789574400000",
       "title": "Sac, botte... Du plastique retrouvé à près de 4 000 m de profondeur",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7399,7 +7172,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1789567839000",
+      "id": "reporterre-rss-28-1789567839000",
       "title": "Canards maltraités : Carrefour épinglé par L214",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7425,7 +7198,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1789567621000",
+      "id": "reporterre-rss-29-1789567621000",
       "title": "L'IA pour accélérer la course au pétrole : TotalEnergies et Mistral AI signent un accord à 100 millions",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7450,7 +7223,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1789566647000",
+      "id": "reporterre-rss-30-1789566647000",
       "title": "250 luttes écolos victorieuses : oui, parfois, on gagne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7475,7 +7248,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1789565600000",
+      "id": "reporterre-rss-31-1789565600000",
       "title": "« Politique de la terre brûlée » : la feuille de route anti-écologique d'Ursula von der Leyen pour l'Europe",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7501,7 +7274,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1789563600000",
+      "id": "reporterre-rss-32-1789563600000",
       "title": "La Méditerranée se réchauffe 2 à 3 fois plus vite que la moyenne des océans",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7527,7 +7300,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1789559244000",
+      "id": "reporterre-rss-33-1789559244000",
       "title": "Jusqu'à 36 °C : des niveaux de chaleur et de sécheresse inédits pour une mi-septembre",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7553,7 +7326,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1789543502000",
+      "id": "reporterre-rss-34-1789543502000",
       "title": "« On se moque de nous » : écologistes et syndicats se mobilisent pour un budget à la hauteur de l'urgence climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7579,7 +7352,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1789538400000",
+      "id": "reporterre-rss-35-1789538400000",
       "title": "Les escrocs de la transition énergétique ciblent les maraîchers",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7605,7 +7378,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1789531200000",
+      "id": "reporterre-rss-36-1789531200000",
       "title": "Data centers : même les pro-Trump rejoignent la fronde aux États-Unis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8412,7 +8185,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1789485302000",
+      "id": "reporterre-rss-37-1789485302000",
       "title": "« Une vaste fumisterie démocratique » : les opposants à l'enfouissement des déchets nucléaires dénoncent une procédure à marche forcée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8436,7 +8209,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1789480547000",
+      "id": "reporterre-rss-38-1789480547000",
       "title": "Pesticides dans l'eau : le gouvernement cède aux pressions de l'agro-industrie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8462,7 +8235,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1789479511000",
+      "id": "reporterre-rss-39-1789479511000",
       "title": "Une mairie RN prive France Nature Environnement Vaucluse de local",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8486,7 +8259,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1789479046000",
+      "id": "reporterre-rss-40-1789479046000",
       "title": "« Pas de fusil sur les cendres » : succès de la pétition contre la chasse dans les forêts brûlées",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8512,7 +8285,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1789478261000",
+      "id": "reporterre-rss-41-1789478261000",
       "title": "Mort de Catherine Ringer, chanteuse et militante pour l'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8536,7 +8309,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1789477615000",
+      "id": "reporterre-rss-42-1789477615000",
       "title": "A69 : le concessionnaire Atosca condamné à payer 863 500 euros à l'État",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8562,7 +8335,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1789474281000",
+      "id": "reporterre-rss-43-1789474281000",
       "title": "Après la crue dévastatrice, la jeunesse du Népal réclame la justice climatique contre les « grands pays émetteurs »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8586,7 +8359,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1789456996000",
+      "id": "reporterre-rss-44-1789456996000",
       "title": "Pourquoi les hivers pluvieux ne protègent plus de la sécheresse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8612,7 +8385,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1789444800000",
+      "id": "reporterre-rss-45-1789444800000",
       "title": "Coup d'arrêt sur l'éolien chez Xavier Bertrand : les écologistes partagés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8638,7 +8411,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1789443000000",
+      "id": "reporterre-rss-46-1789443000000",
       "title": "Postes supprimés, moyens en baisse : l'écologie sacrifiée par le budget 2027",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9146,7 +8919,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1789394400000",
+      "id": "reporterre-rss-47-1789394400000",
       "title": "Arrestations, abattage d'arbres : l'État enclenche la marche forcée pour un centre où enfermer les exilés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9172,7 +8945,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1789391155000",
+      "id": "reporterre-rss-48-1789391155000",
       "title": "L'IA booste la production de PFAS",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9197,7 +8970,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1789390800000",
+      "id": "reporterre-rss-49-1789390800000",
       "title": "Autoroutes et data centers : l'été caniculaire n'a pas découragé les bétonneurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9223,7 +8996,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1789389747000",
+      "id": "reporterre-rss-50-1789389747000",
       "title": "Le maire de Bordeaux renonce à un data center... pour le construire ailleurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9249,7 +9022,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1789388050000",
+      "id": "reporterre-rss-51-1789388050000",
       "title": "Désinformation climatique : 452 cas à la télé et la radio au premier semestre 2026",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9273,7 +9046,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1789371651000",
+      "id": "reporterre-rss-52-1789371651000",
       "title": "Médicaments : la bonne idée antigaspi qui irrite les labos",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9298,7 +9071,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1789367814000",
+      "id": "reporterre-rss-53-1789367814000",
       "title": "« Une guerre culturelle » : des livres censurés et des cours sur le climat menacés aux États-Unis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9323,7 +9096,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1789358400000",
+      "id": "reporterre-rss-54-1789358400000",
       "title": "692 000 tonnes de métaux : les ressources nécessaires à l'IA donnent le tournis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9375,7 +9148,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1789279200000",
+      "id": "reporterre-rss-55-1789279200000",
       "title": "« Protéger la nature en étant nourri et logé » : chaque été, des milliers d'Allemands prennent soin de leurs forêts",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9401,7 +9174,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1789277400000",
+      "id": "reporterre-rss-56-1789277400000",
       "title": "Pour réduire les coûts, ils participent à la construction de leur maison en paille",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9478,7 +9251,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1789191000000",
+      "id": "reporterre-rss-57-1789191000000",
       "title": "« Kroak, kroak » : comment déchiffrer le langage des oiseaux nocturnes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9504,7 +9277,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1789189200000",
+      "id": "reporterre-rss-58-1789189200000",
       "title": "Ni eau, ni frigo, ni WC : le dur quotidien de ces bergers dans des cabanes insalubres",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9530,7 +9303,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-58-1789185600000",
+      "id": "reporterre-rss-59-1789185600000",
       "title": "Céline Dion à Paris : peut-on encore se permettre une telle gabegie écologique ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9892,32 +9665,6 @@
         "Économie sociale"
       ],
       "summary": "L’environnement urbain ne cesse d’évoluer au gré de transformations, qui peuvent être subies par les habitants, notamment les plus vulnérables. Comment les conduire à comprendre, s’approprier et prendre part aux évolutions de leur cadre de vie ? Entre 2024 et 2025, cinq centres s…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1789143704000",
-      "title": "Le Secrétariat général à la planification écologique change de chef et d'organisation",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Le-Secretariat-general-a-la-planification-ecologique-change-de-chef-et-d-organisation",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/a07ec07d6d5616dadf4f74ee38fb1b6930da3864-a6a7f.webp?1789143876",
-      "date": "2026-09-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Nouveau départ au sein du SGPE, le Secrétariat général à la planification écologique. Augustin Augier quitte la tête de cette structure chargée d'assurer la cohérence des politiques écologistes du gouvernement. Il avait pris ce poste en juin 2025, à la suite d'Antoine Pellion. Il…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11039,52 +10786,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "arb-nouvelle-aquitaine-rss-0-1788937065000",
-      "title": "Lettre d’information – Septembre 2026",
-      "source": "ARB Nouvelle-Aquitaine",
-      "sourceId": "arb-nouvelle-aquitaine",
-      "sourceType": "Agence biodiversité",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/lettre-dinformation-septembre-2026/",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Biodiversité",
-        "Nature",
-        "Données"
-      ],
-      "summary": "Lettre d’information – Septembre 2026",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "arb-nouvelle-aquitaine-rss-2-1788937067000",
-      "title": "Le centre de soins de Tonneins mobilisé face aux incendies de Gironde",
-      "source": "ARB Nouvelle-Aquitaine",
-      "sourceId": "arb-nouvelle-aquitaine",
-      "sourceType": "Agence biodiversité",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/le-centre-de-soins-de-tonneins-mobilise-face-aux-incendies-de-gironde/",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Biodiversité",
-        "Nature",
-        "Données"
-      ],
-      "summary": "Le vendredi 24 juillet 2026, alors que le feu faisait rage dans l’ouest du département de la Gironde, la LPO Aquitaine, située à Audenge, a reçu l’ordre d’évacuer son centre de soins de la faune sauvage. Dans l’urgence, les animaux […] Le vendredi 24 juillet 2026, alors que le fe…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "acpresse-rss-8-1788991200000",
       "title": "La WCA rend visite à Cem’In’Eu",
       "source": "ACPresse",
@@ -11505,53 +11206,6 @@
         "Données"
       ],
       "summary": "les premiers mois de l’année 2026 ont... L’article Climat en Nouvelle-Aquitaine : 2026, une année qui illustre déjà les défis de l’adaptation est apparu en premier sur AREC Nouvelle-Aquitaine. les premiers mois de l’année 2026 ont... L’article Climat en Nouvelle-Aquitaine : 2026,…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "arb-nouvelle-aquitaine-rss-1-1788875162000",
-      "title": "Rencontres de l’Observatoire Régional de la Biodiversité et de l’Eau",
-      "source": "ARB Nouvelle-Aquitaine",
-      "sourceId": "arb-nouvelle-aquitaine",
-      "sourceType": "Agence biodiversité",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/rencontres-de-lobservatoire-regional-de-la-biodiversite-et-de-leau/",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Biodiversité",
-        "Nature",
-        "Données",
-        "Eau"
-      ],
-      "summary": "Pour la première fois, l’ARB NA réunit les réseaux Biodiversité et Eau liés à son pôle Observatoire dans une même journée de travail et d’échanges. 📅 Le mardi 12 octobre 📍À l’Alpha médiathèque de GrandAngoulême (plan d’accès) Cette journée des […] Pour la première fois, l&#8217…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "arb-nouvelle-aquitaine-rss-3-1788861225000",
-      "title": "BSH août 2026",
-      "source": "ARB Nouvelle-Aquitaine",
-      "sourceId": "arb-nouvelle-aquitaine",
-      "sourceType": "Agence biodiversité",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/bsh-aout-2026/",
-      "image": null,
-      "date": "2026-09-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Biodiversité",
-        "Nature",
-        "Données"
-      ],
-      "summary": "BSH août 2026",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -15797,29 +15451,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "arb-nouvelle-aquitaine-rss-4-1786353424000",
-      "title": "BSH juillet 2026",
-      "source": "ARB Nouvelle-Aquitaine",
-      "sourceId": "arb-nouvelle-aquitaine",
-      "sourceType": "Agence biodiversité",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/bsh-juillet-2026/",
-      "image": null,
-      "date": "2026-08-10",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Biodiversité",
-        "Nature",
-        "Données"
-      ],
-      "summary": "BSH juillet 2026",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "cd2e-rss-3-1786372399000",
       "title": "Retour sur les Rencontres Régionales du solaire en Hauts-de-France",
       "source": "CD2E",
@@ -16239,29 +15870,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "arb-nouvelle-aquitaine-rss-5-1785934141000",
-      "title": "Quand les centres de sauvegarde de la faune sauvage font avancer la science",
-      "source": "ARB Nouvelle-Aquitaine",
-      "sourceId": "arb-nouvelle-aquitaine",
-      "sourceType": "Agence biodiversité",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/quand-les-centres-de-sauvegarde-de-la-faune-sauvage-font-avancer-la-science/",
-      "image": null,
-      "date": "2026-08-05",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Biodiversité",
-        "Nature",
-        "Données"
-      ],
-      "summary": "Les centres de soins de la faune sauvage sont connus avant tout pour les soins qu’ils apportent aux animaux sauvages en détresse. Grâce à cela, ils participent activement à la protection de la faune sauvage, notamment en jouant un rôle […] Les centres de soins de la faune sauvage…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "agence-qualite-construction-aqc-wp-21296-1785826800000",
       "title": "Flop 10 Logements collectifs 2026 : les équipements sanitaires en tête du classement",
       "source": "Agence Qualité Construction — AQC",
@@ -16361,30 +15969,6 @@
         "Eau"
       ],
       "summary": "Les créations d’entreprises dans la métropole de Lyon en 2025 a.goux@urbalyon.org lun 03/08/2026 - 10:16 Les chiffres clés : 33 466 créations, soit 25% des créations d’Auvergne Rhône-Alpes 42% créations dans les services aux entreprises +1,2% entre 2024 et 2025, soit 395 création…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "arb-nouvelle-aquitaine-rss-6-1785766333000",
-      "title": "Le projet ClimaFaune",
-      "source": "ARB Nouvelle-Aquitaine",
-      "sourceId": "arb-nouvelle-aquitaine",
-      "sourceType": "Agence biodiversité",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/le-projet-climafaune/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Biodiversité",
-        "Nature",
-        "Données",
-        "Confort d’été"
-      ],
-      "summary": "Signalez l’impact des événements climatiques sur la faune sauvage. Canicules à répétition, incendies ravageurs, tempêtes violentes, crues soudaines, épisodes de grêle intense… Le changement climatique multiplie les événements extrêmes, et leurs conséquences sur la faune sauvage e…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -18239,29 +17823,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "arb-nouvelle-aquitaine-rss-7-1784632074000",
-      "title": "Réélection du président de l’ARB NA",
-      "source": "ARB Nouvelle-Aquitaine",
-      "sourceId": "arb-nouvelle-aquitaine",
-      "sourceType": "Agence biodiversité",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/reelection-du-president-de-larb-na/",
-      "image": null,
-      "date": "2026-07-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Biodiversité",
-        "Nature",
-        "Données"
-      ],
-      "summary": "Après un premier mandat de 3 ans à la présidence de l’ARB NA, marqué par la transformation de l’agence en établissement public et par la mise en œuvre d’une 1re feuille de route ambitieuse sur les enjeux de biodiversité et […] Après un premier mandat de 3 ans à la présidence de l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "envirobat-grand-est-lqe-rss-6-1784641935000",
       "title": "Interview – Aménagement d’un comble en open space à Mulhouse (68)",
       "source": "Envirobat Grand Est / LQE",
@@ -18886,54 +18447,6 @@
         "Habitat"
       ],
       "summary": "L’article Le « cagnascore » est apparu en premier sur AGAM. L’article Le « cagnascore » est apparu en premier sur AGAM . Le « cagnascore »",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "arb-nouvelle-aquitaine-rss-8-1784189767000",
-      "title": "Jussies – Détection précoce et intervention rapide en Creuse",
-      "source": "ARB Nouvelle-Aquitaine",
-      "sourceId": "arb-nouvelle-aquitaine",
-      "sourceType": "Agence biodiversité",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/jussies-detection-precoce-et-intervention-rapide-en-creuse/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Biodiversité",
-        "Nature",
-        "Données",
-        "Confort d’été",
-        "Réemploi"
-      ],
-      "summary": "La jussie est encore peu présente en Creuse, mais sa détection dans l’Étang des Landes en 2023 a conduit à la mise en place d’une démarche collective de détection précoce et d’intervention rapide. Un premier bilan des actions de l’été […] La jussie est encore peu présente en Creu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "arb-nouvelle-aquitaine-rss-9-1784186550000",
-      "title": "Publication de l’état d’avancement 2024-2025 de la Stratégie Régionale EEE",
-      "source": "ARB Nouvelle-Aquitaine",
-      "sourceId": "arb-nouvelle-aquitaine",
-      "sourceType": "Agence biodiversité",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.biodiversite-nouvelle-aquitaine.fr/publication-de-letat-davancement-2024-2025-de-la-strategie-regionale-eee/",
-      "image": null,
-      "date": "2026-07-16",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Biodiversité",
-        "Nature",
-        "Données"
-      ],
-      "summary": "La Stratégie Régionale relative aux Espèces Exotiques Envahissantes en Nouvelle-Aquitaine constitue un cadre d’action sur 10 ans (2024-2033) en matière de prévention et de lutte contre les EEE, co-construit avec les acteurs du territoire régional, en cohérence avec les politiques…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
