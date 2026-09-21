@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-21T19:56:02.859Z",
+  "generatedAt": "2026-09-21T23:06:42.651Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3097,6 +3097,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "odeys-rss-0-1789997199000",
+      "title": "Découvrez la formation : Concevoir un projet Urbain bio-inspiré et régénératif",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/agenda/decouvrez-la-formation-concevoir-un-projet-urbain-bio-inspire-et-regeneratif",
+      "image": "https://www.odeys.fr/sites/default/files/styles/large/public/2026-09/Accr%20formation%20site%20-%20reemploi%20niveau%201%20%287%29.png?itok=kPnf8Wqv",
+      "date": "2026-09-21",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine",
+        "Réglementation",
+        "Eau",
+        "Énergie"
+      ],
+      "summary": "6 OCTOBRE 2026 Webinaire Découvrez la formation \"Concevoir un projet urbain bio inspiré et régénératif\" 45 min pour répondre à toutes vos questions ! 📆 Mardi 6 octobre 2026 🕛 12:00 à 12:45 Et si nous repensions la ville à l’image d’un écosystème vivant ? Interdépendance, gestio…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "adeus-strasbourg-rss-0-1789982188000",
       "title": "Quels besoins en logements accompagnés dans le Bas-Rhin hors Eurométropole de Strasbourg ?",
       "source": "ADEUS Strasbourg",
@@ -3122,7 +3148,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-0-1789976280000",
+      "id": "acpresse-rss-0-1790028000000",
+      "title": "La violation du secret des affaires",
+      "source": "ACPresse",
+      "sourceId": "acpresse",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.acpresse.fr/la-violation-du-secret-des-affaires/",
+      "image": null,
+      "date": "2026-09-21",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Béton",
+        "Matériaux",
+        "Technique"
+      ],
+      "summary": "Fichier clients, politique tarifaire, procédé de fabrication, stratégie commerciale… Autant de secrets des affaires qui peuvent être violés. The post La violation du secret des affaires appeared first on ACPresse. Fichier clients, politique tarifaire, procédé de fabrication, stra…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "acpresse-rss-1-1789976280000",
       "title": "Olivier Saint-Paul prend la présidence du C-Mat",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -3905,7 +3955,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1789996933000",
+      "id": "enerzine-rss-0-1790028600000",
+      "title": "Les magnétomètres à diamant peuvent ouvrir une nouvelle fenêtre sur l’activité cardiaque",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/les-magnetometres-a-diamant-peuvent-ouvrir-une-nouvelle-fenetre-sur-lactivite-cardiaque/195196-2026-09",
+      "image": null,
+      "date": "2026-09-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des physiciens de l’Université Johannes Gutenberg de Mayence (JGU) ont développé une technologie révolutionnaire qui utilise des capteurs quantiques pour mesurer des signaux biomagnétiques, tels que l’activité cardiaque. Les chercheurs du projet phare DIAQNOS (DIAmond-based Quant…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1789996933000",
       "title": "Droit à la prise en copropriété : ce que prévoit la loi",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3931,7 +4005,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789996500000",
+      "id": "enerzine-rss-2-1789996500000",
       "title": "Bureaux modulaires : comment concevoir des espaces de travail confortables, acoustiques et évolutifs ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3957,7 +4031,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789968600000",
+      "id": "enerzine-rss-3-1789968600000",
       "title": "Ouvrir la voie à la production de fibres de carbone renouvelables",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3983,7 +4057,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789967400000",
+      "id": "enerzine-rss-4-1789967400000",
       "title": "Utiliser la lumière pour suivre les courants critiques du réseau électrique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4008,7 +4082,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789963800000",
+      "id": "enerzine-rss-5-1789963800000",
       "title": "Les photons créent des boîtes dorées, les électrons mènent aux coquilles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4033,7 +4107,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789960200000",
+      "id": "enerzine-rss-6-1789960200000",
       "title": "Des ingénieurs de Nottingham créent un paradigme révolutionnaire d’effets sonores",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4207,7 +4281,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790020547000",
+      "id": "le-commerce-du-bois-sitemap-0-1790031981000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4233,7 +4307,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1790020547000",
+      "id": "le-commerce-du-bois-sitemap-1-1790031981000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4259,7 +4333,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1790020547000",
+      "id": "le-commerce-du-bois-sitemap-2-1790031981000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4749,7 +4823,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789942200000",
+      "id": "enerzine-rss-7-1789942200000",
       "title": "Comment des lasers transforment du plastique en nanodiamants ultra-purs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4775,7 +4849,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789924200000",
+      "id": "enerzine-rss-8-1789924200000",
       "title": "SpaceX rêve d’une ville lunaire, mais l’eau pourrait manquer en deux ans",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4800,7 +4874,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789902900000",
+      "id": "enerzine-rss-9-1789902900000",
       "title": "Gazole à plus de 2,41 € le litre, est-il encore raisonnable d’acheter une motorisation diesel ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4821,31 +4895,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "La pompe affiche un chiffre qui va faire grincer des dents. Le gazole vient de franchir la barre des 2,41 euros le litre, un record qui relance une question que beaucoup préféraient éviter. 📌 L’essentiel en 3 points Ce dimanche 20 septembre, la moyenne calculée à partir des tari…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789862700000",
-      "title": "DeepL Voice traduit désormais votre voix en temps réel dans plus de 30 langues",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/deepl-voice-traduit-voix-en-temps-reel-30-langues/195113-2026-09",
-      "image": null,
-      "date": "2026-09-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "DeepL franchit un cap sur la voix. Depuis le 15 septembre 2026, sa traduction vocale en temps réel est en mesure de conserver la voix du locuteur, dans 14 langues prises en charge. Une évolution pensée pour les réunions multilingues. 📌 L’essentiel en 3 points L’annonce a été pub…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5498,6 +5547,32 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "odeys-rss-1-1789734339000",
+      "title": "[RENCONTRE] \"RÊVER D'UN QUARTIER ENSEMBLE\" : les 7ème Rencontres de la frugalité heureuse et créative à Mulhouse",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/actualites/rencontre-rever-dun-quartier-ensemble-les-7eme-rencontres-de-la-frugalite-heureuse-et",
+      "image": "https://www.odeys.fr/sites/default/files/2026-09/Bandeau%20site%20-%207e%20Rencontres%20nationales%20Frugalit%C3%A9%2015-18%20oct%20_0.png",
+      "date": "2026-09-18",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "19.10.2026 Le Mouvement pour une frugalité heureuse et créative installe ses 7ème Rencontres à Motoco, au cœur de l'ancien site textile DMC de Mulhouse. Architectes, ingénieurs, artisans, élus, habitants et étudiants y travaillent ensemble pendant quatre jours à une question conc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "audiar-rennes-rss-0-1789736440000",
@@ -8390,7 +8465,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-1-1789558680000",
+      "id": "acpresse-rss-2-1789558680000",
       "title": "Vers la fermeture de la cimenterie de Ranville d’Heidelberg Materials ?",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -8415,7 +8490,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-2-1789545180000",
+      "id": "acpresse-rss-3-1789545180000",
       "title": "Ginger acquiert A-Corros",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -8440,7 +8515,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-3-1789544700000",
+      "id": "acpresse-rss-4-1789544700000",
       "title": "FFB : L’activité du bâtiment chute encore",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -8465,7 +8540,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-4-1789543680000",
+      "id": "acpresse-rss-5-1789543680000",
       "title": "Christophe Gomis, directeur général de KP1",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -11035,7 +11110,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acpresse-rss-5-1789040280000",
+      "id": "acpresse-rss-6-1789040280000",
       "title": "Vicat progresse de + 10 % au premier semestre",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -11059,7 +11134,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-6-1789039980000",
+      "id": "acpresse-rss-7-1789039980000",
       "title": "Herige affiche une activité en repli au 2e trimestre",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -11083,7 +11158,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-7-1789037280000",
+      "id": "acpresse-rss-8-1789037280000",
       "title": "Edycem lance les travaux de sa nouvelle usine de préfabrication",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -11107,7 +11182,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-8-1789026960000",
+      "id": "acpresse-rss-9-1789026960000",
       "title": "Hoffmann Green et CSBT Environnement unis autour des coquilles Saint-Jacques",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -11534,6 +11609,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "odeys-rss-2-1788959642000",
+      "title": "[EXPO] ARCH! FRUGALE – 28 PROJETS NÉO-AQUITAINS dans les Landes",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/actualites/expo-arch-frugale-28-projets-neo-aquitains-dans-les-landes",
+      "image": "https://www.odeys.fr/sites/default/files/styles/large/public/2024-04/Livre%20Architecture%20Frugale.png?itok=beDI88-A",
+      "date": "2026-09-09",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "01.11.2026 Le Technopôle Domolandes et le CAUE des Landes accueillent, tout le mois d'octobre, l'exposition « Arch! frugale – 28 projets néo-aquitains ». 📅 1er au 31 octobre 2026 📍 Technopoles Domolandes, Saint-Geours-de-Maremne (40) Issue de l'ouvrage Architecture frugale – 28…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "arb-nouvelle-aquitaine-rss-0-1788937065000",
       "title": "Lettre d’information – Septembre 2026",
       "source": "ARB Nouvelle-Aquitaine",
@@ -11576,32 +11677,6 @@ window.BATIVEILLE_DATA = {
         "Données"
       ],
       "summary": "Le vendredi 24 juillet 2026, alors que le feu faisait rage dans l’ouest du département de la Gironde, la LPO Aquitaine, située à Audenge, a reçu l’ordre d’évacuer son centre de soins de la faune sauvage. Dans l’urgence, les animaux […] Le vendredi 24 juillet 2026, alors que le fe…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "acpresse-rss-9-1788991200000",
-      "title": "La WCA rend visite à Cem’In’Eu",
-      "source": "ACPresse",
-      "sourceId": "acpresse",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.acpresse.fr/la-wca-rend-visite-a-cemineu/",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Béton",
-        "Matériaux",
-        "Technique",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Chez Rhône Ciments, Philippe Richart (WCA) a pu échanger avec Fabien Charbonnel (Cem’In’Eu) sur la décarbonation de l'industrie cimentière. The post La WCA rend visite à Cem’In’Eu appeared first on ACPresse. Chez Rhône Ciments, Philippe Richart (WCA) a pu échanger avec Fabien Cha…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12274,6 +12349,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "odeys-rss-3-1788784595000",
+      "title": "[WEBINAIRE] Découvrir la démarche BDNA : pourquoi et comment engager son opération ?",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/agenda/webinaire-decouvrir-la-demarche-bdna",
+      "image": null,
+      "date": "2026-09-07",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine"
+      ],
+      "summary": "5 NOVEMBRE 2026 Visioconférence Un webinaire accessible à tous les maîtres d’ouvrage souhaitant découvrir BDNA. 📅 5 novembre 2026 🕐 10h-12h 📍Visioconférence Je m'inscris Vous êtes maître d’ouvrage et vous vous interrogez sur la démarche BDNA ? Pourquoi s’engager ? Comment fonc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "oreo-bretagne-sitemap-2-1788788073000",
       "title": "etat sante especes infeodees aux milieux zones humides bretagne",
       "source": "OREO Bretagne",
@@ -12707,6 +12805,58 @@ window.BATIVEILLE_DATA = {
         "Habitat"
       ],
       "summary": "L’article Du périurbain aux périurbains : Trajectoires et recompositions en Région Sud est apparu en premier sur Aupa. L’article Du périurbain aux périurbains : Trajectoires et recompositions en Région Sud est apparu en premier sur Aupa . Du périurbain aux périurbains : Trajectoi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "odeys-rss-4-1788538142000",
+      "title": "[RENCONTRE] « Faites » de l'éco-habitat, la 10e édition",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/agenda/rencontre-faites-de-leco-habitat-la-10e-edition",
+      "image": "https://www.odeys.fr/sites/default/files/2026-09/Flyer%20FEH%202026_Page_0.png",
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "16 & 17 OCTOBRE 2026 Ustaritz (64) Dix ans que l'éco-habitat se raconte en fête au Pays Basque. Deux jours de tables rondes, d'ateliers pratiques, de témoignages et de musique, ouverts à toutes et tous (particuliers, professionnels, collectivités). Odéys est partenaire de cette 1…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "odeys-rss-5-1788537272000",
+      "title": "[RENCONTRE] Les Petits Déjeuners de la construction durable",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/agenda/rencontre-les-petits-dejeuners-de-la-construction-durable",
+      "image": null,
+      "date": "2026-09-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine",
+        "RE2020",
+        "Eau",
+        "Bâtiment"
+      ],
+      "summary": "24 SEPTEMBRE 2026 Anglet (64) Une heure, un café, et l'essentiel de l'actualité de la construction et de l'aménagement durables. Le format a bientôt un an : l'occasion, ce 24 septembre, de faire le point ensemble et de préparer la suite. 📆Jeudi 24 septembre 2026 🕐8h30 à 9h30 📍…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -17120,7 +17270,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ekopolis-sitemap-15-1785314239000",
+      "id": "ekopolis-sitemap-17-1785314239000",
       "title": "societe resiliente transition ecologique et cohesion sociale etudes de quelques",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17143,7 +17293,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-55-1785313782000",
+      "id": "ekopolis-sitemap-57-1785313782000",
       "title": "guide amenagement et construction durable de lenseignement superieur de la recherche et",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17167,7 +17317,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-74-1785314102000",
+      "id": "ekopolis-sitemap-76-1785314102000",
       "title": "les opportunites de developpement de leconomie sociale et solidaire dans la filiere du",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17190,7 +17340,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-137-1785313963000",
+      "id": "ekopolis-sitemap-139-1785313963000",
       "title": "presentation programme sante ville amenagement durable",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17213,7 +17363,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-232-1785316581000",
+      "id": "ekopolis-sitemap-234-1785316581000",
       "title": "guide construire sain ed 2013",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17236,7 +17386,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-363-1785316517000",
+      "id": "ekopolis-sitemap-365-1785316517000",
       "title": "la biodiversite publications du ministere",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17259,7 +17409,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-367-1785313612000",
+      "id": "ekopolis-sitemap-369-1785313612000",
       "title": "label ever espaces verts ecologiques pour la gestion ecologique des espaces verts",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -17282,7 +17432,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-380-1785316763000",
+      "id": "ekopolis-sitemap-382-1785316763000",
       "title": "de la nature en ville mais quelle idee",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
