@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-22T18:39:10.397Z",
+  "generatedAt": "2026-09-22T22:50:13.037Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3921,7 +3921,109 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790097056000",
+      "id": "enerzine-rss-0-1790115000000",
+      "title": "Beta Pictoris b trahie par ses aurores, un signal radio direct venu de 63 années-lumière",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/beta-pictoris-b-signal-radio-aurores/195366-2026-09",
+      "image": null,
+      "date": "2026-09-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Le radiotélescope MeerKAT, en Afrique du Sud, a capté des salves radio directement attribuées à l’exoplanète Beta Pictoris b. Présentée dans une prépublication comme la première détection sans ambiguïté d’une émission radio aurorale provenant d’une exoplanète, cette signature mag…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790111775000",
+      "title": "Claude Opus 5.5, la riposte d’Anthropic qui change la guerre des coûts de l’IA",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/claude-opus-5-5-cout-efficacite-anthropic/195367-2026-09",
+      "image": null,
+      "date": "2026-09-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "L’intelligence artificielle de pointe vient de changer de logique. Claude Opus 5.5 arrive le 22 septembre 2026 avec une promesse simple, le niveau du haut de gamme pour une facture d’exploitation nettement allégée. 📌 L’essentiel en 3 points Avant même d’entrer dans les benchmark…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1790107800000",
+      "title": "Cette exoplanète orbite à contresens et défie toute la mécanique planétaire",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/exoplanete-gj3090b-orbite-retrograde/195360-2026-09",
+      "image": null,
+      "date": "2026-09-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Biosourcé"
+      ],
+      "summary": "À environ 73 années-lumière de la Terre, une planète tourne dans le sens opposé à la rotation de son étoile. Son obliquité orbitale tridimensionnelle atteint environ 136 degrés, un désalignement spectaculaire qui interroge les scénarios de formation et d’évolution des systèmes pl…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-3-1790104200000",
+      "title": "Mistral rachète Pimento pour renforcer Vibe dans la bataille des assistants IA",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/mistral-pimento-acquisition-vibe/195354-2026-09",
+      "image": null,
+      "date": "2026-09-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "Mistral AI met la main sur Pimento, une start-up française spécialisée dans la création de campagnes publicitaires assistée par intelligence artificielle. L’objectif affiché est d’intégrer ses équipes d’ingénierie et de produit afin d’améliorer l’expérience utilisateur de Vibe, l…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-4-1790097056000",
       "title": "La physique des particules tourne en rond face au mur du modèle standard",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3945,7 +4047,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790086200000",
+      "id": "enerzine-rss-5-1790086200000",
       "title": "Téléviseurs IA 2026. la révolution de l’écran se heurte déjà au prix des dalles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3969,7 +4071,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790079049000",
+      "id": "enerzine-rss-6-1790079049000",
       "title": "Peugeot E-208 GTi électrique, 281 ch et 42 900 €, le prix de la démesure ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3993,7 +4095,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790066100000",
+      "id": "enerzine-rss-7-1790066100000",
       "title": "Les offres d’emploi informatique les plus exposées à l’IA chutent de 40% par rapport aux métiers peu exposés",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4018,7 +4120,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790055000000",
+      "id": "enerzine-rss-8-1790055000000",
       "title": "Des chimistes renversent une hypothèse de 40 ans sur une classe clé de supraconducteurs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4042,7 +4144,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790053800000",
+      "id": "enerzine-rss-9-1790053800000",
       "title": "Les fenêtres peuvent-elles rafraîchir les bâtiments sans électricité ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4063,54 +4165,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Les fenêtres sont essentielles aux bâtiments, car elles apportent la lumière du jour, des vues et un lien avec l’extérieur, mais elles constituent aussi des points faibles de l’enveloppe du bâtiment. Elles peuvent être à l’origine d’importants gains ou pertes de chaleur indésirab…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-6-1790050200000",
-      "title": "Qu’est-ce qui tue le chat de Schrödinger ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/quest-ce-qui-tue-le-chat-de-schrodinger/195206-2026-09",
-      "image": null,
-      "date": "2026-09-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Quelque part entre le monde microscopique des particules élémentaires et le monde macroscopique des êtres humains, quelque chose d’étrange se produit : les règles de la physique quantique, qui décrivent avec une telle précision les minuscules atomes, semblent perdre leur emprise …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-7-1790046600000",
-      "title": "Décrypter l’aérodynamique des profils d’aile ultra-fins bio-inspirés",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/decrypter-laerodynamique-des-profils-daile-ultra-fins-bio-inspires/195199-2026-09",
-      "image": null,
-      "date": "2026-09-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Des chercheurs de l’Université métropolitaine de Tokyo ont utilisé un algorithme évolutif pour identifier les formes optimales de profils d’aile ondulés ultra-fins inspirés de la nature, c’est-à-dire les coupes bidimensionnelles des ailes. Les ailes légères de type membrane const…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4239,7 +4293,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790102331000",
+      "id": "le-commerce-du-bois-sitemap-0-1790117393000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4265,7 +4319,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1790102331000",
+      "id": "le-commerce-du-bois-sitemap-1-1790117393000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4291,7 +4345,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1790102331000",
+      "id": "le-commerce-du-bois-sitemap-2-1790117393000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -6684,56 +6738,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Le gestionnaire français du réseau de transport d’électricité RTE a présenté ce 21 septembre ses premières analyses concernant le fonctionnement du système électrique au cours d’un été « marqué par des vagues de chaleur exceptionnelles en termes de précocité, d’intensité et de du…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790028600000",
-      "title": "Les magnétomètres à diamant peuvent ouvrir une nouvelle fenêtre sur l’activité cardiaque",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/les-magnetometres-a-diamant-peuvent-ouvrir-une-nouvelle-fenetre-sur-lactivite-cardiaque/195196-2026-09",
-      "image": null,
-      "date": "2026-09-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Des physiciens de l’Université Johannes Gutenberg de Mayence (JGU) ont développé une technologie révolutionnaire qui utilise des capteurs quantiques pour mesurer des signaux biomagnétiques, tels que l’activité cardiaque. Les chercheurs du projet phare DIAQNOS (DIAmond-based Quant…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789996933000",
-      "title": "Droit à la prise en copropriété : ce que prévoit la loi",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/droit-a-la-prise-en-copropriete-ce-que-prevoit-la-loi/195296-2026-09",
-      "image": null,
-      "date": "2026-09-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Un résident qui souhaite recharger son véhicule électrique chez lui n’a pas à obtenir l’accord de sa copropriété. C’est tout le sens de ce que la loi appelle le droit à la prise en copropriété, un dispositif inscrit dans le Code de la construction et de l’habitation et renforcé p…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10209,7 +10213,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -17464,7 +17468,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -17635,7 +17639,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -18092,7 +18096,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
