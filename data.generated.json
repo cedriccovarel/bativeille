@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T23:06:42.651Z",
+  "generatedAt": "2026-09-22T04:04:28.421Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,159 @@
   ],
   "articles": [
     {
+      "id": "acpresse-rss-0-1790042640000",
+      "title": "Savonnerie Ciment : Des carreaux de ciment qui font des bulles et de belles promesses",
+      "source": "ACPresse",
+      "sourceId": "acpresse",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.acpresse.fr/savonnerie-ciment-des-carreaux-de-ciment-qui-font-des-bulles-et-de-belles-promesses/",
+      "image": null,
+      "date": "2026-09-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Béton",
+        "Matériaux",
+        "Technique",
+        "Eau"
+      ],
+      "summary": "Accrochez-vous à votre gant de toilette, car la Savonnerie Ciment débarque avec des savons uniques, en forme de carreaux de ciment ! The post Savonnerie Ciment : Des carreaux de ciment qui font des bulles et de belles promesses appeared first on ACPresse. Accrochez-vous à votre g…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "vert-rss-0-1790049600000",
+      "title": "Dans la Manche, les pêcheurs français font monter la pression pour interdire les plus gros chalutiers de la bande côtière",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/agriculture/dans-la-manche-les-pecheurs-francais-font-monter-la-pression-pour-interdire-les-plus-gros-chalutiers-de-la-bande-cotiere/",
+      "image": null,
+      "date": "2026-09-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Début septembre, la commission Manche-mer du Nord du Comité national des pêches a voté pour l’exclusion des navires de plus de 25 mètres des eaux territoriales françaises afin de préserver la ressource en poissons et l’économie locale. La ministre de la mer, Catherine Chabaud, es…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1790046600000",
+      "title": "Décrypter l’aérodynamique des profils d’aile ultra-fins bio-inspirés",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/decrypter-laerodynamique-des-profils-daile-ultra-fins-bio-inspires/195199-2026-09",
+      "image": null,
+      "date": "2026-09-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des chercheurs de l’Université métropolitaine de Tokyo ont utilisé un algorithme évolutif pour identifier les formes optimales de profils d’aile ondulés ultra-fins inspirés de la nature, c’est-à-dire les coupes bidimensionnelles des ailes. Les ailes légères de type membrane const…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1790049847000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1790049847000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1790049847000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1789999201000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -3148,7 +3301,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-0-1790028000000",
+      "id": "acpresse-rss-1-1790028000000",
       "title": "La violation du secret des affaires",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -3172,7 +3325,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-1-1789976280000",
+      "id": "acpresse-rss-2-1789976280000",
       "title": "Olivier Saint-Paul prend la présidence du C-Mat",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -3522,7 +3675,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1789994846000",
+      "id": "vert-rss-1-1789994846000",
       "title": "«L’urgence climatique nous oblige, c’est notre futur très proche qui est en jeu» : l’appel de la jeunesse à manifester le 26 septembre",
       "source": "Vert",
       "sourceId": "vert",
@@ -3546,7 +3699,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1789984874000",
+      "id": "vert-rss-2-1789984874000",
       "title": "«On a peur de ne plus avoir la même Camargue» : à Arles, 2 500 personnes réunies contre le projet de ligne à très haute tension",
       "source": "Vert",
       "sourceId": "vert",
@@ -3570,7 +3723,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1789983301000",
+      "id": "vert-rss-3-1789983301000",
       "title": "«Nous nous sommes auto-saisis» : l’Assemblée citoyenne de Jean-Marc Jancovici est lancée et compte peser sur la présidentielle",
       "source": "Vert",
       "sourceId": "vert",
@@ -3955,7 +4108,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790028600000",
+      "id": "enerzine-rss-1-1790028600000",
       "title": "Les magnétomètres à diamant peuvent ouvrir une nouvelle fenêtre sur l’activité cardiaque",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3979,7 +4132,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1789996933000",
+      "id": "enerzine-rss-2-1789996933000",
       "title": "Droit à la prise en copropriété : ce que prévoit la loi",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4005,7 +4158,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1789996500000",
+      "id": "enerzine-rss-3-1789996500000",
       "title": "Bureaux modulaires : comment concevoir des espaces de travail confortables, acoustiques et évolutifs ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4031,7 +4184,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1789968600000",
+      "id": "enerzine-rss-4-1789968600000",
       "title": "Ouvrir la voie à la production de fibres de carbone renouvelables",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4057,7 +4210,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1789967400000",
+      "id": "enerzine-rss-5-1789967400000",
       "title": "Utiliser la lumière pour suivre les courants critiques du réseau électrique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4082,7 +4235,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1789963800000",
+      "id": "enerzine-rss-6-1789963800000",
       "title": "Les photons créent des boîtes dorées, les électrons mènent aux coquilles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4107,7 +4260,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1789960200000",
+      "id": "enerzine-rss-7-1789960200000",
       "title": "Des ingénieurs de Nottingham créent un paradigme révolutionnaire d’effets sonores",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4279,84 +4432,6 @@
       "summary": "Face à la flambée des prix des carburants provoquée par les tensions géopolitiques au Moyen-Orient, l'Allemagne déploie un plan d'urgence en deux temps : un rabais fiscal de 17 centimes par litre d'octobre à décembre 2026, suivi d'un plafonnement des prix début 2027. Cette mesure…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1790031981000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1790031981000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1790031981000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1790001626000",
@@ -4774,7 +4849,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1789880400000",
+      "id": "vert-rss-4-1789880400000",
       "title": "Chicorée, café d’orge ou de lupin : quelles sont les alternatives au café les plus écologiques ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -4823,7 +4898,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1789942200000",
+      "id": "enerzine-rss-8-1789942200000",
       "title": "Comment des lasers transforment du plastique en nanodiamants ultra-purs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4849,7 +4924,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1789924200000",
+      "id": "enerzine-rss-9-1789924200000",
       "title": "SpaceX rêve d’une ville lunaire, mais l’eau pourrait manquer en deux ans",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4870,31 +4945,6 @@
         "Eau"
       ],
       "summary": "Une colonie d’un million d’habitants sur la Lune pourrait épuiser sa ressource la plus précieuse en moins de trois ans sans recyclage de l’eau. Tandis que SpaceX affiche des vols cargo lunaires au plus tôt en 2028, une étude scientifique fragilise le scénario d’une grande cité au…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1789902900000",
-      "title": "Gazole à plus de 2,41 € le litre, est-il encore raisonnable d’acheter une motorisation diesel ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/prix-gazole-record-diesel-plus-cher-essence/195094-2026-09",
-      "image": null,
-      "date": "2026-09-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "La pompe affiche un chiffre qui va faire grincer des dents. Le gazole vient de franchir la barre des 2,41 euros le litre, un record qui relance une question que beaucoup préféraient éviter. 📌 L’essentiel en 3 points Ce dimanche 20 septembre, la moyenne calculée à partir des tari…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5151,7 +5201,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1789794000000",
+      "id": "vert-rss-5-1789794000000",
       "title": "«Le RN n’aime pas l’écologie» : à Carpentras, le maire d’extrême droite met France nature environnement à la porte",
       "source": "Vert",
       "sourceId": "vert",
@@ -6033,7 +6083,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1789725310000",
+      "id": "vert-rss-6-1789725310000",
       "title": "«Une forme de gestion de l’indésirable» : le juriste William Acker documente le racisme environnemental subi par les «gens du voyage»",
       "source": "Vert",
       "sourceId": "vert",
@@ -6058,7 +6108,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1789722477000",
+      "id": "vert-rss-7-1789722477000",
       "title": "«Je ne suis pas sûre que faire mieux permette d’éviter le réchauffement climatique» : en Gironde, Marine Le Pen prône l’inaction",
       "source": "Vert",
       "sourceId": "vert",
@@ -6082,7 +6132,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1789704000000",
+      "id": "vert-rss-8-1789704000000",
       "title": "À Miquelon, les habitants contraints de déménager face à la submersion marine : «Ça fait mal de me dire que cet endroit disparaîtra sous l’eau un jour»",
       "source": "Vert",
       "sourceId": "vert",
@@ -7900,7 +7950,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1789647695000",
+      "id": "vert-rss-9-1789647695000",
       "title": "Vert recrute : journaliste politique-écologie, journaliste extrême droite, journaliste carto-data… rejoignez notre équipe !",
       "source": "Vert",
       "sourceId": "vert",
@@ -7922,30 +7972,6 @@
         "Confort d’été"
       ],
       "summary": "Après cet été apocalyptique, la campagne présidentielle redémarre comme si rien ne s’était passé. Face à l’urgence absolue et avant un scrutin décisif, Vert renforce encore son équipe avec trois nouveaux postes de journalistes pour que tout le monde y voie clair en 2027. Après ce…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "vert-rss-9-1789637418000",
-      "title": "Laurence Huc, toxicologue : «Il y a une responsabilité collective dans chaque cas de cancer lié à l’environnement»",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/sante-environnement/laurence-huc-toxicologue-il-y-a-une-responsabilite-collective-dans-chaque-cas-de-cancer-lie-a-lenvironnement/",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques"
-      ],
-      "summary": "Dans la bande dessinée «Pesticides, leurs ravages sur la santé des enfants» parue ce jeudi, la chercheuse en toxicologie Laurence Huc raconte son engagement aux côtés de familles pour élucider l’origine des cancers de leurs enfants. Elle décrypte les jeux d’influence, l’inaction …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8465,7 +8491,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-2-1789558680000",
+      "id": "acpresse-rss-3-1789558680000",
       "title": "Vers la fermeture de la cimenterie de Ranville d’Heidelberg Materials ?",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -8490,7 +8516,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-3-1789545180000",
+      "id": "acpresse-rss-4-1789545180000",
       "title": "Ginger acquiert A-Corros",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -8515,7 +8541,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-4-1789544700000",
+      "id": "acpresse-rss-5-1789544700000",
       "title": "FFB : L’activité du bâtiment chute encore",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -8540,7 +8566,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-5-1789543680000",
+      "id": "acpresse-rss-6-1789543680000",
       "title": "Christophe Gomis, directeur général de KP1",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -11110,7 +11136,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acpresse-rss-6-1789040280000",
+      "id": "acpresse-rss-7-1789040280000",
       "title": "Vicat progresse de + 10 % au premier semestre",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -11134,7 +11160,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-7-1789039980000",
+      "id": "acpresse-rss-8-1789039980000",
       "title": "Herige affiche une activité en repli au 2e trimestre",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -11158,7 +11184,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "acpresse-rss-8-1789037280000",
+      "id": "acpresse-rss-9-1789037280000",
       "title": "Edycem lance les travaux de sa nouvelle usine de préfabrication",
       "source": "ACPresse",
       "sourceId": "acpresse",
@@ -11178,30 +11204,6 @@
         "Technique"
       ],
       "summary": "Edycem pose la première pierre de sa nouvelle usine de préfabrication de Montaigu-Vendée, qui entrera en production fin 2027. The post Edycem lance les travaux de sa nouvelle usine de préfabrication appeared first on ACPresse. Edycem pose la première pierre de sa nouvelle usine d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "acpresse-rss-9-1789026960000",
-      "title": "Hoffmann Green et CSBT Environnement unis autour des coquilles Saint-Jacques",
-      "source": "ACPresse",
-      "sourceId": "acpresse",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.acpresse.fr/en-attente-photo/",
-      "image": null,
-      "date": "2026-09-10",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Béton",
-        "Matériaux",
-        "Technique"
-      ],
-      "summary": "Hoffmann Green Cement annonce un partenariat avec CSBT Environnement, spécialisée dans la valorisation des coques de coquilles Saint-Jacques. The post Hoffmann Green et CSBT Environnement unis autour des coquilles Saint-Jacques appeared first on ACPresse. Hoffmann Green Cement an…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
