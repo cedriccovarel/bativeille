@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T18:57:22.771Z",
+  "generatedAt": "2026-09-23T22:51:03.629Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -4107,7 +4107,83 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790184300000",
+      "id": "enerzine-rss-0-1790201400000",
+      "title": "Un nouveau diamant poreux créé par des chercheurs",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-nouveau-diamant-poreux-cree-par-des-chercheurs/195255-2026-09",
+      "image": null,
+      "date": "2026-09-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Les chercheurs de l’université de Göteborg ont créé un matériau carboné à structure tridimensionnelle. Baptisé diamondiyne, ce matériau peut être décrit comme un diamant poreux doté de la même forme de base qu’un tétraèdre. Le prix Nobel de chimie 2025 a récompensé la mise au poi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790193900000",
+      "title": "Alibaba dévoile la puce Zhenwu V900 et prépare un modèle d’IA jusqu’à quatre fois plus grand",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/alibaba-zhenwu-v900-puce-ia-qwen/195447-2026-09",
+      "image": null,
+      "date": "2026-09-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Une puce présentée par Alibaba comme la plus puissante de Chine, un futur modèle d’IA pouvant atteindre jusqu’à 10 000 milliards de paramètres et une action qui a gagné environ 5% : le groupe accélère sur le double front du matériel et des modèles. 📌 L’essentiel en 3 points Une …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1790191200000",
+      "title": "Tour Montparnasse, le chantier à 800 millions s’effondre avant même de commencer",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/tour-montparnasse-renovation-abandonnee-800-millions/195443-2026-09",
+      "image": null,
+      "date": "2026-09-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Économie du bâtiment",
+        "Bâtiment"
+      ],
+      "summary": "Les copropriétaires ont tranché ce mercredi, rejetant la signature du marché destiné à lancer le désamiantage, le curage et la dépose partielle de la façade. Le gratte-ciel parisien, vidé depuis le 31 mars 2026, reste une coquille vide au-dessus de la gare Montparnasse. 📌 L’esse…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-3-1790184300000",
       "title": "Data centers. Bruxelles adopte une notation A à G pour l’efficacité énergétique et hydrique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4133,7 +4209,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790181900000",
+      "id": "enerzine-rss-4-1790181900000",
       "title": "Meta Muse : achats, emails, voyages… l’agent IA de Meta veut tout gérer",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4159,7 +4235,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790174700000",
+      "id": "enerzine-rss-5-1790174700000",
       "title": "Dassault envoie deux intelligences artificielles souveraines dans le cockpit du Rafale",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4184,7 +4260,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790172600000",
+      "id": "enerzine-rss-6-1790172600000",
       "title": "Volkswagen ID. Cross, le SUV électrique à moins de 28 000 € entre en production",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4209,7 +4285,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790167200000",
+      "id": "enerzine-rss-7-1790167200000",
       "title": "Les jeux de crash rapides gagnent en popularité auprès des joueurs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4233,7 +4309,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790161800000",
+      "id": "enerzine-rss-8-1790161800000",
       "title": "Point Nemo, la zone du Pacifique Sud où les débris de l’ISS devraient retomber",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4259,7 +4335,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790158495000",
+      "id": "enerzine-rss-9-1790158495000",
       "title": "Robots abyssaux à 6 000 mètres, l’observation des profondeurs s’accélère",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4281,82 +4357,6 @@
         "Eau"
       ],
       "summary": "Descendre à 6 000 mètres sous la surface devient une capacité d’observation plus accessible pour les réseaux océanographiques. Les deux prototypes français de profileurs Argo Deep-6000 ont chacun enchaîné cinq cycles complets jusqu’à cette profondeur et transmis des données inédi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-7-1790141400000",
-      "title": "De minuscules plis plient la physique pour modifier la circulation de l’électricité dans le graphène",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/de-minuscules-plis-plient-la-physique-pour-modifier-la-circulation-de-lelectricite-dans-le-graphene/195238-2026-09",
-      "image": null,
-      "date": "2026-09-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "De minuscules plis pourraient révéler de nouveaux comportements dans le graphène, un matériau exceptionnellement résistant, conducteur et fin, utilisé dans les batteries, les puces informatiques et d’autres dispositifs électroniques. Selon une nouvelle étude publiée dans Advanced…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790140200000",
-      "title": "Une sonde fluorescente bimétallique permet une détection ultrasensible de l’uranium via un smartphone",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/une-sonde-fluorescente-bimetallique-permet-une-detection-ultrasensible-de-luranium-via-un-smartphone/195235-2026-09",
-      "image": null,
-      "date": "2026-09-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "La contamination de l’eau par l’uranium pose un défi sérieux, car les ions uranyle, la forme la plus stable de l’uranium dans de nombreux environnements aquatiques, allient toxicité chimique, radioactivité et forte mobilité. Des chercheurs ont désormais mis au point une plateform…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790136600000",
-      "title": "Les cellules solaires tandem pérovskite/silicium atteignent 34 % de rendement avec une tension record de 2,014 V",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/les-cellules-solaires-tandem-perovskite-silicium-atteignent-34-de-rendement-avec-une-tension-record-de-2014-v/195232-2026-09",
-      "image": null,
-      "date": "2026-09-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Des chercheurs de l’Université Soochow ont développé une cellule solaire tandem pérovskite/silicium atteignant un rendement de conversion d’énergie de 34,0 % en laboratoire. Un dispositif certifié de manière indépendante a affiché un rendement en régime permanent de 33,5 % et une…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4537,7 +4537,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790189813000",
+      "id": "le-commerce-du-bois-sitemap-0-1790203846000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4563,7 +4563,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1790189813000",
+      "id": "le-commerce-du-bois-sitemap-1-1790203846000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4589,7 +4589,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1790189813000",
+      "id": "le-commerce-du-bois-sitemap-2-1790203846000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
