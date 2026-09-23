@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-22T22:50:13.037Z",
+  "generatedAt": "2026-09-23T04:00:49.793Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,134 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1790133000000",
+      "title": "La nature peut-elle transformer les déchets industriels en source de terres rares ?",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/la-nature-peut-elle-transformer-les-dechets-industriels-en-source-de-terres-rares/195229-2026-09",
+      "image": null,
+      "date": "2026-09-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Les cendres volantes, la boue rouge et les résidus miniers sont généralement perçus comme des passifs environnementaux. Pourtant, enfermés dans ces immenses flux de déchets se trouvent de la silice de grande valeur, des terres rares et d’autres minéraux critiques. Une équipe de r…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790129400000",
+      "title": "Interpréter les « gonflements » d’un volcan et prédire la prochaine éruption explosive",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/interpreter-les-gonflements-dun-volcan-et-predire-la-prochaine-eruption-explosive/195226-2026-09",
+      "image": null,
+      "date": "2026-09-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "En 2024, l’équipe de D. Sarah Stamps a détecté et suivi un gonflement éphémère du terrain autour d’un volcan en Tanzanie. Dans un article publié le 18 septembre, Stamps a identifié la cause de ce soulèvement : un million de mètres cubes de magma se déversant dans un réservoir mag…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1790136033000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1790136033000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1790136033000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1790070000000",
       "title": "part des habitats et espèces, faune et flore, évalués en état de conservation favorable",
       "source": "SDES — Données et études statistiques",
@@ -2258,29 +2386,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-0-1790089200000",
-      "title": "Ascenseurs : 85 % des amortisseurs en polyuréthane testés non conformes",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/industrie/ascenseurs-amortisseurs-polyurethane-non-conformes-49324",
-      "image": "https://img.batiweb.com/repo-images/article/49324/asc.jpeg",
-      "date": "2026-09-22",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Une campagne de tests de l'Union européenne menée sur 40 amortisseurs d’ascenseur a déclaré 28 des 33 modèles en polyuréthane non conformes. Une campagne de tests de l'Union européenne menée sur 40 amortisseurs d’ascenseur a déclaré 28 des 33 modèles en polyuréthane non conformes…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-1-1790089200000",
       "title": "Les Français séduits par les EnR mais freinés par le coût des travaux",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2301,6 +2406,29 @@ window.BATIVEILLE_DATA = {
         "Énergie"
       ],
       "summary": "Le 15e baromètre de Qualit’EnR confirme l’intérêt des Français pour les énergies renouvelables. Si les intentions de travaux progressent et que les solutions EnR bénéficient d’une image favorable, le coût des travaux freine le passage à l’action. Dans le même temps, la confiance …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-1-1790089200000",
+      "title": "Ascenseurs : 85 % des amortisseurs en polyuréthane testés non conformes",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/industrie/ascenseurs-amortisseurs-polyurethane-non-conformes-49324",
+      "image": "https://img.batiweb.com/repo-images/article/49324/asc.jpeg",
+      "date": "2026-09-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Une campagne de tests de l'Union européenne menée sur 40 amortisseurs d’ascenseur a déclaré 28 des 33 modèles en polyuréthane non conformes. Une campagne de tests de l'Union européenne menée sur 40 amortisseurs d’ascenseur a déclaré 28 des 33 modèles en polyuréthane non conformes…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3921,7 +4049,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790115000000",
+      "id": "enerzine-rss-2-1790115000000",
       "title": "Beta Pictoris b trahie par ses aurores, un signal radio direct venu de 63 années-lumière",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3947,7 +4075,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790111775000",
+      "id": "enerzine-rss-3-1790111775000",
       "title": "Claude Opus 5.5, la riposte d’Anthropic qui change la guerre des coûts de l’IA",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3973,7 +4101,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790107800000",
+      "id": "enerzine-rss-4-1790107800000",
       "title": "Cette exoplanète orbite à contresens et défie toute la mécanique planétaire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3998,7 +4126,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790104200000",
+      "id": "enerzine-rss-5-1790104200000",
       "title": "Mistral rachète Pimento pour renforcer Vibe dans la bataille des assistants IA",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4023,7 +4151,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790097056000",
+      "id": "enerzine-rss-6-1790097056000",
       "title": "La physique des particules tourne en rond face au mur du modèle standard",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4047,7 +4175,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790086200000",
+      "id": "enerzine-rss-7-1790086200000",
       "title": "Téléviseurs IA 2026. la révolution de l’écran se heurte déjà au prix des dalles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4071,7 +4199,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790079049000",
+      "id": "enerzine-rss-8-1790079049000",
       "title": "Peugeot E-208 GTi électrique, 281 ch et 42 900 €, le prix de la démesure ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4095,7 +4223,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790066100000",
+      "id": "enerzine-rss-9-1790066100000",
       "title": "Les offres d’emploi informatique les plus exposées à l’IA chutent de 40% par rapport aux métiers peu exposés",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4116,55 +4244,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Les métiers de l’informatique et des TIC figurent parmi les plus directement exposés à ce recul de la demande. Une étude française mesure l’ampleur du phénomène à partir des offres de France Travail et des données d’embauche. 📌 L’essentiel en 3 points Entre fin 2023 et début 202…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790055000000",
-      "title": "Des chimistes renversent une hypothèse de 40 ans sur une classe clé de supraconducteurs",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-chimistes-renversent-une-hypothese-de-40-ans-sur-une-classe-cle-de-supraconducteurs/195215-2026-09",
-      "image": null,
-      "date": "2026-09-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Des scientifiques de l’université de Warwick ont démontré qu’un matériau traité depuis 40 ans comme un supraconducteur uniforme, tel que décrit dans les manuels, est en réalité une mosaïque de structures cristallines différentes dans toute sa masse, grâce à l’une des toutes derni…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790053800000",
-      "title": "Les fenêtres peuvent-elles rafraîchir les bâtiments sans électricité ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/les-fenetres-peuvent-elles-rafraichir-les-batiments-sans-electricite/195203-2026-09",
-      "image": null,
-      "date": "2026-09-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Bâtiment"
-      ],
-      "summary": "Les fenêtres sont essentielles aux bâtiments, car elles apportent la lumière du jour, des vues et un lien avec l’extérieur, mais elles constituent aussi des points faibles de l’enveloppe du bâtiment. Elles peuvent être à l’origine d’importants gains ou pertes de chaleur indésirab…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4291,84 +4370,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Un point bleu débarque sur Android pour dévoiler qui espionne votre position en temps réel. Simple gadget ou vraie révolution pour votre vie privée ? La réponse pourrait bien changer vos habitudes. L’article Un point bleu s’affiche désormais sur votre Android : voici sa significa…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1790117393000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1790117393000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1790117393000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1790094887000",
@@ -10213,7 +10214,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -17468,7 +17469,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -17639,7 +17640,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -18096,7 +18097,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
