@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-24T18:55:28.078Z",
+  "generatedAt": "2026-09-24T23:08:06.117Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3588,7 +3588,7 @@ window.BATIVEILLE_DATA = {
         "Marché énergie",
         "Énergie"
       ],
-      "summary": "Travailler sur la demande et simplifier les processus. Le Syndicat des énergies renouvelables présentait ce jour ses 27 propositions pour la campagne présidentielle de 2027, à retrouver en fin d’article. Dans un contexte où les énergies renouvelables (EnR), éolien et solaire en t…",
+      "summary": "– Article actualisé le 24/09/2026. Travailler sur la demande et simplifier les processus. Le Syndicat des énergies renouvelables présentait ce jour ses 27 propositions pour la campagne présidentielle de 2027, à retrouver en fin d’article. Dans un contexte où les énergies renouvel…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3851,7 +3851,81 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790274000000",
+      "id": "enerzine-rss-0-1790287800000",
+      "title": "Quand des filtres à air faits maison améliorent la qualité de l’air en classe",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-filtres-a-air-faits-maison-ameliorent-la-qualite-de-lair-en-classe/195463-2026-09",
+      "image": null,
+      "date": "2026-09-24",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Alors que les élèves regagnent les salles de classe et que débute la saison des rhumes et de la grippe, des chercheurs étudient des moyens d’améliorer la qualité de l’air intérieur et de réduire le risque de transmission des maladies par voie aérienne. Une étude publiée dans ACS …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790284500000",
+      "title": "Copilot+ PC, clap de fin ? Microsoft lâche le label, pas les exigences",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/microsoft-retire-label-copilot-pc-surface/195600-2026-09",
+      "image": null,
+      "date": "2026-09-24",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Le constructeur retire le badge de certains nouveaux Surface. Les critères techniques associés à la catégorie, eux, restent en place. 📌 L’essentiel en 3 points Un simple nom peut devenir un fardeau. Microsoft ne désigne plus certains de ses nouveaux Surface sous le nom de Copilo…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1790282400000",
+      "title": "Schneider Electric prépare le rachat de Shelly, le spécialiste bulgare de l’IoT pour 1,2 milliards €",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/schneider-electric-rachat-shelly-group-offre-1-2-milliards-euros/195595-2026-09",
+      "image": null,
+      "date": "2026-09-24",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Schneider Electric avance sur le dossier Shelly Group. Le groupe français a conclu un accord d’investissement avec l’entreprise bulgare, en vue d’une offre publique volontaire en numéraire à 70 euros par action. 📌 L’essentiel en 3 points Le coup de force industriel Ce n’est pas …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-3-1790274000000",
       "title": "Dryad Networks primé au XPRIZE Wildfire pour sa réponse autonome",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3876,7 +3950,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790270400000",
+      "id": "enerzine-rss-4-1790270400000",
       "title": "Jev, l’IA low-cost qui prend des décisions en 70 ms, peut-elle concurrencer les LLM ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3902,7 +3976,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790266800000",
+      "id": "enerzine-rss-5-1790266800000",
       "title": "RTX 6090 attendue en 2027 ? Des fuites visent désormais 2028 et refroidissent les attentes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3926,7 +4000,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790263200000",
+      "id": "enerzine-rss-6-1790263200000",
       "title": "Renault 8 Gordini Concept, l’icône de 1964 se réinvente en électrique de 270 ch",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3951,7 +4025,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790259600000",
+      "id": "enerzine-rss-7-1790259600000",
       "title": "Google accélère la course aux agents vocaux IA avec Gemini 3.8 Live",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3976,7 +4050,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790227800000",
+      "id": "enerzine-rss-8-1790227800000",
       "title": "Bilan positif pour l’usine de dalles en laine minérale laminée à Illange",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4000,7 +4074,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790226600000",
+      "id": "enerzine-rss-9-1790226600000",
       "title": "Sicile : un carport solaire avec stockage pour un complexe hôtelier",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4020,55 +4094,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "Le Saracen Sands Hotel & Conference Centre, à Isola delle Femmine près de Palerme, a mis en place un carport solaire de 850 kW et un stockage par batteries pour couvrir jusqu’à 90 % de ses besoins électriques et réduire sa facture annuelle de 500 000 euros. Le Saracen Sands Hotel…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-7-1790223000000",
-      "title": "L’apprentissage profond aide à concevoir des matériaux capables de détecter et de capturer les gaz soufrés toxiques",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/lapprentissage-profond-aide-a-concevoir-des-materiaux-capables-de-detecter-et-de-capturer-les-gaz-soufres-toxiques/195261-2026-09",
-      "image": null,
-      "date": "2026-09-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Les gaz toxiques contenant du soufre, tels que le sulfure d’hydrogène et les oxydes de soufre, constituent de sérieuses préoccupations pour la santé humaine, la sécurité industrielle et l’environnement. Développer des matériaux capables non seulement de détecter ces gaz, mais éga…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790219400000",
-      "title": "Un chercheur de l’IAS révèle la règle universelle des « rots » des trous noirs",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-chercheur-de-lias-revele-la-regle-universelle-des-rots-des-trous-noirs/195258-2026-09",
-      "image": null,
-      "date": "2026-09-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Une collaboration internationale co-dirigée par un chercheur de l’IAS a mis au jour une règle universelle régissant l’un des événements astronomiques les plus puissants de l’univers : l’éjection de jets par les trous noirs. L’équipe a démontré que les trous noirs — qu’il s’agisse…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4201,7 +4226,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790276106000",
+      "id": "le-commerce-du-bois-sitemap-0-1790291259000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4227,7 +4252,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1790276106000",
+      "id": "le-commerce-du-bois-sitemap-1-1790291259000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4253,7 +4278,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1790276106000",
+      "id": "le-commerce-du-bois-sitemap-2-1790291259000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -5056,31 +5081,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-7-1790204700000",
-      "title": "Bosch Home Comfort accélère en France et vise le Top 3 des pompes à chaleur",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/bosch-home-comfort-pompes-chaleur-france-49334",
-      "image": "https://img.batiweb.com/repo-images/publi/49334/boschhomecomfort-09-25-une.jpg",
-      "date": "2026-09-23",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle sur le marché français du confort climatique. Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle su…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-8-1790204700000",
       "title": "Sur Batimat, VEKA présentera des menuiseries axées sur la performance",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5099,6 +5099,29 @@ window.BATIVEILLE_DATA = {
         "Marché"
       ],
       "summary": "À l’occasion de Batimat 2026, VEKA présentera plusieurs évolutions de ses systèmes de menuiseries. À l’occasion de Batimat 2026, VEKA présentera plusieurs évolutions de ses systèmes de menuiseries. Sur Batimat, VEKA présentera des menuiseries axées sur la performance",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-8-1790204700000",
+      "title": "Elegant, la fenêtre qui redéfinit les standards du design et de la performance",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/elegant-fenetre-design-performance-49292",
+      "image": "https://img.batiweb.com/repo-images/publi/49292/deceuninck-09-25-une.jpg",
+      "date": "2026-09-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recyclés dans ses profilés. Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recy…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5128,24 +5151,26 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-10-1790204700000",
-      "title": "Elegant, la fenêtre qui redéfinit les standards du design et de la performance",
+      "title": "Bosch Home Comfort accélère en France et vise le Top 3 des pompes à chaleur",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/elegant-fenetre-design-performance-49292",
-      "image": "https://img.batiweb.com/repo-images/publi/49292/deceuninck-09-25-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/bosch-home-comfort-pompes-chaleur-france-49334",
+      "image": "https://img.batiweb.com/repo-images/publi/49334/boschhomecomfort-09-25-une.jpg",
       "date": "2026-09-23",
       "access": "open",
       "official": false,
-      "highImpact": false,
-      "impactScore": 72,
+      "highImpact": true,
+      "impactScore": 88,
       "tags": [
         "Construction",
         "Produits",
-        "Marché"
+        "Marché",
+        "Réglementation",
+        "Économie du bâtiment"
       ],
-      "summary": "Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recyclés dans ses profilés. Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recy…",
+      "summary": "Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle sur le marché français du confort climatique. Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle su…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6498,32 +6523,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Au 1er octobre 2026, le niveau de TVA s’appliquant sur l’électricité consommée par les ménages domestiques en Grande-Bretagne va passer de 5% à… 0%. Concrètement, les ménages en Angleterre, au pays de Galles et en Écosse (l’Irlande du Nord n’est pas concernée par cette mesure) n’…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790201400000",
-      "title": "Un nouveau diamant poreux créé par des chercheurs",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-nouveau-diamant-poreux-cree-par-des-chercheurs/195255-2026-09",
-      "image": null,
-      "date": "2026-09-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Les chercheurs de l’université de Göteborg ont créé un matériau carboné à structure tridimensionnelle. Baptisé diamondiyne, ce matériau peut être décrit comme un diamant poreux doté de la même forme de base qu’un tétraèdre. Le prix Nobel de chimie 2025 a récompensé la mise au poi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10321,7 +10320,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-92-1789603200000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-78-1789603200000",
       "title": "gouvernement frederic carre rencontre vincent jeanbrun",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -14650,7 +14649,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-339-1788220800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-319-1788220800000",
       "title": "actu simple 31",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -21244,7 +21243,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
