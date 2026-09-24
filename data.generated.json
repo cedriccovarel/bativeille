@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T22:51:03.629Z",
+  "generatedAt": "2026-09-24T03:56:05.164Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,109 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1790219400000",
+      "title": "Un chercheur de l’IAS révèle la règle universelle des « rots » des trous noirs",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-chercheur-de-lias-revele-la-regle-universelle-des-rots-des-trous-noirs/195258-2026-09",
+      "image": null,
+      "date": "2026-09-24",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Une collaboration internationale co-dirigée par un chercheur de l’IAS a mis au jour une règle universelle régissant l’un des événements astronomiques les plus puissants de l’univers : l’éjection de jets par les trous noirs. L’équipe a démontré que les trous noirs — qu’il s’agisse…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1790222145000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-24",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1790222145000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-24",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1790222145000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-24",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "association-bbca-rss-0-1790162541000",
       "title": "Trois regards, trois échelles d’action",
       "source": "Association BBCA",
@@ -2501,7 +2604,30 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-0-1790173800000",
+      "id": "batiweb-rss-0-1790204700000",
+      "title": "Elegant, la fenêtre qui redéfinit les standards du design et de la performance",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/elegant-fenetre-design-performance-49292",
+      "image": "https://img.batiweb.com/repo-images/publi/49292/deceuninck-09-25-une.jpg",
+      "date": "2026-09-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recyclés dans ses profilés. Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recy…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-1-1790173800000",
       "title": "Recrutement : une « Journée de l’emploi » au Paris Builders Show",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2525,7 +2651,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-1-1790164800000",
+      "id": "batiweb-rss-2-1790164800000",
       "title": "Au congrès HLM, Olivier Faure et François Hollande s’expriment sur le logement",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2551,7 +2677,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-2-1790155200000",
+      "id": "batiweb-rss-3-1790155200000",
       "title": "Budget 2027 : le gouvernement veut reconduire la baisse des prélèvements sur les recettes des bailleurs sociaux",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2574,7 +2700,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-3-1790153700000",
+      "id": "batiweb-rss-4-1790153700000",
       "title": "Électricité : Sogetra rejoint les rangs de NGE Énergies Solutions",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2598,7 +2724,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-4-1790152800000",
+      "id": "batiweb-rss-5-1790152800000",
       "title": "Réinventer le centre bordelais : exploration du projet Canopia",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4107,7 +4233,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790201400000",
+      "id": "enerzine-rss-1-1790201400000",
       "title": "Un nouveau diamant poreux créé par des chercheurs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4133,7 +4259,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790193900000",
+      "id": "enerzine-rss-2-1790193900000",
       "title": "Alibaba dévoile la puce Zhenwu V900 et prépare un modèle d’IA jusqu’à quatre fois plus grand",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4157,7 +4283,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790191200000",
+      "id": "enerzine-rss-3-1790191200000",
       "title": "Tour Montparnasse, le chantier à 800 millions s’effondre avant même de commencer",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4183,7 +4309,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790184300000",
+      "id": "enerzine-rss-4-1790184300000",
       "title": "Data centers. Bruxelles adopte une notation A à G pour l’efficacité énergétique et hydrique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4209,7 +4335,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790181900000",
+      "id": "enerzine-rss-5-1790181900000",
       "title": "Meta Muse : achats, emails, voyages… l’agent IA de Meta veut tout gérer",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4235,7 +4361,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790174700000",
+      "id": "enerzine-rss-6-1790174700000",
       "title": "Dassault envoie deux intelligences artificielles souveraines dans le cockpit du Rafale",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4260,7 +4386,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790172600000",
+      "id": "enerzine-rss-7-1790172600000",
       "title": "Volkswagen ID. Cross, le SUV électrique à moins de 28 000 € entre en production",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4285,7 +4411,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790167200000",
+      "id": "enerzine-rss-8-1790167200000",
       "title": "Les jeux de crash rapides gagnent en popularité auprès des joueurs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4309,7 +4435,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1790161800000",
+      "id": "enerzine-rss-9-1790161800000",
       "title": "Point Nemo, la zone du Pacifique Sud où les débris de l’ISS devraient retomber",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4331,32 +4457,6 @@
         "Biosourcé"
       ],
       "summary": "À plus de 2 600 kilomètres de toute terre émergée, une vaste région isolée du Pacifique Sud est utilisée depuis des décennies pour les rentrées contrôlées d’engins spatiaux en fin de vie. La désorbitation de la Station spatiale internationale, aujourd’hui prévue pour 2031, remet …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790158495000",
-      "title": "Robots abyssaux à 6 000 mètres, l’observation des profondeurs s’accélère",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/robots-abyssaux-fonds-marins-6000m/195390-2026-09",
-      "image": null,
-      "date": "2026-09-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Descendre à 6 000 mètres sous la surface devient une capacité d’observation plus accessible pour les réseaux océanographiques. Les deux prototypes français de profileurs Argo Deep-6000 ont chacun enchaîné cinq cycles complets jusqu’à cette profondeur et transmis des données inédi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4535,84 +4635,6 @@
       "summary": "22 ans de travaux, 405 000 tonnes de matériaux, 700 millions d'euros par réacteur : le démantèlement de Fessenheim dévoile un calendrier serré jusqu'en 2048. Chiffres, étapes et enjeux locaux à découvrir. L’article En éteignant Fessenheim en 2020, l’État a déclenché un chantier d…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1790203846000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1790203846000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1790203846000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1790176267000",
@@ -5053,7 +5075,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-5-1790118300000",
+      "id": "batiweb-rss-6-1790118300000",
       "title": "MAESTRO : transformez votre fidélité MAPEI en avantages exclusifs",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5076,7 +5098,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-6-1790118300000",
+      "id": "batiweb-rss-7-1790118300000",
       "title": "ROM.PLAK : 33 clous podotactiles adhésifs posés en une fois",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5101,7 +5123,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-7-1790118300000",
+      "id": "batiweb-rss-8-1790118300000",
       "title": "Rénovation occupée : et si le prochain retard se jouait sur le palier ?",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5126,7 +5148,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-8-1790089200000",
+      "id": "batiweb-rss-9-1790089200000",
       "title": "Ascenseurs : 85 % des amortisseurs en polyuréthane testés non conformes",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5149,7 +5171,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-9-1790089200000",
+      "id": "batiweb-rss-10-1790089200000",
       "title": "Les Français séduits par les EnR mais freinés par le coût des travaux",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7007,7 +7029,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-10-1790031900000",
+      "id": "batiweb-rss-11-1790031900000",
       "title": "Organic devient HERADESIGN® : Knauf fait évoluer le nom de sa gamme de panneaux acoustiques en laine de bois",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7033,7 +7055,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-11-1790031900000",
+      "id": "batiweb-rss-12-1790031900000",
       "title": "Pour ses 40 ans, JAVEY dévoile sa nouvelle identité",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7056,7 +7078,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-12-1790031900000",
+      "id": "batiweb-rss-13-1790031900000",
       "title": "Mutuelle BTP : comment choisir une couverture adaptée aux professionnels du bâtiment ?",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7081,7 +7103,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-13-1790002800000",
+      "id": "batiweb-rss-14-1790002800000",
       "title": "Recycler les déchets minéraux en béton, le pari de l'ESTP et d'Ecominéro",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7107,7 +7129,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-14-1789999800000",
+      "id": "batiweb-rss-15-1789999800000",
       "title": "2 millions de personnes travaillaient dans le BTP en 2025, selon l’Urssaf",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7131,7 +7153,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-15-1789999200000",
+      "id": "batiweb-rss-16-1789999200000",
       "title": "Maisons individuelles : l'activité de Mikit dans le vert au S2 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7155,7 +7177,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-16-1789992000000",
+      "id": "batiweb-rss-17-1789992000000",
       "title": "Data centers : Bouygues Construction décroche un contrat de 1,2 milliard d'euros à Sydney",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7180,7 +7202,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-17-1789985100000",
+      "id": "batiweb-rss-18-1789985100000",
       "title": "Buildots lève 130 millions de dollars",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8335,7 +8357,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "batiweb-rss-18-1789945500000",
+      "id": "batiweb-rss-19-1789945500000",
       "title": "« Paroles d’artisans » : les assurés artisans de SMABTP témoignent !",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -8354,29 +8376,6 @@
         "Marché"
       ],
       "summary": "SMABTP a voulu recueillir les avis de ses assurés artisans sur les solutions d’assurance et les services associés proposés. De ces rencontres est née la série « Paroles d’artisans », dans laquelle les artisans se livrent sincèrement et racontent leur expérience avec SMABTP en tou…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-19-1789896600000",
-      "title": "Eiffage : bénéfice net en hausse de 12 % au S1 2026",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/conjoncture/eiffage-benefice-net-hausse-s1-2026-49207",
-      "image": "https://img.batiweb.com/repo-images/article/49207/fga.jpg",
-      "date": "2026-09-20",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Eiffage voit son bénéfice net progresser de 12 %, à 342 millions d’euros, au premier semestre 2026 et confirme ses objectifs pour l'année en cours. Eiffage voit son bénéfice net progresser de 12 %, à 342 millions d’euros, au premier semestre 2026 et confirme ses objectifs pour l'…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
