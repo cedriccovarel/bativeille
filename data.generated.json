@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T23:08:06.117Z",
+  "generatedAt": "2026-09-25T04:10:32.250Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,159 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1790309400000",
+      "title": "Un minuscule robot sauteur contrôle précisément la hauteur de son saut",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-minuscule-robot-sauteur-controle-precisement-la-hauteur-de-son-saut/195487-2026-09",
+      "image": null,
+      "date": "2026-09-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Alors que nos ciels se remplissent de plus en plus de drones qui bourdonnent, planent et volètent, accordez une pensée au modeste robot sauteur. Le saut, mode de locomotion répandu chez les insectes et les amphibiens, est près de deux ordres de grandeur plus économe en énergie qu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790305800000",
+      "title": "Des scientifiques de Singapour construisent l’horloge atomique la plus précise au monde",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-scientifiques-de-singapour-construisent-lhorloge-atomique-la-plus-precise-au-monde/195512-2026-09",
+      "image": null,
+      "date": "2026-09-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Prenez une seconde et transformez-la en billions de moments. Mesurez chacun d’eux. Voilà avec quelle précision une horloge atomique du Centre for Quantum Technologies (CQT) de Singapour mesure le temps – et avec une exactitude record, selon les résultats publiés dans Nature le 23…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1790309413000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1790309413000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1790309413000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1790303318000",
+      "title": "Un 86e congrès de l’USH teinté d’une inhabituelle gravité",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/un-86e-congres-de-lush-teinte-dune-inhabituelle-gravite/",
+      "image": null,
+      "date": "2026-09-25",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "À l'image de la table ronde des présidents des cinq fédérations du mouvement HLM, au cours de laquelle un large consensus s'est exprimé pour défendre les principes de solidarité et d'humanité d'une « République sociale », le 86e congrès HLM, qui s'est tenu du 22 au 24 septembre à…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "atmo-france-sitemap-536-1790239545000",
       "title": "rosas les aasqa renforcent la connaissance sur lammoniac",
       "source": "Atmo France",
@@ -2643,6 +2796,30 @@
       "summary": "L’article Le juge rappelle comment apprécier la compatibilité entre un PLU et un SCoT est apparu en premier sur AUAT. L’article Le juge rappelle comment apprécier la compatibilité entre un PLU et un SCoT est apparu en premier sur AUAT . Le juge rappelle comment apprécier la compa…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1790208000000",
+      "title": "sainte marie madeleine la region sud veille sur un patrimoine exceptionnel",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/sainte-marie-madeleine-la-region-sud-veille-sur-un-patrimoine-exceptionnel",
+      "image": null,
+      "date": "2026-09-24",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air",
+        "RE2020"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "agam-marseille-rss-0-1790236182000",
@@ -3851,7 +4028,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790287800000",
+      "id": "enerzine-rss-2-1790287800000",
       "title": "Quand des filtres à air faits maison améliorent la qualité de l’air en classe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3875,7 +4052,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790284500000",
+      "id": "enerzine-rss-3-1790284500000",
       "title": "Copilot+ PC, clap de fin ? Microsoft lâche le label, pas les exigences",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3900,7 +4077,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790282400000",
+      "id": "enerzine-rss-4-1790282400000",
       "title": "Schneider Electric prépare le rachat de Shelly, le spécialiste bulgare de l’IoT pour 1,2 milliards €",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3925,7 +4102,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790274000000",
+      "id": "enerzine-rss-5-1790274000000",
       "title": "Dryad Networks primé au XPRIZE Wildfire pour sa réponse autonome",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3950,7 +4127,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790270400000",
+      "id": "enerzine-rss-6-1790270400000",
       "title": "Jev, l’IA low-cost qui prend des décisions en 70 ms, peut-elle concurrencer les LLM ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3976,7 +4153,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790266800000",
+      "id": "enerzine-rss-7-1790266800000",
       "title": "RTX 6090 attendue en 2027 ? Des fuites visent désormais 2028 et refroidissent les attentes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4000,7 +4177,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790263200000",
+      "id": "enerzine-rss-8-1790263200000",
       "title": "Renault 8 Gordini Concept, l’icône de 1964 se réinvente en électrique de 270 ch",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4025,7 +4202,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790259600000",
+      "id": "enerzine-rss-9-1790259600000",
       "title": "Google accélère la course aux agents vocaux IA avec Gemini 3.8 Live",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4046,54 +4223,6 @@
         "Économie du bâtiment"
       ],
       "summary": "Google fait entrer la voix dans une ère réellement conversationnelle. Deux modèles natifs, Gemini 3.8 Live et Gemini 3.8 Live Extended Thinking, tiennent un échange vocal en temps réel, là où la synthèse vocale se contente de lire un texte. Les développeurs vont vite découvrir qu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790227800000",
-      "title": "Bilan positif pour l’usine de dalles en laine minérale laminée à Illange",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/bilan-positif-pour-lusine-de-dalles-en-laine-minerale-laminee-a-illange/195282-2026-09",
-      "image": null,
-      "date": "2026-09-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Un an après l’inauguration de l’usine de dalles en laine minérale laminée à Illange, Knauf Ceiling Solutions annonce un premier bilan conforme aux objectifs, avec plus de 4 millions de m² produits et une nouvelle centrale solaire. Un an après l’inauguration de l’usine de dalles e…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790226600000",
-      "title": "Sicile : un carport solaire avec stockage pour un complexe hôtelier",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/sicile-un-carport-solaire-avec-stockage-pour-un-complexe-hotelier/195277-2026-09",
-      "image": null,
-      "date": "2026-09-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Le Saracen Sands Hotel & Conference Centre, à Isola delle Femmine près de Palerme, a mis en place un carport solaire de 850 kW et un stockage par batteries pour couvrir jusqu’à 90 % de ses besoins électriques et réduire sa facture annuelle de 500 000 euros. Le Saracen Sands Hotel…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4226,85 +4355,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790291259000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1790291259000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1790291259000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1790274913000",
+      "id": "le-journal-du-grand-paris-rss-1-1790274913000",
       "title": "L’essentiel de la semaine du 21 septembre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4329,7 +4380,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1790272761000",
+      "id": "le-journal-du-grand-paris-rss-2-1790272761000",
       "title": "Dans le 17e, l’héritage architectural de Bernard Zehrfuss sublimé par LBBA",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4355,7 +4406,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1790270027000",
+      "id": "le-journal-du-grand-paris-rss-3-1790270027000",
       "title": "Le Conseil d’État valide le Sdrif-E et rejette tous les recours",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4379,7 +4430,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1790263081000",
+      "id": "le-journal-du-grand-paris-rss-4-1790263081000",
       "title": "À La Courneuve, Digital Reality fait découvrir les métiers des data centers",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4403,7 +4454,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1790261476000",
+      "id": "le-journal-du-grand-paris-rss-5-1790261476000",
       "title": "Grand Paris express : la ligne 18 confirmée pour décembre, les lignes 16 et 17 décalées à 2028 et 2029",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6703,7 +6754,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1790176267000",
+      "id": "le-journal-du-grand-paris-rss-6-1790176267000",
       "title": "Pierre Cunéo nommé directeur général de l’Agence nationale de l’habitat",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6728,7 +6779,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1790175914000",
+      "id": "le-journal-du-grand-paris-rss-7-1790175914000",
       "title": "Bernard Gauducheau – Jamais sans son GPS",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6754,7 +6805,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1790175783000",
+      "id": "le-journal-du-grand-paris-rss-8-1790175783000",
       "title": "Grand-Orly Seine Bièvre : Méhadée Bernard annonce un plan baignade pour 2027",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6778,7 +6829,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1790139127000",
+      "id": "le-journal-du-grand-paris-rss-9-1790139127000",
       "title": "Prix du Projet citoyen : Bois Robert à Versailles et Saint-Marc à Massy distingués",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6800,30 +6851,6 @@
         "Eau"
       ],
       "summary": "L'Union sociale pour l'habitat (USH) et l'Union nationale des syndicats français d'architectes (Unsfa) ont remis, à l'occasion du Congrès HLM de Bordeaux, les trophées de la 6e édition du Prix d'architecture du Projet citoyen à deux opérations franciliennes, Bois Robert à Versail…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1790137228000",
-      "title": "Mixité résidentielle : l’Aorif et Grand Paris aménagement renouvellent leur convention",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/mixite-residentielle-laorif-et-grand-paris-amenagement-renouvellent-leur-convention/",
-      "image": null,
-      "date": "2026-09-23",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Signée le 22 septembre 2026 au 86e congrès Hlm, la deuxième convention entre l'aménageur public et l'union des bailleurs franciliens étend la coopération à la maîtrise d'ouvrage directe et à la mutation du parc social. Signée le 22 septembre 2026 au 86e congrès Hlm, la deuxième c…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7424,7 +7451,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1790035200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-1-1790035200000",
       "title": "train a batteries",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -8726,7 +8753,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-1-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1789948800000",
       "title": "transmettre elever produire lagriculture du sud prepare lavenir",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -8749,7 +8776,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1789948800000",
       "title": "fraises de carpentras le gout du sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -8772,7 +8799,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1789948800000",
       "title": "assises de lapprentissage",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -8795,7 +8822,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1789948800000",
       "title": "paques en provence traditions histoire et saveurs de printemps",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -8818,7 +8845,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1789948800000",
       "title": "la region sud ouvre son aide de 250 eur pour rouler moins cher au bioethanol",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -9864,7 +9891,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1789689600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1789689600000",
       "title": "bourse au merite les bacheliers de lacademie de nice mis a lhonneur",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11390,7 +11417,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -11529,7 +11556,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1789430400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1789430400000",
       "title": "rentree scolaire ca se pass",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11552,7 +11579,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1789430400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1789430400000",
       "title": "de saison la figue dans tous ses etats",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -12738,30 +12765,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "addrn-rss-0-1789048883000",
-      "title": "À l’échelle ELLO, où en est-on de l’artificialisation des sols ?",
-      "source": "ADDRN",
-      "sourceId": "addrn",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Pays de la Loire",
-      "url": "https://addrn.fr/a-lechelle-ello-ou-en-est-on-de-lartificialisation-des-sols/",
-      "image": null,
-      "date": "2026-09-10",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Saint-Nazaire",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation"
-      ],
-      "summary": "À l’échelle ELLO, où en est-on de l’artificialisation des sols ? Un territoire majoritairement végétalisé, mais aux dynamiques contrastées Sur le territoire Estuaires et Littoral Loire Océan (ELLO), qui regroupe 8 EPCI, 109 communes et 490 000 habitants, les espaces couverts par …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "auat-toulouse-rss-19-1789026235000",
       "title": "En Gironde et dans les Landes, les parcs naturels régionaux dessinent les contours d’un territoire moins vulnérable au feu",
       "source": "AUAT Toulouse",
@@ -12836,7 +12839,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1788998400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1788998400000",
       "title": "formations dexception",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -12983,7 +12986,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1788912000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1788912000000",
       "title": "pour la semaine de la mobilite 2025 bougez dans le sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13007,7 +13010,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1788912000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1788912000000",
       "title": "septembre bouge profitez du pass plein air pour vous mettre en mouvement",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13603,7 +13606,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1788739200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1788739200000",
       "title": "400 ans de la marine nationale en region sud lhistoire secrit encore au large",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13626,7 +13629,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1788739200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1788739200000",
       "title": "dechets merterre",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14256,7 +14259,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1788393600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1788393600000",
       "title": "rentree transports scolaires",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14279,7 +14282,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1788393600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1788393600000",
       "title": "terre de hockey",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14453,7 +14456,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1788307200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1788307200000",
       "title": "loto du patrimoine 2026 six tresors de provence alpes cote dazur a sauver",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14747,7 +14750,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1788220800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1788220800000",
       "title": "jeunesse engagee",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15609,7 +15612,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1787702400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1787702400000",
       "title": "les secrets de lhotel de region",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16217,7 +16220,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1787270400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1787270400000",
       "title": "lycee golf hotel",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16240,7 +16243,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1787270400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1787270400000",
       "title": "panier de naissance provencal",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16263,7 +16266,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1787270400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1787270400000",
       "title": "le pass sud montagne devient le pass plein air",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16772,7 +16775,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1786665600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1786665600000",
       "title": "le collier marseillais",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16846,7 +16849,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1786579200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1786579200000",
       "title": "guerre du feu",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16869,7 +16872,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1786579200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1786579200000",
       "title": "zidane equipe de france",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17174,7 +17177,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1786320000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1786320000000",
       "title": "eclipse solaire",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17925,7 +17928,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -17944,7 +17947,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1785456000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1785456000000",
       "title": "les trains circuleront a nouveau entre nice et saint andre les alpes des le 1er aout",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17968,7 +17971,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1785456000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1785456000000",
       "title": "incendies comment aider les animaux",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -18096,7 +18099,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -18115,7 +18118,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1785369600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1785369600000",
       "title": "feux de foret tous mobilises",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -18374,29 +18377,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1785283200000",
-      "title": "a la pointe de la cybersecurite",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/a-la-pointe-de-la-cybersecurite",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "connaissance-des-energies-rss-23-1785283200000",
       "title": "Les feux de forêt menacent-ils les installations gazières ?",
       "source": "Connaissance des Énergies",
@@ -18553,7 +18533,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
@@ -20359,32 +20339,6 @@
       "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "addrn-rss-1-1783599193000",
-      "title": "Mobilités, ça bouge !",
-      "source": "ADDRN",
-      "sourceId": "addrn",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Pays de la Loire",
-      "url": "https://addrn.fr/mobilites-ca-bouge/",
-      "image": null,
-      "date": "2026-07-09",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Saint-Nazaire",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Mobilités, ça bouge ! En ce début d’été, l’addrn vous partage les premiers résultats concernant l’évolution de la mobilité sur le territoire ELLO – Estuaires et Littoral Loire-Océan1. En 10 ans, 65 000 déplacements en moins chaque jour Tout comme les tendances observées au niveau…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "audiar-rennes-rss-5-1783579468000",
