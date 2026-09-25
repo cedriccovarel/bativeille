@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-25T19:12:16.071Z",
+  "generatedAt": "2026-09-25T23:12:45.939Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2460,32 +2460,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-0-1790344800000",
-      "title": "Leborgne nomme son nouveau directeur général",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/nomination/thibaut-natoli-directeur-general-leborgne-49321",
-      "image": "https://img.batiweb.com/repo-images/article/49321/thibautnatoli.jpg",
-      "date": "2026-09-25",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour mission de mettre en œuvre une feuille de route mêlant optimisations et innovations. Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour m…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-1-1790344800000",
       "title": "Le négoce décoration résiste au 1er semestre 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2509,7 +2483,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-2-1790344800000",
+      "id": "batiweb-rss-1-1790344800000",
       "title": "Forte croissance pour Hexaôm au 1er semestre",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2528,6 +2502,32 @@ window.BATIVEILLE_DATA = {
         "Marché"
       ],
       "summary": "Hexaôm affiche des résultats en nette progression au premier semestre 2026, avec une croissance à deux chiffres de son activité et une nette amélioration de sa rentabilité. Hexaôm affiche des résultats en nette progression au premier semestre 2026, avec une croissance à deux chif…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-2-1790344800000",
+      "title": "Leborgne nomme son nouveau directeur général",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/nomination/thibaut-natoli-directeur-general-leborgne-49321",
+      "image": "https://img.batiweb.com/repo-images/article/49321/thibautnatoli.jpg",
+      "date": "2026-09-25",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour mission de mettre en œuvre une feuille de route mêlant optimisations et innovations. Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour m…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4314,7 +4314,57 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790359800000",
+      "id": "enerzine-rss-0-1790374200000",
+      "title": "Des araignées de mer aux pattes poilues et aux yeux rouges découvertes dans la mer des Salish",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-araignees-de-mer-aux-pattes-poilues-et-aux-yeux-rouges-decouvertes-dans-la-mer-des-salish/195509-2026-09",
+      "image": null,
+      "date": "2026-09-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Si vous nagez dans la mer des Salish tard le soir et que vous sentez un frôlement le long de vos mollets, de minuscules pattes poilues qui grimpent, tapotant de plus en plus haut vers votre visage, ne vous inquiétez pas : ce n’est probablement qu’un cauchemar qui prend corps : de…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790367000000",
+      "title": "Rappel massif Volkswagen et Audi. Un boulon corrodé menace la direction",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/rappel-volkswagen-audi-risque-direction-boulon-corrosion/195674-2026-09",
+      "image": null,
+      "date": "2026-09-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "RE2020"
+      ],
+      "summary": "Un boulon de fixation susceptible de se corroder force Volkswagen et Audi à rappeler environ 2,86 millions de véhicules dans le monde. En cas de rupture, cette fixation située sur la crémaillère de direction peut, dans le pire des cas, entraîner une perte de la capacité à diriger…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1790359800000",
       "title": "E85, une grosse économie à la pompe, mais que risque vraiment le moteur ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4340,7 +4390,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790356200000",
+      "id": "enerzine-rss-3-1790356200000",
       "title": "Prix carburants du 25 septembre 2026. Le gazole frôle les 2,40 € et pèse sur le budget",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4365,7 +4415,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790339700000",
+      "id": "enerzine-rss-4-1790339700000",
       "title": "Google envoie 4 TPU dans l’espace pour évaluer les bases d’une future infrastructure de calcul orbital",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4389,7 +4439,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790334600000",
+      "id": "enerzine-rss-5-1790334600000",
       "title": "Lidl Scan & Go arrive en France où comment scanner ses courses et payer plus vite",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4414,7 +4464,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790330700000",
+      "id": "enerzine-rss-6-1790330700000",
       "title": "Grand Paris Express. Lignes 16 et 17 repoussées d’un an, l’est francilien attendra encore",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4440,7 +4490,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790326200000",
+      "id": "enerzine-rss-7-1790326200000",
       "title": "Covid-19 en septembre 2026. Une reprise limitée qui place la rentrée sous surveillance",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4465,7 +4515,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790322950000",
+      "id": "enerzine-rss-8-1790322950000",
       "title": "Lucid arrive en France : l’Air dès 86 900 euros, le Gravity sous les 100 000 euros",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4489,7 +4539,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790315100000",
+      "id": "enerzine-rss-9-1790315100000",
       "title": "Un dispositif quantique simule l’apparition de matière",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4509,56 +4559,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "Une équipe de recherche dirigée par des enseignants-chercheurs du Duke Quantum Center (DQC) a observé sur un simulateur quantique une dynamique de rupture de corde liée à la formation de paires particule-antiparticule, l’une des premières du domaine de la physique quantique. Cett…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790313000000",
-      "title": "Un chercheur sondera l’évolution des galaxies avec le nouveau télescope spatial « Roman »",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-chercheur-sondera-levolution-des-galaxies-avec-le-nouveau-telescope-spatial-roman/195473-2026-09",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Après le lancement réussi du télescope spatial Nancy Grace Roman le 30 août, un chercheur de l’Université du Kansas co-dirigera l’une de ses grandes expériences inaugurales, appelée GRACE : le Grism Reionization and Cosmic Evolution Survey. « Le télescope spatial Nancy Grace Roma…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790309400000",
-      "title": "Un minuscule robot sauteur contrôle précisément la hauteur de son saut",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-minuscule-robot-sauteur-controle-precisement-la-hauteur-de-son-saut/195487-2026-09",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Alors que nos ciels se remplissent de plus en plus de drones qui bourdonnent, planent et volètent, accordez une pensée au modeste robot sauteur. Le saut, mode de locomotion répandu chez les insectes et les amphibiens, est près de deux ordres de grandeur plus économe en énergie qu…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4712,7 +4712,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790363518000",
+      "id": "le-commerce-du-bois-sitemap-0-1790377947000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4738,7 +4738,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1790363518000",
+      "id": "le-commerce-du-bois-sitemap-1-1790377947000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4764,7 +4764,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1790363518000",
+      "id": "le-commerce-du-bois-sitemap-2-1790377947000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -11154,7 +11154,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-92-1789603200000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-78-1789603200000",
       "title": "gouvernement frederic carre rencontre vincent jeanbrun",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -15081,7 +15081,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-339-1788220800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-319-1788220800000",
       "title": "actu simple 31",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -21503,7 +21503,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
