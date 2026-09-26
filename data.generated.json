@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T23:12:45.939Z",
+  "generatedAt": "2026-09-26T04:15:35.720Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,132 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1790395800000",
+      "title": "Comment des ingénieurs transforment de minuscules plis en régulateurs de trafic pour gouttes",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/comment-des-ingenieurs-transforment-de-minuscules-plis-en-regulateurs-de-trafic-pour-gouttes/195516-2026-09",
+      "image": null,
+      "date": "2026-09-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "L’équipe de recherche du professeur Anupam Pandey, du département de génie mécanique et aérospatial, a découvert que des plis microscopiques dans les matériaux souples peuvent agir comme de minuscules portes de circulation programmables pour les gouttes de liquide. Ces plis peuve…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790392200000",
+      "title": "Un capteur à base d’amidon change de couleur pour indiquer l’humidité dans les emballages alimentaires",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-capteur-a-base-damidon-change-de-couleur-pour-indiquer-lhumidite-dans-les-emballages-alimentaires/195467-2026-09",
+      "image": null,
+      "date": "2026-09-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des chercheurs brésiliens ont mis au point un capteur biodégradable à base d’amidon qui change de couleur lorsque l’humidité pénètre dans les emballages alimentaires. Grâce à l’ajout de chlorure de cobalt, ce dispositif intelligent passe du bleu au rose selon que le taux d’humidi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1790396115000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1790396115000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1790396115000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-39-1790338875000",
       "title": "webinaire 9 novembre 2026 10h 11h30 demarrer et structurer observatoire friches en 6",
       "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
@@ -2460,6 +2586,32 @@
     },
     {
       "id": "batiweb-rss-0-1790344800000",
+      "title": "Leborgne nomme son nouveau directeur général",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/nomination/thibaut-natoli-directeur-general-leborgne-49321",
+      "image": "https://img.batiweb.com/repo-images/article/49321/thibautnatoli.jpg",
+      "date": "2026-09-25",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour mission de mettre en œuvre une feuille de route mêlant optimisations et innovations. Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour m…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-1-1790344800000",
       "title": "Le négoce décoration résiste au 1er semestre 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2483,7 +2635,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-1-1790344800000",
+      "id": "batiweb-rss-2-1790344800000",
       "title": "Forte croissance pour Hexaôm au 1er semestre",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2502,32 +2654,6 @@
         "Marché"
       ],
       "summary": "Hexaôm affiche des résultats en nette progression au premier semestre 2026, avec une croissance à deux chiffres de son activité et une nette amélioration de sa rentabilité. Hexaôm affiche des résultats en nette progression au premier semestre 2026, avec une croissance à deux chif…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-2-1790344800000",
-      "title": "Leborgne nomme son nouveau directeur général",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/nomination/thibaut-natoli-directeur-general-leborgne-49321",
-      "image": "https://img.batiweb.com/repo-images/article/49321/thibautnatoli.jpg",
-      "date": "2026-09-25",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour mission de mettre en œuvre une feuille de route mêlant optimisations et innovations. Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour m…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4314,7 +4440,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790374200000",
+      "id": "enerzine-rss-2-1790374200000",
       "title": "Des araignées de mer aux pattes poilues et aux yeux rouges découvertes dans la mer des Salish",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4338,7 +4464,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790367000000",
+      "id": "enerzine-rss-3-1790367000000",
       "title": "Rappel massif Volkswagen et Audi. Un boulon corrodé menace la direction",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4364,7 +4490,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790359800000",
+      "id": "enerzine-rss-4-1790359800000",
       "title": "E85, une grosse économie à la pompe, mais que risque vraiment le moteur ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4390,7 +4516,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790356200000",
+      "id": "enerzine-rss-5-1790356200000",
       "title": "Prix carburants du 25 septembre 2026. Le gazole frôle les 2,40 € et pèse sur le budget",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4415,7 +4541,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790339700000",
+      "id": "enerzine-rss-6-1790339700000",
       "title": "Google envoie 4 TPU dans l’espace pour évaluer les bases d’une future infrastructure de calcul orbital",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4439,7 +4565,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790334600000",
+      "id": "enerzine-rss-7-1790334600000",
       "title": "Lidl Scan & Go arrive en France où comment scanner ses courses et payer plus vite",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4464,7 +4590,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790330700000",
+      "id": "enerzine-rss-8-1790330700000",
       "title": "Grand Paris Express. Lignes 16 et 17 repoussées d’un an, l’est francilien attendra encore",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4490,7 +4616,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790326200000",
+      "id": "enerzine-rss-9-1790326200000",
       "title": "Covid-19 en septembre 2026. Une reprise limitée qui place la rentrée sous surveillance",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4511,54 +4637,6 @@
         "Réglementation"
       ],
       "summary": "Les indicateurs Covid repartent légèrement à la hausse en cette fin septembre 2026, portés par un rebond des consultations et des passages aux urgences. Une dynamique qui replace la vigilance sanitaire au cœur d’une rentrée marquée par la reprise des activités scolaires, universi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790322950000",
-      "title": "Lucid arrive en France : l’Air dès 86 900 euros, le Gravity sous les 100 000 euros",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/lucid-france-prix-air-gravity-mondial-auto-2026/195620-2026-09",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Le constructeur américain passe des annonces aux tarifs. Sa berline Air et son SUV Gravity feront leurs débuts publics en France au Mondial de l’Auto de Paris, avec des autonomies annoncées qui atteignent respectivement 960 et 739 km selon le cycle WLTP. 📌 L’essentiel en 3 point…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790315100000",
-      "title": "Un dispositif quantique simule l’apparition de matière",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-dispositif-quantique-simule-lapparition-de-matiere/195493-2026-09",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Une équipe de recherche dirigée par des enseignants-chercheurs du Duke Quantum Center (DQC) a observé sur un simulateur quantique une dynamique de rupture de corde liée à la formation de paires particule-antiparticule, l’une des premières du domaine de la physique quantique. Cett…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4710,84 +4788,6 @@
       "summary": "16 % des stations françaises à sec, 91 % chez Total. Entre sécheresse du Rhin et prix cassés qui attirent les foules, la pénurie s'installe. Où en est votre région ? La carte complète révèle des écarts surprenants. L’article Pourquoi votre station-service habituelle est probablem…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1790377947000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1790377947000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1790377947000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1790343321000",
@@ -7628,29 +7628,6 @@
     },
     {
       "id": "batiweb-rss-17-1790204700000",
-      "title": "Elegant, la fenêtre qui redéfinit les standards du design et de la performance",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/elegant-fenetre-design-performance-49292",
-      "image": "https://img.batiweb.com/repo-images/publi/49292/deceuninck-09-25-une.jpg",
-      "date": "2026-09-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recyclés dans ses profilés. Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recy…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-18-1790204700000",
       "title": "Bosch Home Comfort accélère en France et vise le Top 3 des pompes à chaleur",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7671,6 +7648,29 @@
         "Économie du bâtiment"
       ],
       "summary": "Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle sur le marché français du confort climatique. Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle su…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-18-1790204700000",
+      "title": "Elegant, la fenêtre qui redéfinit les standards du design et de la performance",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/elegant-fenetre-design-performance-49292",
+      "image": "https://img.batiweb.com/repo-images/publi/49292/deceuninck-09-25-une.jpg",
+      "date": "2026-09-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recyclés dans ses profilés. Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recy…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
