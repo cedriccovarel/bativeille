@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T04:15:35.720Z",
+  "generatedAt": "2026-09-26T09:47:05.426Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,133 @@
   ],
   "articles": [
     {
+      "id": "mediatico-rss-0-1790409600000",
+      "title": "[Podcast] Ma vie de paillettes",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/podcast-ma-vie-de-paillettes/",
+      "image": null,
+      "date": "2026-09-26",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "RE2020"
+      ],
+      "summary": "Amélie, 36 ans, est adhérente du Collectif BAMP. Dans « Ma vie de paillettes », elle raconte pour Mediatico son chemin complexe et bouleversant vers la parentalité. Asexuelle, célibataire, convaincue dès l’adolescence qu’elle adoptera un jour, elle se heurte aux impasses du systè…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-0-1790398800000",
+      "title": "Léon XIV, le pape qui veut « désarmer l'IA » et plaide pour la « conversion écologique »",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Il-veut-desarmer-l-IA-Leon-XIV-un-pape-favorable-a-la-conversion-ecologique",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH466/afp__20260925__c9c76h2__v2__highres__francevaticanreligionpope-96238.jpg?1790398800",
+      "date": "2026-09-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat"
+      ],
+      "summary": "Alors qu'il est en visite en France du 25 au 28 septembre et qu'il a évoqué l'IA et la protection de l'environnement lors d'une allocution à l'Unesco, retour sur les engagements du pape Léon XIV en termes d'écologie et de droits humains. Il s'agit de la première visite d'État off…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1790398800000",
+      "title": "« Open bar » anti-écolo : le basculement réactionnaire du Sénat",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Open-bar-anti-ecolo-le-basculement-reactionnaire-du-Senat",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/26-09-25-cc3d7.jpg?1790398800",
+      "date": "2026-09-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Le Sénat français penche de plus en plus à droite. Historiquement dominé par les conservateurs, il verse de plus en plus dans l'anti-écologie, avec le consentement de la macronie. Récit d'un basculement. C'était cet été, en pleine canicule et au cœur d'une sècheresse dramatique. …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-2-1790398800000",
+      "title": "À table ! Aujourd'hui, on mange végétalien",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/A-table-Aujourd-hui-on-mange-vegetalien",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/photo_coloree_de_une_1_-19ca5.jpg?1790398800",
+      "date": "2026-09-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "La cuisine à base de légumineuses est loin d'être indigeste et mauvaise ! La cheffe et autrice Zohra Levacher vous a concocté un menu de saison pour vous prouver le contraire. Allez, chiche !, on cuisine et on goûte. Il se pourrait bien que Zohra Levacher ait trouvé la recette po…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "revolution-energetique-rss-0-1790404664000",
+      "title": "Les groupes électrogènes vont-ils bientôt disparaître grâce aux batteries mobiles ?",
+      "source": "Révolution Énergétique",
+      "sourceId": "revolution-energetique",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.revolution-energetique.com/actus/les-groupes-electrogenes-vont-ils-bientot-disparaitre-grace-aux-batteries-mobiles/",
+      "image": "https://cdn.revolution-energetique.com/uploads/2026/09/photomontage-groupes-electrogenes-decharge.jpg",
+      "date": "2026-09-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "ENR",
+        "Stockage",
+        "Réseaux"
+      ],
+      "summary": "Silencieuses, moins polluantes, et toutes aussi puissantes. Sur le papier, les batteries ont tout pour pousser les groupes électrogènes vers la sortie. Pourtant, le moteur […] L’article Les groupes électrogènes vont-ils bientôt disparaître grâce aux batteries mobiles ? est apparu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "enerzine-rss-0-1790395800000",
       "title": "Comment des ingénieurs transforment de minuscules plis en régulateurs de trafic pour gouttes",
       "source": "Enerzine",
@@ -2209,7 +2336,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790396115000",
+      "id": "le-commerce-du-bois-sitemap-0-1790416005000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2235,7 +2362,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1790396115000",
+      "id": "le-commerce-du-bois-sitemap-1-1790416005000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2261,7 +2388,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1790396115000",
+      "id": "le-commerce-du-bois-sitemap-2-1790416005000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2283,6 +2410,55 @@
         "Biosourcé"
       ],
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1790403671000",
+      "title": "Jean-Marie Moreau rejoint Sinoia au poste de directeur commercial",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/jean-marie-moreau-rejoint-sinoia-au-poste-de-directeur-commercial/",
+      "image": null,
+      "date": "2026-09-26",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau"
+      ],
+      "summary": "Ancien directeur des relations publiques et institutionnelles du promoteur Spirit et ancien élu de Verneuil-sur-Seine (Yvelines) et de GPS&O, Jean-Marie Moreau prend la direction commerciale de l'éditeur de logiciels immobiliers Sinoia, avec pour mission de confronter son offre a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "acteurs-publics-sitemap-4-1790414280000",
+      "title": "suppressions de postes manque de visibilite le gisp face aux inquietudes des personnels des anciens ira",
+      "source": "Acteurs Publics",
+      "sourceId": "acteurs-publics",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://acteurspublics.fr/articles/suppressions-de-postes-manque-de-visibilite-le-gisp-face-aux-inquietudes-des-personnels-des-anciens-ira/",
+      "image": null,
+      "date": "2026-09-26",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Politiques publiques",
+        "Collectivités",
+        "Transition"
+      ],
+      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -3733,7 +3909,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-0-1790319600000",
+      "id": "mediatico-rss-1-1790319600000",
       "title": "La Réunion expérimente le droit à l’alimentation avec sa monnaie locale : le TiKatsou",
       "source": "Mediatico",
       "sourceId": "mediatico",
@@ -3757,7 +3933,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1790349399000",
+      "id": "reporterre-rss-3-1790349399000",
       "title": "Paquebots, jets privés... Comment l'État garantit des décennies d'émissions carbonées",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3783,7 +3959,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1790345351000",
+      "id": "reporterre-rss-4-1790345351000",
       "title": "EPR de Flamanville : un an d'arrêt pour contrôler un réacteur au parcours émaillé d'incidents",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3807,7 +3983,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1790344531000",
+      "id": "reporterre-rss-5-1790344531000",
       "title": "Marches climat du 26 septembre : la carte des manifestations près de chez vous",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3832,7 +4008,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1790340217000",
+      "id": "reporterre-rss-6-1790340217000",
       "title": "11 data centers : deux recours seront déposés contre le mégaprojet en Seine-et-Marne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3858,7 +4034,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1790331161000",
+      "id": "reporterre-rss-7-1790331161000",
       "title": "98 000 hectares de forêt brûlés en 2026 : un record depuis 1976",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3883,7 +4059,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1790330968000",
+      "id": "reporterre-rss-8-1790330968000",
       "title": "La baisse du trafic routier a amélioré la qualité de l'air à Paris",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3907,7 +4083,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1790324259000",
+      "id": "reporterre-rss-9-1790324259000",
       "title": "Greta Thunberg, Malcom Ferdinand et Cyril Dion appellent à rejoindre les marches climat du 26 septembre",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3931,7 +4107,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1790321400000",
+      "id": "reporterre-rss-10-1790321400000",
       "title": "Les députés écologistes proposent une loi pour sortir des énergies fossiles",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3957,7 +4133,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1790312400000",
+      "id": "reporterre-rss-11-1790312400000",
       "title": "Les labels écolos à gogo, c'est fini : l'Europe met un stop au greenwashing des marques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3982,7 +4158,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1790312400000",
+      "id": "reporterre-rss-12-1790312400000",
       "title": "Procès et amendes à foison : la répression judiciaire s'intensifie contre Greenpeace France",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4008,7 +4184,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1790312400000",
+      "id": "reporterre-rss-13-1790312400000",
       "title": "« Bien être animal » pour les poulets : un logo qui prend les consommateurs pour des jambons",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4414,7 +4590,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-0-1790315839000",
+      "id": "revolution-energetique-rss-1-1790315839000",
       "title": "La France pourrait-elle exploiter ses hydrocarbures de Saint-Pierre-et-Miquelon ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -4790,7 +4966,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1790343321000",
+      "id": "le-journal-du-grand-paris-rss-1-1790343321000",
       "title": "Mondial Relay étend son réseau de lockers au pied des HLM franciliens",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4816,7 +4992,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1790331198000",
+      "id": "le-journal-du-grand-paris-rss-2-1790331198000",
       "title": "A Fontainebleau, sous la cendre des pins, la forêt prépare déjà son retour",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4841,7 +5017,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1790327824000",
+      "id": "le-journal-du-grand-paris-rss-3-1790327824000",
       "title": "Lancement officiel de l’Observatoire du fret et de la logistique en Île-de-France",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4866,7 +5042,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1790327335000",
+      "id": "le-journal-du-grand-paris-rss-4-1790327335000",
       "title": "Une visite fluviale organisée à Paris dans le cadre du festival d’architecture Zigzag",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4890,7 +5066,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1790321242000",
+      "id": "le-journal-du-grand-paris-rss-5-1790321242000",
       "title": "Les marchés du Grand Paris – À Paris, la fin des cours d’école tout en bitume",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4916,7 +5092,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1790303318000",
+      "id": "le-journal-du-grand-paris-rss-6-1790303318000",
       "title": "Un 86e congrès de l’USH teinté d’une inhabituelle gravité",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4997,30 +5173,6 @@
       "sourceType": "Presse professionnelle",
       "region": "National",
       "url": "https://acteurspublics.fr/articles/fonction-publique-election-presidentielle-numerique/",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Politiques publiques",
-        "Collectivités",
-        "Transition"
-      ],
-      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "acteurs-publics-sitemap-4-1790332260000",
-      "title": "suppressions de postes manque de visibilite le gisp face aux inquietudes des personnels des anciens ira",
-      "source": "Acteurs Publics",
-      "sourceId": "acteurs-publics",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://acteurspublics.fr/articles/suppressions-de-postes-manque-de-visibilite-le-gisp-face-aux-inquietudes-des-personnels-des-anciens-ira/",
       "image": null,
       "date": "2026-09-25",
       "access": "Accès mixte",
@@ -6239,7 +6391,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-1-1790233200000",
+      "id": "mediatico-rss-2-1790233200000",
       "title": "Seconde main : bras de fer entre modèle solidaire et captation marchande",
       "source": "Mediatico",
       "sourceId": "mediatico",
@@ -6264,7 +6416,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1790265818000",
+      "id": "reporterre-rss-14-1790265818000",
       "title": "« Les marches pour le climat et la justice sociale doivent être aussi antiracistes et anticoloniales »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6289,7 +6441,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1790259310000",
+      "id": "reporterre-rss-15-1790259310000",
       "title": "Joe Sacco : « Il faut se confronter à la réalité de ce qu'est un génocide »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6314,7 +6466,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1790253213000",
+      "id": "reporterre-rss-16-1790253213000",
       "title": "Sécheresse : aucune amélioration attendue avant la semaine prochaine",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6340,7 +6492,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1790253182000",
+      "id": "reporterre-rss-17-1790253182000",
       "title": "Pollution : du pétrole flotte sur l'océan sur 1,58 million de km2",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6365,7 +6517,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1790252105000",
+      "id": "reporterre-rss-18-1790252105000",
       "title": "Animaux maltraités, salariés sous pression : l'envers de cliniques vétérinaires",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6390,7 +6542,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1790234753000",
+      "id": "reporterre-rss-19-1790234753000",
       "title": "« Mon rêve, c'est d'avoir un maximum de gens dans la rue » : la marche climat est de retour",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6416,7 +6568,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1790234235000",
+      "id": "reporterre-rss-20-1790234235000",
       "title": "IA : les data centers pompent l'eau, la salissent, la réchauffent... et la relâchent dans les rivières",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6442,7 +6594,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1790227800000",
+      "id": "reporterre-rss-21-1790227800000",
       "title": "Ils n'aiment ni les « terroristes écologauchistes », ni les migrants... Voici 8 candidats investis par le RN aux sénatoriales",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6722,7 +6874,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-1-1790264426000",
+      "id": "revolution-energetique-rss-2-1790264426000",
       "title": "La guerre en Iran est-elle en train d’accélérer la transition énergétique ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -6901,7 +7053,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1790274913000",
+      "id": "le-journal-du-grand-paris-rss-7-1790274913000",
       "title": "L’essentiel de la semaine du 21 septembre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6926,7 +7078,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1790272761000",
+      "id": "le-journal-du-grand-paris-rss-8-1790272761000",
       "title": "Dans le 17e, l’héritage architectural de Bernard Zehrfuss sublimé par LBBA",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6952,7 +7104,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1790270027000",
+      "id": "le-journal-du-grand-paris-rss-9-1790270027000",
       "title": "Le Conseil d’État valide le Sdrif-E et rejette tous les recours",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6972,30 +7124,6 @@
         "Immobilier"
       ],
       "summary": "La haute juridiction a écarté l'ensemble des recours en annulation contre le Schéma directeur de la région Île-de-France environnemental (Sdrif-E), voté le 11 septembre 2024 et en vigueur depuis le 12 juin 2025. La haute juridiction a écarté l'ensemble des recours en annulation c…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1790263081000",
-      "title": "À La Courneuve, Digital Reality fait découvrir les métiers des data centers",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/a-la-courneuve-digital-reality-fait-decouvrir-les-metiers-des-data-centers/",
-      "image": null,
-      "date": "2026-09-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Vendredi 18 septembre, l’entreprise Digital Realty a organisé une visite de son site de La Courneuve pour huit jeunes de l’École de la seconde chance de Pantin. L’occasion de découvrir le fonctionnement d’un data center, ses différents métiers et les enjeux liés au développement …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8119,7 +8247,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-2-1790152240000",
+      "id": "mediatico-rss-3-1790152240000",
       "title": "Présidentielle 2027 : ESS France lance sa campagne de plaidoyer",
       "source": "Mediatico",
       "sourceId": "mediatico",
@@ -8144,7 +8272,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1790179239000",
+      "id": "reporterre-rss-22-1790179239000",
       "title": "La marche climat du 26 septembre devient « statique » à Paris à cause de la venue du Pape",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8169,7 +8297,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1790175373000",
+      "id": "reporterre-rss-23-1790175373000",
       "title": "Plastique : que deviendra votre t-shirt en polyester dans 10, 15, 20 ans ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8195,7 +8323,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1790171827000",
+      "id": "reporterre-rss-24-1790171827000",
       "title": "Un maire du Marais poitevin fait campagne pour sanctionner les pro-Duplomb",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8221,7 +8349,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1790170736000",
+      "id": "reporterre-rss-25-1790170736000",
       "title": "La chute d'Orbán entraîne celle d'un puissant lobby anti-écologie à Bruxelles",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8247,7 +8375,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1790170331000",
+      "id": "reporterre-rss-26-1790170331000",
       "title": "Le sénateur Laurent Duplomb soupçonné de détournement de fonds publics",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8273,7 +8401,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1790169264000",
+      "id": "reporterre-rss-27-1790169264000",
       "title": "Greenpeace attaque EDF sur ses envois d'uranium en Russie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8297,7 +8425,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1790158025000",
+      "id": "reporterre-rss-28-1790158025000",
       "title": "Musculation : la poudre protéinée, un business néfaste à l'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8323,7 +8451,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1790151734000",
+      "id": "reporterre-rss-29-1790151734000",
       "title": "Pro-A69, pesticides et mégabassines… Ces sénateurs en pointe contre l'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8348,7 +8476,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1790146382000",
+      "id": "reporterre-rss-30-1790146382000",
       "title": "« La climatisation est révélatrice des inégalités à Mayotte »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8447,7 +8575,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-2-1790152329000",
+      "id": "revolution-energetique-rss-3-1790152329000",
       "title": "La CRE a-t-elle édulcoré l’impact financier des énergies renouvelables sur le réseau électrique français ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -9233,7 +9361,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-3-1790059500000",
+      "id": "mediatico-rss-4-1790059500000",
       "title": "Le mauvais procès qui masque un vrai chantier : la robustesse de l’ESS",
       "source": "Mediatico",
       "sourceId": "mediatico",
@@ -9259,7 +9387,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1790078952000",
+      "id": "reporterre-rss-31-1790078952000",
       "title": "La « conscription écologique » de LFI participe-t-elle à la militarisation en cours ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9285,7 +9413,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1790078400000",
+      "id": "reporterre-rss-32-1790078400000",
       "title": "Renoncer à l'objectif de 1,5 °C, le débat qui divise les climatologues",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9310,7 +9438,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1790074801000",
+      "id": "reporterre-rss-33-1790074801000",
       "title": "Le militant Thomas Brail interpellé sur le chantier de l'A412",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9336,7 +9464,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1790061375000",
+      "id": "reporterre-rss-34-1790061375000",
       "title": "« Plus vite qu'aux États-Unis et avec moins de résistance » : comment le RN pourrait détruire la science",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9360,7 +9488,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1790056800000",
+      "id": "reporterre-rss-35-1790056800000",
       "title": "Le journal « La Gueule ouverte » : notre aîné révolutionnaire et subversif",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9386,7 +9514,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1790053200000",
+      "id": "reporterre-rss-36-1790053200000",
       "title": "« Le diable se niche dans les détails » : les zones d'ombre du chantier de l'A412",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10044,7 +10172,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-4-1789974009000",
+      "id": "mediatico-rss-5-1789974009000",
       "title": "Points de fidélité dormants : la piste des 200 milliards de dollars pour financer les associations",
       "source": "Mediatico",
       "sourceId": "mediatico",
@@ -10068,7 +10196,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1790003545000",
+      "id": "reporterre-rss-37-1790003545000",
       "title": "Maisons inondées aux États-Unis : les propriétaires noirs indemnisés 6 % de moins que les blancs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10094,7 +10222,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1790002116000",
+      "id": "reporterre-rss-38-1790002116000",
       "title": "11 chercheurs du Giec épinglés pour leurs liens avec l'Arabie saoudite et le pétrolier Aramco",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10118,7 +10246,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1790000971000",
+      "id": "reporterre-rss-39-1790000971000",
       "title": "L'Autorité de sûreté nucléaire veut requalifier des tonnes d'uranium appauvri en déchets radioactifs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10142,7 +10270,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1789997449000",
+      "id": "reporterre-rss-40-1789997449000",
       "title": "Comment l'IA booste la production des géants du pétrole et du gaz",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10167,7 +10295,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1789997272000",
+      "id": "reporterre-rss-41-1789997272000",
       "title": "L'homme qui apprend aux citadins à écouter la faune sauvage",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10192,7 +10320,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1789975888000",
+      "id": "reporterre-rss-42-1789975888000",
       "title": "« Pourquoi tous ces enfants tombent-ils malades ? » : à La Rochelle, des citoyens mobilisés face aux cancers pédiatriques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10216,7 +10344,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1789974860000",
+      "id": "reporterre-rss-43-1789974860000",
       "title": "Nitrates dans l'eau : en Bretagne, plus de 700 personnes dénoncent « un passage en force »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10242,7 +10370,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1789963200000",
+      "id": "reporterre-rss-44-1789963200000",
       "title": "Le RN fait la chasse aux maires sans étiquette avant les élections sénatoriales",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10266,7 +10394,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-3-1790004061000",
+      "id": "revolution-energetique-rss-4-1790004061000",
       "title": "Hausse de la climatisation, arrêts de réacteurs nucléaires : comment le réseau électrique français a passé l’été 2026 ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10292,7 +10420,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-4-1789968284000",
+      "id": "revolution-energetique-rss-5-1789968284000",
       "title": "Cette start-up franco-italienne veut lancer une barge nucléaire de 30 MW",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10444,7 +10572,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1789882200000",
+      "id": "reporterre-rss-45-1789882200000",
       "title": "« Nos potagers, une absolue nécessité face au chaos climatique »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10470,7 +10598,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1789880400000",
+      "id": "reporterre-rss-46-1789880400000",
       "title": "« J'y ai passé 12 000 heures » : il a construit sa propre voiture à énergie solaire",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10495,7 +10623,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-5-1789889396000",
+      "id": "revolution-energetique-rss-6-1789889396000",
       "title": "Géothermie super profonde : où en est le projet de forage à 20 km de profondeur ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10520,7 +10648,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1789794000000",
+      "id": "reporterre-rss-47-1789794000000",
       "title": "« La prochaine victime, ça pourrait être moi » : la loi sur le « permis de tuer » inquiète les militants écologistes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10546,7 +10674,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1789792200000",
+      "id": "reporterre-rss-48-1789792200000",
       "title": "Un Commun accord : comment Jean-Marc Jancovici réinvente la Convention citoyenne pour le climat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10571,7 +10699,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1789790400000",
+      "id": "reporterre-rss-49-1789790400000",
       "title": "Emmanuel Macron se rend à Saint-Pierre-et-Miquelon, un archipel menacé par la submersion",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10597,7 +10725,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-6-1789829842000",
+      "id": "revolution-energetique-rss-7-1789829842000",
       "title": "Cette centrale nucléaire définitivement arrêtée depuis quatre ans est en train de redémarrer",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10623,7 +10751,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-7-1789797584000",
+      "id": "revolution-energetique-rss-8-1789797584000",
       "title": "Cette centrale photovoltaïque flottante empêche l’évaporation de deux piscines olympiques par an",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -10824,7 +10952,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-5-1789714845000",
+      "id": "mediatico-rss-6-1789714845000",
       "title": "Adopte un Bureau veut structurer la filière du mobilier reconditionné",
       "source": "Mediatico",
       "sourceId": "mediatico",
@@ -10850,7 +10978,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1789747816000",
+      "id": "reporterre-rss-50-1789747816000",
       "title": "Hausse de l'utilisation des pesticides : le grand flou du gouvernement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10874,7 +11002,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1789736400000",
+      "id": "reporterre-rss-51-1789736400000",
       "title": "De la viande de cheval dans nos assiettes : ce trafic lucratif continue",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10900,7 +11028,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1789735802000",
+      "id": "reporterre-rss-52-1789735802000",
       "title": "Nucléaire : un réacteur arrêté à cause du faible débit du Rhône",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10926,7 +11054,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1789734600000",
+      "id": "reporterre-rss-53-1789734600000",
       "title": "Pêche : l'État joue la montre et laisse les navires-usines piller le littoral",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10950,7 +11078,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1789734403000",
+      "id": "reporterre-rss-54-1789734403000",
       "title": "300 millions d'euros en moins : le budget de l'Agence de la transition écologique amputé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10976,7 +11104,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1789733238000",
+      "id": "reporterre-rss-55-1789733238000",
       "title": "Malgré une pétition à 500 000 signatures, la chasse ouvre à Fontainebleau",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11002,7 +11130,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1789725396000",
+      "id": "reporterre-rss-56-1789725396000",
       "title": "Donald Trump affaiblit la protection des espèces menacées",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11027,7 +11155,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1789713842000",
+      "id": "reporterre-rss-57-1789713842000",
       "title": "Dans les Landes, la saison des feux n'en finit pas",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11053,7 +11181,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1789707600000",
+      "id": "reporterre-rss-58-1789707600000",
       "title": "« Ils ne savent pas à qui ils ont affaire » : au cœur du combat des victimes de pesticides",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11077,7 +11205,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1789704000000",
+      "id": "reporterre-rss-59-1789704000000",
       "title": "« Tout est délirant, du début à la fin » : quand une fraude géante se retourne contre des éleveurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -11103,7 +11231,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-8-1789744288000",
+      "id": "revolution-energetique-rss-9-1789744288000",
       "title": "Le fret ferroviaire va-t-il enfin renaître de ses cendres en France ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11128,7 +11256,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-9-1789719417000",
+      "id": "revolution-energetique-rss-10-1789719417000",
       "title": "Batteries solaires : Zendure lance une vague de promotions automnales",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11521,7 +11649,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-6-1789665395000",
+      "id": "mediatico-rss-7-1789665395000",
       "title": "Cathy Mounier, RUP : « La communication ne peut pas être responsable si les modèles économiques ne le sont pas »",
       "source": "Mediatico",
       "sourceId": "mediatico",
@@ -11545,81 +11673,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1789660454000",
-      "title": "Le réalisateur et militant écologiste Marc de la Ménardière est mort",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Le-realisateur-et-militant-ecologiste-Marc-de-la-Menardiere-est-mort",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/702a2f_ac4fa3fda95a4e34a741fb4cb487baed_mv2-6c524.jpg?1789660561",
-      "date": "2026-09-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat"
-      ],
-      "summary": "La communauté des acteurs du changement est en deuil, et même un peu sous le choc. Le réalisateur et militant écologiste Marc de la Ménardière est mort à l'âge de 44 ans, des suites d'un cancer, ont annoncé plusieurs de ses proches. Ancien cadre de Danone à New York, il avait rad…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-58-1789650000000",
-      "title": "« Monsanto a construit de la fausse science pour vendre ses pesticides »",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Monsanto-a-construit-de-la-fausse-science-pour-vendre-ses-pesticides",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260411__pitton-notitle260411_npotg__v1__highres__protestagainstduplombslawonn_1_-88a48.jpg?1789650001",
-      "date": "2026-09-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat"
-      ],
-      "summary": "Fausses études, scientifiques menacés et contraints au silence... Monsanto a usé d'un lobbying intense pour maintenir la vente de son pesticide néfaste. Un scandale raconté par la journaliste Aurore Gorius dans la BD « La Bataille du glyphosate ». Il est le pesticide le plus util…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1789649055000",
-      "title": "« Google méprise les médias indépendants, rejoignez-nous ! »",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Google-meprise-les-medias-independants-rejoignez-nous",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260622__hl_vdubois_3204732__v3__highres__francemediasdemojournalistsparis_1_-0bd0b.jpg?1789649065",
-      "date": "2026-09-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Alors que Google invisibilise les médias indépendants, ceux-ci lancent un appel pour la démocratie, la liberté et l'égalité. « Nous sommes du même camp. Rejoignez-nous, relayez, donnez, abonnez-vous ! C'est l'heure », écrivent-ils dans cette tribune. Depuis cet été en France, nos…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "revolution-energetique-rss-10-1789658039000",
+      "id": "revolution-energetique-rss-11-1789658039000",
       "title": "Enterrer les lignes électriques pour les protéger des évènement climatiques : Enedis tire les leçons de la tempête Ciaran",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -11813,7 +11867,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-7-1789542035000",
+      "id": "mediatico-rss-8-1789542035000",
       "title": "20 pays créent le groupe de pays « Amis de l’ESS », sans la France !",
       "source": "Mediatico",
       "sourceId": "mediatico",
@@ -11839,7 +11893,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-11-1789574930000",
+      "id": "revolution-energetique-rss-12-1789574930000",
       "title": "Les renouvelables font baisser les prix de l’électricité mais pénalisent fortement EDF, selon la CRE",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12178,7 +12232,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-8-1789454700000",
+      "id": "mediatico-rss-9-1789454700000",
       "title": "Panorama de l’ESS 2026 : Et si l’on comptait ce que le secteur non lucratif rapporte à la société ?",
       "source": "Mediatico",
       "sourceId": "mediatico",
@@ -12204,7 +12258,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-12-1789461814000",
+      "id": "revolution-energetique-rss-13-1789461814000",
       "title": "La plus grande centrale nucléaire indienne a été piratée",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12520,30 +12574,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-9-1789376432000",
-      "title": "Fondation Croix Saint-Simon : 37 offres de reprise déposées, mais pas sur tout le périmètre",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/fondation-croix-saint-simon-37-offres-de-reprise-deposees-mais-pas-sur-tout-le-perimetre/",
-      "image": null,
-      "date": "2026-09-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "C’est un signal fort pour tout le secteur médico-social, mais aussi – et surtout – pour les 1800 professionnels des crèches et des EHPAD de la Fondation Croix Saint-Simon. À deux semaines de l’échéance cruciale du 29 septembre, qui verra le Tribunal des Activités Économiques exam…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "connaissance-des-energies-rss-6-1789344000000",
       "title": "Moins de climat, plus de stockage : les paradoxes apparents du boom américain des batteries",
       "source": "Connaissance des Énergies",
@@ -12570,7 +12600,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-13-1789279471000",
+      "id": "revolution-energetique-rss-14-1789279471000",
       "title": "La centrale nucléaire de Nogent-sur-Seine veut accueillir une paire d’EPR2",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12595,7 +12625,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-14-1789275115000",
+      "id": "revolution-energetique-rss-15-1789275115000",
       "title": "Les chantiers nucléaires se multiplient dans le monde, mais les mises en service sont extrêment lentes",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12621,7 +12651,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-15-1789224099000",
+      "id": "revolution-energetique-rss-16-1789224099000",
       "title": "Cette ancienne carrière va accueillir un parc photovoltaïque flottant",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12647,7 +12677,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-16-1789217976000",
+      "id": "revolution-energetique-rss-17-1789217976000",
       "title": "La capacité de stockage par batterie explose dans le monde, tirée par la Chine",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12673,7 +12703,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-17-1789189331000",
+      "id": "revolution-energetique-rss-18-1789189331000",
       "title": "Le prix de l’électricité a explosé au mois d’aout, mais les opérateurs de stockage se frottent les mains",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -12891,7 +12921,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-18-1789139222000",
+      "id": "revolution-energetique-rss-19-1789139222000",
       "title": "Éolien : vers une puissance installée record pour l’Europe en 2026 ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13412,7 +13442,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-19-1789052300000",
+      "id": "revolution-energetique-rss-20-1789052300000",
       "title": "Énergies renouvelables : les investissements stagnent depuis l’année dernière",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13582,7 +13612,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-20-1788940591000",
+      "id": "revolution-energetique-rss-21-1788940591000",
       "title": "Voici le premier train électrique français à batterie en service commercial",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -13907,7 +13937,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-21-1788877297000",
+      "id": "revolution-energetique-rss-22-1788877297000",
       "title": "Ce lac russe est le lieu le plus radioactif de la planète",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14295,7 +14325,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-22-1788768383000",
+      "id": "revolution-energetique-rss-23-1788768383000",
       "title": "La Norvège tient tête à l’UE en multipliant les explorations pétrolières dans l’Arctique",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14320,7 +14350,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-23-1788678075000",
+      "id": "revolution-energetique-rss-24-1788678075000",
       "title": "Voici le premier système houlomoteur certifié au monde",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14345,7 +14375,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-24-1788589652000",
+      "id": "revolution-energetique-rss-25-1788589652000",
       "title": "Ces moulins à eau fournissent de l’électricité moins chère à leur voisinage",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14540,7 +14570,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-25-1788512674000",
+      "id": "revolution-energetique-rss-26-1788512674000",
       "title": "Plus puissant, le chauffage solaire made in France de Solar Brother lancé dans une nouvelle version",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -14786,7 +14816,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-26-1788431677000",
+      "id": "revolution-energetique-rss-27-1788431677000",
       "title": "Le parc éolien Dieppe-Le Tréport produit de l’électricité depuis déjà 2 mois",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15055,7 +15085,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-27-1788362279000",
+      "id": "revolution-energetique-rss-28-1788362279000",
       "title": "Nouveau DPE : 300 000 logements ne seront plus des passoires thermiques, mais ce n’est pas une bonne nouvelle",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15252,7 +15282,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-28-1788276361000",
+      "id": "revolution-energetique-rss-29-1788276361000",
       "title": "L’effacement de la consommation électrique est extrêmement coûteux selon la Cour des comptes",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15450,7 +15480,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-29-1788154060000",
+      "id": "revolution-energetique-rss-30-1788154060000",
       "title": "Malgré la guerre, la Russie veut installer 30 GW de nouvelles capacités nucléaires",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15502,7 +15532,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-30-1788073763000",
+      "id": "revolution-energetique-rss-31-1788073763000",
       "title": "Ce vieux réacteur nucléaire français a 40 ans pour être démantelé",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15528,7 +15558,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-31-1787986500000",
+      "id": "revolution-energetique-rss-32-1787986500000",
       "title": "Le plus petit pays du monde bientôt autonome en électricité grâce au solaire",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15701,7 +15731,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-32-1787897338000",
+      "id": "revolution-energetique-rss-33-1787897338000",
       "title": "Ce parc éolien flottant est devenu un véritable refuge pour la biodiversité",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -15917,7 +15947,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-33-1787810272000",
+      "id": "revolution-energetique-rss-34-1787810272000",
       "title": "Le chantier des réacteurs nucléaires EPR2 de Gravelines peut enfin commencer",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16318,7 +16348,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-34-1787651966000",
+      "id": "revolution-energetique-rss-35-1787651966000",
       "title": "Extraire l’uranium de l’océan : bientôt une réalité à grande échelle ?",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16473,7 +16503,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-35-1787566416000",
+      "id": "revolution-energetique-rss-36-1787566416000",
       "title": "Le solaire génère 10 % de l’électricité mondiale, mais il y a un problème",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16549,7 +16579,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-36-1787468382000",
+      "id": "revolution-energetique-rss-37-1787468382000",
       "title": "Ce pays va ouvrir l’une des plus grandes mines d’uranium au monde et c’est une bonne nouvelle pour la France",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16575,7 +16605,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-37-1787379489000",
+      "id": "revolution-energetique-rss-38-1787379489000",
       "title": "Cette startup pose des panneaux solaires directement sur le sol, et ça marche !",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16670,7 +16700,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-38-1787306952000",
+      "id": "revolution-energetique-rss-39-1787306952000",
       "title": "Fou d’éoliennes, le Brésil conforte sa présence dans le Top 5 mondial avec un nouveau parc",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16771,7 +16801,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-39-1787203266000",
+      "id": "revolution-energetique-rss-40-1787203266000",
       "title": "L’Île de Sein se décarbone grâce à une seule éolienne de 250 kW",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16797,7 +16827,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-40-1787116953000",
+      "id": "revolution-energetique-rss-41-1787116953000",
       "title": "Tout juste lancée, voici la plus grande batterie d’Europe en 2026",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -16975,7 +17005,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-41-1786958987000",
+      "id": "revolution-energetique-rss-42-1786958987000",
       "title": "L’Australie construit une raffinerie à terres rares pour concurrencer la Chine",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -17053,7 +17083,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-42-1786905065000",
+      "id": "revolution-energetique-rss-43-1786905065000",
       "title": "La Hongrie coule deux péniches dans le Danube pour sauver sa centrale nucléaire",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -17079,7 +17109,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-43-1786859115000",
+      "id": "revolution-energetique-rss-44-1786859115000",
       "title": "La Chine inaugure une usine géante de batteries longue durée",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -17105,7 +17135,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-44-1786816590000",
+      "id": "revolution-energetique-rss-45-1786816590000",
       "title": "L’Espagne prolonge sa centrale nucléaire la plus puissante",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -17130,7 +17160,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-45-1786786892000",
+      "id": "revolution-energetique-rss-46-1786786892000",
       "title": "Des chercheurs parviennent à recycler 100% de l’argent contenu dans les panneaux solaires",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -17179,7 +17209,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-46-1786694651000",
+      "id": "revolution-energetique-rss-47-1786694651000",
       "title": "L’industrie éolienne européenne retrouve des couleurs",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -17276,7 +17306,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "revolution-energetique-rss-47-1786634997000",
+      "id": "revolution-energetique-rss-48-1786634997000",
       "title": "Sécheresse et méduses : la puissance nucléaire française réduite de 20%",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -17302,7 +17332,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "revolution-energetique-rss-48-1786606789000",
+      "id": "revolution-energetique-rss-49-1786606789000",
       "title": "L’opposition s’organise autour du parc éolien Bretagne Sud",
       "source": "Révolution Énergétique",
       "sourceId": "revolution-energetique",
@@ -17349,32 +17379,6 @@
         "Eau"
       ],
       "summary": "Offre d'emploi Chargé.e de projet EnR confirmé.e r.edart mer 12/08/2026 - 11:15 Dès 2016, la Région Occitanie s’est fixée comme objectif de devenir la 1ere Région à énergie positive d’Europe (REPOS). Outil de la Région Occitanie, l’AREC fabrique des solutions de transition énergé…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "revolution-energetique-rss-49-1786519938000",
-      "title": "L’aviation nucléaire a failli devenir une réalité dans les années 50",
-      "source": "Révolution Énergétique",
-      "sourceId": "revolution-energetique",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.revolution-energetique.com/actus/laviation-nucleaire-a-failli-devenir-une-realite-dans-les-annees-50/",
-      "image": "https://cdn.revolution-energetique.com/uploads/2026/08/Unes-RE-61.png",
-      "date": "2026-08-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "ENR",
-        "Stockage",
-        "Réseaux",
-        "Réglementation"
-      ],
-      "summary": "La folle course à l’innovation qui s’est tenue pendant la Guerre Froide a failli aboutir à la réalisation d’un concept aujourd’hui oublié : l’aviation à […] L’article L’aviation nucléaire a failli devenir une réalité dans les années 50 est apparu en premier sur Révolution Énergét…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
