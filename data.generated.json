@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:27:27.694Z",
+  "generatedAt": "2026-09-26T22:33:43.492Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2314,7 +2314,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790440500000",
+      "id": "enerzine-rss-0-1790460600000",
+      "title": "Les émissions passées des plus grands pollueurs continueront de réchauffer la planète pendant des décennies",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/les-emissions-passees-des-plus-grands-pollueurs-continueront-de-rechauffer-la-planete-pendant-des-decennies/195519-2026-09",
+      "image": null,
+      "date": "2026-09-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Si quelqu’un laisse le robinet ouvert dans votre salle de bains et que la maison est inondée, il est facile d’attribuer la responsabilité des dégâts. Mais pour d’autres catastrophes ( plus grandes, plus complexes et plus coûteuses ) le lien entre la cause et l’effet n’est pas aus…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790440500000",
       "title": "Démarchage téléphonique interdit, 26 000 signalements plus tard les appels abusifs persistent",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2339,7 +2364,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790395800000",
+      "id": "enerzine-rss-2-1790395800000",
       "title": "Comment des ingénieurs transforment de minuscules plis en régulateurs de trafic pour gouttes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2363,7 +2388,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790392200000",
+      "id": "enerzine-rss-3-1790392200000",
       "title": "Un capteur à base d’amidon change de couleur pour indiquer l’humidité dans les emballages alimentaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2387,7 +2412,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790447229000",
+      "id": "le-commerce-du-bois-sitemap-0-1790462006000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2413,7 +2438,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1790447229000",
+      "id": "le-commerce-du-bois-sitemap-1-1790462006000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2439,7 +2464,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1790447229000",
+      "id": "le-commerce-du-bois-sitemap-2-1790462006000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4667,7 +4692,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790374200000",
+      "id": "enerzine-rss-4-1790374200000",
       "title": "Des araignées de mer aux pattes poilues et aux yeux rouges découvertes dans la mer des Salish",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4691,7 +4716,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790367000000",
+      "id": "enerzine-rss-5-1790367000000",
       "title": "Rappel massif Volkswagen et Audi. Un boulon corrodé menace la direction",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4717,7 +4742,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790359800000",
+      "id": "enerzine-rss-6-1790359800000",
       "title": "E85, une grosse économie à la pompe, mais que risque vraiment le moteur ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4743,7 +4768,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790356200000",
+      "id": "enerzine-rss-7-1790356200000",
       "title": "Prix carburants du 25 septembre 2026. Le gazole frôle les 2,40 € et pèse sur le budget",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4768,7 +4793,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790339700000",
+      "id": "enerzine-rss-8-1790339700000",
       "title": "Google envoie 4 TPU dans l’espace pour évaluer les bases d’une future infrastructure de calcul orbital",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4792,7 +4817,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1790334600000",
+      "id": "enerzine-rss-9-1790334600000",
       "title": "Lidl Scan & Go arrive en France où comment scanner ses courses et payer plus vite",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4813,32 +4838,6 @@
         "Économie du bâtiment"
       ],
       "summary": "Lidl lance en France Scan & Go, une fonction de self-scanning intégrée à l’application Lidl Plus. Disponible dans 40 supermarchés lors de son lancement, le service promet un passage en caisse plus rapide, à condition de se trouver dans un magasin participant et de suivre un parco…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790330700000",
-      "title": "Grand Paris Express. Lignes 16 et 17 repoussées d’un an, l’est francilien attendra encore",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/grand-paris-express-retard-lignes-16-17/195639-2026-09",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "La Société des grands projets a revu le calendrier des lignes 16 et 17 du Grand Paris Express à l’issue de son conseil de surveillance du 24 septembre. Les premières mises en service, auparavant prévues en 2027, sont désormais annoncées pour l’automne 2028. Les échéances inscrite…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7687,29 +7686,6 @@
     },
     {
       "id": "batiweb-rss-17-1790204700000",
-      "title": "Elegant, la fenêtre qui redéfinit les standards du design et de la performance",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/elegant-fenetre-design-performance-49292",
-      "image": "https://img.batiweb.com/repo-images/publi/49292/deceuninck-09-25-une.jpg",
-      "date": "2026-09-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recyclés dans ses profilés. Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recy…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-18-1790204700000",
       "title": "Bosch Home Comfort accélère en France et vise le Top 3 des pompes à chaleur",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7730,6 +7706,29 @@
         "Économie du bâtiment"
       ],
       "summary": "Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle sur le marché français du confort climatique. Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle su…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-18-1790204700000",
+      "title": "Elegant, la fenêtre qui redéfinit les standards du design et de la performance",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/elegant-fenetre-design-performance-49292",
+      "image": "https://img.batiweb.com/repo-images/publi/49292/deceuninck-09-25-une.jpg",
+      "date": "2026-09-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recyclés dans ses profilés. Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recy…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
