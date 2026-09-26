@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-26T09:47:05.426Z",
+  "generatedAt": "2026-09-26T14:15:47.276Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2336,7 +2336,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790416005000",
+      "id": "le-commerce-du-bois-sitemap-0-1790432130000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2362,7 +2362,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1790416005000",
+      "id": "le-commerce-du-bois-sitemap-1-1790432130000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2388,7 +2388,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1790416005000",
+      "id": "le-commerce-du-bois-sitemap-2-1790432130000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2902,7 +2902,7 @@ window.BATIVEILLE_DATA = {
         "Énergie",
         "Eau"
       ],
-      "summary": "Deux mois après les incendies monstres de juillet dernier, les agents de l'Office des forêts abattent les arbres dangereux ou condamnés, valorisent ceux qui peuvent l'être et préparent l'avenir en misant sur la régénération naturelle. Deux mois après les incendies monstres de jui…",
+      "summary": "Deux mois après les incendies monstres de juillet dernier, les agents de l'Office national des forêts abattent les arbres dangereux ou condamnés, valorisent ceux qui peuvent l'être et préparent l'avenir en misant sur la régénération naturelle. Deux mois après les incendies monstr…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3934,7 +3934,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "reporterre-rss-3-1790349399000",
-      "title": "Paquebots, jets privés... Comment l'État garantit des décennies d'émissions carbonées",
+      "title": "Jets privés, paquebots... L'État garantit des milliards d'euros pour des projets climaticides",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -5576,101 +5576,6 @@ window.BATIVEILLE_DATA = {
         "Biosourcé"
       ],
       "summary": "Ciranova lance en France une gamme de produits pour la finition et la protection du bois destinée aux menuisiers et ébénistes. Ciranova lance en France une gamme de produits pour la finition et la protection du bois destinée aux menuisiers et ébénistes. Ciranova lance une gamme d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-13-1790266007000",
-      "title": "Ville régénérative : un nouveau modèle urbain avec des bénéfices pour la nature",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/ville-regenerative-urbanisme-ecosystemes-zan-maire-deputes-bati-existant-energie-locale-bas-carbone-48562.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48562_large.jpg",
-      "date": "2026-09-24",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "Au-delà de la ville durable, la ville régénérative ambitionne notamment de restaurer activement les écosystèmes, de valoriser le bâti existant et les ressources locales pour contribuer positivement au vivant. Au-delà de la ville durable, la ville régénérative ambitionne notamment…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-14-1790248508000",
-      "title": "Pesticides : l'Europe prête à ouvrir les vannes à l'agrochimie ?",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/omnibus-x-pesticides-autorisation-dereglementation-48560.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48560_large.jpg",
-      "date": "2026-09-24",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Par souci de simplification, la Commission européenne a proposé d'alléger les procédures d'autorisation des pesticides. Au Parlement, la droite et l'extrême droite, majoritaires, veulent aller plus loin et faire sauter les derniers verrous. Par souci de simplification, la Commiss…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-15-1790247582000",
-      "title": "Projet Rivières : pour une gouvernance transfrontalière de trois cours d'eau",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/projet-interreg-rivieres-france-luxembourg-gouvernance-transfrontaliere-48558.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48558_large.jpg",
-      "date": "2026-09-24",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "« Le projet Rivières porte une conviction simple : les défis environnementaux qui concernent notre territoire ne s'arrêtent pas aux frontières. Il est donc naturel que les réponses que nous leur apportons soient construites ensemble », a assuré Ca... « Le projet Rivières porte un…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-16-1790247406000",
-      "title": "Réemploi des emballages : Léko estime que son expérimentation a atteint les objectifs fixés",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/reemploi-leko-experimentation-extension-48557.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48557_large.jpg",
-      "date": "2026-09-24",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Réemploi"
-      ],
-      "summary": "Plus de 400 magasins ont participé à l'expérimentation « En route pour le réemploi ! », se satisfait Léko. L'éco-organisme reste convaincu qu'il faut partir de l'existant pour déployer la consigne pour réemploi à l'échelle nationale. Plus de 400 magasins ont participé à l'expérim…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7822,30 +7727,6 @@ window.BATIVEILLE_DATA = {
         "Marché"
       ],
       "summary": "À l’occasion de Batimat 2026, VEKA présentera plusieurs évolutions de ses systèmes de menuiseries. À l’occasion de Batimat 2026, VEKA présentera plusieurs évolutions de ses systèmes de menuiseries. Sur Batimat, VEKA présentera des menuiseries axées sur la performance",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-17-1790200860000",
-      "title": "Pesticides : Pollinis appelle à protéger les missions de l'Anses",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/pesticides-autorisations-mise-sur-marche-anses-pollinis-rapport-independance-48556.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48556_large.jpg",
-      "date": "2026-09-23",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Économie du bâtiment"
-      ],
-      "summary": "Pollinis déplore une baisse du budget de l'agence nationale de sécurité sanitaire ainsi que des évolutions dans son fonctionnement qui fragilisent la bonne conduite de sa mission d'évaluation et d'autorisation de mise sur le marché des pesticides. Pollinis déplore une baisse du b…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11973,7 +11854,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -18235,7 +18116,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -18406,7 +18287,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -18840,7 +18721,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
