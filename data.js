@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-26T14:15:47.276Z",
+  "generatedAt": "2026-09-26T18:27:27.694Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2263,6 +2263,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "vert-rss-0-1790440641000",
+      "title": "Marche pour le climat : à Fontainebleau comme dans plus de 260 villes, «l’été a provoqué une grosse envie d’agir»",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/rapports-de-force/marche-pour-le-climat-a-fontainebleau-comme-dans-plus-de-260-villes-lete-a-provoque-une-grosse-envie-dagir/",
+      "image": null,
+      "date": "2026-09-26",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Ce samedi 26 septembre, des manifestant·es se sont rassemblé·es dans plus de 260 villes de France à l’appel du mouvement citoyen pour le climat, le vivant et la justice sociale. Vert s’est rendu à Fontainebleau, où l’été caniculaire et l’incendie historique de la forêt a poussé d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-0-1790404664000",
       "title": "Les groupes électrogènes vont-ils bientôt disparaître grâce aux batteries mobiles ?",
       "source": "Révolution Énergétique",
@@ -2288,7 +2314,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790395800000",
+      "id": "enerzine-rss-0-1790440500000",
+      "title": "Démarchage téléphonique interdit, 26 000 signalements plus tard les appels abusifs persistent",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/demarchage-telephonique-interdit-signalements-signalconso/195716-2026-09",
+      "image": null,
+      "date": "2026-09-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "Le démarchage téléphonique non sollicité est interdit depuis le 11 août 2026. Pourtant, un mois et demi après l’entrée en vigueur des nouvelles règles, 26 000 signalements ont été enregistrés sur SignalConso. Ce volume montre que les plaintes pour démarchage illicite persistent, …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790395800000",
       "title": "Comment des ingénieurs transforment de minuscules plis en régulateurs de trafic pour gouttes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2312,7 +2363,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790392200000",
+      "id": "enerzine-rss-2-1790392200000",
       "title": "Un capteur à base d’amidon change de couleur pour indiquer l’humidité dans les emballages alimentaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2336,7 +2387,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790432130000",
+      "id": "le-commerce-du-bois-sitemap-0-1790447229000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2362,7 +2413,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1790432130000",
+      "id": "le-commerce-du-bois-sitemap-1-1790447229000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2388,7 +2439,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1790432130000",
+      "id": "le-commerce-du-bois-sitemap-2-1790447229000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2762,32 +2813,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-0-1790344800000",
-      "title": "Leborgne nomme son nouveau directeur général",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/nomination/thibaut-natoli-directeur-general-leborgne-49321",
-      "image": "https://img.batiweb.com/repo-images/article/49321/thibautnatoli.jpg",
-      "date": "2026-09-25",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour mission de mettre en œuvre une feuille de route mêlant optimisations et innovations. Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour m…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-1-1790344800000",
       "title": "Le négoce décoration résiste au 1er semestre 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2811,7 +2836,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-2-1790344800000",
+      "id": "batiweb-rss-1-1790344800000",
       "title": "Forte croissance pour Hexaôm au 1er semestre",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2830,6 +2855,32 @@ window.BATIVEILLE_DATA = {
         "Marché"
       ],
       "summary": "Hexaôm affiche des résultats en nette progression au premier semestre 2026, avec une croissance à deux chiffres de son activité et une nette amélioration de sa rentabilité. Hexaôm affiche des résultats en nette progression au premier semestre 2026, avec une croissance à deux chif…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-2-1790344800000",
+      "title": "Leborgne nomme son nouveau directeur général",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/nomination/thibaut-natoli-directeur-general-leborgne-49321",
+      "image": "https://img.batiweb.com/repo-images/article/49321/thibautnatoli.jpg",
+      "date": "2026-09-25",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour mission de mettre en œuvre une feuille de route mêlant optimisations et innovations. Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour m…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4210,7 +4261,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1790330069000",
+      "id": "vert-rss-1-1790330069000",
       "title": "Après deux premières années chaotiques, l’EPR de Flamanville va être mis à l’arrêt pendant près d’un an",
       "source": "Vert",
       "sourceId": "vert",
@@ -4235,7 +4286,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1790327187000",
+      "id": "vert-rss-2-1790327187000",
       "title": "Intoxications, cancers… Le parcours du combattant des pompiers pour faire reconnaitre leurs maladies professionnelles",
       "source": "Vert",
       "sourceId": "vert",
@@ -4260,7 +4311,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1790308800000",
+      "id": "vert-rss-3-1790308800000",
       "title": "De Tours à La Rochelle, Léa Navarro vogue pour la science et contre les déchets plastiques : «On a besoin de rêver pour pouvoir lutter»",
       "source": "Vert",
       "sourceId": "vert",
@@ -4616,7 +4667,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790374200000",
+      "id": "enerzine-rss-3-1790374200000",
       "title": "Des araignées de mer aux pattes poilues et aux yeux rouges découvertes dans la mer des Salish",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4640,7 +4691,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790367000000",
+      "id": "enerzine-rss-4-1790367000000",
       "title": "Rappel massif Volkswagen et Audi. Un boulon corrodé menace la direction",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4666,7 +4717,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790359800000",
+      "id": "enerzine-rss-5-1790359800000",
       "title": "E85, une grosse économie à la pompe, mais que risque vraiment le moteur ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4692,7 +4743,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790356200000",
+      "id": "enerzine-rss-6-1790356200000",
       "title": "Prix carburants du 25 septembre 2026. Le gazole frôle les 2,40 € et pèse sur le budget",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4717,7 +4768,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790339700000",
+      "id": "enerzine-rss-7-1790339700000",
       "title": "Google envoie 4 TPU dans l’espace pour évaluer les bases d’une future infrastructure de calcul orbital",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4741,7 +4792,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790334600000",
+      "id": "enerzine-rss-8-1790334600000",
       "title": "Lidl Scan & Go arrive en France où comment scanner ses courses et payer plus vite",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4766,7 +4817,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1790330700000",
+      "id": "enerzine-rss-9-1790330700000",
       "title": "Grand Paris Express. Lignes 16 et 17 repoussées d’un an, l’est francilien attendra encore",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4788,31 +4839,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "La Société des grands projets a revu le calendrier des lignes 16 et 17 du Grand Paris Express à l’issue de son conseil de surveillance du 24 septembre. Les premières mises en service, auparavant prévues en 2027, sont désormais annoncées pour l’automne 2028. Les échéances inscrite…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790326200000",
-      "title": "Covid-19 en septembre 2026. Une reprise limitée qui place la rentrée sous surveillance",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/covid-19-reprise-rentree-septembre-2026/195611-2026-09",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Les indicateurs Covid repartent légèrement à la hausse en cette fin septembre 2026, portés par un rebond des consultations et des passages aux urgences. Une dynamique qui replace la vigilance sanitaire au cœur d’une rentrée marquée par la reprise des activités scolaires, universi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6524,7 +6550,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1790240373000",
+      "id": "vert-rss-4-1790240373000",
       "title": "«On ne sera jamais 100% indépendants» : pourquoi la «souveraineté numérique» promise grâce aux data centers est un mirage",
       "source": "Vert",
       "sourceId": "vert",
@@ -6548,7 +6574,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1790222400000",
+      "id": "vert-rss-5-1790222400000",
       "title": "Eau souillée, poissons intoxiqués… En Haute-Corse, cette mine d’arsenic a fermé il y a 85 ans, mais la pollution demeure",
       "source": "Vert",
       "sourceId": "vert",
@@ -7661,6 +7687,29 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-17-1790204700000",
+      "title": "Elegant, la fenêtre qui redéfinit les standards du design et de la performance",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/elegant-fenetre-design-performance-49292",
+      "image": "https://img.batiweb.com/repo-images/publi/49292/deceuninck-09-25-une.jpg",
+      "date": "2026-09-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recyclés dans ses profilés. Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recy…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-18-1790204700000",
       "title": "Bosch Home Comfort accélère en France et vise le Top 3 des pompes à chaleur",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7681,29 +7730,6 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle sur le marché français du confort climatique. Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle su…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-18-1790204700000",
-      "title": "Elegant, la fenêtre qui redéfinit les standards du design et de la performance",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/elegant-fenetre-design-performance-49292",
-      "image": "https://img.batiweb.com/repo-images/publi/49292/deceuninck-09-25-une.jpg",
-      "date": "2026-09-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recyclés dans ses profilés. Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recy…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8383,7 +8409,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1790171527000",
+      "id": "vert-rss-6-1790171527000",
       "title": "À cause de la venue du pape, la marche climat du 26 septembre remplacée par un rassemblement statique à Paris",
       "source": "Vert",
       "sourceId": "vert",
@@ -8407,7 +8433,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1790157626000",
+      "id": "vert-rss-7-1790157626000",
       "title": "Agriculture biologique : la consommation et la production en hausse… mais encore loin des objectifs",
       "source": "Vert",
       "sourceId": "vert",
@@ -8432,7 +8458,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1790153029000",
+      "id": "vert-rss-8-1790153029000",
       "title": "À Rennes, un pesticide toxique interdit depuis 20 ans détecté dans l’air : «Dans le centre-ville, on est autant exposé qu’à côté des parcelles»",
       "source": "Vert",
       "sourceId": "vert",
@@ -9421,7 +9447,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1790071000000",
+      "id": "vert-rss-9-1790071000000",
       "title": "«On veut des plantations viables pour les prochaines générations» : en Provence, le pari de la pistache",
       "source": "Vert",
       "sourceId": "vert",
@@ -9442,32 +9468,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Peu gourmande en eau, résistante aux fortes chaleurs… la pistache a tout pour plaire face au réchauffement climatique. Dans le sud de la France, des agriculteur·ices ont tenté le coup il y a six ans et célèbrent leur première récolte commercialisable cette année. On vous raconte.…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "vert-rss-9-1790049600000",
-      "title": "Dans la Manche, les pêcheurs français font monter la pression pour interdire les plus gros chalutiers de la bande côtière",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/agriculture/dans-la-manche-les-pecheurs-francais-font-monter-la-pression-pour-interdire-les-plus-gros-chalutiers-de-la-bande-cotiere/",
-      "image": null,
-      "date": "2026-09-22",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Début septembre, la commission Manche-mer du Nord du Comité national des pêches a voté pour l’exclusion des navires de plus de 25 mètres des eaux territoriales françaises afin de préserver la ressource en poissons et l’économie locale. La ministre de la mer, Catherine Chabaud, es…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11854,7 +11854,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -18116,7 +18116,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -18287,7 +18287,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -18721,7 +18721,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
