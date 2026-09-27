@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-26T22:33:43.492Z",
+  "generatedAt": "2026-09-27T04:30:15.976Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,134 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1790482200000",
+      "title": "L’armure bactérienne de la peau des grenouilles aide à les protéger d’une maladie fongique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/larmure-bacterienne-de-la-peau-des-grenouilles-aide-a-les-proteger-dune-maladie-fongique/195528-2026-09",
+      "image": null,
+      "date": "2026-09-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Les bactéries qui vivent sur la peau des grenouilles pourraient jouer un rôle vital en protégeant l’animal d’une maladie fongique mortelle. Une équipe de chercheurs dirigée par des scientifiques de Penn State a découvert que les bactéries cutanées naturelles des grenouilles peuve…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790478600000",
+      "title": "Le pâturage des moutons menacerait davantage les pollinisateurs sauvages d’Écosse que les abeilles mellifères",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/le-paturage-des-moutons-pourrait-menacer-davantage-les-pollinisateurs-sauvages-decosse-que-les-abeilles-melliferes/195524-2026-09",
+      "image": null,
+      "date": "2026-09-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Le pâturage des moutons, plutôt que les abeilles mellifères, pourrait constituer la plus grande menace pour les pollinisateurs sauvages des landes écossaises, selon une nouvelle étude menée par l’université de Bristol. Les travaux, publiés dans le Journal of Applied Ecology de la…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1790483396000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1790483396000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1790483396000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "mediatico-rss-0-1790409600000",
       "title": "[Podcast] Ma vie de paillettes",
       "source": "Mediatico",
@@ -2314,7 +2442,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790460600000",
+      "id": "enerzine-rss-2-1790460600000",
       "title": "Les émissions passées des plus grands pollueurs continueront de réchauffer la planète pendant des décennies",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2339,7 +2467,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790440500000",
+      "id": "enerzine-rss-3-1790440500000",
       "title": "Démarchage téléphonique interdit, 26 000 signalements plus tard les appels abusifs persistent",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2364,7 +2492,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790395800000",
+      "id": "enerzine-rss-4-1790395800000",
       "title": "Comment des ingénieurs transforment de minuscules plis en régulateurs de trafic pour gouttes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2388,7 +2516,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790392200000",
+      "id": "enerzine-rss-5-1790392200000",
       "title": "Un capteur à base d’amidon change de couleur pour indiquer l’humidité dans les emballages alimentaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2410,84 +2538,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Des chercheurs brésiliens ont mis au point un capteur biodégradable à base d’amidon qui change de couleur lorsque l’humidité pénètre dans les emballages alimentaires. Grâce à l’ajout de chlorure de cobalt, ce dispositif intelligent passe du bleu au rose selon que le taux d’humidi…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1790462006000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-26",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1790462006000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-26",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1790462006000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-26",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1790403671000",
@@ -2838,6 +2888,32 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-0-1790344800000",
+      "title": "Leborgne nomme son nouveau directeur général",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/nomination/thibaut-natoli-directeur-general-leborgne-49321",
+      "image": "https://img.batiweb.com/repo-images/article/49321/thibautnatoli.jpg",
+      "date": "2026-09-25",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour mission de mettre en œuvre une feuille de route mêlant optimisations et innovations. Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour m…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-1-1790344800000",
       "title": "Le négoce décoration résiste au 1er semestre 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2861,7 +2937,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-1-1790344800000",
+      "id": "batiweb-rss-2-1790344800000",
       "title": "Forte croissance pour Hexaôm au 1er semestre",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2880,32 +2956,6 @@ window.BATIVEILLE_DATA = {
         "Marché"
       ],
       "summary": "Hexaôm affiche des résultats en nette progression au premier semestre 2026, avec une croissance à deux chiffres de son activité et une nette amélioration de sa rentabilité. Hexaôm affiche des résultats en nette progression au premier semestre 2026, avec une croissance à deux chif…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-2-1790344800000",
-      "title": "Leborgne nomme son nouveau directeur général",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/nomination/thibaut-natoli-directeur-general-leborgne-49321",
-      "image": "https://img.batiweb.com/repo-images/article/49321/thibautnatoli.jpg",
-      "date": "2026-09-25",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour mission de mettre en œuvre une feuille de route mêlant optimisations et innovations. Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour m…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4692,7 +4742,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790374200000",
+      "id": "enerzine-rss-6-1790374200000",
       "title": "Des araignées de mer aux pattes poilues et aux yeux rouges découvertes dans la mer des Salish",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4716,7 +4766,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790367000000",
+      "id": "enerzine-rss-7-1790367000000",
       "title": "Rappel massif Volkswagen et Audi. Un boulon corrodé menace la direction",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4742,7 +4792,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790359800000",
+      "id": "enerzine-rss-8-1790359800000",
       "title": "E85, une grosse économie à la pompe, mais que risque vraiment le moteur ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4768,7 +4818,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790356200000",
+      "id": "enerzine-rss-9-1790356200000",
       "title": "Prix carburants du 25 septembre 2026. Le gazole frôle les 2,40 € et pèse sur le budget",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4789,55 +4839,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Le gazole s’établit à 2,399 € le litre ce vendredi 25 septembre 2026, à un niveau qui rapproche le diesel de ses plus hauts récents. Pour les ménages comme pour les transporteurs, la note à la pompe s’alourdit alors que la hausse atteint 17 centimes en un mois. Dès la mise à jour…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790339700000",
-      "title": "Google envoie 4 TPU dans l’espace pour évaluer les bases d’une future infrastructure de calcul orbital",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/project-suncatcher-google-puces-ia-espace/195649-2026-09",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Google prépare un premier essai en orbite de ses accélérateurs d’intelligence artificielle. L’objectif ne relève pas encore d’un data center spatial opérationnel. Il s’agit surtout de vérifier si les composants nécessaires à une infrastructure de calcul machine peuvent fonctionne…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790334600000",
-      "title": "Lidl Scan & Go arrive en France où comment scanner ses courses et payer plus vite",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/lidl-scan-go-france/195645-2026-09",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "Lidl lance en France Scan & Go, une fonction de self-scanning intégrée à l’application Lidl Plus. Disponible dans 40 supermarchés lors de son lancement, le service promet un passage en caisse plus rapide, à condition de se trouver dans un magasin participant et de suivre un parco…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7686,6 +7687,29 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-17-1790204700000",
+      "title": "Elegant, la fenêtre qui redéfinit les standards du design et de la performance",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/elegant-fenetre-design-performance-49292",
+      "image": "https://img.batiweb.com/repo-images/publi/49292/deceuninck-09-25-une.jpg",
+      "date": "2026-09-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recyclés dans ses profilés. Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recy…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-18-1790204700000",
       "title": "Bosch Home Comfort accélère en France et vise le Top 3 des pompes à chaleur",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7706,29 +7730,6 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle sur le marché français du confort climatique. Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle su…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-18-1790204700000",
-      "title": "Elegant, la fenêtre qui redéfinit les standards du design et de la performance",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/elegant-fenetre-design-performance-49292",
-      "image": "https://img.batiweb.com/repo-images/publi/49292/deceuninck-09-25-une.jpg",
-      "date": "2026-09-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recyclés dans ses profilés. Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recy…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
