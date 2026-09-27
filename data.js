@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-27T18:57:59.200Z",
+  "generatedAt": "2026-09-27T22:55:18.577Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2260,7 +2260,56 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790482200000",
+      "id": "enerzine-rss-0-1790547000000",
+      "title": "Des pixels OLED minuscules peuvent être fabriqués comme des micropuces",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-pixels-oled-minuscules-peuvent-etre-fabriques-comme-des-micropuces/195704-2026-09",
+      "image": null,
+      "date": "2026-09-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Les écrans sont de plus en plus petits et de plus en plus nets. On le constate par exemple dans les lunettes de réalité augmentée ou dans les viseurs électroniques des appareils photo, dont certains ont une diagonale d’écran inférieure à un centimètre. Toutefois, plus les pixels …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790538300000",
+      "title": "Leapmotor B05, la compacte électrique chinoise dès 25 900 € en France",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/leapmotor-b05-prix-autonomie-fiche-technique/195735-2026-09",
+      "image": null,
+      "date": "2026-09-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "La Leapmotor B05 démarre à 25 900 € en France dans sa version Life Pro. La compacte électrique chinoise veut bousculer les références établies avec un tarif contenu, deux batteries et une puissance annoncée de 218 ch. 📌 L’essentiel en 3 points Le constructeur chinois commerciali…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1790482200000",
       "title": "L’armure bactérienne de la peau des grenouilles aide à les protéger d’une maladie fongique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2285,7 +2334,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790478600000",
+      "id": "enerzine-rss-3-1790478600000",
       "title": "Le pâturage des moutons menacerait davantage les pollinisateurs sauvages d’Écosse que les abeilles mellifères",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2359,7 +2408,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790535457000",
+      "id": "le-commerce-du-bois-sitemap-0-1790549697000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2385,7 +2434,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1790535457000",
+      "id": "le-commerce-du-bois-sitemap-1-1790549697000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2411,7 +2460,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1790535457000",
+      "id": "le-commerce-du-bois-sitemap-2-1790549697000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2433,6 +2482,83 @@ window.BATIVEILLE_DATA = {
         "Biosourcé"
       ],
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1790541185000",
+      "title": "TotalEnergies finance 60 projets agricoles en Seine-et-Marne",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/totalenergies-finance-60-projets-agricoles-en-seine-et-marne/",
+      "image": null,
+      "date": "2026-09-27",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Annoncé le 25 septembre à Dammarie-les-Lys, lors du 64e Congrès des maires et présidents d'intercommunalité de Seine-et-Marne, un partenariat conclu par TotalEnergies avec la Chambre d'agriculture de région Île-de-France va mobiliser 500 000 euros de subventions pour l'installati…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1790536453000",
+      "title": "Au congrès des maires de Seine-et-Marne, hommage aux pompiers et réquisitoire contre l’État",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/au-congres-des-maires-de-seine-et-marne-hommage-aux-pompiers-et-requisitoire-contre-letat/",
+      "image": null,
+      "date": "2026-09-27",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Réunis vendredi 25 septembre à l'Espace Pierre-Bachelet de Dammarie-lès-Lys pour leur 64e congrès, près de 1 500 élus seine-et-marnais ont entendu David Lisnard, président de l'AMF, dresser un nouveau réquisitoire contre un État qui bride les communes. Puis un vibrant hommage aux…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "acteurs-publics-sitemap-1-1790535600000",
+      "title": "senatoriales le rn fait une entree au senat sans bouleverser les equilibres politiques",
+      "source": "Acteurs Publics",
+      "sourceId": "acteurs-publics",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://acteurspublics.fr/articles/senatoriales-le-rn-fait-une-entree-au-senat-sans-bouleverser-les-equilibres-politiques/",
+      "image": null,
+      "date": "2026-09-27",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Politiques publiques",
+        "Collectivités",
+        "Transition",
+        "Réglementation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -2590,7 +2716,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790460600000",
+      "id": "enerzine-rss-4-1790460600000",
       "title": "Les émissions passées des plus grands pollueurs continueront de réchauffer la planète pendant des décennies",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2615,7 +2741,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790440500000",
+      "id": "enerzine-rss-5-1790440500000",
       "title": "Démarchage téléphonique interdit, 26 000 signalements plus tard les appels abusifs persistent",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2640,7 +2766,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790395800000",
+      "id": "enerzine-rss-6-1790395800000",
       "title": "Comment des ingénieurs transforment de minuscules plis en régulateurs de trafic pour gouttes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2664,7 +2790,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790392200000",
+      "id": "enerzine-rss-7-1790392200000",
       "title": "Un capteur à base d’amidon change de couleur pour indiquer l’humidité dans les emballages alimentaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2688,7 +2814,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1790403671000",
+      "id": "le-journal-du-grand-paris-rss-2-1790403671000",
       "title": "Jean-Marie Moreau rejoint Sinoia au poste de directeur commercial",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2713,7 +2839,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-4-1790414280000",
+      "id": "acteurs-publics-sitemap-5-1790414280000",
       "title": "suppressions de postes manque de visibilite le gisp face aux inquietudes des personnels des anciens ira",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -4584,7 +4710,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790374200000",
+      "id": "enerzine-rss-8-1790374200000",
       "title": "Des araignées de mer aux pattes poilues et aux yeux rouges découvertes dans la mer des Salish",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4608,7 +4734,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790367000000",
+      "id": "enerzine-rss-9-1790367000000",
       "title": "Rappel massif Volkswagen et Audi. Un boulon corrodé menace la direction",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4630,57 +4756,6 @@ window.BATIVEILLE_DATA = {
         "RE2020"
       ],
       "summary": "Un boulon de fixation susceptible de se corroder force Volkswagen et Audi à rappeler environ 2,86 millions de véhicules dans le monde. En cas de rupture, cette fixation située sur la crémaillère de direction peut, dans le pire des cas, entraîner une perte de la capacité à diriger…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790359800000",
-      "title": "E85, une grosse économie à la pompe, mais que risque vraiment le moteur ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/e85-ou-sp95-comparatif-prix-consommation/195666-2026-09",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "À environ 0,90 euro le litre face à plus de 2,17 euros pour le SP95-E10, le superéthanol s’impose comme une bouffée d’air pour les budgets étranglés. Mais la question que tout le monde se pose : Est ce que la pose d’un boîtier E85 tient toutes ses promesses sans fragiliser la méc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790356200000",
-      "title": "Prix carburants du 25 septembre 2026. Le gazole frôle les 2,40 € et pèse sur le budget",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/prix-carburants-septembre-2026-gazole-sp95-e10-hausse/195657-2026-09",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Le gazole s’établit à 2,399 € le litre ce vendredi 25 septembre 2026, à un niveau qui rapproche le diesel de ses plus hauts récents. Pour les ménages comme pour les transporteurs, la note à la pompe s’alourdit alors que la hausse atteint 17 centimes en un mois. Dès la mise à jour…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4834,7 +4909,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1790343321000",
+      "id": "le-journal-du-grand-paris-rss-3-1790343321000",
       "title": "Mondial Relay étend son réseau de lockers au pied des HLM franciliens",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4860,7 +4935,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1790331198000",
+      "id": "le-journal-du-grand-paris-rss-4-1790331198000",
       "title": "A Fontainebleau, sous la cendre des pins, la forêt prépare déjà son retour",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4885,7 +4960,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1790327824000",
+      "id": "le-journal-du-grand-paris-rss-5-1790327824000",
       "title": "Lancement officiel de l’Observatoire du fret et de la logistique en Île-de-France",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4910,7 +4985,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1790327335000",
+      "id": "le-journal-du-grand-paris-rss-6-1790327335000",
       "title": "Une visite fluviale organisée à Paris dans le cadre du festival d’architecture Zigzag",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4934,7 +5009,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1790321242000",
+      "id": "le-journal-du-grand-paris-rss-7-1790321242000",
       "title": "Les marchés du Grand Paris – À Paris, la fin des cours d’école tout en bitume",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4960,7 +5035,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1790303318000",
+      "id": "le-journal-du-grand-paris-rss-8-1790303318000",
       "title": "Un 86e congrès de l’USH teinté d’une inhabituelle gravité",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4986,7 +5061,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-1-1790338500000",
+      "id": "acteurs-publics-sitemap-2-1790338500000",
       "title": "a la justice le choc numerique se heurte aux outils defaillants et au manque deffectifs",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5010,7 +5085,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-2-1790340600000",
+      "id": "acteurs-publics-sitemap-3-1790340600000",
       "title": "doter les elus locaux dune carte bancaire une proposition qui risque de fragiliser le controle comptable",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5034,7 +5109,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-3-1790330640000",
+      "id": "acteurs-publics-sitemap-4-1790330640000",
       "title": "fonction publique election presidentielle numerique",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5058,7 +5133,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-5-1790328300000",
+      "id": "acteurs-publics-sitemap-6-1790328300000",
       "title": "a lelysee lessor des contractuels bouscule le modele rh de la presidence",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5083,7 +5158,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-6-1790325000000",
+      "id": "acteurs-publics-sitemap-7-1790325000000",
       "title": "les demandes de protection fonctionnelle a leducation nationale ont bondi de 36 en un an",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5108,7 +5183,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-7-1790334780000",
+      "id": "acteurs-publics-sitemap-8-1790334780000",
       "title": "commissaires handicap recrutement des professeurs quoi de neuf au jo cette semaine",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5132,7 +5207,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-15-1790359920000",
+      "id": "acteurs-publics-sitemap-16-1790359920000",
       "title": "pres dun fonctionnaire territorial sur 10 a eu une promotion de categorie hierarchique entre 2014 et 2024",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6826,7 +6901,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1790274913000",
+      "id": "le-journal-du-grand-paris-rss-9-1790274913000",
       "title": "L’essentiel de la semaine du 21 septembre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6851,57 +6926,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1790272761000",
-      "title": "Dans le 17e, l’héritage architectural de Bernard Zehrfuss sublimé par LBBA",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/dans-le-17e-lheritage-architectural-de-bernard-zehrfuss-sublime-par-lbba/",
-      "image": null,
-      "date": "2026-09-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "RE2020",
-        "Eau"
-      ],
-      "summary": "Propriété du Crédit mutuel, un immeuble de bureaux de la plaine Monceau (17e arr.) conçu dans les années 1960 par Bernard Zehrfuss, figure majeure de l'architecture des Trente Glorieuses, vient de faire l'objet d'une rénovation portée en conception-réalisation avec Legendre Const…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1790270027000",
-      "title": "Le Conseil d’État valide le Sdrif-E et rejette tous les recours",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/le-conseil-detat-valide-le-sdrif-e-et-rejette-tous-les-recours/",
-      "image": null,
-      "date": "2026-09-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "La haute juridiction a écarté l'ensemble des recours en annulation contre le Schéma directeur de la région Île-de-France environnemental (Sdrif-E), voté le 11 septembre 2024 et en vigueur depuis le 12 juin 2025. La haute juridiction a écarté l'ensemble des recours en annulation c…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "acteurs-publics-sitemap-8-1790266500000",
+      "id": "acteurs-publics-sitemap-9-1790266500000",
       "title": "salesforce reunit les acteurs publics autour de lia et de la transformation numerique",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6925,7 +6950,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-9-1790256180000",
+      "id": "acteurs-publics-sitemap-10-1790256180000",
       "title": "fonction publique les syndicats sattendent a une mobilisation massive le 29 septembre",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6949,7 +6974,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-10-1790255760000",
+      "id": "acteurs-publics-sitemap-11-1790255760000",
       "title": "un vrai choc demographique bercy cherche a anticiper les departs a la retraite de ses cadres superieurs",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6973,7 +6998,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-11-1790255700000",
+      "id": "acteurs-publics-sitemap-12-1790255700000",
       "title": "le recrutement dun contractuel dans la fonction publique territoriale reste conditionne par la creation prealable du poste",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6997,7 +7022,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-12-1790254740000",
+      "id": "acteurs-publics-sitemap-13-1790254740000",
       "title": "sur lia les operateurs du ministere de la culture attendent plus de mutualisation et un cadre clair",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7021,7 +7046,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-13-1790252580000",
+      "id": "acteurs-publics-sitemap-14-1790252580000",
       "title": "reforme des agences de letat les elus locaux appellent a eviter les reponses globalisantes",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7045,7 +7070,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-14-1790251980000",
+      "id": "acteurs-publics-sitemap-15-1790251980000",
       "title": "segolene royal veut reformer letat avant daugmenter les impots",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7069,7 +7094,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-16-1790248080000",
+      "id": "acteurs-publics-sitemap-17-1790248080000",
       "title": "attractivite langage clair agents publics",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7093,7 +7118,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-17-1790245260000",
+      "id": "acteurs-publics-sitemap-18-1790245260000",
       "title": "une agence federale pour moderniser les services publics au canada",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7117,7 +7142,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-26-1790242020000",
+      "id": "acteurs-publics-sitemap-27-1790242020000",
       "title": "communs numeriques educatifs apres de vraies avancees letat invite a investir par dela lenthousiasme militant",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8528,7 +8553,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-18-1790172540000",
+      "id": "acteurs-publics-sitemap-19-1790172540000",
       "title": "limites a lia reforme administrative decision publique recrutements la revue de presse internationale",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8552,7 +8577,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-19-1790170440000",
+      "id": "acteurs-publics-sitemap-20-1790170440000",
       "title": "sante publique orange mise sur lia pour accelerer la recherche et lacces aux traitements",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8576,7 +8601,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-20-1790171100000",
+      "id": "acteurs-publics-sitemap-21-1790171100000",
       "title": "services deconcentres de letat et hopitaux les mauvais eleves du paiement public",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8600,7 +8625,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-21-1790174760000",
+      "id": "acteurs-publics-sitemap-22-1790174760000",
       "title": "agora laboratoires consultations sur la participation citoyenne letat peine a passer delexperimentation a la methode",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8625,7 +8650,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-22-1790158860000",
+      "id": "acteurs-publics-sitemap-23-1790158860000",
       "title": "elections professionnelles collectivites cybersecurite",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8649,7 +8674,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-23-1790158140000",
+      "id": "acteurs-publics-sitemap-24-1790158140000",
       "title": "38 des femmes cadres de la fonction publique declarent avoir ete suffisamment accompagnees lors de leur prise de poste",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8673,7 +8698,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-24-1790156760000",
+      "id": "acteurs-publics-sitemap-25-1790156760000",
       "title": "jean luc stanislas lia generative travaille vite mais les soignants ont ils encore le temps de controler",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8697,7 +8722,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-25-1790176560000",
+      "id": "acteurs-publics-sitemap-26-1790176560000",
       "title": "retraite minoree par un retard davancement quatre fonctionnaires obtiennent chacune plusieurs dizaines de milliers deuros de leur employeur",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8721,7 +8746,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-27-1790157480000",
+      "id": "acteurs-publics-sitemap-28-1790157480000",
       "title": "sondage exclusif pres de 9 francais sur 10 reclament un choc de simplification administrative",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8745,7 +8770,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-28-1790171700000",
+      "id": "acteurs-publics-sitemap-29-1790171700000",
       "title": "malgre des regles differentes le montant des pensions de retraite du public et du prive restent proches",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -9415,37 +9440,13 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "acteurs-publics-sitemap-29-1790083080000",
+      "id": "acteurs-publics-sitemap-30-1790083080000",
       "title": "service public la fin des silos grace a lia",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
       "sourceType": "Presse professionnelle",
       "region": "National",
       "url": "https://acteurspublics.fr/articles/service-public-la-fin-des-silos-grace-a-lia/",
-      "image": null,
-      "date": "2026-09-22",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Politiques publiques",
-        "Collectivités",
-        "Transition"
-      ],
-      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "acteurs-publics-sitemap-30-1790079960000",
-      "title": "depenses de personnel la cour des comptes preconise un regime deconomies pour les trois fonctions publiques",
-      "source": "Acteurs Publics",
-      "sourceId": "acteurs-publics",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://acteurspublics.fr/articles/depenses-de-personnel-la-cour-des-comptes-preconise-un-regime-deconomies-pour-les-trois-fonctions-publiques/",
       "image": null,
       "date": "2026-09-22",
       "access": "Accès mixte",
