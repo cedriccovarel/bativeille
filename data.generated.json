@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T22:55:18.577Z",
+  "generatedAt": "2026-09-28T04:32:15.126Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,136 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1790568600000",
+      "title": "Les cellules solaires en silicium pourraient réduire jusqu’à 90 % le coût de l’énergie des satellites",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/les-cellules-solaires-en-silicium-pourraient-reduire-jusqua-90-le-cout-de-lenergie-des-satellites/195712-2026-09",
+      "image": null,
+      "date": "2026-09-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le passage à des cellules solaires en silicium modernes pourrait faire baisser jusqu’à 90 % le coût de l’alimentation des satellites, sur la base des performances en début de vie (BOL), selon une analyse menée par l’université de Surrey. Ce passage au silicium pourrait aussi rédu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790565000000",
+      "title": "Des courants dans une mer arctique accélèrent la descente du phytoplancton porteur de carbone",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-courants-dans-une-mer-arctique-accelerent-la-descente-du-phytoplancton-porteur-de-carbone/195707-2026-09",
+      "image": null,
+      "date": "2026-09-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Les minuscules organismes d’apparence végétale appelés phytoplancton, qui forment la base des réseaux trophiques marins couronnés par les orques, les baleines et les requins, sont généralement mangés ou coulent lentement vers le fond marin, emportant du carbone avec eux. Dans la …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1790569908000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-09-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1790569908000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-09-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1790569908000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-09-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "batiweb-rss-0-1790498700000",
       "title": "Saint-Astier ouvre une antenne de formation en Seine-et-Marne",
       "source": "Batiweb",
@@ -2260,7 +2390,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790547000000",
+      "id": "enerzine-rss-2-1790547000000",
       "title": "Des pixels OLED minuscules peuvent être fabriqués comme des micropuces",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2284,7 +2414,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790538300000",
+      "id": "enerzine-rss-3-1790538300000",
       "title": "Leapmotor B05, la compacte électrique chinoise dès 25 900 € en France",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2309,7 +2439,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790482200000",
+      "id": "enerzine-rss-4-1790482200000",
       "title": "L’armure bactérienne de la peau des grenouilles aide à les protéger d’une maladie fongique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2334,7 +2464,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790478600000",
+      "id": "enerzine-rss-5-1790478600000",
       "title": "Le pâturage des moutons menacerait davantage les pollinisateurs sauvages d’Écosse que les abeilles mellifères",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2406,84 +2536,6 @@
       "summary": "Des miroirs géants qui réchauffent la roche pour battre le froid himalayen : la Chine bricole une prouesse d'ingénierie folle pour construire le futur plus haut barrage du monde. Le détail vaut le coup d'œil. L’article La Chine réalise un barrage de 315 mètres, potentiellement le…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1790549697000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1790549697000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1790549697000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1790541185000",
@@ -2716,7 +2768,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790460600000",
+      "id": "enerzine-rss-6-1790460600000",
       "title": "Les émissions passées des plus grands pollueurs continueront de réchauffer la planète pendant des décennies",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2741,7 +2793,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790440500000",
+      "id": "enerzine-rss-7-1790440500000",
       "title": "Démarchage téléphonique interdit, 26 000 signalements plus tard les appels abusifs persistent",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2766,7 +2818,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790395800000",
+      "id": "enerzine-rss-8-1790395800000",
       "title": "Comment des ingénieurs transforment de minuscules plis en régulateurs de trafic pour gouttes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2790,7 +2842,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790392200000",
+      "id": "enerzine-rss-9-1790392200000",
       "title": "Un capteur à base d’amidon change de couleur pour indiquer l’humidité dans les emballages alimentaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3279,32 +3331,6 @@
         "Réglementation"
       ],
       "summary": "Expérimenter les cabanes de l’Orvanne, c’est vivre une expérience à part entière. À Moret-sur-Loing, l’architecture subtile de AW² est en résonance avec la nature. Expérimenter les cabanes de l’Orvanne, c’est vivre une expérience à part entière. À Moret-sur-Loing, l’architecture …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-0-1790351960000",
-      "title": "Un vent de douceur : une exposition qui invite à porter un nouveau regard sur nos espaces de vie",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/evenements/un-vent-de-douceur-une-exposition-qui-invite-porter-un-nouveau-regard-sur-nos-espaces-de",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-09/1200%C3%97630%20px%20-%20Expo%20Un%20vent%20de%20douceur.png?itok=A9YhXA-_",
-      "date": "2026-09-25",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "RE2020",
-        "Eau",
-        "Énergie"
-      ],
-      "summary": "Un vent de douceur : une exposition qui invite à porter un nouveau regard sur nos espaces de vie Maxence NORMANDIE ven 25/09/2026 - 17:59 Une exposition autour de la sensibilité des territoires Présentée au Carré Saint-Cyr, l’exposition Un vent de douceur propose une exploration …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4710,56 +4736,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1790374200000",
-      "title": "Des araignées de mer aux pattes poilues et aux yeux rouges découvertes dans la mer des Salish",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-araignees-de-mer-aux-pattes-poilues-et-aux-yeux-rouges-decouvertes-dans-la-mer-des-salish/195509-2026-09",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Si vous nagez dans la mer des Salish tard le soir et que vous sentez un frôlement le long de vos mollets, de minuscules pattes poilues qui grimpent, tapotant de plus en plus haut vers votre visage, ne vous inquiétez pas : ce n’est probablement qu’un cauchemar qui prend corps : de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790367000000",
-      "title": "Rappel massif Volkswagen et Audi. Un boulon corrodé menace la direction",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/rappel-volkswagen-audi-risque-direction-boulon-corrosion/195674-2026-09",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "Un boulon de fixation susceptible de se corroder force Volkswagen et Audi à rappeler environ 2,86 millions de véhicules dans le monde. En cas de rupture, cette fixation située sur la crémaillère de direction peut, dans le pire des cas, entraîner une perte de la capacité à diriger…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "hellio-actualites-rss-0-1790326906000",
       "title": "Chauffage urbain à Suresnes : tout savoir | Hellio",
       "source": "Hellio Actualités",
@@ -5519,32 +5495,6 @@
         "Biosourcé"
       ],
       "summary": "Ciranova lance en France une gamme de produits pour la finition et la protection du bois destinée aux menuisiers et ébénistes. Ciranova lance en France une gamme de produits pour la finition et la protection du bois destinée aux menuisiers et ébénistes. Ciranova lance une gamme d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-1-1790234543000",
-      "title": "Podcast \"Entre les murs\" : la RSE, un levier de progrès accessible à toutes les agences d’architecture",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/actualites/podcast-entre-les-murs-la-rse-un-levier-de-progres-accessible-toutes-les-agences",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-09/Affiche%20podcast%20RSE%20dans%20les%20agences.png?itok=P9u78eVJ",
-      "date": "2026-09-24",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "Eau",
-        "Réemploi",
-        "Bâtiment"
-      ],
-      "summary": "Podcast \"Entre les murs\" : la RSE, un levier de progrès accessible à toutes les agences d’architecture Maxence NORMANDIE jeu 24/09/2026 - 09:22 La RSE, bien plus qu’une question environnementale Face aux défis de la transition écologique, de l’évolution des pratiques professionne…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7553,6 +7503,29 @@
     },
     {
       "id": "batiweb-rss-18-1790204700000",
+      "title": "Elegant, la fenêtre qui redéfinit les standards du design et de la performance",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/elegant-fenetre-design-performance-49292",
+      "image": "https://img.batiweb.com/repo-images/publi/49292/deceuninck-09-25-une.jpg",
+      "date": "2026-09-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recyclés dans ses profilés. Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recy…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-19-1790204700000",
       "title": "Bosch Home Comfort accélère en France et vise le Top 3 des pompes à chaleur",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -7573,29 +7546,6 @@
         "Économie du bâtiment"
       ],
       "summary": "Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle sur le marché français du confort climatique. Un an après l’acquisition de Johnson Controls-Hitachi Air Conditioning, Bosch Home Comfort entend changer d’échelle su…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-19-1790204700000",
-      "title": "Elegant, la fenêtre qui redéfinit les standards du design et de la performance",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/elegant-fenetre-design-performance-49292",
-      "image": "https://img.batiweb.com/repo-images/publi/49292/deceuninck-09-25-une.jpg",
-      "date": "2026-09-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recyclés dans ses profilés. Avec Elegant, Deceuninck associe design contemporain, performances thermiques et acoustiques, personnalisation et matériaux recy…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8792,82 +8742,6 @@
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-2-1790083168000",
-      "title": "Appel à manifestation d'intérêt : commissions départementales de l’Eure",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/actualites/appel-manifestation-dinteret-commissions-departementales-de-leure-139386",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-09/blue-beige-chairs-each-other.jpg?itok=FjkqPsWu",
-      "date": "2026-09-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "Confort d’été",
-        "Économie du bâtiment"
-      ],
-      "summary": "Appel à manifestation d'intérêt : commissions départementales de l’Eure Maxence NORMANDIE mar 22/09/2026 - 15:19 S’engager au service de l’intérêt général et du territoire La présence d’architectes au sein des instances consultatives et décisionnelles est essentielle pour porter …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-3-1790080708000",
-      "title": "Réhabiliter plutôt que démolir : une conférence pour repenser l’avenir du bâti existant",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/evenements/rehabiliter-plutot-que-demolir-une-conference-pour-repenser-lavenir-du-bati-existant",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-09/02%20Faceboolk%20conf..png?itok=gQCfmBMn",
-      "date": "2026-09-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "RE2020",
-        "Carbone",
-        "Eau"
-      ],
-      "summary": "Réhabiliter plutôt que démolir : une conférence pour repenser l’avenir du bâti existant Maxence NORMANDIE mar 22/09/2026 - 14:38 Une réflexion au cœur des enjeux de la transition écologique Face à l’urgence climatique, à la raréfaction des ressources et à la nécessité de limiter …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-4-1790071867000",
-      "title": "Réunion annuelle 2026 : dernières places disponibles",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/actualites/reunion-annuelle-2026-dernieres-places-disponibles-139376",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-09/Re%CC%81union%20annuelle%202026%20-%20Informations%20pratiques_0.png?itok=p6_QhWy1",
-      "date": "2026-09-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "Carbone",
-        "Réemploi"
-      ],
-      "summary": "Réunion annuelle 2026 : dernières places disponibles Maxence NORMANDIE mar 22/09/2026 - 12:11 La forte mobilisation des consœurs et confrères pour cette édition 2026 confirme l'intérêt des architectes normands pour les temps d'échanges, de réflexion et de convivialité proposés pa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "novabuild-rss-1-1790055960000",
@@ -11957,32 +11831,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-5-1789396633000",
-      "title": "5ᵉ Rencontre interprofessionnelle « Build Biosourcé »",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/evenements/5-rencontre-interprofessionnelle-build-biosource-139125",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-09/Invitation-Build-Biosource%CC%81-2026-WEB.png?itok=0jxXVMb-",
-      "date": "2026-09-14",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "Carbone",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "5ᵉ Rencontre interprofessionnelle « Build Biosourcé » Maxence NORMANDIE lun 14/09/2026 - 16:37 Le vendredi 2 octobre, les professionnels de la construction, de la rénovation et de l’aménagement sont invités à participer à la 5ᵉ rencontre interprofessionnelle B to B « Build Biosou…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "auat-toulouse-rss-15-1789370780000",
       "title": "Climat : la France veut enfin chiffrer le prix de son retard sur l’adaptation",
       "source": "AUAT Toulouse",
@@ -12300,32 +12148,6 @@
         "Économie du bâtiment"
       ],
       "summary": "Il n’y a pas que le prix de l’essence qui grimpe en flèche. Pendant le mois d’août, le prix de l’électricité sur le marché de […] L’article Le prix de l’électricité a explosé au mois d’aout, mais les opérateurs de stockage se frottent les mains est apparu en premier sur Révolutio…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-6-1789111070000",
-      "title": "Journées européennes du patrimoine 2026",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/evenements/journees-europeennes-du-patrimoine-2026-139052",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-09/JEP26_RS%20ext%2016x9.jpg?itok=c06VaRhR",
-      "date": "2026-09-11",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "RE2020",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "Journées européennes du patrimoine 2026 Maxence NORMANDIE ven 11/09/2026 - 09:17 Les Journées européennes du patrimoine demeurent l’un des temps forts de la rentrée culturelle. En ouvrant les portes de lieux emblématiques, souvent méconnus du grand public, elles permettent de mie…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13314,80 +13136,6 @@
       "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-7-1788857823000",
-      "title": "Les formations de l'automne 2026",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/actualites/les-formations-de-lautomne-2026-138910",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-09/Copie%20de%20LES%20FORMATIONS%20de%20l%27hiver%20%285%29.png?itok=2kNySWlt",
-      "date": "2026-09-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "RE2020",
-        "Carbone",
-        "Eau"
-      ],
-      "summary": "Les formations de l'automne 2026 Délia mar 08/09/2026 - 10:57 Formations gratuites MOOC Bâtiment Durable Les métiers de la rénovation ont besoin de vous Durée : non indiquée Tarif : gratuite Inscription : du 4 janvier 2023 au 1er février 2030 Cours : du 14 février 2023 au 15 avri…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-8-1788851735000",
-      "title": "Rencontre Architectures & Territoires : 16 octobre 2026 à Orléans",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/evenements/rencontre-architectures-territoires-16-octobre-2026-orleans-138631",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-09/CVDL_AT26_Header%20site_VF_1200px.jpg?itok=B-apzkKp",
-      "date": "2026-09-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Rencontre Architectures & Territoires : 16 octobre 2026 à Orléans Chevallier-EA mar 08/09/2026 - 09:15 Zone géographique Centre-Val de Loire Média Rencontre Architectures & Territoires du CROA CVL le 16 octobre 2026 à Orléans CNOA Accroche 2027 marquera les 50 ans de la loi sur l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-9-1788851514000",
-      "title": "Rencontre entre collectivités et architectes à Tours (37) - 17/11/26",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/evenements/rencontre-entre-collectivites-et-architectes-tours-37-171126-138636",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-04/CVDL_poignee-main_handshake_elu-architecte.jpg?itok=6VcOQKDu",
-      "date": "2026-09-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Rencontre entre collectivités et architectes à Tours (37) - 17/11/26 Chevallier-EA mar 08/09/2026 - 09:11 Zone géographique Centre-Val de Loire Média Elu(e)s et architectes : travailler ensemble pour bâtir les villes de demain Freepik Accroche Fort d'une première édition réussie …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "urbalyon-rss-2-1788897702000",
