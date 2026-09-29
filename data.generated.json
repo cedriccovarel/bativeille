@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T19:54:28.371Z",
+  "generatedAt": "2026-09-29T23:35:00.089Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2534,7 +2534,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-0-1790693893000",
+      "id": "actu-environnement-rss-0-1790713791000",
+      "title": "Adaptation au changement climatique : l'I4CE dresse ses priorités d'actions à financer",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/i4ce-financement-adaptation-climatique-priorites-48585.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48585_large.jpg",
+      "date": "2026-09-29",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie",
+        "Eau",
+        "Économie du bâtiment",
+        "Bâtiment"
+      ],
+      "summary": "L'Institut de l'économie pour le climat (I4CE) dévoile ses derniers chiffres des besoins de financements de l'adaptation climatique à prioriser dans plusieurs secteurs dont les écoles, les hôpitaux, le logement ou encore l'agriculture, les réseaux... L'Institut de l'économie pour…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-1-1790693893000",
       "title": "Première norme ISO dédiée aux ODD : un mode d'emploi pour dépasser le déclaratif",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2557,7 +2583,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-1-1790686682000",
+      "id": "actu-environnement-rss-2-1790686682000",
       "title": "Électricité : de nouveaux produits de marché pour valoriser le photovoltaïque sous OA",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2582,7 +2608,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-2-1790678339000",
+      "id": "actu-environnement-rss-3-1790678339000",
       "title": "Primes à l'incorporation sur le plastique recyclé&#8239;: le Conseil d'État retoque l'arrêté",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -3358,6 +3384,156 @@
       "collectMethod": "rss"
     },
     {
+      "id": "greenunivers-rss-0-1790697831000",
+      "title": "Campagne présidentielle, CEE, TotalEnergies… : les coulisses du colloque du Ser",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/campagne-presidentielle-cee-totalenergies-les-coulisses-du-colloque-du-ser-434348/",
+      "image": null,
+      "date": "2026-09-29",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "Les énergies renouvelables sont « un amortisseur de crises ». A l’ouverture du colloque annuel du Syndicat des énergies renouvelables (Ser) organisé ce jour et pour la première fois à la Cité des sciences et de l’industrie à Paris, Jules Nyssen, président de la puissance invitant…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-1-1790697435000",
+      "title": "Presque 1 Md€ levé par les cleantech françaises au premier semestre",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/presque-1-mde-leve-par-les-cleantech-francaises-au-premier-semestre-434355/",
+      "image": null,
+      "date": "2026-09-29",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "C’est l’heure du pragmatisme pour les cleantech françaises. « Le capital ne finance plus seulement une promesse technologique, il exige désormais une trajectoire industrielle, commerciale et financière crédible », résument Sophie Pourquéry et Eric Marty, co-présidents de la Commi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-2-1790696694000",
+      "title": "Electricité : « les signaux prix n’arrivent pas aux consommateurs » [Y. Jacquemart]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/electricite-les-signaux-prix-narrivent-pas-aux-consommateurs-y-jacquemart-434451/",
+      "image": null,
+      "date": "2026-09-29",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Confort d’été",
+        "Économie du bâtiment"
+      ],
+      "summary": "Après une longue carrière dans les marchés de l’énergie et de la flexibilité chez EDF puis RTE, Yannick Jacquemart lance sa propre société, Eidoris, cabinet de L’article Electricité : « les signaux prix n’arrivent pas aux consommateurs » [Y. Jacquemart] est apparu en premier sur …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-3-1790696545000",
+      "title": "Le gouvernement va étendre les CEE précarité et bonifier le leasing PAC",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/le-gouvernement-va-etendre-les-cee-precarite-et-bonifier-le-leasing-pac-434370/",
+      "image": null,
+      "date": "2026-09-29",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Faut-il y voir une réponse à la hausse des prix des énergies ? Le gouvernement se prépare en tout cas à toucher à nouveau aux certificats d’économies d’énergie (CEE), décriés ces derniers temps par une partie de l’échiquier politique pour leur impact sur les factures d’énergie, e…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-4-1790694368000",
+      "title": "A Paris, la manifestation mobilise moins qu’en février",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/a-paris-la-manifestation-mobilise-moins-quen-fevrier-434385/",
+      "image": null,
+      "date": "2026-09-29",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "Les salariés des EnR électriques se sont réunis ce mardi 29 septembre sur le parvis de la Cité des sciences au nord de Paris. Là où, au même moment, le plus gros syndicat professionnel du secteur, le Syndicat des énergies renouvelables tenait son colloque annuel, le dernier avant…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-5-1790663400000",
+      "title": "Nucléaire : France Datacenter inaugure un groupe de travail avec 4 acteurs des SMR",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/nucleaire-france-datacenter-inaugure-un-groupe-de-travail-avec-4-acteurs-des-smr-434335/",
+      "image": null,
+      "date": "2026-09-29",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "Mesure numéro 15 du groupe de travail (GT) sur l’électrification des usages dans le numérique : « développer les systèmes de production électrique alternatifs comme les petits réacteurs nucléaires (SMR) ». Pour lui donner du corps, France Datacenter, la fédération des acteurs du …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "pv-magazine-france-rss-0-1790686800000",
       "title": "Sunrock obtient un financement de 110 M€ pour soutenir sa croissance solaire en France",
       "source": "PV Magazine France",
@@ -3665,7 +3841,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790705400000",
+      "id": "enerzine-rss-0-1790719800000",
+      "title": "Un nouveau nano-revêtement polymère inspiré du cartilage pour prolonger considérablement la durée de vie des batteries",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-nouveau-nano-revetement-polymere-inspire-du-cartilage-pour-prolonger-considerablement-la-duree-de-vie-des-batteries/195836-2026-09",
+      "image": null,
+      "date": "2026-09-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "Une équipe de recherche dirigée par l’Université des sciences et technologies de Hong Kong (HKUST) a mis au point un nanorevêtement biomimétique susceptible de prolonger considérablement la durée de vie des batteries utilisées dans les smartphones, les véhicules électriques (VE) …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790705400000",
       "title": "Allemagne. L’éolienne de 365 mètres écrase les records, mais soulève un dilemme",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3691,7 +3893,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790700600000",
+      "id": "enerzine-rss-2-1790700600000",
       "title": "Le train à batterie arrive en France, une avancée qui met le diesel au défi",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3715,7 +3917,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790698800000",
+      "id": "enerzine-rss-3-1790698800000",
       "title": "BYD vise 2027 pour sa batterie solide, avec une première série limitée",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3740,7 +3942,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790680200000",
+      "id": "enerzine-rss-4-1790680200000",
       "title": "L’Airbus A350F décolle enfin, la riposte à la domination cargo de Boeing s’intensifie",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3765,7 +3967,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790659800000",
+      "id": "enerzine-rss-5-1790659800000",
       "title": "Une caméra ordinaire capable de mesurer l’efficacité des cellules solaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3790,7 +3992,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790658600000",
+      "id": "enerzine-rss-6-1790658600000",
       "title": "L’énergie mécanique pourrait aider à transformer la biomasse en carburants et en produits chimiques de valeur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3816,7 +4018,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790655000000",
+      "id": "enerzine-rss-7-1790655000000",
       "title": "Le plan d’étudiants pour alimenter la Lune grâce à un essaim de robots remporte un prix de la NASA",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3841,7 +4043,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790651400000",
+      "id": "enerzine-rss-8-1790651400000",
       "title": "Des astrophysiciens utilisent des simulations d’ondes pour ouvrir une nouvelle fenêtre sur la matière noire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4093,7 +4295,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790711689000",
+      "id": "le-commerce-du-bois-sitemap-0-1790724922000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4119,7 +4321,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1790711689000",
+      "id": "le-commerce-du-bois-sitemap-1-1790724922000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4145,7 +4347,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1790711689000",
+      "id": "le-commerce-du-bois-sitemap-2-1790724922000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4171,32 +4373,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1790698803000",
-      "title": "Le plan de Paris face à l’affolement estival des thermomètres",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/le-plan-de-paris-face-a-laffolement-estival-des-thermometres/",
-      "image": null,
-      "date": "2026-09-29",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Emmanuel Grégoire et plusieurs des adjoints concernés ont présenté mardi 29 septembre le détail du plan de la Ville pour protéger les Parisiens des fortes chaleurs estivales, appelées à devenir la norme. Les populations les plus modestes, les plus exposées, sont les premières bén…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-1-1790696728000",
+      "id": "le-journal-du-grand-paris-rss-0-1790696728000",
       "title": "Les entreprises franciliennes face aux « défis stratégiques de l’eau »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4217,6 +4394,31 @@
         "Eau"
       ],
       "summary": "La CCI Paris Île-de-France dresse un état des lieux de la ressource en eau et alerte sur la nécessité de mieux prendre en compte les mutations à l'œuvre dans la définition des stratégies des acteurs économiques du territoire. La CCI Paris Île-de-France dresse un état des lieux de…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1790695203000",
+      "title": "Le plan de Paris face à l’affolement estival des thermomètres",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/le-plan-de-paris-face-a-laffolement-estival-des-thermometres/",
+      "image": null,
+      "date": "2026-09-29",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation"
+      ],
+      "summary": "Emmanuel Grégoire et plusieurs des adjoints concernés ont présenté mardi 29 septembre le détail du plan de la Ville pour protéger les Parisiens des fortes chaleurs estivales, appelées à devenir la norme. Les populations les plus modestes, les plus exposées, sont les premières bén…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4876,7 +5078,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-3-1790609819000",
+      "id": "actu-environnement-rss-4-1790609819000",
       "title": "Réemploi des emballages : Citeo prend les devants et ouvre son expérimentation ReUse aux boucles locales",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4900,7 +5102,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-4-1790608316000",
+      "id": "actu-environnement-rss-5-1790608316000",
       "title": "Pour accroître le nombre d'espaces naturels protégés, un allègement de la fiscalité s'impose",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4923,7 +5125,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-5-1790608231000",
+      "id": "actu-environnement-rss-6-1790608231000",
       "title": "CEE : un nouveau programme pour accélérer la régénération du réseau ferré",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4948,7 +5150,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-6-1790607848000",
+      "id": "actu-environnement-rss-7-1790607848000",
       "title": "La CNCDH défend la consécration législative d'une obligation générale d'adaptation au changement climatique",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4972,7 +5174,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-7-1790606138000",
+      "id": "actu-environnement-rss-8-1790606138000",
       "title": "CEE : une nouvelle fiche soutient l'électrification des chaudières industrielles",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -4996,7 +5198,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-8-1790592920000",
+      "id": "actu-environnement-rss-9-1790592920000",
       "title": "L'ouverture d'un sentier littoral est suspendue en raison de ses conséquences probables sur l'avifaune",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5019,7 +5221,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-9-1790592233000",
+      "id": "actu-environnement-rss-10-1790592233000",
       "title": "Directive Émissions industrielles : la France est mise en demeure par la Commission européenne",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5042,7 +5244,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-10-1790586201000",
+      "id": "actu-environnement-rss-11-1790586201000",
       "title": "Le chiffre du jour : 120 000 personnes",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5065,7 +5267,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-11-1790578800000",
+      "id": "actu-environnement-rss-12-1790578800000",
       "title": "Emballage personnalisé : les exigences du PPWR à anticiper d'ici 2030",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5089,7 +5291,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-12-1790578800000",
+      "id": "actu-environnement-rss-13-1790578800000",
       "title": "Monitoring énergétique : 20 % d'économies en moyenne sur la facture des collectivités territoriales",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5614,6 +5816,107 @@
       "collectMethod": "rss"
     },
     {
+      "id": "greenunivers-rss-6-1790608903000",
+      "title": "Les syndicats professionnels soutiennent la manifestation des salariés des EnR",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/les-syndicats-professionnels-soutiennent-la-manifestation-des-salaries-des-enr-434266/",
+      "image": null,
+      "date": "2026-09-28",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "En fanfare ! Au rythme des cuivres et des percussions, les salariés des énergies renouvelables électriques, menés par leurs Conseils sociaux et économiques (CSE), manifesteront demain mardi 29 septembre à Paris. A Montpellier, ce sera un pique-nique. Le tout forme le deuxième ras…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-7-1790608607000",
+      "title": "Les prix de l’énergie collés au plafond [Marchés]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/les-prix-de-lenergie-coinces-au-plafond-marches-434293/",
+      "image": null,
+      "date": "2026-09-28",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Les marchés de l’énergie apparaissent « figés » cette semaine, et pas dans une bonne position, indique Chamsedean Aboura, adjoint à la direction commerciale grand comptes chez GazelEnergie. Les cours de L’article Les prix de l’énergie collés au plafond [Marchés] est apparu en pre…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-8-1790603669000",
+      "title": "TotalEnergies veut gagner de l’argent dans l’électricité en 2027",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/totalenergies-veut-gagner-de-largent-dans-lelectricite-en-2027-434284/",
+      "image": null,
+      "date": "2026-09-28",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "D’ici 2030, TotalEnergies compte bien rester une machine à cash dans le pétrole et le gaz et tenter de le devenir dans l’électricité. Le groupe surtout pétro-gazier a confirmé aujourd’hui que sa production d‘électricité doit augmenter de 20% par an et L’article TotalEnergies veut…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-9-1790597942000",
+      "title": "« Code réseau » : ce que prépare Bruxelles",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/code-reseau-ce-que-prepare-bruxelles-434141/",
+      "image": null,
+      "date": "2026-09-28",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Eau"
+      ],
+      "summary": "Véritable code de la route des réseaux électriques, le « code réseau »* devrait évoluer prochainement, sous l’impulsion de la Commission européenne. Les consultations des gestionnaires de réseau se L’article « Code réseau » : ce que prépare Bruxelles est apparu en premier sur Gre…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "pv-magazine-france-rss-7-1790600400000",
       "title": "Hitachi Energy signe un accord de 350 millions d’euros avec Enedis",
       "source": "PV Magazine France",
@@ -5769,7 +6072,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1790633400000",
+      "id": "enerzine-rss-9-1790633400000",
       "title": "Les canicules sur les terres émergées commencent plus tôt et se développent plus vite dans le monde",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5791,30 +6094,6 @@
         "Biosourcé"
       ],
       "summary": "Les canicules sur les terres émergées du monde entier commencent plus tôt, se terminent plus tard et s’étendent sur des saisons plus longues, tandis que la première canicule de la saison a récemment évolué vers une apparition plus rapide, selon une nouvelle étude publiée dans Nat…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790604900000",
-      "title": "Luminaire de salon : quelle lumière pour quelle ambiance ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/luminaire-de-salon-quelle-lumiere-pour-quelle-ambiance/195805-2026-09",
-      "image": null,
-      "date": "2026-09-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Le salon n’a plus grand-chose à voir avec cette pièce figée d’autrefois où l’on ne faisait que recevoir les invités le dimanche. Aujourd’hui, c’est le cœur battant de la maison : on y travaille le matin sur un coin de table, les enfants s’y installent pour dessiner l’après-midi, …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6805,25 +7084,27 @@
     },
     {
       "id": "batiweb-rss-12-1790344800000",
-      "title": "Le négoce décoration résiste au 1er semestre 2026",
+      "title": "Leborgne nomme son nouveau directeur général",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/conjoncture/negoce-decoration-premier-semestre-2026-49345",
-      "image": "https://img.batiweb.com/repo-images/article/49345/negoce_decoration.jpg",
+      "url": "https://www.batiweb.com/actualites/nomination/thibaut-natoli-directeur-general-leborgne-49321",
+      "image": "https://img.batiweb.com/repo-images/article/49321/thibautnatoli.jpg",
       "date": "2026-09-25",
       "access": "open",
       "official": false,
-      "highImpact": false,
-      "impactScore": 80,
+      "highImpact": true,
+      "impactScore": 96,
       "tags": [
         "Construction",
         "Produits",
         "Marché",
-        "Économie du bâtiment"
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
       ],
-      "summary": "Malgré une conjoncture difficile, le négoce décoration résiste au premier semestre 2026, porté notamment par une forte progression de l’ITE. Malgré une conjoncture difficile, le négoce décoration résiste au premier semestre 2026, porté notamment par une forte progression de l’ITE…",
+      "summary": "Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour mission de mettre en œuvre une feuille de route mêlant optimisations et innovations. Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour m…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6852,27 +7133,25 @@
     },
     {
       "id": "batiweb-rss-14-1790344800000",
-      "title": "Leborgne nomme son nouveau directeur général",
+      "title": "Le négoce décoration résiste au 1er semestre 2026",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/nomination/thibaut-natoli-directeur-general-leborgne-49321",
-      "image": "https://img.batiweb.com/repo-images/article/49321/thibautnatoli.jpg",
+      "url": "https://www.batiweb.com/actualites/conjoncture/negoce-decoration-premier-semestre-2026-49345",
+      "image": "https://img.batiweb.com/repo-images/article/49345/negoce_decoration.jpg",
       "date": "2026-09-25",
       "access": "open",
       "official": false,
-      "highImpact": true,
-      "impactScore": 96,
+      "highImpact": false,
+      "impactScore": 80,
       "tags": [
         "Construction",
         "Produits",
         "Marché",
-        "Réglementation",
-        "Eau",
-        "Confort d’été"
+        "Économie du bâtiment"
       ],
-      "summary": "Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour mission de mettre en œuvre une feuille de route mêlant optimisations et innovations. Thibaut Natoli a été nommé directeur général de Leborgne. Il remplace Florence Hocq et aura pour m…",
+      "summary": "Malgré une conjoncture difficile, le négoce décoration résiste au premier semestre 2026, porté notamment par une forte progression de l’ITE. Malgré une conjoncture difficile, le négoce décoration résiste au premier semestre 2026, porté notamment par une forte progression de l’ITE…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11932,7 +12211,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-92-1789603200000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-78-1789603200000",
       "title": "gouvernement frederic carre rencontre vincent jeanbrun",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -15513,7 +15792,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-339-1788220800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-319-1788220800000",
       "title": "actu simple 31",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -21451,7 +21730,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
