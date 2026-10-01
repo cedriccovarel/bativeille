@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-09-30T23:35:49.504Z",
+  "generatedAt": "2026-10-01T04:59:45.721Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,186 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "novethic-rss-0-1790829950000",
+      "title": "Adaptation, IA, contrat social : les directions RSE changent de centre de gravité",
+      "source": "Novethic",
+      "sourceId": "novethic",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/barometre-metiers-rse-avenir-2027-adaptation-ia-contrat-social",
+      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/09/IA-contrat-social-_-la-RSE-est-elle-en-train-de-changer-de-centre-de-gravite-_-Photo-de-Mario-Gogh-sur-Unsplash-150x150.jpg",
+      "date": "2026-10-01",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "ESG",
+        "Finance durable",
+        "Climat"
+      ],
+      "summary": "IA, contrat social : la RSE est-elle en train de changer de centre de gravité ? - Photo de Mario Gogh sur Unsplash A quoi ressembleront les métiers de la RSE (responsabilité sociale des entreprises) dans 5 ans ? C'est la question à laquelle tente de répondre un baromètre inédit, …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1790827800000",
+      "title": "Un robot sauteur à la manière d’une grenouille propulsé par des tiges élastiques torsadées",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-robot-sauteur-a-la-maniere-dune-grenouille-propulse-par-des-tiges-elastiques-torsadees/195873-2026-10",
+      "image": null,
+      "date": "2026-10-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Des roboticistes de la UCLA Samueli School of Engineering et de l’université du Michigan ont montré que des tiges élastiques peuvent être pliées et torsadées pour basculer brusquement et de façon répétée d’une forme à une autre, libérant l’énergie accumulée qui permet à de petits…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790824200000",
+      "title": "Un prototype de Pitt met les nids-de-poule en sursis",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-prototype-de-pitt-met-les-nids-de-poule-en-sursis/195883-2026-10",
+      "image": null,
+      "date": "2026-10-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Pour les automobilistes de Pittsburgh, les responsables municipaux et les équipes de réparation, les nids-de-poule sont une source de frustration apparemment sans fin. Pour Keith et Lynda Giuliani et David Dietrich, cette frustration a fait naître une idée : Pittsburgh compte bea…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-0-1790827140000",
+      "title": "Alaska LNG : Séoul finance un pipeline de 1 300 km pour 54 milliards",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/01/coree-sud-alaska-lng-seoul-finance-pipeline-1-300-km-54-milliards/",
+      "image": "https://lenergeek.com/wp-content/uploads/2021/05/pipeline-4691574_1280.jpg",
+      "date": "2026-10-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le 1er octobre 2026, Donald Trump a annoncé un investissement de 54 milliards de dollars de la Corée du Sud dans le pipeline Alaska LNG, infrastructure de 1 300 kilomètres destinée à exporter du gaz naturel liquéfié depuis le North Slope. L’article Alaska LNG : Séoul finance un p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1790830772000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1790830772000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1790830772000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-40-1790770265000",
       "title": "artificialisation des sols decouvrez les premieres donnees du 3 millesime jeudi 5",
       "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
@@ -2884,7 +3064,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novethic-rss-0-1790781665000",
+      "id": "novethic-rss-1-1790781665000",
       "title": "\"C’est indigne d’EDF\" : la rencontre entre le PDG Bernard Fontana et l'extrême droite suscite le malaise de certains salariés",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -2909,7 +3089,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-1-1790773577000",
+      "id": "novethic-rss-2-1790773577000",
       "title": "RSE : les achats responsables s'imposent comme levier de souveraineté et de résilience",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -2935,7 +3115,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-2-1790762434000",
+      "id": "novethic-rss-3-1790762434000",
       "title": "Les impacts de l'intelligence artificielle couvrent quatre limites planétaires",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -2961,7 +3141,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-3-1790758464000",
+      "id": "novethic-rss-4-1790758464000",
       "title": "Chaleur, inondations, pétrole : jusqu’où ira le confinement climatique ?",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -2987,7 +3167,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-4-1790743525000",
+      "id": "novethic-rss-5-1790743525000",
       "title": "Malgré le backlash ESG, la comptabilité carbone gagne du terrain",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -3873,7 +4053,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790806200000",
+      "id": "enerzine-rss-2-1790806200000",
       "title": "Un chercheur découvre des preuves expérimentales d’un nouveau type de magnétisme",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3899,7 +4079,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790770200000",
+      "id": "enerzine-rss-3-1790770200000",
       "title": "CAF dévoile au salon InnoTrans un train régional à batteries, le Civity BEMU",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3923,7 +4103,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790767680000",
+      "id": "enerzine-rss-4-1790767680000",
       "title": "Windows 11 26H2 débarque en silence, votre PC ne va presque pas bouger",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3948,7 +4128,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790746200000",
+      "id": "enerzine-rss-5-1790746200000",
       "title": "Comment concilier la puissance élevée des batteries quantiques avec une livraison d’énergie stable ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3972,7 +4152,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790745000000",
+      "id": "enerzine-rss-6-1790745000000",
       "title": "Des expériences sous pression pourraient aider les parcs éoliens à produire plus d’électricité",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3996,7 +4176,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790741400000",
+      "id": "enerzine-rss-7-1790741400000",
       "title": "Un télescope canadien cartographie directement la plus ancienne lueur de l’hydrogène, ouvrant une nouvelle fenêtre sur l’univers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4021,7 +4201,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790737800000",
+      "id": "enerzine-rss-8-1790737800000",
       "title": "De nouvelles possibilités pour convertir efficacement la lumière du soleil en énergie propre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4097,7 +4277,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1790769540000",
+      "id": "lenergeek-rss-1-1790769540000",
       "title": "L’IA va dévorer 42% de la capacité nucléaire mondiale d’ici 2030",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4121,7 +4301,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1790760035000",
+      "id": "lenergeek-rss-2-1790760035000",
       "title": "Incendie : les pompiers sont enfin venus à bout du mégafeu de Gironde",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4147,7 +4327,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1790749235000",
+      "id": "lenergeek-rss-3-1790749235000",
       "title": "Rémy, 70 ans, refuse la pompe à chaleur après avoir fait ses calculs : « il me faudrait 20 ans pour amortir, je ne serai plus là »",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4172,7 +4352,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1790747437000",
+      "id": "lenergeek-rss-4-1790747437000",
       "title": "Mon voisin installe une dalle inclinée sous chaque gouttière : quand un maçon m’a expliqué la vraie raison, j’ai fait pareil le week-end suivant",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4197,7 +4377,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1790745656000",
+      "id": "lenergeek-rss-5-1790745656000",
       "title": "Un ‘voyageur du temps’ venu de l’an 6000 lance un avertissement glaçant sur l’IA en montrant une photo du futur",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4221,7 +4401,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1790744931000",
+      "id": "lenergeek-rss-6-1790744931000",
       "title": "L’énergie va coûter très cher aux Européens cet hiver",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4244,84 +4424,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Dan Jorgensen, Commissaire européen à l'Énergie, alerte sur un hiver difficile marqué par des prix « très élevés » du gaz et du pétrole en Europe. L’article L’énergie va coûter très cher aux Européens cet hiver est apparu en premier sur L'EnerGeek. Dan Jorgensen, Commissaire euro…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1790811336000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-09-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1790811336000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-09-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1790811336000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-09-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "archistorm-rss-0-1790778186000",
@@ -5304,7 +5406,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novethic-rss-5-1790691530000",
+      "id": "novethic-rss-6-1790691530000",
       "title": "Les milliardaires de la Tech à l’assaut de la Maison-Blanche (Episode 3/3)",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -5329,7 +5431,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-6-1790676450000",
+      "id": "novethic-rss-7-1790676450000",
       "title": "ODD : l'ISO dévoile sa première norme sur les Objectifs du développement durable",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -5355,7 +5457,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-7-1790657113000",
+      "id": "novethic-rss-8-1790657113000",
       "title": "Les directions RSE sont-elles vouées à disparaître ?",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -6041,7 +6143,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790719800000",
+      "id": "enerzine-rss-9-1790719800000",
       "title": "Un nouveau nano-revêtement polymère inspiré du cartilage pour prolonger considérablement la durée de vie des batteries",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6063,56 +6165,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Une équipe de recherche dirigée par l’Université des sciences et technologies de Hong Kong (HKUST) a mis au point un nanorevêtement biomimétique susceptible de prolonger considérablement la durée de vie des batteries utilisées dans les smartphones, les véhicules électriques (VE) …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790705400000",
-      "title": "Allemagne. L’éolienne de 365 mètres écrase les records, mais soulève un dilemme",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/eolienne-365m-allemagne-record/195895-2026-09",
-      "image": null,
-      "date": "2026-09-29",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Jamais une éolienne terrestre n’avait tutoyé une telle altitude. À Schipkau, dans le Brandebourg, l’installation de Gicon culmine désormais à 365 mètres, soit 35 mètres de plus que la tour Eiffel. 📌 L’essentiel en 3 points Un sommet inédit dans l’éolien terrestre Le moyeu se sit…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790700600000",
-      "title": "Le train à batterie arrive en France, une avancée qui met le diesel au défi",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/train-batterie-france-avancee-diesel/195888-2026-09",
-      "image": null,
-      "date": "2026-09-29",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Depuis fin juillet, un TER sans moteur diesel circule entre Avignon et Carpentras. Une première française qui montre que le train à batterie ne reste pas dans les cartons au stade de projet mais qu’il transporte désormais des voyageurs. 📌 L’essentiel en 3 points Oubliez le ronro…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6143,7 +6195,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1790688881000",
+      "id": "lenergeek-rss-7-1790688881000",
       "title": "Tesla Roadster : pourquoi la démonstration nécessite un ciel dégagé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6169,7 +6221,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1790675905000",
+      "id": "lenergeek-rss-8-1790675905000",
       "title": "Intelligence artificielle : 40% des TPE-PME françaises l’adoptent en 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6194,7 +6246,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1790662800000",
+      "id": "lenergeek-rss-9-1790662800000",
       "title": "Evie Haupt, 75 ans, agricultrice en Iowa, a indiqué que ses trois éoliennes produisaient environ 35 000 dollars annuels",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6218,7 +6270,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1790661000000",
+      "id": "lenergeek-rss-10-1790661000000",
       "title": "« Je ne comprends pas, ma facture ne baisse pas » : le piège que découvrent ceux qui branchent leurs toilettes sur la cuve d’eau de pluie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6244,7 +6296,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1790659243000",
+      "id": "lenergeek-rss-11-1790659243000",
       "title": "« Je refuse de finir en maison de retraite » : à 62 ans, elle construit seule un chalet en bois à Córdoba et inspire des centaines de femmes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6270,7 +6322,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1790659080000",
+      "id": "lenergeek-rss-12-1790659080000",
       "title": "Gaz qatari : l’Europe privée de livraisons jusqu’à fin 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6294,7 +6346,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1790655241000",
+      "id": "lenergeek-rss-13-1790655241000",
       "title": "TotalEnergies mise sur 13 ans de réserves pour sa croissance pétrolière",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6318,7 +6370,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1790650800000",
+      "id": "lenergeek-rss-14-1790650800000",
       "title": "Agrivoltaïsme, transition énergétique dans le monde agricole et valorisation durable des exploitations",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7177,7 +7229,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-8-1790609447000",
+      "id": "novethic-rss-9-1790609447000",
       "title": "Silicon Valley, quand la Tech veut refaire le monde... et l’univers (Episode 2/3)",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7198,32 +7250,6 @@ window.BATIVEILLE_DATA = {
         "Climat"
       ],
       "summary": "Comment la Silicon Valley imagine un nouvel ordre mondial - Emre Aytekin Anadolu via AFP Dans le premier épisode, nous avons vu comment le mythe de la Silicon Valley s’est construit sur un paradoxe : une industrie qui se raconte comme émancipatrice, mais dont l’histoire est profo…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novethic-rss-9-1790597581000",
-      "title": "TotalEnergies : derrière la prolongation de Patrick Pouyanné, la continuité d’un modèle sous pression climatique",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/totalenergies-derriere-la-prolongation-de-patrick-pouyanne-la-continuite-dun-modele-sous-pression-climatique",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2025/10/Patrick-Pouyanne-mene-la-fronde-des-multinationales-contre-le-devoir-de-vigilance-Credit-_-THIBAUD-MORITZ-_-AFP-150x150.jpg",
-      "date": "2026-09-28",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Énergie"
-      ],
-      "summary": "Le conseil d'administration de TotalEnergies veut renouveler le mandat de Patrick Pouyanné à la tête du groupe - Crédit _ THIBAUD MORITZ _ AFP Patrick Pouyanné n’est pas près de quitter TotalEnergies. Le conseil d’administration a annoncé son intention de proposer, en mai 2027, l…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7531,7 +7557,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1790602418000",
+      "id": "lenergeek-rss-15-1790602418000",
       "title": "Panneaux photovoltaïques : 17% des installations mises en service en 2026 sont équipées d’une batterie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7556,7 +7582,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1790600147000",
+      "id": "lenergeek-rss-16-1790600147000",
       "title": "Carburant : hausse du montant de la prime versée par l’employeur",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7582,7 +7608,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1790597247000",
+      "id": "lenergeek-rss-17-1790597247000",
       "title": "Gaz : la hausse des prix génère 200 millions d’euros de recettes fiscales",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7607,7 +7633,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1790586469000",
+      "id": "lenergeek-rss-18-1790586469000",
       "title": "Carburant : circulation des camions-citernes autorisée le dimanche jusqu’au 12 octobre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7632,7 +7658,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1790585684000",
+      "id": "lenergeek-rss-19-1790585684000",
       "title": "Augmentation de plus de 6% : une mauvaise nouvelle pour les foyers qui se chauffent au gaz",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7657,7 +7683,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1790570280000",
+      "id": "lenergeek-rss-20-1790570280000",
       "title": "Comment la chaleur extrême a coûté 113 milliards à l’Europe",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7682,7 +7708,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1790564400000",
+      "id": "lenergeek-rss-21-1790564400000",
       "title": "Rénovation de maison : pourquoi acheter votre matériel électrique sur un site spécialisé ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8037,7 +8063,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1790488256000",
+      "id": "lenergeek-rss-22-1790488256000",
       "title": "Un trésor composé de 40 lingots et 4 000 pièces d’or d’une valeur de 10 millions de dollars découvert sous cette brasserie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8062,7 +8088,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1790486400000",
+      "id": "lenergeek-rss-23-1790486400000",
       "title": "La Chine réalise un barrage de 315 mètres, potentiellement le plus haut du monde, avec l’appui de 27 miroirs pour aider les ingénieurs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -9403,32 +9429,6 @@ window.BATIVEILLE_DATA = {
         "Carbone"
       ],
       "summary": "À Suresnes, comme dans de nombreuses villes des Hauts-de-Seine, le chauffage urbain constitue une solution de chauffage collectif de plus en plus recherchée par les copropriétés, les bailleurs et les gestionnaires de bâtiments tertiaires. Économique, mutualisé et de plus en plus …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1790343000000",
-      "title": "Engie annonce le versement d’une aide de 75 euros à 720.000 foyers",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/09/25/engie-annonce-versement-aide-75-euros/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/09/shutterstock_2197650829.jpg",
-      "date": "2026-09-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "RE2020",
-        "Économie du bâtiment"
-      ],
-      "summary": "Engie versera automatiquement 75 euros TTC à 720 000 de ses clients bénéficiaires du chèque énergie 2026, représentant un investissement de 54 millions d'euros. Cette aide sera créditée sur la prochaine facture selon le rythme de facturation choisi, sans aucune démarche administr…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12518,29 +12518,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-78-1789603200000",
-      "title": "gouvernement frederic carre rencontre vincent jeanbrun",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/gouvernement-frederic-carre-rencontre-vincent-jeanbrun",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "atmo-france-sitemap-535-1789641183000",
       "title": "qualite de lair et climat lomm appelle des politiques coordonnees",
       "source": "Atmo France",
@@ -13082,7 +13059,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -15806,29 +15783,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-319-1788220800000",
-      "title": "actu simple 31",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/actu-simple-31",
-      "image": null,
-      "date": "2026-09-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "urbalyon-rss-4-1788292821000",
       "title": "Impacts de la pollution de l’air sur la santé des enfants de 0 à 6 ans au sein de la métropole de Lyon",
       "source": "UrbaLyon",
@@ -18444,7 +18398,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -18590,7 +18544,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -19001,7 +18955,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
@@ -21565,29 +21519,6 @@ window.BATIVEILLE_DATA = {
       "summary": "L’article Juillet 2026 est apparu en premier sur ADEME Infos. L’article Juillet 2026 est apparu en premier sur ADEME Infos . Juillet 2026",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
-      "title": "avancees ffb 2026",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "cerema-sitemap-806-1783067940000",
