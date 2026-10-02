@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T20:14:02.114Z",
+  "generatedAt": "2026-10-02T04:50:18.512Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,207 @@
   ],
   "articles": [
     {
+      "id": "vert-rss-0-1790913600000",
+      "title": "«Il y a d’autres pistes que le tout-béton» : à Montpellier, ces habitants se battent pour conserver l’une des dernières parcelles agricoles",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/rapports-de-force/il-y-a-dautres-pistes-que-le-tout-beton-a-montpellier-ces-habitants-se-battent-pour-conserver-lune-des-dernieres-parcelles-agricoles/",
+      "image": null,
+      "date": "2026-10-02",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Des terres agricoles menacées, de petits commerces face à un supermarché… Dans le quartier montpelliérain des Beaux-Arts, des habitant·es se battent pour protéger leur cadre de vie. Vert s'est rendu sur place pour comprendre les dessous de cette lutte, dans une ville qui prône po…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1790914200000",
+      "title": "Un papier peint qui génère de l’électricité ? Des chercheurs new-yorkais l’ont développé",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-papier-peint-qui-genere-de-lelectricite-des-chercheurs-new-yorkais-lont-developpe/195980-2026-10",
+      "image": null,
+      "date": "2026-10-02",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Plus de 6 millions de foyers américains ont des panneaux solaires sur leur toit — mais et si vous pouviez aussi produire de l’électricité à l’intérieur de votre maison ? Des chercheurs de l’Université Binghamton à New-York (USA) ont développé un nouveau type de papier peint qui t…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790910600000",
+      "title": "Contrôler les électrons à l’aide de champs de lumière tridimensionnels",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/controler-les-electrons-a-laide-de-champs-de-lumiere-tridimensionnels/195974-2026-10",
+      "image": null,
+      "date": "2026-10-02",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "En superposant deux impulsions laser ultrabrèves convergeant depuis des directions différentes, une équipe de physiciens de l’Université d’Oldenburg, en Allemagne, est parvenue à générer des champs de lumière tridimensionnels. Au moyen de cette même méthode, ils ont également pu …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-0-1790913770000",
+      "title": "Carburant : pourquoi les transporteurs se mobilisent à Paris le 21 octobre",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/02/carburant-pourquoi-transporteurs-mobilisent-paris-21-octobre/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/08/shutterstock_2755683683.jpg",
+      "date": "2026-10-02",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Le prix du gazole a explosé de 46% en un an pour le transport routier, révélant l'échec du mécanisme d'indexation carburant censé protéger le secteur. Le 21 octobre 2026, l'OTRE et la FAI mobiliseront 3 600 entreprises à Paris pour exiger une refonte du système tarifaire, une bai…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1790916603000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-02",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1790916603000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-02",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1790916603000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-02",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1790915204000",
+      "title": "« Parlons Paris » : Emmanuel Grégoire face à la ville réelle",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/parlons-paris-emmanuel-gregoire-face-a-la-ville-reelle/",
+      "image": null,
+      "date": "2026-10-02",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Emmanuel Grégoire, accompagné par la maire du 12e arrondissement Lucie Castets, est allé jeudi soir à la rencontre des habitants. Trois heures durant, les élus se sont prêtés au jeu des questions-réponses, parfois agressives, souvent graves. Un exercice de démocratie participativ…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "batiweb-rss-0-1790865000000",
       "title": "Zones commerciales : 437 projets de transformation recensés",
       "source": "Batiweb",
@@ -3271,7 +3472,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1790844961000",
+      "id": "vert-rss-1-1790844961000",
       "title": "«La parole des scientifiques est bafouée» : le Conseil européen s’accorde sur le prolongement des autorisations de nombreux pesticides",
       "source": "Vert",
       "sourceId": "vert",
@@ -3291,6 +3492,183 @@
         "Politiques publiques"
       ],
       "summary": "Malgré les alertes, les États européens se sont accordé·es sur une réforme qui prolongerait de plusieurs années l’autorisation de nombreux pesticides, mercredi. Un texte dénoncé par plusieurs ONG comme un détricotage supplémentaire des règles européennes de protection de la santé…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-0-1790874854000",
+      "title": "Nucléaire : Nicolas Devictor prend la tête du programme de fermeture du cycle",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/10/nucleaire-nicolas-devictor-prend-la-tete-du-programme-de-fermeture-du-cycle-434818/",
+      "image": null,
+      "date": "2026-10-01",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "Exclusif — C’est la dernière brique nucléaire annoncée par Emmanuel Macron : un programme de fermeture du cycle dévoilé en mars dernier. Il s’inscrit dans la droite ligne des travaux menés ces dernières décennies sur les réacteurs nucléaires de 4e génération et affiche l’ambition…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-1-1790870790000",
+      "title": "Batteries : combien rapporte 1 MW sur le spot en septembre [Observatoire]",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/10/batteries-combien-rapporte-1-mw-sur-le-spot-en-septembre-observatoire-434780/",
+      "image": null,
+      "date": "2026-10-01",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Économie du bâtiment"
+      ],
+      "summary": "En septembre, les revenus d’une batterie de 2 heures sur le marché spot ont augmenté de 135%, signale Storio Energy, suite à l’augmentation L’article Batteries : combien rapporte 1 MW sur le spot en septembre [Observatoire] est apparu en premier sur GreenUnivers. &#160;En septemb…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-2-1790870391000",
+      "title": "Le PLF 2027 recentre le Fonds chaleur et revoit les CSPE à la baisse",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/10/le-plf-2027-recentre-le-fonds-chaleur-et-revoit-les-cspe-a-la-baisse-434741/",
+      "image": null,
+      "date": "2026-10-01",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le débat budgétaire est lancé. Le gouvernement a présenté ce 1er octobre ses premières priorités pour le projet de loi de Finances pour 2027 (PLF 2027) disponible en fin d’article. Dans un contexte de « redressement des comptes », cadre le ministre de l’Économie Roland Lescure, l…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-3-1790866024000",
+      "title": "France Renouvelables alerte sur l’emploi à court et long termes",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/10/france-renouvelables-alerte-sur-lemploi-a-court-et-long-termes-434733/",
+      "image": null,
+      "date": "2026-10-01",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "A l’occasion de la parution de son 3e Observatoire du « système électrique renouvelable » lancé en 2024, consultable ci-dessous et assorti d’un portail dédié (data-enr.fr), France Renouvelables alerte sur la fragilisation de l’emploi dans son secteur. Et s’inquiète du possible im…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-4-1790855451000",
+      "title": "Lendosphere confrontée à un risque de défaut sur des projets de Langa International",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/10/lendosphere-confrontee-a-un-risque-de-defaut-sur-des-projets-de-langa-international-434686/",
+      "image": null,
+      "date": "2026-10-01",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Un risque de non-remboursement pèse sur un emprunt contracté en 2025 auprès des épargnants de Lendosphere par Eolfi, filiale de Langa International. Le risque porte sur 91 MW comprenant 3 projets solaires et 6 parcs éoliens à construire. La plateforme de financement participatif …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-5-1790855161000",
+      "title": "Alpiq va fournir du gaz aux particuliers",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/10/alpiq-va-fournir-du-gaz-aux-particuliers-434687/",
+      "image": null,
+      "date": "2026-10-01",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "Bien que le gaz soit de moins en moins en odeur de sainteté, Alpiq renifle quand même une opportunité commerciale. Le producteur et fournisseur d’électricité est autorisé depuis le 24 septembre, tel que dévoilé au Journal officiel ce jour, à vendre du gaz naturel aux clients dome…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-6-1790849481000",
+      "title": "Zilo Energie vise l’autoconsommation collective et les pompes à chaleur",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/10/zilo-energie-vise-lautoconsommation-collective-et-les-pompes-a-chaleur-434207/",
+      "image": null,
+      "date": "2026-10-01",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Changement d’échelle. La jeune entreprise spécialisée dans les abonnements solaires pour particuliers a passé mi-septembre une étape, en finançant son deuxième portefeuille d’actifs à déployer. L’ensemble des 500 installations de la première phase est désormais en exploitation. F…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3498,7 +3876,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790864100000",
+      "id": "enerzine-rss-2-1790892600000",
+      "title": "Une catalyse efficace avec moins de métal",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/une-catalyse-efficace-avec-moins-de-metal/195954-2026-10",
+      "image": null,
+      "date": "2026-10-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Les produits pharmaceutiques, les produits chimiques fins et les produits agrochimiques sont fabriqués industriellement à l’aide d’un large éventail de réactions chimiques. Ces procédés doivent devenir plus efficaces, moins coûteux et plus durables. Le groupe de Pieber à l’Instit…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-3-1790864100000",
       "title": "TagEnergy et Banque des Territoires inaugurent une batterie de 240 MW",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3524,7 +3927,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790862000000",
+      "id": "enerzine-rss-4-1790862000000",
       "title": "Gazole non routier : prolongation des aides jusqu’à fin 2026, un répit encore incomplet pour les engins non routiers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3549,7 +3952,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790832600000",
+      "id": "enerzine-rss-5-1790832600000",
       "title": "Un avenir vert propulsé par des pigments bleus",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3573,7 +3976,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790831400000",
+      "id": "enerzine-rss-6-1790831400000",
       "title": "Smart #2 : la sécurité et la plateforme électrique en détail",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3598,7 +4001,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790827800000",
+      "id": "enerzine-rss-7-1790827800000",
       "title": "Un robot sauteur à la manière d’une grenouille propulsé par des tiges élastiques torsadées",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3624,7 +4027,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790824200000",
+      "id": "enerzine-rss-8-1790824200000",
       "title": "Un prototype de Pitt met les nids-de-poule en sursis",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3676,7 +4079,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1790863475000",
+      "id": "lenergeek-rss-1-1790863475000",
       "title": "Voiture électrique : la crise pétrolière accélère la transition énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3701,7 +4104,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1790859403000",
+      "id": "lenergeek-rss-2-1790859403000",
       "title": "Leasing social : 55 000 pompes à chaleur installées dès novembre 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3726,7 +4129,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1790847300000",
+      "id": "lenergeek-rss-3-1790847300000",
       "title": "Nouveau record de vente de voitures électriques neuves en France en août 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3752,7 +4155,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1790837400000",
+      "id": "lenergeek-rss-4-1790837400000",
       "title": "Pompes à chaleur : Octopus et Effy promettent zéro surcoût aux ménages",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3777,7 +4180,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1790835654000",
+      "id": "lenergeek-rss-5-1790835654000",
       "title": "Avec Abel Pintos, ils veulent collecter 10 000 briques en une semaine pour restaurer un pavillon de l’Hôpital des Enfants",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3802,7 +4205,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1790833840000",
+      "id": "lenergeek-rss-6-1790833840000",
       "title": "J’ai placé une pièce de monnaie sur mon routeur Wi-Fi et ça à tout changé : » J’aurai dû le faire plus tôt «",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3827,7 +4230,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1790832050000",
+      "id": "lenergeek-rss-7-1790832050000",
       "title": "Des experts en gaz tombent sur une épave vieille de 400 ans au lieu d’un tracé de pipeline",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3851,7 +4254,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1790829900000",
+      "id": "lenergeek-rss-8-1790829900000",
       "title": "Paradoxe du pétrole : le brut coule, vos factures explosent",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3876,7 +4279,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1790827140000",
+      "id": "lenergeek-rss-9-1790827140000",
       "title": "Alaska LNG : Séoul finance un pipeline de 1 300 km pour 54 milliards",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3927,85 +4330,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790885627000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1790885627000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1790885627000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1790880425000",
+      "id": "le-journal-du-grand-paris-rss-1-1790880425000",
       "title": "L’essentiel de la semaine du 28 septembre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4030,7 +4355,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1790879433000",
+      "id": "le-journal-du-grand-paris-rss-2-1790879433000",
       "title": "Thermo-sur-Seine : Pierre Bell-Lloch va consulter sa population",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4054,7 +4379,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1790862697000",
+      "id": "le-journal-du-grand-paris-rss-3-1790862697000",
       "title": "Stéphane Troussel prend la présidence de Séquano",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4079,7 +4404,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1790862447000",
+      "id": "le-journal-du-grand-paris-rss-4-1790862447000",
       "title": "Transformation des bureaux : l’Institut Paris Region donne des outils aux collectivités",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5575,7 +5900,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1790781069000",
+      "id": "vert-rss-2-1790781069000",
       "title": "Un «costard en kevlar» : l’affaire Bardella révèle le visage du fascisme et l’honneur du journalisme",
       "source": "Vert",
       "sourceId": "vert",
@@ -5600,7 +5925,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1790760379000",
+      "id": "vert-rss-3-1790760379000",
       "title": "Des traces de matière fécale dans l’eau d’un collège de Bagnolet : «Elle sortait souvent trouble des robinets»",
       "source": "Vert",
       "sourceId": "vert",
@@ -5625,7 +5950,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1790757549000",
+      "id": "vert-rss-4-1790757549000",
       "title": "La dessinatrice Laura Pozzi nous emmène dans «La Dernière Forêt» primaire d’Europe, à la rencontre de sa gardienne Simona Kossak",
       "source": "Vert",
       "sourceId": "vert",
@@ -5651,7 +5976,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1790740800000",
+      "id": "vert-rss-5-1790740800000",
       "title": "Au Brésil, les femmes autochtones à la conquête du pouvoir : «La violence politique est extrêmement forte»",
       "source": "Vert",
       "sourceId": "vert",
@@ -5671,6 +5996,81 @@
         "Politiques publiques"
       ],
       "summary": "En 2026, un nombre record d’autochtones se présentent aux élections brésiliennes. Une dynamique largement portée par les femmes, qui tentent de conquérir les institutions sans renoncer aux combats de leurs peuples. En 2026, un nombre record d’autochtones se présentent aux électio…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-7-1790785869000",
+      "title": "Matignon, Luxel, Enerparc, André Joffre… : les coulisses du colloque du Ser (2)",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/matignon-luxel-enerparc-andre-joffre-les-coulisses-du-colloque-du-ser-2-434509/",
+      "image": null,
+      "date": "2026-09-30",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "Notre sélection d’informations et points de vue recueillis par la rédaction de GreenUnivers auprès des participants au colloque du Syndicat des énergies renouvelables organisé mardi 29 septembre à Paris. Elle suit un premier article reprenant certains propos tenus par les interve…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-8-1790782569000",
+      "title": "Une usine Villeroy & Boch multiplie les alternatives au gaz naturel",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/une-usine-villeroy-boch-multiplie-les-alternatives-au-gaz-naturel-433872/",
+      "image": null,
+      "date": "2026-09-30",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation"
+      ],
+      "summary": "Le site pourrait faire office de poisson-pilote pour l’industrie. Spécialisée dans la fabrication de produits en céramique, l’usine du groupe allemand Villeroy & Boch à Valence-d’Agen (Tarn-et-Garonne) avait déjà lancé L’article Une usine Villeroy & Boch multiplie les alternative…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-9-1790780045000",
+      "title": "Leasing PAC : six lauréats, la viabilité des offres à confirmer",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/09/leasing-pac-six-laureats-la-viabilite-des-offres-a-confirmer-434523/",
+      "image": null,
+      "date": "2026-09-30",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "« L’engagement est tenu dans les délais. » Soit avant le 1er octobre. En dévoilant ce 30 septembre les six premiers lauréats de l’offre intégrée pour les pompes à chaleur (PAC), le ministère en charge de l’énergie s’est félicité du lancement, conformément au plan d’électrificatio…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5803,7 +6203,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790806200000",
+      "id": "enerzine-rss-9-1790806200000",
       "title": "Un chercheur découvre des preuves expérimentales d’un nouveau type de magnétisme",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5825,79 +6225,6 @@
         "Eau"
       ],
       "summary": "Pour construire les ordinateurs ultra-rapides de demain, les scientifiques ne s’intéressent plus seulement à la charge électrique des électrons, mais à une autre propriété : leur spin. Alors que le matériel conventionnel repose entièrement sur le mouvement de la charge pour trait…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-7-1790770200000",
-      "title": "CAF dévoile au salon InnoTrans un train régional à batteries, le Civity BEMU",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/caf-devoile-au-salon-innotrans-un-train-regional-a-batteries-le-civity-bemu/195922-2026-09",
-      "image": null,
-      "date": "2026-09-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Le constructeur CAF a présenté le Civity BEMU, une rame régionale électrique à batteries capable de circuler sous caténaire et sur lignes non électrifiées, afin d’accélérer la sortie du diesel. À l’occasion du salon InnoTrans de Berlin, CAF a présenté au public international le C…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790767680000",
-      "title": "Windows 11 26H2 débarque en silence, votre PC ne va presque pas bouger",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/windows-11-26h2-debarque-en-silence-votre-pc-ne-va-presque-pas-bouger/195934-2026-09",
-      "image": null,
-      "date": "2026-09-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Microsoft a commencé à déployer la version 26H2 de Windows 11, surnommée 2026 Update. Pour les utilisateurs éligibles disposant déjà des mises à jour nécessaires, cette nouvelle version s’installe rapidement, sans transformation spectaculaire du système. L’essentiel en 3 points U…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790746200000",
-      "title": "Comment concilier la puissance élevée des batteries quantiques avec une livraison d’énergie stable ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/comment-concilier-la-puissance-elevee-des-batteries-quantiques-avec-une-livraison-denergie-stable/195839-2026-09",
-      "image": null,
-      "date": "2026-09-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "De nouvelles recherches identifient des limites fondamentales à la fiabilité des batteries quantiques et montrent comment les stratégies de charge peuvent concilier une puissance élevée avec une livraison stable d’énergie et de puissance. Ces résultats constituent une étape impor…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5952,7 +6279,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1790769540000",
+      "id": "lenergeek-rss-10-1790769540000",
       "title": "L’IA va dévorer 42% de la capacité nucléaire mondiale d’ici 2030",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5976,7 +6303,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1790760035000",
+      "id": "lenergeek-rss-11-1790760035000",
       "title": "Incendie : les pompiers sont enfin venus à bout du mégafeu de Gironde",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6002,7 +6329,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1790749235000",
+      "id": "lenergeek-rss-12-1790749235000",
       "title": "Rémy, 70 ans, refuse la pompe à chaleur après avoir fait ses calculs : « il me faudrait 20 ans pour amortir, je ne serai plus là »",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6027,7 +6354,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1790747437000",
+      "id": "lenergeek-rss-13-1790747437000",
       "title": "Mon voisin installe une dalle inclinée sous chaque gouttière : quand un maçon m’a expliqué la vraie raison, j’ai fait pareil le week-end suivant",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6052,7 +6379,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1790745656000",
+      "id": "lenergeek-rss-14-1790745656000",
       "title": "Un ‘voyageur du temps’ venu de l’an 6000 lance un avertissement glaçant sur l’IA en montrant une photo du futur",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6076,7 +6403,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1790744931000",
+      "id": "lenergeek-rss-15-1790744931000",
       "title": "L’énergie va coûter très cher aux Européens cet hiver",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6125,7 +6452,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1790788668000",
+      "id": "le-journal-du-grand-paris-rss-5-1790788668000",
       "title": "En Ile-de-France, l’industrie résiste encore dans une économie au ralenti",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7239,7 +7566,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1790692101000",
+      "id": "vert-rss-6-1790692101000",
       "title": "Laure Moriot, pompière atteinte d’un cancer : «C’est un métier qui nous détruit de l’intérieur»",
       "source": "Vert",
       "sourceId": "vert",
@@ -7263,7 +7590,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1790673509000",
+      "id": "vert-rss-7-1790673509000",
       "title": "«On vit un paradoxe terrible» : trahie par le gouvernement, la filière des énergies renouvelables s’enfonce dans la crise",
       "source": "Vert",
       "sourceId": "vert",
@@ -7289,7 +7616,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1790673000000",
+      "id": "vert-rss-8-1790673000000",
       "title": "La France réautorise le triallate, un pesticide interdit en raison d’un «risque inacceptable» pour l’eau",
       "source": "Vert",
       "sourceId": "vert",
@@ -7470,7 +7797,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1790688881000",
+      "id": "lenergeek-rss-16-1790688881000",
       "title": "Tesla Roadster : pourquoi la démonstration nécessite un ciel dégagé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7496,7 +7823,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1790675905000",
+      "id": "lenergeek-rss-17-1790675905000",
       "title": "Intelligence artificielle : 40% des TPE-PME françaises l’adoptent en 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7521,7 +7848,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1790662800000",
+      "id": "lenergeek-rss-18-1790662800000",
       "title": "Evie Haupt, 75 ans, agricultrice en Iowa, a indiqué que ses trois éoliennes produisaient environ 35 000 dollars annuels",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7545,7 +7872,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1790661000000",
+      "id": "lenergeek-rss-19-1790661000000",
       "title": "« Je ne comprends pas, ma facture ne baisse pas » : le piège que découvrent ceux qui branchent leurs toilettes sur la cuve d’eau de pluie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7571,7 +7898,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1790659243000",
+      "id": "lenergeek-rss-20-1790659243000",
       "title": "« Je refuse de finir en maison de retraite » : à 62 ans, elle construit seule un chalet en bois à Córdoba et inspire des centaines de femmes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7597,7 +7924,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1790659080000",
+      "id": "lenergeek-rss-21-1790659080000",
       "title": "Gaz qatari : l’Europe privée de livraisons jusqu’à fin 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7621,7 +7948,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1790655241000",
+      "id": "lenergeek-rss-22-1790655241000",
       "title": "TotalEnergies mise sur 13 ans de réserves pour sa croissance pétrolière",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7645,7 +7972,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1790650800000",
+      "id": "lenergeek-rss-23-1790650800000",
       "title": "Agrivoltaïsme, transition énergétique dans le monde agricole et valorisation durable des exploitations",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7671,7 +7998,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1790696728000",
+      "id": "le-journal-du-grand-paris-rss-6-1790696728000",
       "title": "Les entreprises franciliennes face aux « défis stratégiques de l’eau »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7696,7 +8023,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1790695203000",
+      "id": "le-journal-du-grand-paris-rss-7-1790695203000",
       "title": "Le plan de Paris face à l’affolement estival des thermomètres",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7721,7 +8048,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1790694049000",
+      "id": "le-journal-du-grand-paris-rss-8-1790694049000",
       "title": "IDFM : confiance retrouvée avec Alstom, « grande vigilance » sur le calendrier du Grand Paris express",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8638,31 +8965,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-23-1790602418000",
-      "title": "Panneaux photovoltaïques : 17% des installations mises en service en 2026 sont équipées d’une batterie",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/09/28/panneaux-photovoltaiques-installations-batterie/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/09/shutterstock_2520849833.jpg",
-      "date": "2026-09-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Au premier semestre 2026, 17% des installations photovoltaïques neuves en autoconsommation intègrent une batterie de stockage, contre 6% en 2025. Le parc français atteint 203 MW de capacité couplée, porté par la bascule économique du modèle : stocker l'énergie solaire est désorma…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "bois-com-sitemap-0-1790589354000",
       "title": "articles",
       "source": "Bois.com",
@@ -8715,7 +9017,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1790613599000",
+      "id": "le-journal-du-grand-paris-rss-9-1790613599000",
       "title": "Quai d’Austerlitz, le chantier de l’hôtel logistique des Amarres entre dans le dur",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8737,32 +9039,6 @@
         "Économie du bâtiment"
       ],
       "summary": "Le curage achevé, le gros œuvre démarre quai d'Austerlitz (Paris 13e arr.), face à Bercy, où les pavillons 1 et 2 des anciens Magasins généraux vont devenir un hôtel logistique de 6 200 m² porté par la SCI Les Amarres (Sogaris-Haropa Port), livrable début 2028. Les marchandises a…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1790612135000",
-      "title": "Bye-bye Potocki, bonjour Jouhaux-Toudic !",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/bye-bye-potocki-bonjour-jouhaux-toudic/",
-      "image": null,
-      "date": "2026-09-28",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Après 100 ans à l'hôtel Potocki, la Chambre de commerce et d'industrie de Paris Île-de-France a inauguré lundi 28 septembre son nouveau siège, nommé Jouhaux-Toudic d'après les deux rues qui l'encadrent, entre République et le canal Saint-Martin. L'installation, effective au 1er j…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8818,7 +9094,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1790481600000",
+      "id": "vert-rss-9-1790481600000",
       "title": "Croquettes, pâtées, repas maison ou menus végé : quelle est la nourriture pour chat et chien la plus écologique ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -9044,32 +9320,6 @@
         "Économie du bâtiment"
       ],
       "summary": "La cuisine à base de légumineuses est loin d'être indigeste et mauvaise ! La cheffe et autrice Zohra Levacher vous a concocté un menu de saison pour vous prouver le contraire. Allez, chiche !, on cuisine et on goûte. Il se pourrait bien que Zohra Levacher ait trouvé la recette po…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "vert-rss-9-1790440641000",
-      "title": "Marche pour le climat : à Fontainebleau comme dans plus de 260 villes, «l’été a provoqué une grosse envie d’agir»",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/rapports-de-force/marche-pour-le-climat-a-fontainebleau-comme-dans-plus-de-260-villes-lete-a-provoque-une-grosse-envie-dagir/",
-      "image": null,
-      "date": "2026-09-26",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Samedi, des manifestant·es se sont rassemblé·es dans plus de 260 villes de France à l’appel du mouvement citoyen pour le climat, le vivant et la justice sociale. Vert s’est rendu à Fontainebleau, où l’été caniculaire et l’incendie historique ont poussé des habitant·es à organiser…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
