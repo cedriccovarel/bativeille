@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T19:50:35.012Z",
+  "generatedAt": "2026-10-02T23:39:35.613Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3764,7 +3764,58 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790952600000",
+      "id": "enerzine-rss-0-1790979000000",
+      "title": "Lancement de la première bibliothèque d’imagerie de batteries en libre accès au monde",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/lancement-de-la-premiere-bibliotheque-dimagerie-de-batteries-en-libre-acces-au-monde/195962-2026-10",
+      "image": null,
+      "date": "2026-10-02",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Des scientifiques de Diamond Light Source et de l’ISIS Neutron and Muon Source ont contribué au développement de la première bibliothèque d’imagerie de batteries en libre accès au monde. La bibliothèque a été créée dans le cadre d’une collaboration internationale dirigée par le D…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790975700000",
+      "title": "Sky Elements bat deux records mondiaux de drones au Texas",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/sky-elements-bat-deux-records-mondiaux-de-drones-au-texas/196102-2026-10",
+      "image": null,
+      "date": "2026-10-02",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "Sky Elements et Damoda America ont lancé 71 207 drones en trois nuits à Blue Ridge, au Texas, du 27 au 29 septembre 2026. Deux records Guinness ont été officialisés, dont un spectacle de 11 000 drones, le plus grand jamais réalisé en Amérique. L’entreprise entend démontrer sa cap…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1790952600000",
       "title": "Chariots élévateurs : pourquoi l’infrastructure énergétique de l’entrepôt compte autant que la motorisation",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3788,7 +3839,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790919000000",
+      "id": "enerzine-rss-3-1790919000000",
       "title": "Une nouvelle méthode utilise les vibrations de surface pour déplacer et faire tourner de petits objets",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3812,7 +3863,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790917800000",
+      "id": "enerzine-rss-4-1790917800000",
       "title": "Un chapitre caché des collisions cosmiques en rayons X est mis en lumière",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3836,7 +3887,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790914200000",
+      "id": "enerzine-rss-5-1790914200000",
       "title": "Un papier peint qui génère de l’électricité ? Des chercheurs new-yorkais l’ont développé",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3861,7 +3912,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790910600000",
+      "id": "enerzine-rss-6-1790910600000",
       "title": "Contrôler les électrons à l’aide de champs de lumière tridimensionnels",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4159,7 +4210,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1790970617000",
+      "id": "le-commerce-du-bois-sitemap-0-1790984359000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4185,7 +4236,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1790970617000",
+      "id": "le-commerce-du-bois-sitemap-1-1790984359000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4211,7 +4262,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1790970617000",
+      "id": "le-commerce-du-bois-sitemap-2-1790984359000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -5892,7 +5943,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790892600000",
+      "id": "enerzine-rss-7-1790892600000",
       "title": "Une catalyse efficace avec moins de métal",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5917,7 +5968,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790864100000",
+      "id": "enerzine-rss-8-1790864100000",
       "title": "TagEnergy et Banque des Territoires inaugurent une batterie de 240 MW",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5943,7 +5994,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790862000000",
+      "id": "enerzine-rss-9-1790862000000",
       "title": "Gazole non routier : prolongation des aides jusqu’à fin 2026, un répit encore incomplet pour les engins non routiers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5964,55 +6015,6 @@
         "Bâtiment"
       ],
       "summary": "Les aides au gazole non routier sont annoncées jusqu’au 31 décembre 2026, avec des montants variables selon les secteurs. Ce soutien laisse toutefois une question ouverte, celle des modalités de demande pour les derniers mois de l’année, encore non complètement détaillées dans le…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790832600000",
-      "title": "Un avenir vert propulsé par des pigments bleus",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-avenir-vert-propulse-par-des-pigments-bleus/195985-2026-10",
-      "image": null,
-      "date": "2026-10-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Et si le pigment bleu de votre encre ou de votre teinture pouvait contribuer à alimenter l’avenir de l’énergie propre ? Une étude récente a montré qu’il s’agit là d’une possibilité pour l’avenir. Une équipe de recherche dirigée par le professeur Hiroshi Yabu, de l’Advanced Instit…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790831400000",
-      "title": "Smart #2 : la sécurité et la plateforme électrique en détail",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/smart-2-la-securite-et-la-plateforme-electrique-en-detail/195940-2026-10",
-      "image": null,
-      "date": "2026-10-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "Le constructeur smart a présenté en Allemagne, les caractéristiques techniques de sa future citadine électrique deux places smart #2 avant sa première mondiale au Mondial de l’Auto de Paris. La future smart #2 reposera sur une évolution de la cellule de sécurité Tridion, dénommée…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13690,7 +13692,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -18805,7 +18807,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -18904,7 +18906,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -19315,7 +19317,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
