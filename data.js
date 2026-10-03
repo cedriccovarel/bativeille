@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-02T23:39:35.613Z",
+  "generatedAt": "2026-10-03T04:32:34.826Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,181 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1791000600000",
+      "title": "Un aperçu de l’intérieur, sans réellement regarder à l’intérieur",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-apercu-de-linterieur-sans-reellement-regarder-a-linterieur/196009-2026-10",
+      "image": null,
+      "date": "2026-10-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Les procédés industriels génèrent de grandes quantités de chaleur, qui ne peuvent souvent pas être utilisées immédiatement. Une raison essentielle à cela tient au fait que l’offre et la demande de chaleur ne coïncident souvent pas sur le plan temporel. Les systèmes de stockage d’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1790997000000",
+      "title": "Comment un nouveau textile pourrait tripler la production des plants de fraisiers",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/comment-un-nouveau-textile-pourrait-tripler-la-production-des-plants-de-fraisiers/196003-2026-10",
+      "image": null,
+      "date": "2026-10-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Un nouveau textile utilisé pour couvrir les plants de fraisiers a plus que triplé les rendements de fraises lors d’essais au champ en tunnel, sans impact négatif sur la santé des plantes. Cette technologie pourrait également réduire de manière significative l’utilisation de l’eau…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1790993400000",
+      "title": "Toyota inaugure un centre dédié aux batteries sur le campus de R&D du Michigan",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/toyota-inaugure-un-centre-dedie-aux-batteries-sur-le-campus-de-rd-du-michigan/196118-2026-10",
+      "image": null,
+      "date": "2026-10-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Toyota a inauguré à Saline, dans le Michigan, le Toyota Battery Center of North America, un site de 2 800 m² destiné à évaluer et développer des technologies de batteries. Le 1er octobre 2026 à Saline, dans le Michigan, Toyota, la firme japonaise automobile a inauguré le « Toyota…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-3-1790989800000",
+      "title": "Les modules solaires back contact TCL SunPower disponibles en Europe",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/les-modules-solaires-back-contact-tcl-sunpower-disponibles-en-europe/196125-2026-10",
+      "image": null,
+      "date": "2026-10-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "TCL SunPower Global a annoncé depuis Lyon, la commercialisation européenne de la gamme de modules photovoltaïques TCL Solar C2, destinée aux installations résidentielles, commerciales et au sol. La filiale dédiée aux solutions photovoltaïques née de l’acquisition stratégique de S…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1791001941000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1791001941000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1791001941000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "base-inies-rss-0-1790944080000",
       "title": "Nouvelles données fin de vie des emballages : la version actualisée est disponible !",
       "source": "Base INIES",
@@ -3764,7 +3939,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1790979000000",
+      "id": "enerzine-rss-4-1790979000000",
       "title": "Lancement de la première bibliothèque d’imagerie de batteries en libre accès au monde",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3790,7 +3965,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790975700000",
+      "id": "enerzine-rss-5-1790975700000",
       "title": "Sky Elements bat deux records mondiaux de drones au Texas",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3815,7 +3990,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790952600000",
+      "id": "enerzine-rss-6-1790952600000",
       "title": "Chariots élévateurs : pourquoi l’infrastructure énergétique de l’entrepôt compte autant que la motorisation",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3839,7 +4014,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790919000000",
+      "id": "enerzine-rss-7-1790919000000",
       "title": "Une nouvelle méthode utilise les vibrations de surface pour déplacer et faire tourner de petits objets",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3863,7 +4038,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790917800000",
+      "id": "enerzine-rss-8-1790917800000",
       "title": "Un chapitre caché des collisions cosmiques en rayons X est mis en lumière",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3887,7 +4062,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790914200000",
+      "id": "enerzine-rss-9-1790914200000",
       "title": "Un papier peint qui génère de l’électricité ? Des chercheurs new-yorkais l’ont développé",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3908,30 +4083,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Plus de 6 millions de foyers américains ont des panneaux solaires sur leur toit — mais et si vous pouviez aussi produire de l’électricité à l’intérieur de votre maison ? Des chercheurs de l’Université Binghamton à New-York (USA) ont développé un nouveau type de papier peint qui t…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-6-1790910600000",
-      "title": "Contrôler les électrons à l’aide de champs de lumière tridimensionnels",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/controler-les-electrons-a-laide-de-champs-de-lumiere-tridimensionnels/195974-2026-10",
-      "image": null,
-      "date": "2026-10-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "En superposant deux impulsions laser ultrabrèves convergeant depuis des directions différentes, une équipe de physiciens de l’Université d’Oldenburg, en Allemagne, est parvenue à générer des champs de lumière tridimensionnels. Au moyen de cette même méthode, ils ont également pu …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4208,84 +4359,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Le prix du gazole a explosé de 46% en un an pour le transport routier, révélant l'échec du mécanisme d'indexation carburant censé protéger le secteur. Le 21 octobre 2026, l'OTRE et la FAI mobiliseront 3 600 entreprises à Paris pour exiger une refonte du système tarifaire, une bai…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1790984359000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1790984359000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1790984359000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1790942699000",
@@ -5939,82 +6012,6 @@ window.BATIVEILLE_DATA = {
         "Pédagogie"
       ],
       "summary": "Dans la guerre tarifaire qui oppose les États-Unis et le Canada, l’énergie occupe une place centrale. Dans la guerre tarifaire qui oppose les États-Unis et le Canada, l’énergie occupe une place centrale. Tensions Canada/États-Unis : pourquoi il s’agit de la « guerre commerciale l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-7-1790892600000",
-      "title": "Une catalyse efficace avec moins de métal",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/une-catalyse-efficace-avec-moins-de-metal/195954-2026-10",
-      "image": null,
-      "date": "2026-10-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "Les produits pharmaceutiques, les produits chimiques fins et les produits agrochimiques sont fabriqués industriellement à l’aide d’un large éventail de réactions chimiques. Ces procédés doivent devenir plus efficaces, moins coûteux et plus durables. Le groupe de Pieber à l’Instit…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790864100000",
-      "title": "TagEnergy et Banque des Territoires inaugurent une batterie de 240 MW",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/tagenergy-et-banque-des-territoires-inaugurent-une-batterie-de-240-mw/196070-2026-10",
-      "image": null,
-      "date": "2026-10-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "TagEnergy et la Banque des Territoires viennent d’inaugurer aujourd’hui à Cernay-lès-Reims (Marne) une installation de stockage par batteries de 240 MW et 480 MWh, en exploitation depuis mai 2026, afin de renforcer la flexibilité du réseau électrique. TagEnergy et la Banque des T…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790862000000",
-      "title": "Gazole non routier : prolongation des aides jusqu’à fin 2026, un répit encore incomplet pour les engins non routiers",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/gnr-prolonge-fin-2026-sursis-double-vitesse/196053-2026-10",
-      "image": null,
-      "date": "2026-10-01",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Bâtiment"
-      ],
-      "summary": "Les aides au gazole non routier sont annoncées jusqu’au 31 décembre 2026, avec des montants variables selon les secteurs. Ce soutien laisse toutefois une question ouverte, celle des modalités de demande pour les derniers mois de l’année, encore non complètement détaillées dans le…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9148,30 +9145,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "16.10 Table ronde - projection « Le Corbusier, la série » Perle lun 28/09/2026 - 16:29 Zone géographique Provence-Alpes-Côte d'Azur Média Villa Savoye, Le Corbusier - Accroche Pour le lancement régional des Journées nationales de l’architecture, l’Ordre des architectes PACA organ…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "fncaue-rss-0-1790602999000",
-      "title": "Les Enfants du Patrimoine : un succès qui rappelle l’importance du réseau des CAUE",
-      "source": "FNCAUE",
-      "sourceId": "fncaue",
-      "sourceType": "Réseau CAUE",
-      "region": "National",
-      "url": "https://www.fncaue.com/les-enfants-du-patrimoine-un-succes-qui-rappelle-limportance-du-reseau-des-caue/",
-      "image": null,
-      "date": "2026-09-28",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Architecture",
-        "Urbanisme",
-        "Conseil",
-        "Eau"
-      ],
-      "summary": "Les élèves toujours au rendez-vous pour la 9e édition Cet article Les Enfants du Patrimoine : un succès qui rappelle l’importance du réseau des CAUE est apparu en premier sur CAUE. Les élèves toujours au rendez-vous pour la 9e édition Cet article Les Enfants du Patrimoine : un su…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16741,29 +16714,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "fncaue-rss-1-1787928775000",
-      "title": "Les Enfants du patrimoine – dossier de presse",
-      "source": "FNCAUE",
-      "sourceId": "fncaue",
-      "sourceType": "Réseau CAUE",
-      "region": "National",
-      "url": "https://www.fncaue.com/les-enfants-du-patrimoine-dossier-de-presse/",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Architecture",
-        "Urbanisme",
-        "Conseil"
-      ],
-      "summary": "Les informations détaillées de la 9e édition Cet article Les Enfants du patrimoine – dossier de presse est apparu en premier sur CAUE. Les informations détaillées de la 9e édition Cet article Les Enfants du patrimoine &#8211; dossier de presse est apparu en premier sur CAUE . Les…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "oreo-bretagne-sitemap-23-1787875354000",
       "title": "reglementation etat eau surface littorale Bretagne",
       "source": "OREO Bretagne",
@@ -19503,31 +19453,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "fncaue-rss-2-1784792568000",
-      "title": "La FNCAUE mobilisée pour le déploiement du « Parcours Projet Habitat Rural »",
-      "source": "FNCAUE",
-      "sourceId": "fncaue",
-      "sourceType": "Réseau CAUE",
-      "region": "National",
-      "url": "https://www.fncaue.com/la-fncaue-mobilisee-pour-le-deploiement-du-parcours-projet-habitat-rural/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Architecture",
-        "Urbanisme",
-        "Conseil",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "Face aux enjeux spécifiques du logement dans les territoires ruraux, la Direction générale de l’aménagement, du logement et de la nature (DGALN), a développé le Parcours Projet Habitat Rural, en partenariat avec l’Agence nationale de la cohésion des territoires (ANCT). Conçu comm…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "arec-nouvelle-aquitaine-rss-3-1784794183000",
       "title": "Nouvelles données énergie et gaz à effet de serre en Nouvelle-Aquitaine",
       "source": "AREC Nouvelle-Aquitaine",
@@ -21640,29 +21565,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Caractéristiques principales Nom : Parcs en Scène, lots 2.4 E et 2.4 E’ Certification(s) : NF Habitat HQE Très Performant, RE2020 Seuils 2025, RE2020 Seuils 2028, Label BBCA Livraison : 15 avril 2026 Acteurs : Groupement constitué par Linkcity et CDC Habitat, associés au sein d’u…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "fncaue-rss-3-1783344570000",
-      "title": "Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL",
-      "source": "FNCAUE",
-      "sourceId": "fncaue",
-      "sourceType": "Réseau CAUE",
-      "region": "National",
-      "url": "https://www.fncaue.com/taxe-damenagement-un-courrier-conjoint-adresse-au-ministre-david-amiel/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Architecture",
-        "Urbanisme",
-        "Conseil"
-      ],
-      "summary": "Les associations nationales unies pour une réponse rapide de l'État Cet article Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL est apparu en premier sur CAUE. Les associations nationales unies pour une réponse rapide de l'État Cet article Taxe d&rsquo;a…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
