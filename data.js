@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-03T18:37:02.717Z",
+  "generatedAt": "2026-10-03T22:47:18.034Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2240,7 +2240,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://reporterre.net/Brandir-la-maladie-d-Act-Up-a-Cancer-Colere-des-luttes-a-la-vie-a-la-mort",
+      "url": "https://reporterre.net/Blocages-et-confrontation-d-Act-Up-a-Cancer-colere-les-malades-passent-a-l-action",
       "image": "https://reporterre.net/local/cache-vignettes/L700xH467/sanscarecolere-35dc0.jpg?1791007201",
       "date": "2026-10-03",
       "access": "Gratuit",
@@ -2309,7 +2309,81 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1791000600000",
+      "id": "enerzine-rss-0-1791065400000",
+      "title": "Un matériau poreux plus souple pourrait contribuer à améliorer les batteries tout solide",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-materiau-poreux-plus-souple-pourrait-contribuer-a-ameliorer-les-batteries-tout-solide/195966-2026-10",
+      "image": null,
+      "date": "2026-10-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Pour les batteries tout solide, déplacer efficacement les ions lithium n’est qu’une partie du défi la façon dont le matériau se comporte mécaniquement peut aussi compter. Des chercheurs de l’Université Rice, issus des départements de génie chimique et biomoléculaire, de chimie et…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1791059100000",
+      "title": "Citroën 2CV électrique, voilà à quoi elle devrait ressembler selon ChatGPT",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/citroen-2cv-electrique-voila-a-quoi-elle-devrait-ressembler-selon-chatgpt/196142-2026-10",
+      "image": null,
+      "date": "2026-10-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "La Citroën 2CV électrique (surnommée autrefois la deuche) prépare son grand retour, cette fois en électrique. Elle sera présentée au salon de l’auto 2026 de Paris. Avec un prix de base fixé autour de 15 000 euros, encore indicatif, elle pourrait rebattre les cartes du marché élec…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1791055200000",
+      "title": "RoboParty présente RP1, le robot humanoïde open source, à l’IROS",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/roboparty-presente-rp1-le-robot-humanoide-open-source-a-liros/196133-2026-10",
+      "image": null,
+      "date": "2026-10-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "RoboParty a dévoilé aux USA lors de la conférence IROS, le robot humanoïde RP1, plateforme bipède open source destinée aux développeurs, avec des démonstrations de stabilité dynamique. Le 28 septembre 2026, à Pittsburgh, l’entreprise basée en Chine, RoboParty a dévoilé son robot …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-3-1791000600000",
       "title": "Un aperçu de l’intérieur, sans réellement regarder à l’intérieur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2333,7 +2407,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1790997000000",
+      "id": "enerzine-rss-4-1790997000000",
       "title": "Comment un nouveau textile pourrait tripler la production des plants de fraisiers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2358,7 +2432,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1790993400000",
+      "id": "enerzine-rss-5-1790993400000",
       "title": "Toyota inaugure un centre dédié aux batteries sur le campus de R&D du Michigan",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2382,7 +2456,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1790989800000",
+      "id": "enerzine-rss-6-1790989800000",
       "title": "Les modules solaires back contact TCL SunPower disponibles en Europe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2527,7 +2601,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1791052598000",
+      "id": "le-commerce-du-bois-sitemap-0-1791067623000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2553,7 +2627,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1791052598000",
+      "id": "le-commerce-du-bois-sitemap-1-1791067623000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2579,7 +2653,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1791052598000",
+      "id": "le-commerce-du-bois-sitemap-2-1791067623000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4208,7 +4282,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790979000000",
+      "id": "enerzine-rss-7-1790979000000",
       "title": "Lancement de la première bibliothèque d’imagerie de batteries en libre accès au monde",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4234,7 +4308,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790975700000",
+      "id": "enerzine-rss-8-1790975700000",
       "title": "Sky Elements bat deux records mondiaux de drones au Texas",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4259,7 +4333,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790952600000",
+      "id": "enerzine-rss-9-1790952600000",
       "title": "Chariots élévateurs : pourquoi l’infrastructure énergétique de l’entrepôt compte autant que la motorisation",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4279,79 +4353,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "Comparer les caractéristiques de deux chariots élévateurs ne suffit pas pour choisir leur énergie. Dans un entrepôt, la disponibilité des engins dépend aussi de ce qui les entoure : puissance électrique mobilisable, temps accordé à la recharge ou au ravitaillement, espace disponi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-7-1790919000000",
-      "title": "Une nouvelle méthode utilise les vibrations de surface pour déplacer et faire tourner de petits objets",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/une-nouvelle-methode-utilise-les-vibrations-de-surface-pour-deplacer-et-faire-tourner-de-petits-objets/196001-2026-10",
-      "image": null,
-      "date": "2026-10-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Des chercheurs chinois ont mis au point une nouvelle méthode pour manipuler des objets sur des surfaces solides à l’aide de vibrations structurées de manière spécifique, permettant de confiner des particules et d’autres petits objets, de les déplacer sur des trajectoires circulai…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790917800000",
-      "title": "Un chapitre caché des collisions cosmiques en rayons X est mis en lumière",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-chapitre-cache-des-collisions-cosmiques-en-rayons-x-est-mis-en-lumiere/195992-2026-10",
-      "image": null,
-      "date": "2026-10-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "On pense que les sursauts gamma courts (GRB courts) sont produits lorsque deux étoiles compactes, telles que des étoiles à neutrons, orbitent l’une autour de l’autre, entrent en collision et fusionnent. Ces événements cataclysmiques génèrent des ondes gravitationnelles et compten…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790914200000",
-      "title": "Un papier peint qui génère de l’électricité ? Des chercheurs new-yorkais l’ont développé",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-papier-peint-qui-genere-de-lelectricite-des-chercheurs-new-yorkais-lont-developpe/195980-2026-10",
-      "image": null,
-      "date": "2026-10-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Plus de 6 millions de foyers américains ont des panneaux solaires sur leur toit — mais et si vous pouviez aussi produire de l’électricité à l’intérieur de votre maison ? Des chercheurs de l’Université Binghamton à New-York (USA) ont développé un nouveau type de papier peint qui t…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9073,30 +9074,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "16.10 Table ronde - projection « Le Corbusier, la série » Perle lun 28/09/2026 - 16:29 Zone géographique Provence-Alpes-Côte d'Azur Média Villa Savoye, Le Corbusier - Accroche Pour le lancement régional des Journées nationales de l’architecture, l’Ordre des architectes PACA organ…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "fncaue-rss-0-1790602999000",
-      "title": "Les Enfants du Patrimoine : un succès qui rappelle l’importance du réseau des CAUE",
-      "source": "FNCAUE",
-      "sourceId": "fncaue",
-      "sourceType": "Réseau CAUE",
-      "region": "National",
-      "url": "https://www.fncaue.com/les-enfants-du-patrimoine-un-succes-qui-rappelle-limportance-du-reseau-des-caue/",
-      "image": null,
-      "date": "2026-09-28",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Architecture",
-        "Urbanisme",
-        "Conseil",
-        "Eau"
-      ],
-      "summary": "Les élèves toujours au rendez-vous pour la 9e édition Cet article Les Enfants du Patrimoine : un succès qui rappelle l’importance du réseau des CAUE est apparu en premier sur CAUE. Les élèves toujours au rendez-vous pour la 9e édition Cet article Les Enfants du Patrimoine : un su…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16565,29 +16542,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "fncaue-rss-1-1787928775000",
-      "title": "Les Enfants du patrimoine – dossier de presse",
-      "source": "FNCAUE",
-      "sourceId": "fncaue",
-      "sourceType": "Réseau CAUE",
-      "region": "National",
-      "url": "https://www.fncaue.com/les-enfants-du-patrimoine-dossier-de-presse/",
-      "image": null,
-      "date": "2026-08-28",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Architecture",
-        "Urbanisme",
-        "Conseil"
-      ],
-      "summary": "Les informations détaillées de la 9e édition Cet article Les Enfants du patrimoine – dossier de presse est apparu en premier sur CAUE. Les informations détaillées de la 9e édition Cet article Les Enfants du patrimoine &#8211; dossier de presse est apparu en premier sur CAUE . Les…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "oreo-bretagne-sitemap-23-1787875354000",
       "title": "reglementation etat eau surface littorale Bretagne",
       "source": "OREO Bretagne",
@@ -19327,31 +19281,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "fncaue-rss-2-1784792568000",
-      "title": "La FNCAUE mobilisée pour le déploiement du « Parcours Projet Habitat Rural »",
-      "source": "FNCAUE",
-      "sourceId": "fncaue",
-      "sourceType": "Réseau CAUE",
-      "region": "National",
-      "url": "https://www.fncaue.com/la-fncaue-mobilisee-pour-le-deploiement-du-parcours-projet-habitat-rural/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Architecture",
-        "Urbanisme",
-        "Conseil",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "Face aux enjeux spécifiques du logement dans les territoires ruraux, la Direction générale de l’aménagement, du logement et de la nature (DGALN), a développé le Parcours Projet Habitat Rural, en partenariat avec l’Agence nationale de la cohésion des territoires (ANCT). Conçu comm…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "arec-nouvelle-aquitaine-rss-3-1784794183000",
       "title": "Nouvelles données énergie et gaz à effet de serre en Nouvelle-Aquitaine",
       "source": "AREC Nouvelle-Aquitaine",
@@ -21464,29 +21393,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Caractéristiques principales Nom : Parcs en Scène, lots 2.4 E et 2.4 E’ Certification(s) : NF Habitat HQE Très Performant, RE2020 Seuils 2025, RE2020 Seuils 2028, Label BBCA Livraison : 15 avril 2026 Acteurs : Groupement constitué par Linkcity et CDC Habitat, associés au sein d’u…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "fncaue-rss-3-1783344570000",
-      "title": "Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL",
-      "source": "FNCAUE",
-      "sourceId": "fncaue",
-      "sourceType": "Réseau CAUE",
-      "region": "National",
-      "url": "https://www.fncaue.com/taxe-damenagement-un-courrier-conjoint-adresse-au-ministre-david-amiel/",
-      "image": null,
-      "date": "2026-07-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Architecture",
-        "Urbanisme",
-        "Conseil"
-      ],
-      "summary": "Les associations nationales unies pour une réponse rapide de l'État Cet article Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL est apparu en premier sur CAUE. Les associations nationales unies pour une réponse rapide de l'État Cet article Taxe d&rsquo;a…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
