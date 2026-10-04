@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T15:13:34.738Z",
+  "generatedAt": "2026-10-04T22:55:02.926Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2289,7 +2289,79 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1791126300000",
+      "id": "enerzine-rss-0-1791151800000",
+      "title": "Climat : l’IA fait grimper les émissions des entreprises",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/climat-lia-fait-grimper-les-emissions-des-entreprises/196044-2026-10",
+      "image": null,
+      "date": "2026-10-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Une évaluation de l’Union internationale des télécommunications et de la World Benchmarking Alliance, rendue publique début septembre, montre que les émissions opérationnelles de 200 entreprises technologiques ont atteint 301 millions de tonnes de CO2 en 2024, en hausse de 1,2 %,…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1791141000000",
+      "title": "Amylose cardiaque, la maladie caméléon qui se cache derrière des signes banals",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/amylose-cardiaque-depistage-precoce/196175-2026-10",
+      "image": null,
+      "date": "2026-10-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Une campagne nationale de dépistage démarre à partir du 26 octobre 2026 pour traquer cette pathologie sournoise. Des signes dispersés peuvent précéder de plusieurs années son atteinte cardiaque. 📌 L’essentiel en 3 points L’amylose cardiaque à transthyrétine est un piège clinique…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1791128700000",
+      "title": "Abattement fiscal des retraités, voici le plafond qui pourrait faire grimper la note",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/abattement-fiscal-retraites-plafond-2027/196167-2026-10",
+      "image": null,
+      "date": "2026-10-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "La possible remise à plat du plafond de l’abattement de 10% sur les pensions prend forme dans les discussions budgétaires. Pour des millions de retraités imposables, ce mécanisme peut représenter plusieurs centaines d’euros d’impôt en moins chaque année. 📌 L’essentiel en 3 point…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-3-1791126300000",
       "title": "Loueur meublé non professionnel : le budget 2027 pourrait alourdir votre fiscalité",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2313,7 +2385,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1791100333000",
+      "id": "enerzine-rss-4-1791100333000",
       "title": "Un géoglyphe andin repéré sur Google Earth attend les archéologues argentins",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2337,7 +2409,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1791087000000",
+      "id": "enerzine-rss-5-1791087000000",
       "title": "Accorder finement le cobalt pour des transformations chimiques plus propres",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2363,7 +2435,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1791083400000",
+      "id": "enerzine-rss-6-1791083400000",
       "title": "La performance énergétique de votre logement influe déjà sur votre prêt immobilier, le risque climatique fera bientôt de même",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2462,7 +2534,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1791126797000",
+      "id": "le-commerce-du-bois-sitemap-0-1791154489000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2488,7 +2560,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1791126797000",
+      "id": "le-commerce-du-bois-sitemap-1-1791154489000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2514,7 +2586,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1791126797000",
+      "id": "le-commerce-du-bois-sitemap-2-1791154489000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2688,7 +2760,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1791065400000",
+      "id": "enerzine-rss-7-1791065400000",
       "title": "Un matériau poreux plus souple pourrait contribuer à améliorer les batteries tout solide",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2712,7 +2784,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1791059100000",
+      "id": "enerzine-rss-8-1791059100000",
       "title": "Citroën 2CV électrique, voilà à quoi elle devrait ressembler selon ChatGPT",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2737,7 +2809,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1791055200000",
+      "id": "enerzine-rss-9-1791055200000",
       "title": "RoboParty présente RP1, le robot humanoïde open source, à l’IROS",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2758,79 +2830,6 @@
         "Réglementation"
       ],
       "summary": "RoboParty a dévoilé aux USA lors de la conférence IROS, le robot humanoïde RP1, plateforme bipède open source destinée aux développeurs, avec des démonstrations de stabilité dynamique. Le 28 septembre 2026, à Pittsburgh, l’entreprise basée en Chine, RoboParty a dévoilé son robot …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-7-1791000600000",
-      "title": "Un aperçu de l’intérieur, sans réellement regarder à l’intérieur",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-apercu-de-linterieur-sans-reellement-regarder-a-linterieur/196009-2026-10",
-      "image": null,
-      "date": "2026-10-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Les procédés industriels génèrent de grandes quantités de chaleur, qui ne peuvent souvent pas être utilisées immédiatement. Une raison essentielle à cela tient au fait que l’offre et la demande de chaleur ne coïncident souvent pas sur le plan temporel. Les systèmes de stockage d’…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790997000000",
-      "title": "Comment un nouveau textile pourrait tripler la production des plants de fraisiers",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/comment-un-nouveau-textile-pourrait-tripler-la-production-des-plants-de-fraisiers/196003-2026-10",
-      "image": null,
-      "date": "2026-10-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Un nouveau textile utilisé pour couvrir les plants de fraisiers a plus que triplé les rendements de fraises lors d’essais au champ en tunnel, sans impact négatif sur la santé des plantes. Cette technologie pourrait également réduire de manière significative l’utilisation de l’eau…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790993400000",
-      "title": "Toyota inaugure un centre dédié aux batteries sur le campus de R&D du Michigan",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/toyota-inaugure-un-centre-dedie-aux-batteries-sur-le-campus-de-rd-du-michigan/196118-2026-10",
-      "image": null,
-      "date": "2026-10-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Toyota a inauguré à Saline, dans le Michigan, le Toyota Battery Center of North America, un site de 2 800 m² destiné à évaluer et développer des technologies de batteries. Le 1er octobre 2026 à Saline, dans le Michigan, Toyota, la firme japonaise automobile a inauguré le « Toyota…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4250,7 +4249,7 @@
         "Réglementation",
         "Énergie"
       ],
-      "summary": "C’est la toute première question adressée par le député Jean-Luc Fugit aux trois grands syndicats professionnels des filières renouvelables, en amont de leur audition sur le projet de loi de Finances de 2027 (PLF) mercredi prochain 7 octobre. Le rapporteur sur les crédits « énerg…",
+      "summary": "C’est la toute première question adressée par le député Jean-Luc Fugit aux trois grands syndicats professionnels des filières renouvelables en amont de leur audition qu’il mènera sur le projet de loi de Finances de 2027 (PLF) mercredi prochain 7 octobre. « quel regard portez-vous…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13574,7 +13573,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -18637,7 +18636,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -18736,7 +18735,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -19147,7 +19146,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
