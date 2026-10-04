@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-03T22:47:18.034Z",
+  "generatedAt": "2026-10-04T05:03:01.736Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,135 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1791087000000",
+      "title": "Accorder finement le cobalt pour des transformations chimiques plus propres",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/accorder-finement-le-cobalt-pour-des-transformations-chimiques-plus-propres/196018-2026-10",
+      "image": null,
+      "date": "2026-10-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Trouver des alternatives aux métaux précieux dans la fabrication chimique pourrait relever moins de la recherche d’un substitut que de l’accordage d’un instrument déjà en main. Des scientifiques de l’Université nationale de Yokohama ont découvert qu’un catalyseur à base de cobalt…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1791083400000",
+      "title": "La performance énergétique de votre logement influe déjà sur votre prêt immobilier, le risque climatique fera bientôt de même",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/la-performance-energetique-de-votre-logement-influe-deja-sur-votre-pret-immobilier-le-risque-climatique-fera-bientot-de-meme/196013-2026-10",
+      "image": null,
+      "date": "2026-10-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Bâtiment"
+      ],
+      "summary": "Peu de consommateurs savent qu’une mauvaise note énergétique d’un bien peut directement affecter leur capacité à obtenir un prêt immobilier. À l’avenir, les inondations et autres risques liés au climat joueront également un rôle plus important dans les décisions de crédit. Des ch…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1791090166000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1791090166000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1791090166000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "batiweb-rss-0-1791020100000",
       "title": "Aldes EasyHOME SensAIR, une VMC qui prend en compte la qualité de l’air",
       "source": "Batiweb",
@@ -2309,7 +2438,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1791065400000",
+      "id": "enerzine-rss-2-1791065400000",
       "title": "Un matériau poreux plus souple pourrait contribuer à améliorer les batteries tout solide",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2333,7 +2462,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1791059100000",
+      "id": "enerzine-rss-3-1791059100000",
       "title": "Citroën 2CV électrique, voilà à quoi elle devrait ressembler selon ChatGPT",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2358,7 +2487,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1791055200000",
+      "id": "enerzine-rss-4-1791055200000",
       "title": "RoboParty présente RP1, le robot humanoïde open source, à l’IROS",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2383,7 +2512,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1791000600000",
+      "id": "enerzine-rss-5-1791000600000",
       "title": "Un aperçu de l’intérieur, sans réellement regarder à l’intérieur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2407,7 +2536,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1790997000000",
+      "id": "enerzine-rss-6-1790997000000",
       "title": "Comment un nouveau textile pourrait tripler la production des plants de fraisiers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2432,7 +2561,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1790993400000",
+      "id": "enerzine-rss-7-1790993400000",
       "title": "Toyota inaugure un centre dédié aux batteries sur le campus de R&D du Michigan",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2456,7 +2585,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1790989800000",
+      "id": "enerzine-rss-8-1790989800000",
       "title": "Les modules solaires back contact TCL SunPower disponibles en Europe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2599,84 +2728,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Washington menace de couper le robinet de diesel américain si l'Europe refuse de vider ses stocks. À la clé : un litre à plus de 3 euros en France. Explications. L’article Trump menace de couper le diesel américain à la France et l’Allemagne : « Puisez dans vos stocks ou je ferme…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1791067623000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1791067623000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1791067623000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "base-inies-rss-0-1790944080000",
@@ -4282,7 +4333,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1790979000000",
+      "id": "enerzine-rss-9-1790979000000",
       "title": "Lancement de la première bibliothèque d’imagerie de batteries en libre accès au monde",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4304,55 +4355,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Des scientifiques de Diamond Light Source et de l’ISIS Neutron and Muon Source ont contribué au développement de la première bibliothèque d’imagerie de batteries en libre accès au monde. La bibliothèque a été créée dans le cadre d’une collaboration internationale dirigée par le D…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1790975700000",
-      "title": "Sky Elements bat deux records mondiaux de drones au Texas",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/sky-elements-bat-deux-records-mondiaux-de-drones-au-texas/196102-2026-10",
-      "image": null,
-      "date": "2026-10-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "Sky Elements et Damoda America ont lancé 71 207 drones en trois nuits à Blue Ridge, au Texas, du 27 au 29 septembre 2026. Deux records Guinness ont été officialisés, dont un spectacle de 11 000 drones, le plus grand jamais réalisé en Amérique. L’entreprise entend démontrer sa cap…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1790952600000",
-      "title": "Chariots élévateurs : pourquoi l’infrastructure énergétique de l’entrepôt compte autant que la motorisation",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/chariots-elevateurs-pourquoi-linfrastructure-energetique-de-lentrepot-compte-autant-que-la-motorisation/196099-2026-10",
-      "image": null,
-      "date": "2026-10-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Comparer les caractéristiques de deux chariots élévateurs ne suffit pas pour choisir leur énergie. Dans un entrepôt, la disponibilité des engins dépend aussi de ce qui les entoure : puissance électrique mobilisable, temps accordé à la recharge ou au ravitaillement, espace disponi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9074,6 +9076,30 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "16.10 Table ronde - projection « Le Corbusier, la série » Perle lun 28/09/2026 - 16:29 Zone géographique Provence-Alpes-Côte d'Azur Média Villa Savoye, Le Corbusier - Accroche Pour le lancement régional des Journées nationales de l’architecture, l’Ordre des architectes PACA organ…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "fncaue-rss-0-1790602999000",
+      "title": "Les Enfants du Patrimoine : un succès qui rappelle l’importance du réseau des CAUE",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/les-enfants-du-patrimoine-un-succes-qui-rappelle-limportance-du-reseau-des-caue/",
+      "image": null,
+      "date": "2026-09-28",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil",
+        "Eau"
+      ],
+      "summary": "Les élèves toujours au rendez-vous pour la 9e édition Cet article Les Enfants du Patrimoine : un succès qui rappelle l’importance du réseau des CAUE est apparu en premier sur CAUE. Les élèves toujours au rendez-vous pour la 9e édition Cet article Les Enfants du Patrimoine : un su…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16542,6 +16568,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "fncaue-rss-1-1787928775000",
+      "title": "Les Enfants du patrimoine – dossier de presse",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/les-enfants-du-patrimoine-dossier-de-presse/",
+      "image": null,
+      "date": "2026-08-28",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil"
+      ],
+      "summary": "Les informations détaillées de la 9e édition Cet article Les Enfants du patrimoine – dossier de presse est apparu en premier sur CAUE. Les informations détaillées de la 9e édition Cet article Les Enfants du patrimoine &#8211; dossier de presse est apparu en premier sur CAUE . Les…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "oreo-bretagne-sitemap-23-1787875354000",
       "title": "reglementation etat eau surface littorale Bretagne",
       "source": "OREO Bretagne",
@@ -19281,6 +19330,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "fncaue-rss-2-1784792568000",
+      "title": "La FNCAUE mobilisée pour le déploiement du « Parcours Projet Habitat Rural »",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/la-fncaue-mobilisee-pour-le-deploiement-du-parcours-projet-habitat-rural/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "Face aux enjeux spécifiques du logement dans les territoires ruraux, la Direction générale de l’aménagement, du logement et de la nature (DGALN), a développé le Parcours Projet Habitat Rural, en partenariat avec l’Agence nationale de la cohésion des territoires (ANCT). Conçu comm…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "arec-nouvelle-aquitaine-rss-3-1784794183000",
       "title": "Nouvelles données énergie et gaz à effet de serre en Nouvelle-Aquitaine",
       "source": "AREC Nouvelle-Aquitaine",
@@ -21393,6 +21467,29 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Caractéristiques principales Nom : Parcs en Scène, lots 2.4 E et 2.4 E’ Certification(s) : NF Habitat HQE Très Performant, RE2020 Seuils 2025, RE2020 Seuils 2028, Label BBCA Livraison : 15 avril 2026 Acteurs : Groupement constitué par Linkcity et CDC Habitat, associés au sein d’u…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "fncaue-rss-3-1783344570000",
+      "title": "Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL",
+      "source": "FNCAUE",
+      "sourceId": "fncaue",
+      "sourceType": "Réseau CAUE",
+      "region": "National",
+      "url": "https://www.fncaue.com/taxe-damenagement-un-courrier-conjoint-adresse-au-ministre-david-amiel/",
+      "image": null,
+      "date": "2026-07-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Architecture",
+        "Urbanisme",
+        "Conseil"
+      ],
+      "summary": "Les associations nationales unies pour une réponse rapide de l'État Cet article Taxe d’aménagement : un courrier conjoint adressé au ministre David AMIEL est apparu en premier sur CAUE. Les associations nationales unies pour une réponse rapide de l'État Cet article Taxe d&rsquo;a…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
