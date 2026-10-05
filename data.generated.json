@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T22:55:02.926Z",
+  "generatedAt": "2026-10-05T04:49:50.967Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,160 @@
   ],
   "articles": [
     {
+      "id": "novethic-rss-0-1791175532000",
+      "title": "Climat : Stellantis, Schneider Electric et Sanofi perdent leur position de leader au sein du CAC40",
+      "source": "Novethic",
+      "sourceId": "novethic",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.novethic.fr/environnement/climat/climat-stellantis-schneider-electric-et-sanofi-perdent-leur-position-de-leader-au-sein-du-cac40",
+      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/10/Podium-vide-@-Szcze-hoo-Pexels-150x150.jpg",
+      "date": "2026-10-05",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "ESG",
+        "Finance durable",
+        "Climat"
+      ],
+      "summary": "Le palmarès climat du CAC40 2026, réalisé par les Ateliers du futur, révèle que seulement 9 groupes sur 40 obtiennent une note d’au moins 7/10. @Szcze Hoo /Pexels Sanofi, Schneider Electric et Stellantis, trio de tête dans le palmarès des trajectoires climat du CAC40 en 2025, se …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1791173400000",
+      "title": "Partenariat industriel mondial pour les supraconducteurs de fusion",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/partenariat-industriel-mondial-pour-les-supraconducteurs-de-fusion/196059-2026-10",
+      "image": null,
+      "date": "2026-10-05",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "Deux sociétés ont annoncé début septembre un partenariat mondial pour accroître la production de fils supraconducteurs RRP en niobium-étain, destinés au confinement du plasma dans les tokamaks et stellarators. Bruker Energy & Supercon Technologies (BEST), division de Bruker Corpo…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1791169800000",
+      "title": "Newlight finance un système hybride à hydrogène pour moderniser les moteurs diesel marins",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/newlight-finance-un-systeme-hybride-a-hydrogene-pour-moderniser-les-moteurs-diesel-marins/196049-2026-10",
+      "image": null,
+      "date": "2026-10-05",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020",
+        "Confort d’été"
+      ],
+      "summary": "Newlight, concepteur d’un système de rétrofit à hydrogène pour moteurs diesel marins, a réuni un tour d’amorçage soutenu par lomarlabs et BIRD Energy. L’équipement a été testé sur un vraquier de Lomar Shipping afin de réduire la consommation de carburant et les émissions. Le tour…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1791175775000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-05",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1791175775000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-05",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1791175775000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-05",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "batiweb-rss-0-1791108000000",
       "title": "Evolite, le nouvel enduit monocouche allégé de Weber",
       "source": "Batiweb",
@@ -2289,7 +2443,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1791151800000",
+      "id": "enerzine-rss-2-1791151800000",
       "title": "Climat : l’IA fait grimper les émissions des entreprises",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2313,7 +2467,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1791141000000",
+      "id": "enerzine-rss-3-1791141000000",
       "title": "Amylose cardiaque, la maladie caméléon qui se cache derrière des signes banals",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2337,7 +2491,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1791128700000",
+      "id": "enerzine-rss-4-1791128700000",
       "title": "Abattement fiscal des retraités, voici le plafond qui pourrait faire grimper la note",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2361,7 +2515,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1791126300000",
+      "id": "enerzine-rss-5-1791126300000",
       "title": "Loueur meublé non professionnel : le budget 2027 pourrait alourdir votre fiscalité",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2385,7 +2539,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1791100333000",
+      "id": "enerzine-rss-6-1791100333000",
       "title": "Un géoglyphe andin repéré sur Google Earth attend les archéologues argentins",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2409,7 +2563,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1791087000000",
+      "id": "enerzine-rss-7-1791087000000",
       "title": "Accorder finement le cobalt pour des transformations chimiques plus propres",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2435,7 +2589,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1791083400000",
+      "id": "enerzine-rss-8-1791083400000",
       "title": "La performance énergétique de votre logement influe déjà sur votre prêt immobilier, le risque climatique fera bientôt de même",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2532,84 +2686,6 @@
       "summary": "Votre smartphone cache un détecteur de métaux insoupçonné. Un simple aimant peut faire grimper la mesure à plus de 5000 µT. Voici comment l'activer et ses limites surprenantes. L’article « J’ai retrouvé mon alliance dans le jardin avec mon téléphone » : cette fonction cachée de v…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1791154489000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-04",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1791154489000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-04",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1791154489000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-04",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "batiweb-rss-1-1791020100000",
@@ -2760,7 +2836,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1791065400000",
+      "id": "enerzine-rss-9-1791065400000",
       "title": "Un matériau poreux plus souple pourrait contribuer à améliorer les batteries tout solide",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2780,56 +2856,6 @@
         "ENR"
       ],
       "summary": "Pour les batteries tout solide, déplacer efficacement les ions lithium n’est qu’une partie du défi la façon dont le matériau se comporte mécaniquement peut aussi compter. Des chercheurs de l’Université Rice, issus des départements de génie chimique et biomoléculaire, de chimie et…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1791059100000",
-      "title": "Citroën 2CV électrique, voilà à quoi elle devrait ressembler selon ChatGPT",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/citroen-2cv-electrique-voila-a-quoi-elle-devrait-ressembler-selon-chatgpt/196142-2026-10",
-      "image": null,
-      "date": "2026-10-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "La Citroën 2CV électrique (surnommée autrefois la deuche) prépare son grand retour, cette fois en électrique. Elle sera présentée au salon de l’auto 2026 de Paris. Avec un prix de base fixé autour de 15 000 euros, encore indicatif, elle pourrait rebattre les cartes du marché élec…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1791055200000",
-      "title": "RoboParty présente RP1, le robot humanoïde open source, à l’IROS",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/roboparty-presente-rp1-le-robot-humanoide-open-source-a-liros/196133-2026-10",
-      "image": null,
-      "date": "2026-10-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "RoboParty a dévoilé aux USA lors de la conférence IROS, le robot humanoïde RP1, plateforme bipède open source destinée aux développeurs, avec des démonstrations de stabilité dynamique. Le 28 septembre 2026, à Pittsburgh, l’entreprise basée en Chine, RoboParty a dévoilé son robot …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3844,7 +3870,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novethic-rss-0-1790941545000",
+      "id": "novethic-rss-1-1790941545000",
       "title": "RSE : quel est ce plafond de verre qui freine l’engagement des salariés ?",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -3870,7 +3896,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-1-1790938664000",
+      "id": "novethic-rss-2-1790938664000",
       "title": "Capital-investissement, immobilier : le label ISR enchaîne les nouveautés",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -3896,7 +3922,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-2-1790916325000",
+      "id": "novethic-rss-3-1790916325000",
       "title": "Et si le temps libre devenait la grande bataille politique du XXIe siècle ?",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -5791,7 +5817,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-3-1790855156000",
+      "id": "novethic-rss-4-1790855156000",
       "title": "Glass Lewis rachète Clarity AI pour renforcer sa présence européenne",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -5817,7 +5843,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-4-1790829950000",
+      "id": "novethic-rss-5-1790829950000",
       "title": "Adaptation, IA, contrat social : les directions RSE changent de centre de gravité",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7159,7 +7185,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-5-1790781665000",
+      "id": "novethic-rss-6-1790781665000",
       "title": "\"C’est indigne d’EDF\" : la rencontre entre le PDG Bernard Fontana et l'extrême droite suscite le malaise de certains salariés",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7184,7 +7210,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-6-1790773577000",
+      "id": "novethic-rss-7-1790773577000",
       "title": "RSE : les achats responsables s'imposent comme levier de souveraineté et de résilience",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7210,7 +7236,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-7-1790762434000",
+      "id": "novethic-rss-8-1790762434000",
       "title": "Les impacts de l'intelligence artificielle couvrent quatre limites planétaires",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7236,7 +7262,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-8-1790758464000",
+      "id": "novethic-rss-9-1790758464000",
       "title": "Chaleur, inondations, pétrole : jusqu’où ira le confinement climatique ?",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7258,32 +7284,6 @@
         "RE2020"
       ],
       "summary": "Fin février, l'ouest de la France a connu d'importantes inondations, affectant les voies ferrées par endroit. @DAMIEN MEYER / AFP Il y a des réminiscences du Covid quand on lit les consignes adressées ce mercredi 30 septembre aux habitants du Gard et de l’Hérault. Face à un épiso…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novethic-rss-9-1790743525000",
-      "title": "Malgré le backlash ESG, la comptabilité carbone gagne du terrain",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/malgre-le-backlash-esg-la-comptabilite-carbone-gagne-du-terrain",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2024/07/ESG-nom-des-fonds-durables-@Markus-Winkler-Pexel-150x150.jpg",
-      "date": "2026-09-30",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Réglementation"
-      ],
-      "summary": "67,7% des entreprises répondantes ont déjà réalisé leur bilan carbone au niveau mondial. @Markus Winkler, Pexels Alors que la règlementation autour des obligations de reporting recule et que le discours ESG marque le pas, à l’échelle mondiale, la comptabilité carbone, elle, conti…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
