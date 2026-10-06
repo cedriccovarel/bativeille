@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T16:36:18.174Z",
+  "generatedAt": "2026-10-06T23:41:45.605Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2929,6 +2929,30 @@
       "collectMethod": "rss"
     },
     {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1791244800000",
+      "title": "pourquoi la region sud elira t elle un nouveau president le 12 octobre",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/pourquoi-la-region-sud-elira-t-elle-un-nouveau-president-le-12-octobre",
+      "image": null,
+      "date": "2026-10-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "adulm-lille-metropole-rss-0-1791296072000",
       "title": "Rencontre annuelle URBA8 à Amiens",
       "source": "ADULM Lille Métropole",
@@ -3305,7 +3329,7 @@
     },
     {
       "id": "reporterre-rss-1-1791299700000",
-      "title": "Des millions de saumons agglutinés dans des cuves : le projet « complètement démesuré » d'une entreprise française",
+      "title": "Des millions de saumons agglutinés dans des cuves : le projet « démesuré » d'une entreprise française",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -3535,7 +3559,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1791298733000",
+      "id": "vert-rss-0-1791305204000",
+      "title": "«On se sent délaissé alors qu’on est les adultes de demain» : des milliers de lycéens continuent de se mobiliser malgré la répression",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/rapports-de-force/on-se-sent-delaisse-alors-quon-est-les-adultes-de-demain-des-milliers-de-lyceens-continuent-de-se-mobiliser-malgre-la-repression/",
+      "image": null,
+      "date": "2026-10-06",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques"
+      ],
+      "summary": "Ce mardi, la mobilisation lycéenne s’est poursuivie dans toute la France. Soutenu·es par de nombreux syndicats, des dizaines de milliers de jeunes ont défilé dans plusieurs villes, dont Paris. Vert est allé à la rencontre de certain·es d'entre elles et eux. Ce mardi, la mobilisat…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "vert-rss-1-1791298733000",
       "title": "Manifestations des lycéens : «Et si, pour une fois, on écoutait les premiers concernés ?»",
       "source": "Vert",
       "sourceId": "vert",
@@ -3559,7 +3607,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1791278673000",
+      "id": "vert-rss-2-1791278673000",
       "title": "Gilets jaunes, Sainte-Soline, loi Duplomb… Retour sur dix ans de macronie, entre promesses et reniements sur l’écologie",
       "source": "Vert",
       "sourceId": "vert",
@@ -3585,7 +3633,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1791259200000",
+      "id": "vert-rss-3-1791259200000",
       "title": "Promesses d’emplois et greenwashing : en Auvergne-Rhône-Alpes, des élus tentés par Amazon et ses entrepôts XXL",
       "source": "Vert",
       "sourceId": "vert",
@@ -3937,7 +3985,156 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1791299100000",
+      "id": "enerzine-rss-0-1791328200000",
+      "title": "Mobile Power Solutions lance une gamme de batteries lithium-ion standard",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/mobile-power-solutions-lance-une-gamme-de-batteries-lithium-ion-standard/196445-2026-10",
+      "image": null,
+      "date": "2026-10-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Mobile Power Solutions va commercialiser sa série MPS, une gamme de batteries lithium-ion standard destinée aux équipementiers et accessible via son portail e-commerce. Mobile Power Solutions, une entreprise basée à Beaverton dans l’Oregon (USA), a annoncé mardi la commercialisat…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1791324600000",
+      "title": "Pas besoin de batterie : la peau d’un robot récupère l’énergie en marchant",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/pas-besoin-de-batterie-la-peau-dun-robot-recupere-lenergie-en-marchant/196217-2026-10",
+      "image": null,
+      "date": "2026-10-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Alimenter les microrobots constitue depuis longtemps un problème de génie chimique. Un microrobot de 1,7 g ne peut ramper qu’environ deux minutes avec des batteries commerciales. Pour fonctionner deux heures, il lui faudrait une batterie pesant 94 % de sa masse totale, avec une d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1791320820000",
+      "title": "Yank Technologies remporte deux contrats de la NASA sur l’alimentation sans fil",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/yank-technologies-remporte-deux-contrats-de-la-nasa-sur-lalimentation-sans-fil/196483-2026-10",
+      "image": null,
+      "date": "2026-10-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Yank Technologies a annoncé l’obtention de deux contrats SBIR (Small Business Innovation Research ou Recherche en innovation dans les petites entreprises) de phase I auprès de la NASA dans le but de développer des systèmes d’alimentation sans fil destinés aux robots lunaires et m…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-3-1791317700000",
+      "title": "Google et Constellation Energy ajoutent 890 mégawatts nucléaires au réseau PJM",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/google-et-constellation-energy-ajoutent-890-megawatts-nucleaires-au-reseau-pjm/196463-2026-10",
+      "image": null,
+      "date": "2026-10-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Google et Constellation Energy ont signé un accord de vingt ans pour financer 890 mégawatts de nouvelles capacités nucléaires sur le réseau PJM, afin de répondre à la demande électrique croissante. Aujourd’hui, mardi 6 octobre, la firme Google et Constellation Energy ont annoncé …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-4-1791313620000",
+      "title": "OS1 : un pavillon solaire et une terrasse qui abrite une batterie plate par Outer Spaces",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/os1-un-pavillon-solaire-et-une-terrasse-qui-abrite-une-batterie-plate-par-outer-spaces/196453-2026-10",
+      "image": null,
+      "date": "2026-10-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "La société californienne Outer Spaces a présenté à l’El Segundo un équipement résidentiel associant une production solaire, un stockage par batterie et une extension extérieure modulaire. Le lancement, accompagné d’un financement de 8 millions de dollars, devrait leur permettre u…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-5-1791305700000",
+      "title": "Une ferme solaire flottante mis en service dans le parc à thème d’Universal à Orlando",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/une-ferme-solaire-flottante-mis-en-service-dans-le-parc-a-theme-duniversal-a-orlando/196436-2026-10",
+      "image": null,
+      "date": "2026-10-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "D3Energy a annoncé la mise en service d’une installation photovoltaïque flottante de 1,4 mégawatt dans le parc à thème d’Universal Epic Universe en Floride. L’équipement alimente notamment la recharge nocturne des bus électriques. Le développeur américain D3Energy a annoncé ce ma…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-6-1791299100000",
       "title": "Renault E-Space Concept 2026. Le monospace électrique face aux SUV",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3962,7 +4159,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1791296700000",
+      "id": "enerzine-rss-7-1791296700000",
       "title": "De l’autoconsommation photovoltaïque à Maizières-lès-Metz pour 126 foyers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3988,7 +4185,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1791294900000",
+      "id": "enerzine-rss-8-1791294900000",
       "title": "TGV M : la SNCF retient NGE pour moderniser le Technicentre Sud-Est Européen",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4014,7 +4211,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1791289200000",
+      "id": "enerzine-rss-9-1791289200000",
       "title": "Comment choisir un kit solaire pour faire de l’autoconsommation chez soi",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4039,161 +4236,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1791281400000",
-      "title": "Saft et Axpo signent deux contrats de stockage d’énergie par batterie (BESS) en France",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
+      "id": "lenergeek-rss-0-1791297549000",
+      "title": "BMW célèbre son millionième véhicule M avant la révolution électrique",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
       "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://www.enerzine.com/saft-et-axpo-signent-deux-contrats-de-stockage-denergie-par-batterie-bess-en-france/196403-2026-10",
-      "image": null,
-      "date": "2026-10-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Saft, filiale de TotalEnergies, et Axpo ont conclu deux accords pour des systèmes de stockage par batterie en Normandie et en Centre-Val de Loire. Livraisons prévues en 2027 afin d’apporter de la flexibilité au réseau français. Saft, filiale entièrement détenue par TotalEnergies …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-5-1791278100000",
-      "title": "PFAS dans l’œuf, 57% des échantillons contaminés et un goût amer pour nos assiettes",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/pfas-oeufs-contamination-france/196396-2026-10",
-      "image": null,
-      "date": "2026-10-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Près de six œufs sur dix analysés dans le cadre d’une enquête menée en France contiennent des polluants éternels. Derrière ce constat, des élevages familiaux et quelques exploitations découvrent que leurs œufs peuvent contribuer à une exposition chronique, sans que la présence de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-6-1791264600000",
-      "title": "Un chercheur va caractériser les propriétés des particules dans les réacteurs de stockage d’énergie thermochimique",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-chercheur-va-caracteriser-les-proprietes-des-particules-dans-les-reacteurs-de-stockage-denergie-thermochimique/196211-2026-10",
-      "image": null,
+      "url": "https://lenergeek.com/2026/10/06/m3-electrique-bmw-transition-energetique/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/shutterstock_2455118639.jpg",
       "date": "2026-10-06",
       "access": "Gratuit",
       "official": false,
       "highImpact": false,
-      "impactScore": 96,
+      "impactScore": 80,
       "tags": [
         "Presse professionnelle",
         "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été",
-        "Économie du bâtiment"
+        "Politiques publiques",
+        "ENR"
       ],
-      "summary": "Les industries qui ont besoin d’une solution de stockage d’énergie à faible coût et à grande échelle pourraient se tourner vers le stockage d’énergie thermochimique (TCES), une technologie qui conserve l’énergie grâce à des réactions chimiques réversibles. Le TCES peut stocker la…",
+      "summary": "BMW M GmbH a produit son millionième véhicule, une M3 Competition orange vif, à l'usine de Munich. Ce jalon historique coïncide avec l'annonce d'une M3 électrique basée sur la plateforme Neue Klasse, qui sortira du même site dès 2027. Cette transition illustre les défis énergétiq…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1791263400000",
-      "title": "L’Université technique de Graz identifie les matières premières utilisées dans les bâtiments",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/luniversite-technique-de-graz-identifie-les-matieres-premieres-utilisees-dans-les-batiments/196205-2026-10",
-      "image": null,
-      "date": "2026-10-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Économie du bâtiment",
-        "Réemploi"
-      ],
-      "summary": "La pensée fondée sur l’économie circulaire prend une importance croissante dans le secteur de la construction. Elle contribue à réduire la consommation de matières premières et les émissions, et peut offrir un dispositif de réutilisation et de recyclage bien pensé permettant de r…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1791259800000",
-      "title": "Des supercondensateurs à base de ciment pourraient alimenter les bâtiments « intelligents » de nouvelle génération",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-supercondensateurs-a-base-de-ciment-pourraient-alimenter-les-batiments-intelligents-de-nouvelle-generation/196200-2026-10",
-      "image": null,
-      "date": "2026-10-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "Et si l’énergie alimentant votre maison ou votre bureau pouvait être générée, stockée et utilisée au même endroit ? C’est l’espoir suscité par la prochaine génération de bâtiments, alimentés par des sources renouvelables qui stockent l’énergie à proximité — voire dans le béton ut…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1791256200000",
-      "title": "Le brocoli pousse bien sous des panneaux solaires magenta",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/le-brocoli-pousse-bien-sous-des-panneaux-solaires-magenta/196196-2026-10",
-      "image": null,
-      "date": "2026-10-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Planter du brocoli sous des panneaux solaires magenta a permis aux plantes d’absorber la lumière du soleil plus efficacement que celles cultivées en plein air, révèle une étude publiée le 2 octobre dans la revue Cell Reports Physical Science de Cell Press. Les scientifiques ont u…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-0-1791290770000",
+      "id": "lenergeek-rss-1-1791290770000",
       "title": "Canicule 2026 : un coût de 16 milliards d’euros pour la France",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4219,7 +4286,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1791267653000",
+      "id": "lenergeek-rss-2-1791267653000",
       "title": "Des experts détaillent comment une bouteille en plastique sur le toit peut convertir la lumière du soleil en éclairage naturel dans une pièce sombre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4245,7 +4312,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1791265812000",
+      "id": "lenergeek-rss-3-1791265812000",
       "title": "Un couple du Mississippi a compté à la main 1 299 arbres abattus par erreur sur leur terrain : leur liste manuscrite leur a fait gagner 41 920 $ en justice",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4269,7 +4336,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1791264020000",
+      "id": "lenergeek-rss-4-1791264020000",
       "title": "Rouler au rouge : cette technique employée par certains conducteurs pour réduire le coût du carburant les expose à de fortes sanctions",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4294,7 +4361,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1791263587000",
+      "id": "lenergeek-rss-5-1791263587000",
       "title": "Grève de l’énergie : pourquoi 20 000 salariés gardent leur tarif à 90% moins cher",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4318,7 +4385,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1791259140000",
+      "id": "lenergeek-rss-6-1791259140000",
       "title": "Pétrole : prix en baisse mais les stocks fondent",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4343,7 +4410,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1791258912000",
+      "id": "lenergeek-rss-7-1791258912000",
       "title": "Voitures électriques : +45% d’immatriculations en Europe en 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4394,7 +4461,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1791304563000",
+      "id": "le-commerce-du-bois-sitemap-0-1791330091000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4420,7 +4487,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1791304563000",
+      "id": "le-commerce-du-bois-sitemap-1-1791330091000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4446,7 +4513,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1791304563000",
+      "id": "le-commerce-du-bois-sitemap-2-1791330091000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4472,7 +4539,32 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1791281185000",
+      "id": "le-journal-du-grand-paris-rss-0-1791317889000",
+      "title": "Logement social : élus et associations manifestent pour plus de moyens",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/logement-social-elus-et-associations-manifestent-pour-plus-de-moyens/",
+      "image": null,
+      "date": "2026-10-06",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Bâtiment"
+      ],
+      "summary": "À l'appel du groupe \"Communistes, citoyen.nes et écologistes\" de la métropole du Grand Paris, de la CNL, de la CSF et du DAL, élus et associations se sont rassemblés mardi 6 octobre en fin de journée à Paris, dans le quartier des ministères, pour réclamer une relance de la constr…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1791281185000",
       "title": "Maurice Sissoko – Un cran au-dessus",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4496,7 +4588,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1791279984000",
+      "id": "le-journal-du-grand-paris-rss-2-1791280874000",
+      "title": "Le plaidoyer de Grégoire de Lasteyrie pour une recapitalisation de Paris-Saclay par l’État",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/le-plaidoyer-de-gregoire-de-lasteyrie-pour-une-recapitalisation-de-paris-saclay-par-letat/",
+      "image": null,
+      "date": "2026-10-06",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Lors d'un récent dîner-débat de l'association des Acteurs du Grand Paris, le président de la Communauté d'agglomération de Paris-Saclay a détaillé les raisons qui justifient, selon lui, une recapitalisation du projet par l'État. « Je ne doute pas un instant que l'État sera au ren…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-3-1791279984000",
       "title": "Les Vénus dyonisiennes de Prune Nourry se dévoilent au public à Saint-Denis Pleyel",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4521,7 +4637,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1791276523000",
+      "id": "le-journal-du-grand-paris-rss-4-1791276523000",
       "title": "Portrait d’agence – Brenac & Gonzalez & Associés : transmettre l’exigence",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5252,7 +5368,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1791158400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-1-1791158400000",
       "title": "renovation energetique",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -5756,7 +5872,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1791193901000",
+      "id": "vert-rss-4-1791193901000",
       "title": "«La lutte contre les pesticides fait partie des combats antiracistes» : la colonisation chimique au cœur de la marche contre Syngenta",
       "source": "Vert",
       "sourceId": "vert",
@@ -6061,7 +6177,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1791205914000",
+      "id": "lenergeek-rss-8-1791205914000",
       "title": "Stellantis brevète un système pour larguer la batterie en feu d’un véhicule électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6086,7 +6202,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1791201147000",
+      "id": "lenergeek-rss-9-1791201147000",
       "title": "Prolonger les centrales nucléaires : l’enjeu caché derrière Paluel",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6110,7 +6226,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1791196374000",
+      "id": "lenergeek-rss-10-1791196374000",
       "title": "L’AIE annonce la libération de 325 millions de barils depuis mars 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6134,7 +6250,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1791191875000",
+      "id": "lenergeek-rss-11-1791191875000",
       "title": "Schneider Electric mise 22,6 milliards sur l’IA énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6158,7 +6274,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1791179400000",
+      "id": "lenergeek-rss-12-1791179400000",
       "title": "« On n’avait jamais vu ça » : des chercheurs tombent sur une substance bleue vivante au fond de l’océan, les analyses inquiètent",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6184,7 +6300,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1791177638000",
+      "id": "lenergeek-rss-13-1791177638000",
       "title": "Les maçons sont unanimes, mettre un filet en fibre de verre sur le ciment reste la meilleure astuce pour imperméabiliser une terrasse",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6210,7 +6326,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1791174120000",
+      "id": "lenergeek-rss-14-1791174120000",
       "title": "Renault : 10 milliards pour démocratiser la voiture électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6261,7 +6377,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1791215974000",
+      "id": "le-journal-du-grand-paris-rss-5-1791215974000",
       "title": "Artisanat : la CMA veut renforcer le dialogue avec la Ville de Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6285,7 +6401,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1791214623000",
+      "id": "le-journal-du-grand-paris-rss-6-1791214623000",
       "title": "À Aubervilliers, l’emblématique Maladrerie va subir une cure de jouvence",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6310,7 +6426,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1791208159000",
+      "id": "le-journal-du-grand-paris-rss-7-1791208159000",
       "title": "Le projet des halles de Montrouge franchit une nouvelle étape",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6336,7 +6452,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1791202281000",
+      "id": "le-journal-du-grand-paris-rss-8-1791202281000",
       "title": "Habitat : le grand écart des Franciliens entre désir de vert et passion des services",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6361,7 +6477,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1791192462000",
+      "id": "le-journal-du-grand-paris-rss-9-1791192462000",
       "title": "Les coulisses du Grand Paris",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6381,32 +6497,6 @@
         "Immobilier"
       ],
       "summary": "Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % numérique. Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % n…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1791188912000",
-      "title": "E. Meunier : « L’imperium parisien impose ses nuisances à son arrière-cour banlieusarde »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/e-meunier-limperium-parisien-impose-ses-nuisances-a-son-arriere-cour-banlieusarde/",
-      "image": null,
-      "date": "2026-10-05",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Coprésident, avec Sophia Chikirou, du groupe Nouveau Paris populaire (La France insoumise, Verts populaires, Comité Adama), première opposition de gauche à la majorité d'Emmanuel Grégoire au Conseil de Paris, Émile Meunier dénonce le projet d'incinérateur de combustibles solides …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6750,7 +6840,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1791090000000",
+      "id": "vert-rss-5-1791090000000",
       "title": "Bilan contrasté de Lula, climatoscepticisme de Flávio Bolsonaro… À la veille de la présidentielle au Brésil, l’écologie à la peine",
       "source": "Vert",
       "sourceId": "vert",
@@ -6827,7 +6917,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1791107605000",
+      "id": "lenergeek-rss-15-1791107605000",
       "title": "Énergie orbitale : le projet de Star Catcher face au défi des data centers",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6851,7 +6941,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1791093043000",
+      "id": "lenergeek-rss-16-1791093043000",
       "title": "Le détroit d’Ormuz rouvre et le pétrole circule à nouveau, mais votre plein coûte toujours aussi cher : les raffineurs expliquent pourquoi",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6877,7 +6967,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1791091213000",
+      "id": "lenergeek-rss-17-1791091213000",
       "title": "« J’ai retrouvé mon alliance dans le jardin avec mon téléphone » : cette fonction cachée de votre smartphone remplace un appareil à 200€",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7024,7 +7114,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1791003600000",
+      "id": "vert-rss-6-1791003600000",
       "title": "Élodie Potente, journaliste et essayiste : «Les ruralités peuvent être un refuge pour beaucoup de gens queer»",
       "source": "Vert",
       "sourceId": "vert",
@@ -7049,7 +7139,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1791034980000",
+      "id": "lenergeek-rss-18-1791034980000",
       "title": "Carburants : ces communes testent la gratuité des transports pour encourager la transition énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7073,7 +7163,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1791010260000",
+      "id": "lenergeek-rss-19-1791010260000",
       "title": "Report de la loi-cadre : une menace pour le rail et la transition énergétique en France",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7098,7 +7188,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1791007860000",
+      "id": "lenergeek-rss-20-1791007860000",
       "title": "« Pour la planète, passez au numérique » : où sont les preuves ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7122,7 +7212,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1791006600000",
+      "id": "lenergeek-rss-21-1791006600000",
       "title": "Raphaël Glucksmann veut élargir le chèque énergie : « Des millions de Français n’y ont pas droit alors qu’ils n’arrivent plus à se chauffer »",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7146,7 +7236,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1791004800000",
+      "id": "lenergeek-rss-22-1791004800000",
       "title": "Trump menace de couper le diesel américain à la France et l’Allemagne : « Puisez dans vos stocks ou je ferme le robinet »",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7849,7 +7939,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1790951016000",
+      "id": "vert-rss-7-1790951016000",
       "title": "«Une vraie victoire» : après sept ans d’alertes, la France réduit enfin les niveaux de cadmium autorisés dans les engrais",
       "source": "Vert",
       "sourceId": "vert",
@@ -7875,7 +7965,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1790933865000",
+      "id": "vert-rss-8-1790933865000",
       "title": "Eaux polluées, dissimulation de preuves… Qui est Syngenta, le géant des pesticides au centre de la manifestation du 3 octobre dans l’Eure ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -7900,7 +7990,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1790913600000",
+      "id": "vert-rss-9-1790913600000",
       "title": "«Il y a d’autres pistes que le tout-béton» : à Montpellier, ces habitants se battent pour conserver l’une des dernières parcelles agricoles",
       "source": "Vert",
       "sourceId": "vert",
@@ -8003,7 +8093,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1790945186000",
+      "id": "lenergeek-rss-23-1790945186000",
       "title": "Kazakhstan : dans la vallée des data centers, le kWh est à… 2,5 cents",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8024,55 +8114,6 @@
         "Économie du bâtiment"
       ],
       "summary": "À Ekibastuz, dans le nord-est du Kazakhstan, l’électricité coûte moins cher. Autour de l’une des plus puissantes centrales du pays, Astana veut faire émerger un campus de calcul. Une manière de convertir l’avantage énergétique kazakhstanais en puissance informatique — et, demain,…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1790940420000",
-      "title": "La France inaugure sa plus grande batterie électrique à Cernay",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/02/la-france-inaugure-sa-plus-grande-batterie-electrique-a-cernay/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/03/transition-energetique-electricite-bas-carbone-rte.webp",
-      "date": "2026-10-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "TagEnergy et la Banque des Territoires ont inauguré le 1er octobre 2026 à Cernay-lès-Reims la plus grande installation de stockage d'électricité par batteries de France, d'une puissance de 240 MW. L’article La France inaugure sa plus grande batterie électrique à Cernay est apparu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1790942699000",
-      "title": "Les marchés du Grand Paris – Espaces publics et biodiversité : Plaine Commune recrute ses maîtres d’œuvre",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-marches-du-grand-paris-espaces-publics-et-biodiversite-plaine-commune-recrute-ses-maitres-doeuvre/",
-      "image": null,
-      "date": "2026-10-02",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Économie du bâtiment"
-      ],
-      "summary": "L'établissement public territorial lance un accord-cadre de maîtrise d'œuvre en deux lots, l'un consacré à ses rues et places, l'autre à la renaturation de ses parcs et jardins. Climat, sols et biodiversité dominent les cahiers des charges. L'établissement public territorial lanc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8318,7 +8359,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-1-1790812800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1790812800000",
       "title": "contre le cancer du sein la region sud mise sur la proximite",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -8817,30 +8858,6 @@
         "Réglementation"
       ],
       "summary": "Le tracé de l'autoroute A412, en Haute-Savoie, touche une trentaine de fermes, notamment de producteurs de lait de l'AOP reblochon de Savoie. Pour certaines d'entre elles, l'expropriation met à mal leur activité. Lire la suite - Reportage / Photographies , Agriculture , Luttes , …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "vert-rss-9-1790844961000",
-      "title": "«La parole des scientifiques est bafouée» : le Conseil européen s’accorde sur le prolongement des autorisations de nombreux pesticides",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/sante-environnement/la-parole-des-scientifiques-est-bafouee-le-conseil-europeen-saccorde-sur-le-prolongement-des-autorisations-de-nombreux-pesticides/",
-      "image": null,
-      "date": "2026-10-01",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques"
-      ],
-      "summary": "Malgré les alertes, les États européens se sont accordés sur une réforme qui prolongerait de plusieurs années l’autorisation de nombreux pesticides, mercredi. Un texte dénoncé par plusieurs ONG comme un détricotage supplémentaire des règles européennes de protection de la santé e…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9967,7 +9984,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1790640000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1790640000000",
       "title": "rentree scolaire ca se pass",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -9990,7 +10007,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1790640000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1790640000000",
       "title": "a la londe les maures un nouveau pole strategique pour les drones marins",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11754,7 +11771,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1790208000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1790208000000",
       "title": "sainte marie madeleine la region sud veille sur un patrimoine exceptionnel",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -12985,7 +13002,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1790035200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1790035200000",
       "title": "train a batteries",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13179,7 +13196,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1789948800000",
       "title": "transmettre elever produire lagriculture du sud prepare lavenir",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13202,7 +13219,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1789948800000",
       "title": "fraises de carpentras le gout du sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13225,7 +13242,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1789948800000",
       "title": "assises de lapprentissage",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13248,7 +13265,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1789948800000",
       "title": "paques en provence traditions histoire et saveurs de printemps",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13271,7 +13288,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1789948800000",
       "title": "la region sud ouvre son aide de 250 eur pour rouler moins cher au bioethanol",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13570,7 +13587,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1789689600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1789689600000",
       "title": "bourse au merite les bacheliers de lacademie de nice mis a lhonneur",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14255,7 +14272,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1789430400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1789430400000",
       "title": "de saison la figue dans tous ses etats",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15174,7 +15191,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1788998400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1788998400000",
       "title": "formations dexception",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15321,7 +15338,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1788912000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1788912000000",
       "title": "pour la semaine de la mobilite 2025 bougez dans le sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15345,7 +15362,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1788912000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1788912000000",
       "title": "septembre bouge profitez du pass plein air pour vous mettre en mouvement",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15791,7 +15808,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1788739200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1788739200000",
       "title": "400 ans de la marine nationale en region sud lhistoire secrit encore au large",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15814,7 +15831,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1788739200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1788739200000",
       "title": "dechets merterre",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16349,7 +16366,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1788393600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1788393600000",
       "title": "rentree transports scolaires",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16372,7 +16389,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1788393600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1788393600000",
       "title": "terre de hockey",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16521,7 +16538,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1788307200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1788307200000",
       "title": "loto du patrimoine 2026 six tresors de provence alpes cote dazur a sauver",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16789,7 +16806,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1788220800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1788220800000",
       "title": "jeunesse engagee",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17528,7 +17545,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1787702400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1787702400000",
       "title": "les secrets de lhotel de region",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17955,7 +17972,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1787270400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1787270400000",
       "title": "lycee golf hotel",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -17978,7 +17995,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1787270400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1787270400000",
       "title": "panier de naissance provencal",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -18001,7 +18018,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1787270400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1787270400000",
       "title": "le pass sud montagne devient le pass plein air",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -18277,7 +18294,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1786665600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1786665600000",
       "title": "le collier marseillais",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -18326,7 +18343,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1786579200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1786579200000",
       "title": "guerre du feu",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -18349,7 +18366,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1786579200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1786579200000",
       "title": "zidane equipe de france",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -18447,29 +18464,6 @@
       "summary": "MISE A JOUR / IMPORTANT Depuis le 11 août 2026, les règles du démarchage téléphonique sont modifiées. Pour vous démarcher, les professionnels devront avoir obtenu votre accord préalable, explicite, libre et éclairé, sauf pour les appels liés aux contrats en cours (abonnement en c…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1786320000000",
-      "title": "eclipse solaire",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/eclipse-solaire",
-      "image": null,
-      "date": "2026-08-10",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "arb-nouvelle-aquitaine-rss-4-1786353424000",
@@ -19245,7 +19239,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ekopolis-sitemap-27-1785314239000",
+      "id": "ekopolis-sitemap-29-1785314239000",
       "title": "societe resiliente transition ecologique et cohesion sociale etudes de quelques",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19268,7 +19262,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-67-1785313782000",
+      "id": "ekopolis-sitemap-69-1785313782000",
       "title": "guide amenagement et construction durable de lenseignement superieur de la recherche et",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19292,7 +19286,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-86-1785314102000",
+      "id": "ekopolis-sitemap-88-1785314102000",
       "title": "les opportunites de developpement de leconomie sociale et solidaire dans la filiere du",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19315,7 +19309,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-149-1785313963000",
+      "id": "ekopolis-sitemap-151-1785313963000",
       "title": "presentation programme sante ville amenagement durable",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19338,7 +19332,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-244-1785316581000",
+      "id": "ekopolis-sitemap-246-1785316581000",
       "title": "guide construire sain ed 2013",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19361,7 +19355,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-375-1785316517000",
+      "id": "ekopolis-sitemap-377-1785316517000",
       "title": "la biodiversite publications du ministere",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19384,7 +19378,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-379-1785313612000",
+      "id": "ekopolis-sitemap-381-1785313612000",
       "title": "label ever espaces verts ecologiques pour la gestion ecologique des espaces verts",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19407,7 +19401,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-392-1785316763000",
+      "id": "ekopolis-sitemap-394-1785316763000",
       "title": "de la nature en ville mais quelle idee",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
