@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-07T17:22:12.332Z",
+  "generatedAt": "2026-10-08T00:05:59.981Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1791417943000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1791417943000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1791417943000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "batiweb-rss-0-1791386400000",
       "title": "Le label LCBI, ou la quête d'un référentiel bas carbone en Europe",
       "source": "Batiweb",
@@ -2533,7 +2611,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-0-1791378973000",
+      "id": "odeys-rss-0-1791395279000",
+      "title": "[VISITE] chantier : réhabilitation d'une longère poitevine en matériaux bio et géosourcés",
+      "source": "Odéys",
+      "sourceId": "odeys",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://www.odeys.fr/agenda/visite-chantier-rehabilitation-dune-longere-poitevine-en-materiaux-bio-et-geosources",
+      "image": "https://www.odeys.fr/sites/default/files/styles/large/public/2026-10/La%20Croix%20Siaume_vue-arriere.jpg?itok=xg5MBACu",
+      "date": "2026-10-07",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Innovation",
+        "Nouvelle-Aquitaine",
+        "Réglementation",
+        "Réemploi",
+        "Biosourcé"
+      ],
+      "summary": "20 OCTOBRE 2026 Sénillé-Saint-Sauveur (86) Le chantier de La Croix Siaume, à Sénillé-Saint-Sauveur (86), ouvre ses portes le mardi 20 octobre 2026 pour un point d'étape technique. Cloisons en blocs de chanvre, enduits terre-chanvre, doublages chaux-liège et isolation chaux-chanvr…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "odeys-rss-1-1791378973000",
       "title": "[AAC] Innov&Act : de la prévention à la reconstruction - Renforcer la résilience des logements !",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -2976,7 +3080,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1791387359000",
+      "id": "reporterre-rss-0-1791396000000",
+      "title": "Lobby du plastique : 2,5 millions d'euros par an pour continuer de polluer",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Lobby-du-plastique-2-5-millions-d-euros-par-an-pour-continuer-de-polluer",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/illustration_sans_titre-10-9ca10.jpg?1791396004",
+      "date": "2026-10-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Biosourcé"
+      ],
+      "summary": "Les industriels ont consacré 2,5 millions d'euros pour inciter les pouvoirs publics à abandonner des textes visant à réduire la pollution, notamment plastique, selon un rapport inédit de Zero Waste France. Reporterre y a eu accès en amont et a enquêté sur les coulisses de ce lobb…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1791387359000",
       "title": "Ces artistes et scientifiques naviguent depuis un an au chevet des « fleuves en ruines »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3002,7 +3131,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1791380875000",
+      "id": "reporterre-rss-2-1791380875000",
       "title": "« Pesticides à vie » : la carte des mobilisations en France les 10 et 11 octobre",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3026,7 +3155,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1791379478000",
+      "id": "reporterre-rss-3-1791379478000",
       "title": "La Cour des comptes alerte sur le financement insuffisant de la transition écologique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3051,7 +3180,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1791378930000",
+      "id": "reporterre-rss-4-1791378930000",
       "title": "« En état de siège permanent » : les ravages du mur anti-migrants de Trump au Texas",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3077,7 +3206,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1791378140000",
+      "id": "reporterre-rss-5-1791378140000",
       "title": "Pour la première fois depuis 1945, l'extrême droite allemande obtient la présidence d'un parlement régional",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3102,7 +3231,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1791359113000",
+      "id": "reporterre-rss-6-1791359113000",
       "title": "« On a besoin de monde sur les barricades » : la zad de l'A412 a été partiellement expulsée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3128,7 +3257,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1791349200000",
+      "id": "reporterre-rss-7-1791349200000",
       "title": "Depuis le 7 octobre, « l'appétit expansionniste » d'Israël pour les terres de ses voisins ne cesse de grandir",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3154,7 +3283,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1791349200000",
+      "id": "reporterre-rss-8-1791349200000",
       "title": "« Un cadeau à plusieurs milliards » : le nucléaire grand gagnant du budget 2027",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3587,7 +3716,59 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1791389220000",
+      "id": "enerzine-rss-0-1791411000000",
+      "title": "Et si on décarbonait la production de ciment grâce à l’électricité ?",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/et-si-on-decarbonait-la-production-de-ciment-grace-a-lelectricite/196261-2026-10",
+      "image": null,
+      "date": "2026-10-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "RE2020"
+      ],
+      "summary": "Le ciment est l’une des matières les plus consommées au monde, juste derrière l’eau. Cependant, l’énorme appétit du monde pour le ciment a aussi un coût environnemental : sa production génère chaque année plus d’un milliard de tonnes métriques d’émissions de dioxyde de carbone, s…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1791400800000",
+      "title": "Grand Paris Express : le tunnelier Roberta reconditionné pour la ligne 15 Ouest",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/grand-paris-express-le-tunnelier-roberta-reconditionne-pour-la-ligne-15-ouest/196566-2026-10",
+      "image": null,
+      "date": "2026-10-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été",
+        "Réemploi"
+      ],
+      "summary": "Le 7 octobre 2026 à Gennevilliers, la Société des grands projets a baptisé le tunnelier « Roberta », reconditionné en Italie par Webuild pour creuser environ 7 kilomètres de tunnel du lot 2 de la ligne 15 Ouest du Grand Paris Express. Le tunnelier « Roberta » mesure plus de 100 m…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1791389220000",
       "title": "La CNR met en service une centrale hydroélectrique nouvelle génération à Vallabrègues",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3612,7 +3793,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1791386400000",
+      "id": "enerzine-rss-3-1791386400000",
       "title": "L’analyse de SAS mesure l’impact de l’électrification solaire en Ouganda",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3636,7 +3817,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1791382020000",
+      "id": "enerzine-rss-4-1791382020000",
       "title": "Octo’pousse : deux lauréats pour l’innovation océan",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3661,7 +3842,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1791379500000",
+      "id": "enerzine-rss-5-1791379500000",
       "title": "La Linux Foundation lance OpenGrid pour moderniser la planification des réseaux électriques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3686,7 +3867,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1791364020000",
+      "id": "enerzine-rss-6-1791364020000",
       "title": "Pergolas, abris, parkings : le solaire s’installe hors des toitures",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3712,7 +3893,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1791361200000",
+      "id": "enerzine-rss-7-1791361200000",
       "title": "De la boucherie au biocarburant : le rôle clé des suifs animaux dans la transition énergétique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3737,7 +3918,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1791358200000",
+      "id": "enerzine-rss-8-1791358200000",
       "title": "Guirlandes LED : quel est leur vrai bilan énergétique au quotidien ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3761,7 +3942,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1791357600000",
+      "id": "enerzine-rss-9-1791357600000",
       "title": "Remplacer une vieille cheminée par un poêle : que faire du conduit existant ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3783,56 +3964,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Avec la remontée des prix du gaz et de l’électricité, beaucoup de propriétaires redécouvrent leur cheminée… et son rendement décevant. Un foyer ouvert restitue souvent moins de 15 % de la chaleur produite, l’essentiel partant par le conduit. Un poêle à bois ou à granulés récent d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1791357000000",
-      "title": "Cave à vin encastrable : bien choisir selon son espace cuisine",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/cave-a-vin-encastrable-bien-choisir-selon-son-espace-cuisine/196497-2026-10",
-      "image": null,
-      "date": "2026-10-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Installer une cave à vin encastrable dans votre cuisine change la façon même de penser votre espace. Entre le plan de travail, les colonnes de rangement et le meuble sous évier, chaque centimètre compte. Avant de vous décider, tenez compte de l’emplacement disponible, de la capac…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1791351000000",
-      "title": "Des parapluies sous-marins pour les récifs coralliens pourraient aider à les protéger des dégâts causés par la chaleur",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-parapluies-sous-marins-pour-les-recifs-coralliens-pourraient-aider-a-les-proteger-des-degats-causes-par-la-chaleur/196253-2026-10",
-      "image": null,
-      "date": "2026-10-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "Les températures élevées de la mer, provoquées par la crise climatique, endommagent les coraux, les blanchissent d’un blanc spectral et les tuent. Bien que la restauration des récifs morts soit possible, elle est difficile et coûteuse, et les coraux restaurés sont vulnérables aux…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3910,84 +4041,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Une vitre de four étincelante sans frotter ni produit chimique ? La vapeur d'eau fait des miracles, à condition d'éviter ces erreurs qui abîment le verre pour de bon. L’article « J’ai frotté pendant des années pour rien » : cette méthode permet de récupérer un verre de four noirc…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1791393707000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1791393707000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1791393707000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1791393695000",
@@ -4740,25 +4793,24 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-7-1791327900000",
-      "title": "Enduits décoratifs : composer un intérieur par la matière et la lumière",
+      "title": "CROSO France et Grijsen : le mobilier urbain pensé pour chaque projet",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/enduits-decoratifs-interieur-matiere-lumiere-49250",
-      "image": "https://img.batiweb.com/repo-images/publi/49250/toupret-10-08-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/croso-france-grijsen-mobilier-urbain-49347",
+      "image": "https://img.batiweb.com/repo-images/publi/49347/croso-10-08-une.jpg",
       "date": "2026-10-06",
       "access": "open",
       "official": false,
-      "highImpact": true,
-      "impactScore": 80,
+      "highImpact": false,
+      "impactScore": 72,
       "tags": [
         "Construction",
         "Produits",
-        "Marché",
-        "RE2020"
+        "Marché"
       ],
-      "summary": "Avant la couleur, il y a une sensation. Matière, relief et lumière donnent au mur une présence qui transforme la perception de l’espace. Avant la couleur, il y a une sensation. Matière, relief et lumière donnent au mur une présence qui transforme la perception de l’espace. Enduit…",
+      "summary": "CROSO France s'appuie sur le savoir-faire de Grijsen pour accompagner les projets de mobilier urbain nécessitant une réponse spécifique. CROSO France s'appuie sur le savoir-faire de Grijsen pour accompagner les projets de mobilier urbain nécessitant une réponse spécifique. CROSO …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4811,24 +4863,25 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-10-1791327900000",
-      "title": "CROSO France et Grijsen : le mobilier urbain pensé pour chaque projet",
+      "title": "Enduits décoratifs : composer un intérieur par la matière et la lumière",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/croso-france-grijsen-mobilier-urbain-49347",
-      "image": "https://img.batiweb.com/repo-images/publi/49347/croso-10-08-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/enduits-decoratifs-interieur-matiere-lumiere-49250",
+      "image": "https://img.batiweb.com/repo-images/publi/49250/toupret-10-08-une.jpg",
       "date": "2026-10-06",
       "access": "open",
       "official": false,
-      "highImpact": false,
-      "impactScore": 72,
+      "highImpact": true,
+      "impactScore": 80,
       "tags": [
         "Construction",
         "Produits",
-        "Marché"
+        "Marché",
+        "RE2020"
       ],
-      "summary": "CROSO France s'appuie sur le savoir-faire de Grijsen pour accompagner les projets de mobilier urbain nécessitant une réponse spécifique. CROSO France s'appuie sur le savoir-faire de Grijsen pour accompagner les projets de mobilier urbain nécessitant une réponse spécifique. CROSO …",
+      "summary": "Avant la couleur, il y a une sensation. Matière, relief et lumière donnent au mur une présence qui transforme la perception de l’espace. Avant la couleur, il y a une sensation. Matière, relief et lumière donnent au mur une présence qui transforme la perception de l’espace. Enduit…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4859,31 +4912,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-12-1791295200000",
-      "title": "69 % des Français ont souffert de la chaleur dans leur logement cet été",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/etude/confort-ete-chaleur-logement-francais-49386",
-      "image": "https://img.batiweb.com/repo-images/article/49386/chaleur_thermometre.jpg",
-      "date": "2026-10-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "Après un été marqué par plusieurs vagues de chaleur, 69 % des Français déclarent avoir souffert dans leur logement. Selon le dernier Sofinscope, le confort d’été s’impose désormais comme un critère majeur dans le choix d’un logement. Après un été marqué par plusieurs vagues de ch…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-13-1791295200000",
       "title": "Quantum of Trust, une IA sur-mesure pour chaque métier du BTP",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4904,6 +4932,31 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Quantum of Trust déploie son IA sur-mesure dans le BTP, avec des agents sécurisés adaptés aux données et métiers des entreprises. Échange avec Guillaume Loizeaud, son cofondateur. Quantum of Trust déploie son IA sur-mesure dans le BTP, avec des agents sécurisés adaptés aux donnée…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-13-1791295200000",
+      "title": "69 % des Français ont souffert de la chaleur dans leur logement cet été",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/etude/confort-ete-chaleur-logement-francais-49386",
+      "image": "https://img.batiweb.com/repo-images/article/49386/chaleur_thermometre.jpg",
+      "date": "2026-10-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "Après un été marqué par plusieurs vagues de chaleur, 69 % des Français déclarent avoir souffert dans leur logement. Selon le dernier Sofinscope, le confort d’été s’impose désormais comme un critère majeur dans le choix d’un logement. Après un été marqué par plusieurs vagues de ch…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5663,7 +5716,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1791303128000",
+      "id": "reporterre-rss-9-1791303128000",
       "title": "« L'avenir, c'est nous » : le déni climatique alimente la colère lycéenne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5689,7 +5742,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1791299700000",
+      "id": "reporterre-rss-10-1791299700000",
       "title": "Des millions de saumons agglutinés dans des cuves : le projet « démesuré » d'une entreprise française",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5715,7 +5768,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1791296765000",
+      "id": "reporterre-rss-11-1791296765000",
       "title": "Eau potable : le gouvernement veut limiter les mesures de protection à 2 000 captages",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5741,7 +5794,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1791296683000",
+      "id": "reporterre-rss-12-1791296683000",
       "title": "La présence de PFAS détectée dans 60 % des œufs testés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5767,7 +5820,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1791293023000",
+      "id": "reporterre-rss-13-1791293023000",
       "title": "Sur CNews, journalistes et chroniqueurs experts dans la mésinformation climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5792,7 +5845,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1791285906000",
+      "id": "reporterre-rss-14-1791285906000",
       "title": "« La convergence des luttes existe ! » : des paysans aux côtés des lycéens",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5818,7 +5871,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1791285320000",
+      "id": "reporterre-rss-15-1791285320000",
       "title": "Les Hauts-de-France soutiennent l'interdiction des navires-usines près des côtes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5842,7 +5895,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1791271035000",
+      "id": "reporterre-rss-16-1791271035000",
       "title": "Au bord du gouffre, les agences de la transition écologique entrent en lutte",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5868,7 +5921,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1791264600000",
+      "id": "reporterre-rss-17-1791264600000",
       "title": "Budget 2027 : la facture exorbitante des niches fiscales contre l'environnement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5894,7 +5947,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1791244860000",
+      "id": "reporterre-rss-18-1791244860000",
       "title": "Les géants du pétrole sont massivement responsables des canicules, selon les scientifiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7332,7 +7385,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1791215355000",
+      "id": "reporterre-rss-19-1791215355000",
       "title": "Canicules, incendies... Le coût de l'été 2026 évalué à 16 milliards d'euros",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7358,7 +7411,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1791209396000",
+      "id": "reporterre-rss-20-1791209396000",
       "title": "La droite tente de parler d'écologie (et c'est un fiasco)",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7384,7 +7437,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1791209149000",
+      "id": "reporterre-rss-21-1791209149000",
       "title": "Enfants mariés, grossesses non désirées... Les catastrophes climatiques ont des conséquences « dramatiques » pour les filles",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7408,7 +7461,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1791205742000",
+      "id": "reporterre-rss-22-1791205742000",
       "title": "Pour freiner l'avancée des abatteuses, ils occupent des chênes centenaires sur le tracé de l'A412",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7434,7 +7487,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1791205609000",
+      "id": "reporterre-rss-23-1791205609000",
       "title": "Au Brésil, le candidat d'extrême droite Flávio Bolsonaro devance Lula au premier tour de la présidentielle",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7460,7 +7513,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1791201082000",
+      "id": "reporterre-rss-24-1791201082000",
       "title": "Touristes, hôtels... « Yosemite pourrait disparaître si nous continuons comme ça »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7485,7 +7538,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1791191531000",
+      "id": "reporterre-rss-25-1791191531000",
       "title": "« Ni ici, ni ailleurs » : partout dans le monde, paysans et écologistes se mobilisent contre les pesticides",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7510,7 +7563,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1791176400000",
+      "id": "reporterre-rss-26-1791176400000",
       "title": "« C'est une zone de non-droit » : des quads sillonnent illégalement la garrigue",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7536,7 +7589,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1791176400000",
+      "id": "reporterre-rss-27-1791176400000",
       "title": "Étourdissement, démangeaisons… des algues rouges prolifèrent en Guadeloupe et affectent les pêcheurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8057,7 +8110,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-27-1791093600000",
+      "id": "reporterre-rss-28-1791093600000",
       "title": "« Le respect des lois n'est pas facultatif » : 50 juristes appellent à la fin de l'élevage intensif",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8233,7 +8286,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1791048993000",
+      "id": "reporterre-rss-29-1791048993000",
       "title": "« Nous sommes là par nécessité » : des milliers de personnes bloquent une usine de pesticides",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8258,7 +8311,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1791015234000",
+      "id": "reporterre-rss-30-1791015234000",
       "title": "Près de la grotte de Lascaux, un projet de data center à 400 millions d'euros",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8283,7 +8336,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1791007200000",
+      "id": "reporterre-rss-31-1791007200000",
       "title": "D'Act Up à Cancer colère, les malades passent à l'action",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8307,7 +8360,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1791007200000",
+      "id": "reporterre-rss-32-1791007200000",
       "title": "Construire sa maison soi-même ou à plusieurs : trois livres inspirants pour créer son cocon",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8679,7 +8732,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-1-1790942462000",
+      "id": "odeys-rss-2-1790942462000",
       "title": "[ATELIERS PARTICIPATIFS] Néo Terra Adapt : six ateliers pour mesurer la vulnérabilité climatique de nos territoires",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -8808,7 +8861,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1790954539000",
+      "id": "reporterre-rss-33-1790954539000",
       "title": "L'Algérie veut élargir la peine de mort aux auteurs d'incendies",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8833,7 +8886,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1790954175000",
+      "id": "reporterre-rss-34-1790954175000",
       "title": "Les taux de cadmium dans les engrais devront être divisés par plus de 3 en 2030",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8858,7 +8911,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1790952922000",
+      "id": "reporterre-rss-35-1790952922000",
       "title": "Ils analysent des excréments de chauve-souris pour limiter l'usage de pesticides",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8884,7 +8937,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1790951654000",
+      "id": "reporterre-rss-36-1790951654000",
       "title": "« Je risque la mort » : au Brésil, l'inquiétude des militants écologistes à l'approche des élections",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8910,7 +8963,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1790936100000",
+      "id": "reporterre-rss-37-1790936100000",
       "title": "Des protections menstruelles réutilisables désormais remboursées par la Sécurité sociale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8936,7 +8989,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1790930431000",
+      "id": "reporterre-rss-38-1790930431000",
       "title": "Usines, stations d'épuration, décharges : le toxique voisinage des aires d'accueil",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8960,7 +9013,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1790926966000",
+      "id": "reporterre-rss-39-1790926966000",
       "title": "Herbicides dans l'eau potable : l'agglomération de La Rochelle porte plainte",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8986,7 +9039,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1790920800000",
+      "id": "reporterre-rss-40-1790920800000",
       "title": "« Nous n'acceptons plus de réparer les dégâts causés par les politiques » : des soignants rejoignent la lutte contre les pesticides",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9208,7 +9261,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "odeys-rss-2-1790866641000",
+      "id": "odeys-rss-3-1790866641000",
       "title": "[RETOUR EN IMAGES] les rencontres adhérents Odéys à La Rochelle",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -9234,7 +9287,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-3-1790840922000",
+      "id": "odeys-rss-4-1790840922000",
       "title": "[RENCONTRE] Les jeudis de la frugalité : La terre, matériau d'aujourd'hui et de demain",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -9507,7 +9560,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1790869252000",
+      "id": "reporterre-rss-41-1790869252000",
       "title": "Le dernier budget de l'ère Macron « ne montre pas le sursaut écologique nécessaire »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9533,7 +9586,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1790867646000",
+      "id": "reporterre-rss-42-1790867646000",
       "title": "« Trop jeunes pour se faire écouter, assez grands pour se faire violenter » : les lycéens face à la répression policière",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9559,7 +9612,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1790858997000",
+      "id": "reporterre-rss-43-1790858997000",
       "title": "Sécheresse : plus de 80 000 Français dépendent d'un camion-citerne ou de bouteilles d'eau",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9585,7 +9638,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1790849294000",
+      "id": "reporterre-rss-44-1790849294000",
       "title": "« Pas ça, Zinédine » : lettre à Zidane sur le déni climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9611,7 +9664,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1790846653000",
+      "id": "reporterre-rss-45-1790846653000",
       "title": "« Ils disent qu'on met la forêt en danger alors qu'ils vont la couper » : la zad contre la LGV Bordeaux-Toulouse expulsée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9637,7 +9690,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1790841033000",
+      "id": "reporterre-rss-46-1790841033000",
       "title": "« Si on doit partir, on ira où ? » La détresse des agriculteurs expropriés pour l'A412",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9736,30 +9789,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Visite de chantier, webinaires, rencontres avec d'autres professionnels, échange sur les innovations ...Découvrez les temps forts qui ont eu lieu dans votre région ! L’article Actualités régionales : les temps forts du mois de septembre est apparu en premier sur Fibois France. Vi…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-40-1790770265000",
-      "title": "artificialisation des sols decouvrez les premieres donnees du 3 millesime jeudi 5",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/artificialisation-des-sols-decouvrez-les-premieres-donnees-du-3-millesime-jeudi-5",
-      "image": null,
-      "date": "2026-09-30",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "capeb-rss-3-1790726400000",
@@ -9883,7 +9912,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "odeys-rss-4-1790782154000",
+      "id": "odeys-rss-5-1790782154000",
       "title": "[RENCONTRE] NéoBusiness Nouvelle-Aquitaine - Le salon inversé des achats responsables 2026",
       "source": "Odéys",
       "sourceId": "odeys",
@@ -10011,7 +10040,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1790809200000",
+      "id": "reporterre-rss-47-1790809200000",
       "title": "En une année, 5 % des glaciers suisses ont fondu",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10036,7 +10065,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1790781955000",
+      "id": "reporterre-rss-48-1790781955000",
       "title": "Pour les fêtes de fin d'année, le train encore plus cher que l'avion",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10060,7 +10089,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1790781919000",
+      "id": "reporterre-rss-49-1790781919000",
       "title": "Le lobby agro-industriel se renforce au Sénat après les élections",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10084,7 +10113,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1790781187000",
+      "id": "reporterre-rss-50-1790781187000",
       "title": "« Il faut creuser partout » : TotalEnergies veut encore augmenter sa production de pétrole",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10110,7 +10139,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1790779897000",
+      "id": "reporterre-rss-51-1790779897000",
       "title": "Avion repeint en vert : les militants de Greenpeace condamnés à des amendes symboliques en appel",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10135,7 +10164,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1790779202000",
+      "id": "reporterre-rss-52-1790779202000",
       "title": "L'océan se réchauffe : Copernicus lance « son avertissement le plus sévère à ce jour »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10160,7 +10189,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1790778056000",
+      "id": "reporterre-rss-53-1790778056000",
       "title": "« Boycotter l'IA et son monde » : débat et mode d'emploi en vidéo",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10186,7 +10215,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1790777244000",
+      "id": "reporterre-rss-54-1790777244000",
       "title": "« Chaque année, l'Éducation nationale découvre le réchauffement climatique » : l'inadaptation enflamme les lycéens",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10211,7 +10240,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1790773632000",
+      "id": "reporterre-rss-55-1790773632000",
       "title": "Les renouvelables « désignées comme un ennemi économique » : face aux suppressions de postes, les salariés se mobilisent",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10236,7 +10265,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1790762700000",
+      "id": "reporterre-rss-56-1790762700000",
       "title": "D'ici 2030, le poids environnemental de l'IA pourrait être multiplié par 7",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10261,7 +10290,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1790759113000",
+      "id": "reporterre-rss-57-1790759113000",
       "title": "« On nous a annoncé que rénover ne sert à rien » : des mairies de droite abandonnent l'adaptation thermique des écoles",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10287,7 +10316,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1790755619000",
+      "id": "reporterre-rss-58-1790755619000",
       "title": "Des fibres à la place des laxatifs : quand l'alimentation remplace les médicaments polluants",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10313,7 +10342,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-58-1790753492000",
+      "id": "reporterre-rss-59-1790753492000",
       "title": "Le virage « catholique et réactionnaire » d'une association de randonnée pour jeunes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10334,32 +10363,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Liens avec le milliardaire réactionnaire Pierre-Édouard Stérin, dérive religieuse, course à la rentabilité... D'anciens membres de l'association Seuil, qui aide à la réinsertion des jeunes grâce à de longues randonnées, dénoncent une gestion au détriment des adolescents. « En rev…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1790733600000",
-      "title": "Vagues de chaleur : la moitié des Européens exposés à un niveau dangereux d'ozone en 2026",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Vagues-de-chaleur-la-moitie-des-Europeens-exposes-a-un-niveau-dangereux-d-ozone-en-2026",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260717__hl_smouchmouche_3235718__v1__highres__francebastilledayparadeaerialvi-dc390.jpg?1790733601",
-      "date": "2026-09-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "C'est une autre conséquence du changement climatique : la pollution de l'air à l'ozone a touché, à des niveaux dangereux, 40 % de la population mondiale en 2026. Le lien avec le climat ? L'ozone se forme lorsque certains polluants réagissent sous l'effet de la lumière du soleil c…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10754,32 +10757,6 @@ window.BATIVEILLE_DATA = {
         "Habitat"
       ],
       "summary": "L’article L’AGAM au Club FNAU Mobilités décentralisé à Lyon est apparu en premier sur AGAM. L’article L’AGAM au Club FNAU Mobilités décentralisé à Lyon est apparu en premier sur AGAM . L’AGAM au Club FNAU Mobilités décentralisé à Lyon",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "odeys-rss-5-1790696996000",
-      "title": "[RETOUR EN IMAGES] Visite d'un projet en démarche BDNA : la résidence Cantegrit à Ondres",
-      "source": "Odéys",
-      "sourceId": "odeys",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Nouvelle-Aquitaine",
-      "url": "https://www.odeys.fr/actualites/retour-en-images-visite-bdna-residence-cantegrit-ondres",
-      "image": "https://www.odeys.fr/sites/default/files/styles/large/public/2026-09/20260918_093801.jpg?itok=aFIRpscx",
-      "date": "2026-09-29",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Innovation",
-        "Nouvelle-Aquitaine",
-        "Réglementation",
-        "Carbone",
-        "Eau"
-      ],
-      "summary": "18.09.2026 Le 18 septembre dernier, nous avons convié les acteurs de la filière à une visite terrain de la résidence Cantegrit à Ondres, opération de 27 logements portée par Eden Promotion au cœur de l'écoquartier des Trois Fontaines. Lauréate de la Pyramide d’Argent 2024 (catégo…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11465,30 +11442,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Silencieuses, moins polluantes, et toutes aussi puissantes. Sur le papier, les batteries ont tout pour pousser les groupes électrogènes vers la sortie. Pourtant, le moteur […] L’article Les groupes électrogènes vont-ils bientôt disparaître grâce aux batteries mobiles ? est apparu…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-39-1790338875000",
-      "title": "webinaire 9 novembre 2026 10h 11h30 demarrer et structurer observatoire friches en 6",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/webinaire-9-novembre-2026-10h-11h30-demarrer-et-structurer-observatoire-friches-en-6",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "capeb-rss-6-1790352105000",
@@ -16643,30 +16596,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "cstb-sitemap-61-1788446713000",
-      "title": "renforcer securite eau potable",
-      "source": "CSTB",
-      "sourceId": "cstb",
-      "sourceType": "Organisme technique",
-      "region": "National",
-      "url": "https://www.cstb.fr/communiques-de-presse/renforcer-securite-eau-potable",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Technique",
-        "Innovation",
-        "Construction",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de CSTB. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1788393600000",
       "title": "rentree transports scolaires",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -19436,7 +19365,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ekopolis-sitemap-27-1785314239000",
+      "id": "ekopolis-sitemap-26-1785314239000",
       "title": "societe resiliente transition ecologique et cohesion sociale etudes de quelques",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19459,7 +19388,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-67-1785313782000",
+      "id": "ekopolis-sitemap-66-1785313782000",
       "title": "guide amenagement et construction durable de lenseignement superieur de la recherche et",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19483,7 +19412,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-86-1785314102000",
+      "id": "ekopolis-sitemap-85-1785314102000",
       "title": "les opportunites de developpement de leconomie sociale et solidaire dans la filiere du",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19506,7 +19435,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-149-1785313963000",
+      "id": "ekopolis-sitemap-148-1785313963000",
       "title": "presentation programme sante ville amenagement durable",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19529,7 +19458,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-244-1785316581000",
+      "id": "ekopolis-sitemap-243-1785316581000",
       "title": "guide construire sain ed 2013",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19552,7 +19481,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-375-1785316517000",
+      "id": "ekopolis-sitemap-374-1785316517000",
       "title": "la biodiversite publications du ministere",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19575,7 +19504,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-379-1785313612000",
+      "id": "ekopolis-sitemap-378-1785313612000",
       "title": "label ever espaces verts ecologiques pour la gestion ecologique des espaces verts",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19598,7 +19527,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-392-1785316763000",
+      "id": "ekopolis-sitemap-391-1785316763000",
       "title": "de la nature en ville mais quelle idee",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19644,30 +19573,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Le Rapport de l&rsquo;Observatoire de la Qualité de la Construction confirme la première place de la couverture en petits éléments dans les maisons individuelles, tandis que la sinistralité des équipements sanitaires poursuit sa progression inquiétante. Maisons individuelles : qu…",
       "premiumSummary": "",
       "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-38-1785237848000",
-      "title": "webinaire 15 octobre 2026 vers suivi plus fin la consommation des espaces naturels",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/webinaire-15-octobre-2026-vers-suivi-plus-fin-la-consommation-des-espaces-naturels",
-      "image": null,
-      "date": "2026-07-28",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "capeb-rss-12-1785222916000",
@@ -22175,30 +22080,6 @@ window.BATIVEILLE_DATA = {
         "Habitat privé"
       ],
       "summary": "Publication détectée dans le sitemap de ANAH. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-37-1782884876000",
-      "title": "parution des donnees consommation despaces naturels agricoles et forestiers 2011 2025",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/parution-des-donnees-consommation-despaces-naturels-agricoles-et-forestiers-2011-2025",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
