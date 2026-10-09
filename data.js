@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-09T16:53:57.334Z",
+  "generatedAt": "2026-10-09T23:54:50.500Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2521,30 +2521,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-0-1791554400000",
-      "title": "BDR Thermea France : « C'est une bonne année pour nous, pour la pompe à chaleur »",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/genie-climatique/bdr-thermea-pac-electrification-climatisation-genie-climatique-49396",
-      "image": "https://img.batiweb.com/repo-images/article/49396/chantierclintdedietrich.jpg",
-      "date": "2026-10-09",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation"
-      ],
-      "summary": "Électrification, climatisation... Voici des tendances qui guident la stratégie de BDR Thermea en France, concentrées sur la PAC. Entretien avec le président, le responsable des services marketing ainsi que le responsable prescription De Dietrich. Électrification, climatisation...…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-1-1791554400000",
       "title": "PRB, Cantillana France et Algimouss dévoilent leurs nouveautés",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2564,6 +2540,30 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Sur le salon Batimat, les trois marques du groupe Holcim ont présenté leurs dernières innovations, entre nouvelles gammes de mastics, réduction des poussières, et traitement sans biocide. Sur le salon Batimat, les trois marques du groupe Holcim ont présenté leurs dernières innova…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-1-1791554400000",
+      "title": "BDR Thermea France : « C'est une bonne année pour nous, pour la pompe à chaleur »",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/genie-climatique/bdr-thermea-pac-electrification-climatisation-genie-climatique-49396",
+      "image": "https://img.batiweb.com/repo-images/article/49396/chantierclintdedietrich.jpg",
+      "date": "2026-10-09",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation"
+      ],
+      "summary": "Électrification, climatisation... Voici des tendances qui guident la stratégie de BDR Thermea en France, concentrées sur la PAC. Entretien avec le président, le responsable des services marketing ainsi que le responsable prescription De Dietrich. Électrification, climatisation...…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3575,7 +3575,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "greenunivers-rss-0-1791563629000",
-      "title": "Solaire : les développeurs se ruent sur les derniers appels d’offres",
+      "title": "Pourquoi les développeurs se ruent sur les derniers appels d’offres solaires",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
       "sourceType": "Presse professionnelle",
@@ -3645,7 +3645,7 @@ window.BATIVEILLE_DATA = {
         "Confort d’été",
         "Énergie"
       ],
-      "summary": "La liste complète des projets lauréats de la deuxième session de l’appel d’offres dit « simplifié » pour le soutien public aux toitures photovoltaïques de 100 à 500 kW de puissance a été rendue publique aujourd’hui par la Direction générale de l’énergie et du climat. Cette sessio…",
+      "summary": "Article complété en cours de journée le 09/10/2026 – La liste complète des projets lauréats de la deuxième session de l’appel d’offres dit « simplifié » pour le soutien public aux toitures photovoltaïques de 100 à 500 kW de puissance a été rendue publique aujourd’hui par la Direc…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3671,7 +3671,7 @@ window.BATIVEILLE_DATA = {
         "Réglementation",
         "Confort d’été"
       ],
-      "summary": "Quelque 731 dossiers ont été déposés pour un total de… 5,3 GWc (et non pas 8,3 GWc comme annoncé dans le premier document des autorités) soit presque 6 fois la puissance appelée. Du jamais vu et de très loin. Pas moins de 2,8 GW se situaient sur des terrains agricoles, indique la…",
+      "summary": "Article complété en cours de journée le 09/10/2026 – Quelque 731 dossiers ont été déposés pour un total de… 5,3 GWc (et non pas 8,3 GWc comme annoncé dans le premier document des autorités) soit presque 6 fois la puissance appelée. Du jamais vu et de très loin. Pas moins de 2,8 G…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3882,7 +3882,58 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1791558420000",
+      "id": "enerzine-rss-0-1791583800000",
+      "title": "Le robot CP110L de Kawasaki peut traiter jusqu’à 2 200 caisses par heure",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/le-robot-cp110l-de-kawasaki-peut-traiter-jusqua-2-200-caisses-par-heure/196636-2026-10",
+      "image": null,
+      "date": "2026-10-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Kawasaki Robotics (USA) présentera au PACK EXPO International 2026, à Chicago, le CP110L, un robot de palettisation haute vitesse conçu pour les environnements d’emballage à l’espace restreint. Le lancement a été annoncé le 8 octobre 2026. Le CP110L sera présenté sur le stand N-5…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1791567300000",
+      "title": "Sept alternatives open source à Adobe, développées avec l’IA, débarquent gratuitement",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/artcraft-alternatives-adobe-gratuites-open-source-ia/196786-2026-10",
+      "image": null,
+      "date": "2026-10-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Début octobre 2026, le développeur Brandon Thomas a mis en ligne sept applications gratuites qui visent les logiciels phares d’Adobe. Les créatifs peuvent déjà tester la retouche photo, le montage vidéo ou la mise en page sans abonnement aux outils de création, en exécution local…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1791558420000",
       "title": "Certificats de biogaz. L’obligation de restitution court jusqu’en 2044, pas 2041",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3907,7 +3958,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1791556500000",
+      "id": "enerzine-rss-3-1791556500000",
       "title": "Superintelligence IA, quand la communication de Washington dépasse la science",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3932,7 +3983,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1791551220000",
+      "id": "enerzine-rss-4-1791551220000",
       "title": "Starlink mobile ex Direct-to-Cell. Votre téléphone va-t-il échapper aux opérateurs ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3957,7 +4008,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1791542100000",
+      "id": "enerzine-rss-5-1791542100000",
       "title": "La plus grande batterie de Bretagne est branchée, le réseau électrique change de braquet",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3983,7 +4034,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1791534000000",
+      "id": "enerzine-rss-6-1791534000000",
       "title": "AdBlue, le talon d’Achille des diesels récents qui peut immobiliser votre voiture",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4007,7 +4058,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1791523800000",
+      "id": "enerzine-rss-7-1791523800000",
       "title": "La première horloge nucléaire autonome tourne à Vienne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4032,7 +4083,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1791522600000",
+      "id": "enerzine-rss-8-1791522600000",
       "title": "Première observation de spins quantiques déplaçant un objet à l’échelle du centimètre en laboratoire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4058,7 +4109,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1791519000000",
+      "id": "enerzine-rss-9-1791519000000",
       "title": "Une batterie silicium-soufre durable conçue à terme pour des applications eVTOL et drones",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4080,32 +4131,6 @@ window.BATIVEILLE_DATA = {
         "Carbone"
       ],
       "summary": "Une collaboration qui vise à développer une plateforme de batteries silicium-soufre à haute densité énergétique, associant une anode silicium-carbone et une cathode lithium-soufre a été annoncée à Los Angeles par XBM USA et SiCAM Technologies La chimie silicium-soufre figure parm…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1791515400000",
-      "title": "Le robot terrestre sans pilote Hunter WOLF sélectionné par l’armée américaine",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/le-robot-terrestre-sans-pilote-hunter-wolf-selectionne-par-larmee-americaine/196630-2026-10",
-      "image": null,
-      "date": "2026-10-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Mardi 6 octobre à Fredericksburg, en Virginie, HDT Robotics, via BLADE, a annoncé sa sélection comme l’un des six partenaires industriels de l’initiative Infantry Last Tactical Mile (ILTM) de l’armée américaine, destinée à moderniser le soutien aux soldats d’infanterie. L’entrepr…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4255,7 +4280,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1791564824000",
+      "id": "le-commerce-du-bois-sitemap-0-1791590076000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4281,7 +4306,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1791564824000",
+      "id": "le-commerce-du-bois-sitemap-1-1791590076000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4307,7 +4332,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1791564824000",
+      "id": "le-commerce-du-bois-sitemap-2-1791590076000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -6276,32 +6301,6 @@ window.BATIVEILLE_DATA = {
         "Énergie"
       ],
       "summary": "En Pologne, GreenYellow finalise un portefeuille de 116 MW de solaire déployées en toiture sur plus de 2300 sites d'une enseigne de grande distribution. Derrière les chiffres, pv magazine décrypte la chaîne de valeur et la stratégie de sécurisation. En Pologne, GreenYellow finali…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1791497400000",
-      "title": "California Waste Solutions détaille ses projets de valorisation des déchets au Vietnam",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/california-waste-solutions-detaille-ses-projets-de-valorisation-des-dechets-au-vietnam/196639-2026-10",
-      "image": null,
-      "date": "2026-10-08",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Dans un communiqué, California Waste Solutions et sa filiale Vietnam Waste Solutions présentent leurs activités de recyclage en Californie et leurs projets de traitement et de valorisation des déchets à Hô Chi Minh-Ville, avec l’objectif affiché de contribuer à la neutralité carb…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -15372,7 +15371,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -19863,7 +19862,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -19962,7 +19961,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -20321,7 +20320,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
