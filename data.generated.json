@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T23:54:50.500Z",
+  "generatedAt": "2026-10-10T05:05:34.905Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,210 @@
   ],
   "articles": [
     {
+      "id": "reporterre-rss-0-1791608400000",
+      "title": "Le métro ou les arbres : à Paris, le prolongement de la ligne 1 sème la discorde",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Le-metro-ou-les-arbres-a-Paris-le-prolongement-de-la-ligne-1-seme-la-discorde",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/2026-10-06_reporterre_stopligne1-17-0d1e1.jpg?1791608402",
+      "date": "2026-10-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "La prolongation prévue de la ligne 1 du métro parisien, qui doit rejoindre des quartiers mal desservis, passe par le bois de Vincennes. Des collectifs s'opposent aux travaux au nom de la défense des arbres qui risquent l'abattage. Faut-il sacrifier des arbres pour prolonger une l…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1791608400000",
+      "title": "« On soutient les agriculteurs en cas de difficultés » : les Amap, un modèle de résilience face au chaos climatique",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/On-soutient-les-agriculteurs-en-cas-de-difficultes-les-Amap-un-modele-de-resilience-face",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/rid_260930-3-99b5a.jpg?1791608402",
+      "date": "2026-10-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat"
+      ],
+      "summary": "Depuis plus de vingt ans, les Associations pour le maintien d'une agriculture paysanne mettent en lien direct des consommateurs et des producteurs. Une façon efficace de sécuriser les revenus paysans, mais qui peine à se démocratiser. Le (…) Lire la suite - Reportage / Agricultur…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-2-1791608400000",
+      "title": "L'écologie contre-attaque : Reporterre lance sa grande tournée",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/L-ecologie-contre-attaque-Reporterre-lance-sa-grande-tournee",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/reporterre_tournee_rs_horizontal_ok_1__resized-5510e.png?1791608403",
+      "date": "2026-10-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "En amont de la présidentielle, Reporterre organise une série de rencontres en France pour mettre, enfin, l'écologie au centre. Parce que l'urgence climatique est plus forte que jamais. Et parce que l'extrême droite se trouve aux portes du pouvoir. Ce sera le dernier scrutin avant…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1791605400000",
+      "title": "Comment entrer dans la réalité virtuelle sans porter de casque",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/comment-entrer-dans-la-realite-virtuelle-sans-porter-de-casque/196670-2026-10",
+      "image": null,
+      "date": "2026-10-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Une personne portant des lunettes encombrantes, se retournant maladroitement sur elle-même et tendant les mains pour attraper quelque chose qui n’est pas là. Voilà l’image que beaucoup d’entre nous se font de la réalité virtuelle, et celle que des chercheurs de l’université de Ky…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1791601800000",
+      "title": "Le réacteur MARVEL obtient l’approbation fédérale de sûreté alors que sa cuve primaire arrive dans l’Idaho",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/le-reacteur-marvel-obtient-lapprobation-federale-de-surete-alors-que-sa-cuve-primaire-arrive-dans-lidaho/196667-2026-10",
+      "image": null,
+      "date": "2026-10-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Le projet de microréacteur MARVEL du Département de l’Énergie a récemment franchi de nouvelles étapes tandis que les chercheurs de l’Idaho préparent le réacteur en vue de ses premiers essais de démarrage cet hiver. Le circuit de refroidissement primaire du microréacteur, ou PCS, …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1791608719000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1791608719000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1791608719000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "observatoire-de-l-immobilier-durable-oid-rss-0-1791537588000",
       "title": "ESREI en 2026 : une communauté européenne en action pour l’immobilier durable",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -2521,30 +2725,6 @@
     },
     {
       "id": "batiweb-rss-0-1791554400000",
-      "title": "PRB, Cantillana France et Algimouss dévoilent leurs nouveautés",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/nouveaux-produits-du-btp/prb-cantillana-algimouss-nouveautes-batimat-49391",
-      "image": "https://img.batiweb.com/repo-images/article/49391/groupe_holcim.jpg",
-      "date": "2026-10-09",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Eau"
-      ],
-      "summary": "Sur le salon Batimat, les trois marques du groupe Holcim ont présenté leurs dernières innovations, entre nouvelles gammes de mastics, réduction des poussières, et traitement sans biocide. Sur le salon Batimat, les trois marques du groupe Holcim ont présenté leurs dernières innova…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-1-1791554400000",
       "title": "BDR Thermea France : « C'est une bonne année pour nous, pour la pompe à chaleur »",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2564,6 +2744,30 @@
         "Réglementation"
       ],
       "summary": "Électrification, climatisation... Voici des tendances qui guident la stratégie de BDR Thermea en France, concentrées sur la PAC. Entretien avec le président, le responsable des services marketing ainsi que le responsable prescription De Dietrich. Électrification, climatisation...…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-1-1791554400000",
+      "title": "PRB, Cantillana France et Algimouss dévoilent leurs nouveautés",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/nouveaux-produits-du-btp/prb-cantillana-algimouss-nouveautes-batimat-49391",
+      "image": "https://img.batiweb.com/repo-images/article/49391/groupe_holcim.jpg",
+      "date": "2026-10-09",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Eau"
+      ],
+      "summary": "Sur le salon Batimat, les trois marques du groupe Holcim ont présenté leurs dernières innovations, entre nouvelles gammes de mastics, réduction des poussières, et traitement sans biocide. Sur le salon Batimat, les trois marques du groupe Holcim ont présenté leurs dernières innova…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3270,7 +3474,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1791563884000",
+      "id": "reporterre-rss-3-1791563884000",
       "title": "« On ne veut pas devenir les pions de Total » : des étudiants bloquent leur campus pour dénoncer le partenariat avec la multinationale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3295,7 +3499,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1791558700000",
+      "id": "reporterre-rss-4-1791558700000",
       "title": "249 loups pourront être tués cette année : le gouvernement augmente, encore, le seuil",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3321,7 +3525,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1791554400000",
+      "id": "reporterre-rss-5-1791554400000",
       "title": "Nourrir les poissons d'élevage à base d'insectes ou de soja : l'idée miraculeuse qui s'est effondrée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3346,7 +3550,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1791553921000",
+      "id": "reporterre-rss-6-1791553921000",
       "title": "« On lance une guérilla » : opposés aux panneaux solaires en forêt, ils finissent virés du conseil municipal",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3372,7 +3576,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1791553269000",
+      "id": "reporterre-rss-7-1791553269000",
       "title": "PFAS : Tefal mis en demeure par trois associations",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3396,7 +3600,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1791549465000",
+      "id": "reporterre-rss-8-1791549465000",
       "title": "Petite, électrique et pas chère : salariés de l'automobile et écolos imaginent la voiture de demain",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3422,7 +3626,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1791541688000",
+      "id": "reporterre-rss-9-1791541688000",
       "title": "66 % des nappes phréatiques sont dans une situation « très préoccupante »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3447,7 +3651,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1791537090000",
+      "id": "reporterre-rss-10-1791537090000",
       "title": "Pour mesurer le stress des poissons près des villes, ces scientifiques utilisent de l'ARN messager",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3473,7 +3677,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1791522000000",
+      "id": "reporterre-rss-11-1791522000000",
       "title": "« Les lycéens ne veulent pas d'un monde sexiste, de guerres, de génocides, d'extrême droite, d'une éducation bradée »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3499,7 +3703,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1791522000000",
+      "id": "reporterre-rss-12-1791522000000",
       "title": "Ils vivent en dehors du capitalisme (et ça se passe très bien)",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3882,7 +4086,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1791583800000",
+      "id": "enerzine-rss-2-1791583800000",
       "title": "Le robot CP110L de Kawasaki peut traiter jusqu’à 2 200 caisses par heure",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3908,7 +4112,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1791567300000",
+      "id": "enerzine-rss-3-1791567300000",
       "title": "Sept alternatives open source à Adobe, développées avec l’IA, débarquent gratuitement",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3933,7 +4137,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1791558420000",
+      "id": "enerzine-rss-4-1791558420000",
       "title": "Certificats de biogaz. L’obligation de restitution court jusqu’en 2044, pas 2041",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3958,7 +4162,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1791556500000",
+      "id": "enerzine-rss-5-1791556500000",
       "title": "Superintelligence IA, quand la communication de Washington dépasse la science",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3983,7 +4187,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1791551220000",
+      "id": "enerzine-rss-6-1791551220000",
       "title": "Starlink mobile ex Direct-to-Cell. Votre téléphone va-t-il échapper aux opérateurs ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4008,7 +4212,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1791542100000",
+      "id": "enerzine-rss-7-1791542100000",
       "title": "La plus grande batterie de Bretagne est branchée, le réseau électrique change de braquet",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4034,7 +4238,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1791534000000",
+      "id": "enerzine-rss-8-1791534000000",
       "title": "AdBlue, le talon d’Achille des diesels récents qui peut immobiliser votre voiture",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4058,7 +4262,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1791523800000",
+      "id": "enerzine-rss-9-1791523800000",
       "title": "La première horloge nucléaire autonome tourne à Vienne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4079,58 +4283,6 @@
         "Confort d’été"
       ],
       "summary": "Depuis des décennies, des chercheurs du monde entier travaillaient à atteindre cet objectif – et désormais, des avancées majeures se succèdent à un rythme rapide. Vienne abrite aujourd’hui la première horloge nucléaire au monde capable de se stabiliser elle-même, comme il est éga…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1791522600000",
-      "title": "Première observation de spins quantiques déplaçant un objet à l’échelle du centimètre en laboratoire",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/premiere-observation-de-spins-quantiques-deplacant-un-objet-a-lechelle-du-centimetre-en-laboratoire/196661-2026-10",
-      "image": null,
-      "date": "2026-10-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "Des percées technologiques modernes telles que les lasers, les scanners IRM, les semi-conducteurs et les ordinateurs quantiques reposent sur l’étude de la mécanique quantique. Cependant, ce domaine s’est principalement concentré sur des phénomènes (sub)atomiques très éloignés de …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1791519000000",
-      "title": "Une batterie silicium-soufre durable conçue à terme pour des applications eVTOL et drones",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/une-batterie-silicium-soufre-durable-concue-a-terme-pour-des-applications-evtol-et-drones/196631-2026-10",
-      "image": null,
-      "date": "2026-10-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Une collaboration qui vise à développer une plateforme de batteries silicium-soufre à haute densité énergétique, associant une anode silicium-carbone et une cathode lithium-soufre a été annoncée à Los Angeles par XBM USA et SiCAM Technologies La chimie silicium-soufre figure parm…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4278,84 +4430,6 @@
       "summary": "Un bus de 34 tonnes, un avion sur le toit, 72 000 voitures bloquées à cause de lui... et pourtant disparu depuis 1958 sans laisser de trace. Voici l'histoire oubliée du Snow Cruiser. L’article En 1939, un ingénieur de Chicago a posé un avion sur un camion de 17 mètres et l’a envo…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1791590076000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1791590076000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1791590076000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1791528165000",
@@ -5776,7 +5850,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1791482400000",
+      "id": "reporterre-rss-13-1791482400000",
       "title": "Mercure : la pollution pourrait s'aggraver à cause du changement climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5801,7 +5875,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1791473671000",
+      "id": "reporterre-rss-14-1791473671000",
       "title": "Le Conseil d'État ordonne au gouvernement d'interdire la publicité pour les énergies fossiles",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5827,7 +5901,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1791469868000",
+      "id": "reporterre-rss-15-1791469868000",
       "title": "Sainte-Soline : le ministère de l'Écologie donne un accord crucial pour remplir la mégabassine",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5851,7 +5925,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1791466003000",
+      "id": "reporterre-rss-16-1791466003000",
       "title": "Pesticides : les demandes des lobbies reprises telles quelles dans le règlement Omnibus",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5876,7 +5950,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1791461828000",
+      "id": "reporterre-rss-17-1791461828000",
       "title": "Les lycéens violentés, un bras d'honneur à l'avenir et au vivant",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5902,7 +5976,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1791454537000",
+      "id": "reporterre-rss-18-1791454537000",
       "title": "La forêt française grandit mais va de plus en plus mal",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5928,7 +6002,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1791444643000",
+      "id": "reporterre-rss-19-1791444643000",
       "title": "« Cette génération est marquée au fer rouge par la violence d'État »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5954,7 +6028,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1791435600000",
+      "id": "reporterre-rss-20-1791435600000",
       "title": "Pourquoi n'arrive-t-on pas à réduire les emballages ? Réponse du côté des lobbies",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5979,7 +6053,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1791435600000",
+      "id": "reporterre-rss-21-1791435600000",
       "title": "Violences policières contre les journalistes : « J'ai gagné mon procès contre l'État »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7584,7 +7658,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1791396000000",
+      "id": "reporterre-rss-22-1791396000000",
       "title": "Comment le lobby du plastique fait sa loi au Parlement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7610,7 +7684,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1791387359000",
+      "id": "reporterre-rss-23-1791387359000",
       "title": "Ces artistes et scientifiques naviguent depuis un an au chevet des « fleuves en ruines »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7636,7 +7710,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1791380875000",
+      "id": "reporterre-rss-24-1791380875000",
       "title": "« Pesticides à vie » : la carte des mobilisations en France les 10 et 11 octobre",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7660,7 +7734,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1791379478000",
+      "id": "reporterre-rss-25-1791379478000",
       "title": "La Cour des comptes alerte sur le financement insuffisant de la transition écologique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7685,7 +7759,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1791378930000",
+      "id": "reporterre-rss-26-1791378930000",
       "title": "« En état de siège permanent » : les ravages du mur anti-migrants de Trump au Texas",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7711,7 +7785,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1791378140000",
+      "id": "reporterre-rss-27-1791378140000",
       "title": "Pour la première fois depuis 1945, l'extrême droite allemande obtient la présidence d'un parlement régional",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7736,7 +7810,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1791359113000",
+      "id": "reporterre-rss-28-1791359113000",
       "title": "« On a besoin de monde sur les barricades » : la zad de l'A412 a été partiellement expulsée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7762,7 +7836,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1791349200000",
+      "id": "reporterre-rss-29-1791349200000",
       "title": "Depuis le 7 octobre, « l'appétit expansionniste » d'Israël pour les terres de ses voisins ne cesse de grandir",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7788,7 +7862,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1791349200000",
+      "id": "reporterre-rss-30-1791349200000",
       "title": "« Un cadeau à plusieurs milliards » : le nucléaire grand gagnant du budget 2027",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8703,7 +8777,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1791303128000",
+      "id": "reporterre-rss-31-1791303128000",
       "title": "« L'avenir, c'est nous » : le déni climatique alimente la colère lycéenne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8729,7 +8803,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1791299700000",
+      "id": "reporterre-rss-32-1791299700000",
       "title": "Des millions de saumons agglutinés dans des cuves : le projet « démesuré » d'une entreprise française",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8755,7 +8829,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1791296765000",
+      "id": "reporterre-rss-33-1791296765000",
       "title": "Eau potable : le gouvernement veut limiter les mesures de protection à 2 000 captages",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8781,7 +8855,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1791296683000",
+      "id": "reporterre-rss-34-1791296683000",
       "title": "La présence de PFAS détectée dans 60 % des œufs testés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8807,7 +8881,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1791293023000",
+      "id": "reporterre-rss-35-1791293023000",
       "title": "Sur CNews, journalistes et chroniqueurs experts dans la mésinformation climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8832,7 +8906,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1791285906000",
+      "id": "reporterre-rss-36-1791285906000",
       "title": "« La convergence des luttes existe ! » : des paysans aux côtés des lycéens",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8858,7 +8932,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1791285320000",
+      "id": "reporterre-rss-37-1791285320000",
       "title": "Les Hauts-de-France soutiennent l'interdiction des navires-usines près des côtes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8882,7 +8956,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1791271035000",
+      "id": "reporterre-rss-38-1791271035000",
       "title": "Au bord du gouffre, les agences de la transition écologique entrent en lutte",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8908,7 +8982,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1791264600000",
+      "id": "reporterre-rss-39-1791264600000",
       "title": "Budget 2027 : la facture exorbitante des niches fiscales contre l'environnement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8934,7 +9008,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1791244860000",
+      "id": "reporterre-rss-40-1791244860000",
       "title": "Les géants du pétrole sont massivement responsables des canicules, selon les scientifiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9703,7 +9777,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1791215355000",
+      "id": "reporterre-rss-41-1791215355000",
       "title": "Canicules, incendies... Le coût de l'été 2026 évalué à 16 milliards d'euros",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9729,7 +9803,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1791209396000",
+      "id": "reporterre-rss-42-1791209396000",
       "title": "La droite tente de parler d'écologie (et c'est un fiasco)",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9755,7 +9829,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1791209149000",
+      "id": "reporterre-rss-43-1791209149000",
       "title": "Enfants mariés, grossesses non désirées... Les catastrophes climatiques ont des conséquences « dramatiques » pour les filles",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9779,7 +9853,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1791205742000",
+      "id": "reporterre-rss-44-1791205742000",
       "title": "Pour freiner l'avancée des abatteuses, ils occupent des chênes centenaires sur le tracé de l'A412",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9805,7 +9879,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1791205609000",
+      "id": "reporterre-rss-45-1791205609000",
       "title": "Au Brésil, le candidat d'extrême droite Flávio Bolsonaro devance Lula au premier tour de la présidentielle",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9831,7 +9905,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1791201082000",
+      "id": "reporterre-rss-46-1791201082000",
       "title": "Touristes, hôtels... « Yosemite pourrait disparaître si nous continuons comme ça »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9856,7 +9930,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1791191531000",
+      "id": "reporterre-rss-47-1791191531000",
       "title": "« Ni ici, ni ailleurs » : partout dans le monde, paysans et écologistes se mobilisent contre les pesticides",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9881,7 +9955,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1791176400000",
+      "id": "reporterre-rss-48-1791176400000",
       "title": "« C'est une zone de non-droit » : des quads sillonnent illégalement la garrigue",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9907,7 +9981,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1791176400000",
+      "id": "reporterre-rss-49-1791176400000",
       "title": "Étourdissement, démangeaisons… des algues rouges prolifèrent en Guadeloupe et affectent les pêcheurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10061,7 +10135,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1791093600000",
+      "id": "reporterre-rss-50-1791093600000",
       "title": "« Le respect des lois n'est pas facultatif » : 50 juristes appellent à la fin de l'élevage intensif",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10137,7 +10211,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1791048993000",
+      "id": "reporterre-rss-51-1791048993000",
       "title": "« Nous sommes là par nécessité » : des milliers de personnes bloquent une usine de pesticides",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10162,7 +10236,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1791015234000",
+      "id": "reporterre-rss-52-1791015234000",
       "title": "Près de la grotte de Lascaux, un projet de data center à 400 millions d'euros",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10187,7 +10261,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1791007200000",
+      "id": "reporterre-rss-53-1791007200000",
       "title": "D'Act Up à Cancer Colère, les malades passent à l'action",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10211,7 +10285,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1791007200000",
+      "id": "reporterre-rss-54-1791007200000",
       "title": "Construire sa maison soi-même ou à plusieurs : trois livres inspirants pour créer son cocon",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10510,7 +10584,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1790954539000",
+      "id": "reporterre-rss-55-1790954539000",
       "title": "L'Algérie veut élargir la peine de mort aux auteurs d'incendies",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10535,7 +10609,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1790954175000",
+      "id": "reporterre-rss-56-1790954175000",
       "title": "Les taux de cadmium dans les engrais devront être divisés par plus de 3 en 2030",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10560,7 +10634,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1790952922000",
+      "id": "reporterre-rss-57-1790952922000",
       "title": "Ils analysent des excréments de chauve-souris pour limiter l'usage de pesticides",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10586,7 +10660,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1790951654000",
+      "id": "reporterre-rss-58-1790951654000",
       "title": "« Je risque la mort » : au Brésil, l'inquiétude des militants écologistes à l'approche des élections",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10612,7 +10686,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1790936100000",
+      "id": "reporterre-rss-59-1790936100000",
       "title": "Des protections menstruelles réutilisables désormais remboursées par la Sécurité sociale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10634,82 +10708,6 @@
         "Confort d’été"
       ],
       "summary": "Les protections hygiéniques réutilisables sont remboursées depuis le 1ᵉʳ octobre par la Sécurité sociale pour les moins de 26 ans sans condition de ressources, et les bénéficiaires de la Complémentaire santé solidaire, sans condition d'âge. % de la population française. (…) Lire …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-57-1790930431000",
-      "title": "Usines, stations d'épuration, décharges : le toxique voisinage des aires d'accueil",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Vivre-a-cote-d-usines-de-stations-d-epuration-de-decharges-comment-les-gens-du-voyage",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20201204__8wf4db__v1__highres__franceminoritieshealthpollutionindustrywaste-116cb.jpg?1790930462",
-      "date": "2026-10-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat"
-      ],
-      "summary": "Aires d'accueil polluées, espérance de vie réduite et arguments écolos détournés : l'auteur et juriste William Acker pointe le racisme environnemental que subissent les « gens du voyage ». Juriste et auteur, William Acker est issu des communautés dites des « gens du voyage ». Apr…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-58-1790926966000",
-      "title": "Herbicides dans l'eau potable : l'agglomération de La Rochelle porte plainte",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Herbicides-trouves-dans-l-eau-potable-l-agglomeration-de-La-Rochelle-porte-plainte",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pollution_eau_lr_chateau_deau_bourgneueddddf-25b86.jpg?1790926981",
-      "date": "2026-10-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "L'agglomération de La Rochelle a détecté deux sous-produits d'herbicides dans son eau potable, dont un est interdit d'usage, et l'autre le sera bientôt. La collectivité a déposé plainte. Lire la suite - Reportage / Pesticides , Pollutions L'agglomération de La Rochelle a détecté …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1790920800000",
-      "title": "« Nous n'acceptons plus de réparer les dégâts causés par les politiques » : des soignants rejoignent la lutte contre les pesticides",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Soignant-es-scientifiques-denoncons-ceux-qui-detruisent-la-sante",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/pestipartoutmanifsaussi-85daf.jpg?1790920800",
-      "date": "2026-10-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "Scientifiques et soignantes opposées aux pesticides appellent, dans cette tribune, à se mobiliser contre Syngenta le 3 octobre et au-delà, pour « agir, de façon radicale et directe, sur les causes des maladies ». Nous, soignant⋅es, scientifiques, sommes témoins d'un paradoxe : ma…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11156,30 +11154,6 @@
       "summary": "Visite de chantier, webinaires, rencontres avec d'autres professionnels, échange sur les innovations ...Découvrez les temps forts qui ont eu lieu dans votre région ! L’article Actualités régionales : les temps forts du mois de septembre est apparu en premier sur Fibois France. Vi…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-40-1790770265000",
-      "title": "artificialisation des sols decouvrez les premieres donnees du 3 millesime jeudi 5",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/artificialisation-des-sols-decouvrez-les-premieres-donnees-du-3-millesime-jeudi-5",
-      "image": null,
-      "date": "2026-09-30",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "capeb-rss-3-1790726400000",
@@ -12453,30 +12427,6 @@
       "summary": "Silencieuses, moins polluantes, et toutes aussi puissantes. Sur le papier, les batteries ont tout pour pousser les groupes électrogènes vers la sortie. Pourtant, le moteur […] L’article Les groupes électrogènes vont-ils bientôt disparaître grâce aux batteries mobiles ? est apparu…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-39-1790338875000",
-      "title": "webinaire 9 novembre 2026 10h 11h30 demarrer et structurer observatoire friches en 6",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/webinaire-9-novembre-2026-10h-11h30-demarrer-et-structurer-observatoire-friches-en-6",
-      "image": null,
-      "date": "2026-09-25",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "capeb-rss-6-1790352105000",
@@ -20215,30 +20165,6 @@
       "collectMethod": "wordpress_api"
     },
     {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-38-1785237848000",
-      "title": "webinaire 15 octobre 2026 vers suivi plus fin la consommation des espaces naturels",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/webinaire-15-octobre-2026-vers-suivi-plus-fin-la-consommation-des-espaces-naturels",
-      "image": null,
-      "date": "2026-07-28",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "capeb-rss-12-1785222916000",
       "title": "Incendies : les dispositifs de soutien mobilisés pour les entreprises du bâtiment",
       "source": "CAPEB",
@@ -22646,30 +22572,6 @@
         "Habitat privé"
       ],
       "summary": "Publication détectée dans le sitemap de ANAH. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-37-1782884876000",
-      "title": "parution des donnees consommation despaces naturels agricoles et forestiers 2011 2025",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/parution-des-donnees-consommation-despaces-naturels-agricoles-et-forestiers-2011-2025",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
