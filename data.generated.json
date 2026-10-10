@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T15:48:48.487Z",
+  "generatedAt": "2026-10-10T23:22:38.002Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2336,7 +2336,56 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1791641220000",
+      "id": "enerzine-rss-0-1791670200000",
+      "title": "De nouveaux détails saisissants dans un rémanent de supernova unique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/de-nouveaux-details-saisissants-dans-un-remanent-de-supernova-unique/196675-2026-10",
+      "image": null,
+      "date": "2026-10-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Le seul rémanent de supernova connu de ce type dans la Voie lactée présente une structure d’une complexité inattendue : des chaînes de nœuds de gaz évoquant des perles sur un fil, chacun suffisamment large pour contenir plusieurs fois le système solaire. À l’aide du télescope Gem…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1791665820000",
+      "title": "Nouvelle flambée du gaz attendue en novembre, le chauffage des ménages en première ligne",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/prix-gaz-novembre-2026-hausse-chauffage/196844-2026-10",
+      "image": null,
+      "date": "2026-10-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "La hausse du prix repère du gaz devrait atteindre 6,6% en moyenne au 1er novembre 2026, selon de nouvelles estimations. Les ménages qui utilisent le gaz pour se chauffer seraient les plus touchés. 📌 L’essentiel en 3 points Après deux coups de semonce en septembre (+5,6%) et en o…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1791641220000",
       "title": "Ecosia abandonne Mistral et mise sur des modèles chinois, un retard d’un an selon son fondateur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2361,7 +2410,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1791638700000",
+      "id": "enerzine-rss-3-1791638700000",
       "title": "La lumière artificielle la nuit perturbe les arbres, et la France trace une autre voie",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2385,7 +2434,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1791629400000",
+      "id": "enerzine-rss-4-1791629400000",
       "title": "BYD Dolphin Surf gagne une 5e place, mais la transformation majeure reste en Chine",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2410,7 +2459,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1791626820000",
+      "id": "enerzine-rss-5-1791626820000",
       "title": "La protéine de tardigrade qui blinderait l’ADN humain, un espoir sous conditions",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2435,7 +2484,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1791623700000",
+      "id": "enerzine-rss-6-1791623700000",
       "title": "Avolon commande 110 Airbus, mais Boeing rafle la majorité des monocouloirs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2460,7 +2509,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1791620100000",
+      "id": "enerzine-rss-7-1791620100000",
       "title": "Changement d’heure hiver : huit ans de débat, et l’Europe recule encore ses montres",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2484,7 +2533,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1791605400000",
+      "id": "enerzine-rss-8-1791605400000",
       "title": "Comment entrer dans la réalité virtuelle sans porter de casque",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2509,7 +2558,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1791601800000",
+      "id": "enerzine-rss-9-1791601800000",
       "title": "Le réacteur MARVEL obtient l’approbation fédérale de sûreté alors que sa cuve primaire arrive dans l’Idaho",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2633,6 +2682,84 @@
       "summary": "Diesel russe, sanctions levées, prix en chute libre promise par Trump : pendant que Washington négocie avec Moscou, Zelensky parle de cadeau d'anniversaire empoisonné pour Poutine. Un accord qui divise autant qu'il interroge. L’article « Je fais baisser le prix à la pompe » : Tru…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1791674534000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1791674534000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1791674534000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "acteurs-publics-sitemap-2-1791632400000",
@@ -3019,30 +3146,6 @@
     },
     {
       "id": "batiweb-rss-0-1791554400000",
-      "title": "PRB, Cantillana France et Algimouss dévoilent leurs nouveautés",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/nouveaux-produits-du-btp/prb-cantillana-algimouss-nouveautes-batimat-49391",
-      "image": "https://img.batiweb.com/repo-images/article/49391/groupe_holcim.jpg",
-      "date": "2026-10-09",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Eau"
-      ],
-      "summary": "Sur le salon Batimat, les trois marques du groupe Holcim ont présenté leurs dernières innovations, entre nouvelles gammes de mastics, réduction des poussières, et traitement sans biocide. Sur le salon Batimat, les trois marques du groupe Holcim ont présenté leurs dernières innova…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-1-1791554400000",
       "title": "BDR Thermea France : « C'est une bonne année pour nous, pour la pompe à chaleur »",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -3062,6 +3165,30 @@
         "Réglementation"
       ],
       "summary": "Électrification, climatisation... Voici des tendances qui guident la stratégie de BDR Thermea en France, concentrées sur la PAC. Entretien avec le président, le responsable des services marketing ainsi que le responsable prescription De Dietrich. Électrification, climatisation...…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-1-1791554400000",
+      "title": "PRB, Cantillana France et Algimouss dévoilent leurs nouveautés",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/nouveaux-produits-du-btp/prb-cantillana-algimouss-nouveautes-batimat-49391",
+      "image": "https://img.batiweb.com/repo-images/article/49391/groupe_holcim.jpg",
+      "date": "2026-10-09",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Eau"
+      ],
+      "summary": "Sur le salon Batimat, les trois marques du groupe Holcim ont présenté leurs dernières innovations, entre nouvelles gammes de mastics, réduction des poussières, et traitement sans biocide. Sur le salon Batimat, les trois marques du groupe Holcim ont présenté leurs dernières innova…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4380,57 +4507,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1791583800000",
-      "title": "Le robot CP110L de Kawasaki peut traiter jusqu’à 2 200 caisses par heure",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/le-robot-cp110l-de-kawasaki-peut-traiter-jusqua-2-200-caisses-par-heure/196636-2026-10",
-      "image": null,
-      "date": "2026-10-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Kawasaki Robotics (USA) présentera au PACK EXPO International 2026, à Chicago, le CP110L, un robot de palettisation haute vitesse conçu pour les environnements d’emballage à l’espace restreint. Le lancement a été annoncé le 8 octobre 2026. Le CP110L sera présenté sur le stand N-5…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1791567300000",
-      "title": "Sept alternatives open source à Adobe, développées avec l’IA, débarquent gratuitement",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/artcraft-alternatives-adobe-gratuites-open-source-ia/196786-2026-10",
-      "image": null,
-      "date": "2026-10-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Début octobre 2026, le développeur Brandon Thomas a mis en ligne sept applications gratuites qui visent les logiciels phares d’Adobe. Les créatifs peuvent déjà tester la retouche photo, le montage vidéo ou la mise en page sans abonnement aux outils de création, en exécution local…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "lenergeek-rss-4-1791553006000",
       "title": "Automobile : 78 % des Français sacrifient d’autres dépenses pour continuer à rouler",
       "source": "L’ÉnerGeek",
@@ -5060,336 +5136,6 @@
         "Bâtiment"
       ],
       "summary": "Réaménager son intérieur ne passe pas forcément par de grands travaux. Quelques changements bien choisis suffisent parfois à donner un nouveau souffle à son logement, à condition de trouver des meubles qui correspondent vraiment à son quotidien. C’est dans cette approche que Vent…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-11-1791475605000",
-      "title": "Emballages : Zero Waste passe au crible le lobbying des industriels",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/etude-zero-waste-lobbbying-emballages-plastique-usage-unique-48635.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48635_large.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "L'association a cartographié les lobbyistes du secteur de l'emballage. Elle dénonce une asymétrie de moyens et passe en revue les principaux modes d'intervention des spécialistes des affaires publiques des industriels. L'association a cartographié les lobbyistes du secteur de l'e…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-12-1791472519000",
-      "title": "Véhicule électrique : la batterie, clé de voûte de l'empreinte carbone selon l'Ademe",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/batterie-vehicule-electrique-empreinte-carbone-ademe-48629.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48629_large.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Carbone"
-      ],
-      "summary": "Dans un nouvel avis, l'Ademe confirme l'intérêt environnemental du véhicule électrique pour les automobilistes. Elle appuie surtout sur les leviers d'optimisation de l'empreinte carbone des batteries, point noir de la chaîne. Dans un nouvel avis, l'Ademe confirme l'intérêt enviro…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-13-1791472440000",
-      "title": "Les forêts aux essences inadaptées résistent mal à la sécheresse, malgré des sols retenant l'eau",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/inventaire-forestier-mortalite-arbres-secheresse-48625.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48625_large.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Dans un focus spécifique sur l'eau, l'édition 2026 de l'Inventaire forestier national révèle que la mortalité des arbres a paradoxalement été plus importante dans les forêts ayant un réservoir utile important. Les espèces y seraient moins adaptées. Dans un focus spécifique sur l'…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-14-1791472417000",
-      "title": "CEE : le programme Actee+ prolongé d'un an jusqu'à fin 2027",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/cee-programme-actee-prolongation-collectivites-diagnostic-ecoles-canicule-48634.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48634_large.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Économie du bâtiment"
-      ],
-      "summary": "Dans le cadre des certificats d'économies d'énergie (CEE), un arrêté, paru ce 8 octobre 2026 au Journal officiel, prolonge d'un an le programme Actee+. Porté par la Fédération nationale des collectivités concédantes et régies (FNCCR) et l'Agence d... Dans le cadre des certificats…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-15-1791471786000",
-      "title": "Éolien en mer : quatre projets de recherche pour améliorer le suivi et les études",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/eolien-mer-projets-recherche-fem-48633.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48633_large.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "Quatre nouveaux projets de recherche et d'innovation sur l'éolien en mer sont lancés par France Énergies Marines afin d'améliorer notamment le suivi environnemental des parcs éoliens offshore. « Définis en concertation avec les industriels membres... Quatre nouveaux projets de re…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-16-1791469476000",
-      "title": "Dans la Vienne, une gare de (sur)triage pour embarquer la filière textile dans le train du recyclage",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/essaimons-ameliore-le-tri-des-dechets-textiles-post-consommation-avec-ligne-de-surtri-optique-48630.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48630_large.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "En Nouvelle-Aquitaine, l'entreprise Essaimons exploite depuis juin une ligne automatisée de surtri optique pour affiner la qualité des gisements textiles post-collecte. Une préparation essentielle avant leur prise en charge par les filières de rec... En Nouvelle-Aquitaine, l'entr…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-17-1791468211000",
-      "title": "Dérogation espèces protégées : son obtention peut faire l'objet d'une régularisation",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/derogation-especes-protegees-regularisation-conseil-etat-48632.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48632_large.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Par un arrêt du 2 octobre&#8239;2026, le Conseil d'État a jugé que l'obtention d'une dérogation «&#8239;espèces protégées&#8239;» pouvait faire l'objet d'une régularisation en vertu de l'article L. 181-18 du code de l'environnement. ... Par un arrêt du 2 octobre&#8239;2026, le Co…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-18-1791465801000",
-      "title": "Chaleur renouvelable : quatre projets de réseaux soutenus par l'Ademe",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/ademe-projets-chaleur-renouvelable-reseaux-48628.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48628_large.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "Le conseil d'administration de l'Ademe a validé, le 6 octobre, le financement de quatre nouveaux projets de chaleur renouvelable. Ils devraient permettre de produire 625 gigawattheures (GWh) de chaleur par an. Le premier porte sur l'extension du ... Le conseil d'administration de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-19-1791463985000",
-      "title": "Hydroélectricité : un nouvelle centrale inaugurée le long du Rhône",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/centrale-hydroelectrique-cnr-vallabregues-rhone-48627.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48627_large.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "La Compagnie nationale du Rhône (CNR) a inauguré une nouvelle centrale hydroélectrique à Vallabrègues, dans le Gard. Le dernier grand aménagement hydraulique sur le Rhône date de près de quarante ans. Débuté en 2021 dans le cadre des plans 5Rhône,... La Compagnie nationale du Rhô…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-20-1791461936000",
-      "title": "Le manque d'optimisation d'un site hydroélectrique peut entraîner le refus de son autorisation",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/autorisation-hydroelectrique-efficacite-energetique-conseil-etat-48626.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48626_large.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Par un arrêt du 2 octobre 2026, le Conseil d'État a estimé que l'autorité administrative peut refuser une installation qui n'exploite pas de manière optimale le potentiel hydroélectrique du site d'implantation. Par un arrêté du 26 décembre 2019, ... Par un arrêt du 2 octobre 2026…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-21-1791454870000",
-      "title": "La phrase du jour : \"Tant que l'Europe dépendra du pétrole et du gaz, notre prospérité restera exposée à des événements qui échappent à notre contrôle\"",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/dit-aujourdhui/1841.html#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/interface/common/logo_standard_carre.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Devant les parlementaires européens, Ursula von der Leyen est revenue, le 6 octobre, sur la nouvelle crise énergétique que traverse l'Europe. « Depuis la fin du mois de février, les prix de l'essence ont augmenté de 140 %. Ceux du diesel ont doubl... Devant les parlementaires eur…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-22-1791452505000",
-      "title": "Le caractère non-nécessaire du solaire flottant au service public de l'électricité peut justifier un refus",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/solaire-flottant-ppri-zone-rouge-refus-48624.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48624_large.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Confort d’été"
-      ],
-      "summary": "Par un arrêt du 2 octobre 2026, le Conseil d'État a validé la décision du préfet de la Gironde refusant l'implantation d'une centrale solaire flottante en zone rouge d'un plan de prévention des risques d'inondation (PPRi). La société Cent... Par un arrêt du 2 octobre 2026, le Con…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-23-1791449388000",
-      "title": "ENR : la compétitivité au rendez-vous des appels d'offres, de nouvelles sessions annoncées",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/enr-appels-offres-competitivite-sessions-48623.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48623_large.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Lors du colloque de France Renouvelables, le 7 octobre à Paris, la ministre en charge de l'Énergie, Maud Bregeon, a tenu à réaffirmer le maintien du cap de la troisième programmation pluriannuelle de l'énergie (PPE3) et de l'électrification, qui s... Lors du colloque de France Re…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-24-1791448200000",
-      "title": "Dérogations en période de sécheresse : pouvoirs et obligations de l'autorité administrative",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/derogations-secheresse-etiage-tribunal-montpellier-48593.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/commentaire/48593_large.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "RE2020"
-      ],
-      "summary": "Par deux décisions inédites, le tribunal administratif de Montpellier a précisé la notion d'étiage exceptionnel pouvant justifier une réduction des débits minimaux biologiques et jugé que les dérogations aux « arrêtés sécheresse » devaient être mo... Par deux décisions inédites, …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7280,29 +7026,6 @@
         "Marché"
       ],
       "summary": "FILTERSTOP® associe filtration 160 µm et vanne d’arrêt dans un format compact, pensé pour protéger les circuits et faciliter les opérations d’entretien. FILTERSTOP® associe filtration 160 µm et vanne d’arrêt dans un format compact, pensé pour protéger les circuits et faciliter le…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-25-1791410520000",
-      "title": "Un changement transformateur sera nécessaire pour inverser le déclin de la biodiversité, selon le WWF",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/wwf-planete-vivante-2026-biodiversite-declin-48606.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48606_large.jpg",
-      "date": "2026-10-07",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Comme tous les deux ans depuis 1998, le rapport « Planète Vivante » du WWF dresse un état des lieux de la biodiversité mondiale. Avec « un changement transformateur », le déclin de la biodiversité peut encore être inversé, déclare le WWF. Comme tous les deux ans depuis 1998, le r…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
