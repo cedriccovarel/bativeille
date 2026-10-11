@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T23:22:38.002Z",
+  "generatedAt": "2026-10-11T04:54:06.201Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,134 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1791691800000",
+      "title": "Une méthode de microscopie de précision améliorée développée par une professeure de Rice",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/une-methode-de-microscopie-de-precision-amelioree-developpee-par-une-professeure-de-rice/196698-2026-10",
+      "image": null,
+      "date": "2026-10-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "La microscopie à feuille de lumière permet aux biologistes d’éclairer sélectivement une fine tranche d’un échantillon. Cette méthode peut améliorer considérablement le contraste des images en réduisant la quantité de lumière de fond, tout en restant douce, en réduisant les photod…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1791688200000",
+      "title": "Utiliser l’apprentissage automatique et le calcul pour élucider les mécanismes de conversion du CO₂ en carburants",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/utiliser-lapprentissage-automatique-et-le-calcul-pour-elucider-les-mecanismes-de-conversion-du-co%e2%82%82-en-carburants/196695-2026-10",
+      "image": null,
+      "date": "2026-10-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Les scientifiques explorent de plus en plus l’hydrogénation du dioxyde de carbone (CO₂) – au cours de laquelle le CO₂ réagit avec l’hydrogène sur un catalyseur pour donner des produits tels que le méthanol – afin de convertir le CO₂ en produits chimiques et en carburants utiles. …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1791694433000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1791694433000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1791694433000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "oreo-bretagne-sitemap-49-1791590626000",
       "title": "bretagne marees records europe",
       "source": "OREO Bretagne",
@@ -2336,7 +2464,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1791670200000",
+      "id": "enerzine-rss-2-1791670200000",
       "title": "De nouveaux détails saisissants dans un rémanent de supernova unique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2361,7 +2489,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1791665820000",
+      "id": "enerzine-rss-3-1791665820000",
       "title": "Nouvelle flambée du gaz attendue en novembre, le chauffage des ménages en première ligne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2385,7 +2513,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1791641220000",
+      "id": "enerzine-rss-4-1791641220000",
       "title": "Ecosia abandonne Mistral et mise sur des modèles chinois, un retard d’un an selon son fondateur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2410,7 +2538,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1791638700000",
+      "id": "enerzine-rss-5-1791638700000",
       "title": "La lumière artificielle la nuit perturbe les arbres, et la France trace une autre voie",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2434,7 +2562,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1791629400000",
+      "id": "enerzine-rss-6-1791629400000",
       "title": "BYD Dolphin Surf gagne une 5e place, mais la transformation majeure reste en Chine",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2459,7 +2587,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1791626820000",
+      "id": "enerzine-rss-7-1791626820000",
       "title": "La protéine de tardigrade qui blinderait l’ADN humain, un espoir sous conditions",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2484,7 +2612,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1791623700000",
+      "id": "enerzine-rss-8-1791623700000",
       "title": "Avolon commande 110 Airbus, mais Boeing rafle la majorité des monocouloirs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2509,7 +2637,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1791620100000",
+      "id": "enerzine-rss-9-1791620100000",
       "title": "Changement d’heure hiver : huit ans de débat, et l’Europe recule encore ses montres",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2529,56 +2657,6 @@
         "ENR"
       ],
       "summary": "Dans la nuit du 24 au 25 octobre 2026, les horloges reculeront d’une heure dans l’Union européenne. En France, à 3 h 00, il sera 2 h 00. Ce basculement, le plus précoce que la règle du « dernier dimanche d’octobre » autorise, intervient un peu plus de huit ans après la propositio…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1791605400000",
-      "title": "Comment entrer dans la réalité virtuelle sans porter de casque",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/comment-entrer-dans-la-realite-virtuelle-sans-porter-de-casque/196670-2026-10",
-      "image": null,
-      "date": "2026-10-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Une personne portant des lunettes encombrantes, se retournant maladroitement sur elle-même et tendant les mains pour attraper quelque chose qui n’est pas là. Voilà l’image que beaucoup d’entre nous se font de la réalité virtuelle, et celle que des chercheurs de l’université de Ky…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1791601800000",
-      "title": "Le réacteur MARVEL obtient l’approbation fédérale de sûreté alors que sa cuve primaire arrive dans l’Idaho",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/le-reacteur-marvel-obtient-lapprobation-federale-de-surete-alors-que-sa-cuve-primaire-arrive-dans-lidaho/196667-2026-10",
-      "image": null,
-      "date": "2026-10-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Le projet de microréacteur MARVEL du Département de l’Énergie a récemment franchi de nouvelles étapes tandis que les chercheurs de l’Idaho préparent le réacteur en vue de ses premiers essais de démarrage cet hiver. Le circuit de refroidissement primaire du microréacteur, ou PCS, …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -2682,84 +2760,6 @@
       "summary": "Diesel russe, sanctions levées, prix en chute libre promise par Trump : pendant que Washington négocie avec Moscou, Zelensky parle de cadeau d'anniversaire empoisonné pour Poutine. Un accord qui divise autant qu'il interroge. L’article « Je fais baisser le prix à la pompe » : Tru…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1791674534000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1791674534000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1791674534000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "acteurs-publics-sitemap-2-1791632400000",
@@ -4973,6 +4973,29 @@
     },
     {
       "id": "batiweb-rss-7-1791500700000",
+      "title": "EDILIANS : un accompagnement au top pour des couvertures de haut vol !",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/edilians-accompagnement-couverture-toiture-49389",
+      "image": "https://img.batiweb.com/repo-images/publi/49389/edilians-10-12-une.jpg",
+      "date": "2026-10-08",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Partenaire historique des professionnels de la toiture, EDILIANS propose une belle gamme de services pour accompagner la réussite de vos projets. Partenaire historique des professionnels de la toiture, EDILIANS propose une belle gamme de services pour accompagner la réussite de v…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-8-1791500700000",
       "title": "Knauf Ceiling Solutions lance ELEGANZA, un plafond minéral à finition monolithique",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4992,29 +5015,6 @@
         "Énergie"
       ],
       "summary": "Knauf Ceiling Solutions enrichit sa gamme de plafonds minéraux avec ELEGANZA, un système associant finition sans joints apparents et absorption acoustique de classe A. Destinée aux espaces tertiaires, commerciaux et résidentiels, cette solution intègre également des matières recy…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-8-1791500700000",
-      "title": "EDILIANS : un accompagnement au top pour des couvertures de haut vol !",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/edilians-accompagnement-couverture-toiture-49389",
-      "image": "https://img.batiweb.com/repo-images/publi/49389/edilians-10-12-une.jpg",
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Partenaire historique des professionnels de la toiture, EDILIANS propose une belle gamme de services pour accompagner la réussite de vos projets. Partenaire historique des professionnels de la toiture, EDILIANS propose une belle gamme de services pour accompagner la réussite de v…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
