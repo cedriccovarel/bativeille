@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T23:32:26.064Z",
+  "generatedAt": "2026-10-12T05:09:04.427Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,185 @@
   ],
   "articles": [
     {
+      "id": "novethic-rss-0-1791780359000",
+      "title": "Bulle de l’IA : la dette cachée qui menace de contaminer la finance",
+      "source": "Novethic",
+      "sourceId": "novethic",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/dette-privee-titrisation-shadow-banking-quand-risque-bulle-ia-diffuse-systeme-financier",
+      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/fileadmin/data-centers-pixabay-150x150.png",
+      "date": "2026-10-12",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "ESG",
+        "Finance durable",
+        "Climat",
+        "Économie du bâtiment"
+      ],
+      "summary": "Selon Bain & Company, il faudra générer 6000 milliards de dollars de revenus par an pour rentabiliser les investissements réalisés dans l'intelligence artificielle. @Pixabay Les fonds propres ne suffisent plus. Les Big Tech américaines continuent d’investir à coups de milliards d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1791778200000",
+      "title": "La première détection de nuages d’eau variables en dehors de notre système solaire",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/la-premiere-detection-de-nuages-deau-variables-en-dehors-de-notre-systeme-solaire/196883-2026-10",
+      "image": null,
+      "date": "2026-10-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Un monde de la taille de Jupiter, distant de seulement 7,5 années-lumière, est nuageux, chimiquement complexe et, il s’avère, plus proche de chez nous que quiconque ne l’avait imaginé. À l’aide du télescope spatial James Webb, Brittany Miles, astronome adjointe à l’Observatoire S…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1791774600000",
+      "title": "Des équipes de robots pour les chantiers de construction",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-equipes-de-robots-pour-les-chantiers-de-construction/196711-2026-10",
+      "image": null,
+      "date": "2026-10-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "À travers le « Pathfinder Challenge », le Conseil européen de l’innovation soutient des technologies révolutionnaires à fort potentiel de transformation. La concurrence pour l’obtention des financements est toutefois extrêmement rude. Dans le cadre de l’EIC Pathfinder Challenge «…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-0-1791777009000",
+      "title": "Gaz : hausse de 6,6% en novembre 2026",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/12/prvg-novembre-2026-6-6-pourcent-mecanismes/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/09/shutterstock_2701801041.jpg",
+      "date": "2026-10-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Le Prix Repère de Vente du Gaz (PRVG) augmentera de 6,6% au 1er novembre 2026, troisième hausse consécutive après septembre et octobre. L’article Gaz : hausse de 6,6% en novembre 2026 est apparu en premier sur L'EnerGeek. Le Prix Repère de Vente du Gaz (PRVG) augmentera de 6,6% a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1791781730000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1791781730000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1791781730000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "reporterre-rss-0-1791700200000",
       "title": "Lycéens : « Les lance-grenades ne feront pas taire les lanceurs d'alerte »",
       "source": "Reporterre",
@@ -2263,7 +2442,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1791756600000",
+      "id": "enerzine-rss-2-1791756600000",
       "title": "L’étirement d’un matériau quantique révèle des états supraconducteurs concurrents",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2287,7 +2466,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1791749220000",
+      "id": "enerzine-rss-3-1791749220000",
       "title": "IA générative, le gel des embauches juniors et les compétences à repenser",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2313,7 +2492,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1791746512000",
+      "id": "enerzine-rss-4-1791746512000",
       "title": "Satellites météo japonais : 10 ans de nuages vénusiens saisis par hasard",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2339,7 +2518,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1791740100000",
+      "id": "enerzine-rss-5-1791740100000",
       "title": "OpenAI lâche 722 manuscrits d’IA en mathématiques et la rigueur est mise à l’épreuve",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2364,7 +2543,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1791738600000",
+      "id": "enerzine-rss-6-1791738600000",
       "title": "Dengue, quatre foyers et six cas autochtones recensés sous surveillance renforcée",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2390,7 +2569,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1791728169000",
+      "id": "enerzine-rss-7-1791728169000",
       "title": "Pesticides autorisés à vie en Europe ? La nouvelle menace qui dépasse la loi Duplomb",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2415,7 +2594,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1791710731000",
+      "id": "enerzine-rss-8-1791710731000",
       "title": "Renault 4 électrique : ce qui change vraiment avant l’arrivée de la Jogging",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2439,7 +2618,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1791708758000",
+      "id": "enerzine-rss-9-1791708758000",
       "title": "Petites batteries, recharge éclair, le vrai prix de la promesse électrique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2464,57 +2643,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1791691800000",
-      "title": "Une méthode de microscopie de précision améliorée développée par une professeure de Rice",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/une-methode-de-microscopie-de-precision-amelioree-developpee-par-une-professeure-de-rice/196698-2026-10",
-      "image": null,
-      "date": "2026-10-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "La microscopie à feuille de lumière permet aux biologistes d’éclairer sélectivement une fine tranche d’un échantillon. Cette méthode peut améliorer considérablement le contraste des images en réduisant la quantité de lumière de fond, tout en restant douce, en réduisant les photod…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1791688200000",
-      "title": "Utiliser l’apprentissage automatique et le calcul pour élucider les mécanismes de conversion du CO₂ en carburants",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/utiliser-lapprentissage-automatique-et-le-calcul-pour-elucider-les-mecanismes-de-conversion-du-co%e2%82%82-en-carburants/196695-2026-10",
-      "image": null,
-      "date": "2026-10-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Carbone"
-      ],
-      "summary": "Les scientifiques explorent de plus en plus l’hydrogénation du dioxyde de carbone (CO₂) – au cours de laquelle le CO₂ réagit avec l’hydrogène sur un catalyseur pour donner des produits tels que le méthanol – afin de convertir le CO₂ en produits chimiques et en carburants utiles. …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-0-1791696000000",
+      "id": "lenergeek-rss-1-1791696000000",
       "title": "Ni éteindre vos radiateurs ni les purger : cet objet que vous avez déjà dans un tiroir améliore leur rendement selon les chauffagistes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2537,84 +2666,6 @@
       "summary": "Un simple aimant glissé sur votre radiateur peut révéler un problème invisible qui plombe votre chauffage depuis l'été. Avant la chute de 10°C annoncée mercredi, ce geste de 30 secondes change tout. L’article Ni éteindre vos radiateurs ni les purger : cet objet que vous avez déjà…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1791761529000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1791761529000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1791761529000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-11",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1791752629000",
@@ -2816,7 +2867,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1791622020000",
+      "id": "lenergeek-rss-2-1791622020000",
       "title": "Feux de cheminée : pourquoi 85% de l’énergie s’échappe par le conduit",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2842,7 +2893,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1791613219000",
+      "id": "lenergeek-rss-3-1791613219000",
       "title": "Antonio Domenech, ingénieur, a surveillé son téléphone la nuit : « Il se connecte à des serveurs toutes les 4 minutes sans votre accord »",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2866,7 +2917,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1791611401000",
+      "id": "lenergeek-rss-4-1791611401000",
       "title": "Voiture électrique ou thermique, l’ADEME publie le bilan carbone et vous risquez d’être choqué par le résultat",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2892,7 +2943,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1791609652000",
+      "id": "lenergeek-rss-5-1791609652000",
       "title": "« Je fais baisser le prix à la pompe » : Trump signe un accord avec Poutine sur des livraisons massives de diesel russe",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3301,30 +3352,6 @@
     },
     {
       "id": "batiweb-rss-0-1791554400000",
-      "title": "BDR Thermea France : « C'est une bonne année pour nous, pour la pompe à chaleur »",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/genie-climatique/bdr-thermea-pac-electrification-climatisation-genie-climatique-49396",
-      "image": "https://img.batiweb.com/repo-images/article/49396/chantierclintdedietrich.jpg",
-      "date": "2026-10-09",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation"
-      ],
-      "summary": "Électrification, climatisation... Voici des tendances qui guident la stratégie de BDR Thermea en France, concentrées sur la PAC. Entretien avec le président, le responsable des services marketing ainsi que le responsable prescription De Dietrich. Électrification, climatisation...…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-1-1791554400000",
       "title": "PRB, Cantillana France et Algimouss dévoilent leurs nouveautés",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -3344,6 +3371,30 @@
         "Eau"
       ],
       "summary": "Sur le salon Batimat, les trois marques du groupe Holcim ont présenté leurs dernières innovations, entre nouvelles gammes de mastics, réduction des poussières, et traitement sans biocide. Sur le salon Batimat, les trois marques du groupe Holcim ont présenté leurs dernières innova…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-1-1791554400000",
+      "title": "BDR Thermea France : « C'est une bonne année pour nous, pour la pompe à chaleur »",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/genie-climatique/bdr-thermea-pac-electrification-climatisation-genie-climatique-49396",
+      "image": "https://img.batiweb.com/repo-images/article/49396/chantierclintdedietrich.jpg",
+      "date": "2026-10-09",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation"
+      ],
+      "summary": "Électrification, climatisation... Voici des tendances qui guident la stratégie de BDR Thermea en France, concentrées sur la PAC. Entretien avec le président, le responsable des services marketing ainsi que le responsable prescription De Dietrich. Électrification, climatisation...…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3691,7 +3742,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novethic-rss-0-1791546258000",
+      "id": "novethic-rss-1-1791546258000",
       "title": "Directive anti-greenwashing : 7 entreprises sur 10 devront revoir les mots de la RSE",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -3717,7 +3768,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-1-1791532513000",
+      "id": "novethic-rss-2-1791532513000",
       "title": "PFAS : SEB est mis en demeure pour manquement à son devoir de vigilance",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -3743,7 +3794,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-2-1791521159000",
+      "id": "novethic-rss-3-1791521159000",
       "title": "Emballages plastique : les industriels ont dépensé 2,5 millions d’euros en 2025 pour freiner la réglementation",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -4406,7 +4457,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1791553006000",
+      "id": "lenergeek-rss-6-1791553006000",
       "title": "Automobile : 78 % des Français sacrifient d’autres dépenses pour continuer à rouler",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4431,7 +4482,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1791552720000",
+      "id": "lenergeek-rss-7-1791552720000",
       "title": "PowderCraft : une start-up lorraine spécialisée dans les poudres industrielles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4455,7 +4506,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1791528300000",
+      "id": "lenergeek-rss-8-1791528300000",
       "title": "Lobbying plastique : 24,3 M€ dépensés contre la réduction",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4479,7 +4530,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1791525579000",
+      "id": "lenergeek-rss-9-1791525579000",
       "title": "L’UE a payé 7,88 milliards pour du gaz russe en neuf mois",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4503,7 +4554,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1791525033000",
+      "id": "lenergeek-rss-10-1791525033000",
       "title": "J’ai fait isoler toute ma maison pour ne plus grelotter l’hiver : c’est au centre des impôts qu’on m’a appris que j’avais payé plein pot sans raison",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4527,7 +4578,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1791523218000",
+      "id": "lenergeek-rss-11-1791523218000",
       "title": "En 1939, un ingénieur de Chicago a posé un avion sur un camion de 17 mètres et l’a envoyé en Antarctique : la glace a tout englouti",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5512,7 +5563,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-3-1791474685000",
+      "id": "novethic-rss-4-1791474685000",
       "title": "Le Portail RSE change d'échelle pour mieux accompagner les PME vers la durabilité",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -5537,7 +5588,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-4-1791459944000",
+      "id": "novethic-rss-5-1791459944000",
       "title": "Climat : la Cour suprême américaine pourrait enterrer les procès contre les pétroliers",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -5563,7 +5614,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-5-1791434758000",
+      "id": "novethic-rss-6-1791434758000",
       "title": "Aviation : éviter les traînées de condensation pourrait faire gagner dix ans au climat",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -6170,7 +6221,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1791468900000",
+      "id": "lenergeek-rss-12-1791468900000",
       "title": "Voiture thermique : Paris et Berlin s’accordent sur un report à 2035",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6194,7 +6245,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1791466791000",
+      "id": "lenergeek-rss-13-1791466791000",
       "title": "Finances publiques : la Cour des comptes recommande de vendre des actifs de la Caisse des dépôts",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6218,7 +6269,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1791465215000",
+      "id": "lenergeek-rss-14-1791465215000",
       "title": "Grands rouleurs : l’indemnité carburant prolongée et augmentée à 100 euros jusqu’en décembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6242,7 +6293,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1791438618000",
+      "id": "lenergeek-rss-15-1791438618000",
       "title": "En 2023, à Londres, une équipe de déblaiement a trouvé deux anciens ordinateurs sous des cartons : il s’agissait de deux des trois Q1 micro-ordinateurs connus toujours existants",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6266,7 +6317,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1791436838000",
+      "id": "lenergeek-rss-16-1791436838000",
       "title": "L’Armée du Corps des ingénieurs de Seattle enlève jusqu’à 900 tonnes de bois flotté géant chaque année, 80 % est réutilisé pour recréer des habitats pour la faune",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6292,7 +6343,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1791432377000",
+      "id": "lenergeek-rss-17-1791432377000",
       "title": "Pétrole : les réserves américaines chutent de 3,2 millions de barils",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7323,7 +7374,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-6-1791373834000",
+      "id": "novethic-rss-7-1791373834000",
       "title": "Capital-investissement : les énergies fossiles plombent les portefeuilles",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7349,7 +7400,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-7-1791348340000",
+      "id": "novethic-rss-8-1791348340000",
       "title": "GenAct : \"Si la plateforme ne se réinvente pas, on est mort\", prévient Fabrice Bonnifet",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -7732,7 +7783,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1791354051000",
+      "id": "lenergeek-rss-18-1791354051000",
       "title": "« Je croyais économiser en laissant tourner le chauffage » : un retraité découvre qu’il payait 35% de gaz en trop depuis 8 ans",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7756,7 +7807,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1791352249000",
+      "id": "lenergeek-rss-19-1791352249000",
       "title": "Adieu à la sécheresse, un adolescent de 14 ans invente une solution idéale pour « fabriquer » de l’eau en plein désert",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7781,7 +7832,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1791350404000",
+      "id": "lenergeek-rss-20-1791350404000",
       "title": "« J’ai frotté pendant des années pour rien » : cette méthode permet de récupérer un verre de four noirci sans effort ni produit chimique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8418,7 +8469,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novethic-rss-8-1791293221000",
+      "id": "novethic-rss-9-1791293221000",
       "title": "Télétravail, salaires : après une grève illimitée, les salariés espagnols d'Airbus arrachent un accord",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -8440,32 +8491,6 @@
         "RE2020"
       ],
       "summary": "En Espagne, des manifestations ont rassemblé plusieurs milliers de salariés d'Airbus. @FRANCESCO MILITELLO MIRTO NURPHOTO NURPHOTO VIA AFP La mobilisation aura duré près de trois mois. En Espagne, les salariés d’Airbus ont accepté les propositions formulées par la direction, mett…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novethic-rss-9-1791287152000",
-      "title": "Scope 3 : le vrai poids carbone des entreprises serait jusqu'à 2,7 fois plus élevé",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/environnement/climat/scope3-emissions-sous-estimees-entreprises-eco-vadis",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2024/12/emissions-gaz-a-effet-de-serre-CO2-@Andy-Chi-Pexels-150x150.jpg",
-      "date": "2026-10-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Réglementation"
-      ],
-      "summary": "Les émissions carbone sous estimées - Crédits : @Andy-Chi sur Pexels Et si les émissions de la chaîne de valeur des entreprises étaient largement sous-estimées ? C'est ce que suggère un rapport publié par EcoVadis et le cabinet de conseil Kearney, selon lequel les entreprises pou…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8825,7 +8850,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1791297549000",
+      "id": "lenergeek-rss-21-1791297549000",
       "title": "BMW célèbre son millionième véhicule M avant la révolution électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8849,7 +8874,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1791290770000",
+      "id": "lenergeek-rss-22-1791290770000",
       "title": "Canicule 2026 : un coût de 16 milliards d’euros pour la France",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8875,7 +8900,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1791267653000",
+      "id": "lenergeek-rss-23-1791267653000",
       "title": "Des experts détaillent comment une bouteille en plastique sur le toit peut convertir la lumière du soleil en éclairage naturel dans une pièce sombre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8897,30 +8922,6 @@
         "Eau"
       ],
       "summary": "Une simple bouteille d'eau percée dans un toit, et toute une pièce s'illumine sans électricité. Ce procédé brésilien conquiert déjà plus de 30 pays. La technique et ses précautions valent le détour. L’article Des experts détaillent comment une bouteille en plastique sur le toit p…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1791265812000",
-      "title": "Un couple du Mississippi a compté à la main 1 299 arbres abattus par erreur sur leur terrain : leur liste manuscrite leur a fait gagner 41 920 $ en justice",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/06/un-couple-du-mississippi-a-compte-a-la-main-1-299-arbres-abattus-par-erreur-sur-leur-terrain-leur-liste-manuscrite-leur-a-fait-gagner-41-920-en-justice/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/Un-couple-du-Mississippi-a-compte-a-la-main-1-299-arbres-abattus-par-erreur-sur-leur-terrain-leur-liste-manuscrite-leur-.webp",
-      "date": "2026-10-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Une simple erreur de frontière, 1 299 arbres rasés et 41 920 dollars à payer. Comment une entreprise de débardage a-t-elle pu laisser filer une telle note malgré les avertissements du propriétaire ? L’article Un couple du Mississippi a compté à la main 1 299 arbres abattus par er…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
