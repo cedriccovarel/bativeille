@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T20:35:21.338Z",
+  "generatedAt": "2026-10-14T04:11:55.713Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,135 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1791951000000",
+      "title": "La méthode lattice Boltzmann quantique progresse vers des simulations d’écoulements pratiques sur maillages non uniformes",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/la-methode-lattice-boltzmann-quantique-progresse-vers-des-simulations-decoulements-pratiques-sur-maillages-non-uniformes/197112-2026-10",
+      "image": null,
+      "date": "2026-10-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "RE2020"
+      ],
+      "summary": "La mécanique des fluides numérique (CFD) est essentielle pour la conception des aéronefs, la propulsion, la gestion thermique et bien d’autres tâches d’ingénierie, mais les simulations à haute fidélité exigent souvent d’énormes ressources de calcul. L’informatique quantique offre…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1791947400000",
+      "title": "Des chercheurs développent des matériaux hybrides pour un stockage d’énergie thermique plus efficace",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-chercheurs-developpent-des-materiaux-hybrides-pour-un-stockage-denergie-thermique-plus-efficace/197106-2026-10",
+      "image": null,
+      "date": "2026-10-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Bâtiment"
+      ],
+      "summary": "Le chauffage et le refroidissement des bâtiments représentent une grande partie de la consommation d’énergie mondiale. Des chercheurs de l’Université Texas A&M développent une nouvelle classe de matériaux hybrides qui pourraient contribuer à stocker l’énergie thermique plus effic…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1791951099000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1791951099000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1791951099000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1791907201000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -3873,7 +4002,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1791879300000",
+      "id": "enerzine-rss-2-1791929400000",
+      "title": "La soufflerie du Politecnico di Milano fête ses 25 ans",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/la-soufflerie-du-politecnico-di-milano-fete-ses-25-ans/197093-2026-10",
+      "image": null,
+      "date": "2026-10-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Elle a mis à l’épreuve des ponts suspendus, des gratte-ciel, des éoliennes, des aéronefs de nouvelle génération et la performance aérodynamique des athlètes. La soufflerie du Politecnico di Milano fête ses 25 ans et revient sur un quart de siècle de recherche et d’innovation sur …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-3-1791879300000",
       "title": "Idefix, le rover franco-allemand de 25 kg qui affronte la gravité infime de Phobos",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3898,7 +4051,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1791876600000",
+      "id": "enerzine-rss-4-1791876600000",
       "title": "Votre smartphone va hurler ce mardi, voici pourquoi vous ne devez surtout pas paniquer",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3922,7 +4075,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1791869400000",
+      "id": "enerzine-rss-5-1791869400000",
       "title": "La fabrication et le recyclage des batteries pourraient passer au vert grâce à cette « colle »",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3947,7 +4100,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1791868200000",
+      "id": "enerzine-rss-6-1791868200000",
       "title": "Les sons des récifs sains peuvent stimuler les efforts de récupération des coraux et des poissons",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3972,7 +4125,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1791864600000",
+      "id": "enerzine-rss-7-1791864600000",
       "title": "Solar Orbiter remonte à l’origine des mystérieuses inversions magnétiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3996,7 +4149,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1791861000000",
+      "id": "enerzine-rss-8-1791861000000",
       "title": "Le platine des piles à combustible dure plus longtemps grâce à une enveloppe de graphène enrichie en azote",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4275,85 +4428,33 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1791923696000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
+      "id": "le-journal-du-grand-paris-rss-0-1791924372000",
+      "title": "La Tour commune : un défi architectural au service du logement social étudiant",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/la-tour-commune-un-defi-architectural-au-service-du-logement-social-etudiant/",
       "image": null,
       "date": "2026-10-13",
-      "access": "Gratuit",
+      "access": "Accès gratuit partiel",
       "official": false,
       "highImpact": true,
       "impactScore": 96,
       "tags": [
         "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
         "Réglementation",
         "Biosourcé"
       ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "summary": "Lundi 12 octobre, Paris habitat a inauguré, la résidence étudiante Hans et Sophie Scholl, dans le 13e arrondissement. Gérée par le Crous de Paris, elle propose 220 logements, du T1 au T2, dans un bâtiment de 50 m de haut qui fait la part belle au bois, tout en accordant une place…",
       "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
+      "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1791923696000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1791923696000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1791907145000",
+      "id": "le-journal-du-grand-paris-rss-1-1791907145000",
       "title": "Philippe Laurent (interview vidéo) : « L’AMF ne peut en aucun cas être un plan B »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4378,7 +4479,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1791904915000",
+      "id": "le-journal-du-grand-paris-rss-2-1791904915000",
       "title": "Campus IA, le data center qui chauffe à blanc le milieu associatif",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4404,8 +4505,8 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1791904847000",
-      "title": "A la métropole du Grand Paris, chaque euro compte",
+      "id": "le-journal-du-grand-paris-rss-3-1791904847000",
+      "title": "À la métropole du Grand Paris, chaque euro compte",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
@@ -4423,12 +4524,12 @@
         "Urbanisme",
         "Immobilier"
       ],
-      "summary": "Réuni le 13 octobre au centre de conférences Pierre-Mendès-France, à Bercy, le conseil métropolitain a adopté une décision modificative, réaffecté 31,7 millions d’euros d’autorisations de programme et soutenu trois pôles gares et passerelles. Signe des temps, et de la réduction c…",
+      "summary": "Réuni le 13 octobre au centre de conférences Pierre-Mendès-France, à Bercy, le conseil métropolitain a adopté une décision modificative de son budget, réaffecté 31,7 millions d’euros d’autorisations de programme et soutenu trois pôles gares et passerelles. Signe des temps, et de …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1791865292000",
+      "id": "le-journal-du-grand-paris-rss-4-1791865292000",
       "title": "Jean-Philippe Dugoin-Clément élu à l’unanimité président de l’Amif",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6400,7 +6501,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1791843000000",
+      "id": "enerzine-rss-9-1791843000000",
       "title": "Un liquide fondant aiderait à fabriquer de meilleures cellules solaires à pérovskite et de meilleures LED",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6420,79 +6521,6 @@
         "ENR"
       ],
       "summary": "Une équipe co-dirigée par des chercheurs de l’Université de Californie à San Diego a mis au point une nouvelle méthode pour rendre les cellules solaires à pérovskite — une technologie solaire de nouvelle génération prometteuse — plus efficaces et plus durables. En créant un liqui…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-7-1791825300000",
-      "title": "Dongfeng Forthing TK7 PHEV : jusqu’à huit places pour voir le voyage en grand",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/dongfeng-tk7-phev-suv-hybride-familial/196965-2026-10",
-      "image": null,
-      "date": "2026-10-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Dongfeng Forthing présente au Mondial de l’Auto de Paris 2026 le TK7 PHEV, un SUV hybride rechargeable destiné aux grandes familles. Avec des configurations annoncées de cinq à huit places, il place la modularité de l’habitacle au centre de sa proposition. Le constructeur revendi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1791822000000",
-      "title": "Windows Update cessera de fonctionner en 2027 sur les PC restés sans le correctif préalable",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/windows-update-certificats-expiration-2027/197005-2026-10",
-      "image": null,
-      "date": "2026-10-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Les certificats qui sécurisent les connexions à Windows Update arrivent à expiration au printemps 2027. Un PC qui n’a pas reçu les certificats de remplacement à temps peut se retrouver coupé des mises à jour, même si sa version de Windows reste sous support officiel. 📌 L’essenti…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1791818100000",
-      "title": "Cyberattaque massive contre les frigos des supermarchés Intermarché, Leclerc et U",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/cyberattaque-frigos-supermarches-50-degres/196998-2026-10",
-      "image": null,
-      "date": "2026-10-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "Dans la nuit du 11 au 12 octobre 2026, une cyberattaque a frappé les systèmes de régulation frigorifique de nombreux magasins français. Selon les premières remontées du secteur, des pirates auraient modifié à distance les consignes de température, provoquant dans certains cas une…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6844,7 +6872,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1791827953000",
+      "id": "le-journal-du-grand-paris-rss-5-1791827953000",
       "title": "Commerce parisien, une densité qui résiste, des secteurs qui vacillent",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6868,7 +6896,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1791820630000",
+      "id": "le-journal-du-grand-paris-rss-6-1791820630000",
       "title": "Grand Paris circulaire, 10 ans déjà",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6893,7 +6921,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1791818155000",
+      "id": "le-journal-du-grand-paris-rss-7-1791818155000",
       "title": "Jacques-Emmanuel Saulnier (Fondation TotalEnergies) : « Notre critère principal, c’est l’insertion professionnelle sur le chantier »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6919,7 +6947,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1791815545000",
+      "id": "le-journal-du-grand-paris-rss-8-1791815545000",
       "title": "À l’occasion des Journées de l’architecture, les maisons en bois se dévoilent",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6945,7 +6973,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1791811666000",
+      "id": "le-journal-du-grand-paris-rss-9-1791811666000",
       "title": "Marc Bonnieux – L’art de l’eau",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6967,30 +6995,6 @@
         "Eau"
       ],
       "summary": "De Buenos Aires à l’Île-de-France, le directeur général de Suez Eau France a construit sa carrière au rythme des réseaux : sept déménagements, une thèse sur l’assainissement en Argentine, une passion avouée pour les Semop et une admiration pour les maires bâtisseurs. Portrait d’u…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1791797262000",
-      "title": "Les coulisses du Grand Paris",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/les-coulisses-du-grand-paris/",
-      "image": null,
-      "date": "2026-10-12",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % numérique. Chaque semaine, retrouvez les coulisses de l’actualité de l’Île-de-France publiées dans notre hebdomadaire, désormais en format 100 % n…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16990,28 +16994,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "cite-de-l-architecture-et-du-patrimoine-sitemap-190-1788787260000",
-      "title": "ressources pedagogiques",
-      "source": "Cité de l’architecture et du patrimoine",
-      "sourceId": "cite-de-l-architecture-et-du-patrimoine",
-      "sourceType": "Institution culturelle",
-      "region": "National",
-      "url": "https://www.citedelarchitecture.fr/fr/article/ressources-pedagogiques",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Architecture",
-        "Patrimoine"
-      ],
-      "summary": "Publication détectée dans le sitemap de Cité de l’architecture et du patrimoine. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1788739200000",
       "title": "400 ans de la marine nationale en region sud lhistoire secrit encore au large",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -19842,7 +19824,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ekopolis-sitemap-30-1785314239000",
+      "id": "ekopolis-sitemap-31-1785314239000",
       "title": "societe resiliente transition ecologique et cohesion sociale etudes de quelques",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19865,7 +19847,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-70-1785313782000",
+      "id": "ekopolis-sitemap-71-1785313782000",
       "title": "guide amenagement et construction durable de lenseignement superieur de la recherche et",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19889,7 +19871,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-89-1785314102000",
+      "id": "ekopolis-sitemap-90-1785314102000",
       "title": "les opportunites de developpement de leconomie sociale et solidaire dans la filiere du",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19912,7 +19894,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-152-1785313963000",
+      "id": "ekopolis-sitemap-153-1785313963000",
       "title": "presentation programme sante ville amenagement durable",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19935,7 +19917,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-247-1785316581000",
+      "id": "ekopolis-sitemap-248-1785316581000",
       "title": "guide construire sain ed 2013",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19958,7 +19940,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-378-1785316517000",
+      "id": "ekopolis-sitemap-379-1785316517000",
       "title": "la biodiversite publications du ministere",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -19981,7 +19963,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-382-1785313612000",
+      "id": "ekopolis-sitemap-383-1785313612000",
       "title": "label ever espaces verts ecologiques pour la gestion ecologique des espaces verts",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -20004,7 +19986,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-395-1785316763000",
+      "id": "ekopolis-sitemap-396-1785316763000",
       "title": "de la nature en ville mais quelle idee",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
