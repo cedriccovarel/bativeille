@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-14T23:05:48.921Z",
+  "generatedAt": "2026-10-15T03:54:42.848Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,110 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1792033800000",
+      "title": "WATTER lance une infrastructure d’IA distribuée dans un hôtel de Dallas",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/watter-lance-une-infrastructure-dia-distribuee-dans-un-hotel-de-dallas/197176-2026-10",
+      "image": null,
+      "date": "2026-10-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "L’entreprise WATTER a annoncé aujourd’hui le lancement commercial de son modèle d’infrastructure d’IA distribuée, avec un premier déploiement opérationnel au Hyatt Regency Dallas at Reunion Tower, où la chaleur des serveurs est réutilisée pour produire de l’eau chaude. Concrèteme…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1792036462000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1792036462000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1792036462000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "base-inies-rss-0-1791986802000",
       "title": "Vous avez identifié une anomalie dans la base INIES ?",
       "source": "Base INIES",
@@ -3754,7 +3858,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792015800000",
+      "id": "enerzine-rss-1-1792015800000",
       "title": "Griffin-1 réussit ses essais d’acceptation avant un lancement vers la Lune",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3779,7 +3883,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792001453000",
+      "id": "enerzine-rss-2-1792001453000",
       "title": "Connaissez-vous la toiture métallique à cellules photovoltaïques intégrées ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3805,7 +3909,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1791996300000",
+      "id": "enerzine-rss-3-1791996300000",
       "title": "Li Auto présente la Li 6 et sa stratégie européenne à Paris",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3829,7 +3933,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1791993000000",
+      "id": "enerzine-rss-4-1791993000000",
       "title": "Le mont Blanc mesuré à 4807,47 mètres en 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3854,7 +3958,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1791989400000",
+      "id": "enerzine-rss-5-1791989400000",
       "title": "BYD Atto 8 à Paris, le SUV 7 places qui passe de 10 à 70% en cinq minutes mais tait son prix",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3879,7 +3983,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1791965700000",
+      "id": "enerzine-rss-6-1791965700000",
       "title": "Le cloud de Yandex fragilisé. Trois data centers frappés en quatre jours",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3904,7 +4008,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1791961620000",
+      "id": "enerzine-rss-7-1791961620000",
       "title": "Apple TV 4K, le salon se réarme avec une puce A19 et un Siri encore inégal",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3929,7 +4033,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1791955800000",
+      "id": "enerzine-rss-8-1791955800000",
       "title": "L’automatisation façonne l’avenir de l’industrie manufacturière américaine",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3953,7 +4057,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1791954600000",
+      "id": "enerzine-rss-9-1791954600000",
       "title": "Une nouvelle approche de l’IA durable par le délestage de sa charge de calcul sur la lumière",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3974,32 +4078,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Le professeur adjoint Uğur Teğin, du département de génie électrique et électronique de l’Université Koç, a mis au point deux nouveaux systèmes qui utilisent la lumière elle-même, plutôt que des circuits électroniques conventionnels, pour effectuer les calculs nécessaires à l’int…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1791951000000",
-      "title": "La méthode lattice Boltzmann quantique progresse vers des simulations d’écoulements pratiques sur maillages non uniformes",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/la-methode-lattice-boltzmann-quantique-progresse-vers-des-simulations-decoulements-pratiques-sur-maillages-non-uniformes/197112-2026-10",
-      "image": null,
-      "date": "2026-10-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "La mécanique des fluides numérique (CFD) est essentielle pour la conception des aéronefs, la propulsion, la gestion thermique et bien d’autres tâches d’ingénierie, mais les simulations à haute fidélité exigent souvent d’énormes ressources de calcul. L’informatique quantique offre…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4279,109 +4357,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1792019132000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1792019132000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1792019132000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1791995996000",
-      "title": "Dans les coulisses du Centre Pompidou francilien de Massy",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/dans-les-coulisses-du-centre-pompidou-francilien-de-massy/",
-      "image": null,
-      "date": "2026-10-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Alors que l’inauguration du Centre Pompidou francilien - fabrique de l’art, situé à Massy (Essonne), est prévue samedi 17 octobre 2026, quelques jours avant, le lieu a ouvert ses portes à la presse lors d'une visite organisée lundi 12 octobre. À terme, cet équipement de 30 000 m2…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-1-1791993065000",
+      "id": "le-journal-du-grand-paris-rss-0-1791993065000",
       "title": "Réemploi et sobriété dans le bâtiment : l’Ademe présente le bilan de l’AMI Bati-sobre",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4403,6 +4379,30 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Mardi 13 octobre, l'Ademe Île-de-France et l'Ademe Paca ont présenté le bilan de l'appel à manifestation d'intérêt Bati-sobre, lancé il y a trois ans et visant à améliorer la sobriété matière et le réemploi dans le secteur de la construction. Mardi 13 octobre, l'Ademe Île-de-Fran…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1791988796000",
+      "title": "Dans les coulisses du Centre Pompidou francilien de Massy",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/dans-les-coulisses-du-centre-pompidou-francilien-de-massy/",
+      "image": null,
+      "date": "2026-10-14",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Alors que l’inauguration du Centre Pompidou francilien - fabrique de l’art, situé à Massy (Essonne), est prévue samedi 17 octobre 2026, quelques jours avant, le lieu a ouvert ses portes à la presse lors d'une visite organisée lundi 12 octobre. À terme, cet équipement de 30 000 m2…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16520,6 +16520,30 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "Il n’y a pas que le prix de l’essence qui grimpe en flèche. Pendant le mois d’août, le prix de l’électricité sur le marché de […] L’article Le prix de l’électricité a explosé au mois d’aout, mais les opérateurs de stockage se frottent les mains est apparu en premier sur Révolutio…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "acoucite-rss-0-1789120596000",
+      "title": "Santé-environnement : journée de co-construction",
+      "source": "Acoucité",
+      "sourceId": "acoucite",
+      "sourceType": "Observatoire bruit",
+      "region": "Auvergne-Rhône-Alpes",
+      "url": "https://www.acoucite.org/sante-environnement-journee-de-co-construction/",
+      "image": null,
+      "date": "2026-09-11",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bruit",
+        "Acoustique",
+        "Métropole de Lyon",
+        "Bâtiment"
+      ],
+      "summary": "Dans le cadre du Green Data for Health, l’Anses et l’Ecolab (CGDD/SRI) du Ministère de la Transition écologique organisent une journée de co-construction pour mieux répondre aux besoins des territoires pour le compte de GD4H. Il s’agira d’une journée de … Continuer la lecture → D…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
