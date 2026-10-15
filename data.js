@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-15T18:59:11.237Z",
+  "generatedAt": "2026-10-15T22:59:08.033Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3739,7 +3739,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792087620000",
+      "id": "enerzine-rss-0-1792102200000",
+      "title": "De la structure dans l’instructuré : un nouveau phénomène découvert dans le vent solaire",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/de-la-structure-dans-linstructure-un-nouveau-phenomene-decouvert-dans-le-vent-solaire/197244-2026-10",
+      "image": null,
+      "date": "2026-10-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau",
+        "Biosourcé"
+      ],
+      "summary": "La turbulence est omniprésente et se produit dans notre vie quotidienne sur Terre, par exemple lorsque l’on remue du lait dans le café, ou dans les mouvements agités de l’océan et de l’atmosphère. Les milieux dans l’espace et les systèmes astrophysiques peuvent également développ…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1792087620000",
       "title": "Chauffage, voitures, entreprises : les 17 mesures du nouveau plan d’électrification du gouvernement",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3765,7 +3791,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792077000000",
+      "id": "enerzine-rss-2-1792077000000",
       "title": "Gigafactorie de Verkor : un atout indispensable pour la souveraineté française",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3790,7 +3816,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792073220000",
+      "id": "enerzine-rss-3-1792073220000",
       "title": "UPandCHARGE présente sa recharge par induction au Mondial de l’Auto 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3816,7 +3842,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792070100000",
+      "id": "enerzine-rss-4-1792070100000",
       "title": "Mondial de l’Auto 2026 : les Français veulent de l’innovation, sans payer plus",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3842,7 +3868,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792060200000",
+      "id": "enerzine-rss-5-1792060200000",
       "title": "Quand faire le plein de fioul ? Cinq repères pour mieux choisir son moment",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3868,7 +3894,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792058700000",
+      "id": "enerzine-rss-6-1792058700000",
       "title": "La nycturie et les écrans, ce que révèlent cinq heures de vidéo quotidiennes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3892,7 +3918,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792057800000",
+      "id": "enerzine-rss-7-1792057800000",
       "title": "Capteurs intelligents et pilotage de l’énergie dans les bâtiments connectés",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3917,7 +3943,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792052400000",
+      "id": "enerzine-rss-8-1792052400000",
       "title": "Nvidia mise sur les agents d’IA pour équiper les villes européennes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3942,7 +3968,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1792042200000",
+      "id": "enerzine-rss-9-1792042200000",
       "title": "NEURA Robotics présente Neuron AI, un modèle d’IA physique multimodal",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3964,30 +3990,6 @@ window.BATIVEILLE_DATA = {
         "RE2020"
       ],
       "summary": "L’entreprise NEURA Robotics a présenté Neuron AI, un modèle de fondation multimodal pour l’IA physique, avec une démonstration annoncée au NVIDIA GTC Berlin 2026. L’architecture Perception-Langage-Action (PLA) relie ce qu’un robot voit, entend et sent à ce qu’il a déjà fait. Selo…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1792041000000",
-      "title": "xFusion détaille ses solutions d’infrastructure IA à l’OCP 2026",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/xfusion-detaille-ses-solutions-dinfrastructure-ia-a-locp-2026/197190-2026-10",
-      "image": null,
-      "date": "2026-10-15",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Au sommet Open Compute Project 2026 à San Jose, xFusion a présenté ses systèmes de refroidissement liquide, d’alimentation haute tension et d’interconnexion optique pour centres de données IA, face à la hausse de la densité énergétique. Le sommet se déroule du 12 au 15 octobre au…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4165,7 +4167,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1792090738000",
+      "id": "le-commerce-du-bois-sitemap-0-1792105126000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4191,7 +4193,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1792090738000",
+      "id": "le-commerce-du-bois-sitemap-1-1792105126000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4217,7 +4219,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1792090738000",
+      "id": "le-commerce-du-bois-sitemap-2-1792105126000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4243,7 +4245,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1792070269000",
+      "id": "le-journal-du-grand-paris-rss-0-1792095062000",
+      "title": "L’essentiel de la semaine du 12 octobre 2026 en quelques clics",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-12-octobre-2026-en-quelques-clics/",
+      "image": null,
+      "date": "2026-10-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. Les enjeux liés au commerce dans la région Capitale ont particulièrement marqué celle qui s'achève. Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1792070269000",
       "title": "Pour sauver ses commerces, l’artisanat parisien mise sur un fonds d’investissement",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4268,7 +4294,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1792068211000",
+      "id": "le-journal-du-grand-paris-rss-2-1792068211000",
       "title": "Camille Tubiana pressentie pour prendre la direction générale de l’Anru",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4292,7 +4318,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1792068199000",
+      "id": "le-journal-du-grand-paris-rss-3-1792068199000",
       "title": "Le nouveau plan vélo de Paris concentre ses efforts sur la sécurité des carrefours",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4317,7 +4343,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1792058612000",
+      "id": "le-journal-du-grand-paris-rss-4-1792058612000",
       "title": "Encadrement des loyers : ce que révèle la Cour des comptes sur le laboratoire parisien et francilien",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6577,7 +6603,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1791993065000",
+      "id": "le-journal-du-grand-paris-rss-5-1791993065000",
       "title": "Réemploi et sobriété dans le bâtiment : l’Ademe présente le bilan de l’AMI Bati-sobre",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6603,7 +6629,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1791988796000",
+      "id": "le-journal-du-grand-paris-rss-6-1791988796000",
       "title": "Dans les coulisses du Centre Pompidou francilien de Massy",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8109,7 +8135,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1791924372000",
+      "id": "le-journal-du-grand-paris-rss-7-1791924372000",
       "title": "La Tour commune : un défi architectural au service du logement social étudiant",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8135,7 +8161,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1791907145000",
+      "id": "le-journal-du-grand-paris-rss-8-1791907145000",
       "title": "Philippe Laurent (interview vidéo) : « L’AMF ne peut en aucun cas être un plan B »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8160,7 +8186,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1791904915000",
+      "id": "le-journal-du-grand-paris-rss-9-1791904915000",
       "title": "Campus IA, le data center qui chauffe à blanc le milieu associatif",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8182,30 +8208,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Le 9 octobre 2026, le collectif d’associations réunissant France nature environnement Île-de-France (FNE), FNE Seine-et-Marne, l’association R.E.N.A.R.D, Terre de liens Île-de-France, la Conférence paysanne Île-de-France et les Amis de la Terre ont expliqué, lors d’une conférence…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1791904847000",
-      "title": "À la métropole du Grand Paris, chaque euro compte",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/a-la-metropole-du-grand-paris-chaque-euro-compte/",
-      "image": null,
-      "date": "2026-10-13",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Réuni le 13 octobre au centre de conférences Pierre-Mendès-France, à Bercy, le conseil métropolitain a adopté une décision modificative de son budget, réaffecté 31,7 millions d’euros d’autorisations de programme et soutenu trois pôles gares et passerelles. Signe des temps, et de …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -15952,7 +15954,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-78-1789603200000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-92-1789603200000",
       "title": "gouvernement frederic carre rencontre vincent jeanbrun",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -18598,7 +18600,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-319-1788220800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-339-1788220800000",
       "title": "actu simple 31",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -22661,7 +22663,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
