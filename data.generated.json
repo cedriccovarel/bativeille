@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T22:59:08.033Z",
+  "generatedAt": "2026-10-16T03:49:41.482Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,109 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1792120200000",
+      "title": "Créer la technologie du futur : la chimie quantique ouvre de nouvelles possibilités",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/creer-la-technologie-du-futur-la-chimie-quantique-ouvre-de-nouvelles-possibilites/197247-2026-10",
+      "image": null,
+      "date": "2026-10-16",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Un chercheur du Département de l’Énergie (DOE) des États-Unis, au sein du Princeton Plasma Physics Laboratory (PPPL), a mis au point une méthode plus rapide pour identifier les meilleurs matériaux à base de diamant pour les ordinateurs quantiques. Cette nouvelle approche a déjà p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1792122568000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-16",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1792122568000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-16",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1792122568000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-16",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1792051201000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -3739,7 +3842,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792102200000",
+      "id": "enerzine-rss-1-1792102200000",
       "title": "De la structure dans l’instructuré : un nouveau phénomène découvert dans le vent solaire",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3765,7 +3868,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792087620000",
+      "id": "enerzine-rss-2-1792087620000",
       "title": "Chauffage, voitures, entreprises : les 17 mesures du nouveau plan d’électrification du gouvernement",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3791,7 +3894,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792077000000",
+      "id": "enerzine-rss-3-1792077000000",
       "title": "Gigafactorie de Verkor : un atout indispensable pour la souveraineté française",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3816,7 +3919,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792073220000",
+      "id": "enerzine-rss-4-1792073220000",
       "title": "UPandCHARGE présente sa recharge par induction au Mondial de l’Auto 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3842,7 +3945,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792070100000",
+      "id": "enerzine-rss-5-1792070100000",
       "title": "Mondial de l’Auto 2026 : les Français veulent de l’innovation, sans payer plus",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3868,7 +3971,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792060200000",
+      "id": "enerzine-rss-6-1792060200000",
       "title": "Quand faire le plein de fioul ? Cinq repères pour mieux choisir son moment",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3894,7 +3997,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792058700000",
+      "id": "enerzine-rss-7-1792058700000",
       "title": "La nycturie et les écrans, ce que révèlent cinq heures de vidéo quotidiennes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3918,7 +4021,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792057800000",
+      "id": "enerzine-rss-8-1792057800000",
       "title": "Capteurs intelligents et pilotage de l’énergie dans les bâtiments connectés",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3943,7 +4046,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1792052400000",
+      "id": "enerzine-rss-9-1792052400000",
       "title": "Nvidia mise sur les agents d’IA pour équiper les villes européennes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3964,32 +4067,6 @@
         "Bâtiment"
       ],
       "summary": "De la gestion énergétique des bâtiments publics à la surveillance des infrastructures portuaires, des collectivités européennes expérimentent des agents d’intelligence artificielle fondés sur les technologies de Nvidia. Dans une publication du 13 octobre, le groupe américain prés…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1792042200000",
-      "title": "NEURA Robotics présente Neuron AI, un modèle d’IA physique multimodal",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/neura-robotics-presente-neuron-ai-un-modele-dia-physique-multimodal/197199-2026-10",
-      "image": null,
-      "date": "2026-10-15",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "L’entreprise NEURA Robotics a présenté Neuron AI, un modèle de fondation multimodal pour l’IA physique, avec une démonstration annoncée au NVIDIA GTC Berlin 2026. L’architecture Perception-Langage-Action (PLA) relie ce qu’un robot voit, entend et sent à ce qu’il a déjà fait. Selo…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4165,84 +4242,6 @@
       "summary": "Le 16 octobre, 100 euros tombent automatiquement sur certains comptes bancaires. Mais pour 2,5 millions d'autres Français potentiellement éligibles, une démarche précise devient indispensable dès le 22 octobre. Laquelle ? L’article Aide carburant : 1,6 million de Français vont re…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1792105126000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-15",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1792105126000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-15",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1792105126000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-15",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1792095062000",
