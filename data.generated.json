@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:43:09.780Z",
+  "generatedAt": "2026-10-16T22:41:55.971Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2598,20 +2598,21 @@
       "sourceType": "Centre ressources bâtiment durable",
       "region": "Provence-Alpes-Côte d’Azur",
       "url": "https://envirobatbdm.eu/agenda-des-evenements/2026-11-17t100000/visite-fibraterra-chantier-des-bureaux-dalpes-controles",
-      "image": "https://envirobatbdm.eu/core/misc/icons/e32700/error.svg",
+      "image": "https://envirobatbdm.eu/sites/default/files/inline-images/Logo-fibraterra-FondBlanc.png",
       "date": "2026-10-16",
       "access": "open",
       "official": false,
-      "highImpact": false,
-      "impactScore": 88,
+      "highImpact": true,
+      "impactScore": 96,
       "tags": [
         "BDM",
         "Bâtiment durable",
         "Méditerranée",
-        "Eau",
-        "Bâtiment"
+        "Réglementation",
+        "RE2020",
+        "Carbone"
       ],
-      "summary": "Visite Fibraterra : chantier des bureaux d'Alpes Contrôles Nicolas ven 16/10/2026 - 17:31 84000 Avignon France mar 17/11/2026 - 11:00 Information à venir Déroulé : 10h30 : Accueil café 11h : Introduction par la maîtrise d'ouvrage, visite. 13h : Fin Cette visite est organisée dans…",
+      "summary": "Visite Fibraterra : chantier des bureaux d'Alpes Contrôles Nicolas ven 16/10/2026 - 17:31 84000 Avignon France mar 17/11/2026 - 11:00 Alpes Contrôles a engagé la construction de ses nouveaux bureaux à Avignon. Ossature bois, géothermie réversible et photovoltaïque en toiture en f…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3774,7 +3775,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792170420000",
+      "id": "enerzine-rss-0-1792188600000",
+      "title": "Vertical Aerospace signe deux accords de fourniture pour son eVTOL Valo",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/vertical-aerospace-signe-deux-accords-de-fourniture-pour-son-evtol-valo/197361-2026-10",
+      "image": null,
+      "date": "2026-10-16",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020",
+        "Confort d’été"
+      ],
+      "summary": "Vertical Aerospace a annoncé à Bristol, au Royaume-Uni, la signature d’accords de fourniture à long terme avec ANH Structure et Northrop Grumman LITEF pour fournir des systèmes clés de son avion électrique à décollage et atterrissage verticaux Valo. L’accord conclu avec ANH Struc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1792170420000",
       "title": "Hausse des tarifs réglementés : comment les particuliers peuvent anticiper avec lesfurets",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3799,7 +3826,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792168500000",
+      "id": "enerzine-rss-2-1792168500000",
       "title": "XPENG présente le G9L à Paris, un grand SUV électrique haut de gamme destiné à l’Europe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3824,7 +3851,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792159800000",
+      "id": "enerzine-rss-3-1792159800000",
       "title": "Ce microrobot chinois tire du courant du métal sous ses pieds, mais jusqu’où ira-t-il ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3849,7 +3876,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792145220000",
+      "id": "enerzine-rss-4-1792145220000",
       "title": "Hotomatic : des poêles à granulés italiens alliant technologie et vente directe d’usine",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3875,7 +3902,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792140300000",
+      "id": "enerzine-rss-5-1792140300000",
       "title": "Découvert bancaire : les règles se resserrent le 20 novembre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3899,7 +3926,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792139100000",
+      "id": "enerzine-rss-6-1792139100000",
       "title": "Tesla Roadster, l’envol spectaculaire qui devra attendre 2028 pour se poser",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3924,7 +3951,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792128600000",
+      "id": "enerzine-rss-7-1792128600000",
       "title": "Pourquoi le cadeau de fin d’année d’une équipe de maintenance doit servir sur le terrain",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3949,7 +3976,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792127400000",
+      "id": "enerzine-rss-8-1792127400000",
       "title": "Un nouveau piège à ions monolithique développé pour des simulations quantiques accessibles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3975,7 +4002,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1792123800000",
+      "id": "enerzine-rss-9-1792123800000",
       "title": "Des lunettes alimentées par les clignements d’yeux pourraient garder un œil sur la santé",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4000,32 +4027,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1792120200000",
-      "title": "Créer la technologie du futur : la chimie quantique ouvre de nouvelles possibilités",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
+      "id": "lenergeek-rss-0-1792173671000",
+      "title": "TotalEnergies : raffinage à plein régime face aux pénuries mondiales",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
       "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://www.enerzine.com/creer-la-technologie-du-futur-la-chimie-quantique-ouvre-de-nouvelles-possibilites/197247-2026-10",
-      "image": null,
+      "url": "https://lenergeek.com/2026/10/16/raffinage-totalenergies-capacites-optimisation-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/07/totalenergies-expedie-son-premier-cargo-de-gnl-depuis-la-cote-pacifique-du-mexique.webp",
       "date": "2026-10-16",
       "access": "Gratuit",
       "official": false,
-      "highImpact": true,
-      "impactScore": 88,
+      "highImpact": false,
+      "impactScore": 80,
       "tags": [
         "Presse professionnelle",
         "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
+        "Politiques publiques",
+        "ENR"
       ],
-      "summary": "Un chercheur du Département de l’Énergie (DOE) des États-Unis, au sein du Princeton Plasma Physics Laboratory (PPPL), a mis au point une méthode plus rapide pour identifier les meilleurs matériaux à base de diamant pour les ordinateurs quantiques. Cette nouvelle approche a déjà p…",
+      "summary": "TotalEnergies a porté ses traitements de raffinage à 10% supplémentaires au troisième trimestre 2026, profitant d'une marge record de 33,2 dollars par baril. Les raffineries européennes du groupe fonctionnent à plein régime pour capter les opportunités créées par la raréfaction m…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1792160375000",
+      "id": "lenergeek-rss-1-1792160375000",
       "title": "Groupes froids hospitaliers : les remplacer sans interrompre le service",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4049,7 +4075,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1792148340000",
+      "id": "lenergeek-rss-2-1792148340000",
       "title": "Peintures réfléchissantes : jusqu’où peuvent-elles réduire la température des logements ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4074,7 +4100,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1792140380000",
+      "id": "lenergeek-rss-3-1792140380000",
       "title": "Tesla présente le Roadster 2026 équipé de propulseurs SpaceX",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4098,7 +4124,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1792131654000",
+      "id": "lenergeek-rss-4-1792131654000",
       "title": "« Je ne pensais pas réduire autant » : ce réglage peu connu du chauffe-eau va transformer vos factures dès 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4123,7 +4149,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1792129812000",
+      "id": "lenergeek-rss-5-1792129812000",
       "title": "« On m’a pris pour un fou » : ce père de famille congèle des sacs d’eau chaque octobre, et cet expert confirme qu’il a raison",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4148,7 +4174,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1792128960000",
+      "id": "lenergeek-rss-6-1792128960000",
       "title": "Prix du kérosène : les aéroports parisiens perdent 400 000 passagers en 9 mois",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4172,7 +4198,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1792128015000",
+      "id": "lenergeek-rss-7-1792128015000",
       "title": "Heures pleines, heures creuses : EDF informe ses clients des nouveaux horaires",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4198,7 +4224,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1792176172000",
+      "id": "le-commerce-du-bois-sitemap-0-1792190504000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4224,7 +4250,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1792176172000",
+      "id": "le-commerce-du-bois-sitemap-1-1792190504000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4250,7 +4276,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1792176172000",
+      "id": "le-commerce-du-bois-sitemap-2-1792190504000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -6215,7 +6241,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1792067098000",
+      "id": "lenergeek-rss-8-1792067098000",
       "title": "Logement et canicule : les failles météorologiques du DPE",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6241,7 +6267,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1792065150000",
+      "id": "lenergeek-rss-9-1792065150000",
       "title": "Inflation énergétique : quand le baril de pétrole dicte l’érosion du pouvoir d’achat en Europe",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6265,7 +6291,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1792053536000",
+      "id": "lenergeek-rss-10-1792053536000",
       "title": "Duralex mise sur l’électrification totale pour sa survie énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6291,7 +6317,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1792051519000",
+      "id": "lenergeek-rss-11-1792051519000",
       "title": "Diesel : marges de raffinage atteignent 95 $/bl, une crise technique en vue",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6315,7 +6341,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1792043446000",
+      "id": "lenergeek-rss-12-1792043446000",
       "title": "« C’est ce que vous avez laissé dans le réservoir » : un réparateur de tondeuses montre l’erreur que 8 propriétaires sur 10 font après l’hiver",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6339,7 +6365,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1792041602000",
+      "id": "lenergeek-rss-13-1792041602000",
       "title": "Aide carburant : 1,6 million de Français vont recevoir 100 euros le 16 octobre sans rien demander, et beaucoup ne savent pas encore qu’ils sont éligibles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7881,7 +7907,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1791984804000",
+      "id": "lenergeek-rss-14-1791984804000",
       "title": "Renault Group : 25% de production électrique en plus, quels besoins énergétiques ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7906,7 +7932,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1791982927000",
+      "id": "lenergeek-rss-15-1791982927000",
       "title": "L’IA et le climat : défis pour la transition énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7932,7 +7958,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1791980192000",
+      "id": "lenergeek-rss-16-1791980192000",
       "title": "Eramet sauvé par l’État : la France sécurise son accès aux métaux critiques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7956,7 +7982,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1791967097000",
+      "id": "lenergeek-rss-17-1791967097000",
       "title": "Houthis et crise énergétique : impact sur l’Europe",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7981,7 +8007,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1791964642000",
+      "id": "lenergeek-rss-18-1791964642000",
       "title": "Guerre en Ukraine : une centrale thermique de Kiev touchée, reflet d’une stratégie russe",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8005,7 +8031,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1791957863000",
+      "id": "lenergeek-rss-19-1791957863000",
       "title": "Le prix du gaz européen de retour au pic de 2022",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8030,7 +8056,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1791957007000",
+      "id": "lenergeek-rss-20-1791957007000",
       "title": "Les New-Yorkais ont littéralement alourdi leur sol jusqu’à 600 mm en construisant sur des argiles et remblais",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8054,7 +8080,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1791955500000",
+      "id": "lenergeek-rss-21-1791955500000",
       "title": "Les hydrocarbures russes coulent toujours vers l’Europe",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8078,7 +8104,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1791955240000",
+      "id": "lenergeek-rss-22-1791955240000",
       "title": "Danemark, des robots humanoïdes remplacent les employés pour remplir les rayons des supermarchés",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -9034,7 +9060,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1791917217000",
+      "id": "lenergeek-rss-23-1791917217000",
       "title": "Efficacité énergétique des bâtiments : les chiffres qui décident de la trajectoire française",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -9056,32 +9082,6 @@
         "Rénovation"
       ],
       "summary": "Le bâtiment est le premier consommateur d'énergie finale de France et l'un de ses premiers émetteurs. C'est aussi le secteur où l'écart entre le potentiel d'économies identifié et les économies réellement réalisées est le plus large. Derrière le mot « rénovation », il y a en réal…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1791881880000",
-      "title": "La France réduit sa pollution… mais pas assez vite pour 2030",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/13/les-emissions-de-gaz-a-effet-de-serre-francaises-en-nette-diminution/",
-      "image": "https://lenergeek.com/wp-content/uploads/2022/07/cour-supreme-retirer-epa-autorite-fixer-niveau-emissions-ges-LEnergeek.jpg",
-      "date": "2026-10-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "Le Citepa prévoit une baisse de 2,8 % des émissions de gaz à effet de serre en France en 2026, portée principalement par les secteurs des transports et du bâtiment. Malgré cette réduction, le rythme reste insuffisant pour atteindre les objectifs climatiques fixés à l'horizon 2030…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16599,7 +16599,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -17931,6 +17931,28 @@
       "summary": "WEBINAIRE JNQA 2026 pierre.bonnet@… lun 07/09/2026 - 16:07 À l’occasion de la Journée nationale de la qualité de l’air, l’Observatoire de la qualité des environnements intérieurs (OQEI), copiloté par l’Anses et le CSTB, vous invite à un webinaire autour d’un enjeu majeur : Commen…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "cite-de-l-architecture-et-du-patrimoine-sitemap-190-1788787260000",
+      "title": "ressources pedagogiques",
+      "source": "Cité de l’architecture et du patrimoine",
+      "sourceId": "cite-de-l-architecture-et-du-patrimoine",
+      "sourceType": "Institution culturelle",
+      "region": "National",
+      "url": "https://www.citedelarchitecture.fr/fr/article/ressources-pedagogiques",
+      "image": null,
+      "date": "2026-09-07",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Architecture",
+        "Patrimoine"
+      ],
+      "summary": "Publication détectée dans le sitemap de Cité de l’architecture et du patrimoine. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1788739200000",
@@ -20253,7 +20275,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -20327,7 +20349,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -20371,7 +20393,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ekopolis-sitemap-35-1785314239000",
+      "id": "ekopolis-sitemap-36-1785314239000",
       "title": "societe resiliente transition ecologique et cohesion sociale etudes de quelques",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -20394,7 +20416,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-75-1785313782000",
+      "id": "ekopolis-sitemap-76-1785313782000",
       "title": "guide amenagement et construction durable de lenseignement superieur de la recherche et",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -20418,7 +20440,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-94-1785314102000",
+      "id": "ekopolis-sitemap-95-1785314102000",
       "title": "les opportunites de developpement de leconomie sociale et solidaire dans la filiere du",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -20441,7 +20463,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-157-1785313963000",
+      "id": "ekopolis-sitemap-158-1785313963000",
       "title": "presentation programme sante ville amenagement durable",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -20464,7 +20486,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-252-1785316581000",
+      "id": "ekopolis-sitemap-253-1785316581000",
       "title": "guide construire sain ed 2013",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -20487,7 +20509,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-383-1785316517000",
+      "id": "ekopolis-sitemap-384-1785316517000",
       "title": "la biodiversite publications du ministere",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -20510,7 +20532,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-387-1785313612000",
+      "id": "ekopolis-sitemap-388-1785313612000",
       "title": "label ever espaces verts ecologiques pour la gestion ecologique des espaces verts",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -20533,7 +20555,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-400-1785316763000",
+      "id": "ekopolis-sitemap-401-1785316763000",
       "title": "de la nature en ville mais quelle idee",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -20686,7 +20708,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
