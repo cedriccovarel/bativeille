@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T17:50:15.235Z",
+  "generatedAt": "2026-10-17T22:04:50.321Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2162,7 +2162,7 @@
   "articles": [
     {
       "id": "reporterre-rss-0-1792257634000",
-      "title": "Prix de l'essence, manque de profs et forêts en feu : le 17 octobre, les Gilets jaunes et la jeunesse ont convergé",
+      "title": "Prix de l'essence, manque de profs et forêts en feu : le 17 octobre, les colères ont convergé",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2182,7 +2182,7 @@
         "Réglementation",
         "Confort d’été"
       ],
-      "summary": "500 000 manifestants ont manifesté dans les rues en France, selon la CGT, lors de la journée de mobilisation sociale du 17 octobre. Ils dénonçaient la vie chère, mais réclamaient aussi la « justice climatique », des moyens pour l'éducation nationale... RER. Elle a bel et bien été…",
+      "summary": "800 000 manifestants ont manifesté dans les rues en France, selon la CGT, lors de la journée de mobilisation sociale du 17 octobre. Ils dénonçaient la vie chère, mais réclamaient aussi la « justice climatique », des moyens pour l'éducation nationale... RER. Elle a bel et bien été…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -2513,7 +2513,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1792259394000",
+      "id": "le-commerce-du-bois-sitemap-0-1792274675000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2539,7 +2539,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1792259394000",
+      "id": "le-commerce-du-bois-sitemap-1-1792274675000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2565,7 +2565,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1792259394000",
+      "id": "le-commerce-du-bois-sitemap-2-1792274675000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2617,7 +2617,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1792247639000",
+      "id": "le-journal-du-grand-paris-rss-1-1792249302000",
+      "title": "La Porte Pouchet, exemple d’un urbanisme volontariste et créatif",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/la-porte-pouchet-exemple-dun-urbanisme-volontariste-et-creatif/",
+      "image": null,
+      "date": "2026-10-17",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau"
+      ],
+      "summary": "Plus de vingt ans après le lancement de la ZAC qui porte son nom, la Porte Pouchet s'est transformée, passant d’un espace servant, entièrement minéral, dédié aux seuls services techniques de la Ville et aux pompiers de Paris, à un nouveau quartier verdi et apaisé. Cette métamorph…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-2-1792247639000",
       "title": "Grand-Orly Seine Bièvre adopte un vœu contre le projet Thermo-sur-Seine à Vitry",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2642,7 +2667,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1792246104000",
+      "id": "le-journal-du-grand-paris-rss-3-1792246104000",
       "title": "Les Hauts-de-Seine pourraient perdre 76 millions d’euros de recettes en 2027",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4605,7 +4630,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1792149996000",
+      "id": "le-journal-du-grand-paris-rss-4-1792149996000",
       "title": "Les marchés du Grand Paris – La Canopée des Halles va se couvrir de panneaux solaires sur mesure",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6693,7 +6718,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1792095062000",
+      "id": "le-journal-du-grand-paris-rss-5-1792095062000",
       "title": "L’essentiel de la semaine du 12 octobre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6717,7 +6742,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1792070269000",
+      "id": "le-journal-du-grand-paris-rss-6-1792070269000",
       "title": "Pour sauver ses commerces, l’artisanat parisien mise sur un fonds d’investissement",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6742,7 +6767,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1792068211000",
+      "id": "le-journal-du-grand-paris-rss-7-1792068211000",
       "title": "Camille Tubiana pressentie pour prendre la direction générale de l’Anru",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6766,7 +6791,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1792068199000",
+      "id": "le-journal-du-grand-paris-rss-8-1792068199000",
       "title": "Le nouveau plan vélo de Paris concentre ses efforts sur la sécurité des carrefours",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6791,7 +6816,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1792058612000",
+      "id": "le-journal-du-grand-paris-rss-9-1792058612000",
       "title": "Encadrement des loyers : ce que révèle la Cour des comptes sur le laboratoire parisien et francilien",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8403,32 +8428,6 @@
         "ENR"
       ],
       "summary": "La Russie affirme avoir vendu pour 320 milliards de dollars d'hydrocarbures à l'Union européenne depuis 2022, un chiffre contesté par Bruxelles qui l'évalue à 197 milliards d'euros. L’article Les hydrocarbures russes coulent toujours vers l’Europe est apparu en premier sur L'Ener…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1791993065000",
-      "title": "Réemploi et sobriété dans le bâtiment : l’Ademe présente le bilan de l’AMI Bati-sobre",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/reemploi-et-sobriete-dans-le-batiment-lademe-presente-le-bilan-de-lami-bati-sobre/",
-      "image": null,
-      "date": "2026-10-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Mardi 13 octobre, l'Ademe Île-de-France et l'Ademe Paca ont présenté le bilan de l'appel à manifestation d'intérêt Bati-sobre, lancé il y a trois ans et visant à améliorer la sobriété matière et le réemploi dans le secteur de la construction. Mardi 13 octobre, l'Ademe Île-de-Fran…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16623,7 +16622,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -17955,6 +17954,28 @@
       "summary": "WEBINAIRE JNQA 2026 pierre.bonnet@… lun 07/09/2026 - 16:07 À l’occasion de la Journée nationale de la qualité de l’air, l’Observatoire de la qualité des environnements intérieurs (OQEI), copiloté par l’Anses et le CSTB, vous invite à un webinaire autour d’un enjeu majeur : Commen…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "cite-de-l-architecture-et-du-patrimoine-sitemap-190-1788787260000",
+      "title": "ressources pedagogiques",
+      "source": "Cité de l’architecture et du patrimoine",
+      "sourceId": "cite-de-l-architecture-et-du-patrimoine",
+      "sourceType": "Institution culturelle",
+      "region": "National",
+      "url": "https://www.citedelarchitecture.fr/fr/article/ressources-pedagogiques",
+      "image": null,
+      "date": "2026-09-07",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Architecture",
+        "Patrimoine"
+      ],
+      "summary": "Publication détectée dans le sitemap de Cité de l’architecture et du patrimoine. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1788739200000",
@@ -20252,7 +20273,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -20326,7 +20347,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -20685,7 +20706,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
