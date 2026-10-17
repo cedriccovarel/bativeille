@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T22:41:55.971Z",
+  "generatedAt": "2026-10-17T03:39:56.714Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,109 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1792206600000",
+      "title": "RoboParty annonce RP1, plateforme humanoïde open source",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/roboparty-annonce-rp1-plateforme-humanoide-open-source/197358-2026-10",
+      "image": null,
+      "date": "2026-10-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Hier, à Shanghai, RoboParty a présenté RP1 (ROBOTO 01), une plateforme humanoïde open source combinant matériel et logiciels pour la recherche en robotique et l’IA incarnée, afin de permettre aux chercheurs d’examiner et de modifier les systèmes. RoboParty estime que « l’IA incar…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1792208382000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1792208382000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1792208382000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "observatoire-de-l-immobilier-durable-oid-rss-0-1792151948000",
       "title": "Audit énergétique & système de management de l’énergie (SMÉ) : comment se conformer aux nouvelles exigences ?",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -3775,7 +3878,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792188600000",
+      "id": "enerzine-rss-1-1792188600000",
       "title": "Vertical Aerospace signe deux accords de fourniture pour son eVTOL Valo",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3801,7 +3904,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792170420000",
+      "id": "enerzine-rss-2-1792170420000",
       "title": "Hausse des tarifs réglementés : comment les particuliers peuvent anticiper avec lesfurets",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3826,7 +3929,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792168500000",
+      "id": "enerzine-rss-3-1792168500000",
       "title": "XPENG présente le G9L à Paris, un grand SUV électrique haut de gamme destiné à l’Europe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3851,7 +3954,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792159800000",
+      "id": "enerzine-rss-4-1792159800000",
       "title": "Ce microrobot chinois tire du courant du métal sous ses pieds, mais jusqu’où ira-t-il ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3876,7 +3979,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792145220000",
+      "id": "enerzine-rss-5-1792145220000",
       "title": "Hotomatic : des poêles à granulés italiens alliant technologie et vente directe d’usine",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3902,7 +4005,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792140300000",
+      "id": "enerzine-rss-6-1792140300000",
       "title": "Découvert bancaire : les règles se resserrent le 20 novembre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3926,7 +4029,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792139100000",
+      "id": "enerzine-rss-7-1792139100000",
       "title": "Tesla Roadster, l’envol spectaculaire qui devra attendre 2028 pour se poser",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3951,7 +4054,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792128600000",
+      "id": "enerzine-rss-8-1792128600000",
       "title": "Pourquoi le cadeau de fin d’année d’une équipe de maintenance doit servir sur le terrain",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3976,7 +4079,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1792127400000",
+      "id": "enerzine-rss-9-1792127400000",
       "title": "Un nouveau piège à ions monolithique développé pour des simulations quantiques accessibles",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3998,31 +4101,6 @@
         "Eau"
       ],
       "summary": "Certains systèmes quantiques sont si complexes que même les superordinateurs les plus puissants peinent à simuler leur comportement. Une solution est la simulation quantique : construire en laboratoire un système quantique contrôlable et l’ajuster pour imiter celui que les cherch…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1792123800000",
-      "title": "Des lunettes alimentées par les clignements d’yeux pourraient garder un œil sur la santé",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-lunettes-alimentees-par-les-clignements-dyeux-pourraient-garder-un-oeil-sur-la-sante/197256-2026-10",
-      "image": null,
-      "date": "2026-10-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Des clignements d’yeux et des sourires aux serrements de mâchoire et haussements de sourcils, les visages sont constamment en mouvement — et génèrent au passage de petites quantités d’énergie. Désormais, des ingénieurs de l’Université Northwestern mettent cette énergie au travail…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4222,84 +4300,6 @@
       "summary": "9,3 millions de foyers reçoivent leurs nouveaux horaires d'heures creuses. Nuit, après-midi ensoleillé, saisons différentes : vos habitudes de consommation vont changer. Vérifiez vite votre facture pour ne pas payer plein tarif sans le savoir. L’article Heures pleines, heures cre…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1792190504000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1792190504000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1792190504000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1792149996000",
@@ -16133,7 +16133,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-92-1789603200000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-78-1789603200000",
       "title": "gouvernement frederic carre rencontre vincent jeanbrun",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -18681,7 +18681,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-339-1788220800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-319-1788220800000",
       "title": "actu simple 31",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -22674,7 +22674,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
