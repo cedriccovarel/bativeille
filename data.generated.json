@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T09:06:37.613Z",
+  "generatedAt": "2026-10-17T13:33:19.357Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2162,7 +2162,7 @@
   "articles": [
     {
       "id": "reporterre-rss-0-1792215000000",
-      "title": "Comment nous sommes devenus accros au pétrole : « On a rendu normale, désirable son utilisation »",
+      "title": "Dépendance au pétrole : « On a rendu normale, désirable son utilisation »",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2187,7 +2187,7 @@
     },
     {
       "id": "reporterre-rss-1-1792215000000",
-      "title": "Infirmière, charpentier, apiculteur : comment ils font face à la flambée des prix du carburant",
+      "title": "Faire face à la flambée des prix du carburant : infirmière, charpentier et apiculteur racontent",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2286,7 +2286,58 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792227000000",
+      "id": "enerzine-rss-0-1792230300000",
+      "title": "Tarif heures creuses EDF, la bascule qui va décaler vos machines à laver",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/heures-creuses-edf-nouveaux-horaires/197428-2026-10",
+      "image": null,
+      "date": "2026-10-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Quelque 9,3 millions de foyers sont concernés par la deuxième vague de modification des heures creuses. Depuis le 13 octobre, EDF envoie les avis annonçant les nouveaux créneaux. Derrière ces courriers et ces e-mails, une refonte des plages tarifaires va obliger les ménages conce…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1792228500000",
+      "title": "Avec l’iPhone Duo pliable, Apple ouvre un nouveau chapitre avec un format inédit",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/iphone-duo-pliable-ecrans-precommandes-sortie/197420-2026-10",
+      "image": null,
+      "date": "2026-10-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Les précommandes du premier iPhone pliable d’Apple ont démarré officiellement hier, à 14 h. L’appareil conjugue un écran intérieur de 7,6 pouces et une commercialisation en deux temps, avec une première disponibilité le 23 octobre, puis une seconde vague le 30 octobre. 📌 L’essen…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1792227000000",
       "title": "Rappel national : une marque de café contaminé par une toxine potentiellement cancérigène",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2310,7 +2361,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792210200000",
+      "id": "enerzine-rss-3-1792210200000",
       "title": "La satisfaction des conducteurs électriques européens, argument de VinFast",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2334,7 +2385,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792206600000",
+      "id": "enerzine-rss-4-1792206600000",
       "title": "RoboParty annonce RP1, plateforme humanoïde open source",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2359,7 +2410,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1792214450000",
+      "id": "lenergeek-rss-0-1792234800000",
+      "title": "Électrification 2027 : le réseau français face à la sortie du fossile",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/17/electrification-2027-reseau-capacite/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/plan-electrification.jpg",
+      "date": "2026-10-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Le gouvernement déploie à partir du 1er janvier 2027 la deuxième phase de son plan d'électrification, visant à réduire la part des énergies fossiles de 60% à 40% en cinq ans. Sortie totale du fioul, déconnexion du gaz dans 109 territoires, 20 000 utilitaires électriques et simpli…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1792214450000",
       "title": "« On nous avait promis du gratuit » : ces particuliers découvrent qu’ils doivent rembourser jusqu’à 40 000€ de crédits qu’ils pensaient offerts",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2384,7 +2461,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1792227983000",
+      "id": "le-commerce-du-bois-sitemap-0-1792243978000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2410,7 +2487,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1792227983000",
+      "id": "le-commerce-du-bois-sitemap-1-1792243978000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2436,7 +2513,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1792227983000",
+      "id": "le-commerce-du-bois-sitemap-2-1792243978000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4076,7 +4153,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792188600000",
+      "id": "enerzine-rss-5-1792188600000",
       "title": "Vertical Aerospace signe deux accords de fourniture pour son eVTOL Valo",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4102,7 +4179,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792170420000",
+      "id": "enerzine-rss-6-1792170420000",
       "title": "Hausse des tarifs réglementés : comment les particuliers peuvent anticiper avec lesfurets",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4127,7 +4204,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792168500000",
+      "id": "enerzine-rss-7-1792168500000",
       "title": "XPENG présente le G9L à Paris, un grand SUV électrique haut de gamme destiné à l’Europe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4152,7 +4229,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792159800000",
+      "id": "enerzine-rss-8-1792159800000",
       "title": "Ce microrobot chinois tire du courant du métal sous ses pieds, mais jusqu’où ira-t-il ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4177,7 +4254,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792145220000",
+      "id": "enerzine-rss-9-1792145220000",
       "title": "Hotomatic : des poêles à granulés italiens alliant technologie et vente directe d’usine",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4203,56 +4280,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1792140300000",
-      "title": "Découvert bancaire : les règles se resserrent le 20 novembre",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/decouvert-bancaire-durcissement-novembre-2026/197349-2026-10",
-      "image": null,
-      "date": "2026-10-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Le découvert autorisé ne disparaît pas, mais son attribution sera davantage encadrée. À partir du 20 novembre 2026, les banques devront évaluer la solvabilité de leurs clients avant d’accorder une nouvelle autorisation, même pour un petit montant ou une courte durée. Les accords …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1792139100000",
-      "title": "Tesla Roadster, l’envol spectaculaire qui devra attendre 2028 pour se poser",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/tesla-roadster-vol-2028/197334-2026-10",
-      "image": null,
-      "date": "2026-10-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Il lui aura fallu moins d’une seconde (0,81 s) pour passer de 0 à 60 mph (96,5 km/h). Lors de sa démonstration, jeudi au Texas, le nouveau Tesla Roadster a non seulement poussé une pointe de vitesse extrêmement rapidement, mais il a également réalisé un envol pour le moins specta…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-1-1792173671000",
+      "id": "lenergeek-rss-2-1792173671000",
       "title": "TotalEnergies : raffinage à plein régime face aux pénuries mondiales",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4276,7 +4304,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1792160375000",
+      "id": "lenergeek-rss-3-1792160375000",
       "title": "Groupes froids hospitaliers : les remplacer sans interrompre le service",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4300,7 +4328,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1792148340000",
+      "id": "lenergeek-rss-4-1792148340000",
       "title": "Peintures réfléchissantes : jusqu’où peuvent-elles réduire la température des logements ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4325,7 +4353,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1792140380000",
+      "id": "lenergeek-rss-5-1792140380000",
       "title": "Tesla présente le Roadster 2026 équipé de propulseurs SpaceX",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4349,7 +4377,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1792131654000",
+      "id": "lenergeek-rss-6-1792131654000",
       "title": "« Je ne pensais pas réduire autant » : ce réglage peu connu du chauffe-eau va transformer vos factures dès 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4374,7 +4402,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1792129812000",
+      "id": "lenergeek-rss-7-1792129812000",
       "title": "« On m’a pris pour un fou » : ce père de famille congèle des sacs d’eau chaque octobre, et cet expert confirme qu’il a raison",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4399,7 +4427,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1792128960000",
+      "id": "lenergeek-rss-8-1792128960000",
       "title": "Prix du kérosène : les aéroports parisiens perdent 400 000 passagers en 9 mois",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4423,7 +4451,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1792128015000",
+      "id": "lenergeek-rss-9-1792128015000",
       "title": "Heures pleines, heures creuses : EDF informe ses clients des nouveaux horaires",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5506,31 +5534,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-grand-est-lqe-rss-0-1792068587000",
-      "title": "Interview – Aménagement d’un cœur de village à Muttersholtz (67)",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualite/interview-amenagement-dun-coeur-de-village-a-muttersholtz-67/",
-      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Finterview-amenagement-dun-coeur-de-village-a-muttersholtz-67%2F&action_name=Interview%20%26%238211%3B%20Am%C3%A9nagement%20d%26rsquo%3Bun%20c%C5%93ur%20de%20village%20%C3%A0%20Muttersholtz%20%2867%29&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
-      "date": "2026-10-15",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale",
-        "RE2020",
-        "Confort d’été"
-      ],
-      "summary": "Découvrez l’interview de Aline Toussaint, qui a fait partie de l’équipe de maitrise d’œuvre : Ici et là (architecte urbaniste mandataire), Digitale Paysage (paysagiste conceptrice) et Studiolada (architecte) pour le projet […] L'article Interview – Aménagement d’un cœur de villag…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "aguram-metz-rss-1-1792075528000",
       "title": "Guide géomatique de pré-identification des friches / Ademe et agences d’urbanisme",
       "source": "AGURAM Metz",
@@ -5753,32 +5756,6 @@
         "Réglementation"
       ],
       "summary": "L'intelligence artificielle a déjà un impact sur les métiers de la RSE et de la durabilité - Photo de Markus Spiskesur Unsplash Depuis trois ans à peine, l’IA a fait irruption dans les entreprises, et les métiers de la durabilité n’y échappent pas. Selon un baromètre sur l'IA et …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-0-1792047600000",
-      "title": "Justice sociale : Mathilde Boulay exhorte les candidats à la présidentielle à commencer par l’école",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/justice-sociale-mathilde-boulay-exhorte-les-candidats-a-la-presidentielle-a-commencer-par-lecole/",
-      "image": null,
-      "date": "2026-10-15",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "Chevalière de l’ordre national du mérite, Mathilde Boulay a mis deux ans à accepter sa médaille. Dans son ouvrage « Nous méritons mieux » (Calmann-Lévy), la déléguée générale de L’Ascenseur, collectif de plus de 100 associations engagées pour l’égalité des chances, raconte son pa…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6388,7 +6365,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1792067098000",
+      "id": "lenergeek-rss-10-1792067098000",
       "title": "Logement et canicule : les failles météorologiques du DPE",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6414,7 +6391,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1792065150000",
+      "id": "lenergeek-rss-11-1792065150000",
       "title": "Inflation énergétique : quand le baril de pétrole dicte l’érosion du pouvoir d’achat en Europe",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6438,7 +6415,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1792053536000",
+      "id": "lenergeek-rss-12-1792053536000",
       "title": "Duralex mise sur l’électrification totale pour sa survie énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6464,7 +6441,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1792051519000",
+      "id": "lenergeek-rss-13-1792051519000",
       "title": "Diesel : marges de raffinage atteignent 95 $/bl, une crise technique en vue",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6488,7 +6465,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1792043446000",
+      "id": "lenergeek-rss-14-1792043446000",
       "title": "« C’est ce que vous avez laissé dans le réservoir » : un réparateur de tondeuses montre l’erreur que 8 propriétaires sur 10 font après l’hiver",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6512,7 +6489,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1792041602000",
+      "id": "lenergeek-rss-15-1792041602000",
       "title": "Aide carburant : 1,6 million de Français vont recevoir 100 euros le 16 octobre sans rien demander, et beaucoup ne savent pas encore qu’ils sont éligibles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7702,30 +7679,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-1-1791961200000",
-      "title": "Mouvement associatif : Claire Thoury passe le relais, Tarek Daher mise sur les alliances",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/mouvement-associatif-claire-thoury-passe-le-relais-tarek-daher-mise-sur-les-alliances/",
-      "image": null,
-      "date": "2026-10-14",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "C’est fait, le Mouvement associatif a changé de président. Lors de la soirée de rentrée politique du mouvement, jeudi 8 octobre, Claire Thoury, devenue présidente du Conseil économique, social et environnemental (CESE), a passé le relais à Tarek Daher, délégué général d’Emmaüs Fr…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-25-1791990970000",
       "title": "En Guadeloupe, les lycéens dénoncent des classes surchauffées et les coupures d'eau",
       "source": "Reporterre",
@@ -8054,7 +8007,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1791984804000",
+      "id": "lenergeek-rss-16-1791984804000",
       "title": "Renault Group : 25% de production électrique en plus, quels besoins énergétiques ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8079,7 +8032,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1791982927000",
+      "id": "lenergeek-rss-17-1791982927000",
       "title": "L’IA et le climat : défis pour la transition énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8105,7 +8058,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1791980192000",
+      "id": "lenergeek-rss-18-1791980192000",
       "title": "Eramet sauvé par l’État : la France sécurise son accès aux métaux critiques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8129,7 +8082,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1791967097000",
+      "id": "lenergeek-rss-19-1791967097000",
       "title": "Houthis et crise énergétique : impact sur l’Europe",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8154,7 +8107,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1791964642000",
+      "id": "lenergeek-rss-20-1791964642000",
       "title": "Guerre en Ukraine : une centrale thermique de Kiev touchée, reflet d’une stratégie russe",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8178,7 +8131,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1791957863000",
+      "id": "lenergeek-rss-21-1791957863000",
       "title": "Le prix du gaz européen de retour au pic de 2022",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8203,7 +8156,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1791957007000",
+      "id": "lenergeek-rss-22-1791957007000",
       "title": "Les New-Yorkais ont littéralement alourdi leur sol jusqu’à 600 mm en construisant sur des argiles et remblais",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8227,7 +8180,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1791955500000",
+      "id": "lenergeek-rss-23-1791955500000",
       "title": "Les hydrocarbures russes coulent toujours vers l’Europe",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8247,32 +8200,6 @@
         "ENR"
       ],
       "summary": "La Russie affirme avoir vendu pour 320 milliards de dollars d'hydrocarbures à l'Union européenne depuis 2022, un chiffre contesté par Bruxelles qui l'évalue à 197 milliards d'euros. L’article Les hydrocarbures russes coulent toujours vers l’Europe est apparu en premier sur L'Ener…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1791955240000",
-      "title": "Danemark, des robots humanoïdes remplacent les employés pour remplir les rayons des supermarchés",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/14/danemark-des-robots-humanoides-remplacent-les-employes-pour-remplir-les-rayons-des-supermarches/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/Danemark-des-robots-humanoides-remplacent-les-employes-pour-remplir-les-rayons-des-supermarches.webp",
-      "date": "2026-10-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Des robots humanoïdes garnissent déjà les rayons d'un supermarché danois, télécommandés pour l'instant. L'autonomie totale est espérée pour 2027, avec un déploiement possible dans plus de 2 000 magasins européens. L’article Danemark, des robots humanoïdes remplacent les employés …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8666,25 +8593,26 @@
     },
     {
       "id": "batiweb-rss-19-1791932700000",
-      "title": "ARCHITECT@WORK Paris - La Villette : 19ème édition, 21 et 22 octobre 2026",
+      "title": "ROMLUX : quatre nouveaux projecteurs pour les professionnels du chantier",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/architect-at-work-paris-la-villette-2026-49387",
-      "image": "https://img.batiweb.com/repo-images/publi/49387/architectatwork-1015-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/romlux-nouveaux-projecteurs-professionnels-chantier-49415",
+      "image": "https://img.batiweb.com/repo-images/publi/49415/romus-10-15-une.png",
       "date": "2026-10-13",
       "access": "open",
       "official": false,
       "highImpact": false,
-      "impactScore": 80,
+      "impactScore": 88,
       "tags": [
         "Construction",
         "Produits",
         "Marché",
-        "Eau"
+        "Eau",
+        "Bâtiment"
       ],
-      "summary": "ARCHITECT@WORK Paris 2026 : rendez-vous les 21 et 22 octobre à La Villette pour découvrir plus de 800 nouveaux produits dédiés aux architectes. ARCHITECT@WORK Paris 2026 : rendez-vous les 21 et 22 octobre à La Villette pour découvrir plus de 800 nouveaux produits dédiés aux archi…",
+      "summary": "Romus développe la gamme ROMLUX autour de quatre nouveaux projecteurs, chacun conçu pour répondre aux différents besoins sur les chantiers. Romus développe la gamme ROMLUX autour de quatre nouveaux projecteurs, chacun conçu pour répondre aux différents besoins sur les chantiers. …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8877,30 +8805,6 @@
         "Bâtiment"
       ],
       "summary": "Novastruct confie à Cyril Erout la Direction Business Développement France. Fort de près de trente ans d'expérience dans l'aluminium et les produits techniques du bâtiment, il est rattaché à Nico Klomp, CEO Europe, et forme avec Lionel Javon, Directeur des... L’article Cyril Erou…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-2-1791873900000",
-      "title": "Une jeunesse qui découvre l’État par sa force armée",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/une-jeunesse-qui-decouvre-letat-par-sa-force-armee/",
-      "image": null,
-      "date": "2026-10-13",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "« J’ai tellement hâte de voir le blocus » ! Sur le chemin du lycée, trois filles rigolent ce lundi matin. Il y a dans l’air un petit parfum de transgression. Allez viens, on s’encanaille. On va montrer qu’on existe. Et surtout, qu’on a des choses à dire ! La génération d’avant n’…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10796,31 +10700,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-3-1791532282000",
-      "title": "Solidarités et santé : le secteur non lucratif lance la mobilisation nationale",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/solidarites-et-sante-le-secteur-non-lucratif-lance-la-mobilisation-nationale/",
-      "image": null,
-      "date": "2026-10-09",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Confort d’été"
-      ],
-      "summary": "Plus de cinquante organisations, associations, employeurs et une organisation syndicale, lancent du 12 au 17 octobre la mobilisation « Et si nous arrêtions vraiment ? ». Leur constat : à force d’encaisser les baisses de financement, le secteur a déjà commencé à fermer des service…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "reporterre-rss-54-1791563884000",
       "title": "« On ne veut pas devenir les pions de Total » : des étudiants bloquent leur campus pour dénoncer le partenariat avec la multinationale",
       "source": "Reporterre",
@@ -11369,32 +11248,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-4-1791442800000",
-      "title": "Les MJC vont mieux : le déficit recule… mais l’accueil inconditionnel aussi",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/les-mjc-vont-mieux-le-deficit-recule-mais-laccueil-inconditionnel-aussi/",
-      "image": null,
-      "date": "2026-10-08",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Selon le second Observatoire du réseau des Maisons des Jeunes et de la Culture, 38 % des MJC sont encore en déficit contre 53 % en 2022. Mais l’amélioration vient surtout de la hausse des tarifs et de la réduction des activités, au détriment du public et au moment où les question…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "hellio-actualites-rss-3-1791444997000",
       "title": "RSE : le groupe Hellio récompensé par EcoVadis | Hellio",
       "source": "Hellio Actualités",
@@ -11660,31 +11513,6 @@
         "Eau"
       ],
       "summary": "Dans un secteur où les délais se resserrent et où la disponibilité de la main-d’œuvre qualifiée devient un enjeu majeur, les professionnels de l’électricité recherchent des solutions capables d’accélérer l’installation tout en garantissant un haut niveau de fiabilité. Avec son sy…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-5-1791356460000",
-      "title": "75 % des Français souhaitent que les associations soient mieux associées aux décisions politiques",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/75-des-francais-souhaitent-que-les-associations-soient-mieux-associees-aux-decisions-politiques/",
-      "image": null,
-      "date": "2026-10-07",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation"
-      ],
-      "summary": "Une étude de Destin Commun montre que 83 % des Français jugent les associations efficaces et que 75 % veulent les voir davantage associées aux décisions publiques. Mais ces « maillons démocratiques » sont clairement perçus comme fragilisés, d’abord par leurs difficultés de financ…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11960,30 +11788,6 @@
         "Bâtiment"
       ],
       "summary": "Retour sur le chantier de rénovation des bureaux de l'Agence Marion Vandaele mar, 6 Oct 2026 - 09:22 Retour sur le chantier de rénovation des bureaux de l'Agence Marion Vandaele mar, 6 Oct 2026 - 09:22 Retour sur le chantier de rénovation des bureaux de l'Agence",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-6-1791283191000",
-      "title": "La Nef s’installe à Paris : la banque éthique change d’échelle",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/la-nef-sinstalle-a-paris-la-banque-ethique-change-dechelle/",
-      "image": null,
-      "date": "2026-10-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale"
-      ],
-      "summary": "La Nef inaugure une « maison de la finance éthique » rue Biscornet, à Paris, à deux pas de Makesense. La Ville de Paris y voit l’amorce d’un « quartier ESS » bienvenu à l’heure où l’ESS est fragilisée. Indépendante depuis 2024, la banque éthique française prépare aussi son virage…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12355,31 +12159,6 @@
         "Protection solaire"
       ],
       "summary": "La cession de Lapeyre se précise. Le fonds allemand Mutares a annoncé, le 5 octobre dernier, avoir reçu “une offre irrévocable” d’un groupe d’entrepreneurs italiens pour prendre le contrôle du spécialiste français de l’aménagement de la maison. Au-delà du changement... L’article …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-7-1791183600000",
-      "title": "Qualité de vie au travail : le sens du travail ne suffit plus, même dans l’ESS",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/qualite-de-vie-au-travail-le-sens-du-travail-ne-suffit-plus-meme-dans-less/",
-      "image": null,
-      "date": "2026-10-05",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le chiffre est à première vue plutôt rassurant. Dans l’économie sociale et solidaire, les salariés attribuent en moyenne une note de 6,1 sur 10 à leur qualité de vie au travail. Peut mieux faire, mais pas trop mauvais quand même. Sauf que cette note recule légèrement : elle était…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12786,31 +12565,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "mediatico-rss-8-1790924400000",
-      "title": "Première mondiale pour le reconditionné numérique : RCube fait signer sa charte à Bercy",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/premiere-mondiale-pour-le-reconditionne-numerique-rcube-valide-sa-charte-a-bercy/",
-      "image": null,
-      "date": "2026-10-02",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Réglementation"
-      ],
-      "summary": "Fraude à la TVA sur le reconditionné, traçabilité des matériels, engagement responsable des plateformes de revente… Le secteur de la seconde main est en pleine ébullition, en particulier dans le secteur numérique. Mais les marketplaces, les distributeurs et les reconditionneurs v…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-16-1790929114000",
       "title": "Le pétrole saoudien a-t-il infiltré les rangs du GIEC ?",
       "source": "Révolution Énergétique",
@@ -12932,54 +12686,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-grand-est-lqe-rss-1-1790861537000",
-      "title": "On a fêté les 20 ans du Prix !",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualite/on-a-fete-les-20-ans-du-prix/",
-      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Fon-a-fete-les-20-ans-du-prix%2F&action_name=On%20a%20f%C3%AAt%C3%A9%20les%2020%20ans%20du%20Prix%20%21&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
-      "date": "2026-10-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale",
-        "Confort d’été"
-      ],
-      "summary": "Le 22 septembre dernier, nous avons eu le plaisir de réunir à la Ferme du Charmois à Vandœuvre-lès-Nancy celles et ceux qui, depuis 20 ans, font vivre le Prix Envirobat […] L'article On a fêté les 20 ans du Prix ! a été publié sur Envirobat Grand Est. Le 22 septembre dernier, nou…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-grand-est-lqe-rss-2-1790839593000",
-      "title": "AMI – Territoires pilotes – Urbanisme favorable à la santé – AMO spécialisée",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualite/ami-territoires-pilotes-urbanisme-favorable-a-la-sante-amo-specialisee/",
-      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Fami-territoires-pilotes-urbanisme-favorable-a-la-sante-amo-specialisee%2F&action_name=AMI%20%26%238211%3B%20Territoires%20pilotes%20%26%238211%3B%20Urbanisme%20favorable%20%C3%A0%20la%20sant%C3%A9%20%26%238211%3B%20AMO%20sp%C3%A9cialis%C3%A9e&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
-      "date": "2026-10-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale",
-        "Confort d’été"
-      ],
-      "summary": "Vous souhaitez intégrer les enjeux de santé dans vos projets d’aménagement, d’urbanisme ou de planification ? La région Grand est, en partenariat avec l’ARS et l’Union Européenne dans le cadre […] L'article AMI – Territoires pilotes – Urbanisme favorable à la santé – AMO spéciali…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "adeus-strasbourg-rss-5-1790845554000",
       "title": "Chargé.e d’étude confirmé.e Habitat-Énergie",
       "source": "ADEUS Strasbourg",
@@ -13026,31 +12732,6 @@
         "Protection solaire"
       ],
       "summary": "L’annonce vient d’être faite ce jeudi 1er octobre 2026 : dès le 1er janvier 2027, Pierret s’engagera aux côtés du rugby français dans son ensemble, en soutenant les équipes nationales masculines, féminines et jeunes, mais aussi en contribuant au développement... L’article Exclusi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "mediatico-rss-9-1790843400000",
-      "title": "Jeux d’Hiver : comment Alpes 2030 vise le changement d’échelle après Paris 2024",
-      "source": "Mediatico",
-      "sourceId": "mediatico",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://mediatico.fr/jeux-dhiver-comment-alpes-2030-vise-le-changement-dechelle-apres-paris-2024/",
-      "image": null,
-      "date": "2026-10-01",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "Transition écologique",
-        "Économie sociale",
-        "Économie du bâtiment"
-      ],
-      "summary": "Dans un peu plus de trois ans, la France accueillera les Jeux Olympiques et Paralympiques d’hiver Alpes 2030, largement inspirés de l’héritage de Paris 2024. En particulier, le partenariat entre le monde de l’entreprise et celui de l’économie sociale et solidaire sera reconduit, …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -14771,31 +14452,6 @@
         "Bâtiment"
       ],
       "summary": "Lancé à la suite d’une étude de l’ADEME publiée en 2023, le projet Breizh’Réno Partage vise à expérimenter l’Auto-Réhabilitation Accompagnée (ARA) à l’échelle nationale. Porté par Batylab, avec ABE Courtage et Maître Anne-Hélène Bochereau, il s’inscrit dans l’Appel À Expérimenter…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-grand-est-lqe-rss-3-1790237994000",
-      "title": "Interview – Construction du siège communautaire de Moselle et Madon à Neuves Maisons (54)",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualite/interview-construction-du-siege-communautaire-de-moselle-et-madon-a-neuves-maisons-54/",
-      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Finterview-construction-du-siege-communautaire-de-moselle-et-madon-a-neuves-maisons-54%2F&action_name=Interview%20%26%238211%3B%20Construction%20du%20si%C3%A8ge%20communautaire%20de%20Moselle%20et%20Madon%20%C3%A0%20Neuves%20Maisons%20%2854%29&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
-      "date": "2026-09-24",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "🏗️ Découvrez le projet de construction du siège communautaire de Moselle et Madon à Neuves-Maisons ! présenté par Benoît Sindt du Collectif Studiolada Un projet porté par la Communauté de […] L'article Interview – Construction du siège communautaire de Moselle et Madon à Neuves …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16954,31 +16610,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-grand-est-lqe-rss-4-1789394227000",
-      "title": "Replay – Présentation de l’outil OMEGE – 1er lot : menuiseries",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualite/replay-presentation-de-loutil-omege-1er-lot-menuiseries/",
-      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Freplay-presentation-de-loutil-omege-1er-lot-menuiseries%2F&action_name=Replay%20%26%238211%3B%20Pr%C3%A9sentation%20de%20l%26rsquo%3Boutil%20OMEGE%20%26%238211%3B%201er%20lot%20%3A%20menuiseries&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
-      "date": "2026-09-14",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "Redécouvrez la présentation du 1er lot d’OMEGE « menuiseries » et son application par des professionnels du bâtiment, qui a eu lieu en ligne le 10 septembre 2026. Une présentation par Pascal […] L'article Replay – Présentation de l’outil OMEGE – 1er lot : menuiseries a été publié…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "connaissance-des-energies-rss-18-1789344000000",
       "title": "Moins de climat, plus de stockage : les paradoxes apparents du boom américain des batteries",
       "source": "Connaissance des Énergies",
@@ -17951,28 +17582,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "cite-de-l-architecture-et-du-patrimoine-sitemap-190-1788787260000",
-      "title": "ressources pedagogiques",
-      "source": "Cité de l’architecture et du patrimoine",
-      "sourceId": "cite-de-l-architecture-et-du-patrimoine",
-      "sourceType": "Institution culturelle",
-      "region": "National",
-      "url": "https://www.citedelarchitecture.fr/fr/article/ressources-pedagogiques",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Architecture",
-        "Patrimoine"
-      ],
-      "summary": "Publication détectée dans le sitemap de Cité de l’architecture et du patrimoine. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1788739200000",
       "title": "400 ans de la marine nationale en region sud lhistoire secrit encore au large",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -18646,30 +18255,6 @@
         "Habitat"
       ],
       "summary": "Le 6 juillet 2026, une vingtaine de participants issus de collectivités et d’agences d’urbanisme de toute la France se sont réunis à Rennes pour un atelier d’échanges consacré à l’intégration de la biodiversité dans les politiques d’aménagement. Il était organisé à l’initiative d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-grand-est-lqe-rss-5-1788341836000",
-      "title": "Replay – Conférence Étalement urbain et biodiversité (25/11/2025)",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualite/replay-conference-etalement-urbain-et-biodiversite-25-11-2025/",
-      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Freplay-conference-etalement-urbain-et-biodiversite-25-11-2025%2F&action_name=Replay%20%26%238211%3B%20Conf%C3%A9rence%20%C3%89talement%20urbain%20et%20biodiversit%C3%A9%20%2825%2F11%2F2025%29&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
-      "date": "2026-09-02",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale",
-        "Confort d’été"
-      ],
-      "summary": "Dans le cadre de la remise des Prix Envirobat Grand Est qui s’est déroulée le 11 novembre 2025, organisée par Envirobat Grand Est, en partenariat avec les CAUE du Grand […] L'article Replay – Conférence Étalement urbain et biodiversité (25/11/2025) a été publié sur Envirobat Gran…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -19406,32 +18991,6 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "envirobat-grand-est-lqe-rss-6-1787580696000",
-      "title": "Zoom sur des opérations avec du réemploi",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualite/zoom-sur-des-operations-avec-du-reemploi/",
-      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Fzoom-sur-des-operations-avec-du-reemploi%2F&action_name=Zoom%20sur%20des%20op%C3%A9rations%20avec%20du%20r%C3%A9emploi&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
-      "date": "2026-08-24",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale",
-        "Réglementation",
-        "Confort d’été",
-        "Réemploi"
-      ],
-      "summary": "Découvrez les fiches descriptives de divers projets avec du réemploi, réalisées par Remise à l’occasion d’une exposition dans le cadre du Pacte Réemploi ! L'article Zoom sur des opérations avec du réemploi a été publié sur Envirobat Grand Est. Découvrez les fiches descriptives de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "inc-institut-national-de-la-consommation-rss-5-1787522400000",
       "title": "Travaux : les démarches à réaliser pour choisir un professionnel du bâtiment",
       "source": "INC — Institut National de la Consommation",
@@ -19977,32 +19536,6 @@
         "Eau"
       ],
       "summary": "Recensement 2023 (métropole de Lyon) : fiches détaillées par communes webmaster mar 04/08/2026 - 16:16 Les fiches du recensement dites « duo », nouveau millésime 2023 sont disponibles pour les communes de la métropole de Lyon. Elles couvrent les principales thématiques de la démo…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-grand-est-lqe-rss-7-1785853469000",
-      "title": "Auto-réhabilitation accompagnée (ARA) : où en est-on en 2026 ? | Webinaire du 26 mai 2026 disponible",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualite/auto-rehabilitation-accompagnee-ara-ou-en-est-on-en-2026-webinaire-du-26-mai-2026-disponible/",
-      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Fauto-rehabilitation-accompagnee-ara-ou-en-est-on-en-2026-webinaire-du-26-mai-2026-disponible%2F&action_name=Auto-r%C3%A9habilitation%20accompagn%C3%A9e%20%28ARA%29%20%3A%20o%C3%B9%20en%20est-on%20en%202026%20%3F%20%7C%20Webinaire%20du%2026%20mai%202026%20disponible&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
-      "date": "2026-08-04",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale",
-        "Réglementation",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Envirobat Grand Est et Envirobat Occitanie, centres de ressource du Réseau Bâtiment Durable, ont co-organisé un webinaire sur l’auto-réhabilitation accompagné : quelle posture adopter, le cadre réglementaire et les projets en […] L'article Auto-réhabilitation accompagnée (ARA) : …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -21034,56 +20567,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "envirobat-grand-est-lqe-rss-8-1784715602000",
-      "title": "Vous avez chaud ? Profitez des congés pour vous mettre à jour sur un sujet d’actualité : le confort d’été !",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualite/vous-avez-chaud-profitez-des-conges-pour-vous-mettre-a-jour-sur-un-sujet-dactualite-le-confort-dete/",
-      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Fvous-avez-chaud-profitez-des-conges-pour-vous-mettre-a-jour-sur-un-sujet-dactualite-le-confort-dete%2F&action_name=Vous%20avez%20chaud%20%3F%20Profitez%20des%20cong%C3%A9s%20pour%20vous%20mettre%20%C3%A0%20jour%20sur%20un%20sujet%20d%26rsquo%3Bactualit%C3%A9%20%3A%20le%20confort%20d%26rsquo%3B%C3%A9t%C3%A9%20%21&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
-      "date": "2026-07-22",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale",
-        "Confort d’été"
-      ],
-      "summary": "©️ Getty image Parcourez nos ressources dédiées pour améliorer (ou transformer) votre quotidien ⬇️ Les points de vue et avis exprimés dans ces documents n’engagent toutefois que leurs auteurs et […] L'article Vous avez chaud ? Profitez des congés pour vous mettre à jour sur un su…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-grand-est-lqe-rss-9-1784704304000",
-      "title": "Replay – Bâtiment circulaire : de la stratégie à la pratique (07/05/2026)",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualite/replay-batiment-circulaire-de-la-strategie-a-la-pratique-07-05-2026/",
-      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Freplay-batiment-circulaire-de-la-strategie-a-la-pratique-07-05-2026%2F&action_name=Replay%20%26%238211%3B%20B%C3%A2timent%20circulaire%20%3A%20de%20la%20strat%C3%A9gie%20%C3%A0%20la%20pratique%20%2807%2F05%2F2026%29&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
-      "date": "2026-07-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale",
-        "Réglementation",
-        "Confort d’été",
-        "Économie du bâtiment"
-      ],
-      "summary": "Dans le cadre du cycle d’événements franco-allemands sur l’économie circulaire dans le bâtiment, Envirobat Grand Est, l’Eurométropole de Strasbourg, Architekturschaufenster, Fairantwortung et Circular Black Forest ont organisé une journée de […] L'article Replay – Bâtiment circul…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "cerema-sitemap-834-1784623634000",
       "title": "juillet 2026 decouvrez nos dernieres publications",
       "source": "CEREMA",
@@ -21151,57 +20634,6 @@
         "Données"
       ],
       "summary": "Après un premier mandat de 3 ans à la présidence de l’ARB NA, marqué par la transformation de l’agence en établissement public et par la mise en œuvre d’une 1re feuille de route ambitieuse sur les enjeux de biodiversité et […] Après un premier mandat de 3 ans à la présidence de l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-grand-est-lqe-rss-10-1784641935000",
-      "title": "Interview – Aménagement d’un comble en open space à Mulhouse (68)",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualite/interview-amenagement-dun-comble-en-open-space-a-mulhouse-68/",
-      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Finterview-amenagement-dun-comble-en-open-space-a-mulhouse-68%2F&action_name=Interview%20%E2%80%93%20Am%C3%A9nagement%20d%E2%80%99un%20comble%20en%20open%20space%20%C3%A0%20Mulhouse%20%2868%29&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
-      "date": "2026-07-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "Découvrez l’interview de Jean-Baptiste Compin, maître d’œuvre et d’ouvrage du projet lauréat du Prix Envirobat Grand Est 2025 (catégorie Logement-Activité). Il y partage sa démarche et son engagement pour les […] L'article Interview – Aménagement d’un comble en open space à Mulho…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "envirobat-grand-est-lqe-rss-11-1784638080000",
-      "title": "Replay – Table-ronde du forum réemploi : 1 an du Pacte",
-      "source": "Envirobat Grand Est / LQE",
-      "sourceId": "envirobat-grand-est-lqe",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Grand Est",
-      "url": "https://www.envirobatgrandest.fr/actualite/replay-table-ronde-du-forum-reemploi-1-an-du-pacte/",
-      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Freplay-table-ronde-du-forum-reemploi-1-an-du-pacte%2F&action_name=Replay%20%26%238211%3B%20Table-ronde%20du%20forum%20r%C3%A9emploi%20%3A%201%20an%20du%20Pacte&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
-      "date": "2026-07-21",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Bâtiment durable",
-        "Grand Est",
-        "Qualité environnementale",
-        "Réglementation",
-        "RE2020",
-        "Confort d’été"
-      ],
-      "summary": "Cette journée, organisée par Remise et en partenariat avec entre autre, Envirobat Grand Est, s’est déroulée en deux temps : une matinée réservée aux adhérents, puis un forum ouvert à […] L'article Replay – Table-ronde du forum réemploi : 1 an du Pacte a été publié sur Envirobat G…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
