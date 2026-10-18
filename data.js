@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-17T22:04:50.321Z",
+  "generatedAt": "2026-10-18T03:46:12.153Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,109 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1792293000000",
+      "title": "La filière française des batteries compte plus de 11 000 emplois directs",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/la-filiere-francaise-des-batteries-compte-plus-de-11-000-emplois-directs/197436-2026-10",
+      "image": null,
+      "date": "2026-10-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Alors que les visiteurs du Mondial et les professionnels s’interrogent sur la fabrication des batteries de voitures électriques en France, la filière nationale compte plus de 11 000 emplois directs et plus de trente sites industriels et de recherche. La France dispose déjà d’une …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1792295159000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1792295159000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1792295159000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "reporterre-rss-0-1792257634000",
       "title": "Prix de l'essence, manque de profs et forêts en feu : le 17 octobre, les colères ont convergé",
       "source": "Reporterre",
@@ -2338,7 +2441,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792230300000",
+      "id": "enerzine-rss-1-1792275000000",
+      "title": "Le MIT montre comment un son de 50 ms amplifie le nettoyage cérébral pendant le sommeil",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/bruit-rose-sommeil-mit-cerveau/197382-2026-10",
+      "image": null,
+      "date": "2026-10-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Une impulsion sonore plus brève qu’un battement de cil peut renforcer les mouvements du liquide céphalorachidien pendant le sommeil. Les chercheurs du MIT viennent de le montrer chez l’humain, au cours d’une sieste. Une piste pour agir sur les mécanismes associés au nettoyage cér…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1792230300000",
       "title": "Tarif heures creuses EDF, la bascule qui va décaler vos machines à laver",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2364,7 +2491,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792228500000",
+      "id": "enerzine-rss-3-1792228500000",
       "title": "Avec l’iPhone Duo pliable, Apple ouvre un nouveau chapitre avec un format inédit",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2389,7 +2516,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792227000000",
+      "id": "enerzine-rss-4-1792227000000",
       "title": "Rappel national : une marque de café contaminé par une toxine potentiellement cancérigène",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2413,7 +2540,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792210200000",
+      "id": "enerzine-rss-5-1792210200000",
       "title": "La satisfaction des conducteurs électriques européens, argument de VinFast",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2437,7 +2564,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792206600000",
+      "id": "enerzine-rss-6-1792206600000",
       "title": "RoboParty annonce RP1, plateforme humanoïde open source",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2511,84 +2638,6 @@ window.BATIVEILLE_DATA = {
       "summary": "90 000 euros de dette pour une pompe à chaleur « gratuite ». À Saumur, quatorze ex-salariés de Tececo jugés révèlent un piège bien rodé qui a déjà fait près de 52 000 signalements en 2025. L’article « On nous avait promis du gratuit » : ces particuliers découvrent qu’ils doivent …",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1792274675000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1792274675000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1792274675000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1792251901000",
@@ -4306,7 +4355,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792188600000",
+      "id": "enerzine-rss-7-1792188600000",
       "title": "Vertical Aerospace signe deux accords de fourniture pour son eVTOL Valo",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4332,7 +4381,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792170420000",
+      "id": "enerzine-rss-8-1792170420000",
       "title": "Hausse des tarifs réglementés : comment les particuliers peuvent anticiper avec lesfurets",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4357,7 +4406,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792168500000",
+      "id": "enerzine-rss-9-1792168500000",
       "title": "XPENG présente le G9L à Paris, un grand SUV électrique haut de gamme destiné à l’Europe",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4378,57 +4427,6 @@ window.BATIVEILLE_DATA = {
         "RE2020"
       ],
       "summary": "XPENG dévoile aujourdh’ui au Mondial de l’Auto de Paris, le G9L, un SUV électrique à trois rangées de sièges dont les commandes européennes sont ouvertes depuis le 12 octobre. Proposé à partir de 74 600 euros en Allemagne, le modèle de plus de cinq mètres mise sur le confort, une…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1792159800000",
-      "title": "Ce microrobot chinois tire du courant du métal sous ses pieds, mais jusqu’où ira-t-il ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/robot-chinois-sol-batterie/197383-2026-10",
-      "image": null,
-      "date": "2026-10-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Un microrobot de l’Université Fudan tire son énergie du contact de ses pieds avec un substrat actif, comme le zinc ou l’aluminium, en exploitant l’humidité et l’oxygène de l’air. Leur prouesse de laboratoire explore une autre manière d’alimenter les machines, sans démontrer encor…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1792145220000",
-      "title": "Hotomatic : des poêles à granulés italiens alliant technologie et vente directe d’usine",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/hotomatic-des-poeles-a-granules-italiens-alliant-technologie-et-vente-directe-dusine/197354-2026-10",
-      "image": null,
-      "date": "2026-10-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Réemploi"
-      ],
-      "summary": "Les mois où les installations de chauffage restent éteintes sont ceux où de nombreuses familles décident de la manière dont elles vont chauffer leur maison durant la saison suivante. Le remplacement d’un ancien générateur ou l’installation d’un nouvel appareil nécessite des délai…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16622,7 +16620,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -20273,7 +20271,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -20347,7 +20345,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -20706,7 +20704,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
