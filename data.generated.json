@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T09:25:30.139Z",
+  "generatedAt": "2026-10-18T13:51:47.202Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,31 @@
   ],
   "articles": [
     {
+      "id": "reporterre-rss-0-1792328400000",
+      "title": "La biodiversité a aussi sa COP, on vous explique pourquoi c'est important",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/COP17-biodiversite-les-enjeux-du-rendez-vous-en-Armenie-La-COP17-ne-sera-pas-celle-des",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20220418__328h6zw__v1__highres__serbiaenvironmentpollutionwasteanimal_1_-1a324.jpg?1792328402",
+      "date": "2026-10-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Biosourcé"
+      ],
+      "summary": "Protéger les terres et les océans, restaurer les écosystèmes dégradés, sortir des pesticides... La COP17 biodiversité s'ouvre le 19 octobre en Arménie afin de freiner l'effondrement du vivant. Un objectif ambitieux, qui accumule déjà des retards. Vous reprendrez bien une COP ? Ap…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "vert-rss-0-1792296000000",
       "title": "DuckDuckGo, Qwant, Ecosia… Quel moteur de recherche choisir pour sortir de la dépendance à Google ?",
       "source": "Vert",
@@ -2359,7 +2384,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1792315508000",
+      "id": "le-commerce-du-bois-sitemap-0-1792331494000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2385,7 +2410,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1792315508000",
+      "id": "le-commerce-du-bois-sitemap-1-1792331494000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2411,7 +2436,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1792315508000",
+      "id": "le-commerce-du-bois-sitemap-2-1792331494000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2487,7 +2512,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1792257634000",
+      "id": "reporterre-rss-1-1792257634000",
       "title": "Prix de l'essence, manque de profs et forêts en feu : le 17 octobre, les colères ont convergé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2513,7 +2538,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1792252357000",
+      "id": "reporterre-rss-2-1792252357000",
       "title": "« Même les débuts de mois sont difficiles » : ces Gilets jaunes ont remis le couvert le 17 octobre",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2539,7 +2564,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1792215000000",
+      "id": "reporterre-rss-3-1792215000000",
       "title": "« On a rendu normale, désirable son utilisation » : aux origines de notre addiction au pétrole",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2564,7 +2589,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1792215000000",
+      "id": "reporterre-rss-4-1792215000000",
       "title": "Prix du carburant : infirmière, charpentier et apiculteur racontent comment ils font face à la flambée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2590,14 +2615,14 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1792215000000",
+      "id": "reporterre-rss-5-1792215000000",
       "title": "La littérature se met à l'écologie : notre sélection de la rentrée",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
       "region": "National",
       "url": "https://reporterre.net/La-litterature-se-met-a-l-ecologie-notre-selection-de-la-rentree",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/montage_selection-c6e87.jpg?1792215001",
+      "image": "https://reporterre.net/IMG/logo/montage_selection.jpg",
       "date": "2026-10-17",
       "access": "Gratuit",
       "official": false,
@@ -3837,7 +3862,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1792159559000",
+      "id": "reporterre-rss-6-1792159559000",
       "title": "L'aéroport Lyon-Saint-Exupéry va grossir, avec le prétexte des JO d'hiver",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3862,7 +3887,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1792159488000",
+      "id": "reporterre-rss-7-1792159488000",
       "title": "Des aides aux énergies renouvelables... redirigées vers le carburant",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3888,7 +3913,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1792159200000",
+      "id": "reporterre-rss-8-1792159200000",
       "title": "Delphine Batho : « Je ne multiplie pas les candidatures à gauche, je suis la seule candidate de l'écologie »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3914,7 +3939,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1792154663000",
+      "id": "reporterre-rss-9-1792154663000",
       "title": "Arrachage des yeux des crevettes : les supermarchés sommés d'arrêter une pratique cruelle",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3940,7 +3965,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1792151470000",
+      "id": "reporterre-rss-10-1792151470000",
       "title": "Les pressions de la FNSEA ont échoué : le schéma de gestion de l'eau de la Vilaine enfin adopté",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3966,7 +3991,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1792146561000",
+      "id": "reporterre-rss-11-1792146561000",
       "title": "La pratique du vélo décolle de 18 % sur un an",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3992,7 +4017,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1792144800000",
+      "id": "reporterre-rss-12-1792144800000",
       "title": "Mégaferme à saumons : une nouvelle manifestation prévue en Gironde",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4018,7 +4043,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1792141200000",
+      "id": "reporterre-rss-13-1792141200000",
       "title": "A412 : la justice refuse de suspendre le chantier, les opposants restent mobilisés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4044,7 +4069,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1792132507000",
+      "id": "reporterre-rss-14-1792132507000",
       "title": "Grotte de Lascaux, château de Carcassonne... Les sites patrimoniaux menacés par le changement climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4070,7 +4095,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1792132108000",
+      "id": "reporterre-rss-15-1792132108000",
       "title": "« Nous, banlieusards, on n'est pas assez représentés » : les lycéens des quartiers créent leur syndicat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4094,7 +4119,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1792128600000",
+      "id": "reporterre-rss-16-1792128600000",
       "title": "« La forêt, oui merci » : élus et riverains parviennent à freiner le chantier d'une ligne à grande vitesse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4120,7 +4145,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1792128600000",
+      "id": "reporterre-rss-17-1792128600000",
       "title": "Mobilisation du 17 octobre : « La droite et l'extrême droite sont en panique »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6109,7 +6134,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1792077643000",
+      "id": "reporterre-rss-18-1792077643000",
       "title": "Cancers de la peau : travailler dehors nous expose davantage",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6135,7 +6160,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1792075929000",
+      "id": "reporterre-rss-19-1792075929000",
       "title": "Il voulait « faire la peau » aux écologistes, le président de la Coordination rurale condamné à 15 000 euros d'amende",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6161,7 +6186,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1792074923000",
+      "id": "reporterre-rss-20-1792074923000",
       "title": "Fuites de méthane : l'Europe cède aux lobbies de l'énergie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6187,7 +6212,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1792072063000",
+      "id": "reporterre-rss-21-1792072063000",
       "title": "Le gouvernement fusionne les Autorités environnementales, les associations inquiètes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6211,7 +6236,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1792071922000",
+      "id": "reporterre-rss-22-1792071922000",
       "title": "Plan pour la nature : la France voit grand mais ne propose rien",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6237,7 +6262,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1792071000000",
+      "id": "reporterre-rss-23-1792071000000",
       "title": "358 procès de militants écologistes depuis 2020 : ils répertorient des « arguments puissants » pour gagner en justice",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6261,7 +6286,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1792065795000",
+      "id": "reporterre-rss-24-1792065795000",
       "title": "3 activistes arrêtés pour avoir perturbé un convoi de déchets radioactifs en Allemagne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6287,7 +6312,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1792048961000",
+      "id": "reporterre-rss-25-1792048961000",
       "title": "Les liens entre cancer et pollution enfin enseignés aux futurs médecins",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6313,7 +6338,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1792048387000",
+      "id": "reporterre-rss-26-1792048387000",
       "title": "Contre les militants qui se « radicalisent », la FNSEA lance un tuto juridique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6339,7 +6364,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1792042200000",
+      "id": "reporterre-rss-27-1792042200000",
       "title": "Ne jetez plus vos parapluies cassés, ces artisanes les réparent",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8027,7 +8052,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1791990970000",
+      "id": "reporterre-rss-28-1791990970000",
       "title": "En Guadeloupe, les lycéens dénoncent des classes surchauffées et les coupures d'eau",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8052,7 +8077,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1791983100000",
+      "id": "reporterre-rss-29-1791983100000",
       "title": "Des scientifiques dressent le bilan de santé de la planète, et c'est dramatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8077,7 +8102,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1791982718000",
+      "id": "reporterre-rss-30-1791982718000",
       "title": "Budget 2027 : réduire le déficit au détriment du climat est un calcul risqué",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8103,7 +8128,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1791979969000",
+      "id": "reporterre-rss-31-1791979969000",
       "title": "LBD, grenades... Une pétition contre les armes des policiers récolte plus de 130 000 signatures",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8127,7 +8152,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1791962196000",
+      "id": "reporterre-rss-32-1791962196000",
       "title": "« On a tous en ligne de mire le 17 octobre » : chez les lycéens, la convergence comme horizon",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8153,7 +8178,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1791955800000",
+      "id": "reporterre-rss-33-1791955800000",
       "title": "Le cidre en souffrance : la récolte de pommes s'annonce « dramatique »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8177,7 +8202,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1791955800000",
+      "id": "reporterre-rss-34-1791955800000",
       "title": "« J'ai découvert à quel point ce cancer allait m'appauvrir » : les femmes paient le prix de la maladie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9058,7 +9083,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1791905525000",
+      "id": "reporterre-rss-35-1791905525000",
       "title": "Pour sauver sa centrale nucléaire, la Hongrie construit un barrage sans autorisation environnementale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9084,7 +9109,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1791900000000",
+      "id": "reporterre-rss-36-1791900000000",
       "title": "L'artiste derrière l'hymne des blocus lycéens est un opposant à Monsanto",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9108,7 +9133,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1791900000000",
+      "id": "reporterre-rss-37-1791900000000",
       "title": "Il a étouffé un ruisseau, la justice l'a condamné : récit d'un jugement inhabituel",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9134,7 +9159,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1791886106000",
+      "id": "reporterre-rss-38-1791886106000",
       "title": "« Le monde entier regarde ce que vous faites » : Greta Thunberg rejoint les lycéens de Seine-Saint-Denis",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9158,7 +9183,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1791883175000",
+      "id": "reporterre-rss-39-1791883175000",
       "title": "Chauffage, transport : la baisse des émissions se poursuit, mais pas assez vite",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9183,7 +9208,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1791869400000",
+      "id": "reporterre-rss-40-1791869400000",
       "title": "L'État veut faire payer les lycéens qui « cassent »... mais pas les entreprises qui polluent",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9207,7 +9232,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1791869400000",
+      "id": "reporterre-rss-41-1791869400000",
       "title": "« L'alternative à la voiture, ce n'est pas l'électrique, c'est de changer de système »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9231,7 +9256,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1791869400000",
+      "id": "reporterre-rss-42-1791869400000",
       "title": "Fin des bureaux de poste : « Ils invoquent la diagonale du vide, mais ce sont eux qui vident nos villages »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10062,7 +10087,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-42-1791842460000",
+      "id": "reporterre-rss-43-1791842460000",
       "title": "Impôts favorables aux riches : Oxfam attaque l'État en justice",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10087,7 +10112,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1791817200000",
+      "id": "reporterre-rss-44-1791817200000",
       "title": "Priscillia Ludosky, figure des Gilets jaunes : « On demande aux gens de moins prendre la voiture... alors que les gares ferment »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10112,7 +10137,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1791813600000",
+      "id": "reporterre-rss-45-1791813600000",
       "title": "Le sorgho, une céréale à « gros potentiel » qui peine à s'imposer",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10138,7 +10163,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1791813211000",
+      "id": "reporterre-rss-46-1791813211000",
       "title": "Les frigos de plus de 200 supermarchés visés par une cyberattaque",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10164,7 +10189,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1791800136000",
+      "id": "reporterre-rss-47-1791800136000",
       "title": "Sécheresse : le Finistère dans une « situation critique »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10189,7 +10214,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1791799804000",
+      "id": "reporterre-rss-48-1791799804000",
       "title": "Le mois de septembre a été le plus chaud jamais enregistré en Europe de l'Ouest",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10215,7 +10240,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1791790472000",
+      "id": "reporterre-rss-49-1791790472000",
       "title": "Sortir des pesticides : la droite et l'extrême droite absentes du débat présidentiel",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10241,7 +10266,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1791789761000",
+      "id": "reporterre-rss-50-1791789761000",
       "title": "« On veut transmettre l'expérience de la lutte » : l'A69 bientôt ouverte, ses opposants se projettent sur la suite",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10266,7 +10291,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1791788400000",
+      "id": "reporterre-rss-51-1791788400000",
       "title": "Chasse : les petits arrangements de notables dans une réserve naturelle",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10420,7 +10445,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "reporterre-rss-51-1791700200000",
+      "id": "reporterre-rss-52-1791700200000",
       "title": "Lycéens : « Les lance-grenades ne feront pas taire les lanceurs d'alerte »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10446,7 +10471,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1791696600000",
+      "id": "reporterre-rss-53-1791696600000",
       "title": "La voiture partagée entre voisins, une solution au désert des transports en zone rurale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10546,7 +10571,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1791608400000",
+      "id": "reporterre-rss-54-1791608400000",
       "title": "Le métro ou les arbres : à Paris, le prolongement de la ligne 1 sème la discorde",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10572,7 +10597,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1791608400000",
+      "id": "reporterre-rss-55-1791608400000",
       "title": "« On soutient les agriculteurs en cas de difficultés » : les Amap, un modèle de résilience face au chaos climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10596,7 +10621,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1791608400000",
+      "id": "reporterre-rss-56-1791608400000",
       "title": "L'écologie contre-attaque : Reporterre lance sa grande tournée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10897,7 +10922,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1791563884000",
+      "id": "reporterre-rss-57-1791563884000",
       "title": "« On ne veut pas devenir les pions de Total » : des étudiants bloquent leur campus pour dénoncer le partenariat avec la multinationale",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10922,7 +10947,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1791558700000",
+      "id": "reporterre-rss-58-1791558700000",
       "title": "249 loups pourront être tués cette année : le gouvernement augmente, encore, le seuil",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10948,7 +10973,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-58-1791554400000",
+      "id": "reporterre-rss-59-1791554400000",
       "title": "Nourrir les poissons d'élevage à base d'insectes ou de soja : l'idée miraculeuse qui s'est effondrée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10969,32 +10994,6 @@
         "Réglementation"
       ],
       "summary": "Pour en finir avec la farine de poissons sauvages, l'aquaculture mise sur celles à base de soja et d'insectes pour nourrir ses poissons d'élevage. Elles sont loin d'être l'alternative miraculeuse qui permettrait de verdir une industrie anti-écologique et antisociale. Le silence p…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1791553921000",
-      "title": "« On lance une guérilla » : opposés aux panneaux solaires en forêt, ils finissent virés du conseil municipal",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/On-lance-une-guerilla-opposes-aux-panneaux-solaires-en-foret-ils-finissent-vires-du",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/_kdf1206-b7cf6.jpg?1791553924",
-      "date": "2026-10-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "À Oraison, dans les Alpes-de-Haute-Provence, deux conseils municipaux ont été chahutés coup sur coup par des opposants à un projet photovoltaïque en forêt. Face à la multiplication des projets solaires en forêt, certains militants veulent « radicaliser » leur lutte. Je n'avais ja…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -22714,29 +22713,6 @@
       "summary": "Identifiez les leviers pertinents pour réduire l’empreinte eau de vos projets ! En partenariat avec L’eau : un enjeu encore trop peu intégré dans les choix de conception ! Face aux tensions croissantes sur la ressource, la question de l’eau devient un sujet de plus en plus struct…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "anah-sitemap-0-1782994560000",
-      "title": "newsletter",
-      "source": "ANAH",
-      "sourceId": "anah",
-      "sourceType": "Institution publique",
-      "region": "National",
-      "url": "https://www.anah.gouv.fr//newsletter",
-      "image": null,
-      "date": "2026-07-02",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 82,
-      "tags": [
-        "Rénovation",
-        "Financement",
-        "Habitat privé"
-      ],
-      "summary": "Publication détectée dans le sitemap de ANAH. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-37-1782884876000",
