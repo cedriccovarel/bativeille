@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-18T17:55:56.021Z",
+  "generatedAt": "2026-10-18T22:19:52.735Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2235,7 +2235,56 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792313414000",
+      "id": "enerzine-rss-0-1792361400000",
+      "title": "YES-EU et CATL inaugurent un centre de batteries à Oslo",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/yes-eu-et-catl-inaugurent-un-centre-de-batteries-a-oslo/197451-2026-10",
+      "image": null,
+      "date": "2026-10-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "YES-EU et NING Service, la marque de services après-vente de CATL, ont inauguré à Oslo un centre de plus de 10 000 m² dédié à la gestion du cycle de vie et aux réparations de batteries haute tension. Le partenariat signé avec NING Service, la marque officielle de services après-v…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1792355700000",
+      "title": "BYD Seal 08 : 400 km en 5 minutes et jusqu’à 1 660 km d’autonomie",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/byd-seal-08-recharge-flash-charging/197539-2026-10",
+      "image": null,
+      "date": "2026-10-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Récupérer 400 km d’autonomie le temps d’un café, rouler plus de 1 600 km sans ravitailler ou débourser moins de 26 000 euros. La gamme BYD Seal 08 aligne ces arguments, mais ils ne décrivent pas une seule et même configuration. La recharge éclair devient la norme C’est le vrai co…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1792313414000",
       "title": "BYD Atto 8, le SUV électrique 7 places qui promet une recharge de 10 à 97% en 9 minutes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2259,7 +2308,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792296600000",
+      "id": "enerzine-rss-3-1792296600000",
       "title": "Storio Energy annonce 29,5 % d’économies sur un an pour ses clients",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2285,7 +2334,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792293000000",
+      "id": "enerzine-rss-4-1792293000000",
       "title": "La filière française des batteries compte plus de 11 000 emplois directs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2384,7 +2433,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1792346140000",
+      "id": "le-commerce-du-bois-sitemap-0-1792361980000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2410,7 +2459,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1792346140000",
+      "id": "le-commerce-du-bois-sitemap-1-1792361980000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2436,7 +2485,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1792346140000",
+      "id": "le-commerce-du-bois-sitemap-2-1792361980000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2462,7 +2511,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1792297801000",
+      "id": "le-journal-du-grand-paris-rss-0-1792355401000",
       "title": "Une matinée d’échanges organisée par PariSudam autour de l’intégration du sport dans la ville",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2488,7 +2537,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1792297330000",
+      "id": "le-journal-du-grand-paris-rss-1-1792354318000",
+      "title": "Violences du 17 octobre : la Ville de Paris a mobilisé près de 1 000 agents de la propreté",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/violences-du-17-octobre-la-ville-de-paris-mobilise-pres-de-1-000-agents-de-la-proprete/",
+      "image": null,
+      "date": "2026-10-18",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Après les violences et pillages du samedi 17 octobre, la Ville de Paris a déployé ses équipes de propreté dès la nuit et ouvert une cellule d’urgence pour les commerçants touchés. Après les violences et pillages du samedi 17 octobre, la Ville de Paris a déployé ses équipes de pro…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-2-1792297330000",
       "title": "La Ville de Paris condamne les violences du 17 octobre et mobilise ses services",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2689,7 +2762,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792275000000",
+      "id": "enerzine-rss-5-1792275000000",
       "title": "Le MIT montre comment un son de 50 ms amplifie le nettoyage cérébral pendant le sommeil",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2713,7 +2786,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792230300000",
+      "id": "enerzine-rss-6-1792230300000",
       "title": "Tarif heures creuses EDF, la bascule qui va décaler vos machines à laver",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2739,7 +2812,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792228500000",
+      "id": "enerzine-rss-7-1792228500000",
       "title": "Avec l’iPhone Duo pliable, Apple ouvre un nouveau chapitre avec un format inédit",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2764,7 +2837,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792227000000",
+      "id": "enerzine-rss-8-1792227000000",
       "title": "Rappel national : une marque de café contaminé par une toxine potentiellement cancérigène",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2788,7 +2861,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792210200000",
+      "id": "enerzine-rss-9-1792210200000",
       "title": "La satisfaction des conducteurs électriques européens, argument de VinFast",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2808,31 +2881,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "Dans une communication diffusée depuis Paris, VinFast met en avant plusieurs enquêtes menées en Europe et dans le monde pour souligner la satisfaction des conducteurs de véhicules électriques et présenter son offre de voitures, de bus et de services. L’enquête Chargemap, réalisée…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1792206600000",
-      "title": "RoboParty annonce RP1, plateforme humanoïde open source",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/roboparty-annonce-rp1-plateforme-humanoide-open-source/197358-2026-10",
-      "image": null,
-      "date": "2026-10-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Hier, à Shanghai, RoboParty a présenté RP1 (ROBOTO 01), une plateforme humanoïde open source combinant matériel et logiciels pour la recherche en robotique et l’IA incarnée, afin de permettre aux chercheurs d’examiner et de modifier les systèmes. RoboParty estime que « l’IA incar…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -2888,7 +2936,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1792249302000",
+      "id": "le-journal-du-grand-paris-rss-3-1792249302000",
       "title": "La Porte Pouchet, exemple d’un urbanisme volontariste et créatif",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2913,7 +2961,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1792247639000",
+      "id": "le-journal-du-grand-paris-rss-4-1792247639000",
       "title": "Grand-Orly Seine Bièvre adopte un vœu contre le projet Thermo-sur-Seine à Vitry",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -2938,7 +2986,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1792246104000",
+      "id": "le-journal-du-grand-paris-rss-5-1792246104000",
       "title": "Les Hauts-de-Seine pourraient perdre 76 millions d’euros de recettes en 2027",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4414,32 +4462,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1792188600000",
-      "title": "Vertical Aerospace signe deux accords de fourniture pour son eVTOL Valo",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/vertical-aerospace-signe-deux-accords-de-fourniture-pour-son-evtol-valo/197361-2026-10",
-      "image": null,
-      "date": "2026-10-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "RE2020",
-        "Confort d’été"
-      ],
-      "summary": "Vertical Aerospace a annoncé à Bristol, au Royaume-Uni, la signature d’accords de fourniture à long terme avec ANH Structure et Northrop Grumman LITEF pour fournir des systèmes clés de son avion électrique à décollage et atterrissage verticaux Valo. L’accord conclu avec ANH Struc…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "lenergeek-rss-5-1792173671000",
       "title": "TotalEnergies : raffinage à plein régime face aux pénuries mondiales",
       "source": "L’ÉnerGeek",
@@ -4637,7 +4659,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1792149996000",
+      "id": "le-journal-du-grand-paris-rss-6-1792149996000",
       "title": "Les marchés du Grand Paris – La Canopée des Halles va se couvrir de panneaux solaires sur mesure",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6585,7 +6607,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1792095062000",
+      "id": "le-journal-du-grand-paris-rss-7-1792095062000",
       "title": "L’essentiel de la semaine du 12 octobre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6609,7 +6631,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1792070269000",
+      "id": "le-journal-du-grand-paris-rss-8-1792070269000",
       "title": "Pour sauver ses commerces, l’artisanat parisien mise sur un fonds d’investissement",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6634,7 +6656,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-8-1792068211000",
+      "id": "le-journal-du-grand-paris-rss-9-1792068211000",
       "title": "Camille Tubiana pressentie pour prendre la direction générale de l’Anru",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6654,31 +6676,6 @@ window.BATIVEILLE_DATA = {
         "Immobilier"
       ],
       "summary": "L'actuelle directrice générale de l'Epide pourrait succéder à Anne-Claire Mialot à la tête de l'agence nationale pour le renouvellement urbain. Le président de la République envisage en effet de la nommer, sur proposition du Premier ministre, a annoncé l'Élysée mercredi 14 octobr…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1792068199000",
-      "title": "Le nouveau plan vélo de Paris concentre ses efforts sur la sécurité des carrefours",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/le-nouveau-plan-velo-de-paris-concentre-ses-efforts-sur-la-securite-des-carrefours/",
-      "image": null,
-      "date": "2026-10-15",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau"
-      ],
-      "summary": "Présenté le 14 octobre et doté de 200 millions d'euros de budget, le Plan vélo 2027-2032 de la Ville de Paris prévoit 140 km de nouvelles pistes, 420 carrefours à sécuriser et la création d’une brigade contre les violences motorisées. La municipalité veut à la fois élargir le rés…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9055,6 +9052,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "bois-com-sitemap-83-1791874920000",
+      "title": "parement sur ossature bois une liberte de facade insoupconnee",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/amenagement/articles/parement-sur-ossature-bois-une-liberte-de-facade-insoupconnee/",
+      "image": null,
+      "date": "2026-10-13",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "acteurs-publics-sitemap-26-1791909420000",
       "title": "ai factories nouveau levier de souverainete des territoires",
       "source": "Acteurs Publics",
@@ -10062,6 +10085,58 @@ window.BATIVEILLE_DATA = {
       "summary": "L’énergie se trouve au cœur de nombreuses préoccupations des Français, notamment le pouvoir d’achat dans le contexte de flambée des prix des carburants. Dans la perspective des élections de 2027, l’Institut Energy for Society de Grenoble École de Management (GEM) a publié en sept…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "bois-com-sitemap-0-1791811696000",
+      "title": "articles",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/fil-du-bois/articles/",
+      "image": null,
+      "date": "2026-10-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "bois-com-sitemap-84-1791811696000",
+      "title": "les feux de foret en france comment les prevenir",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/nos-forets/articles/les-feux-de-foret-en-france-comment-les-prevenir/",
+      "image": null,
+      "date": "2026-10-12",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "reporterre-rss-52-1791700200000",
@@ -11680,6 +11755,32 @@ window.BATIVEILLE_DATA = {
       "summary": "L’adaptation au changement climatique reste encore mal comprise. Christophe Buffet, chercheur en adaptation à l’Agence française de développement (AFD), revient sur trois idées reçues auxquelles il est régulièrement confronté. L’adaptation au changement climatique reste encore ma…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "bois-com-sitemap-82-1791273840000",
+      "title": "la foret en automne bien plus quun spectacle de couleurs",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/nos-forets/articles/la-foret-en-automne-bien-plus-quun-spectacle-de-couleurs/",
+      "image": null,
+      "date": "2026-10-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "observatoire-de-la-qualite-de-l-air-interieur-oqai-rss-2-1791204195000",
@@ -13642,6 +13743,32 @@ window.BATIVEILLE_DATA = {
       "summary": "Une large part des biocarburants vendus à la pompe est produite à partir de maïs, de blé, de betteraves ou de colza, au risque de concurrencer l’alimentation. Jean-Philippe Héraud (IFPEN) fait le point sur les biocarburants dits avancés, produits à partir de déchets, et sur les f…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "bois-com-sitemap-81-1790589354000",
+      "title": "le grand gibier dans nos forets une cohabitation a gerer pour preserver nos bois",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/la-gestion-forestiere/articles/le-grand-gibier-dans-nos-forets-une-cohabitation-a-gerer-pour-preserver-nos-bois/",
+      "image": null,
+      "date": "2026-09-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "inc-institut-national-de-la-consommation-rss-1-1790460000000",
@@ -16012,6 +16139,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "bois-com-sitemap-80-1789635180000",
+      "title": "peut on ramasser du bois en foret ce que dit la loi",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/nos-forets/articles/peut-on-ramasser-du-bois-en-foret-ce-que-dit-la-loi/",
+      "image": null,
+      "date": "2026-09-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "alliance-hqe-gbc-rss-0-1789554131000",
       "title": "Notre stand au Paris Builders Show 2026",
       "source": "Alliance HQE-GBC",
@@ -17264,6 +17417,32 @@ window.BATIVEILLE_DATA = {
       "summary": "La Commission de régulation de l’énergie a présenté ce 9 septembre une riche analyse de l’économie du système électrique français hexagonal. Ce « travail assez inédit », selon les termes de la présidente de la CRE, Emmanuelle Wargon, délivre notamment des données nouvelles sur le…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "bois-com-sitemap-79-1788958345000",
+      "title": "osb mdf panneaux de particules quelles differences",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/construction-bois/articles/osb-mdf-panneaux-de-particules-quelles-differences/",
+      "image": null,
+      "date": "2026-09-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "urbalyon-rss-3-1788897702000",
@@ -19047,6 +19226,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "bois-com-sitemap-69-1787056800000",
+      "title": "les animaux de la foret une biodiversite a decouvrir",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/ecosystemes-biodiversite/articles/les-animaux-de-la-foret-une-biodiversite-a-decouvrir/",
+      "image": null,
+      "date": "2026-08-18",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "capeb-rss-12-1786961525000",
       "title": "RELANCE : Journées Portes Ouvertes « Very Wood Métiers # Si vous cherchez du bouleau, y’en a dans les bois » 2026",
       "source": "CAPEB",
@@ -19071,6 +19276,32 @@ window.BATIVEILLE_DATA = {
       "summary": "Ensemble, mobilisons-nous pour valoriser les métiers de l’artisanat du bâtiment et attirer de nouveaux talents ! Ensemble, mobilisons-nous pour valoriser les métiers de l’artisanat du bâtiment et attirer de nouveaux talents ! RELANCE : Journées Portes Ouvertes « Very Wood Métiers…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "bois-com-sitemap-78-1786975573000",
+      "title": "histoire de la foret en france 12 000 ans de transformations",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/faits-chiffres/articles/histoire-de-la-foret-en-france-12-000-ans-de-transformations/",
+      "image": null,
+      "date": "2026-08-17",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "inc-institut-national-de-la-consommation-rss-6-1786658400000",
@@ -19296,6 +19527,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "bois-com-sitemap-77-1786031110000",
+      "title": "labri de piscine en bois un choix qui allie beaute et performance",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/habitation-bois/articles/labri-de-piscine-en-bois-un-choix-qui-allie-beaute-et-performance/",
+      "image": null,
+      "date": "2026-08-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "qualitel-cerqual-rss-2-1785935988000",
       "title": "Le Fonds de dotation QUALITEL aux côtés de l’AFEJI Hauts-de-France pour améliorer le quotidien des seniors",
       "source": "Qualitel / Cerqual",
@@ -19512,6 +19769,188 @@ window.BATIVEILLE_DATA = {
         "Centre-Val de Loire"
       ],
       "summary": "Publication détectée dans le sitemap de Lig’Air. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "bois-com-sitemap-70-1785750235000",
+      "title": "le bois dans les salles de concert un materiau qui sculpte le son",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/le-bois-matiere-vivante/articles/le-bois-dans-les-salles-de-concert-un-materiau-qui-sculpte-le-son/",
+      "image": null,
+      "date": "2026-08-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "bois-com-sitemap-71-1785759501000",
+      "title": "clt lamelle colle osb contreplaque ces materiaux bois qui transforment notre facon de construire",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/la-transformation-du-bois/articles/clt-lamelle-colle-osb-contreplaque-ces-materiaux-bois-qui-transforment-notre-facon-de-construire/",
+      "image": null,
+      "date": "2026-08-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "bois-com-sitemap-72-1785759550000",
+      "title": "labels et certifications bois le guide pour sy retrouver",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/pourquoi-le-bois/articles/labels-et-certifications-bois-le-guide-pour-sy-retrouver/",
+      "image": null,
+      "date": "2026-08-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "bois-com-sitemap-73-1785759568000",
+      "title": "choisir la bonne essence de bois pour son projet",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/pourquoi-le-bois/articles/choisir-la-bonne-essence-de-bois-pour-son-projet/",
+      "image": null,
+      "date": "2026-08-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "bois-com-sitemap-74-1785759590000",
+      "title": "valorisation du bois un cycle vertueux au service de leconomie circulaire",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/la-transformation-du-bois/articles/valorisation-du-bois-un-cycle-vertueux-au-service-de-leconomie-circulaire/",
+      "image": null,
+      "date": "2026-08-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "bois-com-sitemap-75-1785759640000",
+      "title": "dimensionnement du solivage la structure cachee de votre plancher",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/construction-bois/articles/dimensionnement-du-solivage-la-structure-cachee-de-votre-plancher/",
+      "image": null,
+      "date": "2026-08-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "bois-com-sitemap-76-1785762196000",
+      "title": "les atouts du bois en interieur et si vous choisissiez le bois francais",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/le-bois-matiere-vivante/articles/les-atouts-du-bois-en-interieur-et-si-vous-choisissiez-le-bois-francais/",
+      "image": null,
+      "date": "2026-08-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -21038,6 +21477,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "bois-com-sitemap-68-1783697474000",
+      "title": "cuisine dete en bois des inspirations pour transformer votre jardin",
+      "source": "Bois.com",
+      "sourceId": "bois-com",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.bois.com/amenagement/articles/cuisine-dete-en-bois-des-inspirations-pour-transformer-votre-jardin/",
+      "image": null,
+      "date": "2026-07-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Construction bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "association-bbca-rss-5-1783616549000",
       "title": "Meeting & Afterwork BBCA – retour en images",
       "source": "Association BBCA",
@@ -21942,6 +22407,29 @@ window.BATIVEILLE_DATA = {
       "summary": "Identifiez les leviers pertinents pour réduire l’empreinte eau de vos projets ! En partenariat avec L’eau : un enjeu encore trop peu intégré dans les choix de conception ! Face aux tensions croissantes sur la ressource, la question de l’eau devient un sujet de plus en plus struct…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "anah-sitemap-0-1782994560000",
+      "title": "newsletter",
+      "source": "ANAH",
+      "sourceId": "anah",
+      "sourceType": "Institution publique",
+      "region": "National",
+      "url": "https://www.anah.gouv.fr//newsletter",
+      "image": null,
+      "date": "2026-07-02",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 82,
+      "tags": [
+        "Rénovation",
+        "Financement",
+        "Habitat privé"
+      ],
+      "summary": "Publication détectée dans le sitemap de ANAH. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-37-1782884876000",
