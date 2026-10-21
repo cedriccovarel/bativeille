@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-21T19:13:33.434Z",
+  "generatedAt": "2026-10-21T23:06:18.338Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3249,7 +3249,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792602600000",
+      "id": "enerzine-rss-0-1792620600000",
+      "title": "Des chercheurs suisses ont suivi la dissipation d’énergie des magnons dans l’oxyde de cuivre",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-chercheurs-suisses-ont-suivi-la-dissipation-denergie-des-magnons-dans-loxyde-de-cuivre/197779-2026-10",
+      "image": null,
+      "date": "2026-10-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Des chercheurs du PSI ont observé, dans un oxyde de cuivre, que les magnons excités par laser persistent jusqu’à l’échelle de la nanoseconde avant de céder leur énergie au réseau cristallin. Cette étude, publiée dans Nature Communications le 29 septembre 2026, documente un transf…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1792602600000",
       "title": "Revolut tombe en panne, et votre carte devient un simple bout de plastique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3274,7 +3299,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792585204000",
+      "id": "enerzine-rss-2-1792585204000",
       "title": "Pompe à chaleur en leasing : une bonne affaire ou une mensualité de plus ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3300,7 +3325,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792578000000",
+      "id": "enerzine-rss-3-1792578000000",
       "title": "Électrification de l’industrie : pourquoi le choix des câbles devient un enjeu technique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3324,7 +3349,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792575300000",
+      "id": "enerzine-rss-4-1792575300000",
       "title": "Octopus Energy contraint de renommer son offre après une demande d’EDF",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3349,7 +3374,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792573620000",
+      "id": "enerzine-rss-5-1792573620000",
       "title": "Quatre regards primés sur les phénomènes météorologiques au concours photo AMS 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3375,7 +3400,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792570800000",
+      "id": "enerzine-rss-6-1792570800000",
       "title": "Avant la première flambée, votre poêle à granulés est-il vraiment prêt ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3400,7 +3425,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792565700000",
+      "id": "enerzine-rss-7-1792565700000",
       "title": "Voiture hybride : les 7 avantages face à ses homologues thermiques et tout électriques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3425,7 +3450,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792560600000",
+      "id": "enerzine-rss-8-1792560600000",
       "title": "Deux simulations cosmologiques record sur le supercalculateur Aurora dont celle de l’univers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3450,7 +3475,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1792559400000",
+      "id": "enerzine-rss-9-1792559400000",
       "title": "Chunyu Guo reçoit le prix Nicholas Kurti 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3471,30 +3496,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Chunyu Guo, responsable de groupe de recherche à l’Institut Max Planck pour la structure et la dynamique de la matière à Hambourg, a remporté le prix scientifique Nicholas Kurti 2026. Annoncée mardi 13 octobre par le fabricant d’instruments britannique Quantum Design Oxford, cett…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1792555800000",
-      "title": "Contrôle parallèle de qubits en silicium : haute fidélité maintenue malgré des limites",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/controle-parallele-de-qubits-en-silicium-haute-fidelite-maintenue-malgre-des-limites/197488-2026-10",
-      "image": null,
-      "date": "2026-10-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Des chercheurs du RIKEN, au Japon, ont montré qu’un contrôle de haute fidélité peut être maintenu sur cinq qubits en silicium manipulés simultanément. Ces travaux sont présentés comme une étape essentielle vers un ordinateur quantique tolérant aux pannes. Les qubits en silicium i…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3700,7 +3701,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1792610000000",
+      "id": "le-commerce-du-bois-sitemap-0-1792623967000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3726,7 +3727,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1792610000000",
+      "id": "le-commerce-du-bois-sitemap-1-1792623967000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3752,7 +3753,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1792610000000",
+      "id": "le-commerce-du-bois-sitemap-2-1792623967000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3776,32 +3777,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1792598170000",
-      "title": "Avec Géomy3, la plus grande copropriété d’Europe alimentée par géothermie",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/centrale-geothermique-geomy3-le-nouveau-puit-de-chaleur-de-la-copropriete-parly-2/",
-      "image": null,
-      "date": "2026-10-21",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été",
-        "Biosourcé"
-      ],
-      "summary": "Ce mardi 20 octobre, la centrale géothermique Géomy3 a été mise officiellement en fonctionnement au Chesnay-Rocquencourt (Yvelines). Destinée à alimenter les 7 500 logements de Parly 2, la plus grande copropriété d’Europe, elle permettra aussi d’éviter l’émission de 18 500 t de C…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "acteurs-publics-sitemap-1-1792600020000",
@@ -5678,7 +5653,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1792497926000",
+      "id": "le-journal-du-grand-paris-rss-0-1792497926000",
       "title": "Rénovation énergétique : en Île-de-France, des projets structurés par les aides publiques",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5700,6 +5675,32 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "L’Institut Paris Region a analysé les coûts de 321 opérations de rénovation globale menées entre 2010 et 2025 en copropriété et en maison individuelle. La note montre que les aides ont un effet décisif sur l’ambition des travaux et que le reste à charge reste un obstacle majeur p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1792493770000",
+      "title": "Avec Géomy3, la plus grande copropriété d’Europe alimentée par géothermie",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/centrale-geothermique-geomy3-le-nouveau-puit-de-chaleur-de-la-copropriete-parly-2/",
+      "image": null,
+      "date": "2026-10-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Confort d’été",
+        "Biosourcé"
+      ],
+      "summary": "Ce mardi 20 octobre, la centrale géothermique Géomy3 a été mise officiellement en fonctionnement au Chesnay-Rocquencourt (Yvelines). Destinée à alimenter les 7 500 logements de Parly 2, la plus grande copropriété d’Europe, elle permettra aussi d’éviter l’émission de 18 500 t de C…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6319,6 +6320,32 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Combien de ménages comptera la Loire-Atlantique en 2025 ? Quelle serait la composition des ménages ? L’Insee, en partenariat avec Nantes Métropole et l’Auran, a publié cette semaine une étude sur les projections de ménages à l’échelle départementale et infra-départementale. Cette…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "arec-occitanie-rss-0-1792395454000",
+      "title": "03 novembre 2026 : 5e Journée régionale Gaz Verts à La Cité (Toulouse - Montaudran)",
+      "source": "AREC Occitanie",
+      "sourceId": "arec-occitanie",
+      "sourceType": "Agence énergie-climat",
+      "region": "Occitanie",
+      "url": "https://www.arec-occitanie.fr/magazine/03-novembre-2026-5e-journee-regionale-gaz-verts-la-cite-toulouse-montaudran",
+      "image": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D",
+      "date": "2026-10-19",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Rénovation",
+        "Réglementation",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "03 novembre 2026 : 5e Journée régionale Gaz Verts à La Cité (Toulouse - Montaudran) f.chemille lun 19/10/2026 - 09:37 EnR Gaz Verts 5e Journée régionale Gaz Verts 📅 Mardi 03 novembre 2026 🕐 9h – 16h30 Le Centre Régional Gaz Verts Occitanie, guichet d’informations, d’orientation…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8690,6 +8717,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "arec-occitanie-rss-1-1792076468000",
+      "title": "Webinaire de la Région Occitanie / Pyrénées-Méditerranée « Habiter demain en Occitanie : quelles solutions proposées aujourd'hui pour répondre aux défis du climat, du logement et du vivre-ensemble ? »",
+      "source": "AREC Occitanie",
+      "sourceId": "arec-occitanie",
+      "sourceType": "Agence énergie-climat",
+      "region": "Occitanie",
+      "url": "https://www.arec-occitanie.fr/magazine/webinaire-de-la-region-occitanie-pyrenees-mediterranee-habiter-demain-en-occitanie-quelles",
+      "image": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D",
+      "date": "2026-10-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Rénovation",
+        "Eau",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "Webinaire de la Région Occitanie / Pyrénées-Méditerranée « Habiter demain en Occitanie : quelles solutions proposées aujourd'hui pour répondre aux défis du climat, du logement et du vivre-ensemble ? » f.chemille jeu 15/10/2026 - 17:01 Logement Webinaire de la Région Occitanie / P…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "auat-toulouse-rss-6-1792060267000",
       "title": "Former, attirer, développer : les enjeux de l’enseignement supérieur pour les territoires",
       "source": "AUAT Toulouse",
@@ -10173,6 +10226,32 @@ window.BATIVEILLE_DATA = {
         "Qualité"
       ],
       "summary": "The post Congrès Hlm 2026 : Immobilière 3F saluée pour 10 ans d’engagement dans la certification NF Habitat – NF Habitat HQE appeared first on Qualitel | Professionnels. The post Congrès Hlm 2026&#160;: Immobilière 3F saluée pour 10 ans d’engagement dans la certification NF Habit…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "arec-occitanie-rss-2-1791875234000",
+      "title": "Chargé.e de projets Ingénierie territoriale - Planification H/F",
+      "source": "AREC Occitanie",
+      "sourceId": "arec-occitanie",
+      "sourceType": "Agence énergie-climat",
+      "region": "Occitanie",
+      "url": "https://www.arec-occitanie.fr/stages-et-emplois/chargee-de-projets-ingenierie-territoriale-planification-hf",
+      "image": null,
+      "date": "2026-10-13",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Rénovation",
+        "Réglementation",
+        "Carbone",
+        "Eau"
+      ],
+      "summary": "Chargé.e de projets Ingénierie territoriale - Planification H/F r.edart mar 13/10/2026 - 09:07 Dès 2016, la Région Occitanie s’est fixée comme objectif de devenir la 1ere Région à énergie positive d’Europe (REPOS). Que ce soit en accompagnant des collectivités et des entreprises …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11820,6 +11899,32 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Parce que la biodiversité est pleinement liée aux enjeux de transformation de nos territoires et intègre pleinement la thématique \"prendre soin du vivant\" de Novabuild, nous relayons cette actualité de la LPO Pays de la Loire, partenaire et acteur engagé pour mieux intégrer le vi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "arec-occitanie-rss-3-1791470327000",
+      "title": "L'œil de l'ORCEO : bilan d'un été record en Occitanie",
+      "source": "AREC Occitanie",
+      "sourceId": "arec-occitanie",
+      "sourceType": "Agence énergie-climat",
+      "region": "Occitanie",
+      "url": "https://www.arec-occitanie.fr/magazine/loeil-de-lorceo-bilan-dun-ete-record-en-occitanie",
+      "image": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D",
+      "date": "2026-10-08",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Rénovation",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "L'œil de l'ORCEO : bilan d'un été record en Occitanie r.edart jeu 08/10/2026 - 16:38 Données Après un printemps déjà marqué par des températures historiquement élevées et un mois d'avril le plus chaud jamais enregistré en Occitanie, l'été 2026 aura été une période d'anomalies the…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16362,7 +16467,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-92-1789603200000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-78-1789603200000",
       "title": "gouvernement frederic carre rencontre vincent jeanbrun",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -17787,6 +17892,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "arec-occitanie-rss-4-1788882132000",
+      "title": "Journées nationales du biogaz 2026",
+      "source": "AREC Occitanie",
+      "sourceId": "arec-occitanie",
+      "sourceType": "Agence énergie-climat",
+      "region": "Occitanie",
+      "url": "https://www.arec-occitanie.fr/agenda/2026-09-19-journees-nationales-du-biogaz-2026",
+      "image": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D",
+      "date": "2026-09-08",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Rénovation",
+        "Réglementation"
+      ],
+      "summary": "Journées nationales du biogaz 2026 Samedi 19 Dimanche 20 septembre 2026 r.edart mar 08/09/2026 - 17:42 Gaz Verts Journées nationales du biogaz 2026 Date : 19 et 20 septembre 2026 Lieu : 46 installations partout en France, dont 5 unités en Occitanie en Ariège, Haut-Garonne, Gers, …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "arec-nouvelle-aquitaine-rss-1-1788881337000",
       "title": "Climat en Nouvelle-Aquitaine : 2026, une année qui illustre déjà les défis de l’adaptation",
       "source": "AREC Nouvelle-Aquitaine",
@@ -17935,28 +18064,6 @@ window.BATIVEILLE_DATA = {
       "summary": "WEBINAIRE JNQA 2026 pierre.bonnet@… lun 07/09/2026 - 16:07 À l’occasion de la Journée nationale de la qualité de l’air, l’Observatoire de la qualité des environnements intérieurs (OQEI), copiloté par l’Anses et le CSTB, vous invite à un webinaire autour d’un enjeu majeur : Commen…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "cite-de-l-architecture-et-du-patrimoine-sitemap-190-1788787260000",
-      "title": "ressources pedagogiques",
-      "source": "Cité de l’architecture et du patrimoine",
-      "sourceId": "cite-de-l-architecture-et-du-patrimoine",
-      "sourceType": "Institution culturelle",
-      "region": "National",
-      "url": "https://www.citedelarchitecture.fr/fr/article/ressources-pedagogiques",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Architecture",
-        "Patrimoine"
-      ],
-      "summary": "Publication détectée dans le sitemap de Cité de l’architecture et du patrimoine. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1788739200000",
@@ -18511,7 +18618,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-339-1788220800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-319-1788220800000",
       "title": "actu simple 31",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -18676,6 +18783,30 @@ window.BATIVEILLE_DATA = {
         "Île-de-France"
       ],
       "summary": "Par l’intermédiaire de la circulaire du 16 juillet 2026, l’Etat précise les modalités de pilotage et d’animation des services et missions visant à mettre en œuvre la directive bruit 2002/49/CE… Par l’intermédiaire de la circulaire du 16 juillet 2026, l’Etat précise les modalités …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "arec-occitanie-rss-5-1788164239000",
+      "title": "Venez rencontrer le CRGV au salon Innov-Agri à Ondes (31) les 9 et 10 septembre",
+      "source": "AREC Occitanie",
+      "sourceId": "arec-occitanie",
+      "sourceType": "Agence énergie-climat",
+      "region": "Occitanie",
+      "url": "https://www.arec-occitanie.fr/agenda/2026-09-09-venez-rencontrer-le-crgv-au-salon-innov-agri-ondes-31-les-9-et-10-septembre",
+      "image": null,
+      "date": "2026-08-31",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Rénovation",
+        "Réglementation"
+      ],
+      "summary": "Venez rencontrer le CRGV au salon Innov-Agri à Ondes (31) les 9 et 10 septembre Mercredi 9 Jeudi 10 septembre 2026 r.edart lun 31/08/2026 - 10:17 Gaz Verts Les 9 et 10 septembre, le Centre Régional Gaz Verts Occitanie (CRGV) sera présent à INNOV-AGRI à Ondes (31), au sein de l'es…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -18970,6 +19101,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "arec-occitanie-rss-6-1787730740000",
+      "title": "3e Rencontres Régionales Géothermie Occitanie",
+      "source": "AREC Occitanie",
+      "sourceId": "arec-occitanie",
+      "sourceType": "Agence énergie-climat",
+      "region": "Occitanie",
+      "url": "https://www.arec-occitanie.fr/magazine/3e-rencontres-regionales-geothermie-occitanie-mercredi-22-septembre-pibrac-31",
+      "image": "https://www.arec-occitanie.fr/sites/default/files/mageothermie_occitanie_ban_1024px.png",
+      "date": "2026-08-26",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Rénovation",
+        "Eau",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "3e Rencontres Régionales Géothermie Occitanie r.edart mer 26/08/2026 - 09:52 EnR Géothermie 3e Rencontres régionales Géothermie Occitanie Événement organisé par la Région Occitanie, l'ADEME et l'AREC Occitanie, animatrice régionale de la filière Géothermie. Géothermie & confort d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "connaissance-des-energies-rss-29-1787702400000",
       "title": "La fin du gaz bon marché : pourquoi votre facture pourrait doubler d'ici 10 ans",
       "source": "Connaissance des Énergies",
@@ -19043,6 +19200,58 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Tornades et trombes Une tornade est un tourbillon de vents violents se développant sous un cumulonimbus et se prolongeant jusqu'à terre. C’est un phénomène assez bref et très localisé. La tornade est rendue visible par les gouttelettes de condensation qui y naissent, formant une …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "arec-occitanie-rss-7-1787646753000",
+      "title": "Le nouvel atelier de peinture de Satys Coatings à Marseille structuré et financé par FITEO",
+      "source": "AREC Occitanie",
+      "sourceId": "arec-occitanie",
+      "sourceType": "Agence énergie-climat",
+      "region": "Occitanie",
+      "url": "https://www.arec-occitanie.fr/magazine/le-nouvel-atelier-de-peinture-de-satys-coatings-marseille-structure-et-finance-par-fiteo",
+      "image": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D",
+      "date": "2026-08-25",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Rénovation",
+        "Réglementation",
+        "Carbone",
+        "Confort d’été"
+      ],
+      "summary": "Le nouvel atelier de peinture de Satys Coatings à Marseille structuré et financé par FITEO r.edart mar 25/08/2026 - 10:32 Décarbonation Activités Le vendredi 12 juin, l’AREC Occitanie était présente à Marseille pour l’inauguration du nouvel atelier de peinture de Satys Coatings. …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "arec-occitanie-rss-8-1787644642000",
+      "title": "Matinée d'échanges autour de la Géothermie autour d'un cas concret - mardi 2 juin 2026",
+      "source": "AREC Occitanie",
+      "sourceId": "arec-occitanie",
+      "sourceType": "Agence énergie-climat",
+      "region": "Occitanie",
+      "url": "https://www.arec-occitanie.fr/magazine/matinee-dechanges-autour-de-la-geothermie-autour-dun-cas-concret-mardi-2-juin-2026",
+      "image": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D",
+      "date": "2026-08-25",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Rénovation",
+        "Réglementation",
+        "Carbone",
+        "Bâtiment"
+      ],
+      "summary": "Matinée d'échanges autour de la Géothermie autour d'un cas concret - mardi 2 juin 2026 r.edart mar 25/08/2026 - 09:57 EnR Géothermie Professionnels du bâtiment en Occitanie : et si vous découvriez la géothermie sur un cas concret ? Une matinée proposée par l’Animation Géothermie …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -19299,14 +19508,40 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "agence-qualite-construction-aqc-wp-21305-1786431600000",
-      "title": "Flop 10 Locaux d&rsquo;activité 2026 : les menuiseries extérieures toujours n°1",
+      "id": "arec-occitanie-rss-9-1786526118000",
+      "title": "Offre d'emploi Chargé.e de projet EnR confirmé.e",
+      "source": "AREC Occitanie",
+      "sourceId": "arec-occitanie",
+      "sourceType": "Agence énergie-climat",
+      "region": "Occitanie",
+      "url": "https://www.arec-occitanie.fr/stages-et-emplois/chargee-de-projet-enr-confirmee-2026",
+      "image": null,
+      "date": "2026-08-12",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Rénovation",
+        "Réglementation",
+        "RE2020",
+        "Eau"
+      ],
+      "summary": "Offre d'emploi Chargé.e de projet EnR confirmé.e r.edart mer 12/08/2026 - 11:15 Dès 2016, la Région Occitanie s’est fixée comme objectif de devenir la 1ere Région à énergie positive d’Europe (REPOS). Outil de la Région Occitanie, l’AREC fabrique des solutions de transition énergé…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "agence-qualite-construction-aqc-sitemap-27-1786431600000",
+      "title": "desordres decennaux aqc 2026 flop 10 locaux activite menuiseries exterieures 06 2026",
       "source": "Agence Qualité Construction — AQC",
       "sourceId": "agence-qualite-construction-aqc",
       "sourceType": "Observatoire / organisme technique",
       "region": "National",
       "url": "https://qualiteconstruction.com/actualite/desordres-decennaux-aqc-2026-flop-10-locaux-activite-menuiseries-exterieures-06-2026/",
-      "image": "https://qualiteconstruction.com/wp-content/uploads/2026/07/desordres-decennaux-aqc-2026-flop-10-locaux-activite-menuiseries-toitures-terrasses-actualite-aqc-06-2026.jpg",
+      "image": null,
       "date": "2026-08-11",
       "access": "open",
       "official": false,
@@ -19319,9 +19554,9 @@ window.BATIVEILLE_DATA = {
         "Observatoire",
         "Bâtiment"
       ],
-      "summary": "Le Rapport de l&rsquo;Observatoire de la Qualité de la Construction confirme la persistance des problèmes de menuiseries extérieures dans les locaux d&rsquo;activité, avec une sinistralité des toitures-terrasses à protection lourde jugée de plus en plus inquiétante. Locaux d&rsqu…",
+      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "inc-institut-national-de-la-consommation-rss-7-1786485600000",
@@ -19566,14 +19801,14 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "agence-qualite-construction-aqc-wp-21296-1785826800000",
-      "title": "Flop 10 Logements collectifs 2026 : les équipements sanitaires en tête du classement",
+      "id": "agence-qualite-construction-aqc-sitemap-29-1785826800000",
+      "title": "desordres decennaux aqc 2026 flop 10 logements collectifs equipements sanitaires 06 2026",
       "source": "Agence Qualité Construction — AQC",
       "sourceId": "agence-qualite-construction-aqc",
       "sourceType": "Observatoire / organisme technique",
       "region": "National",
       "url": "https://qualiteconstruction.com/actualite/desordres-decennaux-aqc-2026-flop-10-logements-collectifs-equipements-sanitaires-06-2026/",
-      "image": "https://qualiteconstruction.com/wp-content/uploads/2026/07/desordres-decennaux-aqc-2025-flop-10-logements-collectifs-equipements-sanitaires-actualite-aqc-06-2026.jpg",
+      "image": null,
       "date": "2026-08-04",
       "access": "open",
       "official": false,
@@ -19586,9 +19821,9 @@ window.BATIVEILLE_DATA = {
         "Observatoire",
         "Bâtiment"
       ],
-      "summary": "Le Rapport de l&rsquo;Observatoire de la Qualité de la Construction 2026 place pour la première fois les équipements sanitaires en tête du Flop 10 des logements collectifs, avec 10,7 % des désordres, devant les fenêtres et portes-fenêtres traditionnelles extérieures. Logements co…",
+      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "urbalyon-rss-7-1785852960000",
@@ -20207,14 +20442,14 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "agence-qualite-construction-aqc-wp-21276-1785222000000",
-      "title": "Flop 10 Maisons individuelles 2026 : la couverture en petits éléments toujours en tête",
+      "id": "agence-qualite-construction-aqc-sitemap-28-1785222000000",
+      "title": "desordres decennaux aqc 2026 flop 10 maisons individuelles couverture petits elements 06 2026",
       "source": "Agence Qualité Construction — AQC",
       "sourceId": "agence-qualite-construction-aqc",
       "sourceType": "Observatoire / organisme technique",
       "region": "National",
       "url": "https://qualiteconstruction.com/actualite/desordres-decennaux-aqc-2026-flop-10-maisons-individuelles-couverture-petits-elements-06-2026/",
-      "image": "https://qualiteconstruction.com/wp-content/uploads/2026/07/desordres-decennaux-aqc-2026-flop-10-maisons-individuelles-couvertures-petits-elements-actualite-aqc-06-2026.jpg",
+      "image": null,
       "date": "2026-07-28",
       "access": "open",
       "official": false,
@@ -20227,9 +20462,9 @@ window.BATIVEILLE_DATA = {
         "Observatoire",
         "Bâtiment"
       ],
-      "summary": "Le Rapport de l&rsquo;Observatoire de la Qualité de la Construction confirme la première place de la couverture en petits éléments dans les maisons individuelles, tandis que la sinistralité des équipements sanitaires poursuit sa progression inquiétante. Maisons individuelles : qu…",
+      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "capeb-rss-14-1785222916000",
@@ -20354,6 +20589,81 @@ window.BATIVEILLE_DATA = {
         "Territoires"
       ],
       "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "agence-qualite-construction-aqc-sitemap-0-1784802905000",
+      "title": "actualites evenements",
+      "source": "Agence Qualité Construction — AQC",
+      "sourceId": "agence-qualite-construction-aqc",
+      "sourceType": "Observatoire / organisme technique",
+      "region": "National",
+      "url": "https://qualiteconstruction.com/actualites-evenements/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Qualité construction",
+        "Sinistralité",
+        "Pathologies",
+        "Observatoire",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "agence-qualite-construction-aqc-sitemap-30-1784802826000",
+      "title": "concours photo 2026 desordres batiment palmares aqc 06 2026",
+      "source": "Agence Qualité Construction — AQC",
+      "sourceId": "agence-qualite-construction-aqc",
+      "sourceType": "Observatoire / organisme technique",
+      "region": "National",
+      "url": "https://qualiteconstruction.com/actualite/concours-photo-2026-desordres-batiment-palmares-aqc-06-2026/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Qualité construction",
+        "Sinistralité",
+        "Pathologies",
+        "Observatoire",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "agence-qualite-construction-aqc-sitemap-31-1784802905000",
+      "title": "desordres decennaux aqc 2026 flop 10 sinistralite francaise 06 2026",
+      "source": "Agence Qualité Construction — AQC",
+      "sourceId": "agence-qualite-construction-aqc",
+      "sourceType": "Observatoire / organisme technique",
+      "region": "National",
+      "url": "https://qualiteconstruction.com/actualite/desordres-decennaux-aqc-2026-flop-10-sinistralite-francaise-06-2026/",
+      "image": null,
+      "date": "2026-07-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Qualité construction",
+        "Sinistralité",
+        "Pathologies",
+        "Observatoire",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -21697,6 +22007,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "agence-qualite-construction-aqc-sitemap-26-1783525860000",
+      "title": "concours photo 2025 desordres batiment palmares aqc 06 2025",
+      "source": "Agence Qualité Construction — AQC",
+      "sourceId": "agence-qualite-construction-aqc",
+      "sourceType": "Observatoire / organisme technique",
+      "region": "National",
+      "url": "https://qualiteconstruction.com/actualite/concours-photo-2025-desordres-batiment-palmares-aqc-06-2025/",
+      "image": null,
+      "date": "2026-07-08",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Qualité construction",
+        "Sinistralité",
+        "Pathologies",
+        "Observatoire",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "atmo-france-sitemap-32-1783498288000",
       "title": "grand public",
       "source": "Atmo France",
@@ -22260,7 +22595,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
