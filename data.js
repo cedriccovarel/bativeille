@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-20T23:02:59.475Z",
+  "generatedAt": "2026-10-21T03:57:04.022Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,109 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1792552200000",
+      "title": "Les renouvelables en tête de l’électricité en 2035 dans le monde selon Statkraft",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/les-renouvelables-en-tete-de-lelectricite-en-2035-dans-le-monde-selon-statkraft/197500-2026-10",
+      "image": null,
+      "date": "2026-10-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Mardi, l’électricien public norvégien Statkraft a publié la 11e édition de son rapport Green Transition Scenarios, qui prévoit que les renouvelables deviendront la première source d’électricité au monde d’ici 2035. Selon le document, cette trajectoire repose principalement sur le…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1792555011000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1792555011000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1792555011000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "observatoire-de-l-immobilier-durable-oid-rss-0-1792511327000",
       "title": "Les données climatiques publiques au service de l’adaptation : comment DRIAS alimente l’action sur le bâti en France grâce à Bat-ADAPT",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -3722,7 +3825,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792534200000",
+      "id": "enerzine-rss-1-1792534200000",
       "title": "L’omniconversion magnétique, une méthode passive pour modeler des champs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3746,7 +3849,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792505220000",
+      "id": "enerzine-rss-2-1792505220000",
       "title": "DJI lance l’Osmo Pocket 4P Pearl White au Royaume-Uni",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3771,7 +3874,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792498020000",
+      "id": "enerzine-rss-3-1792498020000",
       "title": "Stellantis et Leapmotor : après le B10, un deuxième modèle électrique prévu à Saragosse",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3795,7 +3898,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792494420000",
+      "id": "enerzine-rss-4-1792494420000",
       "title": "Connaissez-vous les 17 mesures qui vont changer le chauffage, les transports et l’industrie ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3819,7 +3922,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792491261000",
+      "id": "enerzine-rss-5-1792491261000",
       "title": "Carburant : l’aide aux « grands rouleurs » élargie, les nouvelles demandes ouvriront le 27 octobre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3843,7 +3946,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792489200000",
+      "id": "enerzine-rss-6-1792489200000",
       "title": "Lancia Gamma 2026, plus de 740 km électriques et un pari industriel risqué",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3867,7 +3970,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792486500000",
+      "id": "enerzine-rss-7-1792486500000",
       "title": "Futurs Renault Scénic et Rafale électriques : jusqu’à 750 km annoncés avec recharges rapides",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3891,7 +3994,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792474200000",
+      "id": "enerzine-rss-8-1792474200000",
       "title": "Paris et Berlin s’accordent sur la politique automobile européenne",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3916,7 +4019,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1792469400000",
+      "id": "enerzine-rss-9-1792469400000",
       "title": "Une naine blanche identifiée comme la première étoile verte connue",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3938,30 +4041,6 @@ window.BATIVEILLE_DATA = {
         "Réemploi"
       ],
       "summary": "Des astronomes de l’université de Warwick ont identifié WD J1330+6435, une naine blanche qui apparaîtrait d’un vert chartreuse à l’œil humain, selon une étude publiée dans RAS Techniques and Instruments. À la connaissance des chercheurs, aucune autre étoile, vivante ou morte, n’a…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1792469400000",
-      "title": "Climat : le réchauffement s’accélère et les points de bascule inquiètent",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/climat-le-rechauffement-saccelere-et-les-points-de-bascule-inquietent/197494-2026-10",
-      "image": null,
-      "date": "2026-10-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Selon un rapport scientifique coécrit par William Ripple, de l’Oregon State University, le réchauffement climatique s’accélère et plusieurs indicateurs atteignent des records. Les chercheurs alertent sur les points de bascule, tout en relevant des signes de progrès dans les énerg…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4112,84 +4191,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Le 25 octobre, vous gagnerez une heure de sommeil. Mais savez-vous que ce rituel fait bondir de 42 % les accidents mortels de piétons ? L'Europe promet sa fin depuis 2018... toujours sans date. L’article Changement d’heure, on dort plus ou moins ? Les médecins du sommeil prévienn…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1792537366000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1792537366000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1792537366000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1792497926000",
@@ -4873,26 +4874,24 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-5-1792451100000",
-      "title": "Quand l’habitat positif s’allie au PSE à Empreinte Carbone Améliorée",
+      "title": "QUALIBAT signe deux partenariats avec Vivest et Domofrance",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/habitat-positif-pse-empreinte-carbone-amelioree-49434",
-      "image": "https://img.batiweb.com/repo-images/publi/49434/hirsch-10-21-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/qualibat-partenariats-vivest-domofrance-49459",
+      "image": "https://img.batiweb.com/repo-images/publi/49459/qualibat-10-21-une.png",
       "date": "2026-10-19",
       "access": "open",
       "official": false,
-      "highImpact": true,
-      "impactScore": 88,
+      "highImpact": false,
+      "impactScore": 72,
       "tags": [
         "Construction",
         "Produits",
-        "Marché",
-        "Réglementation",
-        "Carbone"
+        "Marché"
       ],
-      "summary": "Avec 1 300 m³ d’isolants PSE ECA, le Verger de Bondilly constitue une illustration concrète du potentiel de cette nouvelle génération de PSE. Avec 1 300 m³ d’isolants PSE ECA, le Verger de Bondilly constitue une illustration concrète du potentiel de cette nouvelle génération de P…",
+      "summary": "QUALIBAT a signé deux conventions avec Vivest et Domofrance. Ces accords visent à rapprocher les bailleurs sociaux des entreprises qualifiées. QUALIBAT a signé deux conventions avec Vivest et Domofrance. Ces accords visent à rapprocher les bailleurs sociaux des entreprises qualif…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4924,24 +4923,26 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-7-1792451100000",
-      "title": "QUALIBAT signe deux partenariats avec Vivest et Domofrance",
+      "title": "Quand l’habitat positif s’allie au PSE à Empreinte Carbone Améliorée",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/qualibat-partenariats-vivest-domofrance-49459",
-      "image": "https://img.batiweb.com/repo-images/publi/49459/qualibat-10-21-une.png",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/habitat-positif-pse-empreinte-carbone-amelioree-49434",
+      "image": "https://img.batiweb.com/repo-images/publi/49434/hirsch-10-21-une.jpg",
       "date": "2026-10-19",
       "access": "open",
       "official": false,
-      "highImpact": false,
-      "impactScore": 72,
+      "highImpact": true,
+      "impactScore": 88,
       "tags": [
         "Construction",
         "Produits",
-        "Marché"
+        "Marché",
+        "Réglementation",
+        "Carbone"
       ],
-      "summary": "QUALIBAT a signé deux conventions avec Vivest et Domofrance. Ces accords visent à rapprocher les bailleurs sociaux des entreprises qualifiées. QUALIBAT a signé deux conventions avec Vivest et Domofrance. Ces accords visent à rapprocher les bailleurs sociaux des entreprises qualif…",
+      "summary": "Avec 1 300 m³ d’isolants PSE ECA, le Verger de Bondilly constitue une illustration concrète du potentiel de cette nouvelle génération de PSE. Avec 1 300 m³ d’isolants PSE ECA, le Verger de Bondilly constitue une illustration concrète du potentiel de cette nouvelle génération de P…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6630,6 +6631,29 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-12-1792364700000",
+      "title": "Renson obtient la médaille Bronze EcoVadis pour sa démarche durable",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/renson-medaille-bronze-ecovadis-demarche-durable-49447",
+      "image": "https://img.batiweb.com/repo-images/publi/49447/renson-10-20-une.jpg",
+      "date": "2026-10-18",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Renson obtient la médaille Bronze EcoVadis et rejoint le top 35% mondial, une étape clé pour construire des espaces sains... durablement. Renson obtient la médaille Bronze EcoVadis et rejoint le top 35% mondial, une étape clé pour construire des espaces sains... durablement. Rens…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-13-1792364700000",
       "title": "Assurance décennale : comment l’obtenir (ou la retrouver) sans bloquer ses chantiers",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6649,29 +6673,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Pour un artisan ou une entreprise du BTP, l’assurance décennale n’est pas un document administratif parmi d’autres. Sans elle, impossible de signer sereinement un devis, de répondre à un appel d’offres ou de démarrer un chantier. Pourtant, nombreux sont ceux qui se retrouvent, un…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-13-1792364700000",
-      "title": "Renson obtient la médaille Bronze EcoVadis pour sa démarche durable",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/renson-medaille-bronze-ecovadis-demarche-durable-49447",
-      "image": "https://img.batiweb.com/repo-images/publi/49447/renson-10-20-une.jpg",
-      "date": "2026-10-18",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Renson obtient la médaille Bronze EcoVadis et rejoint le top 35% mondial, une étape clé pour construire des espaces sains... durablement. Renson obtient la médaille Bronze EcoVadis et rejoint le top 35% mondial, une étape clé pour construire des espaces sains... durablement. Rens…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16861,7 +16862,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-78-1789603200000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-92-1789603200000",
       "title": "gouvernement frederic carre rencontre vincent jeanbrun",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -19083,7 +19084,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-319-1788220800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-339-1788220800000",
       "title": "actu simple 31",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -22906,7 +22907,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
