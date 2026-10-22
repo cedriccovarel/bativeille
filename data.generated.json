@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:06:18.338Z",
+  "generatedAt": "2026-10-22T03:57:08.461Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,109 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1792638600000",
+      "title": "Anthropic affirme que Claude Mythos 5 a conçu des circuits quantiques",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/quand-les-circuits-quantiques-deviennent-optimises-par-claude-mythos-5/197789-2026-10",
+      "image": null,
+      "date": "2026-10-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020"
+      ],
+      "summary": "Anthropic a annoncé, le 16 octobre 2026, que son modèle Claude Mythos 5 avait conçu des circuits quantiques surpassant les meilleures conceptions publiées, dans certains cas d’un ordre de grandeur ou plus, selon l’entreprise. Un article associé décrit un cadre où un évaluateur au…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1792641415000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1792641415000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1792641415000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "capeb-rss-0-1792576675000",
       "title": "REP Bâtiment : Les conclusions du Conseil d’État confortent les positions communes de la CAPEB et des associations de collectivités locales",
       "source": "CAPEB",
@@ -2489,32 +2592,6 @@
         "Énergie"
       ],
       "summary": "Un cinquième texte vient compléter la série de décrets et arrêtés (déjà publiés ou en consultation) qui constituent le « socle commun » pour les matières fertilisantes et les supports de culture (MFSC) : un projet d'arrêté relatif à l'épandage des... Un cinquième texte vient comp…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-0-1792568374000",
-      "title": "Nouvel épisode d’Entre les murs : transformer le DUERP en opportunité",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/actualites/nouvel-episode-dentre-les-murs-transformer-le-duerp-en-opportunite-140142",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-10/IMG_20261015_094531%20copie.jpg?itok=OSsP1iJf",
-      "date": "2026-10-21",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "Eau",
-        "Économie du bâtiment",
-        "Réemploi"
-      ],
-      "summary": "Nouvel épisode d’Entre les murs : transformer le DUERP en opportunité Maxence NORMANDIE mer 21/10/2026 - 09:39 Le DUERP, un document essentiel pour les agences d’architecture Obligatoire dès l’embauche du premier salarié, le Document Unique d’Évaluation des Risques Professionnels…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3249,7 +3326,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792620600000",
+      "id": "enerzine-rss-1-1792620600000",
       "title": "Des chercheurs suisses ont suivi la dissipation d’énergie des magnons dans l’oxyde de cuivre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3274,7 +3351,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792602600000",
+      "id": "enerzine-rss-2-1792602600000",
       "title": "Revolut tombe en panne, et votre carte devient un simple bout de plastique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3299,7 +3376,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792585204000",
+      "id": "enerzine-rss-3-1792585204000",
       "title": "Pompe à chaleur en leasing : une bonne affaire ou une mensualité de plus ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3325,7 +3402,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792578000000",
+      "id": "enerzine-rss-4-1792578000000",
       "title": "Électrification de l’industrie : pourquoi le choix des câbles devient un enjeu technique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3349,7 +3426,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792575300000",
+      "id": "enerzine-rss-5-1792575300000",
       "title": "Octopus Energy contraint de renommer son offre après une demande d’EDF",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3374,7 +3451,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792573620000",
+      "id": "enerzine-rss-6-1792573620000",
       "title": "Quatre regards primés sur les phénomènes météorologiques au concours photo AMS 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3400,7 +3477,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792570800000",
+      "id": "enerzine-rss-7-1792570800000",
       "title": "Avant la première flambée, votre poêle à granulés est-il vraiment prêt ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3425,7 +3502,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792565700000",
+      "id": "enerzine-rss-8-1792565700000",
       "title": "Voiture hybride : les 7 avantages face à ses homologues thermiques et tout électriques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3450,7 +3527,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1792560600000",
+      "id": "enerzine-rss-9-1792560600000",
       "title": "Deux simulations cosmologiques record sur le supercalculateur Aurora dont celle de l’univers",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3475,32 +3552,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1792559400000",
-      "title": "Chunyu Guo reçoit le prix Nicholas Kurti 2026",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
+      "id": "lenergeek-rss-0-1792620000000",
+      "title": "Prix du pétrole le 22 octobre 2026 : le Brent dépasse 110 dollars, le WTI à 98 dollars",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
       "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://www.enerzine.com/chunyu-guo-recoit-le-prix-nicholas-kurti-2026/197497-2026-10",
-      "image": null,
+      "url": "https://lenergeek.com/2026/10/22/prix-du-petrole-le-22-octobre-2026-le-brent-depasse-110-dollars-le-wti-a-98-dollars/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/shutterstock_2667284827-1.jpg",
       "date": "2026-10-21",
       "access": "Gratuit",
       "official": false,
-      "highImpact": true,
-      "impactScore": 88,
+      "highImpact": false,
+      "impactScore": 80,
       "tags": [
         "Presse professionnelle",
         "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
+        "Politiques publiques",
+        "ENR"
       ],
-      "summary": "Chunyu Guo, responsable de groupe de recherche à l’Institut Max Planck pour la structure et la dynamique de la matière à Hambourg, a remporté le prix scientifique Nicholas Kurti 2026. Annoncée mardi 13 octobre par le fabricant d’instruments britannique Quantum Design Oxford, cett…",
+      "summary": "Le 22 octobre 2026 au petit matin, le Brent s'établit à 110,11 dollars et le WTI à 98,12 dollars selon Reuters. L’article Prix du pétrole le 22 octobre 2026 : le Brent dépasse 110 dollars, le WTI à 98 dollars est apparu en premier sur L'EnerGeek. Le 22 octobre 2026 au petit matin…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1792570001000",
+      "id": "lenergeek-rss-1-1792570001000",
       "title": "Climat : la COP 17 biodiversité débute, les défis restent nombreux",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3525,7 +3601,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1792569262000",
+      "id": "lenergeek-rss-2-1792569262000",
       "title": "Boeing 737 MAX 10 certifié : les avancées énergétiques au cœur du projet",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3550,7 +3626,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1792563472000",
+      "id": "lenergeek-rss-3-1792563472000",
       "title": "Automobile : un SUV chinois de Leapmotor bientôt éligible aux aides européennes ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3574,7 +3650,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1792561800000",
+      "id": "lenergeek-rss-4-1792561800000",
       "title": "Chauffage : la règle des 19 °C est-elle dépassée ? Voici la température à privilégier cet hiver",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3599,7 +3675,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1792560000000",
+      "id": "lenergeek-rss-5-1792560000000",
       "title": "Votre maison est-elle hantée ? La science révèle ce qui pourrait vraiment se cacher derrière les fantômes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3624,7 +3700,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1792555533000",
+      "id": "lenergeek-rss-6-1792555533000",
       "title": "Billet d’avion : la guerre au Moyen-Orient fait flamber les tarifs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3697,84 +3773,6 @@
         "Biosourcé"
       ],
       "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1792623967000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1792623967000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1792623967000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -5505,7 +5503,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1792502296000",
+      "id": "lenergeek-rss-7-1792502296000",
       "title": "Royaume-Uni : 160 grévistes peuvent-ils bloquer l’approvisionnement pétrolier ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5529,7 +5527,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1792487655000",
+      "id": "lenergeek-rss-8-1792487655000",
       "title": "Carburant : Emmanuel Macron sécurise 200.000 tonnes de diesel dans les pays du Golfe",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5553,7 +5551,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1792485313000",
+      "id": "lenergeek-rss-9-1792485313000",
       "title": "IA : un seul entraînement consommera autant qu’une métropole entière en 2030",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5577,7 +5575,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1792477800000",
+      "id": "lenergeek-rss-10-1792477800000",
       "title": "Charbon : 1 510 nouveaux projets malgré les engagements climatiques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5603,7 +5601,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1792475400000",
+      "id": "lenergeek-rss-11-1792475400000",
       "title": "La NASA détecte les premiers signes d’un El Niño potentiellement historique : les climatologues n’avaient pas vu ça depuis 1997",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5628,7 +5626,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1792473644000",
+      "id": "lenergeek-rss-12-1792473644000",
       "title": "Changement d’heure, on dort plus ou moins ? Les médecins du sommeil préviennent : la réponse dépend d’un détail que personne ne vérifie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6270,30 +6268,6 @@
         "Confort d’été"
       ],
       "summary": "L'activité de Tarkett en Russie a été placée sous contrôle de Moscou, a indiqué le fabricant. Une nouvelle procédure visant les entreprises appartenant à des pays jugés« inamicaux » avec le Kremlin, face à la guerre en Ukraine. L'activité de Tarkett en Russie a été placée sous co…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-1-1792402552000",
-      "title": "\"Pierre Puccinelli - Géométrie, matière et esprit de village\" - Conférence de Pierre-Paul Puccinelli",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/actualites/pierre-puccinelli-geometrie-matiere-et-esprit-de-village-conference-de-pierre-paul",
-      "image": null,
-      "date": "2026-10-19",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "\"Pierre Puccinelli - Géométrie, matière et esprit de village\" - Conférence de Pierre-Paul Puccinelli Délia lun 19/10/2026 - 11:35 Zone géographique Corse Média Accroche Journée Annuelle des architectes de Corse 2026 à Venaco Retrouvez la captation de la conférence \"Pierre Puccine…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6950,7 +6924,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1792418891000",
+      "id": "lenergeek-rss-13-1792418891000",
       "title": "Mondial de l’Auto 2026 : 518 372 visiteurs en six jours à Paris",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6974,7 +6948,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1792418016000",
+      "id": "lenergeek-rss-14-1792418016000",
       "title": "Carburant : pourquoi TotalEnergies concentre 87% des ruptures",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6998,7 +6972,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1792414620000",
+      "id": "lenergeek-rss-15-1792414620000",
       "title": "Les forestiers bloquent Rennes et réclament l’égalité sur le carburant",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7024,7 +6998,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1792406896000",
+      "id": "lenergeek-rss-16-1792406896000",
       "title": "Pétrolier en feu à Ormuz : 24 navires touchés en deux semaines",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7048,7 +7022,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1792395620000",
+      "id": "lenergeek-rss-17-1792395620000",
       "title": "Chaudière en panne au premier coup de froid : pannes fréquentes, coût, réparer ou remplacer",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7074,7 +7048,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1792390846000",
+      "id": "lenergeek-rss-18-1792390846000",
       "title": "Réfrigérateur gourmand en énergie, le test avec une lampe de poche permet de diminuer les dépenses",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7098,7 +7072,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1792389035000",
+      "id": "lenergeek-rss-19-1792389035000",
       "title": "Deux randonneurs trouvent une canette rouillée dans la forêt, renfermant près de 600 pièces d’or estimées à 330 000 $",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7122,7 +7096,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1792387247000",
+      "id": "lenergeek-rss-20-1792387247000",
       "title": "Ils ont essayé de planter des arbres dans le Sahara sans succès, puis après avoir libéré 500 tortues, le désert est devenu visible depuis l’espace",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7540,7 +7514,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1792304412000",
+      "id": "lenergeek-rss-21-1792304412000",
       "title": "Une femme en Roumanie a conservé un caillou comme cale-porte pendant des décennies, qui était en fait un morceau d’ambre de 3,5 kg estimé à 1 million de dollars",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7565,7 +7539,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1792302605000",
+      "id": "lenergeek-rss-22-1792302605000",
       "title": "Zelenskyy accepte de suspendre 100 jours les frappes sur les raffineries russes contre un accès élargi à Starlink",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7590,7 +7564,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1792300832000",
+      "id": "lenergeek-rss-23-1792300832000",
       "title": "Trois centrales nucléaires à l’arrêt pourraient bientôt fournir de l’électricité à des millions de foyers, ainsi qu’à des centres de données d’IA",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7767,32 +7741,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-23-1792234800000",
-      "title": "Électrification 2027 : le réseau français face à la sortie du fossile",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/17/electrification-2027-reseau-capacite/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/plan-electrification.jpg",
-      "date": "2026-10-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Le gouvernement déploie à partir du 1er janvier 2027 la deuxième phase de son plan d'électrification, visant à réduire la part des énergies fossiles de 60% à 40% en cinq ans. Sortie totale du fioul, déconnexion du gaz dans 109 territoires, 20 000 utilitaires électriques et simpli…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "observatoire-de-l-immobilier-durable-oid-rss-1-1792151948000",
       "title": "Audit énergétique & système de management de l’énergie (SMÉ) : comment se conformer aux nouvelles exigences ?",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -7862,32 +7810,6 @@
       "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-2-1792147497000",
-      "title": "ARCHINORMAND #2 : un nouveau regard sur l’architecture contemporaine en Normandie",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/actualites/archinormand-2-un-nouveau-regard-sur-larchitecture-contemporaine-en-normandie-139998",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-10/Book%20Mockup2.png%20.png?itok=XGvrNLCH",
-      "date": "2026-10-16",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "RE2020",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "ARCHINORMAND #2 : un nouveau regard sur l’architecture contemporaine en Normandie Maxence NORMANDIE ven 16/10/2026 - 12:44 Après le succès de sa première édition, ARCHINORMAND revient avec un second numéro qui confirme l’intérêt croissant porté à l’architecture normande. Cette an…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "envirobat-occitanie-rss-8-1792136621000",
@@ -9538,32 +9460,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-3-1791966670000",
-      "title": "Architectures et Territoires 2026 l Comment a été imaginée la mutation du quartier la Part-Dieu à Lyon entre 1977 et 2027 ?",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/actualites/architectures-et-territoires-2026-l-comment-ete-imaginee-la-mutation-du-quartier-la-part",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/rte_small/public/2026-10/OA%20Portraits_0.jpg?itok=vkfQrqqQ",
-      "date": "2026-10-14",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "Eau",
-        "Confort d’été",
-        "Bâtiment"
-      ],
-      "summary": "Architectures et Territoires 2026 l Comment a été imaginée la mutation du quartier la Part-Dieu à Lyon entre 1977 et 2027 ? communication-ara mer 14/10/2026 - 10:31 UN PROGRAMME RICHE EN PERSPECTIVES À travers l'exemple de la Part-Dieu, quartier emblématique de la transformation …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "auran-rss-2-1791969564000",
       "title": "À Nozay, un diagnostic partagé pour préparer la prochaine Convention Territoriale Globale",
       "source": "AURAN",
@@ -10894,32 +10790,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-4-1791806999000",
-      "title": "Près de 200 architectes réunis à Rouen pour la Réunion annuelle 2026 des architectes normands",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/actualites/pres-de-200-architectes-reunis-rouen-pour-la-reunion-annuelle-2026-des-architectes",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-10/8-748A2244.jpg?itok=YRxfjXOj",
-      "date": "2026-10-12",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "RE2020",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Près de 200 architectes réunis à Rouen pour la Réunion annuelle 2026 des architectes normands Maxence NORMANDIE lun 12/10/2026 - 14:09 Affichant complet plusieurs semaines avant sa tenue, la Réunion annuelle 2026 des architectes normands s’est déroulée sur les quais de Rouen dans…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "ordeco-occitanie-sitemap-1-1791763200000",
       "title": "newsletters",
       "source": "ORDECO Occitanie",
@@ -12177,32 +12047,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-5-1791358082000",
-      "title": "Le rapport d’activité 2025/2026 est en ligne !",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/actualites/le-rapport-dactivite-20252026-est-en-ligne-139772",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-10/Mockup%20rapport%20d%27activite%CC%81%202025%202026.png?itok=IgKp7LK3",
-      "date": "2026-10-07",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "Eau",
-        "Confort d’été",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le rapport d’activité 2025/2026 est en ligne ! Maxence NORMANDIE mer 07/10/2026 - 09:28 Le rapport d’activité 2025-2026 du Conseil Régional de l'Ordre des Architectes de Normandie est désormais disponible en consultation. À travers ce document, le CROA Normandie revient sur les m…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "arb-nouvelle-aquitaine-rss-2-1791370096000",
       "title": "Lettre d’information – Octobre 2026",
       "source": "ARB Nouvelle-Aquitaine",
@@ -13244,55 +13088,6 @@
         "Bâtiment"
       ],
       "summary": "Tout au long du mois d’octobre, la CAPEB se mobilise pour sensibiliser son réseau à la prévention et à la santé des femmes. Une mobilisation qui s’inscrit dans le prolongement des actions menées à BATIMAT et qui associe sensibilisation, activité physique et échanges autour de la …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-6-1790941804000",
-      "title": "Architectures & Territoires 2026 \"Terra Sacra\"",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/evenements/architectures-territoires-2026-terra-sacra-139652",
-      "image": "https://www.architectes.org/sites/cnoa/files/2026-10/1.png",
-      "date": "2026-10-02",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "Biosourcé",
-        "Bâtiment"
-      ],
-      "summary": "Architectures & Territoires 2026 \"Terra Sacra\" Délia ven 02/10/2026 - 13:50 Zone géographique Corse Média AT26 CROA CORSE Accroche Cette rencontre se tiendra le vendredi 16 octobre 2026, au Musée de site archéologique de Mariana - Prince Rainier III de Monaco. À travers cette thé…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-7-1790924866000",
-      "title": "Newsletter et agenda d'octobre - CROA Centre-Val de Loire",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/actualites/newsletter-et-agenda-doctobre-croa-centre-val-de-loire-139637",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-02/CVDL_agenda-conseiller26.jpg?itok=n6Qlxipk",
-      "date": "2026-10-02",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Newsletter et agenda d'octobre - CROA Centre-Val de Loire Chevallier-EA ven 02/10/2026 - 09:07 Zone géographique Centre-Val de Loire Média Agenda du mois - CROA Centre-Val de Loire CROA CVL, Freepik Accroche Retrouvez ci-dessous l'agenda prévisionnel des conseillers du mois en co…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -14621,32 +14416,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ordre-des-architectes-cnoa-rss-8-1790351960000",
-      "title": "Un vent de douceur : une exposition qui invite à porter un nouveau regard sur nos espaces de vie",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/evenements/un-vent-de-douceur-une-exposition-qui-invite-porter-un-nouveau-regard-sur-nos-espaces-de",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-09/1200%C3%97630%20px%20-%20Expo%20Un%20vent%20de%20douceur.png?itok=A9YhXA-_",
-      "date": "2026-09-25",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "RE2020",
-        "Eau",
-        "Énergie"
-      ],
-      "summary": "Un vent de douceur : une exposition qui invite à porter un nouveau regard sur nos espaces de vie Maxence NORMANDIE ven 25/09/2026 - 17:59 Une exposition autour de la sensibilité des territoires Présentée au Carré Saint-Cyr, l’exposition Un vent de douceur propose une exploration …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "novabuild-rss-5-1790312880000",
       "title": "Enquête de l'ADEME sur Novabuild : 5 minutes pour nous dire votre vérité !",
       "source": "Novabuild",
@@ -14915,32 +14684,6 @@
       "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ordre-des-architectes-cnoa-rss-9-1790234543000",
-      "title": "Podcast \"Entre les murs\" : la RSE, un levier de progrès accessible à toutes les agences d’architecture",
-      "source": "Ordre des Architectes — CNOA",
-      "sourceId": "ordre-des-architectes-cnoa",
-      "sourceType": "Ordre professionnel",
-      "region": "National",
-      "url": "https://www.architectes.org/actualites/podcast-entre-les-murs-la-rse-un-levier-de-progres-accessible-toutes-les-agences",
-      "image": "https://www.architectes.org/sites/cnoa/files/styles/large/public/2026-09/Affiche%20podcast%20RSE%20dans%20les%20agences.png?itok=P9u78eVJ",
-      "date": "2026-09-24",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Architecture",
-        "Profession",
-        "Réglementation",
-        "Eau",
-        "Réemploi",
-        "Bâtiment"
-      ],
-      "summary": "Podcast \"Entre les murs\" : la RSE, un levier de progrès accessible à toutes les agences d’architecture Maxence NORMANDIE jeu 24/09/2026 - 09:22 La RSE, bien plus qu’une question environnementale Face aux défis de la transition écologique, de l’évolution des pratiques professionne…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "orcae-auvergne-rhone-alpes-sitemap-16-1790250528000",
@@ -18066,6 +17809,28 @@
       "collectMethod": "rss"
     },
     {
+      "id": "cite-de-l-architecture-et-du-patrimoine-sitemap-190-1788787260000",
+      "title": "ressources pedagogiques",
+      "source": "Cité de l’architecture et du patrimoine",
+      "sourceId": "cite-de-l-architecture-et-du-patrimoine",
+      "sourceType": "Institution culturelle",
+      "region": "National",
+      "url": "https://www.citedelarchitecture.fr/fr/article/ressources-pedagogiques",
+      "image": null,
+      "date": "2026-09-07",
+      "access": "official",
+      "official": true,
+      "highImpact": false,
+      "impactScore": 74,
+      "tags": [
+        "Architecture",
+        "Patrimoine"
+      ],
+      "summary": "Publication détectée dans le sitemap de Cité de l’architecture et du patrimoine. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1788739200000",
       "title": "400 ans de la marine nationale en region sud lhistoire secrit encore au large",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -19534,14 +19299,14 @@
       "collectMethod": "rss"
     },
     {
-      "id": "agence-qualite-construction-aqc-sitemap-27-1786431600000",
-      "title": "desordres decennaux aqc 2026 flop 10 locaux activite menuiseries exterieures 06 2026",
+      "id": "agence-qualite-construction-aqc-wp-21305-1786431600000",
+      "title": "Flop 10 Locaux d&rsquo;activité 2026 : les menuiseries extérieures toujours n°1",
       "source": "Agence Qualité Construction — AQC",
       "sourceId": "agence-qualite-construction-aqc",
       "sourceType": "Observatoire / organisme technique",
       "region": "National",
       "url": "https://qualiteconstruction.com/actualite/desordres-decennaux-aqc-2026-flop-10-locaux-activite-menuiseries-exterieures-06-2026/",
-      "image": null,
+      "image": "https://qualiteconstruction.com/wp-content/uploads/2026/07/desordres-decennaux-aqc-2026-flop-10-locaux-activite-menuiseries-toitures-terrasses-actualite-aqc-06-2026.jpg",
       "date": "2026-08-11",
       "access": "open",
       "official": false,
@@ -19554,9 +19319,9 @@
         "Observatoire",
         "Bâtiment"
       ],
-      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "summary": "Le Rapport de l&rsquo;Observatoire de la Qualité de la Construction confirme la persistance des problèmes de menuiseries extérieures dans les locaux d&rsquo;activité, avec une sinistralité des toitures-terrasses à protection lourde jugée de plus en plus inquiétante. Locaux d&rsqu…",
       "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
+      "collectMethod": "wordpress_api"
     },
     {
       "id": "inc-institut-national-de-la-consommation-rss-7-1786485600000",
@@ -19801,14 +19566,14 @@
       "collectMethod": "rss"
     },
     {
-      "id": "agence-qualite-construction-aqc-sitemap-29-1785826800000",
-      "title": "desordres decennaux aqc 2026 flop 10 logements collectifs equipements sanitaires 06 2026",
+      "id": "agence-qualite-construction-aqc-wp-21296-1785826800000",
+      "title": "Flop 10 Logements collectifs 2026 : les équipements sanitaires en tête du classement",
       "source": "Agence Qualité Construction — AQC",
       "sourceId": "agence-qualite-construction-aqc",
       "sourceType": "Observatoire / organisme technique",
       "region": "National",
       "url": "https://qualiteconstruction.com/actualite/desordres-decennaux-aqc-2026-flop-10-logements-collectifs-equipements-sanitaires-06-2026/",
-      "image": null,
+      "image": "https://qualiteconstruction.com/wp-content/uploads/2026/07/desordres-decennaux-aqc-2025-flop-10-logements-collectifs-equipements-sanitaires-actualite-aqc-06-2026.jpg",
       "date": "2026-08-04",
       "access": "open",
       "official": false,
@@ -19821,9 +19586,9 @@
         "Observatoire",
         "Bâtiment"
       ],
-      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "summary": "Le Rapport de l&rsquo;Observatoire de la Qualité de la Construction 2026 place pour la première fois les équipements sanitaires en tête du Flop 10 des logements collectifs, avec 10,7 % des désordres, devant les fenêtres et portes-fenêtres traditionnelles extérieures. Logements co…",
       "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
+      "collectMethod": "wordpress_api"
     },
     {
       "id": "urbalyon-rss-7-1785852960000",
@@ -20442,14 +20207,14 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "agence-qualite-construction-aqc-sitemap-28-1785222000000",
-      "title": "desordres decennaux aqc 2026 flop 10 maisons individuelles couverture petits elements 06 2026",
+      "id": "agence-qualite-construction-aqc-wp-21276-1785222000000",
+      "title": "Flop 10 Maisons individuelles 2026 : la couverture en petits éléments toujours en tête",
       "source": "Agence Qualité Construction — AQC",
       "sourceId": "agence-qualite-construction-aqc",
       "sourceType": "Observatoire / organisme technique",
       "region": "National",
       "url": "https://qualiteconstruction.com/actualite/desordres-decennaux-aqc-2026-flop-10-maisons-individuelles-couverture-petits-elements-06-2026/",
-      "image": null,
+      "image": "https://qualiteconstruction.com/wp-content/uploads/2026/07/desordres-decennaux-aqc-2026-flop-10-maisons-individuelles-couvertures-petits-elements-actualite-aqc-06-2026.jpg",
       "date": "2026-07-28",
       "access": "open",
       "official": false,
@@ -20462,9 +20227,9 @@
         "Observatoire",
         "Bâtiment"
       ],
-      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "summary": "Le Rapport de l&rsquo;Observatoire de la Qualité de la Construction confirme la première place de la couverture en petits éléments dans les maisons individuelles, tandis que la sinistralité des équipements sanitaires poursuit sa progression inquiétante. Maisons individuelles : qu…",
       "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
+      "collectMethod": "wordpress_api"
     },
     {
       "id": "capeb-rss-14-1785222916000",
@@ -20589,81 +20354,6 @@
         "Territoires"
       ],
       "summary": "Publication détectée dans le sitemap de CEREMA. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "agence-qualite-construction-aqc-sitemap-0-1784802905000",
-      "title": "actualites evenements",
-      "source": "Agence Qualité Construction — AQC",
-      "sourceId": "agence-qualite-construction-aqc",
-      "sourceType": "Observatoire / organisme technique",
-      "region": "National",
-      "url": "https://qualiteconstruction.com/actualites-evenements/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Qualité construction",
-        "Sinistralité",
-        "Pathologies",
-        "Observatoire",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "agence-qualite-construction-aqc-sitemap-30-1784802826000",
-      "title": "concours photo 2026 desordres batiment palmares aqc 06 2026",
-      "source": "Agence Qualité Construction — AQC",
-      "sourceId": "agence-qualite-construction-aqc",
-      "sourceType": "Observatoire / organisme technique",
-      "region": "National",
-      "url": "https://qualiteconstruction.com/actualite/concours-photo-2026-desordres-batiment-palmares-aqc-06-2026/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Qualité construction",
-        "Sinistralité",
-        "Pathologies",
-        "Observatoire",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "agence-qualite-construction-aqc-sitemap-31-1784802905000",
-      "title": "desordres decennaux aqc 2026 flop 10 sinistralite francaise 06 2026",
-      "source": "Agence Qualité Construction — AQC",
-      "sourceId": "agence-qualite-construction-aqc",
-      "sourceType": "Observatoire / organisme technique",
-      "region": "National",
-      "url": "https://qualiteconstruction.com/actualite/desordres-decennaux-aqc-2026-flop-10-sinistralite-francaise-06-2026/",
-      "image": null,
-      "date": "2026-07-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Qualité construction",
-        "Sinistralité",
-        "Pathologies",
-        "Observatoire",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -22005,31 +21695,6 @@
       "summary": "L’édition 2026 du Baromètre INIES est désormais disponible Une dynamique qui s’accélère au service de […] L’article Baromètre 2026 de la base INIES est apparu en premier sur Inies. L&#8217;édition 2026 du Baromètre INIES est désormais disponible Une dynamique qui s&#8217;accélère…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "agence-qualite-construction-aqc-sitemap-26-1783525860000",
-      "title": "concours photo 2025 desordres batiment palmares aqc 06 2025",
-      "source": "Agence Qualité Construction — AQC",
-      "sourceId": "agence-qualite-construction-aqc",
-      "sourceType": "Observatoire / organisme technique",
-      "region": "National",
-      "url": "https://qualiteconstruction.com/actualite/concours-photo-2025-desordres-batiment-palmares-aqc-06-2025/",
-      "image": null,
-      "date": "2026-07-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Qualité construction",
-        "Sinistralité",
-        "Pathologies",
-        "Observatoire",
-        "Bâtiment"
-      ],
-      "summary": "Publication détectée dans le sitemap de Agence Qualité Construction — AQC. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "atmo-france-sitemap-32-1783498288000",
