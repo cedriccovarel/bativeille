@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T23:05:47.064Z",
+  "generatedAt": "2026-10-23T04:01:04.761Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,110 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1792725000000",
+      "title": "Transformer les déchets en combustible pourrait aider à réduire l’empreinte carbone du ciment",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/transformer-les-dechets-en-combustible-pourrait-aider-a-reduire-lempreinte-carbone-du-ciment/197917-2026-10",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Selon des chercheurs australiens, les déchets qui finiraient autrement en décharge pourraient contribuer à une production de ciment bas carbone en réduisant la dépendance du secteur aux combustibles fossiles. La candidate au doctorat de l’Université d’Adélaïde Geethmi Thisakya, a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1792728049000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1792728049000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1792728049000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "batiweb-rss-0-1792682100000",
       "title": "EPI et vêtements de travail : Protecthoms rachète Stéol",
       "source": "Batiweb",
@@ -3058,6 +3162,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-0-1792652400000",
+      "title": "HelloAsso lance un fonds pour soutenir l’engagement associatif et défendre la « majorité généreuse »",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/helloasso-lance-un-fonds-pour-soutenir-lengagement-associatif-et-defendre-la-majorite-genereuse/",
+      "image": null,
+      "date": "2026-10-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réemploi"
+      ],
+      "summary": "À l’occasion du Forum national des associations et fondations (FNAF) 2026, HelloAsso a lancé la semaine dernière le Fonds HelloAsso pour l’engagement. Objectif : soutenir des programmes d’intérêt général qui encouragent les citoyens à agir collectivement et renforcent les solidar…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-0-1792683638000",
       "title": "A412 : la procureure d'Annecy demande la suspension immédiate du chantier",
       "source": "Reporterre",
@@ -3637,7 +3766,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792707000000",
+      "id": "enerzine-rss-1-1792707000000",
       "title": "La « preuve irréfutable » qui aidera à résoudre le mystère de la supraconductivité à haute température",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3663,7 +3792,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792682400000",
+      "id": "enerzine-rss-2-1792682400000",
       "title": "Fin des chaudières au biofioul, le défi du remplacement arrive dans les campagnes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3688,7 +3817,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792672200000",
+      "id": "enerzine-rss-3-1792672200000",
       "title": "Logiciel de factures : lequel choisir et pourquoi ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3713,7 +3842,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792659300000",
+      "id": "enerzine-rss-4-1792659300000",
       "title": "Robots et véhicules électriques, l’écran passe au premier plan",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3738,7 +3867,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792657200000",
+      "id": "enerzine-rss-5-1792657200000",
       "title": "Vous conservez votre chaudière au gaz : quelles conséquences pour vos aides à la rénovation ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3764,7 +3893,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792647000000",
+      "id": "enerzine-rss-6-1792647000000",
       "title": "Un bras robotique incarné « EmArm » doté d’une perception du toucher semblable à celle de l’humain",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3790,7 +3919,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792645800000",
+      "id": "enerzine-rss-7-1792645800000",
       "title": "Les ultrasons créent un tube qui guide la matière à travers l’air",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3815,7 +3944,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792642200000",
+      "id": "enerzine-rss-8-1792642200000",
       "title": "Tennant lance le P1 VAC, son premier aspirateur robot autonome",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3840,7 +3969,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1792638600000",
+      "id": "enerzine-rss-9-1792638600000",
       "title": "Anthropic affirme que Claude Mythos 5 a conçu des circuits quantiques",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4011,84 +4140,6 @@
         "Biosourcé"
       ],
       "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1792710333000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1792710333000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1792710333000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -5018,52 +5069,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-0-1792570418000",
-      "title": "Bien connaître les risques pour mieux passer à l’action : l’exemple de Grenoble",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/bien-connaitre-les-risques-pour-mieux-passer-a-laction-lexemple-de-grenoble/",
-      "image": null,
-      "date": "2026-10-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Bien connaître les risques pour mieux passer à l’action : l’exemple de Grenoble est apparu en premier sur AUAT. L’article Bien connaître les risques pour mieux passer à l&#8217;action : l&#8217;exemple de Grenoble est apparu en premier sur AUAT . Bien connaître les risq…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auat-toulouse-rss-1-1792570380000",
-      "title": "Le cri d’alarme des Nations unies face au point de non-retour d’un réchauffement à + 1,5 °C",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/le-cri-dalarme-des-nations-unies-face-au-point-de-non-retour-dun-rechauffement-a-15-c/",
-      "image": null,
-      "date": "2026-10-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Le cri d’alarme des Nations unies face au point de non-retour d’un réchauffement à + 1,5 °C est apparu en premier sur AUAT. L’article Le cri d&#8217;alarme des Nations unies face au point de non-retour d&#8217;un réchauffement à + 1,5 °C est apparu en premier sur AUAT .…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1792540800000",
       "title": "fos sur mer europe",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -5209,6 +5214,30 @@
         "Réglementation"
       ],
       "summary": "En 2025, 2,8% du carburant d’aviation fourni dans les aéroports européens étaient des carburants d'aviation durable. Alexandru-Bogdan Ghita / Unsplash C’est une bonne nouvelle, ou presque. L’Union européenne a réussi à tenir ses objectifs en matière d’incorporation de carburants …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-1-1792566000000",
+      "title": "FNAF 2027 : le bilan des 20 ans du Forum national des associations et fondation",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/fnaf-2027-le-bilan-des-20-ans-du-forum-national-des-associations-et-fondation/",
+      "image": null,
+      "date": "2026-10-21",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Pour son vingtième anniversaire, le Forum national des associations et fondations (FNAF) a réuni au CentQuatre plus de 5100 participants. Entre financements incertains, libertés associatives en débat et appels à « faire ensemble », la journée a aussi dessiné un agenda politique p…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5619,31 +5648,6 @@
         "Réglementation"
       ],
       "summary": "Alors que l’avenir est plus que jamais promis à l’électron, tous les moyens de produire une électricité décarbonée sont bons à prendre, y compris le […] L’article Cette éolienne domestique française est soutenue par Amazon est apparu en premier sur Révolution Énergétique. Alors q…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1792620600000",
-      "title": "Des chercheurs suisses ont suivi la dissipation d’énergie des magnons dans l’oxyde de cuivre",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-chercheurs-suisses-ont-suivi-la-dissipation-denergie-des-magnons-dans-loxyde-de-cuivre/197779-2026-10",
-      "image": null,
-      "date": "2026-10-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Des chercheurs du PSI ont observé, dans un oxyde de cuivre, que les magnons excités par laser persistent jusqu’à l’échelle de la nanoseconde avant de céder leur énergie au réseau cristallin. Cette étude, publiée dans Nature Communications le 29 septembre 2026, documente un transf…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6247,53 +6251,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-2-1792483900000",
-      "title": "Qualité de l’air : la France respecte les normes actuelles mais devra réduire ses émissions d’ici 2030",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/qualite-de-lair-la-france-respecte-les-normes-actuelles-mais-devra-reduire-ses-emissions-dici-2030/",
-      "image": null,
-      "date": "2026-10-20",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation"
-      ],
-      "summary": "L’article Qualité de l’air : la France respecte les normes actuelles mais devra réduire ses émissions d’ici 2030 est apparu en premier sur AUAT. L’article Qualité de l&#8217;air : la France respecte les normes actuelles mais devra réduire ses émissions d&#8217;ici 2030 est apparu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auat-toulouse-rss-3-1792483755000",
-      "title": "Transports et aménagement du territoire : généalogie d’une articulation perdue",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/transports-et-amenagement-du-territoire-genealogie-dune-articulation-perdue/",
-      "image": null,
-      "date": "2026-10-20",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Transports et aménagement du territoire : généalogie d’une articulation perdue est apparu en premier sur AUAT. L’article Transports et aménagement du territoire : généalogie d’une articulation perdue est apparu en premier sur AUAT . Transports et aménagement du territoi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "arb-nouvelle-aquitaine-rss-0-1792486995000",
       "title": "42e Festival international du film ornithologique (FIFO) de Ménigoute",
       "source": "ARB Nouvelle-Aquitaine",
@@ -6587,6 +6544,30 @@
         "Réglementation"
       ],
       "summary": "Coreweave, fournisseur de capacités de calcul aux entreprises de l'IA, a vu son cours de Bourse plonger ces derniers jours. @Panumas Nikhomkhai Pexels Ça commence à craquer du côté de l’endettement IA. Coreweave, une société américaine de \"cloud computing\", inquiète les marchés, …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-2-1792478700000",
+      "title": "L’indignation face aux violences, la faillite d’un projet politique",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/la-faillite-dun-projet-politique/",
+      "image": null,
+      "date": "2026-10-20",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Après les violences de samedi, la colère d’une génération révèle l’échec d’un pouvoir sourd à ceux qu’il gouverne depuis dix ans. Aux candidats à la présidentielle de répondre. Certains s’inquiètent de la faillite de la France, c’est à la faillite d’un projet politique que nous a…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7563,53 +7544,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-4-1792413499000",
-      "title": "Précarité énergétique liée au logement : état des lieux pour éclairer les politiques locales",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/precarite-energetique-liee-au-logement-etat-des-lieux-pour-eclairer-les-politiques-locales/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2026/09/preca_nrj.jpg",
-      "date": "2026-10-19",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat",
-        "Bâtiment"
-      ],
-      "summary": "Continuer de lire “Précarité énergétique liée au logement : état des lieux pour éclairer les politiques locales”… L’article Précarité énergétique liée au logement : état des lieux pour éclairer les politiques locales est apparu en premier sur AUAT. L&#8217;AUAT publie une étude s…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auat-toulouse-rss-5-1792395417000",
-      "title": "8 conseils pour établir un schéma directeur immobilier et énergétique",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/8-conseils-pour-etablir-un-schema-directeur-immobilier-et-energetique/",
-      "image": null,
-      "date": "2026-10-19",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article 8 conseils pour établir un schéma directeur immobilier et énergétique est apparu en premier sur AUAT. L’article 8 conseils pour établir un schéma directeur immobilier et énergétique est apparu en premier sur AUAT . 8 conseils pour établir un schéma directeur immobilier …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "a-urba-bordeaux-aquitaine-rss-1-1792397381000",
       "title": "Et vous, que pensez-vous des espaces de nature du campus ?",
       "source": "A’urba Bordeaux Aquitaine",
@@ -7857,6 +7791,30 @@
         "Confort d’été"
       ],
       "summary": "Philippe Zaouti est l'ancien CEO de Mirova, une société de gestion d'actifs internationale destinée à l'investissement responsable. Vous avez publié un post LinkedIn à la suite des manifestations du 17 octobre sur \"le coût de l'inaction\" qui pèse aujourd'hui sur le monde économiq…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-3-1792393200000",
+      "title": "Quand le changement d’échelle de l’ESS dépend de la qualité de l’écosystème qui l’entoure",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/quand-le-changement-dechelle-de-less-depend-de-la-qualite-de-lecosysteme-qui-lentoure/",
+      "image": null,
+      "date": "2026-10-19",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "Les dirigeants de l’ESS affrontent aujourd’hui des défis qui dépassent largement le cadre d’un accompagnement ponctuel. Évolution du modèle économique, diversification des ressources, gouvernance, recrutements, développement commercial, recherche d’investisseurs, transmission, in…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9366,76 +9324,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-6-1792060267000",
-      "title": "Former, attirer, développer : les enjeux de l’enseignement supérieur pour les territoires",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/former-attirer-developper-les-enjeux-de-lenseignement-superieur-pour-les-territoires/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2026/10/ESR_albi.jpg",
-      "date": "2026-10-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "Continuer de lire “Former, attirer, développer : les enjeux de l’enseignement supérieur pour les territoires”… L’article Former, attirer, développer : les enjeux de l’enseignement supérieur pour les territoires est apparu en premier sur AUAT. L’AUAT propose un panorama de l’offre…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auat-toulouse-rss-7-1792050216000",
-      "title": "“Une seule santé” : un nouvel outil pour passer du concept à l’action",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/une-seule-sante-un-nouvel-outil-pour-passer-du-concept-a-laction/",
-      "image": null,
-      "date": "2026-10-15",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat",
-        "RE2020"
-      ],
-      "summary": "L’article “Une seule santé” : un nouvel outil pour passer du concept à l’action est apparu en premier sur AUAT. L’article “Une seule santé” : un nouvel outil pour passer du concept à l&#8217;action est apparu en premier sur AUAT . “Une seule santé” : un nouvel outil pour passer d…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auat-toulouse-rss-8-1792050167000",
-      "title": "Occitanie : 300 000 seniors en perte d’autonomie en 2050 selon l’Insee",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/occitanie-300-000-seniors-en-perte-dautonomie-en-2050-selon-linsee/",
-      "image": null,
-      "date": "2026-10-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Occitanie : 300 000 seniors en perte d’autonomie en 2050 selon l’Insee est apparu en premier sur AUAT. L’article Occitanie : 300 000 seniors en perte d’autonomie en 2050 selon l&#8217;Insee est apparu en premier sur AUAT . Occitanie : 300 000 seniors en perte d’autonomi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1792022400000",
       "title": "la region accompagne concretement le quotidien des habitants des alpes maritimes",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -9627,6 +9515,32 @@
         "Environnement"
       ],
       "summary": "Réduisez vos factures d'énergie en rénovant votre éclairage extérieur avec l'aide de l'AUE ! L’article Rénovez votre éclairage extérieur avec l’AUE ! est apparu en premier sur Agence d'Urbanisme et d'Énergie de la Corse. Réduisez vos factures d'énergie en rénovant votre éclairage…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-4-1792047600000",
+      "title": "Justice sociale : Mathilde Boulay exhorte les candidats à la présidentielle à commencer par l’école",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/justice-sociale-mathilde-boulay-exhorte-les-candidats-a-la-presidentielle-a-commencer-par-lecole/",
+      "image": null,
+      "date": "2026-10-15",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "RE2020"
+      ],
+      "summary": "Chevalière de l’ordre national du mérite, Mathilde Boulay a mis deux ans à accepter sa médaille. Dans son ouvrage « Nous méritons mieux » (Calmann-Lévy), la déléguée générale de L’Ascenseur, collectif de plus de 100 associations engagées pour l’égalité des chances, raconte son pa…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10160,78 +10074,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-9-1791982121000",
-      "title": "Rencontre de la planification : le paysage, levier stratégique des SCoT et PLU",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/rencontre-de-la-planification-le-paysage-levier-strategique-des-scot-et-plu/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2026/10/paysage.jpg",
-      "date": "2026-10-14",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat",
-        "Eau"
-      ],
-      "summary": "Continuer de lire “Rencontre de la planification : le paysage, levier stratégique des SCoT et PLU”… L’article Rencontre de la planification : le paysage, levier stratégique des SCoT et PLU est apparu en premier sur AUAT. Le 24 septembre 2026, l’AUAT a réuni ses membres lors d’une…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auat-toulouse-rss-10-1791960371000",
-      "title": "Logement : vivre seul est-il devenu la norme ?",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/logement-vivre-seul-est-il-devenu-la-norme/",
-      "image": null,
-      "date": "2026-10-14",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "L’article Logement : vivre seul est-il devenu la norme ? est apparu en premier sur AUAT. L’article Logement : vivre seul est-il devenu la norme ? est apparu en premier sur AUAT . Logement : vivre seul est-il devenu la norme ?",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auat-toulouse-rss-11-1791960332000",
-      "title": "A Caen, les agences d’urbanisme sèment les graines de l’aménagement de demain",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/a-caen-les-agences-durbanisme-sement-les-graines-de-lamenagement-de-demain/",
-      "image": null,
-      "date": "2026-10-14",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article A Caen, les agences d’urbanisme sèment les graines de l’aménagement de demain est apparu en premier sur AUAT. L’article A Caen, les agences d’urbanisme sèment les graines de l’aménagement de demain est apparu en premier sur AUAT . A Caen, les agences d’urbanisme sèment …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1791936000000",
       "title": "allo lycees region sud votre plateforme pour signaler un probleme dans vos lycees",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -10375,6 +10217,30 @@
         "Protection solaire"
       ],
       "summary": "Depuis la fermeture des portes du Paris Builders Show, notre magazine n’a pas vraiment fait de pause et a souhaité interroger “à chaud” un panel représentatif des exposants de nos professions. Retours sur leur participation à Batimat / Equipbaie, les... L’article Batimat / Equipb…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-5-1791961200000",
+      "title": "Mouvement associatif : Claire Thoury passe le relais, Tarek Daher mise sur les alliances",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/mouvement-associatif-claire-thoury-passe-le-relais-tarek-daher-mise-sur-les-alliances/",
+      "image": null,
+      "date": "2026-10-14",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "C’est fait, le Mouvement associatif a changé de président. Lors de la soirée de rentrée politique du mouvement, jeudi 8 octobre, Claire Thoury, devenue présidente du Conseil économique, social et environnemental (CESE), a passé le relais à Tarek Daher, délégué général d’Emmaüs Fr…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10703,77 +10569,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-12-1791901557000",
-      "title": "Santé et qualité de l’air : les nouvelles boussoles de l’aménagement ?",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/sante-et-qualite-de-lair-les-nouvelles-boussoles-de-lamenagement/",
-      "image": "https://www.aua-toulouse.org/wp-content/uploads/2026/05/ppa_visuel.jpg",
-      "date": "2026-10-13",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation"
-      ],
-      "summary": "Continuer de lire “Santé et qualité de l’air : les nouvelles boussoles de l’aménagement ?”… L’article Santé et qualité de l’air : les nouvelles boussoles de l’aménagement ? est apparu en premier sur AUAT. Comment intégrer la qualité de l&#8217;air et la santé dans les politiques …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auat-toulouse-rss-13-1791876277000",
-      "title": "Projections : mieux cartographier les risques de crue pour mieux les anticiper",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/projections-mieux-cartographier-les-risques-de-crue-pour-mieux-les-anticiper/",
-      "image": null,
-      "date": "2026-10-13",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article Projections : mieux cartographier les risques de crue pour mieux les anticiper est apparu en premier sur AUAT. L’article Projections : mieux cartographier les risques de crue pour mieux les anticiper est apparu en premier sur AUAT . Projections : mieux cartographier les…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auat-toulouse-rss-14-1791876244000",
-      "title": "Logement : les organismes de foncier solidaire gagnent du terrain",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/logement-les-organismes-de-foncier-solidaire-gagnent-du-terrain/",
-      "image": null,
-      "date": "2026-10-13",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat",
-        "Bâtiment"
-      ],
-      "summary": "L’article Logement : les organismes de foncier solidaire gagnent du terrain est apparu en premier sur AUAT. L’article Logement : les organismes de foncier solidaire gagnent du terrain est apparu en premier sur AUAT . Logement : les organismes de foncier solidaire gagnent du terra…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1791849600000",
       "title": "lou pan dici la baguette de pain 100 sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -10889,6 +10684,30 @@
         "Bâtiment"
       ],
       "summary": "Novastruct confie à Cyril Erout la Direction Business Développement France. Fort de près de trente ans d'expérience dans l'aluminium et les produits techniques du bâtiment, il est rattaché à Nico Klomp, CEO Europe, et forme avec Lionel Javon, Directeur des... L’article Cyril Erou…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-6-1791873900000",
+      "title": "Une jeunesse qui découvre l’État par sa force armée",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/une-jeunesse-qui-decouvre-letat-par-sa-force-armee/",
+      "image": null,
+      "date": "2026-10-13",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale"
+      ],
+      "summary": "« J’ai tellement hâte de voir le blocus » ! Sur le chemin du lycée, trois filles rigolent ce lundi matin. Il y a dans l’air un petit parfum de transgression. Allez viens, on s’encanaille. On va montrer qu’on existe. Et surtout, qu’on a des choses à dire ! La génération d’avant n’…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11877,56 +11696,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-15-1791533257000",
-      "title": "Le marché de la transformation de bureaux en logements ne répond pas encore aux attentes",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/le-marche-de-la-transformation-de-bureaux-en-logements-ne-repond-pas-encore-aux-attentes/",
-      "image": null,
-      "date": "2026-10-09",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat",
-        "Eau",
-        "Économie du bâtiment",
-        "Bâtiment"
-      ],
-      "summary": "L’article Le marché de la transformation de bureaux en logements ne répond pas encore aux attentes est apparu en premier sur AUAT. L’article Le marché de la transformation de bureaux en logements ne répond pas encore aux attentes est apparu en premier sur AUAT . Le marché de la t…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auat-toulouse-rss-16-1791533210000",
-      "title": "Les bornes de recharge électrique, une jungle aux tarifs opaques et à la myriade d’acteurs",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/les-bornes-de-recharge-electrique-une-jungle-aux-tarifs-opaques-et-a-la-myriade-dacteurs/",
-      "image": null,
-      "date": "2026-10-09",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat",
-        "Réglementation"
-      ],
-      "summary": "L’article Les bornes de recharge électrique, une jungle aux tarifs opaques et à la myriade d’acteurs est apparu en premier sur AUAT. L’article Les bornes de recharge électrique, une jungle aux tarifs opaques et à la myriade d&#8217;acteurs est apparu en premier sur AUAT . Les bor…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1791504000000",
       "title": "10 recettes du sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
@@ -11998,6 +11767,31 @@
         "Confort d’été"
       ],
       "summary": "Pas facile en septembre de démarrer la rédaction d’un dossier sur le confort d’été après avoir subi 8 795 micros-trottoirs sur les Français qui ont chaud l’été et qui s’hydratent en se calfeutrant dans le noir chez eux ! Et pourtant… C’est... L’article Dossier spécial Canicule : …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-7-1791532282000",
+      "title": "Solidarités et santé : le secteur non lucratif lance la mobilisation nationale",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/solidarites-et-sante-le-secteur-non-lucratif-lance-la-mobilisation-nationale/",
+      "image": null,
+      "date": "2026-10-09",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Confort d’été"
+      ],
+      "summary": "Plus de cinquante organisations, associations, employeurs et une organisation syndicale, lancent du 12 au 17 octobre la mobilisation « Et si nous arrêtions vraiment ? ». Leur constat : à force d’encaisser les baisses de financement, le secteur a déjà commencé à fermer des service…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12202,53 +11996,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "auat-toulouse-rss-17-1791444642000",
-      "title": "La forêt française s’étend, mais souffre des effets du réchauffement climatique",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/la-foret-francaise-setend-mais-souffre-des-effets-du-rechauffement-climatique/",
-      "image": null,
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article La forêt française s’étend, mais souffre des effets du réchauffement climatique est apparu en premier sur AUAT. L’article La forêt française s&#8217;étend, mais souffre des effets du réchauffement climatique est apparu en premier sur AUAT . La forêt française s’étend, m…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auat-toulouse-rss-18-1791444600000",
-      "title": "L’Institut français pour la performance du bâtiment chiffre un plan d’adaptation des logements aux fortes chaleurs",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/linstitut-francais-pour-la-performance-du-batiment-chiffre-un-plan-dadaptation-des-logements-aux-fortes-chaleurs/",
-      "image": null,
-      "date": "2026-10-08",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat",
-        "Bâtiment"
-      ],
-      "summary": "L’article L’Institut français pour la performance du bâtiment chiffre un plan d’adaptation des logements aux fortes chaleurs est apparu en premier sur AUAT. L’article L’Institut français pour la performance du bâtiment chiffre un plan d’adaptation des logements aux fortes chaleur…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "envirobatbdm-rss-1-1791454035000",
       "title": "La nature s’invite en ville",
       "source": "EnvirobatBDM",
@@ -12394,6 +12141,32 @@
         "Eau"
       ],
       "summary": "ADM21 présentera ce nouveau produit FlexDSL au salon IBS les 14 et 15 octobre prochains. Remplacer un câblage industriel sur plusieurs kilomètres peut être complexe et coûteux. Le MiniFlex MF-PAM-RAIL2N-2Eth permet de réutiliser les paires cuivre disponibles pour transporter les …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "mediatico-rss-8-1791442800000",
+      "title": "Les MJC vont mieux : le déficit recule… mais l’accueil inconditionnel aussi",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/les-mjc-vont-mieux-le-deficit-recule-mais-laccueil-inconditionnel-aussi/",
+      "image": null,
+      "date": "2026-10-08",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Selon le second Observatoire du réseau des Maisons des Jeunes et de la Culture, 38 % des MJC sont encore en déficit contre 53 % en 2022. Mais l’amélioration vient surtout de la hausse des tarifs et de la réduction des activités, au détriment du public et au moment où les question…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12642,6 +12415,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "mediatico-rss-9-1791356460000",
+      "title": "75 % des Français souhaitent que les associations soient mieux associées aux décisions politiques",
+      "source": "Mediatico",
+      "sourceId": "mediatico",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://mediatico.fr/75-des-francais-souhaitent-que-les-associations-soient-mieux-associees-aux-decisions-politiques/",
+      "image": null,
+      "date": "2026-10-07",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "Transition écologique",
+        "Économie sociale",
+        "Réglementation"
+      ],
+      "summary": "Une étude de Destin Commun montre que 83 % des Français jugent les associations efficaces et que 75 % veulent les voir davantage associées aux décisions publiques. Mais ces « maillons démocratiques » sont clairement perçus comme fragilisés, d’abord par leurs difficultés de financ…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-18-1791356964000",
       "title": "Cette entreprise électrifie les cars scolaires pour réduire leur empreinte carbone",
       "source": "Révolution Énergétique",
@@ -12768,29 +12566,6 @@
         "Bâtiment"
       ],
       "summary": "Pour sa troisième édition, le prix met en lumière des projets innovants et durables, réalisés par des équipes formées par Construire en Chanvre ! Construire en Chanvre représente la filière chanvre au sein du Collectif Biosourcé Pays de la Loire. Chaque construction, neuve ou réh…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auat-toulouse-rss-19-1791273338000",
-      "title": "L’habitat léger s’impose aux collectivités, aux bailleurs et aux architectes",
-      "source": "AUAT Toulouse",
-      "sourceId": "auat-toulouse",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Occitanie",
-      "url": "https://www.aua-toulouse.org/lhabitat-leger-simpose-aux-collectivites-aux-bailleurs-et-aux-architectes/",
-      "image": null,
-      "date": "2026-10-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Toulouse",
-        "Urbanisme",
-        "Habitat"
-      ],
-      "summary": "L’article L’habitat léger s’impose aux collectivités, aux bailleurs et aux architectes est apparu en premier sur AUAT. L’article L’habitat léger s’impose aux collectivités, aux bailleurs et aux architectes est apparu en premier sur AUAT . L’habitat léger s’impose aux collectivité…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16640,7 +16415,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-92-1789603200000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-78-1789603200000",
       "title": "gouvernement frederic carre rencontre vincent jeanbrun",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -18741,7 +18516,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-339-1788220800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-319-1788220800000",
       "title": "actu simple 31",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -19605,7 +19380,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-637-1786623747000",
+      "id": "ministere-de-la-transition-ecologique-sitemap-37-1786623747000",
       "title": "savoir secheresse",
       "source": "Ministère de la Transition Écologique",
       "sourceId": "ministere-de-la-transition-ecologique",
@@ -20024,7 +19799,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-616-1785750141000",
+      "id": "ministere-de-la-transition-ecologique-sitemap-16-1785750141000",
       "title": "publication ventes produits phytopharmaceutiques",
       "source": "Ministère de la Transition Écologique",
       "sourceId": "ministere-de-la-transition-ecologique",
@@ -22077,7 +21852,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-649-1783513623000",
+      "id": "ministere-de-la-transition-ecologique-sitemap-49-1783513623000",
       "title": "sobriete energetique plan reduire notre consommation denergie",
       "source": "Ministère de la Transition Écologique",
       "sourceId": "ministere-de-la-transition-ecologique",
@@ -22311,7 +22086,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ministere-de-la-transition-ecologique-sitemap-615-1783426398000",
+      "id": "ministere-de-la-transition-ecologique-sitemap-15-1783426398000",
       "title": "securite sites industriels risques mise place vigilance renforcee",
       "source": "Ministère de la Transition Écologique",
       "sourceId": "ministere-de-la-transition-ecologique",
@@ -22686,7 +22461,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
