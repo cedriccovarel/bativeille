@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:55:21.775Z",
+  "generatedAt": "2026-10-24T17:59:55.306Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,29 @@
   ],
   "articles": [
     {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1792800000000",
+      "title": "prj 2026 2027",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/prj-2026-2027",
+      "image": null,
+      "date": "2026-10-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "odeys-rss-0-1792829797000",
       "title": "Journée de la Rénovation Durable et des Matériaux Biosourcés",
       "source": "Odéys",
@@ -2187,7 +2210,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1792821600000",
+      "id": "reporterre-rss-0-1792863184000",
+      "title": "[PHOTOS] Congrès du RN à Orléans : 26 000 personnes manifestent contre « le racisme, le fascisme et l'impérialisme »",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/PHOTOS-Congres-du-RN-a-Orleans-26-000-personnes-manifestent-contre-le-racisme-le-fascisme",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/2026-10-24_reporterre_orleans-35_resized-ec105.jpg?1792863186",
+      "date": "2026-10-24",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Confort d’été"
+      ],
+      "summary": "Une manifestation réunissant entre 13 000, selon la préfecture, et 26 000 personnes, selon les organisateurs, a eu lieu à Orléans, qui accueille le congrès du Rassemblement national. La ville a été mise sous cloche. Le temps d'une journée, Orléans est devenu la capitale de l'anti…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1792821600000",
       "title": "« En appeler à l'armée contre sa propre population, c'est extrêmement inquiétant »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2212,7 +2260,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1792821600000",
+      "id": "reporterre-rss-2-1792821600000",
       "title": "« À chaque fois, des gens y croient, puis la promesse est rompue » : les consultations citoyennes de Macron ne passent plus",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2237,7 +2285,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1792818000000",
+      "id": "reporterre-rss-3-1792818000000",
       "title": "Lacrymogènes : des gaz nocifs bien après les manifs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2389,7 +2437,33 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1792819242000",
+      "id": "lenergeek-rss-0-1792848000000",
+      "title": "Recharges électriques : une consommation en hausse de 72% en un an, le réseau français sous pression",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/24/consommation-recharges-electriques/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/recharges-electriques-2.jpg",
+      "date": "2026-10-24",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "En septembre 2026, la consommation électrique sur les points de recharge publics a bondi de 72% en un an, atteignant 202 804 bornes accessibles au public. Cette explosion révèle une adoption massive des véhicules électriques, mais interroge la capacité du réseau français à absorb…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1792819242000",
       "title": "Les maçons n’en peuvent plus de le répéter : ces deux rangs de parpaings ajoutés à l’automne sur le muret côté rue ne regardent pas que le propriétaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2413,7 +2487,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1792850107000",
+      "id": "le-commerce-du-bois-sitemap-0-1792864778000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2439,7 +2513,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1792850107000",
+      "id": "le-commerce-du-bois-sitemap-1-1792864778000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2465,7 +2539,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1792850107000",
+      "id": "le-commerce-du-bois-sitemap-2-1792864778000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2489,6 +2563,31 @@
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1792856037000",
+      "title": "Guillaume Cantillon rejoint la métropole du Grand Paris comme directeur de projet",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/guillaume-cantillon-rejoint-la-metropole-du-grand-paris-comme-directeur-de-projet/",
+      "image": null,
+      "date": "2026-10-24",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Bâtiment"
+      ],
+      "summary": "L’ancien directeur de la délégation générale au Grand Paris et à l’Axe Seine de la Ville de Paris prend en charge les dossiers habitat, logement, aménagement et questions institutionnelles, auprès de la directrice générale des services Nathalie Van Schoor. L’ancien directeur de l…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1792764001000",
@@ -3237,7 +3336,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-1-1792713600000",
       "title": "inondations francois de canson mobilise un fonds regional durgence de 5 millions deur",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3260,7 +3359,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-1-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1792713600000",
       "title": "truffe pistache pepinieres viticoles la region sud soutient les filieres davenir",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3284,7 +3383,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1792713600000",
       "title": "greg crozier et karine joly le sud a haute altitude",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3307,7 +3406,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1792713600000",
       "title": "assemblee pleniere 23 octobre 2026",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3330,7 +3429,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1792713600000",
       "title": "la chataigne de collobrieres une histoire de racines",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3353,7 +3452,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1792713600000",
       "title": "pourquoi la region sud elira t elle un nouveau president le 12 octobre",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3377,7 +3476,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1792713600000",
       "title": "allo lycees region sud votre plateforme pour signaler un probleme dans vos lycees",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3400,7 +3499,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1792713600000",
       "title": "face aux attentes des lyceens la region sud lance un protocole regional durgence",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3423,7 +3522,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1792713600000",
       "title": "lycees investir renover et reparer apres les urgences",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3446,7 +3545,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1792713600000",
       "title": "culture le cap pour 2027 fixe entre stabilite budgetaire et dialogue avec les professionnels",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3469,7 +3568,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1792713600000",
       "title": "incendies de lete 2026 la region sud mobilise des aides durgence pour les territoires sinistres",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3492,7 +3591,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1792713600000",
       "title": "solidarite commerces pilles",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3515,7 +3614,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1792713600000",
       "title": "le jasmin une culture historique en region sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3538,7 +3637,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1792713600000",
       "title": "sante des soins plus proches partout en region sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3561,7 +3660,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1792713600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1792713600000",
       "title": "fos berre",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3635,7 +3734,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1792765619000",
+      "id": "reporterre-rss-4-1792765619000",
       "title": "« Avec ce système pourri, on n'a aucune perspective » : la révolte de la jeunesse d'Albanie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3659,7 +3758,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1792763772000",
+      "id": "reporterre-rss-5-1792763772000",
       "title": "RN88 : un coup de pouce de l'État à 50 millions pour « la route à Wauquiez »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3685,7 +3784,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1792762081000",
+      "id": "reporterre-rss-6-1792762081000",
       "title": "50 000 morts en Europe : le bilan sans précédents des canicules de 2026",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3710,7 +3809,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1792759043000",
+      "id": "reporterre-rss-7-1792759043000",
       "title": "96 % des coraux sont menacés d'extinction d'ici 50 ans",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3736,7 +3835,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1792758864000",
+      "id": "reporterre-rss-8-1792758864000",
       "title": "« Une victoire historique » : la France va interdire les navires-usines près des côtes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3762,7 +3861,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1792746090000",
+      "id": "reporterre-rss-9-1792746090000",
       "title": "Incendie de la mairie de Limoges : pour les parents de l'accusé, on « fabrique un ennemi intérieur »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3788,7 +3887,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1792741958000",
+      "id": "reporterre-rss-10-1792741958000",
       "title": "Bolsonaro fils bientôt élu au Brésil ? Une « catastrophe » pour l'environnement et les autochtones",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -3814,7 +3913,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1792738184000",
+      "id": "reporterre-rss-11-1792738184000",
       "title": "« Du pinkwashing intolérable » : quand la FNSEA multiplie les stands pour Octobre rose",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4451,7 +4550,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1792754051000",
+      "id": "lenergeek-rss-2-1792754051000",
       "title": "Rosneft : 114 attaques, 20% de pertes, un tiers du raffinage russe à l’arrêt",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4475,7 +4574,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1792745769000",
+      "id": "lenergeek-rss-3-1792745769000",
       "title": "Forges de Tarbes : pourquoi ce redressement inquiète la filière énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4501,7 +4600,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1792734600000",
+      "id": "lenergeek-rss-4-1792734600000",
       "title": "Un ingénieur prétend avoir découvert un procédé pour dépasser la gravité terrestre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4527,7 +4626,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1792732843000",
+      "id": "lenergeek-rss-5-1792732843000",
       "title": "« On a ridiculisé Lamarck trop vite » : ce que la science découvre aujourd’hui aurait changé l’histoire de la biologie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4552,7 +4651,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1792731540000",
+      "id": "lenergeek-rss-6-1792731540000",
       "title": "Tempête Austen : les prévisions qui mettent le réseau électrique à l’épreuve ce vendredi",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4577,7 +4676,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1792729320000",
+      "id": "lenergeek-rss-7-1792729320000",
       "title": "Jours rouges Tempo : la CRE change les règles et c’est une bonne nouvelle",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4602,7 +4701,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1792725877000",
+      "id": "lenergeek-rss-8-1792725877000",
       "title": "Livret A : quand la crise énergétique vide l’épargne des ménages",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4626,7 +4725,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1792721464000",
+      "id": "lenergeek-rss-9-1792721464000",
       "title": "Prix du pétrole : le Brent remonte à 117,37 $ tandis que le WTI recule à 103,95 $",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4650,7 +4749,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1792744797000",
+      "id": "le-journal-du-grand-paris-rss-1-1792744797000",
       "title": "Violences urbaines à Paris : entre plan de soutien aux commerçants et dispositifs de maintien de l’ordre",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4674,7 +4773,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1792744755000",
+      "id": "le-journal-du-grand-paris-rss-2-1792744755000",
       "title": "Les marchés du Grand Paris – La Porte Saint-Germain prépare sa mutation en « ville-parc »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4700,7 +4799,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1792744603000",
+      "id": "le-journal-du-grand-paris-rss-3-1792744603000",
       "title": "Jean-Paul Huchon, ancien président de la région Île-de-France et défenseur de la décentralisation, est mort",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5870,7 +5969,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1792683638000",
+      "id": "reporterre-rss-12-1792683638000",
       "title": "A412 : la procureure d'Annecy demande la suspension immédiate du chantier",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5896,7 +5995,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1792682556000",
+      "id": "reporterre-rss-13-1792682556000",
       "title": "Cancers et pesticides : le désintérêt agressif de la droite et du gouvernement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5922,7 +6021,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1792680663000",
+      "id": "reporterre-rss-14-1792680663000",
       "title": "L'Arcom épingle Sud Radio pour désinformation climatique, annonce Quotaclimat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5946,7 +6045,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1792679097000",
+      "id": "reporterre-rss-15-1792679097000",
       "title": "Finie l'Afrique riquiqui : cette carte du monde s'émancipe des représentations coloniales",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5971,7 +6070,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1792677325000",
+      "id": "reporterre-rss-16-1792677325000",
       "title": "La Bretagne pourrait manquer d'eau potable à cause de la sécheresse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5996,7 +6095,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1792673904000",
+      "id": "reporterre-rss-17-1792673904000",
       "title": "Les intempéries ont fait quatre morts dans le Sud-est",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6022,7 +6121,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1792661296000",
+      "id": "reporterre-rss-18-1792661296000",
       "title": "Incendie de la mairie de Limoges : la gauche et les écologistes cloués au pilori médiatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6046,7 +6145,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1792655229000",
+      "id": "reporterre-rss-19-1792655229000",
       "title": "« Je n'ai rien pris, rien cassé, rien volé » : après le 17 octobre, des tribunaux impitoyables",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6072,7 +6171,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1792648800000",
+      "id": "reporterre-rss-20-1792648800000",
       "title": "Thomas Brail : « Critiquez ces jeunes masqués, mais vous découvrirez peut-être que ce sont vos enfants »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6373,7 +6472,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1792657062000",
+      "id": "lenergeek-rss-10-1792657062000",
       "title": "Pourquoi vos factures d’énergie vous mettent à découvert chaque mois",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6397,7 +6496,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1792653900000",
+      "id": "lenergeek-rss-11-1792653900000",
       "title": "Réchauffement climatique : le seuil de 1,5 °C sera dépassé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6421,7 +6520,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1792650000000",
+      "id": "lenergeek-rss-12-1792650000000",
       "title": "« Il sait où frapper avant qu’on appuie sur le bouton » : le missile français qui surprend les armées du monde entier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6446,7 +6545,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1792648253000",
+      "id": "lenergeek-rss-13-1792648253000",
       "title": "Ne jetez pas les bouteilles en plastique, elles sont précieuses : fabriquer un auvent maison pour créer de l’ombre dans votre jardin",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6471,7 +6570,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1792646400000",
+      "id": "lenergeek-rss-14-1792646400000",
       "title": "Ils ont perdu leur emploi puis construit une maison de 70 m² avec plus de 10 000 bouteilles en verre en 5 mois de collecte",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6523,7 +6622,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1792687285000",
+      "id": "le-journal-du-grand-paris-rss-4-1792687285000",
       "title": "L’essentiel de la semaine du 19 octobre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6547,7 +6646,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1792680328000",
+      "id": "le-journal-du-grand-paris-rss-5-1792680328000",
       "title": "À Tremblay, la Foncière EcoCirc prépare un parc d’activités dédié à l’économie circulaire",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6573,7 +6672,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1792652170000",
+      "id": "le-journal-du-grand-paris-rss-6-1792652170000",
       "title": "Avec Géomy3, la plus grande copropriété d’Europe alimentée par géothermie",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6599,7 +6698,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1792649726000",
+      "id": "le-journal-du-grand-paris-rss-7-1792649726000",
       "title": "Rénovation énergétique : en Île-de-France, des projets structurés par les aides publiques",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6625,7 +6724,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1792649359000",
+      "id": "le-journal-du-grand-paris-rss-8-1792649359000",
       "title": "La croissance de l’activité du groupe RATP tirée par les filiales",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7188,7 +7287,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1792540800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1792540800000",
       "title": "fos sur mer europe",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -7309,7 +7408,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1792596266000",
+      "id": "reporterre-rss-21-1792596266000",
       "title": "Ils accrochent des cerfs volants à leur bateau pour protéger des oiseaux marins en danger d'exctinction",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7335,7 +7434,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1792595068000",
+      "id": "reporterre-rss-22-1792595068000",
       "title": "« C'est la première fois qu'un plan de gestion de l'eau restreint certains pesticides »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7361,7 +7460,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1792588797000",
+      "id": "reporterre-rss-23-1792588797000",
       "title": "Canal Seine-Nord Europe : la justice demande de rejeter le recours d'associations",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7387,7 +7486,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1792588128000",
+      "id": "reporterre-rss-24-1792588128000",
       "title": "Climat : le monde se dirige vers +2,6 °C d'ici 2100, alerte l'ONU",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7413,7 +7512,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1792569100000",
+      "id": "reporterre-rss-25-1792569100000",
       "title": "Profession ? Puisatier. Benoît fait partie des 10 derniers réparateurs de puits français",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7439,7 +7538,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1792568767000",
+      "id": "reporterre-rss-26-1792568767000",
       "title": "Randonnée, trail... « On conserve un regard très bourgeois et blanc sur la nature »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7465,7 +7564,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1792568132000",
+      "id": "reporterre-rss-27-1792568132000",
       "title": "Sur Vinted, un business de revente de vêtements importés d'Asie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7591,7 +7690,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1792620000000",
+      "id": "lenergeek-rss-15-1792620000000",
       "title": "Prix du pétrole le 22 octobre 2026 : le Brent dépasse 110 dollars, le WTI à 98 dollars",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7615,7 +7714,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1792570001000",
+      "id": "lenergeek-rss-16-1792570001000",
       "title": "Climat : la COP 17 biodiversité débute, les défis restent nombreux",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7640,7 +7739,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1792569262000",
+      "id": "lenergeek-rss-17-1792569262000",
       "title": "Boeing 737 MAX 10 certifié : les avancées énergétiques au cœur du projet",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7665,7 +7764,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1792563472000",
+      "id": "lenergeek-rss-18-1792563472000",
       "title": "Automobile : un SUV chinois de Leapmotor bientôt éligible aux aides européennes ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7689,7 +7788,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1792561800000",
+      "id": "lenergeek-rss-19-1792561800000",
       "title": "Chauffage : la règle des 19 °C est-elle dépassée ? Voici la température à privilégier cet hiver",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7714,7 +7813,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1792560000000",
+      "id": "lenergeek-rss-20-1792560000000",
       "title": "Votre maison est-elle hantée ? La science révèle ce qui pourrait vraiment se cacher derrière les fantômes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7739,7 +7838,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1792555533000",
+      "id": "lenergeek-rss-21-1792555533000",
       "title": "Billet d’avion : la guerre au Moyen-Orient fait flamber les tarifs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8360,7 +8459,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1792511892000",
+      "id": "reporterre-rss-28-1792511892000",
       "title": "« Le pouvoir n'est pas aussi indigné par les néonazis que par Les Soulèvements de la Terre »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8386,7 +8485,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1792505899000",
+      "id": "reporterre-rss-29-1792505899000",
       "title": "École à distance, pirogues bloquées : un « super El Niño » bouleverse la vie des Guyanais",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8412,7 +8511,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1792501664000",
+      "id": "reporterre-rss-30-1792501664000",
       "title": "Un Loto pour sauver les forêts incendiées : la fausse bonne idée du gouvernement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8438,7 +8537,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1792498591000",
+      "id": "reporterre-rss-31-1792498591000",
       "title": "Grossesse : les perturbateurs endocriniens pourraient faire baisser le QI des enfants",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8462,7 +8561,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1792483783000",
+      "id": "reporterre-rss-32-1792483783000",
       "title": "Petits-dej et formations juridiques : les écologistes prêtent main-forte à la « colère populaire »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8486,7 +8585,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1792476000000",
+      "id": "reporterre-rss-33-1792476000000",
       "title": "Biodiversité : chefs d'État et médias boudent la COP17, symptôme d'un désintérêt manifeste",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8511,7 +8610,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1792472400000",
+      "id": "reporterre-rss-34-1792472400000",
       "title": "« Un obus en plein poitrail » : en chansons, Delphine Vince politise le cancer et Octobre rose",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8612,7 +8711,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1792502296000",
+      "id": "lenergeek-rss-22-1792502296000",
       "title": "Royaume-Uni : 160 grévistes peuvent-ils bloquer l’approvisionnement pétrolier ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8636,7 +8735,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1792487655000",
+      "id": "lenergeek-rss-23-1792487655000",
       "title": "Carburant : Emmanuel Macron sécurise 200.000 tonnes de diesel dans les pays du Golfe",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8660,31 +8759,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-23-1792485313000",
-      "title": "IA : un seul entraînement consommera autant qu’une métropole entière en 2030",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/20/ia-data-centers-puissance-electrique-eau-2030/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/07/shutterstock_2651064317.jpg",
-      "date": "2026-10-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Un seul entraînement de modèle d'intelligence artificielle pourrait nécessiter entre 4 et 16 GW de puissance installée en 2030, soit l'équivalent de la pointe estivale de New York. L’article IA : un seul entraînement consommera autant qu’une métropole entière en 2030 est apparu e…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1792490886000",
+      "id": "le-journal-du-grand-paris-rss-9-1792490886000",
       "title": "Avec le projet « Nouveaux ponts », Polylogis mise sur la mixité des usages",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8706,32 +8781,6 @@
         "Confort d’été"
       ],
       "summary": "Vendredi 16 octobre, le projet \"Nouveaux ponts\" a été inauguré dans la commune de Joinville-le-Pont (Val-de-Marne). Avec ses 196 logements sociaux, l’objectif de ce bâtiment-proue est de relier fonctions résidentielles, sociales et sportives en un même lieu, tout en participant à…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1792490683000",
-      "title": "Jean-Philippe Dugoin-Clément : « Il faut chasser en groupe pour défendre notre territoire »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/jean-philippe-dugoin-clement-il-faut-chasser-en-groupe-pour-defendre-notre-territoire/",
-      "image": null,
-      "date": "2026-10-20",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Élu le 12 octobre à la présidence de l’Association des maires d’Île-de-France (Amif), Jean-Philippe Dugoin-Clément, maire (UDI) de Mennecy, succède à Stéphane Beaudet, qui a présidé l’association pendant 12 années durant. Le vice-président du conseil régional détaille ses priorit…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9131,7 +9180,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1792422256000",
+      "id": "reporterre-rss-35-1792422256000",
       "title": "« J'en ai rien à foutre de votre bio » : contaminés par un pesticide, ces agriculteurs sont abandonnés par l'État",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9157,7 +9206,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1792414951000",
+      "id": "reporterre-rss-36-1792414951000",
       "title": "Irriguer avec des eaux usées, une idée qui pourrait assécher les rivières",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9183,7 +9232,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1792414844000",
+      "id": "reporterre-rss-37-1792414844000",
       "title": "Pesticides dans les tomates : les seuils autorisés de flupyradifurone pourraient être plus que doublés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9207,7 +9256,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1792394958000",
+      "id": "reporterre-rss-38-1792394958000",
       "title": "« Pour prendre le train, il faut être militant » : les Alpes du Sud, symbole de l'abandon des petites lignes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9233,7 +9282,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1792387800000",
+      "id": "reporterre-rss-39-1792387800000",
       "title": "Pesticides : paysan, il a perdu sa fille d'un cancer et va « régler ses comptes » devant les eurodéputés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9259,7 +9308,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1792387800000",
+      "id": "reporterre-rss-40-1792387800000",
       "title": "Du maïs à la place de la lavande ? Un immense projet d'irrigation divise la Provence",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9361,7 +9410,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1792328400000",
+      "id": "reporterre-rss-41-1792328400000",
       "title": "La biodiversité a aussi sa COP, on vous explique pourquoi c'est important",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9411,7 +9460,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1792257634000",
+      "id": "reporterre-rss-42-1792257634000",
       "title": "Prix de l'essence, manque de profs et forêts en feu : le 17 octobre, les colères ont convergé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9437,7 +9486,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1792252357000",
+      "id": "reporterre-rss-43-1792252357000",
       "title": "« Même les débuts de mois sont difficiles » : ces Gilets jaunes ont remis le couvert le 17 octobre",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9463,7 +9512,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1792215000000",
+      "id": "reporterre-rss-44-1792215000000",
       "title": "« On a rendu normale, désirable son utilisation » : aux origines de notre addiction au pétrole",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9488,7 +9537,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1792215000000",
+      "id": "reporterre-rss-45-1792215000000",
       "title": "Prix du carburant : infirmière, charpentier et apiculteur racontent comment ils font face à la flambée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9514,7 +9563,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1792215000000",
+      "id": "reporterre-rss-46-1792215000000",
       "title": "La littérature se met à l'écologie : notre sélection de la rentrée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9709,7 +9758,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1792108800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1792108800000",
       "title": "livres jeunesse vacances",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -9954,7 +10003,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1792159559000",
+      "id": "reporterre-rss-47-1792159559000",
       "title": "L'aéroport Lyon-Saint-Exupéry va grossir, avec le prétexte des JO d'hiver",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9979,7 +10028,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1792159488000",
+      "id": "reporterre-rss-48-1792159488000",
       "title": "Des aides aux énergies renouvelables... redirigées vers le carburant",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10005,7 +10054,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1792159200000",
+      "id": "reporterre-rss-49-1792159200000",
       "title": "Delphine Batho : « Je ne multiplie pas les candidatures à gauche, je suis la seule candidate de l'écologie »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10031,7 +10080,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1792154663000",
+      "id": "reporterre-rss-50-1792154663000",
       "title": "Arrachage des yeux des crevettes : les supermarchés sommés d'arrêter une pratique cruelle",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10057,7 +10106,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1792151470000",
+      "id": "reporterre-rss-51-1792151470000",
       "title": "Les pressions de la FNSEA ont échoué : le schéma de gestion de l'eau de la Vilaine enfin adopté",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10083,7 +10132,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1792146561000",
+      "id": "reporterre-rss-52-1792146561000",
       "title": "La pratique du vélo décolle de 18 % sur un an",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10109,7 +10158,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1792144800000",
+      "id": "reporterre-rss-53-1792144800000",
       "title": "Mégaferme à saumons : une nouvelle manifestation prévue en Gironde",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10135,7 +10184,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1792141200000",
+      "id": "reporterre-rss-54-1792141200000",
       "title": "A412 : la justice refuse de suspendre le chantier, les opposants restent mobilisés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10161,7 +10210,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1792132507000",
+      "id": "reporterre-rss-55-1792132507000",
       "title": "Grotte de Lascaux, château de Carcassonne... Les sites patrimoniaux menacés par le changement climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10187,7 +10236,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1792132108000",
+      "id": "reporterre-rss-56-1792132108000",
       "title": "« Nous, banlieusards, on n'est pas assez représentés » : les lycéens des quartiers créent leur syndicat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10211,7 +10260,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1792128600000",
+      "id": "reporterre-rss-57-1792128600000",
       "title": "« La forêt, oui merci » : élus et riverains parviennent à freiner le chantier d'une ligne à grande vitesse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10237,7 +10286,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1792128600000",
+      "id": "reporterre-rss-58-1792128600000",
       "title": "Mobilisation du 17 octobre : « La droite et l'extrême droite sont en panique »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10340,7 +10389,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1792022400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1792022400000",
       "title": "la region accompagne concretement le quotidien des habitants des alpes maritimes",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -10512,7 +10561,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-58-1792077643000",
+      "id": "reporterre-rss-59-1792077643000",
       "title": "Cancers de la peau : travailler dehors nous expose davantage",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10534,32 +10583,6 @@
         "Bâtiment"
       ],
       "summary": "Agricultrices, jardiniers et ouvriers du bâtiment ont un triste point commun : ils sont exposés aux rayons UV dans le cadre de leur activité professionnelle, et donc plus exposés aux cancers de la peau. UV — que la source soit naturelle ou artificielle — dans le cadre professionn…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1792075929000",
-      "title": "Il voulait « faire la peau » aux écologistes, le président de la Coordination rurale condamné à 15 000 euros d'amende",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Il-voulait-faire-la-peau-aux-ecologistes-le-president-de-la-Coordination-rurale-condamne-a-15-000-euros-d-amende",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/afp__20260226__hl_bohier_3074575__v1__highres__franceagriculturefairparis-3329a.jpg?1792075930",
-      "date": "2026-10-15",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Il écope d'une amende. Le président de la Coordination rurale (CR), Bertrand Venteau, a été condamné le 15 octobre à payer 15 000 euros, dont 10 000 avec sursis, par le tribunal correctionnel d'Auch. Il avait déclaré, lors de son élection à la tête du deuxième syndicat agricole d…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11188,7 +11211,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1791849600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1791849600000",
       "title": "lou pan dici la baguette de pain 100 sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11818,7 +11841,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1791763200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1791763200000",
       "title": "francois de canson elu president",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -12315,7 +12338,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1791504000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1791504000000",
       "title": "10 recettes du sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13316,7 +13339,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1791158400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1791158400000",
       "title": "renovation energetique",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13795,7 +13818,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1790812800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1790812800000",
       "title": "contre le cancer du sein la region sud mise sur la proximite",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14362,7 +14385,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1790640000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1790640000000",
       "title": "rentree scolaire ca se pass",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14385,7 +14408,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1790640000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1790640000000",
       "title": "a la londe les maures un nouveau pole strategique pour les drones marins",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15361,7 +15384,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1790208000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1790208000000",
       "title": "sainte marie madeleine la region sud veille sur un patrimoine exceptionnel",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16176,7 +16199,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1790035200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1790035200000",
       "title": "train a batteries",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16273,7 +16296,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1789948800000",
       "title": "transmettre elever produire lagriculture du sud prepare lavenir",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16296,36 +16319,13 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1789948800000",
       "title": "fraises de carpentras le gout du sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
       "sourceType": "Observatoire énergie-climat-air",
       "region": "Provence-Alpes-Côte d’Azur",
       "url": "https://www.maregionsud.fr/actualites/detail/fraises-de-carpentras-le-gout-du-sud",
-      "image": null,
-      "date": "2026-09-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1789948800000",
-      "title": "assises de lapprentissage",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/assises-de-lapprentissage",
       "image": null,
       "date": "2026-09-21",
       "access": "open",
@@ -17062,7 +17062,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -20072,7 +20072,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -20146,7 +20146,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -20482,7 +20482,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
