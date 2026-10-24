@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-24T09:23:42.731Z",
+  "generatedAt": "2026-10-24T13:55:21.775Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2213,7 +2213,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "reporterre-rss-1-1792821600000",
-      "title": "Lycéens, Gilets jaunes... Ils dénoncent la « vaste blague » des consultations citoyennes lancées par Macron",
+      "title": "« À chaque fois, des gens y croient, puis la promesse est rompue » : les consultations citoyennes de Macron ne passent plus",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -2313,7 +2313,57 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792815000000",
+      "id": "enerzine-rss-0-1792836420000",
+      "title": "Boom dévoile un cœur de turbine et une Superfactory de 2 GW dans le Colorado (USA)",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/boom-devoile-un-coeur-de-turbine-et-une-superfactory-de-2-gw-dans-le-colorado-usa/198112-2026-10",
+      "image": null,
+      "date": "2026-10-24",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Boom Supersonic a dévoilé un premier cœur de turbine complet, présenté une Superfactory de turbines de 2 GW à Centennial, dans le Colorado, et annoncé une fonderie monocristalline tout numérique. L’entreprise vise de premières livraisons du « Superpower » mi-2027 et une capacité …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1792833900000",
+      "title": "Mercedes-Benz revendique un premier crash test latéral entre deux CLA",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/mercedes-benz-revendique-un-premier-crash-test-lateral-entre-deux-cla/198109-2026-10",
+      "image": null,
+      "date": "2026-10-24",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020"
+      ],
+      "summary": "Mercedes-Benz a présenté un test de collision latérale à 56 km/h entre un CLA Shooting Brake hybride et un CLA électrique, chacun pesant plus de deux tonnes. Le constructeur affirme que les deux véhicules ont offert une protection exceptionnelle aux occupants et que la batterie h…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1792815000000",
       "title": "Passoires thermiques : pour les logements classés G, l’interdiction de louer se joue à l’échéance du bail",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2363,7 +2413,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1792833801000",
+      "id": "le-commerce-du-bois-sitemap-0-1792850107000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2389,7 +2439,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1792833801000",
+      "id": "le-commerce-du-bois-sitemap-1-1792850107000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2415,7 +2465,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1792833801000",
+      "id": "le-commerce-du-bois-sitemap-2-1792850107000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3188,12 +3238,12 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1792713600000",
-      "title": "incendies de lete 2026 la region sud mobilise des aides durgence pour les territoires sinistres",
+      "title": "inondations francois de canson mobilise un fonds regional durgence de 5 millions deur",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
       "sourceType": "Observatoire énergie-climat-air",
       "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/incendies-de-lete-2026-la-region-sud-mobilise-des-aides-durgence-pour-les-territoires-sinistres",
+      "url": "https://www.maregionsud.fr/actualites/detail/inondations-francois-de-canson-mobilise-un-fonds-regional-durgence-de-5-millions-deur",
       "image": null,
       "date": "2026-10-23",
       "access": "open",
@@ -3211,98 +3261,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-1-1792713600000",
-      "title": "assemblee pleniere 23 octobre 2026",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/assemblee-pleniere-23-octobre-2026",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1792713600000",
-      "title": "solidarite commerces pilles",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/solidarite-commerces-pilles",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1792713600000",
-      "title": "le jasmin une culture historique en region sud",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/le-jasmin-une-culture-historique-en-region-sud",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1792713600000",
-      "title": "sante des soins plus proches partout en region sud",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/sante-des-soins-plus-proches-partout-en-region-sud",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1792713600000",
       "title": "truffe pistache pepinieres viticoles la region sud soutient les filieres davenir",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -3326,13 +3284,106 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1792713600000",
-      "title": "fos berre",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-2-1792713600000",
+      "title": "greg crozier et karine joly le sud a haute altitude",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
       "sourceType": "Observatoire énergie-climat-air",
       "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/fos-berre",
+      "url": "https://www.maregionsud.fr/actualites/detail/greg-crozier-et-karine-joly-le-sud-a-haute-altitude",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-3-1792713600000",
+      "title": "assemblee pleniere 23 octobre 2026",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/assemblee-pleniere-23-octobre-2026",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-4-1792713600000",
+      "title": "la chataigne de collobrieres une histoire de racines",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/la-chataigne-de-collobrieres-une-histoire-de-racines",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-5-1792713600000",
+      "title": "pourquoi la region sud elira t elle un nouveau president le 12 octobre",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/pourquoi-la-region-sud-elira-t-elle-un-nouveau-president-le-12-octobre",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air",
+        "Eau"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-6-1792713600000",
+      "title": "allo lycees region sud votre plateforme pour signaler un probleme dans vos lycees",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/allo-lycees-region-sud-votre-plateforme-pour-signaler-un-probleme-dans-vos-lycees",
       "image": null,
       "date": "2026-10-23",
       "access": "open",
@@ -3350,12 +3401,173 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-7-1792713600000",
+      "title": "face aux attentes des lyceens la region sud lance un protocole regional durgence",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/face-aux-attentes-des-lyceens-la-region-sud-lance-un-protocole-regional-durgence",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1792713600000",
       "title": "lycees investir renover et reparer apres les urgences",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
       "sourceType": "Observatoire énergie-climat-air",
       "region": "Provence-Alpes-Côte d’Azur",
       "url": "https://www.maregionsud.fr/actualites/detail/lycees-investir-renover-et-reparer-apres-les-urgences",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1792713600000",
+      "title": "culture le cap pour 2027 fixe entre stabilite budgetaire et dialogue avec les professionnels",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/culture-le-cap-pour-2027-fixe-entre-stabilite-budgetaire-et-dialogue-avec-les-professionnels",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1792713600000",
+      "title": "incendies de lete 2026 la region sud mobilise des aides durgence pour les territoires sinistres",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/incendies-de-lete-2026-la-region-sud-mobilise-des-aides-durgence-pour-les-territoires-sinistres",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1792713600000",
+      "title": "solidarite commerces pilles",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/solidarite-commerces-pilles",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1792713600000",
+      "title": "le jasmin une culture historique en region sud",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/le-jasmin-une-culture-historique-en-region-sud",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1792713600000",
+      "title": "sante des soins plus proches partout en region sud",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/sante-des-soins-plus-proches-partout-en-region-sud",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Énergie",
+        "Climat",
+        "Air"
+      ],
+      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1792713600000",
+      "title": "fos berre",
+      "source": "ORECA Provence-Alpes-Côte d’Azur",
+      "sourceId": "oreca-provence-alpes-cote-d-azur",
+      "sourceType": "Observatoire énergie-climat-air",
+      "region": "Provence-Alpes-Côte d’Azur",
+      "url": "https://www.maregionsud.fr/actualites/detail/fos-berre",
       "image": null,
       "date": "2026-10-23",
       "access": "open",
@@ -4036,7 +4248,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792776300000",
+      "id": "enerzine-rss-3-1792776300000",
       "title": "Hyundai Ioniq 3, une compacte électrique qui vise près de 500 kilomètres d’autonomie",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4061,7 +4273,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792765200000",
+      "id": "enerzine-rss-4-1792765200000",
       "title": "Changement d’heure 2026. Pour les étourdis, nous passons à l’heure d’hiver ce week-end",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4087,7 +4299,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792761716000",
+      "id": "enerzine-rss-5-1792761716000",
       "title": "Déchet nucléaire : à plus de 400 mètres sous terre, la Finlande autorise le stockage du siècle",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4113,7 +4325,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792757400000",
+      "id": "enerzine-rss-6-1792757400000",
       "title": "SOMFY intègre des batteries lithium remanufacturées dans ses moteurs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4139,7 +4351,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792751700000",
+      "id": "enerzine-rss-7-1792751700000",
       "title": "Le Watt Rally électrique reliera Amsterdam à Hemsedal en juin 2027",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4163,7 +4375,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792750020000",
+      "id": "enerzine-rss-8-1792750020000",
       "title": "Carburants : l’État décide de soutenir les petites stations indépendantes",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4187,7 +4399,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792742820000",
+      "id": "enerzine-rss-9-1792742820000",
       "title": "Couper le chauffage la nuit ou le baisser : comment savoir ce qui convient à votre logement ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4209,58 +4421,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Baisser le chauffage la nuit réduit les besoins de chaleur, mais l’arrêt complet n’offre pas toujours le meilleur compromis entre économies et confort. Contrairement à une idée répandue, la remise en température du matin n’annule pas automatiquement les gains de la nuit. Tout dép…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1792732200000",
-      "title": "Et si la lumière ultraviolette extrême pilotait réellement les électrons ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/et-si-la-lumiere-ultraviolette-extreme-pilotait-reellement-les-electrons/197927-2026-10",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "Des scientifiques du Max Born Institute de Berlin (Allemagne), de l’Université catholique de Louvain (Belgique), de l’Université d’Uppsala (Suède), de l’Université de Kassel (Allemagne) et d’Elettra Sincrotrone Trieste (Italie) ont démontré une nouvelle façon de contrôler les éle…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1792728600000",
-      "title": "Un nouveau paradigme de scintillateur à cristal photonique renforce la sensibilité de l’imagerie X à bas coût",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-nouveau-paradigme-de-scintillateur-a-cristal-photonique-renforce-la-sensibilite-de-limagerie-x-a-bas-cout/197815-2026-10",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "L’amélioration de l’imagerie X dans des conditions de faible flux de photons pourrait permettre une imagerie à plus faible dose et à plus haute résolution pour le diagnostic médical, l’inspection de sécurité et les essais industriels. Des chercheurs de l’Université de Chongqing, …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5510,29 +5670,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-8-1792627200000",
-      "title": "la chataigne de collobrieres une histoire de racines",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/la-chataigne-de-collobrieres-une-histoire-de-racines",
-      "image": null,
-      "date": "2026-10-22",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "a-urba-bordeaux-aquitaine-rss-0-1792679783000",
       "title": "test",
       "source": "A’urba Bordeaux Aquitaine",
@@ -6780,29 +6917,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-13-1792623900000",
-      "title": "Parking perméable : 7 points à vérifier pour garantir sa durabilité",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/parking-permeable-durabilite-points-verifier-49417",
-      "image": "https://img.batiweb.com/repo-images/publi/49417/nidaplast-10-23-une.jpg",
-      "date": "2026-10-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Un parking perméable durable se prépare bien avant la pose des dalles. Découvrez ici les 7 points à vérifier, du sol support jusqu’à l’entretien. Un parking perméable durable se prépare bien avant la pose des dalles. Découvrez ici les 7 points à vérifier, du sol support jusqu’à l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-14-1792623900000",
       "title": "Rideau métallique EROS D6 : la robustesse par la conception",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -6823,6 +6937,29 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Avec EROS D6, JAVEY conjugue la légèreté d'une lame de 6/10ᵉ, une pose simplifiée et une résistance au vent jusqu’à classe 5. Avec EROS D6, JAVEY conjugue la légèreté d'une lame de 6/10ᵉ, une pose simplifiée et une résistance au vent jusqu’à classe 5. Rideau métallique EROS D6 : …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-14-1792623900000",
+      "title": "Parking perméable : 7 points à vérifier pour garantir sa durabilité",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/parking-permeable-durabilite-points-verifier-49417",
+      "image": "https://img.batiweb.com/repo-images/publi/49417/nidaplast-10-23-une.jpg",
+      "date": "2026-10-21",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Un parking perméable durable se prépare bien avant la pose des dalles. Découvrez ici les 7 points à vérifier, du sol support jusqu’à l’entretien. Un parking perméable durable se prépare bien avant la pose des dalles. Découvrez ici les 7 points à vérifier, du sol support jusqu’à l…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7051,7 +7188,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-9-1792540800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1792540800000",
       "title": "fos sur mer europe",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -7909,7 +8046,7 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/cycle-de-webinaires-sur-le-logement-social-fondamentaux-et-leviers-locaux-de-production/",
-      "image": null,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "date": "2026-10-20",
       "access": "open",
       "official": false,
@@ -7923,7 +8060,7 @@ window.BATIVEILLE_DATA = {
         "Réglementation",
         "Énergie"
       ],
-      "summary": "La Direction Départementale des Territoires et de la Mer (DDTM) et ses partenaires (USH, EPFLA, intercommunalités, …) ont proposé sous l’égide du Préfet de Loire-Atlantique une série de 5 webinaires de 30 mn sur les leviers locaux de production d’une offre de logements sociaux. E…",
+      "summary": "Projet immobilier de la friche Richomme à Blain, 85 logements dont 22% de logements sociaux, HUCA Architecture. Crédit photo : Auran, octobre 2026 La Direction Départementale des Territoires et de la Mer (DDTM) et ses partenaires (USH, EPFLA, intercommunalités, …) ont proposé sou…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8720,13 +8857,13 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "auran-rss-1-1792403544000",
-      "title": "Nouvelle étude – Loire-Atlantique : davantage de ménages d’ici 2050, un ralentissement après 2030",
+      "title": "Nouvelle étude &#8211; Loire-Atlantique : davantage de ménages d’ici 2050, un ralentissement après 2030",
       "source": "AURAN",
       "sourceId": "auran",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/nouvelle-etude-loire-atlantique-davantage-de-menages-dici-2050-un-ralentissement-apres-2030/",
-      "image": null,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "date": "2026-10-19",
       "access": "open",
       "official": false,
@@ -8738,7 +8875,7 @@ window.BATIVEILLE_DATA = {
         "Habitat",
         "Foncier",
         "Réglementation",
-        "Bâtiment"
+        "RE2020"
       ],
       "summary": "Combien de ménages comptera la Loire-Atlantique en 2025 ? Quelle serait la composition des ménages ? L’Insee, en partenariat avec Nantes Métropole et l’Auran, a publié cette semaine une étude sur les projections de ménages à l’échelle départementale et infra-départementale. Cette…",
       "premiumSummary": "",
@@ -9572,30 +9709,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-10-1792108800000",
-      "title": "greg crozier et karine joly le sud a haute altitude",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/greg-crozier-et-karine-joly-le-sud-a-haute-altitude",
-      "image": null,
-      "date": "2026-10-16",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-11-1792108800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1792108800000",
       "title": "livres jeunesse vacances",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -10226,36 +10340,13 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-12-1792022400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1792022400000",
       "title": "la region accompagne concretement le quotidien des habitants des alpes maritimes",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
       "sourceType": "Observatoire énergie-climat-air",
       "region": "Provence-Alpes-Côte d’Azur",
       "url": "https://www.maregionsud.fr/actualites/detail/la-region-accompagne-concretement-le-quotidien-des-habitants-des-alpes-maritimes",
-      "image": null,
-      "date": "2026-10-15",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-13-1792022400000",
-      "title": "culture le cap pour 2027 fixe entre stabilite budgetaire et dialogue avec les professionnels",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/culture-le-cap-pour-2027-fixe-entre-stabilite-budgetaire-et-dialogue-avec-les-professionnels",
       "image": null,
       "date": "2026-10-15",
       "access": "open",
@@ -10648,6 +10739,54 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "qualitel-cerqual-rss-0-1791977426000",
+      "title": "Baromètre QUALITEL 2026Se loger devient plus difficile et plus coûteux : les Français s’inquiètent pour demain",
+      "source": "Qualitel / Cerqual",
+      "sourceId": "qualitel-cerqual",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/barometre-qualitel-2026/",
+      "image": null,
+      "date": "2026-10-14",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Logement",
+        "Qualité",
+        "Certification",
+        "Économie du bâtiment",
+        "Bâtiment"
+      ],
+      "summary": "Cette édition met aussi en lumière ce qui fonde concrètement le sentiment d’être bien logé. Parmi les différents critères liés à la qualité du logement, certains jouent un rôle particulièrement déterminant dans l’appréciation que les Français portent sur leur cadre de vie. C’est …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "qualitel-cerqual-rss-1-1791977424000",
+      "title": "Point de vue de Bertrand DELCAMBRE, Président de l’Association QUALITEL – Baromètre 2026 de l’Association QUALITEL",
+      "source": "Qualitel / Cerqual",
+      "sourceId": "qualitel-cerqual",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/barometre-qualitel-2026/point-de-vue-bertrand-delcambre/",
+      "image": null,
+      "date": "2026-10-14",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Logement",
+        "Qualité",
+        "Certification"
+      ],
+      "summary": "The post Point de vue de Bertrand DELCAMBRE, Président de l’Association QUALITEL – Baromètre 2026 de l’Association QUALITEL appeared first on Association Qualitel. The post Point de vue de Bertrand DELCAMBRE, Président de l’Association QUALITEL – Baromètre 2026 de l’Association Q…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "ordre-des-architectes-cnoa-rss-4-1791966670000",
       "title": "Architectures et Territoires 2026 l Comment a été imaginée la mutation du quartier la Part-Dieu à Lyon entre 1977 et 2027 ?",
       "source": "Ordre des Architectes — CNOA",
@@ -10681,68 +10820,23 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/a-nozay-un-diagnostic-partage-pour-preparer-la-prochaine-convention-territoriale-globale/",
-      "image": null,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "date": "2026-10-14",
       "access": "open",
       "official": false,
       "highImpact": true,
-      "impactScore": 88,
+      "impactScore": 96,
       "tags": [
         "Nantes",
         "Urbanisme",
         "Habitat",
         "Foncier",
-        "Réglementation"
+        "Réglementation",
+        "Eau"
       ],
       "summary": "Le 9 septembre dernier, la Communauté de communes de Nozay a réuni élus communaux et communautaires, directeurs/directrices généraux des services (DGS), et partenaires du territoire à l’occasion d’un séminaire consacré à l’évaluation de sa Convention Territoriale Globale (CTG). C…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-14-1791936000000",
-      "title": "allo lycees region sud votre plateforme pour signaler un probleme dans vos lycees",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/allo-lycees-region-sud-votre-plateforme-pour-signaler-un-probleme-dans-vos-lycees",
-      "image": null,
-      "date": "2026-10-14",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-15-1791936000000",
-      "title": "face aux attentes des lyceens la region sud lance un protocole regional durgence",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/face-aux-attentes-des-lyceens-la-region-sud-lance-un-protocole-regional-durgence",
-      "image": null,
-      "date": "2026-10-14",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "aue-corse-rss-2-1791992294000",
@@ -10998,6 +11092,76 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "cequami-rss-0-1791898971000",
+      "title": "NF Habitat HQE lancée à Mayotte : une certification adaptée aux réalités du territoire",
+      "source": "Céquami",
+      "sourceId": "cequami",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/professionnels/actualites/nf-habitat-hqe-lancee-a-mayotte-une-certification-adaptee-aux-realites-du-territoire/",
+      "image": null,
+      "date": "2026-10-13",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Maison individuelle",
+        "NF Habitat",
+        "Qualité"
+      ],
+      "summary": "The post NF Habitat HQE lancée à Mayotte : une certification adaptée aux réalités du territoire appeared first on Qualitel | Professionnels. The post NF Habitat HQE lancée à Mayotte&#160;: une certification adaptée aux réalités du territoire appeared first on Qualitel | Professio…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "cequami-rss-1-1791886247000",
+      "title": "Congrès Hlm 2026 : la Coopérative Vendéenne du Logement distinguée pour plus de 20 ans d’engagement dans la certification NF Habitat – NF Habitat HQE",
+      "source": "Céquami",
+      "sourceId": "cequami",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/professionnels/actualites/congres-hlm-2026-la-cooperative-vendeenne-du-logement-plus-de-20-ans-engagement-certification-nf-habitat-nf-habitat-hqe/",
+      "image": null,
+      "date": "2026-10-13",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Maison individuelle",
+        "NF Habitat",
+        "Qualité",
+        "Bâtiment"
+      ],
+      "summary": "The post Congrès Hlm 2026 : la Coopérative Vendéenne du Logement distinguée pour plus de 20 ans d’engagement dans la certification NF Habitat – NF Habitat HQE appeared first on Qualitel | Professionnels. The post Congrès Hlm 2026&#160;: la Coopérative Vendéenne du Logement distin…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "cequami-rss-2-1791886145000",
+      "title": "Congrès Hlm 2026 : Immobilière 3F saluée pour 10 ans d’engagement dans la certification NF Habitat – NF Habitat HQE",
+      "source": "Céquami",
+      "sourceId": "cequami",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/professionnels/actualites/congres-hlm-2026-immobiliere-3f-recompensee-pour-10-ans-engagement-certification-nf-habitat-nf-habitat-hqe/",
+      "image": null,
+      "date": "2026-10-13",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Maison individuelle",
+        "NF Habitat",
+        "Qualité"
+      ],
+      "summary": "The post Congrès Hlm 2026 : Immobilière 3F saluée pour 10 ans d’engagement dans la certification NF Habitat – NF Habitat HQE appeared first on Qualitel | Professionnels. The post Congrès Hlm 2026&#160;: Immobilière 3F saluée pour 10 ans d’engagement dans la certification NF Habit…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "arec-occitanie-rss-2-1791875234000",
       "title": "Chargé.e de projets Ingénierie territoriale - Planification H/F",
       "source": "AREC Occitanie",
@@ -11024,7 +11188,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-16-1791849600000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1791849600000",
       "title": "lou pan dici la baguette de pain 100 sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -11418,6 +11582,54 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "cequami-rss-3-1791814947000",
+      "title": "Programme AGILE : QUALITEL et CERQUAL s’engagent pour la qualité du logement étudiant",
+      "source": "Céquami",
+      "sourceId": "cequami",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/professionnels/actualites/programme-agile-qualitel-et-cerqual-sengagent-pour-la-qualite-du-logement-etudiant/",
+      "image": null,
+      "date": "2026-10-12",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Maison individuelle",
+        "NF Habitat",
+        "Qualité",
+        "Bâtiment"
+      ],
+      "summary": "The post Programme AGILE : QUALITEL et CERQUAL s’engagent pour la qualité du logement étudiant appeared first on Qualitel | Professionnels. The post Programme AGILE&#160;: QUALITEL et CERQUAL s’engagent pour la qualité du logement étudiant appeared first on Qualitel | Professionn…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "cequami-rss-4-1791814714000",
+      "title": "Congrès Hlm 2026 : la qualité du logement au cœur des engagements",
+      "source": "Céquami",
+      "sourceId": "cequami",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/professionnels/actualites/congres-hlm-2026-la-qualite-du-logement-au-coeur-des-engagements/",
+      "image": null,
+      "date": "2026-10-12",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Maison individuelle",
+        "NF Habitat",
+        "Qualité",
+        "Bâtiment"
+      ],
+      "summary": "The post Congrès Hlm 2026 : la qualité du logement au cœur des engagements appeared first on Qualitel | Professionnels. The post Congrès Hlm 2026&#160;: la qualité du logement au cœur des engagements appeared first on Qualitel | Professionnels . Congrès Hlm 2026 : la qualité du l…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "ordre-des-architectes-cnoa-rss-5-1791806999000",
       "title": "Près de 200 architectes réunis à Rouen pour la Réunion annuelle 2026 des architectes normands",
       "source": "Ordre des Architectes — CNOA",
@@ -11606,7 +11818,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-17-1791763200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1791763200000",
       "title": "francois de canson elu president",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -12103,7 +12315,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-18-1791504000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1791504000000",
       "title": "10 recettes du sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -12225,6 +12437,31 @@ window.BATIVEILLE_DATA = {
         "RE2020"
       ],
       "summary": "CNL2 Mulitpollution pierre.bonnet@… jeu 08/10/2026 - 17:23 La qualité de l’air intérieur résulte de la présence simultanée de nombreux polluants issus de sources variées : matériaux, mobilier, activités domestiques, appareils de combustion ou encore air extérieur. À partir des do…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "cequami-rss-5-1791467798000",
+      "title": "CERQUAL Qualitel Certification au Congrès de l’UNIS : valoriser la qualité de gestion des copropriétés",
+      "source": "Céquami",
+      "sourceId": "cequami",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/professionnels/actualites/cerqual-qualitel-certification-au-congres-de-lunis-valoriser-la-qualite-de-gestion-des-coproprietes/",
+      "image": null,
+      "date": "2026-10-08",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Maison individuelle",
+        "NF Habitat",
+        "Qualité",
+        "Confort d’été",
+        "Rénovation"
+      ],
+      "summary": "The post CERQUAL Qualitel Certification au Congrès de l’UNIS : valoriser la qualité de gestion des copropriétés appeared first on Qualitel | Professionnels. The post CERQUAL Qualitel Certification au Congrès de l’UNIS&#160;: valoriser la qualité de gestion des copropriétés appear…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12829,30 +13066,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-19-1791244800000",
-      "title": "pourquoi la region sud elira t elle un nouveau president le 12 octobre",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/pourquoi-la-region-sud-elira-t-elle-un-nouveau-president-le-12-octobre",
-      "image": null,
-      "date": "2026-10-06",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "adulm-lille-metropole-rss-1-1791296072000",
       "title": "Rencontre annuelle URBA8 à Amiens",
       "source": "ADULM Lille Métropole",
@@ -13103,7 +13316,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-20-1791158400000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1791158400000",
       "title": "renovation energetique",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13582,7 +13795,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-21-1790812800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1790812800000",
       "title": "contre le cancer du sein la region sud mise sur la proximite",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -13849,6 +14062,29 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "cequami-rss-6-1790781314000",
+      "title": "Portail client NF Habitat : le configurateur de profil HQE évolue pour simplifier vos démarches",
+      "source": "Céquami",
+      "sourceId": "cequami",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/professionnels/actualites/le-configurateur-de-profil-hqe-evolue/",
+      "image": null,
+      "date": "2026-09-30",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Maison individuelle",
+        "NF Habitat",
+        "Qualité"
+      ],
+      "summary": "The post Portail client NF Habitat : le configurateur de profil HQE évolue pour simplifier vos démarches appeared first on Qualitel | Professionnels. The post Portail client NF Habitat&#160;: le configurateur de profil HQE évolue pour simplifier vos démarches appeared first on Qu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "bruitparif-rss-0-1790726400000",
@@ -14126,7 +14362,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-22-1790640000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1790640000000",
       "title": "rentree scolaire ca se pass",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -14149,7 +14385,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-23-1790640000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1790640000000",
       "title": "a la londe les maures un nouveau pole strategique pour les drones marins",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15125,7 +15361,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-24-1790208000000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1790208000000",
       "title": "sainte marie madeleine la region sud veille sur un patrimoine exceptionnel",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -15940,7 +16176,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-25-1790035200000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1790035200000",
       "title": "train a batteries",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16037,7 +16273,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-26-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1789948800000",
       "title": "transmettre elever produire lagriculture du sud prepare lavenir",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16060,7 +16296,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-27-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1789948800000",
       "title": "fraises de carpentras le gout du sud",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
@@ -16083,36 +16319,13 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-28-1789948800000",
+      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1789948800000",
       "title": "assises de lapprentissage",
       "source": "ORECA Provence-Alpes-Côte d’Azur",
       "sourceId": "oreca-provence-alpes-cote-d-azur",
       "sourceType": "Observatoire énergie-climat-air",
       "region": "Provence-Alpes-Côte d’Azur",
       "url": "https://www.maregionsud.fr/actualites/detail/assises-de-lapprentissage",
-      "image": null,
-      "date": "2026-09-21",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Énergie",
-        "Climat",
-        "Air"
-      ],
-      "summary": "Publication détectée dans le sitemap de ORECA Provence-Alpes-Côte d’Azur. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "oreca-provence-alpes-cote-d-azur-sitemap-29-1789948800000",
-      "title": "paques en provence traditions histoire et saveurs de printemps",
-      "source": "ORECA Provence-Alpes-Côte d’Azur",
-      "sourceId": "oreca-provence-alpes-cote-d-azur",
-      "sourceType": "Observatoire énergie-climat-air",
-      "region": "Provence-Alpes-Côte d’Azur",
-      "url": "https://www.maregionsud.fr/actualites/detail/paques-en-provence-traditions-histoire-et-saveurs-de-printemps",
       "image": null,
       "date": "2026-09-21",
       "access": "open",
@@ -16501,6 +16714,77 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "cequami-rss-7-1789631874000",
+      "title": "Oppidea Europolia fait de la certification un levier pour construire la ville durable",
+      "source": "Céquami",
+      "sourceId": "cequami",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/professionnels/actualites/oppidea-europolia-fait-de-la-certification-un-levier-pour-construire-la-ville-durable/",
+      "image": null,
+      "date": "2026-09-17",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Maison individuelle",
+        "NF Habitat",
+        "Qualité",
+        "Bâtiment"
+      ],
+      "summary": "Avec ce trophée, au-delà de l’engagement durable et constant au service du cadre de vie des Toulousains, c’est aussi une démarche de progrès tournée vers le collectif que nous saluons aujourd’hui. Oppidea Europolia contribue chaque jour à construire, penser et améliorer le logeme…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "cequami-rss-8-1789631836000",
+      "title": "La SPL Caen la mer Aménagement se distingue en choisissant NF Habitat HQE pour les 2 700 logements de la ZAC Mont-Coco Côte de Nacre",
+      "source": "Céquami",
+      "sourceId": "cequami",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/professionnels/actualites/la-spl-caen-la-mer-amenagement-choisissant-nf-habitat-hqe-pour-logements-de-zac-mont-coco-cote-de-nacre/",
+      "image": null,
+      "date": "2026-09-17",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Maison individuelle",
+        "NF Habitat",
+        "Qualité",
+        "Bâtiment"
+      ],
+      "summary": "The post La SPL Caen la mer Aménagement se distingue en choisissant NF Habitat HQE pour les 2 700 logements de la ZAC Mont-Coco Côte de Nacre appeared first on Qualitel | Professionnels. The post La SPL Caen la mer Aménagement se distingue en choisissant NF Habitat HQE pour les 2…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "cequami-rss-9-1789631823000",
+      "title": "QUALITEL, CERQUAL et le CNOUS affirment leur engagement en faveur de la qualité des résidences étudiantes",
+      "source": "Céquami",
+      "sourceId": "cequami",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/professionnels/actualites/qualitel-cerqual-et-le-cnous-affirment-leur-engagement-en-faveur-de-la-qualite-des-residences-etudiantes/",
+      "image": null,
+      "date": "2026-09-17",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Maison individuelle",
+        "NF Habitat",
+        "Qualité"
+      ],
+      "summary": "The post QUALITEL, CERQUAL et le CNOUS affirment leur engagement en faveur de la qualité des résidences étudiantes appeared first on Qualitel | Professionnels. The post QUALITEL, CERQUAL et le CNOUS affirment leur engagement en faveur de la qualité des résidences étudiantes appea…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "novabuild-rss-9-1789638145000",
       "title": "La Grange rouge : une architecture contemporaine vernaculaire biosourcée",
       "source": "Novabuild",
@@ -16749,13 +17033,36 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "promotelec-sitemap-1-1789476954000",
+      "title": "ressources des pros",
+      "source": "Promotelec",
+      "sourceId": "promotelec",
+      "sourceType": "Association / label",
+      "region": "National",
+      "url": "https://www.promotelec.com/ressources-des-pros/",
+      "image": null,
+      "date": "2026-09-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Électricité",
+        "Logement",
+        "Rénovation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Promotelec. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "apur-sitemap-2-1789469061000",
       "title": "rapport activites 2012 2013",
       "source": "APUR",
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -16941,6 +17248,32 @@ window.BATIVEILLE_DATA = {
         "Santé"
       ],
       "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "promotelec-sitemap-50-1789381014000",
+      "title": "accelerer lelectrification pour decarboner les logements collectifs",
+      "source": "Promotelec",
+      "sourceId": "promotelec",
+      "sourceType": "Association / label",
+      "region": "National",
+      "url": "https://www.promotelec.com/actualite/accelerer-lelectrification-pour-decarboner-les-logements-collectifs/",
+      "image": null,
+      "date": "2026-09-14",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Électricité",
+        "Logement",
+        "Rénovation",
+        "Réglementation",
+        "Carbone",
+        "Bâtiment"
+      ],
+      "summary": "Publication détectée dans le sitemap de Promotelec. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -19232,6 +19565,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "promotelec-sitemap-49-1786029552000",
+      "title": "le rapport dactivite 2025 de promotelec est en ligne",
+      "source": "Promotelec",
+      "sourceId": "promotelec",
+      "sourceType": "Association / label",
+      "region": "National",
+      "url": "https://www.promotelec.com/actualite/le-rapport-dactivite-2025-de-promotelec-est-en-ligne/",
+      "image": null,
+      "date": "2026-08-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Électricité",
+        "Logement",
+        "Rénovation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Promotelec. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "audiar-rennes-rss-7-1785999504000",
       "title": "L’Audiar partage son expérience de l’intelligence artificielle lors d’une rencontre des agences d’urbanisme",
       "source": "AUDIAR Rennes",
@@ -19306,6 +19662,53 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "qualitel-cerqual-rss-2-1785935988000",
+      "title": "Le Fonds de dotation QUALITEL aux côtés de l’AFEJI Hauts-de-France pour améliorer le quotidien des seniors",
+      "source": "Qualitel / Cerqual",
+      "sourceId": "qualitel-cerqual",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/magazine/fonds-de-dotation-qualitel-afeji-hauts-de-france/",
+      "image": null,
+      "date": "2026-08-05",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Logement",
+        "Qualité",
+        "Certification"
+      ],
+      "summary": "The post Le Fonds de dotation QUALITEL aux côtés de l’AFEJI Hauts-de-France pour améliorer le quotidien des seniors appeared first on Association Qualitel. The post Le Fonds de dotation QUALITEL aux côtés de l&rsquo;AFEJI Hauts-de-France pour améliorer le quotidien des seniors ap…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "qualitel-cerqual-rss-3-1785935489000",
+      "title": "Le Fonds de dotation QUALITEL aux côtés de La Case Départ pour favoriser la réinsertion par le logement",
+      "source": "Qualitel / Cerqual",
+      "sourceId": "qualitel-cerqual",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/magazine/fonds-de-dotation-qualitel-case-depart/",
+      "image": null,
+      "date": "2026-08-05",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Logement",
+        "Qualité",
+        "Certification",
+        "Bâtiment"
+      ],
+      "summary": "The post Le Fonds de dotation QUALITEL aux côtés de La Case Départ pour favoriser la réinsertion par le logement appeared first on Association Qualitel. The post Le Fonds de dotation QUALITEL aux côtés de La Case Départ pour favoriser la réinsertion par le logement appeared first…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "arb-nouvelle-aquitaine-rss-8-1785934141000",
@@ -19669,7 +20072,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -19714,13 +20117,36 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "qualitel-cerqual-rss-4-1785398684000",
+      "title": "La Cuisine de l’Arc : un tiers-lieu solidaire prend vie au cœur de Marseille grâce au soutien du Fonds de dotation QUALITEL",
+      "source": "Qualitel / Cerqual",
+      "sourceId": "qualitel-cerqual",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.qualitel.org/magazine/fonds-de-dotation-qualitel-cuisine-arc-bouillon-de-noailles/",
+      "image": null,
+      "date": "2026-07-30",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Logement",
+        "Qualité",
+        "Certification"
+      ],
+      "summary": "The post La Cuisine de l’Arc : un tiers-lieu solidaire prend vie au cœur de Marseille grâce au soutien du Fonds de dotation QUALITEL appeared first on Association Qualitel. The post La Cuisine de l&rsquo;Arc&#160;: un tiers-lieu solidaire prend vie au cœur de Marseille grâce au s…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "apur-sitemap-22-1785408404000",
       "title": "etude devenir reseau eau non potable partie 1 analyse diagnostic",
       "source": "APUR",
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -20056,7 +20482,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
@@ -20346,7 +20772,7 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/observatoire-de-la-tranquillite-publique-du-cispd-de-nantes-metropole/",
-      "image": null,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "date": "2026-07-22",
       "access": "open",
       "official": false,
@@ -20682,6 +21108,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "promotelec-sitemap-48-1784554386000",
+      "title": "hausse des prix du carburant quelles solutions electriques pour faire baisser le budget",
+      "source": "Promotelec",
+      "sourceId": "promotelec",
+      "sourceType": "Association / label",
+      "region": "National",
+      "url": "https://www.promotelec.com/actualite/hausse-des-prix-du-carburant-quelles-solutions-electriques-pour-faire-baisser-le-budget/",
+      "image": null,
+      "date": "2026-07-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Électricité",
+        "Logement",
+        "Rénovation"
+      ],
+      "summary": "Publication détectée dans le sitemap de Promotelec. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "auran-rss-4-1784538000000",
       "title": "L’économie nantaise toujours au ralenti en 2025",
       "source": "AURAN",
@@ -20689,7 +21138,7 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/leconomie-nantaise-toujours-au-ralenti-en-2025/",
-      "image": null,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "date": "2026-07-20",
       "access": "open",
       "official": false,
@@ -21097,13 +21546,13 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "auran-rss-5-1783659600000",
-      "title": "Marché de l’accession : une embellie confirmée mais les nuages restent en vue",
+      "title": "Marché de l&#8217;accession : une embellie confirmée mais les nuages restent en vue",
       "source": "AURAN",
       "sourceId": "auran",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/marche-de-laccession-une-embellie-confirmee-mais-les-nuages-restent-en-vue/",
-      "image": null,
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "date": "2026-07-10",
       "access": "open",
       "official": false,
@@ -21115,7 +21564,7 @@ window.BATIVEILLE_DATA = {
         "Habitat",
         "Foncier",
         "Réglementation",
-        "Économie du bâtiment"
+        "Eau"
       ],
       "summary": "Après trois années de fort recul, le nombre d’acquisitions par emprunt a nettement rebondi : + 45 % entre 2024 et 2025. Les prix suivent la même orientation et semblent se stabiliser à la hausse en 2025, après deux années de baisse. Cette embellie demeure toutefois fragile. Le vo…",
       "premiumSummary": "",
