@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-25T09:40:15.777Z",
+  "generatedAt": "2026-10-25T14:11:33.797Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,7 +2161,32 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
-      "id": "reporterre-rss-0-1792919058000",
+      "id": "reporterre-rss-0-1792929600000",
+      "title": "« Tous en sont atteints » : un champignon décime les frênes",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/Tous-en-sont-atteints-un-champignon-decime-les-frenes",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/20261006_reporterre_chalarose_frene_-8-9c028.jpg?1792929601",
+      "date": "2026-10-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Eau"
+      ],
+      "summary": "La chalarose du frêne se propage dans le nord-est de la France et tue des milliers d'arbres. Cette maladie incurable complique aussi le quotidien des agriculteurs et des collectivités qui doivent prévenir la chute des arbres. Quand vous commencerez à remarquer la chalarose, vous …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1792919058000",
       "title": "« Notre maison brûle et on regarde les poubelles » : à Paris, 250 000 manifestants ont dénoncé l'aveuglement du pouvoir",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2263,7 +2288,57 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792917900000",
+      "id": "enerzine-rss-0-1792934100000",
+      "title": "Le puits Marius cache-t-il une caverne géante sous la Lune ? La Nasa veut sonder le site",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/puits-marius-lune-nasa-gimli/198255-2026-10",
+      "image": null,
+      "date": "2026-10-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Avant d’aménager la Lune, encore faut-il savoir ce qu’elle dissimule. Mêmes si les cartes en dessinent les plaines, les cratères et les reliefs, certains endroits résistent encore à une lecture depuis le ciel. Dans une région volcanique, une ouverture attire pourtant les regards …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1792925100000",
+      "title": "Le gazole moins cher dès le 1er novembre, mais pas du même montant dans chaque réseau",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/baisse-prix-gazole-1er-novembre/198226-2026-10",
+      "image": null,
+      "date": "2026-10-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Dès le 1er novembre, la vente de stocks stratégiques de gazole doit contribuer à faire baisser les prix à la pompe. Le gouvernement table sur 12 à 18 centimes de moins par litre. Le décret permettra surtout aux distributeurs de répercuter l’avantage par anticipation, sans attendr…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1792917900000",
       "title": "Sony sabre son dernier lecteur Blu-ray 4K au Japon, seule reste la PS5 à lecteur optique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2289,7 +2364,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792908600000",
+      "id": "enerzine-rss-3-1792908600000",
       "title": "CHERY met le TIGGO7 à l’épreuve d’un crash-test à 50 km/h contre un camion",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2314,7 +2389,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792905000000",
+      "id": "enerzine-rss-4-1792905000000",
       "title": "Pneus hiver, chaînes : ce qui sera obligatoire en montagne à partir du 1er novembre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2414,7 +2489,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1792921194000",
+      "id": "le-commerce-du-bois-sitemap-0-1792937482000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2440,7 +2515,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1792921194000",
+      "id": "le-commerce-du-bois-sitemap-1-1792937482000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2466,7 +2541,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1792921194000",
+      "id": "le-commerce-du-bois-sitemap-2-1792937482000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2541,7 +2616,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1792865088000",
+      "id": "reporterre-rss-2-1792865088000",
       "title": "« J'ai peur de venir... donc je viens » : des dizaines de milliers de personnes à Marseille contre la « dérive autoritaire » de Macron",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2566,7 +2641,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1792863184000",
+      "id": "reporterre-rss-3-1792863184000",
       "title": "[PHOTOS] Congrès du RN à Orléans : 26 000 personnes manifestent contre « le racisme, le fascisme et l'impérialisme »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2591,7 +2666,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1792821600000",
+      "id": "reporterre-rss-4-1792821600000",
       "title": "« En appeler à l'armée contre sa propre population, c'est extrêmement inquiétant »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2616,7 +2691,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1792821600000",
+      "id": "reporterre-rss-5-1792821600000",
       "title": "« À chaque fois, des gens y croient, puis la promesse est rompue » : les consultations citoyennes de Macron ne passent plus",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2641,7 +2716,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1792818000000",
+      "id": "reporterre-rss-6-1792818000000",
       "title": "Lacrymogènes : des gaz nocifs bien après les manifs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2717,7 +2792,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792879800000",
+      "id": "enerzine-rss-5-1792879800000",
       "title": "Une nouvelle méthode à haute fréquence améliore la lecture des matériaux 2D pour les ordinateurs quantiques de nouvelle génération",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2743,7 +2818,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792869300000",
+      "id": "enerzine-rss-6-1792869300000",
       "title": "Voitures autonomes dans le Grand Paris : Stellantis et Bolt visent 2028",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2768,7 +2843,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792836420000",
+      "id": "enerzine-rss-7-1792836420000",
       "title": "Boom dévoile un cœur de turbine et une Superfactory de 2 GW dans le Colorado (USA)",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2793,7 +2868,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792833900000",
+      "id": "enerzine-rss-8-1792833900000",
       "title": "Mercedes-Benz revendique un premier crash test latéral entre deux CLA",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2818,7 +2893,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792815000000",
+      "id": "enerzine-rss-9-1792815000000",
       "title": "Passoires thermiques : pour les logements classés G, l’interdiction de louer se joue à l’échéance du bail",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4063,7 +4138,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1792765619000",
+      "id": "reporterre-rss-7-1792765619000",
       "title": "« Avec ce système pourri, on n'a aucune perspective » : la révolte de la jeunesse d'Albanie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4087,7 +4162,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1792763772000",
+      "id": "reporterre-rss-8-1792763772000",
       "title": "RN88 : un coup de pouce de l'État à 50 millions pour « la route à Wauquiez »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4113,7 +4188,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1792762081000",
+      "id": "reporterre-rss-9-1792762081000",
       "title": "50 000 morts en Europe : le bilan sans précédents des canicules de 2026",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4138,7 +4213,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1792759043000",
+      "id": "reporterre-rss-10-1792759043000",
       "title": "96 % des coraux sont menacés d'extinction d'ici 50 ans",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4164,7 +4239,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1792758864000",
+      "id": "reporterre-rss-11-1792758864000",
       "title": "« Une victoire historique » : la France va interdire les navires-usines près des côtes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4190,7 +4265,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1792746090000",
+      "id": "reporterre-rss-12-1792746090000",
       "title": "Incendie de la mairie de Limoges : pour les parents de l'accusé, on « fabrique un ennemi intérieur »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4216,7 +4291,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1792741958000",
+      "id": "reporterre-rss-13-1792741958000",
       "title": "Bolsonaro fils bientôt élu au Brésil ? Une « catastrophe » pour l'environnement et les autochtones",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4242,7 +4317,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1792738184000",
+      "id": "reporterre-rss-14-1792738184000",
       "title": "« Du pinkwashing intolérable » : quand la FNSEA multiplie les stands pour Octobre rose",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4672,57 +4747,6 @@ window.BATIVEILLE_DATA = {
         "Réseaux"
       ],
       "summary": "En deux ans à peine, la Bulgarie et ses 6,4 millions d’habitants ont raccordé presque 6 GW de batteries, soit près d’un quart de la […] L’article 6 GW de batteries : ce pays européen est champion du monde du stockage électrochimique est apparu en premier sur Révolution Énergétiqu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1792776300000",
-      "title": "Hyundai Ioniq 3, une compacte électrique qui vise près de 500 kilomètres d’autonomie",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/hyundai-ioniq-3-autonomie-batteries-recharge/198094-2026-10",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Focus aujourd’hui sur la Ioniq 3 de Hyundai, une voiture électrique compacte conçue en Europe et fabriquée en Turquie. Deux batteries sont proposées, avec une autonomie annoncée supérieure à 344 ou 497 kilomètres selon la version. La marque mise sur un habitacle spacieux, une rec…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1792765200000",
-      "title": "Changement d’heure 2026. Pour les étourdis, nous passons à l’heure d’hiver ce week-end",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/changement-heure-hiver-2026-25-octobre/198081-2026-10",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Dans la nuit du samedi 24 au dimanche 25 octobre 2026, la France métropolitaine, Corse comprise, reculera ses aiguilles d’une heure. Un cadeau de 60 minutes qui tombe à la date la plus précoce du calendrier et pour le plus grand bonheur des dormeurs. À 3 heures précises, les horl…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6172,7 +6196,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1792683638000",
+      "id": "reporterre-rss-15-1792683638000",
       "title": "A412 : la procureure d'Annecy demande la suspension immédiate du chantier",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6198,7 +6222,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1792682556000",
+      "id": "reporterre-rss-16-1792682556000",
       "title": "Cancers et pesticides : le désintérêt agressif de la droite et du gouvernement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6224,7 +6248,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1792680663000",
+      "id": "reporterre-rss-17-1792680663000",
       "title": "L'Arcom épingle Sud Radio pour désinformation climatique, annonce Quotaclimat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6248,7 +6272,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1792679097000",
+      "id": "reporterre-rss-18-1792679097000",
       "title": "Finie l'Afrique riquiqui : cette carte du monde s'émancipe des représentations coloniales",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6273,7 +6297,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1792677325000",
+      "id": "reporterre-rss-19-1792677325000",
       "title": "La Bretagne pourrait manquer d'eau potable à cause de la sécheresse",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6298,7 +6322,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1792673904000",
+      "id": "reporterre-rss-20-1792673904000",
       "title": "Les intempéries ont fait quatre morts dans le Sud-est",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6324,7 +6348,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1792661296000",
+      "id": "reporterre-rss-21-1792661296000",
       "title": "Incendie de la mairie de Limoges : la gauche et les écologistes cloués au pilori médiatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6348,7 +6372,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1792655229000",
+      "id": "reporterre-rss-22-1792655229000",
       "title": "« Je n'ai rien pris, rien cassé, rien volé » : après le 17 octobre, des tribunaux impitoyables",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6374,7 +6398,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1792648800000",
+      "id": "reporterre-rss-23-1792648800000",
       "title": "Thomas Brail : « Critiquez ces jeunes masqués, mais vous découvrirez peut-être que ce sont vos enfants »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7611,7 +7635,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1792596266000",
+      "id": "reporterre-rss-24-1792596266000",
       "title": "Ils accrochent des cerfs volants à leur bateau pour protéger des oiseaux marins en danger d'exctinction",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7637,7 +7661,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1792595068000",
+      "id": "reporterre-rss-25-1792595068000",
       "title": "« C'est la première fois qu'un plan de gestion de l'eau restreint certains pesticides »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7663,7 +7687,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1792588797000",
+      "id": "reporterre-rss-26-1792588797000",
       "title": "Canal Seine-Nord Europe : la justice demande de rejeter le recours d'associations",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7689,7 +7713,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1792588128000",
+      "id": "reporterre-rss-27-1792588128000",
       "title": "Climat : le monde se dirige vers +2,6 °C d'ici 2100, alerte l'ONU",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7715,7 +7739,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1792569100000",
+      "id": "reporterre-rss-28-1792569100000",
       "title": "Profession ? Puisatier. Benoît fait partie des 10 derniers réparateurs de puits français",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7741,7 +7765,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1792568767000",
+      "id": "reporterre-rss-29-1792568767000",
       "title": "Randonnée, trail... « On conserve un regard très bourgeois et blanc sur la nature »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -7767,7 +7791,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1792568132000",
+      "id": "reporterre-rss-30-1792568132000",
       "title": "Sur Vinted, un business de revente de vêtements importés d'Asie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8637,7 +8661,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1792511892000",
+      "id": "reporterre-rss-31-1792511892000",
       "title": "« Le pouvoir n'est pas aussi indigné par les néonazis que par Les Soulèvements de la Terre »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8663,7 +8687,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1792505899000",
+      "id": "reporterre-rss-32-1792505899000",
       "title": "École à distance, pirogues bloquées : un « super El Niño » bouleverse la vie des Guyanais",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8689,7 +8713,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1792501664000",
+      "id": "reporterre-rss-33-1792501664000",
       "title": "Un Loto pour sauver les forêts incendiées : la fausse bonne idée du gouvernement",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8715,7 +8739,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1792498591000",
+      "id": "reporterre-rss-34-1792498591000",
       "title": "Grossesse : les perturbateurs endocriniens pourraient faire baisser le QI des enfants",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8739,7 +8763,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1792483783000",
+      "id": "reporterre-rss-35-1792483783000",
       "title": "Petits-dej et formations juridiques : les écologistes prêtent main-forte à la « colère populaire »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8763,7 +8787,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1792476000000",
+      "id": "reporterre-rss-36-1792476000000",
       "title": "Biodiversité : chefs d'État et médias boudent la COP17, symptôme d'un désintérêt manifeste",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8788,7 +8812,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1792472400000",
+      "id": "reporterre-rss-37-1792472400000",
       "title": "« Un obus en plein poitrail » : en chansons, Delphine Vince politise le cancer et Octobre rose",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9285,7 +9309,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1792422256000",
+      "id": "reporterre-rss-38-1792422256000",
       "title": "« J'en ai rien à foutre de votre bio » : contaminés par un pesticide, ces agriculteurs sont abandonnés par l'État",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9311,7 +9335,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1792414951000",
+      "id": "reporterre-rss-39-1792414951000",
       "title": "Irriguer avec des eaux usées, une idée qui pourrait assécher les rivières",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9337,7 +9361,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1792414844000",
+      "id": "reporterre-rss-40-1792414844000",
       "title": "Pesticides dans les tomates : les seuils autorisés de flupyradifurone pourraient être plus que doublés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9361,7 +9385,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1792394958000",
+      "id": "reporterre-rss-41-1792394958000",
       "title": "« Pour prendre le train, il faut être militant » : les Alpes du Sud, symbole de l'abandon des petites lignes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9387,7 +9411,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1792387800000",
+      "id": "reporterre-rss-42-1792387800000",
       "title": "Pesticides : paysan, il a perdu sa fille d'un cancer et va « régler ses comptes » devant les eurodéputés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9413,7 +9437,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1792387800000",
+      "id": "reporterre-rss-43-1792387800000",
       "title": "Du maïs à la place de la lavande ? Un immense projet d'irrigation divise la Provence",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9515,7 +9539,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1792328400000",
+      "id": "reporterre-rss-44-1792328400000",
       "title": "La biodiversité a aussi sa COP, on vous explique pourquoi c'est important",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9565,7 +9589,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1792257634000",
+      "id": "reporterre-rss-45-1792257634000",
       "title": "Prix de l'essence, manque de profs et forêts en feu : le 17 octobre, les colères ont convergé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9591,7 +9615,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1792252357000",
+      "id": "reporterre-rss-46-1792252357000",
       "title": "« Même les débuts de mois sont difficiles » : ces Gilets jaunes ont remis le couvert le 17 octobre",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9617,7 +9641,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1792215000000",
+      "id": "reporterre-rss-47-1792215000000",
       "title": "« On a rendu normale, désirable son utilisation » : aux origines de notre addiction au pétrole",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9642,7 +9666,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1792215000000",
+      "id": "reporterre-rss-48-1792215000000",
       "title": "Prix du carburant : infirmière, charpentier et apiculteur racontent comment ils font face à la flambée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9668,7 +9692,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1792215000000",
+      "id": "reporterre-rss-49-1792215000000",
       "title": "La littérature se met à l'écologie : notre sélection de la rentrée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10108,7 +10132,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1792159559000",
+      "id": "reporterre-rss-50-1792159559000",
       "title": "L'aéroport Lyon-Saint-Exupéry va grossir, avec le prétexte des JO d'hiver",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10133,7 +10157,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1792159488000",
+      "id": "reporterre-rss-51-1792159488000",
       "title": "Des aides aux énergies renouvelables... redirigées vers le carburant",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10159,7 +10183,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1792159200000",
+      "id": "reporterre-rss-52-1792159200000",
       "title": "Delphine Batho : « Je ne multiplie pas les candidatures à gauche, je suis la seule candidate de l'écologie »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10185,7 +10209,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1792154663000",
+      "id": "reporterre-rss-53-1792154663000",
       "title": "Arrachage des yeux des crevettes : les supermarchés sommés d'arrêter une pratique cruelle",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10211,7 +10235,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1792151470000",
+      "id": "reporterre-rss-54-1792151470000",
       "title": "Les pressions de la FNSEA ont échoué : le schéma de gestion de l'eau de la Vilaine enfin adopté",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10237,7 +10261,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1792146561000",
+      "id": "reporterre-rss-55-1792146561000",
       "title": "La pratique du vélo décolle de 18 % sur un an",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10263,7 +10287,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1792144800000",
+      "id": "reporterre-rss-56-1792144800000",
       "title": "Mégaferme à saumons : une nouvelle manifestation prévue en Gironde",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10289,7 +10313,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1792141200000",
+      "id": "reporterre-rss-57-1792141200000",
       "title": "A412 : la justice refuse de suspendre le chantier, les opposants restent mobilisés",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10315,7 +10339,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1792132507000",
+      "id": "reporterre-rss-58-1792132507000",
       "title": "Grotte de Lascaux, château de Carcassonne... Les sites patrimoniaux menacés par le changement climatique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10341,7 +10365,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-58-1792132108000",
+      "id": "reporterre-rss-59-1792132108000",
       "title": "« Nous, banlieusards, on n'est pas assez représentés » : les lycéens des quartiers créent leur syndicat",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10361,32 +10385,6 @@ window.BATIVEILLE_DATA = {
         "Climat"
       ],
       "summary": "Elles et ils sont parmi les visages du mouvement lycéen : Soumaya, Walid et Karima ont lancé un syndicat par et pour les élèves des quartiers populaires, où la crise écologique se vit dans les salles de classe. FLQ), le premier syndicat par et pour les élèves des quartiers popula…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1792128600000",
-      "title": "« La forêt, oui merci » : élus et riverains parviennent à freiner le chantier d'une ligne à grande vitesse",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Pour-freiner-la-LGV-Bordeaux-Toulouse-elus-et-habitants-jouent-a-cache-cache-avec-les",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/sans_titre-2-f9677.jpg?1792128600",
-      "date": "2026-10-16",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Grâce à l'action pacifique d'habitants et d'élus, le déboisement prévu pour le chantier de la LGV Bordeaux-Toulouse est freiné à Ayguemorte-les-Graves. La commune tente également d'activer des leviers réglementaires. nomade » et souhaite rester anonyme, a fait le choix de dormir …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
