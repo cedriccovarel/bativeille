@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:11:33.797Z",
+  "generatedAt": "2026-10-25T18:16:32.416Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2288,7 +2288,56 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792934100000",
+      "id": "enerzine-rss-0-1792952100000",
+      "title": "Geoffrey Hinton appelle à concevoir des IA qui se soucient des humains",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/geoffrey-hinton-appelle-a-concevoir-des-ia-qui-se-soucient-des-humains/198291-2026-10",
+      "image": null,
+      "date": "2026-10-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Lors du festival Starmus VIII à Tenerife et à La Palma, Geoffrey Hinton, prix Nobel souvent présenté comme le parrain de l’IA, a défendu l’idée que la survie de l’humanité dépend d’IA qui se soucient réellement des êtres humains. Il a présenté un modèle mère-bébé pour la superint…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1792941300000",
+      "title": "Jours rouges Tempo : le 24 et le 31 décembre échappent désormais au tirage",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/jours-rouges-tempo-24-31-decembre-nouvelles-regles/198256-2026-10",
+      "image": null,
+      "date": "2026-10-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Deux dates disparaissent du tirage des jours rouges Tempo dès le 1er novembre 2026. La décision de la CRE rebat les cartes pour près de 900 000 abonnés et encadre mieux la répartition hivernale, sans leur offrir dès cet hiver une annonce officielle deux jours à l’avance. Les réve…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1792934100000",
       "title": "Le puits Marius cache-t-il une caverne géante sous la Lune ? La Nasa veut sonder le site",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2312,7 +2361,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792925100000",
+      "id": "enerzine-rss-3-1792925100000",
       "title": "Le gazole moins cher dès le 1er novembre, mais pas du même montant dans chaque réseau",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2338,7 +2387,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792917900000",
+      "id": "enerzine-rss-4-1792917900000",
       "title": "Sony sabre son dernier lecteur Blu-ray 4K au Japon, seule reste la PS5 à lecteur optique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2364,7 +2413,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792908600000",
+      "id": "enerzine-rss-5-1792908600000",
       "title": "CHERY met le TIGGO7 à l’épreuve d’un crash-test à 50 km/h contre un camion",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2389,7 +2438,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792905000000",
+      "id": "enerzine-rss-6-1792905000000",
       "title": "Pneus hiver, chaînes : ce qui sera obligatoire en montagne à partir du 1er novembre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2413,7 +2462,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1792912800000",
+      "id": "lenergeek-rss-0-1792934877000",
+      "title": "Réseau électrique : RTE lève 1 milliard d’euros pour financer sa modernisation",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/25/rte-obligations-vertes-milliard-euros-reseau-octobre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/ccf540e4-reseau-electrique-rte-leve-1-milliard-deuros-pour-.png",
+      "date": "2026-10-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "RTE a annoncé le 23 octobre 2026 une nouvelle émission d’obligations vertes d’un milliard d’euros. L’opération doit contribuer au financement du réseau français de transport d’électricité, appelé à accueillir de nouvelles productions et à résister davantage aux effets du changeme…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1792912800000",
       "title": "Les États-Unis considèrent l’hélium comme un matériau critique alors que l’Europe subit une pénurie d’approvisionnement",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2438,7 +2512,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1792911033000",
+      "id": "lenergeek-rss-2-1792911033000",
       "title": "Des chercheurs ont déposé 4 450 morceaux de bois dans une rivière australienne : en sept ans, la population de morue a été multipliée par trois et celle de perche a doublé dans ces secteurs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2464,7 +2538,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1792909660000",
+      "id": "lenergeek-rss-3-1792909660000",
       "title": "Nucléaire : l’ASNR n’écarte pas 80 ans, mais dix cuves restent à justifier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2489,7 +2563,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1792937482000",
+      "id": "le-commerce-du-bois-sitemap-0-1792952181000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2515,7 +2589,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1792937482000",
+      "id": "le-commerce-du-bois-sitemap-1-1792952181000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2541,7 +2615,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1792937482000",
+      "id": "le-commerce-du-bois-sitemap-2-1792952181000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2565,6 +2639,80 @@
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1792947203000",
+      "title": "Le savoir-faire de la métallurgie vosgienne dans le Grand Paris",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/le-savoir-faire-de-la-metallurgie-vosgienne-dans-le-grand-paris/",
+      "image": null,
+      "date": "2026-10-25",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Les 13 et 14 octobre, le conseil départemental des Vosges a organisé à Paris des rencontres et des visites de réalisations emblématiques auxquelles ont contribué des entreprises vosgiennes de la métallurgie. À travers les volumes souterrains de la gare Eole de La Défense - Grande…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1792941616000",
+      "title": "Sabine Fleischel – Coopérative",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/sabine-fleischel-cooperative/",
+      "image": null,
+      "date": "2026-10-25",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
+      ],
+      "summary": "Nommée en mai 2026 membre du directoire de la Caisse d’Épargne IÎe-de-France (CEIDF) en charge du pôle Banque de développement régional (BDR), Sabine Fleischel incarne une vision résolument renouvelée du métier bancaire. Nommée en mai 2026 membre du directoire de la Caisse d’Épar…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-2-1792940024000",
+      "title": "Visite de la centrale Canada, l’un des maillons du réseau de froid de Paris",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/centrale-canada-les-reseaux-de-froid-prennent-leurs-quartiers-a-paris/",
+      "image": null,
+      "date": "2026-10-25",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Énergie"
+      ],
+      "summary": "Le 22 octobre dernier, une visite de la centrale Canada à Paris (8e arr.), l’une des stations de production du réseau de froid de la Ville de Paris, était organisée par la Fédération des services énergie environnement (Fedene). L’occasion pour celle-ci de dévoiler les chiffres cl…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "oreca-provence-alpes-cote-d-azur-sitemap-0-1792800000000",
@@ -2792,7 +2940,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792879800000",
+      "id": "enerzine-rss-7-1792879800000",
       "title": "Une nouvelle méthode à haute fréquence améliore la lecture des matériaux 2D pour les ordinateurs quantiques de nouvelle génération",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2818,7 +2966,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792869300000",
+      "id": "enerzine-rss-8-1792869300000",
       "title": "Voitures autonomes dans le Grand Paris : Stellantis et Bolt visent 2028",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2843,7 +2991,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792836420000",
+      "id": "enerzine-rss-9-1792836420000",
       "title": "Boom dévoile un cœur de turbine et une Superfactory de 2 GW dans le Colorado (USA)",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2868,58 +3016,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1792833900000",
-      "title": "Mercedes-Benz revendique un premier crash test latéral entre deux CLA",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/mercedes-benz-revendique-un-premier-crash-test-lateral-entre-deux-cla/198109-2026-10",
-      "image": null,
-      "date": "2026-10-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "RE2020"
-      ],
-      "summary": "Mercedes-Benz a présenté un test de collision latérale à 56 km/h entre un CLA Shooting Brake hybride et un CLA électrique, chacun pesant plus de deux tonnes. Le constructeur affirme que les deux véhicules ont offert une protection exceptionnelle aux occupants et que la batterie h…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1792815000000",
-      "title": "Passoires thermiques : pour les logements classés G, l’interdiction de louer se joue à l’échéance du bail",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/passoires-thermiques-location-logement-g-renouvellement-bail/198027-2026-10",
-      "image": null,
-      "date": "2026-10-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "Depuis le 1er janvier 2025, les logements classés G au diagnostic de performance énergétique ne peuvent plus être mis en location en France métropolitaine. Mais cette interdiction n’a pas annulé les contrats en cours. Elle s’applique aux nouveaux baux, ainsi qu’à leur renouvellem…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-3-1792848000000",
+      "id": "lenergeek-rss-4-1792848000000",
       "title": "Recharges électriques : une consommation en hausse de 72% en un an, le réseau français sous pression",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2945,7 +3042,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1792819242000",
+      "id": "lenergeek-rss-5-1792819242000",
       "title": "Les maçons n’en peuvent plus de le répéter : ces deux rangs de parpaings ajoutés à l’automne sur le muret côté rue ne regardent pas que le propriétaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2969,7 +3066,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-0-1792856037000",
+      "id": "le-journal-du-grand-paris-rss-3-1792856037000",
       "title": "Guillaume Cantillon rejoint la métropole du Grand Paris comme directeur de projet",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -3244,190 +3341,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-133-1792713600000",
-      "title": "legislatives prios 1 2",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-1-2",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-134-1792713600000",
-      "title": "legislatives prios 3 4",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-3-4",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-135-1792713600000",
-      "title": "legislatives prios 5 6",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-5-6",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-136-1792713600000",
-      "title": "legislatives prios 7 8",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-7-8",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-137-1792713600000",
-      "title": "legislatives prios 9 10",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-9-10",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-138-1792713600000",
-      "title": "legislatives prios 11 12",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-11-12",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-139-1792713600000",
-      "title": "legislatives prios 13 14",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-13-14",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-140-1792713600000",
-      "title": "legislatives prios 15 16",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-15-16",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "capeb-rss-1-1792747875000",
       "title": "Maçons-Carreleurs : Nouvelles règles de l'art pour les terrasses extérieures collées",
       "source": "CAPEB",
@@ -3546,147 +3459,6 @@
         "Bâtiment"
       ],
       "summary": "Le major du BTP reste positif pour 2026, affichant une hausse de 4,9 % de son chiffre d'affaires au troisième trimestre 2026. Une activité portée par les services à l'énergie, tandis que la construction résiste. Le major du BTP reste positif pour 2026, affichant une hausse de 4,9…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-0-1792772332000",
-      "title": "Capture de CO2 : une start-up française s'attaque aux effluents très dilués",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/la-technologie-de-pure-carbone-capture-pour-capter-dioxyde-de-carbone-dans-effluents-peu-concentres-48719.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48719_large.jpg",
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Carbone"
-      ],
-      "summary": "Pure Carbon Capture a développé une technologie de capture pour les sites industriels ou les procédés dont les émissions contiennent moins de 10-12 % de dioxyde de carbone : installations de chauffage industriel ou de production d'électricité, UVE... Pure Carbon Capture a dévelop…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-1-1792764919000",
-      "title": "Directive Habitats : les projets pouvant affecter une zone protégée ne peuvent pas être exemptés d'évaluation",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/cjue-directive-habitats-evaluation-zones-protegees-48718.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48718_large.jpg",
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Par un arrêt du 22 octobre 2026, la Cour de justice de l'Union européenne (CJUE) a répondu à une question préjudicielle portant sur la conformité d'une réglementation nationale avec l'article 6 paragraphe 3 de la directive Habitats, relatif à l'év... Par un arrêt du 22 octobre 20…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-2-1792763933000",
-      "title": "ICPE : une consultation pour accélérer l'enregistrement en cas d'incompatibilité avec le PLU",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/icpe-enregistrement-instruction-parallele-urbanisme-48717.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48717_large.jpg",
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Le ministère de la Transition écologique soumet à consultation publique un projet visant à permettre l'instruction d'une demande d'enregistrement ICPE parallèlement à une procédure d'évolution du document d'urbanisme nécessaire à la réalisation du... Le ministère de la Transition…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-3-1792752911000",
-      "title": "LGV Bordeaux-Toulouse : rejet de la demande de suspension d'un arrêté portant autorisation environnementale",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/lgv-bordeaux-toulouse-suspension-autorisation-environnementale-48716.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48716_large.jpg",
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "Par une ordonnance du 14 octobre 2026, le juge des référés du tribunal administratif de Bordeaux a refusé de suspendre l'arrêté du 5 février 2026 délivrant une autorisation environnement pour les investigations préalables à la construction de la n... Par une ordonnance du 14 octo…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-4-1792752597000",
-      "title": "Le monde avance vers un réchauffement planétaire de 2,8 degrés d'ici 2100",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/emission-gap-report-rechauffement-cop31-pnue-48715.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48715_large.jpg",
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Les scénarios climatiques du Pnue démontrent une nouvelle fois que le monde n'est pas sur la bonne voie pour respecter l'Accord de Paris. À quelques jours de la COP 31, l'ONU encourage les Etats à sortir des énergies fossiles au profit des renouve... Les scénarios climatiques du …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-5-1792747535000",
-      "title": "Bonus écologique des véhicules électriques : l'arrêté relatif au calcul du score environnemental est publié",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/bonus-ecologique-score-environnemental-vehicules-electriques-48714.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48714_large.jpg",
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "L'arrêté relatif à la méthodologie de calcul du score environnemental et à la valeur de score minimale à atteindre pour l'éligibilité au bonus écologique pour les voitures particulières neuves électriques est paru au Journal officiel. Cet arrêté m... L'arrêté relatif à la méthodo…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4777,7 +4549,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1792754051000",
+      "id": "lenergeek-rss-6-1792754051000",
       "title": "Rosneft : 114 attaques, 20% de pertes, un tiers du raffinage russe à l’arrêt",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4801,7 +4573,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1792745769000",
+      "id": "lenergeek-rss-7-1792745769000",
       "title": "Forges de Tarbes : pourquoi ce redressement inquiète la filière énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4827,7 +4599,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1792734600000",
+      "id": "lenergeek-rss-8-1792734600000",
       "title": "Un ingénieur prétend avoir découvert un procédé pour dépasser la gravité terrestre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4853,7 +4625,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1792732843000",
+      "id": "lenergeek-rss-9-1792732843000",
       "title": "« On a ridiculisé Lamarck trop vite » : ce que la science découvre aujourd’hui aurait changé l’histoire de la biologie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4878,7 +4650,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1792731540000",
+      "id": "lenergeek-rss-10-1792731540000",
       "title": "Tempête Austen : les prévisions qui mettent le réseau électrique à l’épreuve ce vendredi",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4903,7 +4675,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1792729320000",
+      "id": "lenergeek-rss-11-1792729320000",
       "title": "Jours rouges Tempo : la CRE change les règles et c’est une bonne nouvelle",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4928,7 +4700,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1792725877000",
+      "id": "lenergeek-rss-12-1792725877000",
       "title": "Livret A : quand la crise énergétique vide l’épargne des ménages",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4952,7 +4724,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1792721464000",
+      "id": "lenergeek-rss-13-1792721464000",
       "title": "Prix du pétrole : le Brent remonte à 117,37 $ tandis que le WTI recule à 103,95 $",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4976,7 +4748,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1792744797000",
+      "id": "le-journal-du-grand-paris-rss-4-1792744797000",
       "title": "Violences urbaines à Paris : entre plan de soutien aux commerçants et dispositifs de maintien de l’ordre",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5000,7 +4772,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1792744755000",
+      "id": "le-journal-du-grand-paris-rss-5-1792744755000",
       "title": "Les marchés du Grand Paris – La Porte Saint-Germain prépare sa mutation en « ville-parc »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5026,7 +4798,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1792744603000",
+      "id": "le-journal-du-grand-paris-rss-6-1792744603000",
       "title": "Jean-Paul Huchon, ancien président de la région Île-de-France et défenseur de la décentralisation, est mort",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5529,240 +5301,6 @@
         "Économie du bâtiment"
       ],
       "summary": "À la fin du T3 2026, les revenus d’Icade fléchissent de 4 % comparé à la même période de 2025. Une tendance semblable à celle de la promotion, tandis que le groupe poursuit ses cessions et ses investissements. À la fin du T3 2026, les revenus d’Icade fléchissent de 4 % comparé à …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-6-1792683728000",
-      "title": "Nucléaire : l'ASNR n'identifie pas d'obstacle à la prolongation des réacteurs au-delà de 60 ans",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/asnr-prolongation-reacteurs-nucleaires-60-ans-48713.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48713_large.jpg",
-      "date": "2026-10-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "RE2020"
-      ],
-      "summary": "Le gendarme du nucléaire soumet à la consultation du public son projet d'avis sur les perspectives de poursuite du fonctionnement des réacteurs au-delà de 60 ans. Il n'identifie pas d'éléments rédhibitoires qu'EDF ne pourrait surmonter. Le gendarme du nucléaire soumet à la consul…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-7-1792681656000",
-      "title": "Bassin de l'Adour : comment concilier les enjeux agricoles et le retour au bon état des masses d'eau",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/zones-repartition-eaux-bon-etat-quantitatif-adour-etudes-socio-economiques-48710.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/news/48710_large.jpg",
-      "date": "2026-10-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "En Adour, l'objectif de retour à l'équilibre des masses d'eau constitue un enjeu. L'Igedd et le CGAAER se sont intéressés aux conditions nécessaires pour la reprise d'un dialogue local et soulignent l'importance d'un plan d'adaptation agricole apr... En Adour, l'objectif de retou…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-8-1792680867000",
-      "title": "Le plan local d'urbanisme de Saint-Malo est suspendu en raison des enjeux liés à la ressource en eau potable",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/plu-saint-malo-suspendu-eau-potable-48712.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48712_large.jpg",
-      "date": "2026-10-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "Par une ordonnance du 21 octobre 2026, le tribunal administratif de Rennes a suspendu les effets du plan local d'urbanisme (PLU) de Saint-Malo, approuvé par une délibération du 4 novembre&#8239;2025. En cause&#8239; ? Le PLU, qui prévoit... Par une ordonnance du 21 octobre 2026, …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-9-1792680851000",
-      "title": "Système électrique : les prix négatifs deviennent structurels, selon la CRE",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/prix-negatifs-electricite-cre-structurel-48711.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48711_large.jpg",
-      "date": "2026-10-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "« Le marche&#769; français a enregistre&#769; 147 heures a&#768; prix négatifs en 2023, 361 heures en 2024 puis 513 heures en 2025. L'année 2026 s'inscrit, a&#768; ce stade, dans la même dynamique avec 411 heures a&#768; prix n... « Le marche&#769; français a enregistre&#769; 147…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-10-1792674571000",
-      "title": "La Commission partage sa vision du secteur de la pêche d'ici à 2040",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/commission-europeenne-vision-peche-2040-48709.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48709_large.jpg",
-      "date": "2026-10-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "« Prospère », « viable », « résilient ». C'est en ces termes que la Commission imagine le futur du secteur de la pêche en Europe. L'exécutif a présenté le 20 octobre sa « vision » à l'horizon 2040 de ce secteur économique qui emploie aujourd'hui p... « Prospère », « viable », « r…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-11-1792674501000",
-      "title": "France Crédits Biodiversité : un premier site est agréé en Auvergne-Rhône-Alpes",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/france-credits-biodiversite-agrement-tourbieres-auvergne-48708.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48708_large.jpg",
-      "date": "2026-10-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie",
-        "Eau"
-      ],
-      "summary": "Ce jeudi 15 octobre 2026, le préfet de la région Auvergne-Rhône-Alpes a agréé le site France Crédits Biodiversité des tourbières de la Tuile et des Pradeaux, à Saint-Anthème dans le Puy-de-Dôme. Les sites France Crédits Biodiversité sont la nouve... Ce jeudi 15 octobre 2026, le p…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-12-1792665118000",
-      "title": "Omnibus VIII : le Parlement et le Conseil adoptent leurs positions sur la REP",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/omnibus-parlement-conseil-representants-rep-48707.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48707_large.jpg",
-      "date": "2026-10-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Le Parlement européen et le Conseil de l'Union ont respectivement adoptés, le 20 et 21 octobre 2026, leurs positions sur certaines mesures induites par l'Omnibus VIII, concernant notamment la suspension temporaire de certaines exigences en matière... Le Parlement européen et le C…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-13-1792661825000",
-      "title": "Appels d'offres éolien en mer : des règles précisées pour l'attribution des projets",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/decret-eolien-mer-attribution-appels-offres-48706.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48706_large.jpg",
-      "date": "2026-10-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Un décret du 20 octobre 2026 précise les règles d'attribution des projets, dans le cadre des appels d'offres portant sur l'éolien en mer notamment. Elles s'appliquent aux appels d'offres en cours et à venir. Ainsi, dans le cadre des procédures dan... Un décret du 20 octobre 2026 …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-14-1792659741000",
-      "title": "Le chiffre du jour : + 9,5 %",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/dit-aujourdhui/1845.html#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/interface/common/logo_standard_carre.jpg",
-      "date": "2026-10-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "C'est l'augmentation, en volume, des exportations d'éoliennes européennes en 2025 selon Eurostat, ce qui représente 3,1 Md euros . Bien que les importations aient augmenté dans le même temps de 69 % en volume (en provenance de Chine et d'Inde esse... C'est l'augmentation, en volu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "actu-environnement-rss-15-1792657800000",
-      "title": "Compensation environnementale : un assouplissement temporel et géographique pour faciliter les projets",
-      "source": "Actu-Environnement",
-      "sourceId": "actu-environnement",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.actu-environnement.com/ae/news/compensation-environnementale-assouplissement-erc-2026-48698.php4#xtor=RSS-6",
-      "image": "https://www.actu-environnement.com/images/illustrations/etude/48698_large.jpg",
-      "date": "2026-10-22",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Environnement",
-        "Réglementation",
-        "Énergie"
-      ],
-      "summary": "Le régime de la compensation environnementale a subi deux évolutions significatives au cours de l'année 2026. Les autrices de cette étude effectuent un tour d'horizon sur les changements apportés. Le régime de la compensation environnementale a subi deux évolutions significatives…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6524,7 +6062,7 @@
     },
     {
       "id": "greenunivers-rss-7-1792682509000",
-      "title": "Décarbonation industrielle : des pistes et des aides pour dérisquer [2]",
+      "title": "Décarbonation de l’industrie : des pistes et des aides pour dérisquer [2]",
       "source": "GreenUnivers",
       "sourceId": "greenunivers",
       "sourceType": "Presse professionnelle",
@@ -6699,7 +6237,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1792657062000",
+      "id": "lenergeek-rss-14-1792657062000",
       "title": "Pourquoi vos factures d’énergie vous mettent à découvert chaque mois",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6723,7 +6261,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1792653900000",
+      "id": "lenergeek-rss-15-1792653900000",
       "title": "Réchauffement climatique : le seuil de 1,5 °C sera dépassé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6747,7 +6285,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1792650000000",
+      "id": "lenergeek-rss-16-1792650000000",
       "title": "« Il sait où frapper avant qu’on appuie sur le bouton » : le missile français qui surprend les armées du monde entier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6772,7 +6310,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1792648253000",
+      "id": "lenergeek-rss-17-1792648253000",
       "title": "Ne jetez pas les bouteilles en plastique, elles sont précieuses : fabriquer un auvent maison pour créer de l’ombre dans votre jardin",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6797,7 +6335,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1792646400000",
+      "id": "lenergeek-rss-18-1792646400000",
       "title": "Ils ont perdu leur emploi puis construit une maison de 70 m² avec plus de 10 000 bouteilles en verre en 5 mois de collecte",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6849,7 +6387,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1792687285000",
+      "id": "le-journal-du-grand-paris-rss-7-1792687285000",
       "title": "L’essentiel de la semaine du 19 octobre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6873,7 +6411,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1792680328000",
+      "id": "le-journal-du-grand-paris-rss-8-1792680328000",
       "title": "À Tremblay, la Foncière EcoCirc prépare un parc d’activités dédié à l’économie circulaire",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6899,7 +6437,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1792652170000",
+      "id": "le-journal-du-grand-paris-rss-9-1792652170000",
       "title": "Avec Géomy3, la plus grande copropriété d’Europe alimentée par géothermie",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6921,57 +6459,6 @@
         "Biosourcé"
       ],
       "summary": "Ce mardi 20 octobre, la centrale géothermique Géomy3 a été mise officiellement en fonctionnement au Chesnay-Rocquencourt (Yvelines). Destinée à alimenter les 7 500 logements de Parly 2, la plus grande copropriété d’Europe, elle permettra aussi d’éviter l’émission de 18 500 t de C…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-7-1792649726000",
-      "title": "Rénovation énergétique : en Île-de-France, des projets structurés par les aides publiques",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/renovation-energetique-en-ile-de-france-des-projets-structures-par-les-aides-publiques/",
-      "image": null,
-      "date": "2026-10-22",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été",
-        "Économie du bâtiment"
-      ],
-      "summary": "L’Institut Paris Region a analysé les coûts de 321 opérations de rénovation globale menées entre 2010 et 2025 en copropriété et en maison individuelle. La note montre que les aides ont un effet décisif sur l’ambition des travaux et que le reste à charge reste un obstacle majeur p…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1792649359000",
-      "title": "La croissance de l’activité du groupe RATP tirée par les filiales",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/la-croissance-de-lactivite-du-groupe-ratp-tiree-par-les-filiales/",
-      "image": null,
-      "date": "2026-10-22",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau"
-      ],
-      "summary": "Président directeur général de la RATP depuis février dernier, Xavier Piechaczyk a présenté ce jeudi 22 octobre ses orientations stratégiques à horizon 2040 à un moment charnière pour le groupe puisqu'en 2027 le chiffre d’affaires des filiales égalera pour la première fois celui …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7917,7 +7404,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1792620000000",
+      "id": "lenergeek-rss-19-1792620000000",
       "title": "Prix du pétrole le 22 octobre 2026 : le Brent dépasse 110 dollars, le WTI à 98 dollars",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7941,7 +7428,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1792570001000",
+      "id": "lenergeek-rss-20-1792570001000",
       "title": "Climat : la COP 17 biodiversité débute, les défis restent nombreux",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7966,7 +7453,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1792569262000",
+      "id": "lenergeek-rss-21-1792569262000",
       "title": "Boeing 737 MAX 10 certifié : les avancées énergétiques au cœur du projet",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7991,7 +7478,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1792563472000",
+      "id": "lenergeek-rss-22-1792563472000",
       "title": "Automobile : un SUV chinois de Leapmotor bientôt éligible aux aides européennes ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8015,7 +7502,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1792561800000",
+      "id": "lenergeek-rss-23-1792561800000",
       "title": "Chauffage : la règle des 19 °C est-elle dépassée ? Voici la température à privilégier cet hiver",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8036,31 +7523,6 @@
         "Bâtiment"
       ],
       "summary": "La température de 19 °C, longtemps présentée comme la référence pour chauffer un logement, ne garantit pas le même confort à tous les occupants. Avec l’arrivée de l’hiver, la question ... L’article Chauffage : la règle des 19 °C est-elle dépassée ? Voici la température à privilég…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1792560000000",
-      "title": "Votre maison est-elle hantée ? La science révèle ce qui pourrait vraiment se cacher derrière les fantômes",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/21/votre-maison-est-elle-hantee-la-science-revele-ce-qui-pourrait-vraiment-se-cacher-derriere-les-fantomes/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/couv-news-2026-10-21T072501.834.jpg",
-      "date": "2026-10-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Les sensations de présence, les bruits inexpliqués et les apparitions attribuées aux fantômes peuvent trouver des explications dans le fonctionnement du cerveau et certains phénomènes environnementaux. Plusieurs travaux scientifiques explorent ... L’article Votre maison est-elle …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8884,32 +8346,6 @@
         "Réseaux"
       ],
       "summary": "La Turquie est en passe de rejoindre le club de moins en moins fermé des pays qui disposent de l’énergie nucléaire dans le mix électrique. […] L’article Le premier réacteur nucléaire de Turquie se rapproche de la mise en service est apparu en premier sur Révolution Énergétique. L…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1792490886000",
-      "title": "Avec le projet « Nouveaux ponts », Polylogis mise sur la mixité des usages",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/avec-le-projet-nouveaux-ponts-polylogis-mise-sur-la-mixite-des-usages/",
-      "image": null,
-      "date": "2026-10-20",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Vendredi 16 octobre, le projet \"Nouveaux ponts\" a été inauguré dans la commune de Joinville-le-Pont (Val-de-Marne). Avec ses 196 logements sociaux, l’objectif de ce bâtiment-proue est de relier fonctions résidentielles, sociales et sportives en un même lieu, tout en participant à…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16720,29 +16156,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-78-1789603200000",
-      "title": "gouvernement frederic carre rencontre vincent jeanbrun",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/gouvernement-frederic-carre-rencontre-vincent-jeanbrun",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "atmo-france-sitemap-535-1789641183000",
       "title": "qualite de lair et climat lomm appelle des politiques coordonnees",
       "source": "Atmo France",
@@ -17114,7 +16527,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -18573,29 +17986,6 @@
       "summary": "Dans le cadre de la remise des Prix Envirobat Grand Est qui s’est déroulée le 11 novembre 2025, organisée par Envirobat Grand Est, en partenariat avec les CAUE du Grand […] L'article Replay – Conférence Étalement urbain et biodiversité (25/11/2025) a été publié sur Envirobat Gran…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-319-1788220800000",
-      "title": "actu simple 31",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/actu-simple-31",
-      "image": null,
-      "date": "2026-09-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "urbalyon-rss-7-1788292821000",
@@ -20072,7 +19462,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -20146,7 +19536,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -20482,7 +19872,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
@@ -22426,29 +21816,6 @@
       "summary": "L’article Juillet 2026 est apparu en premier sur ADEME Infos. L’article Juillet 2026 est apparu en premier sur ADEME Infos . Juillet 2026",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
-      "title": "avancees ffb 2026",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
-      "image": null,
-      "date": "2026-07-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "alliance-hqe-gbc-rss-3-1783065618000",
