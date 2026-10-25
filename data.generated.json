@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:16:32.416Z",
+  "generatedAt": "2026-10-25T22:24:28.227Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2288,7 +2288,55 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792952100000",
+      "id": "enerzine-rss-0-1792958820000",
+      "title": "Pleine Lune du Chasseur : maximum prévu le 26 octobre 2026 à l’aube",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/pleine-lune-du-chasseur-maximum-prevu-le-26-octobre-2026-a-laube/198317-2026-10",
+      "image": null,
+      "date": "2026-10-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Quelques jours après le passage à l’heure d’hiver, et juste avant Halloween, la Lune du Chasseur revient dans le ciel. Son nom vient d’une vieille habitude des campagnes. Ce qu’elle réserve vraiment cette année se joue autant à l’horizon qu’au calendrier. La pleine Lune du Chasse…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1792955700000",
+      "title": "Méthane : le Parlement européen veut reporter des règles de 3 années",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/methane-le-parlement-europeen-veut-reporter-des-regles-de-3-annees/198294-2026-10",
+      "image": null,
+      "date": "2026-10-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "La version du Parlement européen du règlement sur le méthane prévoit de reporter plusieurs obligations, notamment pour les importateurs, avant des négociations avec le Conseil. Les volumes issus de pays visés par des sanctions de l’UE resteraient exclus de ces délais prolongés. D…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1792952100000",
       "title": "Geoffrey Hinton appelle à concevoir des IA qui se soucient des humains",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2312,7 +2360,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792941300000",
+      "id": "enerzine-rss-3-1792941300000",
       "title": "Jours rouges Tempo : le 24 et le 31 décembre échappent désormais au tirage",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2337,7 +2385,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792934100000",
+      "id": "enerzine-rss-4-1792934100000",
       "title": "Le puits Marius cache-t-il une caverne géante sous la Lune ? La Nasa veut sonder le site",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2361,7 +2409,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792925100000",
+      "id": "enerzine-rss-5-1792925100000",
       "title": "Le gazole moins cher dès le 1er novembre, mais pas du même montant dans chaque réseau",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2387,7 +2435,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792917900000",
+      "id": "enerzine-rss-6-1792917900000",
       "title": "Sony sabre son dernier lecteur Blu-ray 4K au Japon, seule reste la PS5 à lecteur optique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2413,7 +2461,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792908600000",
+      "id": "enerzine-rss-7-1792908600000",
       "title": "CHERY met le TIGGO7 à l’épreuve d’un crash-test à 50 km/h contre un camion",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2438,7 +2486,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792905000000",
+      "id": "enerzine-rss-8-1792905000000",
       "title": "Pneus hiver, chaînes : ce qui sera obligatoire en montagne à partir du 1er novembre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2462,7 +2510,58 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1792934877000",
+      "id": "lenergeek-rss-0-1792957415000",
+      "title": "Électricité : les prix de gros ont bondi de 144 % en France au troisième trimestre 2026",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/25/electricite-prix-gros-france-hausse-144-troisieme-trimestre-2026-smard/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/05b32660-prix-de-gros-electricite-france-2026.png",
+      "date": "2026-10-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Les prix de gros de l’électricité ont atteint en moyenne 120,20 €/MWh en France entre juillet et septembre 2026, contre 49,23 €/MWh un an plus tôt. Le nouveau bilan du régulateur allemand montre aussi une forte hausse des échanges d’électricité de l’Allemagne vers la France, dans…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1792954055000",
+      "title": "Stockage d’électricité : BloombergNEF relève fortement ses prévisions pour 2026",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/25/stockage-electricite-bloombergnef-188-gw-previsions-octobre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/70872fad-stockage-electrique-mondial-2026.png",
+      "date": "2026-10-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "BloombergNEF prévoit désormais 188 GW de nouvelles capacités de stockage électrique dans le monde en 2026, contre 158 GW auparavant. La France figure parmi les marchés européens appelés à franchir le cap du gigawatt d’installations supplémentaires. L’article Stockage d’électricit…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1792934877000",
       "title": "Réseau électrique : RTE lève 1 milliard d’euros pour financer sa modernisation",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2487,7 +2586,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1792912800000",
+      "id": "lenergeek-rss-3-1792912800000",
       "title": "Les États-Unis considèrent l’hélium comme un matériau critique alors que l’Europe subit une pénurie d’approvisionnement",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2512,7 +2611,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1792911033000",
+      "id": "lenergeek-rss-4-1792911033000",
       "title": "Des chercheurs ont déposé 4 450 morceaux de bois dans une rivière australienne : en sept ans, la population de morue a été multipliée par trois et celle de perche a doublé dans ces secteurs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2538,7 +2637,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1792909660000",
+      "id": "lenergeek-rss-5-1792909660000",
       "title": "Nucléaire : l’ASNR n’écarte pas 80 ans, mais dix cuves restent à justifier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2563,7 +2662,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1792952181000",
+      "id": "le-commerce-du-bois-sitemap-0-1792967057000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2589,7 +2688,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1792952181000",
+      "id": "le-commerce-du-bois-sitemap-1-1792967057000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2615,7 +2714,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1792952181000",
+      "id": "le-commerce-du-bois-sitemap-2-1792967057000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2940,7 +3039,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792879800000",
+      "id": "enerzine-rss-9-1792879800000",
       "title": "Une nouvelle méthode à haute fréquence améliore la lecture des matériaux 2D pour les ordinateurs quantiques de nouvelle génération",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2966,57 +3065,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1792869300000",
-      "title": "Voitures autonomes dans le Grand Paris : Stellantis et Bolt visent 2028",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/voitures-autonomes-grand-paris-stellantis-bolt-2028/198199-2026-10",
-      "image": null,
-      "date": "2026-10-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "La Métropole du Grand Paris, Stellantis et Bolt ont annoncé un projet de services de mobilité autonome dont les premiers déploiements sont envisagés en 2028. L’expérimentation concernerait d’abord un maximum de cinq communes du nord-ouest métropolitain, avant une éventuelle exten…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1792836420000",
-      "title": "Boom dévoile un cœur de turbine et une Superfactory de 2 GW dans le Colorado (USA)",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/boom-devoile-un-coeur-de-turbine-et-une-superfactory-de-2-gw-dans-le-colorado-usa/198112-2026-10",
-      "image": null,
-      "date": "2026-10-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Boom Supersonic a dévoilé un premier cœur de turbine complet, présenté une Superfactory de turbines de 2 GW à Centennial, dans le Colorado, et annoncé une fonderie monocristalline tout numérique. L’entreprise vise de premières livraisons du « Superpower » mi-2027 et une capacité …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-4-1792848000000",
+      "id": "lenergeek-rss-6-1792848000000",
       "title": "Recharges électriques : une consommation en hausse de 72% en un an, le réseau français sous pression",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3042,7 +3091,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1792819242000",
+      "id": "lenergeek-rss-7-1792819242000",
       "title": "Les maçons n’en peuvent plus de le répéter : ces deux rangs de parpaings ajoutés à l’automne sur le muret côté rue ne regardent pas que le propriétaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3339,6 +3388,190 @@
       "summary": "Avis de parution Énergie Les réseaux de chaleur et froid en 2025 Article web En 2025, la France compte 1 073 réseaux de chaleur, qui s’étendent sur 8 395 kilomètres (en hausse de 6 % sur un an). Principalement situés en zone urbaine dense, ils desservent un peu plus de 55 000 sit…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-133-1792713600000",
+      "title": "legislatives prios 1 2",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-1-2",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-134-1792713600000",
+      "title": "legislatives prios 3 4",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-3-4",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-135-1792713600000",
+      "title": "legislatives prios 5 6",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-5-6",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-136-1792713600000",
+      "title": "legislatives prios 7 8",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-7-8",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-137-1792713600000",
+      "title": "legislatives prios 9 10",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-9-10",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-138-1792713600000",
+      "title": "legislatives prios 11 12",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-11-12",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-139-1792713600000",
+      "title": "legislatives prios 13 14",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-13-14",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-140-1792713600000",
+      "title": "legislatives prios 15 16",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-15-16",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "capeb-rss-1-1792747875000",
@@ -4549,7 +4782,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1792754051000",
+      "id": "lenergeek-rss-8-1792754051000",
       "title": "Rosneft : 114 attaques, 20% de pertes, un tiers du raffinage russe à l’arrêt",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4573,7 +4806,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1792745769000",
+      "id": "lenergeek-rss-9-1792745769000",
       "title": "Forges de Tarbes : pourquoi ce redressement inquiète la filière énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4599,7 +4832,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1792734600000",
+      "id": "lenergeek-rss-10-1792734600000",
       "title": "Un ingénieur prétend avoir découvert un procédé pour dépasser la gravité terrestre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4625,7 +4858,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1792732843000",
+      "id": "lenergeek-rss-11-1792732843000",
       "title": "« On a ridiculisé Lamarck trop vite » : ce que la science découvre aujourd’hui aurait changé l’histoire de la biologie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4650,7 +4883,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1792731540000",
+      "id": "lenergeek-rss-12-1792731540000",
       "title": "Tempête Austen : les prévisions qui mettent le réseau électrique à l’épreuve ce vendredi",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4675,7 +4908,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1792729320000",
+      "id": "lenergeek-rss-13-1792729320000",
       "title": "Jours rouges Tempo : la CRE change les règles et c’est une bonne nouvelle",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4700,7 +4933,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1792725877000",
+      "id": "lenergeek-rss-14-1792725877000",
       "title": "Livret A : quand la crise énergétique vide l’épargne des ménages",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4724,7 +4957,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1792721464000",
+      "id": "lenergeek-rss-15-1792721464000",
       "title": "Prix du pétrole : le Brent remonte à 117,37 $ tandis que le WTI recule à 103,95 $",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6237,7 +6470,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1792657062000",
+      "id": "lenergeek-rss-16-1792657062000",
       "title": "Pourquoi vos factures d’énergie vous mettent à découvert chaque mois",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6261,7 +6494,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1792653900000",
+      "id": "lenergeek-rss-17-1792653900000",
       "title": "Réchauffement climatique : le seuil de 1,5 °C sera dépassé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6285,7 +6518,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1792650000000",
+      "id": "lenergeek-rss-18-1792650000000",
       "title": "« Il sait où frapper avant qu’on appuie sur le bouton » : le missile français qui surprend les armées du monde entier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6310,7 +6543,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1792648253000",
+      "id": "lenergeek-rss-19-1792648253000",
       "title": "Ne jetez pas les bouteilles en plastique, elles sont précieuses : fabriquer un auvent maison pour créer de l’ombre dans votre jardin",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6335,7 +6568,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1792646400000",
+      "id": "lenergeek-rss-20-1792646400000",
       "title": "Ils ont perdu leur emploi puis construit une maison de 70 m² avec plus de 10 000 bouteilles en verre en 5 mois de collecte",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7404,7 +7637,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1792620000000",
+      "id": "lenergeek-rss-21-1792620000000",
       "title": "Prix du pétrole le 22 octobre 2026 : le Brent dépasse 110 dollars, le WTI à 98 dollars",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7428,7 +7661,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1792570001000",
+      "id": "lenergeek-rss-22-1792570001000",
       "title": "Climat : la COP 17 biodiversité débute, les défis restent nombreux",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7453,7 +7686,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1792569262000",
+      "id": "lenergeek-rss-23-1792569262000",
       "title": "Boeing 737 MAX 10 certifié : les avancées énergétiques au cœur du projet",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7474,55 +7707,6 @@
         "Réglementation"
       ],
       "summary": "Le Boeing 737 MAX 10, certifié par la FAA le 20 octobre 2026 après 15 ans d'attente, représente une avancée majeure en efficacité énergétique pour l'aviation commerciale. L’article Boeing 737 MAX 10 certifié : les avancées énergétiques au cœur du projet est apparu en premier sur …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1792563472000",
-      "title": "Automobile : un SUV chinois de Leapmotor bientôt éligible aux aides européennes ?",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/21/leapmotor-800-volts-batterie-recharge/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/shutterstock_2840086533.jpg",
-      "date": "2026-10-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Le Leapmotor B10, désormais assemblé à Saragosse par Stellantis, apporte en Europe une plateforme 800 volts qui réduit les temps de recharge de 30% et améliore l'efficacité énergétique de 12%. Cette technologie chinoise, combinée à une production locale, rend le SUV éligible aux …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1792561800000",
-      "title": "Chauffage : la règle des 19 °C est-elle dépassée ? Voici la température à privilégier cet hiver",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/21/chauffage-la-regle-des-19-c-est-elle-depassee-voici-la-temperature-a-privilegier-cet-hiver/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/couv-news-2026-10-21T074319.533.jpg",
-      "date": "2026-10-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Bâtiment"
-      ],
-      "summary": "La température de 19 °C, longtemps présentée comme la référence pour chauffer un logement, ne garantit pas le même confort à tous les occupants. Avec l’arrivée de l’hiver, la question ... L’article Chauffage : la règle des 19 °C est-elle dépassée ? Voici la température à privilég…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -16156,6 +16340,29 @@
       "collectMethod": "rss"
     },
     {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-78-1789603200000",
+      "title": "gouvernement frederic carre rencontre vincent jeanbrun",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/gouvernement-frederic-carre-rencontre-vincent-jeanbrun",
+      "image": null,
+      "date": "2026-09-17",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "atmo-france-sitemap-535-1789641183000",
       "title": "qualite de lair et climat lomm appelle des politiques coordonnees",
       "source": "Atmo France",
@@ -16527,7 +16734,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -17986,6 +18193,29 @@
       "summary": "Dans le cadre de la remise des Prix Envirobat Grand Est qui s’est déroulée le 11 novembre 2025, organisée par Envirobat Grand Est, en partenariat avec les CAUE du Grand […] L'article Replay – Conférence Étalement urbain et biodiversité (25/11/2025) a été publié sur Envirobat Gran…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-319-1788220800000",
+      "title": "actu simple 31",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/actu-simple-31",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "urbalyon-rss-7-1788292821000",
@@ -19462,7 +19692,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -19536,7 +19766,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -19872,7 +20102,7 @@
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
@@ -21816,6 +22046,29 @@
       "summary": "L’article Juillet 2026 est apparu en premier sur ADEME Infos. L’article Juillet 2026 est apparu en premier sur ADEME Infos . Juillet 2026",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
+      "title": "avancees ffb 2026",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
+      "image": null,
+      "date": "2026-07-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "alliance-hqe-gbc-rss-3-1783065618000",
