@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T22:24:28.227Z",
+  "generatedAt": "2026-10-26T03:57:56.821Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1792987066000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1792987066000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1792987066000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "reporterre-rss-0-1792929600000",
       "title": "« Tous en sont atteints » : un champignon décime les frênes",
       "source": "Reporterre",
@@ -2288,7 +2366,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1792958820000",
+      "id": "enerzine-rss-0-1792969800000",
+      "title": "Saab et la Suède testent un démonstrateur sous-marin sans équipage",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/saab-et-la-suede-testent-un-demonstrateur-sous-marin-sans-equipage/198131-2026-10",
+      "image": null,
+      "date": "2026-10-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020"
+      ],
+      "summary": "Saab, la FMV et les Forces armées suédoises ont indiqué mi-octobre avoir développé, construit et lancé avec succès un démonstrateur de grand véhicule sous-marin sans équipage, destiné à l’évaluation de futures capacités sous-marines, moins d’un an après l’attribution du contrat. …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1792958820000",
       "title": "Pleine Lune du Chasseur : maximum prévu le 26 octobre 2026 à l’aube",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2312,7 +2415,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1792955700000",
+      "id": "enerzine-rss-2-1792955700000",
       "title": "Méthane : le Parlement européen veut reporter des règles de 3 années",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2336,7 +2439,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1792952100000",
+      "id": "enerzine-rss-3-1792952100000",
       "title": "Geoffrey Hinton appelle à concevoir des IA qui se soucient des humains",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2360,7 +2463,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1792941300000",
+      "id": "enerzine-rss-4-1792941300000",
       "title": "Jours rouges Tempo : le 24 et le 31 décembre échappent désormais au tirage",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2385,7 +2488,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1792934100000",
+      "id": "enerzine-rss-5-1792934100000",
       "title": "Le puits Marius cache-t-il une caverne géante sous la Lune ? La Nasa veut sonder le site",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2409,7 +2512,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1792925100000",
+      "id": "enerzine-rss-6-1792925100000",
       "title": "Le gazole moins cher dès le 1er novembre, mais pas du même montant dans chaque réseau",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2435,7 +2538,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1792917900000",
+      "id": "enerzine-rss-7-1792917900000",
       "title": "Sony sabre son dernier lecteur Blu-ray 4K au Japon, seule reste la PS5 à lecteur optique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2461,7 +2564,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1792908600000",
+      "id": "enerzine-rss-8-1792908600000",
       "title": "CHERY met le TIGGO7 à l’épreuve d’un crash-test à 50 km/h contre un camion",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2486,7 +2589,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1792905000000",
+      "id": "enerzine-rss-9-1792905000000",
       "title": "Pneus hiver, chaînes : ce qui sera obligatoire en montagne à partir du 1er novembre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2510,7 +2613,57 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1792957415000",
+      "id": "lenergeek-rss-0-1792968534000",
+      "title": "Gaz : le Royaume-Uni préserve sa liaison avec la Belgique pour sécuriser l’hiver",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/25/gaz-royaume-uni-belgique-interconnexion-hiver-2026-2027-26-octobre/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/7a4a3bd1-interconnexion-gaziere-royaume-uni-belgique.png",
+      "date": "2026-10-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Le régulateur britannique a autorisé le maintien de capacités d’importation de gaz depuis la Belgique, juste avant la publication des prévisions énergétiques pour l’hiver 2026-2027. Les gestionnaires des réseaux jugent les approvisionnements suffisants, mais la dépendance aux éch…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1792960052000",
+      "title": "Méthane : le Parlement européen veut repousser à 2031 les obligations des importateurs",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/25/methane-parlement-europeen-report-obligations-importateurs-2031-octobre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/5aa18902-methane-le-parlement-europeen-veut-repousser-a-203.png",
+      "date": "2026-10-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Le Parlement européen a voté le 22 octobre 2026 un report de trois ans de plusieurs exigences liées aux émissions de méthane du gaz, du pétrole et du charbon. Les importateurs auraient jusqu’au 31 mai 2031 pour démontrer l’équivalence des contrôles chez leurs fournisseurs, si le …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1792957415000",
       "title": "Électricité : les prix de gros ont bondi de 144 % en France au troisième trimestre 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2536,7 +2689,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1792954055000",
+      "id": "lenergeek-rss-3-1792954055000",
       "title": "Stockage d’électricité : BloombergNEF relève fortement ses prévisions pour 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2561,7 +2714,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1792934877000",
+      "id": "lenergeek-rss-4-1792934877000",
       "title": "Réseau électrique : RTE lève 1 milliard d’euros pour financer sa modernisation",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2586,7 +2739,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1792912800000",
+      "id": "lenergeek-rss-5-1792912800000",
       "title": "Les États-Unis considèrent l’hélium comme un matériau critique alors que l’Europe subit une pénurie d’approvisionnement",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2611,7 +2764,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1792911033000",
+      "id": "lenergeek-rss-6-1792911033000",
       "title": "Des chercheurs ont déposé 4 450 morceaux de bois dans une rivière australienne : en sept ans, la population de morue a été multipliée par trois et celle de perche a doublé dans ces secteurs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2637,7 +2790,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1792909660000",
+      "id": "lenergeek-rss-7-1792909660000",
       "title": "Nucléaire : l’ASNR n’écarte pas 80 ans, mais dix cuves restent à justifier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2660,84 +2813,6 @@
       "summary": "L’Autorité de sûreté nucléaire estime qu’aucun obstacle insurmontable n’est identifié, à ce stade, pour exploiter les réacteurs français au-delà de 60 ans. Son projet d’avis détaille toutefois des vérifications majeures sur les cuves, les équipements vieillissants et les effets d…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1792967057000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1792967057000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1792967057000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1792947203000",
@@ -3039,33 +3114,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1792879800000",
-      "title": "Une nouvelle méthode à haute fréquence améliore la lecture des matériaux 2D pour les ordinateurs quantiques de nouvelle génération",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/une-nouvelle-methode-a-haute-frequence-ameliore-la-lecture-des-materiaux-2d-pour-les-ordinateurs-quantiques-de-nouvelle-generation/197920-2026-10",
-      "image": null,
-      "date": "2026-10-24",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "Les ordinateurs quantiques représentent une étape passionnante dans l’évolution rapide de la technologie. Grâce aux bits quantiques (qubits), ils ont le potentiel d’effectuer certains calculs de manière exponentiellement plus rapide que les ordinateurs conventionnels. Cependant, …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-6-1792848000000",
+      "id": "lenergeek-rss-8-1792848000000",
       "title": "Recharges électriques : une consommation en hausse de 72% en un an, le réseau français sous pression",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3091,7 +3140,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1792819242000",
+      "id": "lenergeek-rss-9-1792819242000",
       "title": "Les maçons n’en peuvent plus de le répéter : ces deux rangs de parpaings ajoutés à l’automne sur le muret côté rue ne regardent pas que le propriétaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4782,7 +4831,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1792754051000",
+      "id": "lenergeek-rss-10-1792754051000",
       "title": "Rosneft : 114 attaques, 20% de pertes, un tiers du raffinage russe à l’arrêt",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4806,7 +4855,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1792745769000",
+      "id": "lenergeek-rss-11-1792745769000",
       "title": "Forges de Tarbes : pourquoi ce redressement inquiète la filière énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4832,7 +4881,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1792734600000",
+      "id": "lenergeek-rss-12-1792734600000",
       "title": "Un ingénieur prétend avoir découvert un procédé pour dépasser la gravité terrestre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4858,7 +4907,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1792732843000",
+      "id": "lenergeek-rss-13-1792732843000",
       "title": "« On a ridiculisé Lamarck trop vite » : ce que la science découvre aujourd’hui aurait changé l’histoire de la biologie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4883,7 +4932,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1792731540000",
+      "id": "lenergeek-rss-14-1792731540000",
       "title": "Tempête Austen : les prévisions qui mettent le réseau électrique à l’épreuve ce vendredi",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4908,7 +4957,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1792729320000",
+      "id": "lenergeek-rss-15-1792729320000",
       "title": "Jours rouges Tempo : la CRE change les règles et c’est une bonne nouvelle",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4933,7 +4982,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1792725877000",
+      "id": "lenergeek-rss-16-1792725877000",
       "title": "Livret A : quand la crise énergétique vide l’épargne des ménages",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4957,7 +5006,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1792721464000",
+      "id": "lenergeek-rss-17-1792721464000",
       "title": "Prix du pétrole : le Brent remonte à 117,37 $ tandis que le WTI recule à 103,95 $",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6470,7 +6519,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1792657062000",
+      "id": "lenergeek-rss-18-1792657062000",
       "title": "Pourquoi vos factures d’énergie vous mettent à découvert chaque mois",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6494,7 +6543,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1792653900000",
+      "id": "lenergeek-rss-19-1792653900000",
       "title": "Réchauffement climatique : le seuil de 1,5 °C sera dépassé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6518,7 +6567,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1792650000000",
+      "id": "lenergeek-rss-20-1792650000000",
       "title": "« Il sait où frapper avant qu’on appuie sur le bouton » : le missile français qui surprend les armées du monde entier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6543,7 +6592,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1792648253000",
+      "id": "lenergeek-rss-21-1792648253000",
       "title": "Ne jetez pas les bouteilles en plastique, elles sont précieuses : fabriquer un auvent maison pour créer de l’ombre dans votre jardin",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6568,7 +6617,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1792646400000",
+      "id": "lenergeek-rss-22-1792646400000",
       "title": "Ils ont perdu leur emploi puis construit une maison de 70 m² avec plus de 10 000 bouteilles en verre en 5 mois de collecte",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7637,7 +7686,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1792620000000",
+      "id": "lenergeek-rss-23-1792620000000",
       "title": "Prix du pétrole le 22 octobre 2026 : le Brent dépasse 110 dollars, le WTI à 98 dollars",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7657,56 +7706,6 @@
         "ENR"
       ],
       "summary": "Le 22 octobre 2026 au petit matin, le Brent s'établit à 110,11 dollars et le WTI à 98,12 dollars selon Reuters. L’article Prix du pétrole le 22 octobre 2026 : le Brent dépasse 110 dollars, le WTI à 98 dollars est apparu en premier sur L'EnerGeek. Le 22 octobre 2026 au petit matin…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1792570001000",
-      "title": "Climat : la COP 17 biodiversité débute, les défis restent nombreux",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/21/biodiversite-energetique-cop17-climat/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/shutterstock_2758006977.jpg",
-      "date": "2026-10-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Biosourcé"
-      ],
-      "summary": "La COP17 biodiversité s'ouvre à Erevan avec près de 200 pays face à un constat critique : les écosystèmes sont des infrastructures essentielles à la transition énergétique mondiale. Quatre ans après Montréal, seuls 18% des terres sont protégées contre l'objectif de 30% pour 2030,…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1792569262000",
-      "title": "Boeing 737 MAX 10 certifié : les avancées énergétiques au cœur du projet",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/21/737-max-10-efficacite-energetique-aviation-durable/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/06/boeing-usine-deverett-aeronautique.webp",
-      "date": "2026-10-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Le Boeing 737 MAX 10, certifié par la FAA le 20 octobre 2026 après 15 ans d'attente, représente une avancée majeure en efficacité énergétique pour l'aviation commerciale. L’article Boeing 737 MAX 10 certifié : les avancées énergétiques au cœur du projet est apparu en premier sur …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7993,7 +7992,7 @@
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/cycle-de-webinaires-sur-le-logement-social-fondamentaux-et-leviers-locaux-de-production/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-10-20",
       "access": "open",
       "official": false,
@@ -8007,7 +8006,7 @@
         "Réglementation",
         "Énergie"
       ],
-      "summary": "Projet immobilier de la friche Richomme à Blain, 85 logements dont 22% de logements sociaux, HUCA Architecture. Crédit photo : Auran, octobre 2026 La Direction Départementale des Territoires et de la Mer (DDTM) et ses partenaires (USH, EPFLA, intercommunalités, …) ont proposé sou…",
+      "summary": "La Direction Départementale des Territoires et de la Mer (DDTM) et ses partenaires (USH, EPFLA, intercommunalités, …) ont proposé sous l’égide du Préfet de Loire-Atlantique une série de 5 webinaires de 30 mn sur les leviers locaux de production d’une offre de logements sociaux. E…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8655,13 +8654,13 @@
     },
     {
       "id": "auran-rss-1-1792403544000",
-      "title": "Nouvelle étude &#8211; Loire-Atlantique : davantage de ménages d’ici 2050, un ralentissement après 2030",
+      "title": "Nouvelle étude – Loire-Atlantique : davantage de ménages d’ici 2050, un ralentissement après 2030",
       "source": "AURAN",
       "sourceId": "auran",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/nouvelle-etude-loire-atlantique-davantage-de-menages-dici-2050-un-ralentissement-apres-2030/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-10-19",
       "access": "open",
       "official": false,
@@ -8673,7 +8672,7 @@
         "Habitat",
         "Foncier",
         "Réglementation",
-        "RE2020"
+        "Bâtiment"
       ],
       "summary": "Combien de ménages comptera la Loire-Atlantique en 2025 ? Quelle serait la composition des ménages ? L’Insee, en partenariat avec Nantes Métropole et l’Auran, a publié cette semaine une étude sur les projections de ménages à l’échelle départementale et infra-départementale. Cette…",
       "premiumSummary": "",
@@ -10515,19 +10514,18 @@
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/a-nozay-un-diagnostic-partage-pour-preparer-la-prochaine-convention-territoriale-globale/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-10-14",
       "access": "open",
       "official": false,
       "highImpact": true,
-      "impactScore": 96,
+      "impactScore": 88,
       "tags": [
         "Nantes",
         "Urbanisme",
         "Habitat",
         "Foncier",
-        "Réglementation",
-        "Eau"
+        "Réglementation"
       ],
       "summary": "Le 9 septembre dernier, la Communauté de communes de Nozay a réuni élus communaux et communautaires, directeurs/directrices généraux des services (DGS), et partenaires du territoire à l’occasion d’un séminaire consacré à l’évaluation de sa Convention Territoriale Globale (CTG). C…",
       "premiumSummary": "",
@@ -20392,7 +20390,7 @@
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/observatoire-de-la-tranquillite-publique-du-cispd-de-nantes-metropole/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-07-22",
       "access": "open",
       "official": false,
@@ -20758,7 +20756,7 @@
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/leconomie-nantaise-toujours-au-ralenti-en-2025/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-07-20",
       "access": "open",
       "official": false,
@@ -21166,13 +21164,13 @@
     },
     {
       "id": "auran-rss-5-1783659600000",
-      "title": "Marché de l&#8217;accession : une embellie confirmée mais les nuages restent en vue",
+      "title": "Marché de l’accession : une embellie confirmée mais les nuages restent en vue",
       "source": "AURAN",
       "sourceId": "auran",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/marche-de-laccession-une-embellie-confirmee-mais-les-nuages-restent-en-vue/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-07-10",
       "access": "open",
       "official": false,
@@ -21184,7 +21182,7 @@
         "Habitat",
         "Foncier",
         "Réglementation",
-        "Eau"
+        "Économie du bâtiment"
       ],
       "summary": "Après trois années de fort recul, le nombre d’acquisitions par emprunt a nettement rebondi : + 45 % entre 2024 et 2025. Les prix suivent la même orientation et semblent se stabiliser à la hausse en 2025, après deux années de baisse. Cette embellie demeure toutefois fragile. Le vo…",
       "premiumSummary": "",
