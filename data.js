@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-27T19:57:27.455Z",
+  "generatedAt": "2026-10-27T23:40:12.349Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2310,6 +2310,29 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-3-1793059500000",
+      "title": "Lumière naturelle maximale, design épuré : LAMILUX Glass Skylight FE 3°",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/lamilux-glass-skylight-fe-3-lumiere-naturelle-49453",
+      "image": "https://img.batiweb.com/repo-images/publi/49453/lamilux-10-28-une.jpg",
+      "date": "2026-10-27",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché"
+      ],
+      "summary": "Le LAMILUX Glass Skylight FE 3° allie un design épuré à une technologie intelligente pour garantir durablement une qualité de lumière naturelle élevée. Le LAMILUX Glass Skylight FE 3° allie un design épuré à une technologie intelligente pour garantir durablement une qualité de lu…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-4-1793059500000",
       "title": "AERO CIME : la solution EDILIANS pour l'étanchéité des toitures en pente",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2332,7 +2355,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "batiweb-rss-4-1793059500000",
+      "id": "batiweb-rss-5-1793059500000",
       "title": "Et si vous choisissiez vous-même vos prospects ?",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -2353,29 +2376,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Avec helloLeads, les pros du bâtiment choisissent leurs prospects, leurs chantiers et leurs crédits, sans abonnement ni engagement. Avec helloLeads, les pros du bâtiment choisissent leurs prospects, leurs chantiers et leurs crédits, sans abonnement ni engagement. Et si vous chois…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-5-1793059500000",
-      "title": "Lumière naturelle maximale, design épuré : LAMILUX Glass Skylight FE 3°",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/lamilux-glass-skylight-fe-3-lumiere-naturelle-49453",
-      "image": "https://img.batiweb.com/repo-images/publi/49453/lamilux-10-28-une.jpg",
-      "date": "2026-10-27",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "Le LAMILUX Glass Skylight FE 3° allie un design épuré à une technologie intelligente pour garantir durablement une qualité de lumière naturelle élevée. Le LAMILUX Glass Skylight FE 3° allie un design épuré à une technologie intelligente pour garantir durablement une qualité de lu…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4479,7 +4479,55 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1793123400000",
+      "id": "enerzine-rss-0-1793142600000",
+      "title": "Des électrons piégés dans un métal via un état lié dans le continuum",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-electrons-pieges-dans-un-metal-via-un-etat-lie-dans-le-continuum/198444-2026-10",
+      "image": null,
+      "date": "2026-10-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Dans un préprint dirigé par Morgan Thinel, des chercheurs de Columbia décrivent des ondes d’électrons piégées dans le Pd₅AlI₂ par des défauts, un état lié dans le continuum jamais encore observé avec des électrons et rendu possible par l’interférence de sauts frustrés. Le matéria…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1793131500000",
+      "title": "Panne LCL : l’application et le site inaccessibles, des clients bloqués dans la matinée",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/panne-lcl-27-octobre-2026-application-site/198657-2026-10",
+      "image": null,
+      "date": "2026-10-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des clients de LCL n’ont pas pu accéder à leurs comptes ce mardi, sur l’application comme sur le site de la banque. Les témoignages recueillis dans la matinée décrivent des pages qui ralentissent, puis une connexion impossible. Consulter son solde, effectuer un virement ou ouvrir…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1793123400000",
       "title": "La centrale solaire du centre routier des 3 Cardinaux inaugurée à Bordeaux-Bacalan",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4505,7 +4553,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1793088420000",
+      "id": "enerzine-rss-3-1793088420000",
       "title": "Appels téléphoniques indésirables. L’interdiction est en vigueur, mais le harcèlement continue",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4530,7 +4578,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1793082600000",
+      "id": "enerzine-rss-4-1793082600000",
       "title": "Un capteur magnétique à diamant et laser à large plage dynamique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4555,7 +4603,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1793081400000",
+      "id": "enerzine-rss-5-1793081400000",
       "title": "Tesla démarre la production d’Optimus et prévoit une montée en cadence « un peu chaotique »",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4580,7 +4628,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1793077800000",
+      "id": "enerzine-rss-6-1793077800000",
       "title": "Teledyne FLIR décroche 48 millions de dollars pour des Stryker bulgares",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4606,7 +4654,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1793074200000",
+      "id": "enerzine-rss-7-1793074200000",
       "title": "Lunettes Brown 2, la version légère d’Even G2 qui projette la traduction en direct dans le champ de vision du porteur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4632,7 +4680,82 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1793119001000",
+      "id": "lenergeek-rss-0-1793136953000",
+      "title": "Électricité : les exploitants ont jusqu’au 9 novembre pour préparer l’enchère de capacité 2030-2031",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/27/cre-enchere-capacite-2030-2031-inscription-9-novembre-2026-271026-2334/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/e83aaa43-enchere-de-capacite-2030-2031.png",
+      "date": "2026-10-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "La Commission de régulation de l’énergie précise les démarches pour demander une dérogation au plafond de rémunération ou accéder à un contrat pluriannuel dans le cadre de l’enchère électrique 2030-2031. Les exploitants doivent se signaler avant le 9 novembre, puis déposer leur d…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1793136642000",
+      "title": "Centres de données : Wärtsilä dévoile un projet de production électrique de 282 MW aux États-Unis",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/27/wartsila-centres-donnees-production-electrique-282-mw-etats-unis-octobre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/a85bc46d-wartsila-centres-de-donnees-282-mw.png",
+      "date": "2026-10-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Un centre de données américain s'équipera de quinze moteurs à gaz Wärtsilä pour disposer de 282 MW de production électrique sur site. Présentée avec les résultats du groupe finlandais le 27 octobre, cette commande illustre les tensions entre la croissance des besoins de l'IA et l…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1793129564000",
+      "title": "Gaz et pétrole : l’Insee mesure une forte hausse des cours en septembre 2026",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/27/insee-gaz-ttf-75-3-euros-petrole-brent-septembre-2026-271026-2136/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/27e4e1bb-prix-du-gaz-septembre-2026-insee.png",
+      "date": "2026-10-27",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le gaz européen a renchéri de 21,2 % en septembre et le pétrole Brent de 16,5 % en euros, selon les données publiées le 27 octobre par l’Insee. Ces moyennes de marché éclairent les tensions sur les coûts d’approvisionnement, sans se confondre avec les tarifs facturés aux consomma…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1793119001000",
       "title": "Gaz : l’Insee mesure une hausse de 21,2 % des cours européens en septembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4657,7 +4780,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1793114199000",
+      "id": "lenergeek-rss-4-1793114199000",
       "title": "Solaire : les raccordements français reculent de 15,6 % au troisième trimestre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4682,7 +4805,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1793112728000",
+      "id": "lenergeek-rss-5-1793112728000",
       "title": "Trêve hivernale : pourquoi votre compteur peut être bridé sans être coupé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4706,7 +4829,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1793111610000",
+      "id": "lenergeek-rss-6-1793111610000",
       "title": "Renouvelables : l’IRENA prévoit moins de nouvelles capacités en 2026, freinées par les réseaux",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4731,7 +4854,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1793108373000",
+      "id": "lenergeek-rss-7-1793108373000",
       "title": "Les dockers bientôt en grève, des perturbations à venir dans les ports français",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4755,7 +4878,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1793108220000",
+      "id": "lenergeek-rss-8-1793108220000",
       "title": "Électricité et gaz : la CRE et Singapour renforcent leur coopération réglementaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4781,7 +4904,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1793106754000",
+      "id": "lenergeek-rss-9-1793106754000",
       "title": "La production agricole française, au cœur de la transition énergétique ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4806,7 +4929,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1793105996000",
+      "id": "lenergeek-rss-10-1793105996000",
       "title": "Renouvelables : l’IRENA anticipe un ralentissement mondial en 2026, faute de réseaux suffisants",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4831,7 +4954,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1793099462000",
+      "id": "lenergeek-rss-11-1793099462000",
       "title": "Hydrogène : Bruxelles rouvre le débat sur sa stratégie européenne, contributions jusqu’au 23 novembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4857,7 +4980,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1793097428000",
+      "id": "lenergeek-rss-12-1793097428000",
       "title": "Raccordement électrique : le nouveau barème d’Enedis entre en vigueur le 28 octobre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4882,7 +5005,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1793097000000",
+      "id": "lenergeek-rss-13-1793097000000",
       "title": "Pétrole : pourquoi la reprise des exportations du Golfe ne fait pas baisser les carburants",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4906,7 +5029,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1793092920000",
+      "id": "lenergeek-rss-14-1793092920000",
       "title": "Résilience des réseaux : le prix du flou cartographique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4932,7 +5055,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1793090275000",
+      "id": "lenergeek-rss-15-1793090275000",
       "title": "Gaz : la CRE approuve le code de bonne conduite de NaTran",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4958,7 +5081,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1793086327000",
+      "id": "lenergeek-rss-16-1793086327000",
       "title": "Technologies propres : l’Asie du Sud-Est pourrait dépasser 80 milliards de dollars de marché en 2035",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4983,7 +5106,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1793085631000",
+      "id": "lenergeek-rss-17-1793085631000",
       "title": "« Je pensais que c’était automatique » : des milliers de Français passent à côté d’un virement de 277 € pour le chauffage parce qu’ils n’ont jamais fait la demande",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5007,7 +5130,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1793083839000",
+      "id": "lenergeek-rss-18-1793083839000",
       "title": "Un retraité a retrouvé une pièce de 2€ dans son canapé : un numismate lui en a offert 1 000€, et ce n’est pas la plus rare",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5032,7 +5155,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1793083055000",
+      "id": "lenergeek-rss-19-1793083055000",
       "title": "Hydrogène : Bruxelles ouvre jusqu’au 23 novembre une consultation pour revoir sa stratégie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5056,7 +5179,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1793082600000",
+      "id": "lenergeek-rss-20-1793082600000",
       "title": "Centres de données : les vols de matériel d’IA menacent la chaîne d’approvisionnement",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5081,7 +5204,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1793082001000",
+      "id": "lenergeek-rss-21-1793082001000",
       "title": "Vous roulez au gazole ? Les stations-service changent leurs règles en novembre, et beaucoup d’automobilistes ne sont pas prêts",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5107,7 +5230,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1793077200000",
+      "id": "lenergeek-rss-22-1793077200000",
       "title": "Gaz naturel : EQT et Range Resources vont créer le premier producteur américain",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5133,7 +5256,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1793075694000",
+      "id": "lenergeek-rss-23-1793075694000",
       "title": "Réseaux énergétiques européens : 2,88 milliards d’euros d’aides demandées pour 600 millions disponibles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5158,85 +5281,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1793070856000",
-      "title": "Hydrogène : Bruxelles consulte jusqu’au 23 novembre pour revoir sa stratégie européenne",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/27/hydrogene-consultation-strategie-europeenne-23-novembre-2026-2/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/2d2614a5-consultation-strategie-hydrogene-europeenne.png",
-      "date": "2026-10-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "La Commission européenne a ouvert le 26 octobre une consultation sur sa future stratégie de l’hydrogène. Producteurs, industriels, opérateurs de réseaux et collectivités peuvent contribuer jusqu’au 23 novembre, alors que le déploiement de la filière reste plus lent qu’attendu. L’…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1793069122000",
-      "title": "Hydrogène : Bruxelles remet sa stratégie à l’étude, les industriels français ont jusqu’au 23 novembre pour contribuer",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/27/hydrogene-consultation-strategie-europeenne-23-novembre-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/7928194f-strategie-europeenne-hydrogene.png",
-      "date": "2026-10-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "La Commission européenne a ouvert le 26 octobre deux consultations pour préparer sa nouvelle stratégie de l’hydrogène. Coûts de production, débouchés industriels et infrastructures seront au cœur des contributions, attendues jusqu’au 23 novembre 2026. L’article Hydrogène : Bruxel…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1793061675000",
-      "title": "Hydrogène : Bruxelles ouvre une consultation pour revoir sa stratégie européenne",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/27/hydrogene-consultation-strategie-europeenne-commission-27-octobre-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/302388eb-strategie-europeenne-hydrogene.png",
-      "date": "2026-10-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "La Commission européenne recueille jusqu’au 23 novembre les contributions des industriels, producteurs, gestionnaires de réseaux et autorités publiques sur sa future stratégie de l’hydrogène. L’exercice intervient alors que les coûts de production et la lenteur des projets freine…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1793131032000",
+      "id": "le-commerce-du-bois-sitemap-0-1793144401000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -5262,7 +5307,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1793131032000",
+      "id": "le-commerce-du-bois-sitemap-1-1793144401000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -5288,7 +5333,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1793131032000",
+      "id": "le-commerce-du-bois-sitemap-2-1793144401000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -5851,30 +5896,6 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-13-1792973100000",
-      "title": "Forbo Flooring : sols hôteliers et confort acoustique",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/forbo-flooring-revetements-sol-hotel-equiphotel-49483",
-      "image": "https://img.batiweb.com/repo-images/publi/49483/forbo-10-27-une.jpg",
-      "date": "2026-10-26",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché",
-        "Réglementation"
-      ],
-      "summary": "À Equip’Hôtel 2026, Forbo Flooring présente Flotex et Allura decibel, deux solutions de sols alliant design, résistance et confort acoustique. À Equip’Hôtel 2026, Forbo Flooring présente Flotex et Allura decibel, deux solutions de sols alliant design, résistance et confort acoust…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-14-1792973100000",
       "title": "À Brest, le bâtiment G de l’UBO fait peau neuve avec JI Magine",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -5896,6 +5917,30 @@ window.BATIVEILLE_DATA = {
         "Rénovation"
       ],
       "summary": "Sur le campus sciences de l’UBO, le bâtiment G fait peau neuve grâce à une rénovation énergétique et au bardage acier JI Magine de Joris Ide. Sur le campus sciences de l’UBO, le bâtiment G fait peau neuve grâce à une rénovation énergétique et au bardage acier JI Magine de Joris I…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-14-1792973100000",
+      "title": "Forbo Flooring : sols hôteliers et confort acoustique",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/forbo-flooring-revetements-sol-hotel-equiphotel-49483",
+      "image": "https://img.batiweb.com/repo-images/publi/49483/forbo-10-27-une.jpg",
+      "date": "2026-10-26",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Réglementation"
+      ],
+      "summary": "À Equip’Hôtel 2026, Forbo Flooring présente Flotex et Allura decibel, deux solutions de sols alliant design, résistance et confort acoustique. À Equip’Hôtel 2026, Forbo Flooring présente Flotex et Allura decibel, deux solutions de sols alliant design, résistance et confort acoust…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6924,7 +6969,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1793056200000",
+      "id": "enerzine-rss-8-1793056200000",
       "title": "Chaleur en Europe : une étude estime environ 50 391 décès urbains",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6949,7 +6994,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1793039400000",
+      "id": "enerzine-rss-9-1793039400000",
       "title": "Le vortex polaire pourrait vaciller dès novembre : faut-il craindre un hiver glacial ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6970,58 +7015,6 @@ window.BATIVEILLE_DATA = {
         "RE2020"
       ],
       "summary": "À 30 kilomètres au-dessus de l’Arctique, les vents pourraient connaître un sérieux coup de frein début novembre. Certaines projections envisagent même une inversion de leur direction, un scénario exceptionnellement précoce. De quoi annoncer un hiver glacial ? Non. Mais cette pert…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1793036400000",
-      "title": "Du coffrage aux armatures : ZINOVA met deux robots à l’épreuve",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/zinova-robots-tron-2-construction/198473-2026-10",
-      "image": null,
-      "date": "2026-10-26",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Bâtiment"
-      ],
-      "summary": "Sur un chantier miniature, deux robots se partagent les outils et enchaînent les gestes tels que manipuler des planches, fixer un coffrage, puis poser et attacher des armatures. Avec RIC Robotics, ZINOVA a présenté une démonstration à échelle réduite d’un processus de constructio…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1793024100000",
-      "title": "Karman choisie par la NASA pour le parachute de la mission SkyFall vers Mars",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/karman-choisie-par-la-nasa-pour-le-parachute-de-la-mission-skyfall-vers-mars/198413-2026-10",
-      "image": null,
-      "date": "2026-10-26",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Karman Space & Defense a été sélectionnée par le Jet Propulsion Laboratory (JPL) de la NASA pour concevoir et développer le mortier qui déploiera le parachute de la mission SkyFall vers Mars. La NASA vise actuellement une fenêtre de lancement en novembre 2028. L’annonce, transmis…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7996,7 +7989,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-147-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-133-1792713600000",
       "title": "legislatives prios 1 2",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -8019,7 +8012,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-148-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-134-1792713600000",
       "title": "legislatives prios 3 4",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -8042,7 +8035,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-149-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-135-1792713600000",
       "title": "legislatives prios 5 6",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -8065,7 +8058,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-150-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-136-1792713600000",
       "title": "legislatives prios 7 8",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -8088,7 +8081,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-151-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-137-1792713600000",
       "title": "legislatives prios 9 10",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -8111,7 +8104,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-152-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-138-1792713600000",
       "title": "legislatives prios 11 12",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -8134,7 +8127,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-153-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-139-1792713600000",
       "title": "legislatives prios 13 14",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -8157,7 +8150,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-154-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-140-1792713600000",
       "title": "legislatives prios 15 16",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -18354,7 +18347,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-92-1789603200000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-78-1789603200000",
       "title": "gouvernement frederic carre rencontre vincent jeanbrun",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -18674,7 +18667,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -20057,7 +20050,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-339-1788220800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-319-1788220800000",
       "title": "actu simple 31",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -21188,6 +21181,29 @@ window.BATIVEILLE_DATA = {
       "summary": "Signalez l’impact des événements climatiques sur la faune sauvage. Canicules à répétition, incendies ravageurs, tempêtes violentes, crues soudaines, épisodes de grêle intense… Le changement climatique multiplie les événements extrêmes, et leurs conséquences sur la faune sauvage e…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "lig-air-sitemap-6-1785715200000",
+      "title": "rapport dactivite 2025",
+      "source": "Lig’Air",
+      "sourceId": "lig-air",
+      "sourceType": "Observatoire air",
+      "region": "Centre-Val de Loire",
+      "url": "https://www.ligair.fr/rapport-dactivite-2025",
+      "image": null,
+      "date": "2026-08-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Air",
+        "Pollution",
+        "Centre-Val de Loire"
+      ],
+      "summary": "Publication détectée dans le sitemap de Lig’Air. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "bois-com-sitemap-69-1785750235000",
@@ -23736,7 +23752,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-37-1783036800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1783036800000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
