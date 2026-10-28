@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-27T23:40:12.349Z",
+  "generatedAt": "2026-10-28T04:49:24.386Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2160,6 +2160,159 @@ window.BATIVEILLE_DATA = {
     }
   ],
   "articles": [
+    {
+      "id": "enerzine-rss-0-1793160600000",
+      "title": "Euclid découvre sa première comète inconnue, C/2026 S1",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/euclid-decouvre-sa-premiere-comete-inconnue-c-2026-s1/198468-2026-10",
+      "image": null,
+      "date": "2026-10-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Le télescope spatial Euclid de l’ESA a détecté sa première comète jusqu’alors inconnue, C/2026 S1 (Euclid), sur des images prises entre le 16 et le 24 septembre 2026. L’annonce, faite le 19 octobre, montre que l’instrument conçu pour les galaxies lointaines peut aussi repérer de …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-0-1793152312000",
+      "title": "Ukraine : l’ONU documente une stratégie de frappes contre l’électricité et le chauffage",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/28/ukraine-onu-attaques-electricite-chauffage-crimes-humanite-octobre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/72d2519e-attaques-infrastructures-energetiques-ukraine-onu.png",
+      "date": "2026-10-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Une commission d’enquête de l’ONU estime que les attaques russes contre les infrastructures énergétiques ukrainiennes constituent des crimes de guerre et des crimes contre l’humanité. Ses conclusions soulignent la vulnérabilité du chauffage, de l’eau et des réseaux électriques à …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1793151671000",
+      "title": "Mécanisme de capacité électrique : la CRE fixe deux échéances pour les projets de 2030-2031",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/28/cre-mecanisme-capacite-inscriptions-9-novembre-dossiers-23-novembre-2026-281026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/287618d7-mecanisme-de-capacite-cre.png",
+      "date": "2026-10-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Les exploitants d’installations électriques ont jusqu’au 9 novembre 2026 pour s’inscrire aux procédures de dérogation au plafond de rémunération ou d’accès à un contrat pluriannuel. La Commission de régulation de l’énergie prévoit ensuite un dépôt des dossiers au 23 novembre, sou…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1793162947000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1793162947000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1793162947000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
     {
       "id": "capeb-rss-0-1793108184000",
       "title": "Artisanat du bâtiment : l’activité recule encore, le mouvement « Laissez-nous travailler » s’amplifie",
@@ -4479,7 +4632,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1793142600000",
+      "id": "enerzine-rss-1-1793142600000",
       "title": "Des électrons piégés dans un métal via un état lié dans le continuum",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4503,7 +4656,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1793131500000",
+      "id": "enerzine-rss-2-1793131500000",
       "title": "Panne LCL : l’application et le site inaccessibles, des clients bloqués dans la matinée",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4527,7 +4680,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1793123400000",
+      "id": "enerzine-rss-3-1793123400000",
       "title": "La centrale solaire du centre routier des 3 Cardinaux inaugurée à Bordeaux-Bacalan",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4553,7 +4706,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1793088420000",
+      "id": "enerzine-rss-4-1793088420000",
       "title": "Appels téléphoniques indésirables. L’interdiction est en vigueur, mais le harcèlement continue",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4578,7 +4731,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1793082600000",
+      "id": "enerzine-rss-5-1793082600000",
       "title": "Un capteur magnétique à diamant et laser à large plage dynamique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4603,7 +4756,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1793081400000",
+      "id": "enerzine-rss-6-1793081400000",
       "title": "Tesla démarre la production d’Optimus et prévoit une montée en cadence « un peu chaotique »",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4628,7 +4781,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1793077800000",
+      "id": "enerzine-rss-7-1793077800000",
       "title": "Teledyne FLIR décroche 48 millions de dollars pour des Stryker bulgares",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4654,7 +4807,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1793074200000",
+      "id": "enerzine-rss-8-1793074200000",
       "title": "Lunettes Brown 2, la version légère d’Even G2 qui projette la traduction en direct dans le champ de vision du porteur",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4680,7 +4833,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1793136953000",
+      "id": "lenergeek-rss-2-1793136953000",
       "title": "Électricité : les exploitants ont jusqu’au 9 novembre pour préparer l’enchère de capacité 2030-2031",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4705,7 +4858,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1793136642000",
+      "id": "lenergeek-rss-3-1793136642000",
       "title": "Centres de données : Wärtsilä dévoile un projet de production électrique de 282 MW aux États-Unis",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4730,7 +4883,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1793129564000",
+      "id": "lenergeek-rss-4-1793129564000",
       "title": "Gaz et pétrole : l’Insee mesure une forte hausse des cours en septembre 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4755,7 +4908,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1793119001000",
+      "id": "lenergeek-rss-5-1793119001000",
       "title": "Gaz : l’Insee mesure une hausse de 21,2 % des cours européens en septembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4780,7 +4933,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1793114199000",
+      "id": "lenergeek-rss-6-1793114199000",
       "title": "Solaire : les raccordements français reculent de 15,6 % au troisième trimestre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4805,7 +4958,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1793112728000",
+      "id": "lenergeek-rss-7-1793112728000",
       "title": "Trêve hivernale : pourquoi votre compteur peut être bridé sans être coupé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4829,7 +4982,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1793111610000",
+      "id": "lenergeek-rss-8-1793111610000",
       "title": "Renouvelables : l’IRENA prévoit moins de nouvelles capacités en 2026, freinées par les réseaux",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4854,7 +5007,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1793108373000",
+      "id": "lenergeek-rss-9-1793108373000",
       "title": "Les dockers bientôt en grève, des perturbations à venir dans les ports français",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4878,7 +5031,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1793108220000",
+      "id": "lenergeek-rss-10-1793108220000",
       "title": "Électricité et gaz : la CRE et Singapour renforcent leur coopération réglementaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4904,7 +5057,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1793106754000",
+      "id": "lenergeek-rss-11-1793106754000",
       "title": "La production agricole française, au cœur de la transition énergétique ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4929,7 +5082,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1793105996000",
+      "id": "lenergeek-rss-12-1793105996000",
       "title": "Renouvelables : l’IRENA anticipe un ralentissement mondial en 2026, faute de réseaux suffisants",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4954,7 +5107,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1793099462000",
+      "id": "lenergeek-rss-13-1793099462000",
       "title": "Hydrogène : Bruxelles rouvre le débat sur sa stratégie européenne, contributions jusqu’au 23 novembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4980,7 +5133,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1793097428000",
+      "id": "lenergeek-rss-14-1793097428000",
       "title": "Raccordement électrique : le nouveau barème d’Enedis entre en vigueur le 28 octobre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5005,7 +5158,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1793097000000",
+      "id": "lenergeek-rss-15-1793097000000",
       "title": "Pétrole : pourquoi la reprise des exportations du Golfe ne fait pas baisser les carburants",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5029,7 +5182,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1793092920000",
+      "id": "lenergeek-rss-16-1793092920000",
       "title": "Résilience des réseaux : le prix du flou cartographique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5055,7 +5208,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1793090275000",
+      "id": "lenergeek-rss-17-1793090275000",
       "title": "Gaz : la CRE approuve le code de bonne conduite de NaTran",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5081,7 +5234,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1793086327000",
+      "id": "lenergeek-rss-18-1793086327000",
       "title": "Technologies propres : l’Asie du Sud-Est pourrait dépasser 80 milliards de dollars de marché en 2035",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5106,7 +5259,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1793085631000",
+      "id": "lenergeek-rss-19-1793085631000",
       "title": "« Je pensais que c’était automatique » : des milliers de Français passent à côté d’un virement de 277 € pour le chauffage parce qu’ils n’ont jamais fait la demande",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5130,7 +5283,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1793083839000",
+      "id": "lenergeek-rss-20-1793083839000",
       "title": "Un retraité a retrouvé une pièce de 2€ dans son canapé : un numismate lui en a offert 1 000€, et ce n’est pas la plus rare",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5155,7 +5308,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1793083055000",
+      "id": "lenergeek-rss-21-1793083055000",
       "title": "Hydrogène : Bruxelles ouvre jusqu’au 23 novembre une consultation pour revoir sa stratégie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5179,7 +5332,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1793082600000",
+      "id": "lenergeek-rss-22-1793082600000",
       "title": "Centres de données : les vols de matériel d’IA menacent la chaîne d’approvisionnement",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5204,7 +5357,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1793082001000",
+      "id": "lenergeek-rss-23-1793082001000",
       "title": "Vous roulez au gazole ? Les stations-service changent leurs règles en novembre, et beaucoup d’automobilistes ne sont pas prêts",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5228,135 +5381,6 @@ window.BATIVEILLE_DATA = {
       "summary": "10 euros d'économie sur un plein, dès le 1ᵉʳ novembre : l'État sort 10 millions de barils pour faire chuter le gazole. Mais l'affichage des remises fait déjà grincer des dents les stations-service. L’article Vous roulez au gazole ? Les stations-service changent leurs règles en no…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1793077200000",
-      "title": "Gaz naturel : EQT et Range Resources vont créer le premier producteur américain",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/27/eqt-range-resources-premier-producteur-gaz-americain/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/c5bc22ce-premier-producteur-gaz-americain.png",
-      "date": "2026-10-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Le rachat annoncé de Range Resources par EQT devrait donner naissance au premier producteur de gaz naturel des États-Unis, avec plus de neuf milliards de pieds cubes équivalent par jour. Le bassin des Appalaches et les nouveaux débouchés du gaz sont au cœur du projet. L’article G…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1793075694000",
-      "title": "Réseaux énergétiques européens : 2,88 milliards d’euros d’aides demandées pour 600 millions disponibles",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/27/mecanisme-interconnexion-europe-67-demandes-288-milliards-2026-10-27/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/3407fdb8-financement-infrastructures-energetiques-europeenn.png",
-      "date": "2026-10-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "La Commission européenne a reçu 67 demandes de financement pour des infrastructures énergétiques transfrontalières, couvrant plus de vingt pays. Les subventions sollicitées représentent près de cinq fois l’enveloppe ouverte en 2026, avant toute décision d’attribution. L’article R…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1793144401000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1793144401000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1793144401000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-27",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1793122915000",
@@ -6969,7 +6993,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1793056200000",
+      "id": "enerzine-rss-9-1793056200000",
       "title": "Chaleur en Europe : une étude estime environ 50 391 décès urbains",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6990,31 +7014,6 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Une étude à paraître dans Nature Health estime à environ 50 391 le nombre de décès liés à la chaleur dans les villes européennes pendant l’été 2026, dont 32 619 attribués à la chaleur supplémentaire due aux énergies fossiles. Les auteurs, rattachés à l’Imperial College London et …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1793039400000",
-      "title": "Le vortex polaire pourrait vaciller dès novembre : faut-il craindre un hiver glacial ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/vortex-polaire-novembre-risque-froid-hiver/198504-2026-10",
-      "image": null,
-      "date": "2026-10-26",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "RE2020"
-      ],
-      "summary": "À 30 kilomètres au-dessus de l’Arctique, les vents pourraient connaître un sérieux coup de frein début novembre. Certaines projections envisagent même une inversion de leur direction, un scénario exceptionnellement précoce. De quoi annoncer un hiver glacial ? Non. Mais cette pert…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10051,32 +10050,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "bois-com-sitemap-82-1792653060000",
-      "title": "les methodes de plantation forestiere planter un arbre ca ne simprovise pas",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/les-sylvicultures/articles/les-methodes-de-plantation-forestiere-planter-un-arbre-ca-ne-simprovise-pas/",
-      "image": null,
-      "date": "2026-10-22",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "acteurs-publics-sitemap-27-1792674540000",
       "title": "quand letat deborde contourne ses propres regles",
       "source": "Acteurs Publics",
@@ -10647,58 +10620,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Alors que l’avenir est plus que jamais promis à l’électron, tous les moyens de produire une électricité décarbonée sont bons à prendre, y compris le […] L’article Cette éolienne domestique française est soutenue par Amazon est apparu en premier sur Révolution Énergétique. Alors q…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "bois-com-sitemap-0-1792594420000",
-      "title": "articles",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/fil-du-bois/articles/",
-      "image": null,
-      "date": "2026-10-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-85-1792594420000",
-      "title": "le parquet bois definition types et methodes de pose",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/amenagement/articles/le-parquet-bois-definition-types-et-methodes-de-pose/",
-      "image": null,
-      "date": "2026-10-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "observatoire-de-l-immobilier-durable-oid-rss-0-1792511327000",
@@ -13457,32 +13378,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "bois-com-sitemap-83-1791874920000",
-      "title": "parement sur ossature bois une liberte de facade insoupconnee",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/amenagement/articles/parement-sur-ossature-bois-une-liberte-de-facade-insoupconnee/",
-      "image": null,
-      "date": "2026-10-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "base-inies-rss-1-1791793708000",
       "title": "Webinaire INIES : une journée dédiée aux configurateurs le 10 novembre 2026",
       "source": "Base INIES",
@@ -13950,32 +13845,6 @@ window.BATIVEILLE_DATA = {
       "summary": "L’énergie se trouve au cœur de nombreuses préoccupations des Français, notamment le pouvoir d’achat dans le contexte de flambée des prix des carburants. Dans la perspective des élections de 2027, l’Institut Energy for Society de Grenoble École de Management (GEM) a publié en sept…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "bois-com-sitemap-84-1791811696000",
-      "title": "les feux de foret en france comment les prevenir",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/nos-forets/articles/les-feux-de-foret-en-france-comment-les-prevenir/",
-      "image": null,
-      "date": "2026-10-12",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "revolution-energetique-rss-22-1791702338000",
@@ -15017,32 +14886,6 @@ window.BATIVEILLE_DATA = {
       "summary": "L’adaptation au changement climatique reste encore mal comprise. Christophe Buffet, chercheur en adaptation à l’Agence française de développement (AFD), revient sur trois idées reçues auxquelles il est régulièrement confronté. L’adaptation au changement climatique reste encore ma…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "bois-com-sitemap-81-1791273840000",
-      "title": "la foret en automne bien plus quun spectacle de couleurs",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/nos-forets/articles/la-foret-en-automne-bien-plus-quun-spectacle-de-couleurs/",
-      "image": null,
-      "date": "2026-10-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "observatoire-de-la-qualite-de-l-air-interieur-oqai-rss-2-1791204195000",
@@ -16535,32 +16378,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Une large part des biocarburants vendus à la pompe est produite à partir de maïs, de blé, de betteraves ou de colza, au risque de concurrencer l’alimentation. Jean-Philippe Héraud (IFPEN) fait le point sur les biocarburants dits avancés, produits à partir de déchets, et sur les f…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "bois-com-sitemap-80-1790589354000",
-      "title": "le grand gibier dans nos forets une cohabitation a gerer pour preserver nos bois",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/la-gestion-forestiere/articles/le-grand-gibier-dans-nos-forets-une-cohabitation-a-gerer-pour-preserver-nos-bois/",
-      "image": null,
-      "date": "2026-09-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "inc-institut-national-de-la-consommation-rss-2-1790460000000",
@@ -18541,32 +18358,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "bois-com-sitemap-79-1789635180000",
-      "title": "peut on ramasser du bois en foret ce que dit la loi",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/nos-forets/articles/peut-on-ramasser-du-bois-en-foret-ce-que-dit-la-loi/",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "alliance-hqe-gbc-rss-0-1789554131000",
       "title": "Notre stand au Paris Builders Show 2026",
       "source": "Alliance HQE-GBC",
@@ -19321,32 +19112,6 @@ window.BATIVEILLE_DATA = {
       "summary": "La Commission de régulation de l’énergie a présenté ce 9 septembre une riche analyse de l’économie du système électrique français hexagonal. Ce « travail assez inédit », selon les termes de la présidente de la CRE, Emmanuelle Wargon, délivre notamment des données nouvelles sur le…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "bois-com-sitemap-78-1788958345000",
-      "title": "osb mdf panneaux de particules quelles differences",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/construction-bois/articles/osb-mdf-panneaux-de-particules-quelles-differences/",
-      "image": null,
-      "date": "2026-09-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "urbalyon-rss-8-1788897702000",
@@ -20735,32 +20500,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bois-com-sitemap-68-1787056800000",
-      "title": "les animaux de la foret une biodiversite a decouvrir",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/ecosystemes-biodiversite/articles/les-animaux-de-la-foret-une-biodiversite-a-decouvrir/",
-      "image": null,
-      "date": "2026-08-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "capeb-rss-15-1786961525000",
       "title": "RELANCE : Journées Portes Ouvertes « Very Wood Métiers # Si vous cherchez du bouleau, y’en a dans les bois » 2026",
       "source": "CAPEB",
@@ -20785,32 +20524,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Ensemble, mobilisons-nous pour valoriser les métiers de l’artisanat du bâtiment et attirer de nouveaux talents ! Ensemble, mobilisons-nous pour valoriser les métiers de l’artisanat du bâtiment et attirer de nouveaux talents ! RELANCE : Journées Portes Ouvertes « Very Wood Métiers…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "bois-com-sitemap-77-1786975573000",
-      "title": "histoire de la foret en france 12 000 ans de transformations",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/faits-chiffres/articles/histoire-de-la-foret-en-france-12-000-ans-de-transformations/",
-      "image": null,
-      "date": "2026-08-17",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "inc-institut-national-de-la-consommation-rss-7-1786658400000",
@@ -21012,32 +20725,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "bois-com-sitemap-76-1786031110000",
-      "title": "labri de piscine en bois un choix qui allie beaute et performance",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/habitation-bois/articles/labri-de-piscine-en-bois-un-choix-qui-allie-beaute-et-performance/",
-      "image": null,
-      "date": "2026-08-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "qualitel-cerqual-rss-2-1785935988000",
       "title": "Le Fonds de dotation QUALITEL aux côtés de l’AFEJI Hauts-de-France pour améliorer le quotidien des seniors",
       "source": "Qualitel / Cerqual",
@@ -21202,188 +20889,6 @@ window.BATIVEILLE_DATA = {
         "Centre-Val de Loire"
       ],
       "summary": "Publication détectée dans le sitemap de Lig’Air. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-69-1785750235000",
-      "title": "le bois dans les salles de concert un materiau qui sculpte le son",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/le-bois-matiere-vivante/articles/le-bois-dans-les-salles-de-concert-un-materiau-qui-sculpte-le-son/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-70-1785759501000",
-      "title": "clt lamelle colle osb contreplaque ces materiaux bois qui transforment notre facon de construire",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/la-transformation-du-bois/articles/clt-lamelle-colle-osb-contreplaque-ces-materiaux-bois-qui-transforment-notre-facon-de-construire/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-71-1785759550000",
-      "title": "labels et certifications bois le guide pour sy retrouver",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/pourquoi-le-bois/articles/labels-et-certifications-bois-le-guide-pour-sy-retrouver/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-72-1785759568000",
-      "title": "choisir la bonne essence de bois pour son projet",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/pourquoi-le-bois/articles/choisir-la-bonne-essence-de-bois-pour-son-projet/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-73-1785759590000",
-      "title": "valorisation du bois un cycle vertueux au service de leconomie circulaire",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/la-transformation-du-bois/articles/valorisation-du-bois-un-cycle-vertueux-au-service-de-leconomie-circulaire/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-74-1785759640000",
-      "title": "dimensionnement du solivage la structure cachee de votre plancher",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/construction-bois/articles/dimensionnement-du-solivage-la-structure-cachee-de-votre-plancher/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bois-com-sitemap-75-1785762196000",
-      "title": "les atouts du bois en interieur et si vous choisissiez le bois francais",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/le-bois-matiere-vivante/articles/les-atouts-du-bois-en-interieur-et-si-vous-choisissiez-le-bois-francais/",
-      "image": null,
-      "date": "2026-08-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -22893,32 +22398,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Après trois années de fort recul, le nombre d’acquisitions par emprunt a nettement rebondi : + 45 % entre 2024 et 2025. Les prix suivent la même orientation et semblent se stabiliser à la hausse en 2025, après deux années de baisse. Cette embellie demeure toutefois fragile. Le vo…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "bois-com-sitemap-67-1783697474000",
-      "title": "cuisine dete en bois des inspirations pour transformer votre jardin",
-      "source": "Bois.com",
-      "sourceId": "bois-com",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.bois.com/amenagement/articles/cuisine-dete-en-bois-des-inspirations-pour-transformer-votre-jardin/",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Construction bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "association-bbca-rss-5-1783616549000",
