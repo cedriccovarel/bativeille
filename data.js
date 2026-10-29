@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-28T20:10:16.462Z",
+  "generatedAt": "2026-10-29T05:00:56.777Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2182,6 +2182,134 @@ window.BATIVEILLE_DATA = {
       "summary": "Liseuse du magazine N°6433 du Magazine Le Moniteur Liseuse du magazine N°6433 du Magazine Le Moniteur N°6433",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-0-1793247000000",
+      "title": "Aurora et Charger Logistics envisagent jusqu’à 500 camions autonomes",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/aurora-et-charger-logistics-envisagent-jusqua-500-camions-autonomes/198438-2026-10",
+      "image": null,
+      "date": "2026-10-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Aurora Innovation a annoncé la signature d’un protocole d’accord avec Charger Logistics, qui envisage d’acheter jusqu’à 500 camions équipés de l’Aurora Driver. Les livraisons seraient échelonnées sur 2027 et 2028, le transporteur estimant que l’Aurora Driver sera déterminant pour…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-0-1793237630000",
+      "title": "Gaz européen : le TTF atteint 100 €/MWh, les stocks sous pression",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/29/gaz-europeen-ttf-100-euros-mwh-stocks-octobre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/dd7a21f6-prix-gaz-ttf-100-euros.png",
+      "date": "2026-10-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Le prix de référence du gaz européen a brièvement touché 100 euros le mégawattheure le 28 octobre, un niveau inédit depuis 2022. À l'entrée de l'hiver, les stocks de l'Union européenne sont remplis à environ 75 %, avec de fortes disparités entre pays. L’article Gaz européen : le …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1793250045000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-10-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1793250045000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-10-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1793250045000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-10-29",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1793178001000",
@@ -5152,7 +5280,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1793210100000",
+      "id": "enerzine-rss-1-1793229000000",
+      "title": "Nagare Labs lève 5 millions de dollars pour sa mémoire IA Z2RAM",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/nagare-labs-leve-5-millions-de-dollars-pour-sa-memoire-ia-z2ram/198441-2026-10",
+      "image": null,
+      "date": "2026-10-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "À Atlanta, Nagare Labs sort de l’ombre avec une levée de 5 millions de dollars menée par Playground Global et dévoile Z2RAM, une architecture mémoire présentée comme destinée aux charges de travail d’IA. La société, issue de Georgia Tech, affirme que cette technologie vise à surm…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1793210100000",
       "title": "Captage CO2 : le projet SCALA de Nuada retenu pour un soutien européen de 14,6 ME",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5177,7 +5330,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1793204400000",
+      "id": "enerzine-rss-3-1793204400000",
       "title": "Selon Oxfam, les 0,1% les plus riches émettent plus que les 3,5 milliards de personnes les plus pauvres",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5201,7 +5354,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1793202600000",
+      "id": "enerzine-rss-4-1793202600000",
       "title": "Nouveau panneau solaire de SunPower : contact arrière de 8e génération et une garantie de 40 ans",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5226,7 +5379,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1793196420000",
+      "id": "enerzine-rss-5-1793196420000",
       "title": "Siemens Energy, Kyoto Fusioneering et Mitsui s’associent pour développer des turbines au CO2",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5251,7 +5404,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1793187000000",
+      "id": "enerzine-rss-6-1793187000000",
       "title": "Challenge Navire H2 à Saint-Malo : neuf navires étudiants s’affrontent",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5275,7 +5428,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1793177700000",
+      "id": "enerzine-rss-7-1793177700000",
       "title": "Comprendre l’évolution du cours du fioul et ses impacts sur votre budget chauffage",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5300,7 +5453,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1793169000000",
+      "id": "enerzine-rss-8-1793169000000",
       "title": "IA et cancer : un modèle prédit la survie à partir d’une photo",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5324,7 +5477,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1793167800000",
+      "id": "enerzine-rss-9-1793167800000",
       "title": "Un positon unique refroidi dans un piège de Penning",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5344,56 +5497,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "Des physiciens de la Northwestern University ont capturé un positon unique et l’ont refroidi jusqu’à son état quantique fondamental dans un piège de Penning, selon une étude publiée dans Physical Review Letters. L’objectif est de mesurer son moment magnétique et le comparer à cel…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1793164200000",
-      "title": "PNUE : dépassement de 1,5 °C inévitable, retour possible",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/pnue-depassement-de-15-c-inevitable-retour-possible/198459-2026-10",
-      "image": null,
-      "date": "2026-10-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Le Programme des Nations unies pour l’environnement estime que le monde ne peut plus éviter de dépasser le seuil de 1,5 °C, tout en présentant un scénario de retour à ce niveau d’ici 2100. Son rapport annuel paraît avant la COP31, à Antalya, alors que les engagements actuels rest…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1793160600000",
-      "title": "Euclid découvre sa première comète inconnue, C/2026 S1",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/euclid-decouvre-sa-premiere-comete-inconnue-c-2026-s1/198468-2026-10",
-      "image": null,
-      "date": "2026-10-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Le télescope spatial Euclid de l’ESA a détecté sa première comète jusqu’alors inconnue, C/2026 S1 (Euclid), sur des images prises entre le 16 et le 24 septembre 2026. L’annonce, faite le 19 octobre, montre que l’instrument conçu pour les galaxies lointaines peut aussi repérer de …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5448,7 +5551,81 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1793202135000",
+      "id": "lenergeek-rss-1-1793220264000",
+      "title": "Carburants : Bruxelles veut accroître la production des raffineries européennes",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/28/bruxelles-raffineries-europeennes-production-gazole-kerosene-28-octobre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/20a888e7-raffineries-europeennes.png",
+      "date": "2026-10-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Réunie le 28 octobre avec les raffineurs, la Commission européenne veut augmenter la production de gazole et de carburant aérien, sous tension sur les marchés internationaux. Bruxelles prépare aussi une feuille de route pour préserver ces capacités industrielles tout en développa…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1793218050000",
+      "title": "Raffineries européennes : Bruxelles veut renforcer la production de gazole et de kérosène",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/28/raffineries-europeennes-bruxelles-gazole-kerosene-dialogue-28-octobre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/2e2211f3-raffineries-europeennes.png",
+      "date": "2026-10-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "La Commission européenne a réuni le 28 octobre les raffineurs, les producteurs de carburants alternatifs et des représentants de l’OTAN pour sécuriser l’approvisionnement en gazole et en carburant aérien. Bruxelles annonce un travail technique sur les capacités de production et u…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1793212232000",
+      "title": "Gaz et pétrole : le résultat opérationnel ajusté d’Equinor double au troisième trimestre",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/28/equinor-resultat-operationnel-ajuste-double-gaz-petrole-t3-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/a2947f62-resultats-equinor-troisieme-trimestre-2026.png",
+      "date": "2026-10-28",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Le groupe norvégien Equinor a dégagé 12,35 milliards de dollars de résultat opérationnel ajusté au troisième trimestre 2026, porté par la hausse des cours du pétrole et du gaz. Ses nouvelles prévisions de production éclairent le rôle de la Norvège dans l’approvisionnement énergét…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-4-1793202135000",
       "title": "Sizewell C : un rapport britannique alerte sur le partage des risques du futur EPR",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5474,7 +5651,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1793200412000",
+      "id": "lenergeek-rss-5-1793200412000",
       "title": "Hydrogène hors réseau : près d’un million d’euros pour un démonstrateur français à base de métaux",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5499,7 +5676,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1793199064000",
+      "id": "lenergeek-rss-6-1793199064000",
       "title": "Stockage électrique : le Brésil valide deux enchères de batteries, EDF se positionne",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5525,7 +5702,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1793197759000",
+      "id": "lenergeek-rss-7-1793197759000",
       "title": "Guerre en Iran : la Chine contourne les sanctions pour sécuriser son énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5550,7 +5727,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1793192221000",
+      "id": "lenergeek-rss-8-1793192221000",
       "title": "Carburant : face à la flambée des prix, la consommation chute",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5574,7 +5751,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1793190907000",
+      "id": "lenergeek-rss-9-1793190907000",
       "title": "Pétrole russe : les premières livraisons arrivent aux États-Unis",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5598,7 +5775,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1793187278000",
+      "id": "lenergeek-rss-10-1793187278000",
       "title": "États-Unis : 5,1 milliards de dollars de prêts pour des centrales à gaz et du stockage électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5622,7 +5799,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1793186006000",
+      "id": "lenergeek-rss-11-1793186006000",
       "title": "Gaz : l’ACER chiffre à 18 à 33 milliards d’euros le surcoût des importations européennes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5647,7 +5824,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1793184241000",
+      "id": "lenergeek-rss-12-1793184241000",
       "title": "Gaz qatari : 38 cargaisons suspendues chez Edison, filiale d’EDF, jusqu’à fin décembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5672,7 +5849,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1793180580000",
+      "id": "lenergeek-rss-13-1793180580000",
       "title": "Industrie française : Éric Trappier alerte sur les failles de la transition énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5698,7 +5875,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1793180543000",
+      "id": "lenergeek-rss-14-1793180543000",
       "title": "Nucléaire : les États-Unis veulent ajouter 1,1 GW en modernisant leurs centrales",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5724,7 +5901,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1793180519000",
+      "id": "lenergeek-rss-15-1793180519000",
       "title": "DPE : le double seuil pénalise les maisons chauffées à l’électricité",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5750,7 +5927,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1793179800000",
+      "id": "lenergeek-rss-16-1793179800000",
       "title": "Leasing social : 39 000 véhicules électriques commandés en seize semaines",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5774,7 +5951,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1793177447000",
+      "id": "lenergeek-rss-17-1793177447000",
       "title": "Éthiopie : l’AIE appelle à transformer l’essor des renouvelables en électricité fiable",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5799,7 +5976,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1793177424000",
+      "id": "lenergeek-rss-18-1793177424000",
       "title": "Novembre 2026 : hausse du gaz de 6,6%, nouveau modèle des heures creuses",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5825,7 +6002,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1793175879000",
+      "id": "lenergeek-rss-19-1793175879000",
       "title": "IA : pour rester dans la course mondiale, l’Europe face au mur des infrastructures",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5851,7 +6028,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1793171740000",
+      "id": "lenergeek-rss-20-1793171740000",
       "title": "Gaz européen : l’ACER chiffre jusqu’à 33 milliards d’euros le surcoût des importations",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5876,7 +6053,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1793170620000",
+      "id": "lenergeek-rss-21-1793170620000",
       "title": "Cette croisière infinie vient de s’arrêter net au Cambodge",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5901,7 +6078,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1793170234000",
+      "id": "lenergeek-rss-22-1793170234000",
       "title": "Depuis un foyer interdit, une école technique de Villa Soldati a mis au point un système pour prévenir les incendies",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5925,7 +6102,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1793168444000",
+      "id": "lenergeek-rss-23-1793168444000",
       "title": "Chauffage la nuit : faut-il éteindre ou laisser en marche ? Guide pour réduire vos factures en 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5948,184 +6125,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Éteindre le chauffage la nuit pour économiser ? Grosse erreur selon les experts. La vraie astuce coûte six fois moins cher et évite un risque sournois pour vos murs. L’article Chauffage la nuit : faut-il éteindre ou laisser en marche ? Guide pour réduire vos factures en 2026 est …",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-20-1793161992000",
-      "title": "Nucléaire américain : jusqu’à 5 milliards de dollars de prêts envisagés pour accroître la puissance de huit centrales",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/28/nucleaire-etats-unis-constellation-pret-5-milliards-huit-centrales-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/1b83431d-modernisation-centrales-nucleaires-americaines.png",
-      "date": "2026-10-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Washington a annoncé le 27 octobre un engagement conditionnel de prêt pouvant atteindre 5 milliards de dollars pour moderniser des centrales nucléaires de Constellation Energy. Les travaux envisagés doivent augmenter de près de 1,1 gigawatt leur puissance électrique, en utilisant…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-21-1793157071000",
-      "title": "Raccordement des renouvelables : la CRE valide le principe d’un plafond de coût à 1 million d’euros par MW",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/28/cre-raccordement-renouvelables-seuil-million-euros-mw-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/76834549-raccordement-renouvelables-cre-1-million-mw.png",
-      "date": "2026-10-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "La Commission de régulation de l’énergie a rendu un avis favorable sur un projet d’arrêté encadrant les travaux inscrits aux schémas de raccordement des énergies renouvelables dans les zones non interconnectées. Le seuil proposé de 1 million d’euros par mégawatt servirait à sélec…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1793152312000",
-      "title": "Ukraine : l’ONU documente une stratégie de frappes contre l’électricité et le chauffage",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/28/ukraine-onu-attaques-electricite-chauffage-crimes-humanite-octobre-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/72d2519e-attaques-infrastructures-energetiques-ukraine-onu.png",
-      "date": "2026-10-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Une commission d’enquête de l’ONU estime que les attaques russes contre les infrastructures énergétiques ukrainiennes constituent des crimes de guerre et des crimes contre l’humanité. Ses conclusions soulignent la vulnérabilité du chauffage, de l’eau et des réseaux électriques à …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1793151671000",
-      "title": "Mécanisme de capacité électrique : la CRE fixe deux échéances pour les projets de 2030-2031",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/28/cre-mecanisme-capacite-inscriptions-9-novembre-dossiers-23-novembre-2026-281026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/287618d7-mecanisme-de-capacite-cre.png",
-      "date": "2026-10-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Les exploitants d’installations électriques ont jusqu’au 9 novembre 2026 pour s’inscrire aux procédures de dérogation au plafond de rémunération ou d’accès à un contrat pluriannuel. La Commission de régulation de l’énergie prévoit ensuite un dépôt des dossiers au 23 novembre, sou…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1793218194000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1793218194000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1793218194000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-28",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1793209278000",
@@ -22797,7 +22796,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/rapport-activites-2012-2013",
+      "url": "https://www.apur.org/index.php/fr/rapport-activites-2012-2013",
       "image": null,
       "date": "2026-09-15",
       "access": "open",
@@ -25502,7 +25501,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
+      "url": "https://www.apur.org/index.php/fr/mobilites-espace-public/boulevard-peripherique-autoroute/etude-reconquete-autoroute-a4-donnees",
       "image": null,
       "date": "2026-07-31",
       "access": "open",
@@ -25576,7 +25575,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/nature/etude-devenir-reseau-eau-non-potable-partie-1-analyse-diagnostic",
       "image": null,
       "date": "2026-07-30",
       "access": "open",
@@ -25912,7 +25911,7 @@ window.BATIVEILLE_DATA = {
       "sourceId": "apur",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Île-de-France",
-      "url": "https://www.apur.org/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
+      "url": "https://www.apur.org/index.php/fr/climat-environnement/vegetalisation/etude-potentiel-vegetalisation-toitures-terrasses-paris",
       "image": null,
       "date": "2026-07-28",
       "access": "open",
