@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-30T19:54:36.155Z",
+  "generatedAt": "2026-10-30T23:32:56.988Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -3372,6 +3372,30 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-7-1793318700000",
+      "title": "Blum dévoile Beyond Components, un nouveau service dédié à REVEGO",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/blum-beyond-components-service-revego-49503",
+      "image": "https://img.batiweb.com/repo-images/publi/49503/blum-11-02-une.jpg",
+      "date": "2026-10-30",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Eau"
+      ],
+      "summary": "Blum présente Beyond Components, un nouveau service autour de REVEGO destiné à simplifier les projets des professionnels de l’agencement. Blum présente Beyond Components, un nouveau service autour de REVEGO destiné à simplifier les projets des professionnels de l’agencement. Blum…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-8-1793318700000",
       "title": "Tuiles Patrimoine : EDILIANS à la hauteur de l’héritage régional",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -3391,29 +3415,6 @@ window.BATIVEILLE_DATA = {
         "Biosourcé"
       ],
       "summary": "Avec sa Sélection Patrimoine, EDILIANS conjugue savoir-faire terre cuite et architectures régionales pour accompagner les projets de restauration. Avec sa Sélection Patrimoine, EDILIANS conjugue savoir-faire terre cuite et architectures régionales pour accompagner les projets de …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-8-1793318700000",
-      "title": "ANNIVERSAIRE CADENCE : 10ans de façades rythmées",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/anniversaire-cadence-10-ans-facades-rythmees-49491",
-      "image": "https://img.batiweb.com/repo-images/publi/49491/atelier3s-11-02-une.jpg",
-      "date": "2026-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "En complément des célèbres collections aléatoires carrée et triangle, les ATELIERS 3S lancent 2 nouvelles séries à composer : COCKTAIL et REVERSE. En complément des célèbres collections aléatoires carrée et triangle, les ATELIERS 3S lancent 2 nouvelles séries à composer : COCKTAI…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3442,25 +3443,24 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "batiweb-rss-10-1793318700000",
-      "title": "Blum dévoile Beyond Components, un nouveau service dédié à REVEGO",
+      "title": "ANNIVERSAIRE CADENCE : 10ans de façades rythmées",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/blum-beyond-components-service-revego-49503",
-      "image": "https://img.batiweb.com/repo-images/publi/49503/blum-11-02-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/anniversaire-cadence-10-ans-facades-rythmees-49491",
+      "image": "https://img.batiweb.com/repo-images/publi/49491/atelier3s-11-02-une.jpg",
       "date": "2026-10-30",
       "access": "open",
       "official": false,
       "highImpact": false,
-      "impactScore": 80,
+      "impactScore": 72,
       "tags": [
         "Construction",
         "Produits",
-        "Marché",
-        "Eau"
+        "Marché"
       ],
-      "summary": "Blum présente Beyond Components, un nouveau service autour de REVEGO destiné à simplifier les projets des professionnels de l’agencement. Blum présente Beyond Components, un nouveau service autour de REVEGO destiné à simplifier les projets des professionnels de l’agencement. Blum…",
+      "summary": "En complément des célèbres collections aléatoires carrée et triangle, les ATELIERS 3S lancent 2 nouvelles séries à composer : COCKTAIL et REVERSE. En complément des célèbres collections aléatoires carrée et triangle, les ATELIERS 3S lancent 2 nouvelles séries à composer : COCKTAI…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4687,7 +4687,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1793383620000",
+      "id": "enerzine-rss-0-1793401800000",
+      "title": "Un microscope de pointe stimule la recherche de l’ORNL sur les matériaux à l’échelle atomique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-microscope-de-pointe-stimule-la-recherche-de-lornl-sur-les-materiaux-a-lechelle-atomique/198596-2026-10",
+      "image": null,
+      "date": "2026-10-30",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Points clés : Le Thermo Scientific Spectra Ultra récemment installé à l’ORNL est l’un des microscopes électroniques en transmission à balayage à correction d’aberration les plus avancés du système des laboratoires nationaux. L’instrument combine imagerie à l’échelle atomique, spe…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1793383620000",
       "title": "Inflation à 3,4% en octobre : l’énergie pèse davantage sur votre budget",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4712,7 +4737,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1793382000000",
+      "id": "enerzine-rss-2-1793382000000",
       "title": "Heures creuses EDF : le piège du programmateur avec les nouveaux horaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4738,7 +4763,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1793348766000",
+      "id": "enerzine-rss-3-1793348766000",
       "title": "Diesel, fioul, gazole professionnel : les baisses annoncées par TotalEnergies",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4764,7 +4789,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1793347620000",
+      "id": "enerzine-rss-4-1793347620000",
       "title": "Vortex polaire : ce que les modèles prévoient vraiment pour novembre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4789,7 +4814,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1793341800000",
+      "id": "enerzine-rss-5-1793341800000",
       "title": "Des scientifiques annoncent une approche à faible coût de production d’hydrogène à partir de l’eau de mer",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4815,7 +4840,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1793340600000",
+      "id": "enerzine-rss-6-1793340600000",
       "title": "Une ingénierie d’interface intégrée dynamique pour les batteries lithium-métal",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4839,7 +4864,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1793337000000",
+      "id": "enerzine-rss-7-1793337000000",
       "title": "Le choix des flotteurs adaptés aux fermes solaires en mer dépend des vagues",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4863,7 +4888,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1793333400000",
+      "id": "enerzine-rss-8-1793333400000",
       "title": "Le rayonnement ambiant utilisé pour alimenter un capteur de température sans pile",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4887,7 +4912,80 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1793382636000",
+      "id": "lenergeek-rss-0-1793397053000",
+      "title": "Gaz : l’Italie accuse l’Allemagne d’alimenter la flambée des prix, Berlin réplique",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/30/gaz-italie-allemagne-accusations-stockages-prix-octobre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/089cd117-stockage-gaz-allemagne-italie.png",
+      "date": "2026-10-30",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "L’Italie reproche à l’Allemagne son retard dans le remplissage des réserves de gaz, au moment où les cours européens s’envolent. Berlin a rejeté ces accusations le 30 octobre, révélant un désaccord sur la manière de sécuriser l’hiver sans renchérir le marché commun. L’article Gaz…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1793389027000",
+      "title": "Hydrogène vert : Lhyfe vise 12 à 13 millions d’euros de ventes en 2026 malgré des pertes persistantes",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/30/lhyfe-hydrogene-vert-resultats-semestriels-2026-messer-allemagne/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/c06fe3aa-lhyfe-resultats-2026-hydrogene-vert.png",
+      "date": "2026-10-30",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Le producteur français d’hydrogène renouvelable a publié le 29 octobre un chiffre d’affaires semestriel de 4,7 millions d’euros et une perte nette de 20,1 millions. Ses ventes accélèrent en Allemagne, tandis que son partenariat avec Messer et la maîtrise de sa trésorerie devienne…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1793387750000",
+      "title": "Nigeria : TotalEnergies cède 40 % d’un bloc offshore pour relancer le projet Egina South",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/30/totalenergies-nigeria-opl257-sapetro-40-pour-cent-egina-south-30-octobre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/3f464894-totalenergies-opl257-sapetro.png",
+      "date": "2026-10-30",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "TotalEnergies a signé le 30 octobre un accord pour céder 40 % du bloc pétrolier nigérian OPL257 à SAPETRO, tout en conservant son rôle d'opérateur. Cette recomposition doit préparer l'évaluation du gisement Egina South, découvert en 2005, avant toute éventuelle décision de dévelo…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1793382636000",
       "title": "Brésil : les groupes espagnols remportent sept des huit projets du grand appel d’offres électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4913,7 +5011,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1793375049000",
+      "id": "lenergeek-rss-4-1793375049000",
       "title": "Raffinerie russe en feu : l’attaque du 30 octobre ravive le bras de fer sur le pétrole",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4938,7 +5036,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1793373423000",
+      "id": "lenergeek-rss-5-1793373423000",
       "title": "Gaz : les prix reculent en Europe, mais la France reste parmi les pays les plus chers",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4963,7 +5061,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1793373060000",
+      "id": "lenergeek-rss-6-1793373060000",
       "title": "Bulletins de vote : l’article 76 rattrapé par la menace des ingérences numériques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4988,7 +5086,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1793371680000",
+      "id": "lenergeek-rss-7-1793371680000",
       "title": "Gazole en baisse dès le 31 octobre : TotalEnergies active les stocks stratégiques avant leur livraison",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5013,7 +5111,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1793367035000",
+      "id": "lenergeek-rss-8-1793367035000",
       "title": "Nucléaire : quinze pays veulent peser sur les règles énergétiques européennes après 2030",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5038,7 +5136,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1793363320000",
+      "id": "lenergeek-rss-9-1793363320000",
       "title": "GNL : le Japon pourrait dépasser la Chine en 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5062,7 +5160,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1793357031000",
+      "id": "lenergeek-rss-10-1793357031000",
       "title": "Renouvelables : pourquoi les réseaux électriques mondiaux ne suivent plus",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5087,7 +5185,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1793353978000",
+      "id": "lenergeek-rss-11-1793353978000",
       "title": "Essence E20 : l’Allemagne et la France misent sur le bioéthanol pour réduire la facture pétrolière",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5112,7 +5210,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1793353411000",
+      "id": "lenergeek-rss-12-1793353411000",
       "title": "Égypte : la BEI finance le solaire pour décarboner l’aluminium",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5138,7 +5236,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1793344860000",
+      "id": "lenergeek-rss-13-1793344860000",
       "title": "Quatre pétroliers en feu à Ormuz",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5163,7 +5261,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1793341200000",
+      "id": "lenergeek-rss-14-1793341200000",
       "title": "Chauffage au bois interdit en 2027 : ce qui est exact, ce qui ne l’est pas, et les appareils qui seront vraiment touchés par les nouvelles règles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5189,7 +5287,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1793338854000",
+      "id": "lenergeek-rss-15-1793338854000",
       "title": "Tarifs des réseaux électriques : les États européens réclament de la souplesse à Bruxelles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5215,7 +5313,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1793338476000",
+      "id": "lenergeek-rss-16-1793338476000",
       "title": "IFA : jusqu’à 400 M£ pour prolonger la liaison électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5240,7 +5338,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1793337660000",
+      "id": "lenergeek-rss-17-1793337660000",
       "title": "Rénovation énergétique : la décision gouvernementale qui change tout",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5266,7 +5364,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1793332118000",
+      "id": "lenergeek-rss-18-1793332118000",
       "title": "Électricité : les prix de gros s’envolent en France et en Allemagne avec la chute du vent",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5292,7 +5390,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1793330012000",
+      "id": "lenergeek-rss-19-1793330012000",
       "title": "Déchets nucléaires : l’Allemagne réduit à moins de 5 % du territoire sa recherche de stockage profond",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5342,7 +5440,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1793390055000",
+      "id": "le-commerce-du-bois-sitemap-0-1793403164000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -5368,7 +5466,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1793390055000",
+      "id": "le-commerce-du-bois-sitemap-1-1793403164000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -5394,7 +5492,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1793390055000",
+      "id": "le-commerce-du-bois-sitemap-2-1793403164000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -9298,7 +9396,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1793315400000",
+      "id": "enerzine-rss-9-1793315400000",
       "title": "Une énigme vieille de 120 ans rendue visible dans une gouttelette d’hélium",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -9322,33 +9420,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1793304506000",
-      "title": "Un avion cherche du lithium en Alsace tandis qu’une vapoteuse déroute un A320",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/lithium-alsace-exploration-avion-vapoteuse-a320/198866-2026-10",
-      "image": null,
-      "date": "2026-10-29",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Depuis le 26 octobre, un bimoteur à hélices survole l’Alsace du Nord, jusqu’à 270 mètres du sol, pour sonder les structures du sous-sol. Cette campagne, interrompue en février, complète les explorations de Lithium de France. Le lendemain, la surchauffe d’une cigarette électroniqu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-17-1793315840000",
+      "id": "lenergeek-rss-20-1793315840000",
       "title": "Solaire tandem : une étude identifie une piste pour mieux résister à la chaleur",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -9373,7 +9445,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1793313181000",
+      "id": "lenergeek-rss-21-1793313181000",
       "title": "Électricité : l’UE divisée sur la fiscalité et les tarifs de réseau",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -9399,7 +9471,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1793310107000",
+      "id": "lenergeek-rss-22-1793310107000",
       "title": "Énergies renouvelables : un décret revoit les contrats de soutien et la gestion des prix négatifs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -9425,7 +9497,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1793299388000",
+      "id": "lenergeek-rss-23-1793299388000",
       "title": "Gaz : l’Allemagne sécurise 150 TWh sur cinq ans auprès de Trafigura",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -9447,83 +9519,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "L’énergéticien public allemand SEFE a signé un nouveau contrat de gaz avec Trafigura, assorti d’un financement bancaire de 1,5 milliard de dollars partiellement garanti par Berlin. L’accord augmente les volumes annuels à 30 TWh dès novembre, alors que les marchés européens aborde…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-21-1793288084000",
-      "title": "Technologies propres : les exportations chinoises pourraient éviter 450 millions de tonnes de CO₂ par an",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/29/chine-exportations-technologies-propres-450-millions-tonnes-co2-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/86434335-exportations-chinoises-technologies-propres.png",
-      "date": "2026-10-29",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Les équipements solaires, éoliens, les batteries et les véhicules électriques exportés par la Chine en 2026 pourraient éviter 450 millions de tonnes de CO₂ par an une fois déployés, selon une analyse publiée le 29 octobre. L'essentiel du bénéfice climatique estimé se concentre da…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1793285706000",
-      "title": "Porte-avions nucléaires : la France face au défi énergétique d’une flotte doublée",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/29/propulsion-nucleaire-porte-avions-energie-france/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/09/Ce-porte-avions-unique-integrera-une-energie-revolutionnaire-une-innovation-de-TechnicAtome.webp",
-      "date": "2026-10-29",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Économie du bâtiment",
-        "Bâtiment"
-      ],
-      "summary": "Le rapport parlementaire préconisant la construction d'un second porte-avions avant 2029 soulève des enjeux énergétiques majeurs. Propulsion nucléaire, autonomie stratégique, innovations technologiques et coûts opérationnels : décryptage des défis techniques d'une Marine français…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1793281515000",
-      "title": "Gaz : QatarEnergy signe un contrat de vingt ans pour acheter du GNL américain",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/29/qatarenergy-woodside-contrat-gnl-americain-20-ans-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/2f0770a6-qatarenergy-gnl-americain.png",
-      "date": "2026-10-29",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le groupe qatari QatarEnergy a signé avec l’australien Woodside un contrat portant sur jusqu’à 3 millions de tonnes de gaz naturel liquéfié par an, issues d’un futur terminal en Louisiane. Prévu pour commencer en 2030, cet accord illustre la diversification des routes d’approvisi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -25183,7 +25178,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ekopolis-sitemap-50-1785314239000",
+      "id": "ekopolis-sitemap-51-1785314239000",
       "title": "societe resiliente transition ecologique et cohesion sociale etudes de quelques",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -25206,7 +25201,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-90-1785313782000",
+      "id": "ekopolis-sitemap-91-1785313782000",
       "title": "guide amenagement et construction durable de lenseignement superieur de la recherche et",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -25230,7 +25225,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-109-1785314102000",
+      "id": "ekopolis-sitemap-110-1785314102000",
       "title": "les opportunites de developpement de leconomie sociale et solidaire dans la filiere du",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -25253,7 +25248,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-172-1785313963000",
+      "id": "ekopolis-sitemap-173-1785313963000",
       "title": "presentation programme sante ville amenagement durable",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -25276,7 +25271,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-267-1785316581000",
+      "id": "ekopolis-sitemap-268-1785316581000",
       "title": "guide construire sain ed 2013",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -25299,7 +25294,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-398-1785316517000",
+      "id": "ekopolis-sitemap-399-1785316517000",
       "title": "la biodiversite publications du ministere",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -25322,7 +25317,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-402-1785313612000",
+      "id": "ekopolis-sitemap-403-1785313612000",
       "title": "label ever espaces verts ecologiques pour la gestion ecologique des espaces verts",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -25345,7 +25340,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-415-1785316763000",
+      "id": "ekopolis-sitemap-416-1785316763000",
       "title": "de la nature en ville mais quelle idee",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
