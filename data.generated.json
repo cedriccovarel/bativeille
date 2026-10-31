@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:11:20.071Z",
+  "generatedAt": "2026-10-31T23:12:25.158Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,7 +2161,33 @@
   ],
   "articles": [
     {
-      "id": "le-moniteur-rss-0-1793462400000",
+      "id": "le-moniteur-rss-0-1793481723000",
+      "title": "Doubs : Zurflüh-Feller se porte acquéreur de l’Allemand Stephan Dick Profile",
+      "source": "Le Moniteur",
+      "sourceId": "le-moniteur",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.lemoniteur.fr/stores-et-fermetures/doubs-zurfluh-feller-se-porte-acquereur-de-lallemand-stephan-dick-profile.JS6NBK3Z3NBH3KCWWQGWTWMW7Q.html",
+      "image": "https://www.lemoniteur.fr/resizer/v2//7BPZ6LR7OBG4RFPZCAQJ6UDW5U.jpg?auth=9834d704bb3e5afe6d25d34c4354ee8c707df74310807873f87d084036149dde&smart=true&width=375&height=211",
+      "date": "2026-10-31",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Construction",
+        "Réglementation",
+        "Marché",
+        "RE2020",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Leader européen dans le domaine des composants pour volets roulants et rideaux métalliques, le groupe Zurflüh-Feller a annoncé le 30 octobre 2026 l’acquisition de 100 % des parts de la société allemande Stephan Dick Profile GmbH, spécialisée dans la conception et la production de…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-moniteur-rss-1-1793462400000",
       "title": "Ce lycée de Seine-Maritime est doté d’un nouveau gymnase proposant mur d’escalade et salle de musculation",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2186,7 +2212,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-1-1793462400000",
+      "id": "le-moniteur-rss-2-1793462400000",
       "title": "Oise : ça colle vert pour Evertree",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2210,7 +2236,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-2-1793435520000",
+      "id": "le-moniteur-rss-3-1793435520000",
       "title": "Logement : le gouvernement accusé de « grave recul social et écologique » avec la fin d’aides contre la précarité énergétique",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2234,7 +2260,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-3-1793433600000",
+      "id": "le-moniteur-rss-4-1793433600000",
       "title": "ArcelorMittal, le plus gros émetteur de CO2 de France, décarbone deux usines nordistes",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2258,7 +2284,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-4-1793430000000",
+      "id": "le-moniteur-rss-5-1793430000000",
       "title": "Peu connu des Bordelais, le parc paysager du quartier du Grand Parc se transforme pour favoriser le lien social",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2460,7 +2486,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1793473620000",
+      "id": "enerzine-rss-0-1793488200000",
+      "title": "Lumina, une simulation cosmique à l’échelle de 1,5 milliard d’années-lumière",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/lumina-une-simulation-cosmique-a-lechelle-de-15-milliard-dannees-lumiere/198704-2026-11",
+      "image": null,
+      "date": "2026-10-31",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Une équipe de chercheurs présente Lumina, une simulation cosmique couvrant un cube d’environ 1,5 milliard d’années-lumière de côté, dans les Monthly Notices of the Royal Astronomical Society. Conçue comme un banc d’essai, elle doit aider à confronter les prédictions théoriques au…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1793473620000",
       "title": "Belgique : une vignette numérique prévue en mai 2027. Ce que paieraient les automobilistes français",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2485,7 +2535,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1793460436000",
+      "id": "enerzine-rss-2-1793460436000",
       "title": "Livret A à 30 000 euros : les 7 050 euros de versements supplémentaires pourraient financer les lycées",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2510,7 +2560,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1793452114000",
+      "id": "enerzine-rss-3-1793452114000",
       "title": "Gazole : E.Leclerc annonce 21 centimes de moins par litre dès le 1er novembre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2535,7 +2585,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1793436000000",
+      "id": "enerzine-rss-4-1793436000000",
       "title": "L’Assemblée national vote une taxe de 5,5 centimes par Go, mais qui paiera vraiment ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2560,7 +2610,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1793427000000",
+      "id": "enerzine-rss-5-1793427000000",
       "title": "L’UE devrait investir environ 70 milliards d’euros par an dans l’adaptation climatique d’ici 2050",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2585,7 +2635,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1793423400000",
+      "id": "enerzine-rss-6-1793423400000",
       "title": "SPINE, un outil d’IA du SLAC, détecte 60 % d’événements de neutrinos en plus",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2610,7 +2660,57 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1793464585000",
+      "id": "lenergeek-rss-0-1793472218000",
+      "title": "Afrique : une nouvelle banque de l’énergie voit le jour avec 5 milliards de dollars de capital autorisé",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/31/afrique-banque-energie-5-milliards-capital-autorise-afreximbank-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/056ce9ca-banque-africaine-de-lenergie.png",
+      "date": "2026-10-31",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "L’Afreximbank et l’Organisation des producteurs de pétrole africains ont officialisé, le 31 octobre à Abuja, la création de l’Africa Energy Bank. Dotée d’un capital autorisé de 5 milliards de dollars, elle veut mobiliser des financements pour les infrastructures énergétiques afri…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1793468293000",
+      "title": "Certificats d’économies d’énergie : les acheteurs soumis à de nouvelles vérifications dès le 1er novembre",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/10/31/cession-cee-acheteurs-verifications-1er-novembre-2026-decret-945/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/10/852c324f-cession-cee-novembre-2026.png",
+      "date": "2026-10-31",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "À partir du 1er novembre 2026, les acquisitions de certificats d’économies d’énergie entrant dans le nouveau régime devront être accompagnées d’un contrôle documenté du vendeur et d’un formulaire retraçant l’origine des certificats. Le décret du 9 octobre et son arrêté d’applicat…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1793464585000",
       "title": "Biométhane : la CRE actualise les coefficients de dégressivité avant le trimestre tarifaire de novembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2635,7 +2735,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1793464438000",
+      "id": "lenergeek-rss-3-1793464438000",
       "title": "Royaume-Uni : les futurs parcs éoliens en mer devront prouver leur effet sur les factures",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2661,7 +2761,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1793459828000",
+      "id": "lenergeek-rss-4-1793459828000",
       "title": "Diesel : l’Europe accélère la sortie de 42,6 millions de barils de ses réserves avant fin janvier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2685,7 +2785,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1793452680000",
+      "id": "lenergeek-rss-5-1793452680000",
       "title": "Trêve hivernale : six exceptions permettent l’expulsion malgré la protection hivernale",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2711,7 +2811,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1793450630000",
+      "id": "lenergeek-rss-6-1793450630000",
       "title": "BP engrange 8,46 milliards de dollars, mais déprécie lourdement ses actifs solaires et éoliens",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2735,7 +2835,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1793445218000",
+      "id": "lenergeek-rss-7-1793445218000",
       "title": "Batteries et réseaux : la France relance les projets de métaux critiques jusqu’au 23 février 2027",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2761,7 +2861,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1793442596000",
+      "id": "lenergeek-rss-8-1793442596000",
       "title": "E-méthanol : un projet de 48 000 tonnes par an au Québec vise aussi le marché européen",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2786,7 +2886,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1793439189000",
+      "id": "lenergeek-rss-9-1793439189000",
       "title": "Éolien : un nouveau record de couverture de la consommation électrique française à 51,1 %",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2811,7 +2911,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1793428922000",
+      "id": "lenergeek-rss-10-1793428922000",
       "title": "En Inde, Engie met en service 450 MW de solaire et accélère sa stratégie de stockage",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2836,7 +2936,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1793421960000",
+      "id": "lenergeek-rss-11-1793421960000",
       "title": "Électricité : Londres autorise Sea Link, un câble de 2 GW pour désengorger son réseau",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2862,7 +2962,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1793415058000",
+      "id": "lenergeek-rss-12-1793415058000",
       "title": "Gaz canadien : l’Union européenne et Ottawa vont étudier de nouvelles livraisons de GNL",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2888,7 +2988,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1793414295000",
+      "id": "lenergeek-rss-13-1793414295000",
       "title": "Incendies : 22 % des réseaux électriques aériens mondiaux traversent des zones exposées",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2913,7 +3013,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1793414013000",
+      "id": "lenergeek-rss-14-1793414013000",
       "title": "Nucléaire : EDF déclare une anomalie de niveau 1 après une avarie de transformateur",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2939,7 +3039,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1793473868000",
+      "id": "le-commerce-du-bois-sitemap-0-1793488335000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2965,7 +3065,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1793473868000",
+      "id": "le-commerce-du-bois-sitemap-1-1793488335000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2991,7 +3091,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1793473868000",
+      "id": "le-commerce-du-bois-sitemap-2-1793488335000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3143,7 +3243,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-5-1793387520000",
+      "id": "le-moniteur-rss-6-1793387520000",
       "title": "Ille-et-Vilaine : ouverture du nouveau dépôt de bus de Baud-Chardonnet, à Rennes",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3167,7 +3267,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-6-1793387381000",
+      "id": "le-moniteur-rss-7-1793387381000",
       "title": "Hérault : présentation du projet d’extension portuaire ZIFMAR 2 à Sète-Frontignan",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3190,7 +3290,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-7-1793387090000",
+      "id": "le-moniteur-rss-8-1793387090000",
       "title": "Hauts-de-Seine : mise en service du collège Charlotte-Delbo à Malakoff",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3213,7 +3313,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-8-1793385994000",
+      "id": "le-moniteur-rss-9-1793385994000",
       "title": "Haute-Garonne : un nouveau tronçon du Réseau express vélo 2 entre Pompertuzat et Deyme",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3237,7 +3337,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-9-1793384924000",
+      "id": "le-moniteur-rss-10-1793384924000",
       "title": "Haute-Garonne : réouverture du pont historique de Saint-Martory après deux ans de restauration",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3260,7 +3360,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-10-1793383988000",
+      "id": "le-moniteur-rss-11-1793383988000",
       "title": "Bouches-du-Rhône : réouverture du sémaphore de Callelongue rénové à Marseille",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3283,7 +3383,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-11-1793383883000",
+      "id": "le-moniteur-rss-12-1793383883000",
       "title": "Bas-Rhin : un nouveau parc sportif et de loisirs attendu au printemps 2027, à Eckwersheim",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3307,7 +3407,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-12-1793383546000",
+      "id": "le-moniteur-rss-13-1793383546000",
       "title": "Alpes-Maritimes : une centrale photovoltaïque en ombrière à L’Escarène",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3331,7 +3431,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-13-1793383200000",
+      "id": "le-moniteur-rss-14-1793383200000",
       "title": "A Nantes, la Halle de Feltre, une ancienne patinoire devenue un magasin C&A, est rachetée par le groupe rennais Vicartem et va renaître avec l’agence Unité",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3354,7 +3454,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-14-1793382324000",
+      "id": "le-moniteur-rss-15-1793382324000",
       "title": "Ain : restauration de la tour de Montverd à Lagnieu",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3377,7 +3477,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-15-1793382200000",
+      "id": "le-moniteur-rss-16-1793382200000",
       "title": "Nord : réaménagement de la RD936 à Cerfontaine",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3400,7 +3500,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-16-1793376000000",
+      "id": "le-moniteur-rss-17-1793376000000",
       "title": "GCC Pays de la Loire se transforme au profit de deux entités spécialisées",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3424,7 +3524,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-17-1793376000000",
+      "id": "le-moniteur-rss-18-1793376000000",
       "title": "Nantes : le Cneaf réunit ses adhérents pour son 56econgrès",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3448,7 +3548,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-18-1793371220000",
+      "id": "le-moniteur-rss-19-1793371220000",
       "title": "Loiret : une stratégie humaine au cœur des Trophées des entreprises du Loiret 2026 pour THEIA-IT",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3471,7 +3571,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-19-1793371109000",
+      "id": "le-moniteur-rss-20-1793371109000",
       "title": "Nord : intervention sur le réseau d’assainissement du collège Jean-Lemaire-de-Belges à Bavay",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3495,7 +3595,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-20-1793369640000",
+      "id": "le-moniteur-rss-21-1793369640000",
       "title": "Habitat indigne : Marseille compte encore 950 immeubles à risque, huit ans après le drame de la rue d’Aubagne",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3518,7 +3618,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-21-1793368440000",
+      "id": "le-moniteur-rss-22-1793368440000",
       "title": "Le Centre technique industriel de la construction métallique développe une plateforme de collecte de données pour les produits de la construction",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3542,7 +3642,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-22-1793364616000",
+      "id": "le-moniteur-rss-23-1793364616000",
       "title": "Equipements funéraires : les architectes soignent les dernières demeures",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3565,7 +3665,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-23-1793364480000",
+      "id": "le-moniteur-rss-24-1793364480000",
       "title": "Construction hors site : à Marseille, l’immeuble Idéal de Modus Aedificandi prend forme avec des éléments préfabriqués par Rector Lesage",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3589,7 +3689,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-24-1793361202000",
+      "id": "le-moniteur-rss-25-1793361202000",
       "title": "Une étude sur le bâti des lycées démontre que l’enveloppe des bâtiments est priorisée au détriment des travaux intérieurs",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3613,7 +3713,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-25-1793360553000",
+      "id": "le-moniteur-rss-26-1793360553000",
       "title": "Le directeur général de Point.P, nouveau pilote des activités françaises du groupe Saint-Gobain",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3637,7 +3737,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-26-1793359643000",
+      "id": "le-moniteur-rss-27-1793359643000",
       "title": "Equipements funéraires : les architectes et les paysagistes réalisent des sépultures de plus en plus en rapport avec la nature",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3661,7 +3761,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-27-1793359107000",
+      "id": "le-moniteur-rss-28-1793359107000",
       "title": "Nicolas Godet nommé directeur général France de Saint-Gobain pour accélérer le développement du plan stratégique du groupe",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3685,7 +3785,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-28-1793358238000",
+      "id": "le-moniteur-rss-29-1793358238000",
       "title": "Grand prix de l’urbanisme : Franck Boutté, le bâtisseur de climats",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3708,7 +3808,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-29-1793358010000",
+      "id": "le-moniteur-rss-30-1793358010000",
       "title": "Crématorium : le cercle des âmes disparues",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3731,7 +3831,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-30-1793357993000",
+      "id": "le-moniteur-rss-31-1793357993000",
       "title": "Ossuaire : des reliquaires entre ciel et terre",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3755,7 +3855,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-31-1793357981000",
+      "id": "le-moniteur-rss-32-1793357981000",
       "title": "Parc-cimetière : apprivoiser l’adieu à travers le paysage",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3778,7 +3878,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-32-1793357919000",
+      "id": "le-moniteur-rss-33-1793357919000",
       "title": "« Végétaliser un cimetière ramène une forme de sacralité, quelles que soient ses croyances »",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3802,7 +3902,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-33-1793357704000",
+      "id": "le-moniteur-rss-34-1793357704000",
       "title": "A Versailles, l’écoquartier de Gally mise sur une digue paysagère et une végétation dense pour se fondre près du château",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3826,7 +3926,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-34-1793356069000",
+      "id": "le-moniteur-rss-35-1793356069000",
       "title": "Equerre d’argent 2026 : les cinq opérations nommées dans la catégorie «Première œuvre»",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3849,7 +3949,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-35-1793355792000",
+      "id": "le-moniteur-rss-36-1793355792000",
       "title": "A Orléans, les 20 bâtiments de cette résidence de logements sociaux abandonnent le gaz pour la géothermie sur nappe",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3873,7 +3973,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-36-1793355696000",
+      "id": "le-moniteur-rss-37-1793355696000",
       "title": "Espèces protégées : la condamnation récente de SNCF Réseau est riche d’enseignements sur la gestion du risque pénal pour les commanditaires de travaux en milieux naturels",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3897,7 +3997,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-37-1793354913000",
+      "id": "le-moniteur-rss-38-1793354913000",
       "title": "Un nouveau stade de 71 500 places à Milan : le vieux San Siro fera place aux grandes arches en béton du Generali stadium, dessiné par l’architecte Norman Foster",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3921,7 +4021,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-38-1793354170000",
+      "id": "le-moniteur-rss-39-1793354170000",
       "title": "Permis de construire : une demande de retrait est un recours administratif devant être notifié au titulaire de l’autorisation",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3945,7 +4045,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-39-1793354148000",
+      "id": "le-moniteur-rss-40-1793354148000",
       "title": "Certificat d’urbanisme : un arrêté de carence adopté pendant la période de validité du certificat est inopposable à une demande de permis",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3970,7 +4070,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-40-1793354123000",
+      "id": "le-moniteur-rss-41-1793354123000",
       "title": "Planification : le juge n’exerce qu’un contrôle restreint pour apprécier la légalité des orientations du schéma directeur francilien",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3993,7 +4093,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-41-1793351028000",
+      "id": "le-moniteur-rss-42-1793351028000",
       "title": "Vos textes officiels du vendredi 30 octobre 2026",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4016,7 +4116,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-42-1793350985000",
+      "id": "le-moniteur-rss-43-1793350985000",
       "title": "Rénovation : le caractère hybride du marché global de performance à paiement différé suscite des interrogations pratiques",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4041,7 +4141,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-43-1793350800000",
+      "id": "le-moniteur-rss-44-1793350800000",
       "title": "La justice suspend en référé le PLU de Saint-Malo, faute de « prise en compte suffisante des enjeux relatifs à la ressource en eau potable »",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4065,7 +4165,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-44-1793347320000",
+      "id": "le-moniteur-rss-45-1793347320000",
       "title": "DOM-Metalux : plusieurs solutions de contrôle d’accès dans un même produit",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4088,7 +4188,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-45-1793342400000",
+      "id": "le-moniteur-rss-46-1793342400000",
       "title": "Qualité de l’air intérieur : l’autre grand défi du bâtiment durable",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4112,7 +4212,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-46-1793339580000",
+      "id": "le-moniteur-rss-47-1793339580000",
       "title": "Décarbonation des engins de carrière : un projet pilote vise à étudier la possibilité de recourir au retrofit électrique pour les équipements lourds",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4305,6 +4405,30 @@
     },
     {
       "id": "batiweb-rss-7-1793318700000",
+      "title": "Blum dévoile Beyond Components, un nouveau service dédié à REVEGO",
+      "source": "Batiweb",
+      "sourceId": "batiweb",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/blum-beyond-components-service-revego-49503",
+      "image": "https://img.batiweb.com/repo-images/publi/49503/blum-11-02-une.jpg",
+      "date": "2026-10-30",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Construction",
+        "Produits",
+        "Marché",
+        "Eau"
+      ],
+      "summary": "Blum présente Beyond Components, un nouveau service autour de REVEGO destiné à simplifier les projets des professionnels de l’agencement. Blum présente Beyond Components, un nouveau service autour de REVEGO destiné à simplifier les projets des professionnels de l’agencement. Blum…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "batiweb-rss-8-1793318700000",
       "title": "Tuiles Patrimoine : EDILIANS à la hauteur de l’héritage régional",
       "source": "Batiweb",
       "sourceId": "batiweb",
@@ -4324,29 +4448,6 @@
         "Biosourcé"
       ],
       "summary": "Avec sa Sélection Patrimoine, EDILIANS conjugue savoir-faire terre cuite et architectures régionales pour accompagner les projets de restauration. Avec sa Sélection Patrimoine, EDILIANS conjugue savoir-faire terre cuite et architectures régionales pour accompagner les projets de …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "batiweb-rss-8-1793318700000",
-      "title": "ANNIVERSAIRE CADENCE : 10ans de façades rythmées",
-      "source": "Batiweb",
-      "sourceId": "batiweb",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/anniversaire-cadence-10-ans-facades-rythmees-49491",
-      "image": "https://img.batiweb.com/repo-images/publi/49491/atelier3s-11-02-une.jpg",
-      "date": "2026-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Produits",
-        "Marché"
-      ],
-      "summary": "En complément des célèbres collections aléatoires carrée et triangle, les ATELIERS 3S lancent 2 nouvelles séries à composer : COCKTAIL et REVERSE. En complément des célèbres collections aléatoires carrée et triangle, les ATELIERS 3S lancent 2 nouvelles séries à composer : COCKTAI…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4375,25 +4476,24 @@
     },
     {
       "id": "batiweb-rss-10-1793318700000",
-      "title": "Blum dévoile Beyond Components, un nouveau service dédié à REVEGO",
+      "title": "ANNIVERSAIRE CADENCE : 10ans de façades rythmées",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/blum-beyond-components-service-revego-49503",
-      "image": "https://img.batiweb.com/repo-images/publi/49503/blum-11-02-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/anniversaire-cadence-10-ans-facades-rythmees-49491",
+      "image": "https://img.batiweb.com/repo-images/publi/49491/atelier3s-11-02-une.jpg",
       "date": "2026-10-30",
       "access": "open",
       "official": false,
       "highImpact": false,
-      "impactScore": 80,
+      "impactScore": 72,
       "tags": [
         "Construction",
         "Produits",
-        "Marché",
-        "Eau"
+        "Marché"
       ],
-      "summary": "Blum présente Beyond Components, un nouveau service autour de REVEGO destiné à simplifier les projets des professionnels de l’agencement. Blum présente Beyond Components, un nouveau service autour de REVEGO destiné à simplifier les projets des professionnels de l’agencement. Blum…",
+      "summary": "En complément des célèbres collections aléatoires carrée et triangle, les ATELIERS 3S lancent 2 nouvelles séries à composer : COCKTAIL et REVERSE. En complément des célèbres collections aléatoires carrée et triangle, les ATELIERS 3S lancent 2 nouvelles séries à composer : COCKTAI…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5620,7 +5720,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1793401800000",
+      "id": "enerzine-rss-7-1793401800000",
       "title": "Un microscope de pointe stimule la recherche de l’ORNL sur les matériaux à l’échelle atomique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5645,7 +5745,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1793383620000",
+      "id": "enerzine-rss-8-1793383620000",
       "title": "Inflation à 3,4% en octobre : l’énergie pèse davantage sur votre budget",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5670,7 +5770,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1793382000000",
+      "id": "enerzine-rss-9-1793382000000",
       "title": "Heures creuses EDF : le piège du programmateur avec les nouveaux horaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5696,33 +5796,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1793348766000",
-      "title": "Diesel, fioul, gazole professionnel : les baisses annoncées par TotalEnergies",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/totalenergies-diesel-baisse-prix-stations-access/198884-2026-10",
-      "image": null,
-      "date": "2026-10-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "L’accès aux stocks stratégiques au coût historique doit permettre à TotalEnergies de réduire ses prix. Le groupe annonce une première baisse dès ce samedi 31 octobre, avant même de recevoir les volumes concernés. TotalEnergies abaissera le prix du diesel à 2,15 €/L dès ce samedi …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-13-1793397053000",
+      "id": "lenergeek-rss-15-1793397053000",
       "title": "Gaz : l’Italie accuse l’Allemagne d’alimenter la flambée des prix, Berlin réplique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5747,7 +5821,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1793389027000",
+      "id": "lenergeek-rss-16-1793389027000",
       "title": "Hydrogène vert : Lhyfe vise 12 à 13 millions d’euros de ventes en 2026 malgré des pertes persistantes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5771,7 +5845,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1793387750000",
+      "id": "lenergeek-rss-17-1793387750000",
       "title": "Nigeria : TotalEnergies cède 40 % d’un bloc offshore pour relancer le projet Egina South",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5795,7 +5869,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1793382636000",
+      "id": "lenergeek-rss-18-1793382636000",
       "title": "Brésil : les groupes espagnols remportent sept des huit projets du grand appel d’offres électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5821,7 +5895,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1793375049000",
+      "id": "lenergeek-rss-19-1793375049000",
       "title": "Raffinerie russe en feu : l’attaque du 30 octobre ravive le bras de fer sur le pétrole",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5846,7 +5920,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1793373423000",
+      "id": "lenergeek-rss-20-1793373423000",
       "title": "Gaz : les prix reculent en Europe, mais la France reste parmi les pays les plus chers",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5871,7 +5945,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1793373060000",
+      "id": "lenergeek-rss-21-1793373060000",
       "title": "Bulletins de vote : l’article 76 rattrapé par la menace des ingérences numériques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5896,7 +5970,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1793371680000",
+      "id": "lenergeek-rss-22-1793371680000",
       "title": "Gazole en baisse dès le 31 octobre : TotalEnergies active les stocks stratégiques avant leur livraison",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5921,7 +5995,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1793367035000",
+      "id": "lenergeek-rss-23-1793367035000",
       "title": "Nucléaire : quinze pays veulent peser sur les règles énergétiques européennes après 2030",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5942,55 +6016,6 @@
         "Réglementation"
       ],
       "summary": "Réunis le 29 octobre à Luxembourg, les membres de l’Alliance du nucléaire demandent à l’Union européenne de reconnaître explicitement l’atome parmi les énergies propres dans son futur cadre énergétique. La France fait partie des quinze États qui défendent cette orientation, alors…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1793363320000",
-      "title": "GNL : le Japon pourrait dépasser la Chine en 2026",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/30/gnl-japon-chine-premier-importateur-mondial-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/51099294-importations-gnl-chine-japon.png",
-      "date": "2026-10-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Le Japon pourrait redevenir cette année le premier importateur mondial de gaz naturel liquéfié, devant la Chine. Deux cabinets spécialisés anticipent ce renversement, lié surtout au ralentissement de la demande chinoise et aux transformations de son approvisionnement énergétique.…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1793357031000",
-      "title": "Renouvelables : pourquoi les réseaux électriques mondiaux ne suivent plus",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/30/reseaux-electriques-goulet-etranglement-renouvelables/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/56638fce-ralentissement-energies-renouvelables-2026.png",
-      "date": "2026-10-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Après cinq années de croissance record, les énergies renouvelables connaissent un ralentissement en 2026. La cause ? Les réseaux électriques ne parviennent plus à évacuer la production. L'IRENA pointe un décalage critique entre capacités installées et infrastructures de transport…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7489,30 +7514,6 @@
       "summary": "Publication détectée dans le sitemap de Promotelec. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-moniteur-rss-47-1793314860000",
-      "title": "Lycée - Rudy Ricciotti",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/architecture/resultats-de-concours/lycee-rudy-ricciotti.UBG5BEQC6RNL3LT37EYRHPXYUM.html",
-      "image": "https://www.lemoniteur.fr/resizer/v2//RLSCQUBNVVDT7MJGOZMASS5F6I.jpg?auth=4b8784702a3770bc0e7bdc8a361d73c1f248518d6028f889f46c5da330f0c063&smart=true&width=1024&height=576",
-      "date": "2026-10-29",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché",
-        "Bâtiment"
-      ],
-      "summary": "Opération : construction du lycée Centre Var d’une capacité de 1 100 élèves. Maître d’ouvrage : Région Sud ‑ Provence‑Alpes‑Côte d’Azur (Marseille). Opération : construction du lycée Centre Var d’une capacité de 1 100 élèves. Maître d’ouvrage : Région Sud ‑ Provence‑Alpes‑Côte d’…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
     },
     {
       "id": "batiweb-rss-11-1793286900000",
