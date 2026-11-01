@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-10-31T23:12:25.158Z",
+  "generatedAt": "2026-11-01T05:09:20.930Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,160 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1793506200000",
+      "title": "Toyota estime avoir besoin de 400 000 robots pour son projet d’usines automatisées",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/toyota-estime-avoir-besoin-de-400-000-robots-pour-son-projet-dusines-automatisees/198709-2026-11",
+      "image": null,
+      "date": "2026-11-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Toyota Motor se lance dans la course aux robots humanoïdes, où Tesla et des fabricants chinois sont déjà en concurrence. Une refonte de ses usines pourrait nécessiter environ 400 000 robots au sein de Toyota, de ses sociétés du groupe et de ses principaux fournisseurs, pour un co…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-0-1793500621000",
+      "title": "Solaire en Corse et outre-mer : la CRE ouvre 148,6 MWc à la concurrence pour janvier 2027",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/01/solaire-zni-cre-148-6-mwc-candidatures-janvier-2027-011126-0436/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/0d9d7133-appel-doffres-photovoltaique-zni-2027.png",
+      "date": "2026-11-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Le cahier des charges actualisé le 29 octobre prévoit 148,6 MWc de projets photovoltaïques dans six zones non interconnectées, contre 99 MWc lors des précédentes périodes. Les candidatures seront déposées du 4 au 14 janvier 2027, sous le contrôle de la Commission de régulation de…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1793497855000",
+      "title": "Énergies renouvelables : l’Inde cherche 220 milliards de dollars pour tenir son cap de 2030",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/01/inde-220-milliards-dollars-investissements-energies-renouvelables-2030/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/1c86b09e-investissements-energies-renouvelables-inde.png",
+      "date": "2026-11-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "New Delhi estime à 220 milliards de dollars les investissements nécessaires pour atteindre 500 GW de capacités électriques non fossiles d’ici 2030. Réseaux, batteries et industrie devront suivre la croissance des installations solaires et éoliennes, sur un marché où Engie renforc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1793509751000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-11-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1793509751000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-11-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1793509751000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-11-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "le-moniteur-rss-0-1793481723000",
       "title": "Doubs : Zurflüh-Feller se porte acquéreur de l’Allemand Stephan Dick Profile",
       "source": "Le Moniteur",
@@ -2486,7 +2640,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1793488200000",
+      "id": "enerzine-rss-1-1793488200000",
       "title": "Lumina, une simulation cosmique à l’échelle de 1,5 milliard d’années-lumière",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2510,7 +2664,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1793473620000",
+      "id": "enerzine-rss-2-1793473620000",
       "title": "Belgique : une vignette numérique prévue en mai 2027. Ce que paieraient les automobilistes français",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2535,7 +2689,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1793460436000",
+      "id": "enerzine-rss-3-1793460436000",
       "title": "Livret A à 30 000 euros : les 7 050 euros de versements supplémentaires pourraient financer les lycées",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2560,7 +2714,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1793452114000",
+      "id": "enerzine-rss-4-1793452114000",
       "title": "Gazole : E.Leclerc annonce 21 centimes de moins par litre dès le 1er novembre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2585,7 +2739,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1793436000000",
+      "id": "enerzine-rss-5-1793436000000",
       "title": "L’Assemblée national vote une taxe de 5,5 centimes par Go, mais qui paiera vraiment ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2610,7 +2764,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1793427000000",
+      "id": "enerzine-rss-6-1793427000000",
       "title": "L’UE devrait investir environ 70 milliards d’euros par an dans l’adaptation climatique d’ici 2050",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2635,7 +2789,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1793423400000",
+      "id": "enerzine-rss-7-1793423400000",
       "title": "SPINE, un outil d’IA du SLAC, détecte 60 % d’événements de neutrinos en plus",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2660,7 +2814,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1793472218000",
+      "id": "lenergeek-rss-2-1793489341000",
+      "title": "Nucléaire : le Ghana annonce un projet de 2 000 MW avec la Russie",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/01/ghana-russie-projet-centrale-nucleaire-2000-mw-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/3328e250-ghana-centrale-nucleaire-russie.png",
+      "date": "2026-10-31",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Le Ghana affirme avoir obtenu l’appui de la Russie pour développer une centrale nucléaire de 2 000 mégawatts, à l’issue du sommet Russie-Afrique de Moscou. Le projet s’inscrit dans une stratégie d’électrification et d’industrialisation, mais ses modalités techniques et financière…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1793472218000",
       "title": "Afrique : une nouvelle banque de l’énergie voit le jour avec 5 milliards de dollars de capital autorisé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2684,7 +2862,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1793468293000",
+      "id": "lenergeek-rss-4-1793468293000",
       "title": "Certificats d’économies d’énergie : les acheteurs soumis à de nouvelles vérifications dès le 1er novembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2710,7 +2888,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1793464585000",
+      "id": "lenergeek-rss-5-1793464585000",
       "title": "Biométhane : la CRE actualise les coefficients de dégressivité avant le trimestre tarifaire de novembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2735,7 +2913,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1793464438000",
+      "id": "lenergeek-rss-6-1793464438000",
       "title": "Royaume-Uni : les futurs parcs éoliens en mer devront prouver leur effet sur les factures",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2761,7 +2939,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1793459828000",
+      "id": "lenergeek-rss-7-1793459828000",
       "title": "Diesel : l’Europe accélère la sortie de 42,6 millions de barils de ses réserves avant fin janvier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2785,7 +2963,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1793452680000",
+      "id": "lenergeek-rss-8-1793452680000",
       "title": "Trêve hivernale : six exceptions permettent l’expulsion malgré la protection hivernale",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2811,7 +2989,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1793450630000",
+      "id": "lenergeek-rss-9-1793450630000",
       "title": "BP engrange 8,46 milliards de dollars, mais déprécie lourdement ses actifs solaires et éoliens",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2835,7 +3013,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1793445218000",
+      "id": "lenergeek-rss-10-1793445218000",
       "title": "Batteries et réseaux : la France relance les projets de métaux critiques jusqu’au 23 février 2027",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2861,7 +3039,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1793442596000",
+      "id": "lenergeek-rss-11-1793442596000",
       "title": "E-méthanol : un projet de 48 000 tonnes par an au Québec vise aussi le marché européen",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2886,7 +3064,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1793439189000",
+      "id": "lenergeek-rss-12-1793439189000",
       "title": "Éolien : un nouveau record de couverture de la consommation électrique française à 51,1 %",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2911,7 +3089,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1793428922000",
+      "id": "lenergeek-rss-13-1793428922000",
       "title": "En Inde, Engie met en service 450 MW de solaire et accélère sa stratégie de stockage",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2936,7 +3114,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1793421960000",
+      "id": "lenergeek-rss-14-1793421960000",
       "title": "Électricité : Londres autorise Sea Link, un câble de 2 GW pour désengorger son réseau",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2962,7 +3140,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1793415058000",
+      "id": "lenergeek-rss-15-1793415058000",
       "title": "Gaz canadien : l’Union européenne et Ottawa vont étudier de nouvelles livraisons de GNL",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2988,7 +3166,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1793414295000",
+      "id": "lenergeek-rss-16-1793414295000",
       "title": "Incendies : 22 % des réseaux électriques aériens mondiaux traversent des zones exposées",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3013,7 +3191,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1793414013000",
+      "id": "lenergeek-rss-17-1793414013000",
       "title": "Nucléaire : EDF déclare une anomalie de niveau 1 après une avarie de transformateur",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3037,84 +3215,6 @@ window.BATIVEILLE_DATA = {
       "summary": "La tempête Austen a endommagé un transformateur auxiliaire alimentant deux unités d'une centrale nucléaire d'EDF. L'exploitant a déclaré le 30 octobre un événement de sûreté de niveau 1, lié au dépassement du délai de réparation prescrit pour le réacteur 3. L’article Nucléaire : …",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1793488335000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-10-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1793488335000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-10-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1793488335000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-10-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "la-gazette-des-communes-rss-0-1793435087000",
@@ -5720,7 +5820,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1793401800000",
+      "id": "enerzine-rss-8-1793401800000",
       "title": "Un microscope de pointe stimule la recherche de l’ORNL sur les matériaux à l’échelle atomique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5745,7 +5845,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1793383620000",
+      "id": "enerzine-rss-9-1793383620000",
       "title": "Inflation à 3,4% en octobre : l’énergie pèse davantage sur votre budget",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -5770,33 +5870,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1793382000000",
-      "title": "Heures creuses EDF : le piège du programmateur avec les nouveaux horaires",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/heures-creuses-edf-piege-programmateur-nouveaux-horaires/198929-2026-10",
-      "image": null,
-      "date": "2026-10-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau",
-        "Réemploi"
-      ],
-      "summary": "Votre ballon d’eau chaude chauffait la nuit, parfois sans interruption de 22 heures à 6 heures, parfois en deux plages. Il pourrait désormais se mettre en route à l’heure du déjeuner, quand la production photovoltaïque augmente. Décidée par la Commission de régulation de l’énergi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-15-1793397053000",
+      "id": "lenergeek-rss-18-1793397053000",
       "title": "Gaz : l’Italie accuse l’Allemagne d’alimenter la flambée des prix, Berlin réplique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5821,7 +5895,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1793389027000",
+      "id": "lenergeek-rss-19-1793389027000",
       "title": "Hydrogène vert : Lhyfe vise 12 à 13 millions d’euros de ventes en 2026 malgré des pertes persistantes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5845,7 +5919,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1793387750000",
+      "id": "lenergeek-rss-20-1793387750000",
       "title": "Nigeria : TotalEnergies cède 40 % d’un bloc offshore pour relancer le projet Egina South",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5869,7 +5943,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1793382636000",
+      "id": "lenergeek-rss-21-1793382636000",
       "title": "Brésil : les groupes espagnols remportent sept des huit projets du grand appel d’offres électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5895,7 +5969,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1793375049000",
+      "id": "lenergeek-rss-22-1793375049000",
       "title": "Raffinerie russe en feu : l’attaque du 30 octobre ravive le bras de fer sur le pétrole",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5920,7 +5994,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1793373423000",
+      "id": "lenergeek-rss-23-1793373423000",
       "title": "Gaz : les prix reculent en Europe, mais la France reste parmi les pays les plus chers",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -5941,81 +6015,6 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "Eurostat constate une baisse de 10,2 % du prix moyen du gaz payé par les ménages européens au premier semestre 2026 par rapport aux six mois précédents. À 0,13 euro par kilowattheure, la France demeure au-dessus de la moyenne européenne, dans le groupe des pays où le gaz domestiq…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-21-1793373060000",
-      "title": "Bulletins de vote : l’article 76 rattrapé par la menace des ingérences numériques",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/30/bulletins-vote-article-76-ingerences-numeriques/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/98b227ee-bulletins-vote-article-76-ingerences-numeriques.png",
-      "date": "2026-10-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Le Sénat a examiné le 20 octobre un projet de loi contre les ingérences étrangères, et Viginum recense déjà une centaine d'opérations visant la présidentielle. Au même moment, l'Assemblée examine un article du budget qui réduirait l'envoi postal des documents électoraux. Deux déb…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1793371680000",
-      "title": "Gazole en baisse dès le 31 octobre : TotalEnergies active les stocks stratégiques avant leur livraison",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/30/totalenergies-stocks-strategiques-gazole/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/gazole-baisse.jpg",
-      "date": "2026-10-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "TotalEnergies abaisse le prix du gazole à 2,15 euros par litre dès samedi 31 octobre 2026 dans 705 stations Access, avant même la livraison physique des 10 millions de barils débloqués par l'État. Le geste, qui intervient alors que le groupe affiche des bénéfices records, illustr…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1793367035000",
-      "title": "Nucléaire : quinze pays veulent peser sur les règles énergétiques européennes après 2030",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/30/alliance-nucleaire-quinze-pays-cadre-energetique-europe-apres-2030/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/51870901-alliance-du-nucleaire.png",
-      "date": "2026-10-30",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Réunis le 29 octobre à Luxembourg, les membres de l’Alliance du nucléaire demandent à l’Union européenne de reconnaître explicitement l’atome parmi les énergies propres dans son futur cadre énergétique. La France fait partie des quinze États qui défendent cette orientation, alors…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7027,32 +7026,6 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "Président du cabinet de conseil et de recrutement Territoires RH depuis plus de vingt ans, Tony Lourenço analyse les tendances du marché du recrutement et les stratégies qui s’offrent aux DGS. Président du cabinet de conseil et de recrutement Territoires RH depuis plus de vingt a…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "la-gazette-des-communes-rss-42-1793336401000",
-      "title": "Directeur d’école : deux fonctions publiques, un même terrain",
-      "source": "La Gazette des Communes",
-      "sourceId": "la-gazette-des-communes",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lagazettedescommunes.com/club-rh/cooperation-entre-fonctions-publiques/directeur-decole-deux-fonctions-publiques-un-meme-terrain.CORHFZAKQRO2LE4BKHL2VTXYIM.html",
-      "image": "https://www.lagazettedescommunes.com/resizer/v2//RYZ3ECZJQFFNFP4TIVB7P46XWE.jpg?auth=845f31dc01f8b67fc540506b778c81064917aa4a6b2d7b15b5863813248e2b97&smart=true&width=900&height=600",
-      "date": "2026-10-30",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Collectivités",
-        "Urbanisme",
-        "Commande publique",
-        "Rénovation publique",
-        "Eau"
-      ],
-      "summary": "Un nouveau cadre pour les directeurs d’école… mais qu’en est-il sur le terrain ? La circulaire du 19 mai 2026, relative au référentiel métier des directrices et directeurs d’école, précise leurs missions et insiste sur la nécessité d’une alliance éducative avec les communes. Pour…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10707,6 +10680,29 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "12 & 19 NOVEMBRE 2026 Bordeaux (33) Face au changement climatique et aux épisodes de forte chaleur de plus en plus fréquents, le confort d'été dans le bâtiment est devenu un enjeu incontournable. Après un Appel à Manifestation d'Intérêt publié du 6 mai au 10 juillet 2026, Bordeau…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "arb-nouvelle-aquitaine-rss-0-1793097811000",
+      "title": "42e Festival international du film ornithologique (FIFO) de Ménigoute",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://biodiversite-nouvelle-aquitaine.fr/42e-festival-international-du-film-ornithologique-fifo-de-menigoute/",
+      "image": null,
+      "date": "2026-10-27",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données"
+      ],
+      "summary": "Le Festival international du film ornithologique de Ménigoute est un rendez-vous incontournable du documentaire animalier. Chaque année, sont projetés plus […] The post 42e Festival international du film ornithologique (FIFO) de Ménigoute appeared first on Agence Régionale de la …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -17757,6 +17753,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "arb-nouvelle-aquitaine-rss-1-1791191053000",
+      "title": "L’été sans fin : le périple d’une femelle Autour des palombes",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://biodiversite-nouvelle-aquitaine.fr/lete-sans-fin-le-periple-dune-femelle-autour-des-palombes/",
+      "image": null,
+      "date": "2026-10-05",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données",
+        "Confort d’été"
+      ],
+      "summary": "Octobre pointe son nez et l’automne s’annonce officiellement sur le calendrier, mais la réalité climatique est tout autre. Les pics […] The post L’été sans fin : le périple d’une femelle Autour des palombes appeared first on Agence Régionale de la Biodiversité. Octobre pointe son…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "revolution-energetique-rss-31-1791210847000",
       "title": "Prix de l’électricité : comment fonctionnent les marchés de gros, et pourquoi vous devriez vous y intéresser ?",
       "source": "Révolution Énergétique",
@@ -21512,6 +21532,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "arb-nouvelle-aquitaine-rss-2-1788936840000",
+      "title": "Le centre de soins de Tonneins mobilisé face aux incendies de Gironde",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://biodiversite-nouvelle-aquitaine.fr/le-centre-de-soins-de-tonneins-mobilise-face-aux-incendies-de-gironde/",
+      "image": null,
+      "date": "2026-09-09",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données"
+      ],
+      "summary": "Le vendredi 24 juillet 2026, alors que le feu faisait rage dans l’ouest du département de la Gironde, la LPO […] The post Le centre de soins de Tonneins mobilisé face aux incendies de Gironde appeared first on Agence Régionale de la Biodiversité. Le vendredi 24 juillet 2026, alor…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "connaissance-des-energies-rss-26-1788912000000",
       "title": "Énergies renouvelables : « la poursuite du développement est pertinente du point de vue du consommateur »",
       "source": "Connaissance des Énergies",
@@ -21632,6 +21675,30 @@ window.BATIVEILLE_DATA = {
         "Données"
       ],
       "summary": "les premiers mois de l’année 2026 ont... L’article Climat en Nouvelle-Aquitaine : 2026, une année qui illustre déjà les défis de l’adaptation est apparu en premier sur AREC Nouvelle-Aquitaine. les premiers mois de l’année 2026 ont... L’article Climat en Nouvelle-Aquitaine : 2026,…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "arb-nouvelle-aquitaine-rss-3-1788850092000",
+      "title": "Rencontres de l’Observatoire Régional de la Biodiversité et de l’Eau",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://biodiversite-nouvelle-aquitaine.fr/rencontres-de-lobservatoire-regional-de-la-biodiversite-et-de-leau/",
+      "image": null,
+      "date": "2026-09-08",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données",
+        "Eau"
+      ],
+      "summary": "Pour la première fois, l’ARB NA réunit les réseaux Biodiversité et Eau liés à son pôle Observatoire dans une même […] The post Rencontres de l’Observatoire Régional de la Biodiversité et de l’Eau appeared first on Agence Régionale de la Biodiversité. Pour la première fois, l&#821…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -22238,6 +22305,29 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "arb-nouvelle-aquitaine-rss-4-1788264120000",
+      "title": "Les candidatures TEN sont ouvertes !",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://biodiversite-nouvelle-aquitaine.fr/les-candidatures-ten-sont-ouvertes/",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données"
+      ],
+      "summary": "La 6e session de candidature au dispositif « Territoires engagés pour la nature » (TEN) en Nouvelle-Aquitaine se poursuit ! […] The post Les candidatures TEN sont ouvertes ! appeared first on Agence Régionale de la Biodiversité. La 6e session de candidature au dispositif « Territ…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "oreo-bretagne-sitemap-62-1788253075000",
@@ -23177,6 +23267,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "arb-nouvelle-aquitaine-rss-5-1785937140000",
+      "title": "Quand les centres de sauvegarde de la faune sauvage font avancer la science",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://biodiversite-nouvelle-aquitaine.fr/quand-les-centres-de-sauvegarde-de-la-faune-sauvage-font-avancer-la-science/",
+      "image": null,
+      "date": "2026-08-05",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données"
+      ],
+      "summary": "Les centres de soins de la faune sauvage sont connus avant tout pour les soins qu’ils apportent aux animaux sauvages […] The post Quand les centres de sauvegarde de la faune sauvage font avancer la science appeared first on Agence Régionale de la Biodiversité. Les centres de soin…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "agence-qualite-construction-aqc-wp-21296-1785826800000",
       "title": "Flop 10 Logements collectifs 2026 : les équipements sanitaires en tête du classement",
       "source": "Agence Qualité Construction — AQC",
@@ -23224,6 +23337,30 @@ window.BATIVEILLE_DATA = {
         "Confort d’été"
       ],
       "summary": "Envirobat Grand Est et Envirobat Occitanie, centres de ressource du Réseau Bâtiment Durable, ont co-organisé un webinaire sur l’auto-réhabilitation accompagné : quelle posture adopter, le cadre réglementaire et les projets en […] L'article Auto-réhabilitation accompagnée (ARA) : …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "arb-nouvelle-aquitaine-rss-6-1785764340000",
+      "title": "Le projet ClimaFaune",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://biodiversite-nouvelle-aquitaine.fr/le-projet-climafaune/",
+      "image": null,
+      "date": "2026-08-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données",
+        "Confort d’été"
+      ],
+      "summary": "Signalez l’impact des événements climatiques sur la faune sauvage. Canicules à répétition, incendies ravageurs, tempêtes violentes, crues soudaines, épisodes de […] The post Le projet ClimaFaune appeared first on Agence Régionale de la Biodiversité. Signalez l&#8217;impact des év…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -24230,6 +24367,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "arb-nouvelle-aquitaine-rss-7-1784621016000",
+      "title": "Réélection du président de l’ARB NA",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://biodiversite-nouvelle-aquitaine.fr/reelection-du-president-de-larb-na/",
+      "image": null,
+      "date": "2026-07-21",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données"
+      ],
+      "summary": "Après un premier mandat de 3 ans à la présidence de l’ARB NA, marqué par la transformation de l’agence en […] The post Réélection du président de l’ARB NA appeared first on Agence Régionale de la Biodiversité. Après un premier mandat de 3 ans à la présidence de l&#8217;ARB NA, ma…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "envirobat-grand-est-lqe-rss-12-1784641935000",
       "title": "Interview – Aménagement d’un comble en open space à Mulhouse (68)",
       "source": "Envirobat Grand Est / LQE",
@@ -24569,6 +24729,53 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Atmo France. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "arb-nouvelle-aquitaine-rss-8-1784189015000",
+      "title": "Jussies – Détection précoce et intervention rapide en Creuse",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://biodiversite-nouvelle-aquitaine.fr/jussies-detection-precoce-et-intervention-rapide-en-creuse/",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données",
+        "Réemploi"
+      ],
+      "summary": "La jussie est encore peu présente en Creuse, mais sa détection dans l’Étang des Landes en 2023 a conduit à […] The post Jussies – Détection précoce et intervention rapide en Creuse appeared first on Agence Régionale de la Biodiversité. La jussie est encore peu présente en Creuse,…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "arb-nouvelle-aquitaine-rss-9-1784189014000",
+      "title": "Publication de l’état d’avancement 2024-2025 de la Stratégie Régionale EEE",
+      "source": "ARB Nouvelle-Aquitaine",
+      "sourceId": "arb-nouvelle-aquitaine",
+      "sourceType": "Agence biodiversité",
+      "region": "Nouvelle-Aquitaine",
+      "url": "https://biodiversite-nouvelle-aquitaine.fr/publication-de-letat-davancement-2024-2025-de-la-strategie-regionale-eee/",
+      "image": null,
+      "date": "2026-07-16",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Biodiversité",
+        "Nature",
+        "Données"
+      ],
+      "summary": "La Stratégie Régionale relative aux Espèces Exotiques Envahissantes en Nouvelle-Aquitaine constitue un cadre d’action sur 10 ans (2024-2033) en matière […] The post Publication de l’état d’avancement 2024-2025 de la Stratégie Régionale EEE appeared first on Agence Régionale de la…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "cerema-sitemap-758-1784120363000",
