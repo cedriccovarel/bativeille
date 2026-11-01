@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:41:07.530Z",
+  "generatedAt": "2026-11-01T23:26:59.834Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2431,7 +2431,57 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1793529997000",
+      "id": "enerzine-rss-0-1793574600000",
+      "title": "Pasqal observe un aimant quantique plus lent que prévu",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/pasqal-observe-un-aimant-quantique-plus-lent-que-prevu/198743-2026-11",
+      "image": null,
+      "date": "2026-11-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Pasqal a annoncé mardi dernier que son processeur à atomes neutres de 256 qubits a observé un aimant quantique bidimensionnel dont la relaxation après perturbation dépasse les prédictions théoriques, sans revendiquer d’avantage quantique de calcul. L’expérience a mobilisé 256 ato…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1793560250000",
+      "title": "XPeng L05 en Europe en 2027 : à quel prix arrivera le SUV vendu moins de 20 000 euros en Chine ?",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/xpeng-mona-l05-europe-2027-prix-20000-euros/199122-2026-11",
+      "image": null,
+      "date": "2026-11-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "La XPeng L05 est annoncée en Europe début 2027, environ trois mois après la L03. Lancé en Chine à partir de 144 800 yuans, soit quelque 19 500 euros, ce SUV familial n’a encore ni tarif européen, ni liste complète de marchés, ni calendrier d’ouverture des commandes par pays. Sven…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1793529997000",
       "title": "Prix à la pompe : les stations-service s’engagent à répercuter la baisse du gazole",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2455,7 +2505,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1793521306000",
+      "id": "enerzine-rss-3-1793521306000",
       "title": "Gaz en hausse, retraites revalorisées, équipements hivernaux obligatoires : ce qui change au 1er novembre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2479,7 +2529,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1793509800000",
+      "id": "enerzine-rss-4-1793509800000",
       "title": "Saviez-vous que le changement climatique aurait mis fin à la prochaine période glaciaire ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2504,7 +2554,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1793506200000",
+      "id": "enerzine-rss-5-1793506200000",
       "title": "Toyota estime avoir besoin de 400 000 robots pour son projet d’usines automatisées",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2530,7 +2580,58 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1793543954000",
+      "id": "lenergeek-rss-0-1793564982000",
+      "title": "Transformateurs électriques : Washington ouvre 237 millions de dollars pour sécuriser ses réseaux",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/01/transformateurs-reseaux-electriques-etats-unis-237-millions-grid-scaled-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/d2c21caf-transformateurs-electriques-etats-unis.png",
+      "date": "2026-11-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Le département américain de l’Énergie a ouvert, le 30 octobre, un appel à projets de 237 millions de dollars consacré aux équipements des réseaux électriques. L’objectif est de remettre en service du matériel existant et de développer des composants fabriqués aux États-Unis, dans…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1793558535000",
+      "title": "Pétrole : l’OPEP+ maintient ses quotas pour décembre malgré un Brent proche de 118 dollars",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/01/petrole-opep-quotas-decembre-2026-brent-118-dollars/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/953f6e65-opep-quotas-decembre-2026.png",
+      "date": "2026-11-01",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Carbone",
+        "Économie du bâtiment"
+      ],
+      "summary": "Réunis le 1er novembre, sept producteurs de l’OPEP+ ont reconduit leurs objectifs de production pour décembre 2026. Le statu quo intervient alors que les exportations restent perturbées au Moyen-Orient et que le marché attend les arbitrages décisifs sur les quotas de 2027. L’arti…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1793543954000",
       "title": "Électricité : trois arrêtés fixent les règles de l’enchère de capacité 2030-2031",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2555,7 +2656,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1793539809000",
+      "id": "lenergeek-rss-3-1793539809000",
       "title": "Gaz : l’Allemagne manque ses objectifs de stockage au 1er novembre, une nouvelle obligation réclamée",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2581,7 +2682,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1793533557000",
+      "id": "lenergeek-rss-4-1793533557000",
       "title": "Gaz : l’Allemagne aborde novembre avec 61 % de stocks et veut revoir les règles de remplissage",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2606,7 +2707,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1793517658000",
+      "id": "lenergeek-rss-5-1793517658000",
       "title": "En 1856, un étudiant de 18 ans a tenté de produire de la quinine, mais il a découvert un colorant qui a révolutionné l’industrie textile",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2630,7 +2731,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1793515824000",
+      "id": "lenergeek-rss-6-1793515824000",
       "title": "Les chiens errants de Tchernobyl ont développé des gènes que les généticiens n’avaient jamais vus : « ils se sont adaptés à la fin du monde »",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2655,7 +2756,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1793514823000",
+      "id": "lenergeek-rss-7-1793514823000",
       "title": "Inde : le charbon bondit de 25,7 % malgré une forte hausse du solaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2681,7 +2782,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1793514017000",
+      "id": "lenergeek-rss-8-1793514017000",
       "title": "La Chine envoie un navire géant au bout du monde pour bâtir le plus long pont d’Amérique du Sud : les ingénieurs locaux n’en reviennent pas",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2707,7 +2808,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1793511656000",
+      "id": "lenergeek-rss-9-1793511656000",
       "title": "Électricité : le nouveau mécanisme de capacité couvre son premier hiver à partir du 1er novembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2732,7 +2833,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1793502975000",
+      "id": "lenergeek-rss-10-1793502975000",
       "title": "Gaz et GNL : les nouvelles déclarations REMIT précisent les délais des transactions de gros",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2757,7 +2858,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1793500621000",
+      "id": "lenergeek-rss-11-1793500621000",
       "title": "Solaire en Corse et outre-mer : la CRE ouvre 148,6 MWc à la concurrence pour janvier 2027",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2781,7 +2882,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1793497855000",
+      "id": "lenergeek-rss-12-1793497855000",
       "title": "Énergies renouvelables : l’Inde cherche 220 milliards de dollars pour tenir son cap de 2030",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2807,7 +2908,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1793551258000",
+      "id": "le-commerce-du-bois-sitemap-0-1793575609000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2833,7 +2934,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1793551258000",
+      "id": "le-commerce-du-bois-sitemap-1-1793575609000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2859,7 +2960,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1793551258000",
+      "id": "le-commerce-du-bois-sitemap-2-1793575609000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3209,7 +3310,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1793488200000",
+      "id": "enerzine-rss-6-1793488200000",
       "title": "Lumina, une simulation cosmique à l’échelle de 1,5 milliard d’années-lumière",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3233,7 +3334,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1793473620000",
+      "id": "enerzine-rss-7-1793473620000",
       "title": "Belgique : une vignette numérique prévue en mai 2027. Ce que paieraient les automobilistes français",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3258,7 +3359,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1793460436000",
+      "id": "enerzine-rss-8-1793460436000",
       "title": "Livret A à 30 000 euros : les 7 050 euros de versements supplémentaires pourraient financer les lycées",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3283,7 +3384,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1793452114000",
+      "id": "enerzine-rss-9-1793452114000",
       "title": "Gazole : E.Leclerc annonce 21 centimes de moins par litre dès le 1er novembre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3308,57 +3409,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1793436000000",
-      "title": "L’Assemblée national vote une taxe de 5,5 centimes par Go, mais qui paiera vraiment ?",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/taxe-gigaoctet-assemblee-qui-paiera/198967-2026-10",
-      "image": null,
-      "date": "2026-10-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Onze voix contre dix. Vendredi 30 octobre, dans un hémicycle clairsemé, les députés ont adopté un amendement qui prévoit de taxer les données envoyées aux internautes français. Les fournisseurs de contenus, et non leurs abonnés, devraient acquitter 5,5 centimes par gigaoctet tran…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1793427000000",
-      "title": "L’UE devrait investir environ 70 milliards d’euros par an dans l’adaptation climatique d’ici 2050",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/lue-devrait-investir-environ-70-milliards-deuros-par-an-dans-ladaptation-climatique-dici-2050/198695-2026-10",
-      "image": null,
-      "date": "2026-10-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "La Commission européenne juge que la réduction des émissions ne suffira pas, à elle seule, à protéger les Européens des phénomènes météorologiques extrêmes. Le paquet d’adaptation présenté ne prévoit toutefois aucun financement supplémentaire. Le commissaire au Climat Wopke Hoeks…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-11-1793489341000",
+      "id": "lenergeek-rss-13-1793489341000",
       "title": "Nucléaire : le Ghana annonce un projet de 2 000 MW avec la Russie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3382,7 +3433,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1793472218000",
+      "id": "lenergeek-rss-14-1793472218000",
       "title": "Afrique : une nouvelle banque de l’énergie voit le jour avec 5 milliards de dollars de capital autorisé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3406,7 +3457,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1793468293000",
+      "id": "lenergeek-rss-15-1793468293000",
       "title": "Certificats d’économies d’énergie : les acheteurs soumis à de nouvelles vérifications dès le 1er novembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3432,7 +3483,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1793464585000",
+      "id": "lenergeek-rss-16-1793464585000",
       "title": "Biométhane : la CRE actualise les coefficients de dégressivité avant le trimestre tarifaire de novembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3457,7 +3508,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1793464438000",
+      "id": "lenergeek-rss-17-1793464438000",
       "title": "Royaume-Uni : les futurs parcs éoliens en mer devront prouver leur effet sur les factures",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3483,7 +3534,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1793459828000",
+      "id": "lenergeek-rss-18-1793459828000",
       "title": "Diesel : l’Europe accélère la sortie de 42,6 millions de barils de ses réserves avant fin janvier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3507,7 +3558,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1793452680000",
+      "id": "lenergeek-rss-19-1793452680000",
       "title": "Trêve hivernale : six exceptions permettent l’expulsion malgré la protection hivernale",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3533,7 +3584,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1793450630000",
+      "id": "lenergeek-rss-20-1793450630000",
       "title": "BP engrange 8,46 milliards de dollars, mais déprécie lourdement ses actifs solaires et éoliens",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3557,7 +3608,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1793445218000",
+      "id": "lenergeek-rss-21-1793445218000",
       "title": "Batteries et réseaux : la France relance les projets de métaux critiques jusqu’au 23 février 2027",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3583,7 +3634,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1793442596000",
+      "id": "lenergeek-rss-22-1793442596000",
       "title": "E-méthanol : un projet de 48 000 tonnes par an au Québec vise aussi le marché européen",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3608,7 +3659,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1793439189000",
+      "id": "lenergeek-rss-23-1793439189000",
       "title": "Éolien : un nouveau record de couverture de la consommation électrique française à 51,1 %",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3629,57 +3680,6 @@
         "Eau"
       ],
       "summary": "Le 25 octobre 2026 à 4 h 15, la production éolienne a représenté l’équivalent de 51,1 % de la consommation électrique française, selon les chiffres publiés par RTE. Ce sommet ponctuel dépasse le précédent maximum de 2025 et éclaire le rôle croissant du vent dans l’équilibre du ré…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1793428922000",
-      "title": "En Inde, Engie met en service 450 MW de solaire et accélère sa stratégie de stockage",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/31/engie-inde-450-mw-solaire-khaba-khavda-stockage-octobre-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/94689d78-engie-solaire-inde-450-mw.png",
-      "date": "2026-10-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Engie a annoncé le 29 octobre la mise en service de deux centrales solaires en Inde, au Rajasthan et au Gujarat, totalisant 450 MW. Le groupe français y développe aussi des projets de batteries pour répondre aux besoins d’un réseau électrique en forte croissance. L’article En Ind…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1793421960000",
-      "title": "Électricité : Londres autorise Sea Link, un câble de 2 GW pour désengorger son réseau",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/10/31/royaume-uni-sea-link-cable-2-gw-reseau-electrique-octobre-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/10/d3c4cfbd-sea-link-cable-electrique.png",
-      "date": "2026-10-31",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le gouvernement britannique a autorisé le 30 octobre le projet Sea Link, une liaison électrique de 2 GW entre le Suffolk et le Kent, principalement sous-marine. Ce renforcement du réseau intérieur illustre les investissements nécessaires pour transporter l'électricité renouvelabl…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3806,263 +3806,6 @@
         "Bâtiment"
       ],
       "summary": "À l’occasion du Salon International du Patrimoine Culturel, la CAPEB met en lumière l’expertise des artisans du bâtiment et leur rôle essentiel dans la restauration du patrimoine, aux côtés des architectes et des collectivités locales. À l’occasion du Salon International du Patri…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-14-1793387520000",
-      "title": "Ille-et-Vilaine : ouverture du nouveau dépôt de bus de Baud-Chardonnet, à Rennes",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/vie-du-btp/ille-et-vilaine-ouverture-du-nouveau-depot-de-bus-de-baud-chardonnet-a-rennes.G6O2JNFG35CYFDTKQYMUPO3FU4.html",
-      "image": null,
-      "date": "2026-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché",
-        "Eau"
-      ],
-      "summary": "Ille-et-Vilaine : ouverture du nouveau dépôt de bus de Baud-Chardonnet, à Rennes",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-15-1793387381000",
-      "title": "Hérault : présentation du projet d’extension portuaire ZIFMAR 2 à Sète-Frontignan",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/vie-du-btp/herault-presentation-du-projet-dextension-portuaire-zifmar-2-a-sete-frontignan.TPVLYBXPJRE6LOXVOPVG5PNLBA.html",
-      "image": null,
-      "date": "2026-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché"
-      ],
-      "summary": "Hérault : présentation du projet d’extension portuaire ZIFMAR 2 à Sète-Frontignan",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-16-1793387090000",
-      "title": "Hauts-de-Seine : mise en service du collège Charlotte-Delbo à Malakoff",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/vie-du-btp/hauts-de-seine-mise-en-service-du-college-charlotte-delbo-a-malakoff.J6M7QVXDWBGNFCSUK7VLOV2KRM.html",
-      "image": null,
-      "date": "2026-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché"
-      ],
-      "summary": "Hauts-de-Seine : mise en service du collège Charlotte-Delbo à Malakoff",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-17-1793385994000",
-      "title": "Haute-Garonne : un nouveau tronçon du Réseau express vélo 2 entre Pompertuzat et Deyme",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/vie-du-btp/haute-garonne-un-nouveau-troncon-du-reseau-express-velo-2-entre-pompertuzat-et-deyme.ABSLOH5UHRCJVKGNHRAYXKVV2M.html",
-      "image": null,
-      "date": "2026-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché",
-        "Eau"
-      ],
-      "summary": "Haute-Garonne : un nouveau tronçon du Réseau express vélo 2 entre Pompertuzat et Deyme",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-18-1793384924000",
-      "title": "Haute-Garonne : réouverture du pont historique de Saint-Martory après deux ans de restauration",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/occitanie/haute-garonne/haute-garonne-reouverture-du-pont-historique-de-saint-martory-apres-deux-ans-de-restauration.SB2COCEP4VEX3APHJ23SPJG2YU.html",
-      "image": null,
-      "date": "2026-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché"
-      ],
-      "summary": "Haute-Garonne : réouverture du pont historique de Saint-Martory après deux ans de restauration",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-19-1793383988000",
-      "title": "Bouches-du-Rhône : réouverture du sémaphore de Callelongue rénové à Marseille",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/vie-du-btp/bouches-du-rhone-reouverture-du-semaphore-de-callelongue-renove-a-marseille.DO6XDIN5ABEXPNAPDWDJNYW34E.html",
-      "image": null,
-      "date": "2026-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché"
-      ],
-      "summary": "Bouches-du-Rhône : réouverture du sémaphore de Callelongue rénové à Marseille",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-20-1793383883000",
-      "title": "Bas-Rhin : un nouveau parc sportif et de loisirs attendu au printemps 2027, à Eckwersheim",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/vie-du-btp/bas-rhin-un-nouveau-parc-sportif-et-de-loisirs-attendu-au-printemps-2027-a-eckwersheim.44AFPOTKE5BATDCLXLUQBPS5AE.html",
-      "image": null,
-      "date": "2026-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché",
-        "Eau"
-      ],
-      "summary": "Bas-Rhin : un nouveau parc sportif et de loisirs attendu au printemps 2027, à Eckwersheim",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-21-1793383546000",
-      "title": "Alpes-Maritimes : une centrale photovoltaïque en ombrière à L’Escarène",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/vie-du-btp/alpes-maritimes-une-centrale-photovoltaique-en-ombriere-a-lescarene.AZV5R3BBVNCGLF4FRLEAHJB7ME.html",
-      "image": null,
-      "date": "2026-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché",
-        "Énergie"
-      ],
-      "summary": "Alpes-Maritimes : une centrale photovoltaïque en ombrière à L’Escarène",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-22-1793383200000",
-      "title": "A Nantes, la Halle de Feltre, une ancienne patinoire devenue un magasin C&A, est rachetée par le groupe rennais Vicartem et va renaître avec l’agence Unité",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/vie-du-btp/nantes-la-halle-de-feltre-se-devoile-a-nouveau.C6OD4XIJMZOLNEVX6RUMEONWWA.html",
-      "image": "https://www.lemoniteur.fr/resizer/v2//BMH7OFJCFJHJXCOTOP2FIGNALU.jpg?auth=ebbfd4056913d650bb9d395471ab15ea3f35cc68bb911350b26cf6d0567765b8&smart=true&width=1180&height=686",
-      "date": "2026-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché"
-      ],
-      "summary": "Le groupe immobilier rennais Vicartem a acquis la halle de Feltre, au cœur de Nantes, aux côtés de la Banque des territoires et d’investisseurs privés. Le site a eu plusieurs vies. Le groupe immobilier rennais Vicartem a acquis la halle de Feltre, au cœur de Nantes, aux côtés de …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-23-1793382324000",
-      "title": "Ain : restauration de la tour de Montverd à Lagnieu",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/vie-du-btp/ain-restauration-de-la-tour-de-montverd-a-lagnieu.AL7MCLVD5VHTHGOGB4ZZXH5E24.html",
-      "image": null,
-      "date": "2026-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché"
-      ],
-      "summary": "Ain : restauration de la tour de Montverd à Lagnieu",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-24-1793382200000",
-      "title": "Nord : réaménagement de la RD936 à Cerfontaine",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/hauts-de-france/nord/nord-reamenagement-de-la-rd936-a-cerfontaine.53OVQQ355ZADPMNPXE5JDWEQUQ.html",
-      "image": null,
-      "date": "2026-10-30",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché"
-      ],
-      "summary": "Nord : réaménagement de la RD936 à Cerfontaine",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4260,13 +4003,13 @@
     },
     {
       "id": "batiweb-rss-8-1793318700000",
-      "title": "ANNIVERSAIRE CADENCE : 10ans de façades rythmées",
+      "title": "Industrie : la production de chaudières électriques jusqu’à 1 400 kW s’accélère",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/anniversaire-cadence-10-ans-facades-rythmees-49491",
-      "image": "https://img.batiweb.com/repo-images/publi/49491/atelier3s-11-02-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/industrie-production-chaudieres-electriques-1400-kw-49509",
+      "image": "https://img.batiweb.com/repo-images/publi/49509/charot-11-02-une.jpg",
       "date": "2026-10-30",
       "access": "open",
       "official": false,
@@ -4277,7 +4020,7 @@
         "Produits",
         "Marché"
       ],
-      "summary": "En complément des célèbres collections aléatoires carrée et triangle, les ATELIERS 3S lancent 2 nouvelles séries à composer : COCKTAIL et REVERSE. En complément des célèbres collections aléatoires carrée et triangle, les ATELIERS 3S lancent 2 nouvelles séries à composer : COCKTAI…",
+      "summary": "La politique énergétique du pays et de l’Europe souhaite l’accélération de l’électrification de tous les usages, y compris en génie climatique. La politique énergétique du pays et de l’Europe souhaite l’accélération de l’électrification de tous les usages, y compris en génie clim…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4307,13 +4050,13 @@
     },
     {
       "id": "batiweb-rss-10-1793318700000",
-      "title": "Industrie : la production de chaudières électriques jusqu’à 1 400 kW s’accélère",
+      "title": "ANNIVERSAIRE CADENCE : 10ans de façades rythmées",
       "source": "Batiweb",
       "sourceId": "batiweb",
       "sourceType": "Presse spécialisée",
       "region": "National",
-      "url": "https://www.batiweb.com/actualites/publi-redactionnels/industrie-production-chaudieres-electriques-1400-kw-49509",
-      "image": "https://img.batiweb.com/repo-images/publi/49509/charot-11-02-une.jpg",
+      "url": "https://www.batiweb.com/actualites/publi-redactionnels/anniversaire-cadence-10-ans-facades-rythmees-49491",
+      "image": "https://img.batiweb.com/repo-images/publi/49491/atelier3s-11-02-une.jpg",
       "date": "2026-10-30",
       "access": "open",
       "official": false,
@@ -4324,7 +4067,7 @@
         "Produits",
         "Marché"
       ],
-      "summary": "La politique énergétique du pays et de l’Europe souhaite l’accélération de l’électrification de tous les usages, y compris en génie climatique. La politique énergétique du pays et de l’Europe souhaite l’accélération de l’électrification de tous les usages, y compris en génie clim…",
+      "summary": "En complément des célèbres collections aléatoires carrée et triangle, les ATELIERS 3S lancent 2 nouvelles séries à composer : COCKTAIL et REVERSE. En complément des célèbres collections aléatoires carrée et triangle, les ATELIERS 3S lancent 2 nouvelles séries à composer : COCKTAI…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5573,157 +5316,6 @@
         "Économie du bâtiment"
       ],
       "summary": "Est Ensemble lance un accord-cadre de prestations intellectuelles en deux lots pour accompagner les évolutions de son plan local d’urbanisme intercommunal, dans le cadre fixé par la loi Huwart. Une modification n° 4 est déjà à l’étude. Est Ensemble lance un accord-cadre de presta…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "la-gazette-des-communes-rss-5-1793382286000",
-      "title": "Les policiers municipaux sur le qui-vive à l’approche des mobilisations sociales du 31 octobre",
-      "source": "La Gazette des Communes",
-      "sourceId": "la-gazette-des-communes",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lagazettedescommunes.com/club-prevention-securite/police-municipale-et-securite-publique/police-municipale/les-policiers-municipaux-sur-le-qui-vive-a-lapproche-des-mobilisations-sociales-du-31-octobre.3GRKOTPFIZH3TPBWNOYMDCQBT4.html",
-      "image": "https://www.lagazettedescommunes.com/resizer/v2//VRDWDITBOBPZ5BIOMU7Y5RN3HQ.jpg?auth=012f4b85dcf2cadd88ae8d7a9a1d7fd6250089dd8786e1050bb9e48445d7472d&smart=true&width=1000&height=664",
-      "date": "2026-10-30",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Collectivités",
-        "Urbanisme",
-        "Commande publique",
-        "Rénovation publique"
-      ],
-      "summary": "Les policiers municipaux sur le qui-vive à l’approche des mobilisations sociales du 31 octobre",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "la-gazette-des-communes-rss-6-1793381788000",
-      "title": "David Lisnard : « Les communes sont menacées par le conformisme technocratique »",
-      "source": "La Gazette des Communes",
-      "sourceId": "la-gazette-des-communes",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lagazettedescommunes.com/etat-et-collectivites/democratie-locale/congres-des-maires/david-lisnard-les-communes-sont-menacees-par-le-conformisme-technocratique.TVZKQRENW5HYZDTOL4TOQKPTMU.html",
-      "image": "https://www.lagazettedescommunes.com/resizer/v2//AURELK5SBBN5RA5WCFFIF27TQE.jpg?auth=b4dc7e8ab8907435b0c294e0c57eb2133ea6eb87e4eda6b36ab7303064ae51d5&smart=true&width=600&height=400",
-      "date": "2026-10-30",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Collectivités",
-        "Urbanisme",
-        "Commande publique",
-        "Rénovation publique"
-      ],
-      "summary": "David Lisnard : « Les communes sont menacées par le conformisme technocratique »",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "la-gazette-des-communes-rss-7-1793381425000",
-      "title": "La fréquentation des bibliothèques vole de record en record",
-      "source": "La Gazette des Communes",
-      "sourceId": "la-gazette-des-communes",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lagazettedescommunes.com/culture/les-bibliotheques-volent-de-record-en-record.HWGMYEVCTVFUNDFDKLPJHUX3KU.html",
-      "image": "https://www.lagazettedescommunes.com/resizer/v2//OZPXKRIVEVIRROAGLSDNNEMU6E.jpg?auth=27326d0402d29265329cc8fbbc129d498f57e127a817af26be819ee7754177b5&smart=true&width=600&height=400",
-      "date": "2026-10-30",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Collectivités",
-        "Urbanisme",
-        "Commande publique",
-        "Rénovation publique"
-      ],
-      "summary": "La fréquentation des bibliothèques vole de record en record",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "la-gazette-des-communes-rss-8-1793381178000",
-      "title": "Nombre d’usagers inscrits dans les bibliothèques accueillant du public pour le prêt pour 2026",
-      "source": "La Gazette des Communes",
-      "sourceId": "la-gazette-des-communes",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lagazettedescommunes.com/culture/biblioteques-mediatheques/nombre-dusagers-inscrits-dans-les-bibliotheques-accueillant-du-public-pour-le-pret-pour-2026.P76OWONNEFDHPKLX4TUMFZNBDQ.html",
-      "image": null,
-      "date": "2026-10-30",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Collectivités",
-        "Urbanisme",
-        "Commande publique",
-        "Rénovation publique"
-      ],
-      "summary": "Nombre d’usagers inscrits dans les bibliothèques accueillant du public pour le prêt pour 2026",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "la-gazette-des-communes-rss-9-1793379238000",
-      "title": "Commande publique : la nomenclature interne, un outil de pilotage et de sécurisation",
-      "source": "La Gazette des Communes",
-      "sourceId": "la-gazette-des-communes",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lagazettedescommunes.com/juridique/commande-publique/commande-publique-la-nomenclature-interne-un-outil-de-pilotage-et-de-securisation.RKEC4FJE2FKCXEMROFYHCW66DM.html",
-      "image": "https://www.lagazettedescommunes.com/resizer/v2//2JTG6NGIKVJBPKIB5XMP6LAFRA.jpg?auth=3b405a3c762f023d42ec50e5896cbe5ead4cbcc57227b5f68a1f5e82f3726118&smart=true&width=600&height=400",
-      "date": "2026-10-30",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Collectivités",
-        "Urbanisme",
-        "Commande publique",
-        "Rénovation publique"
-      ],
-      "summary": "Commande publique : la nomenclature interne, un outil de pilotage et de sécurisation",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "la-gazette-des-communes-rss-10-1793379125000",
-      "title": "Un nouveau duel David Lisnard-Philippe Laurent pour la présidence de l’AMF",
-      "source": "La Gazette des Communes",
-      "sourceId": "la-gazette-des-communes",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lagazettedescommunes.com/etat-et-collectivites/democratie-locale/elu-local/un-nouveau-duel-david-lisnard-philippe-laurent-pour-la-presidence-de-lamf.ET4I7EYUE5FWFKPNOYQZD72Z2U.html",
-      "image": "https://www.lagazettedescommunes.com/resizer/v2//UP7VAVA3OVJ3DAMKDIADZP66WE.jpg?auth=e8fd095d8c744b115ba928fcbd059e566f6f44a5e1653398f738243372a93579&smart=true&width=600&height=401",
-      "date": "2026-10-30",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Collectivités",
-        "Urbanisme",
-        "Commande publique",
-        "Rénovation publique",
-        "Eau"
-      ],
-      "summary": "Un nouveau duel David Lisnard-Philippe Laurent pour la présidence de l’AMF",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
