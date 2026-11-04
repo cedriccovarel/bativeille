@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-11-03T17:39:48.658Z",
+  "generatedAt": "2026-11-04T00:30:02.357Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1793752235000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-11-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1793752235000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-11-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1793752235000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-11-04",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1793710801000",
       "title": "Avis de parution",
       "source": "SDES — Données et études statistiques",
@@ -2457,7 +2535,76 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-moniteur-rss-0-1793725145000",
+      "id": "le-moniteur-rss-0-1793731500000",
+      "title": "Un ancien de Spie Batignolles et du groupe Snef pour diriger BTB Génie Electrique & Services, filiale de GCC Energie",
+      "source": "Le Moniteur",
+      "sourceId": "le-moniteur",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.lemoniteur.fr/vie-du-btp/entreprises/un-ancien-de-spie-batignolles-et-du-groupe-snef-pour-diriger-btb-genie-electrique-services-filiale-de-gcc-energie.PYKYWZQ65VGD3PCBAG5KA4WYRI.html",
+      "image": "https://www.lemoniteur.fr/resizer/v2//3FGZMBOBFFF45GBJF24E7XRF4M.jpg?auth=dbc1ff4da35912ff75eed2a6127a57ccdd57f487089a5e4d1f212f44a263b285&smart=true&width=850&height=579",
+      "date": "2026-11-03",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Réglementation",
+        "Marché"
+      ],
+      "summary": "Un ancien de Spie Batignolles et du groupe Snef pour diriger BTB Génie Electrique & Services, filiale de GCC Energie",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-moniteur-rss-1-1793729548000",
+      "title": "A Poitiers, la huitième édition de la Biennale des Maisons de l’architecture met la mémoire au service de la transition écologique",
+      "source": "Le Moniteur",
+      "sourceId": "le-moniteur",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.lemoniteur.fr/architecture/culture/a-poitiers-la-huitieme-edition-de-la-biennale-des-maisons-de-larchitecture-met-la-memoire-au-service-de-la-transition-ecologique.XGVKVZJSCBC4XB424K6S3YQ37U.html",
+      "image": "https://www.lemoniteur.fr/resizer/v2//HUKSONJWFNGVRLQPJZCDPRJOSQ.jpg?auth=1769ceeee13f7c81ddd3a6ca3ff2917f35e431409985057e6c05c2188ba87d67&smart=true&width=2000&height=1333",
+      "date": "2026-11-03",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Réglementation",
+        "Marché"
+      ],
+      "summary": "A Poitiers, la huitième édition de la Biennale des Maisons de l’architecture met la mémoire au service de la transition écologique",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-moniteur-rss-2-1793729491000",
+      "title": "Immobilier : Sogaris confirme son directeur général après plusieurs mois d’intérim et engage une nouvelle étape de sa feuille de route 2025-2035",
+      "source": "Le Moniteur",
+      "sourceId": "le-moniteur",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.lemoniteur.fr/immobilier/tertiaire/immobilier-sogaris-confirme-son-directeur-general-apres-plusieurs-mois-dinterim-et-engage-une-nouvelle-etape-de-sa-feuille-de-route-2025-2035.HKHLEJO3I5EL7M4SQ5Y3W7I3DY.html",
+      "image": "https://www.lemoniteur.fr/resizer/v2//WPA6YCVB65FZXGXYIQE63BJJZA.jpg?auth=9bc38ff6b7cae66ba3a6675dc50cdf8322c9b08626d3a924a58270ec4f5643d3&smart=true&width=850&height=562",
+      "date": "2026-11-03",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Construction",
+        "Réglementation",
+        "Marché"
+      ],
+      "summary": "Immobilier : Sogaris confirme son directeur général après plusieurs mois d’intérim et engage une nouvelle étape de sa feuille de route 2025-2035",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-moniteur-rss-3-1793725145000",
       "title": "Après les aides à la rénovation des bâtiments publics et des passoires thermiques, le gouvernement suspend le fonds chaleur au nom de la rigueur budgétaire",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2482,7 +2629,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-1-1793724370000",
+      "id": "le-moniteur-rss-4-1793724370000",
       "title": "L’Ademe soutient le développement d’un chariot télescopique à hydrogène à stockage solide visant à décarboner la manutention",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2506,7 +2653,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-2-1793722736000",
+      "id": "le-moniteur-rss-5-1793722736000",
       "title": "Sur la ligne 15 ouest du Grand Paris Express, le chantier des parois moulées de la future gare de Saint-Cloud a dû se glisser dans un mouchoir de poche",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2530,7 +2677,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-3-1793722595000",
+      "id": "le-moniteur-rss-6-1793722595000",
       "title": "Parc-cimetière : apprivoiser l’adieu à travers le paysage",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2553,7 +2700,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-4-1793722553000",
+      "id": "le-moniteur-rss-7-1793722553000",
       "title": "« Végétaliser un cimetière ramène une forme de sacralité, quelles que soient ses croyances »",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2577,7 +2724,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-5-1793722503000",
+      "id": "le-moniteur-rss-8-1793722503000",
       "title": "Equipements funéraires : les architectes et les paysagistes réalisent des sépultures de plus en plus en rapport avec la nature",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2601,7 +2748,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-6-1793722159000",
+      "id": "le-moniteur-rss-9-1793722159000",
       "title": "Sélection de projets à surveiller dans votre région : Sud-Ouest",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2625,7 +2772,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-7-1793722133000",
+      "id": "le-moniteur-rss-10-1793722133000",
       "title": "Centre hospitalier universitaire de Toulouse (31)",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2648,7 +2795,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-8-1793722073000",
+      "id": "le-moniteur-rss-11-1793722073000",
       "title": "Innovation : dans la Vienne, l’entreprise générale du bâtiment Moreau-Lathus simplifie la construction en béton de chanvre",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2674,7 +2821,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-9-1793722028000",
+      "id": "le-moniteur-rss-12-1793722028000",
       "title": "Sélection de projets à surveiller dans votre région : Méditerranée",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2698,7 +2845,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-10-1793721981000",
+      "id": "le-moniteur-rss-13-1793721981000",
       "title": "Lauréat de la Pyramide d’argent « rénovation-extension » d’Occitanie-Méditerranée, le programme E-Campus Kodama s’impose comme un modèle de sobriété foncière",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2723,7 +2870,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-11-1793721802000",
+      "id": "le-moniteur-rss-14-1793721802000",
       "title": "Aix-Marseille-Provence : un budget né dans la souffrance",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2746,7 +2893,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-12-1793721760000",
+      "id": "le-moniteur-rss-15-1793721760000",
       "title": "Rénovation des lycées : en Provence-Alpes-Côte d’Azur, les chantiers rimeront avec performance énergétique, adaptation au changement climatique et transition numérique",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2771,7 +2918,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-13-1793721667000",
+      "id": "le-moniteur-rss-16-1793721667000",
       "title": "Communauté de communes Cœur de Savoie(Montmélian, 73)",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2794,7 +2941,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-14-1793721620000",
+      "id": "le-moniteur-rss-17-1793721620000",
       "title": "Métropole lilloise : l’AMI des arbres",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2817,7 +2964,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-15-1793721600000",
+      "id": "le-moniteur-rss-18-1793721600000",
       "title": "Montpellier : le CSR en question",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2840,7 +2987,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-16-1793721586000",
+      "id": "le-moniteur-rss-19-1793721586000",
       "title": "Rhône : la FBTP éveille les plus jeunes à ses métiers",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2863,7 +3010,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-17-1793721539000",
+      "id": "le-moniteur-rss-20-1793721539000",
       "title": "Auvergne-Rhône-Alpes : un master pour des réseaux électriques durables",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2888,7 +3035,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-18-1793721503000",
+      "id": "le-moniteur-rss-21-1793721503000",
       "title": "Comment la municipalité du Puy-en-Velay entend faciliter le cheminement du public vers Notre-Dame de France, le site le plus visité de la Haute-Loire",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2911,7 +3058,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-19-1793719777000",
+      "id": "le-moniteur-rss-22-1793719777000",
       "title": "Signé PCA-Stream, le Centre Pompidou francilien prend ses quartiers à proximité de la future station Massy-Opéra de la ligne 18 du Grand Paris Express",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2934,7 +3081,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-20-1793719339000",
+      "id": "le-moniteur-rss-23-1793719339000",
       "title": "Equerre d’argent 2026 : les cinq opérations nommées dans la catégorie «Première œuvre»",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2957,7 +3104,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-21-1793719328000",
+      "id": "le-moniteur-rss-24-1793719328000",
       "title": "Equerre d’argent 2026 : les quatre opérations nommées dans la catégorie «Habitat»",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -2980,7 +3127,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-22-1793719290000",
+      "id": "le-moniteur-rss-25-1793719290000",
       "title": "Equerre d’argent 2026 : les quatre opérations nommées dans la catégorie «Espaces publics et paysagers»",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3003,7 +3150,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-23-1793718474000",
+      "id": "le-moniteur-rss-26-1793718474000",
       "title": "A Villeurbanne, la pose de la première pierre du programme Egérie témoigne de l’avancée de la ZAC Gratte-Ciel Centre-Ville",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3026,7 +3173,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-24-1793718408000",
+      "id": "le-moniteur-rss-27-1793718408000",
       "title": "Région Bourgogne-Franche-Comté(Besançon, 25)",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3051,7 +3198,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-25-1793718392000",
+      "id": "le-moniteur-rss-28-1793718392000",
       "title": "A Troyes, la nouvelle école internationale ouverte sur le monde se fait aussi lieu central et totem de son quartier d’implantation",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3075,7 +3222,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-26-1793718375000",
+      "id": "le-moniteur-rss-29-1793718375000",
       "title": "Bas-Rhin : la friche Heineken en consultation à Schiltigheim",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3098,7 +3245,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-27-1793718341000",
+      "id": "le-moniteur-rss-30-1793718341000",
       "title": "Les prix Envirobat et Construction bois Grand Est ont épousé les tendances successives du développement durable au fil de leurs 20 ans d’âge",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3123,7 +3270,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-28-1793718244000",
+      "id": "le-moniteur-rss-31-1793718244000",
       "title": "Métropole de Rouen : la démocratie locale primée",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3146,7 +3293,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-29-1793718222000",
+      "id": "le-moniteur-rss-32-1793718222000",
       "title": "Lille : les étudiants évaluent la rue",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3169,7 +3316,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-30-1793718211000",
+      "id": "le-moniteur-rss-33-1793718211000",
       "title": "Métropole lilloise : le bureau réanimé",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3194,7 +3341,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-31-1793718207000",
+      "id": "le-moniteur-rss-34-1793718207000",
       "title": "Normandie : des champions en béton",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3217,7 +3364,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-32-1793718184000",
+      "id": "le-moniteur-rss-35-1793718184000",
       "title": "Le projet de règlement européen sur les marchés publics et les concessions pourrait remettre en cause l’achat vert à la française",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3241,7 +3388,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-33-1793718156000",
+      "id": "le-moniteur-rss-36-1793718156000",
       "title": "ArcelorMittal, le plus gros émetteur de CO2 de France, décarbone deux usines nordistes",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3265,7 +3412,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-34-1793718140000",
+      "id": "le-moniteur-rss-37-1793718140000",
       "title": "Oise : ça colle vert pour Evertree",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3289,7 +3436,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-35-1793718100000",
+      "id": "le-moniteur-rss-38-1793718100000",
       "title": "Ce lycée de Seine-Maritime est doté d’un nouveau gymnase proposant mur d’escalade et salle de musculation",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3314,7 +3461,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-36-1793718055000",
+      "id": "le-moniteur-rss-39-1793718055000",
       "title": "Sélection de projets à surveiller dans votre région : Ouest • Centre",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3338,7 +3485,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-37-1793718040000",
+      "id": "le-moniteur-rss-40-1793718040000",
       "title": "Ville de Saint-Gilles-Croix-de-Vie (85)",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3362,7 +3509,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-38-1793718005000",
+      "id": "le-moniteur-rss-41-1793718005000",
       "title": "Nantes : le Cneaf réunit ses adhérents pour son 56e congrès",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3386,7 +3533,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-39-1793717973000",
+      "id": "le-moniteur-rss-42-1793717973000",
       "title": "GCC Pays de la Loire se transforme au profit de deux entités spécialisées",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3410,7 +3557,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-40-1793717954000",
+      "id": "le-moniteur-rss-43-1793717954000",
       "title": "A Orléans, les 20 bâtiments de cette résidence de logements sociaux abandonnent le gaz pour la géothermie sur nappe",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3434,7 +3581,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-41-1793717924000",
+      "id": "le-moniteur-rss-44-1793717924000",
       "title": "Sélection de projets à surveiller dans votre région : Grand Paris • Ile-de-France",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3458,7 +3605,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-42-1793717913000",
+      "id": "le-moniteur-rss-45-1793717913000",
       "title": "AB-Habitat (Bezons, 95)",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3481,7 +3628,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-43-1793717884000",
+      "id": "le-moniteur-rss-46-1793717884000",
       "title": "Val-de-Marne : Mixité d’usages à Joinville-le-Pont",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3505,7 +3652,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-44-1793717871000",
+      "id": "le-moniteur-rss-47-1793717871000",
       "title": "Yvelines : un transformateur convoyé depuis l’Allemagne",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3528,7 +3675,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-45-1793717859000",
+      "id": "le-moniteur-rss-48-1793717859000",
       "title": "Val-de-Marne : financement participatif de réseau de chaleur",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3554,7 +3701,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-46-1793717850000",
+      "id": "le-moniteur-rss-49-1793717850000",
       "title": "Ile-de-France : un AMI pour valoriser des fonciers cachés",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3578,7 +3725,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-47-1793717835000",
+      "id": "le-moniteur-rss-50-1793717835000",
       "title": "Seine-et-Marne : la FFB locale a deux nouveaux présidents",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3602,7 +3749,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-48-1793717803000",
+      "id": "le-moniteur-rss-51-1793717803000",
       "title": "Où en sont les 68 pôles d’échanges du Grand Paris Express, ces aménagements urbains réalisés dans un périmètre de 300 mètres autour des gares ?",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3625,7 +3772,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-49-1793717788000",
+      "id": "le-moniteur-rss-52-1793717788000",
       "title": "A l’aéroport d’Orly, un groupement mené par Colas mène plusieurs chantiers pour un montant de 100 millions d’euros",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3649,7 +3796,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-50-1793717766000",
+      "id": "le-moniteur-rss-53-1793717766000",
       "title": "Prévention: comment Certigo vient élargir l’offre de formation de Socotec",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3672,7 +3819,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-51-1793717733000",
+      "id": "le-moniteur-rss-54-1793717733000",
       "title": "Matériel : HyLight accélère le décollage de ses dirigeables",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3696,7 +3843,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-52-1793717594000",
+      "id": "le-moniteur-rss-55-1793717594000",
       "title": "Logement : la vente HLM, cet indispensable levier financier pour construire",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3720,7 +3867,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-53-1793714372000",
+      "id": "le-moniteur-rss-56-1793714372000",
       "title": "Le soleil a rendez-vous avec l’atome",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3745,7 +3892,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-54-1793714311000",
+      "id": "le-moniteur-rss-57-1793714311000",
       "title": "Avec concessions",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3768,7 +3915,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-55-1793711100000",
+      "id": "le-moniteur-rss-58-1793711100000",
       "title": "Salon de la Copropriété et de l’Habitat 2026 : le Groupe Lorillard présentera un coulissant bois à relevage",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3794,7 +3941,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-56-1793710202000",
+      "id": "le-moniteur-rss-59-1793710202000",
       "title": "Val-de-Marne : projet de centrale géothermique à Villiers-sur-Marne pour 20 000 équivalents-logements",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3818,7 +3965,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-57-1793710160000",
+      "id": "le-moniteur-rss-60-1793710160000",
       "title": "Seine-Saint-Denis : inauguration d’une nouvelle maison de quartier à Livry-Gargan",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3841,7 +3988,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-58-1793710112000",
+      "id": "le-moniteur-rss-61-1793710112000",
       "title": "Pyrénées-Atlantiques : végétalisation de l’allée Lamartine à Pau",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3864,7 +4011,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-59-1793710068000",
+      "id": "le-moniteur-rss-62-1793710068000",
       "title": "Pyrénées-Atlantiques : un tiers-lieu de 700 m² inauguré à Banca",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3887,7 +4034,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-60-1793710028000",
+      "id": "le-moniteur-rss-63-1793710028000",
       "title": "Moselle : la place Catherine-Jacquat et l’école Notre-Dame de Metz en lice pour les Victoires du Paysage 2026",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3910,7 +4057,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-61-1793709951000",
+      "id": "le-moniteur-rss-64-1793709951000",
       "title": "Indre-et-Loire : inauguration d’une unité de bio-préparation des déchets alimentaires à La Riche",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3933,7 +4080,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-62-1793709020000",
+      "id": "le-moniteur-rss-65-1793709020000",
       "title": "Bas-Rhin : réaménagement des abords du stade de la Meinau et amélioration des mobilités urbaines, à Strasbourg",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3956,7 +4103,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-63-1793708982000",
+      "id": "le-moniteur-rss-66-1793708982000",
       "title": "Bas-Rhin : réaménagement de la rue Finkwiller, à Strasbourg, à partir de l’été 2027",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -3980,7 +4127,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-64-1793708938000",
+      "id": "le-moniteur-rss-67-1793708938000",
       "title": "Bas-Rhin : mise en service d’un bassin d’orage de 5 500 m³ à Mundolsheim",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4003,7 +4150,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-65-1793708900000",
+      "id": "le-moniteur-rss-68-1793708900000",
       "title": "Bas-Rhin : le groupe scolaire Adélaïde-Hautval inauguré à Oberhausbergen",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4026,7 +4173,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-66-1793708859000",
+      "id": "le-moniteur-rss-69-1793708859000",
       "title": "Bas-Rhin : lancement des travaux d’un futur pôle de santé à Lingolsheim",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4049,7 +4196,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-67-1793708816000",
+      "id": "le-moniteur-rss-70-1793708816000",
       "title": "Puy-de-Dôme : réhabilitation de la Maison du Bon-Pasteur, à Clermont-Ferrand",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4072,7 +4219,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-68-1793708773000",
+      "id": "le-moniteur-rss-71-1793708773000",
       "title": "Puy-de-Dôme : poursuite des travaux de la plate-forme logistique du SDIS 63, à Clermont-Ferrand",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4095,7 +4242,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-69-1793708731000",
+      "id": "le-moniteur-rss-72-1793708731000",
       "title": "Puy-de-Dôme : création d’un service de proximité avec l’ouverture du crématorium de Riom",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4118,7 +4265,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-70-1793708690000",
+      "id": "le-moniteur-rss-73-1793708690000",
       "title": "Puy-de-Dôme : de nouvelles bornes électriques pour l’aéroport de Clermont-Ferrand",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4141,7 +4288,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-71-1793707929000",
+      "id": "le-moniteur-rss-74-1793707929000",
       "title": "Eiffage va céder le contrat pour la gestion de la Decathlon Arena de Lille : une opération gagnant-gagnant pour mettre fin à un partenariat perdant-perdant ?",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4164,7 +4311,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-72-1793705084000",
+      "id": "le-moniteur-rss-75-1793705084000",
       "title": "Les entreprises de l’eau interpellent les candidats à la présidentielle sur « les retards d’investissements » et « la sécurisation du financement » des travaux de demain",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4189,7 +4336,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-73-1793703600000",
+      "id": "le-moniteur-rss-76-1793703600000",
       "title": "Le groupe Samse affiche une croissance de 3% au 3e trimestre 2026, tiré par son activité bricolage",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4212,7 +4359,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-74-1793702340000",
+      "id": "le-moniteur-rss-77-1793702340000",
       "title": "Piocher dans le Livret A pour financer le nucléaire ? Elus de gauche, associations et syndicats s’inquiètent pour la construction HLM et la rénovation du parc social",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4237,7 +4384,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-75-1793699887000",
+      "id": "le-moniteur-rss-78-1793699887000",
       "title": "Tout savoir sur l’Equerre d’argent 2026 : les réalisations nommées, la composition du jury",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4260,7 +4407,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-moniteur-rss-76-1793697659000",
+      "id": "le-moniteur-rss-79-1793697659000",
       "title": "Puy-de-Dôme : extension des locaux du Centre routier de Lezoux",
       "source": "Le Moniteur",
       "sourceId": "le-moniteur",
@@ -4279,77 +4426,6 @@ window.BATIVEILLE_DATA = {
         "Marché"
       ],
       "summary": "Puy-de-Dôme : extension des locaux du Centre routier de Lezoux",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-77-1793697610000",
-      "title": "Loire : un centre de secours de 3 000 m² en projet à Feurs",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/auvergne-rhone-alpes/loire/loire-un-centre-de-secours-de-3-000-m-en-projet-a-feurs.ZONKGL3CMFDONBYMXEELZ5TC4A.html",
-      "image": null,
-      "date": "2026-11-03",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 72,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché"
-      ],
-      "summary": "Loire : un centre de secours de 3 000 m² en projet à Feurs",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-78-1793697553000",
-      "title": "Loire : extension et rénovation thermique du groupe scolaire Cottencière à Saint-Étienne",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/auvergne-rhone-alpes/loire/loire-extension-et-renovation-thermique-du-groupe-scolaire-cottenciere-a-saint-etienne.PIBDEPPAFBCBLFJFDYHP3XWDVA.html",
-      "image": null,
-      "date": "2026-11-03",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché",
-        "Rénovation"
-      ],
-      "summary": "Loire : extension et rénovation thermique du groupe scolaire Cottencière à Saint-Étienne",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-moniteur-rss-79-1793697504000",
-      "title": "Loire : démolition et reconstruction du pont du chemin de la Prenarde à Saint-Jean-Soleymieux",
-      "source": "Le Moniteur",
-      "sourceId": "le-moniteur",
-      "sourceType": "Presse spécialisée",
-      "region": "National",
-      "url": "https://www.lemoniteur.fr/auvergne-rhone-alpes/loire/loire-demolition-et-reconstruction-du-pont-du-chemin-de-la-prenarde-a-saint-jean-soleymieux.QTGRYYYM55GVJH7VDSCB7U2VM4.html",
-      "image": null,
-      "date": "2026-11-03",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 80,
-      "tags": [
-        "Construction",
-        "Réglementation",
-        "Marché",
-        "Bâtiment"
-      ],
-      "summary": "Loire : démolition et reconstruction du pont du chemin de la Prenarde à Saint-Jean-Soleymieux",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5320,31 +5396,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "cd2e-rss-0-1793727585000",
-      "title": "Bâtiment durable et éco-transition en Hauts-de-France : des trophées pour l’avenir et un palmarès engagé !",
-      "source": "CD2E",
-      "sourceId": "cd2e",
-      "sourceType": "Centre ressources bâtiment durable",
-      "region": "Hauts-de-France",
-      "url": "https://cd2e.com/actualites/batiment-durable-et-eco-transition-en-hauts-de-france-des-trophees-pour-lavenir-et-un-palmares-engage/",
-      "image": null,
-      "date": "2026-11-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Écotransition",
-        "Bâtiment durable",
-        "Matériaux",
-        "Bâtiment"
-      ],
-      "summary": "Rendez-vous le 18 novembre au Conseil Régional pour une grande soirée dédiée aux projets inspirants… L’article Bâtiment durable et éco-transition en Hauts-de-France : des trophées pour l’avenir et un palmarès engagé ! est apparu en premier sur CD2E. Rendez-vous le 18 novembre au …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "cd2e-rss-1-1793717905000",
+      "id": "cd2e-rss-0-1793717905000",
       "title": "L’IA peut-elle enfin tenir la promesse de l’industrialisation du bâtiment ?",
       "source": "CD2E",
       "sourceId": "cd2e",
@@ -5366,6 +5418,30 @@ window.BATIVEILLE_DATA = {
         "Rénovation"
       ],
       "summary": "Rénovation énergétique, décarbonation, pénurie de compétences… Face à ces enjeux, le hors-site apporte des solutions… L’article L’IA peut-elle enfin tenir la promesse de l’industrialisation du bâtiment ? est apparu en premier sur CD2E. Rénovation énergétique, décarbonation, pénur…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "cd2e-rss-4-1793727585000",
+      "title": "Bâtiment durable et éco-transition en Hauts-de-France : des trophées pour l’avenir et un palmarès engagé !",
+      "source": "CD2E",
+      "sourceId": "cd2e",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Hauts-de-France",
+      "url": "https://cd2e.com/actualites/batiment-durable-et-eco-transition-en-hauts-de-france-des-trophees-pour-lavenir-et-un-palmares-engage/",
+      "image": null,
+      "date": "2026-11-03",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Écotransition",
+        "Bâtiment durable",
+        "Matériaux",
+        "Bâtiment"
+      ],
+      "summary": "Rendez-vous le 18 novembre au Conseil Régional pour une grande soirée dédiée aux projets inspirants… L’article Bâtiment durable et éco-transition en Hauts-de-France : des trophées pour l’avenir et un palmarès engagé ! est apparu en premier sur CD2E. Rendez-vous le 18 novembre au …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5741,7 +5817,7 @@ window.BATIVEILLE_DATA = {
         "Transition écologique",
         "Économie sociale"
       ],
-      "summary": "Q : L’ESS est attaquée : qu’est-ce qui se joue actuellement sur le territoire de la CRESS Île-de-France ? Youssef Achour : L’ESS traverse aujourd’hui une période de fortes tensions, y compris en Île-de-France. Alors que l’on n’a jamais autant parlé de souveraineté économique, de …",
+      "summary": "Mediatico : L’ESS est attaquée : qu’est-ce qui se joue actuellement sur le territoire de la CRESS Île-de-France ? Youssef Achour, président de la CRESS Ile-de-France : L’ESS traverse aujourd’hui une période de fortes tensions, y compris en Île-de-France. Alors que l’on n’a jamais…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6376,7 +6452,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1793724000000",
+      "id": "enerzine-rss-0-1793747400000",
+      "title": "Des matériaux 2D cachés et oubliés découverts grâce à l’IA",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-materiaux-2d-caches-et-oublies-decouverts-grace-a-lia/199003-2026-11",
+      "image": null,
+      "date": "2026-11-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Grâce à l’intelligence artificielle, des chercheurs de l’Université de Linköping, en Suède, ont mis au jour des occurrences jusque-là négligées des matériaux 2D MXenes dans d’anciennes bases de données. Ces découvertes ont incité les chercheurs à créer de nouveaux matériaux au mo…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1793724000000",
       "title": "Vols de câbles de recharge : Charge France demande un plan national",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6401,7 +6502,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1793721300000",
+      "id": "enerzine-rss-2-1793721300000",
       "title": "Recharge des véhicules électriques : l’accès au domicile reste inégal",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6426,7 +6527,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1793719402000",
+      "id": "enerzine-rss-3-1793719402000",
       "title": "Treize nouveaux secteurs éligibles à la compensation carbone en 2026",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6452,7 +6553,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1793687400000",
+      "id": "enerzine-rss-4-1793687400000",
       "title": "Un robot-papillon de nuit a gagné un sens supplémentaire grâce à une incarnation vasculaire générative",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6478,7 +6579,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1793686200000",
+      "id": "enerzine-rss-5-1793686200000",
       "title": "Un refroidissement respectueux du climat",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6503,7 +6604,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1793682600000",
+      "id": "enerzine-rss-6-1793682600000",
       "title": "Un catalyseur chinois convertit le CO2 en méthanol liquide",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6529,7 +6630,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1793679000000",
+      "id": "enerzine-rss-7-1793679000000",
       "title": "Un double disque de débris autour d’une naine blanche",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6553,7 +6654,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1793720820000",
+      "id": "lenergeek-rss-0-1793733093000",
+      "title": "L’Allemagne attribue 5,16 GW de nouvelles capacités électriques, principalement au gaz",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/03/allemagne-attribution-516-gw-centrales-gaz-novembre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/02dc5614-centrales-a-gaz-allemagne.png",
+      "date": "2026-11-03",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Berlin a attribué environ 12 milliards d’euros de contrats pour sécuriser sa production d’électricité lors des périodes de faible vent et d’ensoleillement limité. Les centrales soutenues doivent être disponibles au plus tard en 2031. L’article L’Allemagne attribue 5,16 GW de nouv…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1793720820000",
       "title": "Précarité énergétique : un tiers des Français en difficulté face aux factures de chauffage",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6578,7 +6703,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1793706166000",
+      "id": "lenergeek-rss-2-1793706166000",
       "title": "Inde : les renouvelables auraient évité plus de 100 milliards de dollars d’importations fossiles, selon l’AIE",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6604,7 +6729,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1793702583000",
+      "id": "lenergeek-rss-3-1793702583000",
       "title": "Autoconsommation solaire dans les Alpes : bien choisir son installation en Isère",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6630,7 +6755,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1793699943000",
+      "id": "lenergeek-rss-4-1793699943000",
       "title": "Heures creuses : un changement d’ampleur vient d’avoir lieu",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6655,7 +6780,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1793699681000",
+      "id": "lenergeek-rss-5-1793699681000",
       "title": "Voitures électriques : hausse de 32% des recharges sur autoroute à la Toussaint",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6681,7 +6806,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1793699191000",
+      "id": "lenergeek-rss-6-1793699191000",
       "title": "GNL : l’Argentine annonce des contrats en Europe et en Asie pour son projet gazier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6706,7 +6831,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1793696100000",
+      "id": "lenergeek-rss-7-1793696100000",
       "title": "Gaz : l’AIE alerte sur des stocks européens à 75%, le plus bas depuis 2013",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6732,7 +6857,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1793695063000",
+      "id": "lenergeek-rss-8-1793695063000",
       "title": "BYD : pourquoi la batterie de la U9 n’a pas pris feu après le crash",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6756,7 +6881,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1793692145000",
+      "id": "lenergeek-rss-9-1793692145000",
       "title": "Chauffage hiver 2026-2027 : les solutions alternatives face à l’explosion des prix",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6781,7 +6906,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1793691228000",
+      "id": "lenergeek-rss-10-1793691228000",
       "title": "Gaz naturel liquéfié : TotalEnergies prend pied dans deux grands champs offshore en Malaisie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6806,7 +6931,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1793691202000",
+      "id": "lenergeek-rss-11-1793691202000",
       "title": "Chaleur industrielle : 22 projets de la filière bois soutenus à hauteur de 19 millions d’euros",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6832,7 +6957,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1793688630000",
+      "id": "lenergeek-rss-12-1793688630000",
       "title": "Gaz naturel liquéfié : TotalEnergies signe un accord de cinq ans avec ADNOC Gas",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6857,7 +6982,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1793688621000",
+      "id": "lenergeek-rss-13-1793688621000",
       "title": "En 1970, une entreprise a recouvert une rue de 183 mètres avec du verre cassé : deux ans après, elle restait en bon état",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6882,7 +7007,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1793686827000",
+      "id": "lenergeek-rss-14-1793686827000",
       "title": "Lancement de la construction du plus haut gratte-ciel du monde, avec une hauteur dépassant les mille mètres",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6907,7 +7032,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1793680753000",
+      "id": "lenergeek-rss-15-1793680753000",
       "title": "Chaleur industrielle : 22 projets de la filière bois soutenus par plus de 19 millions d’euros",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6933,7 +7058,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1793673872000",
+      "id": "lenergeek-rss-16-1793673872000",
       "title": "Gaz : les livraisons américaines vers l’Europe bondissent à 6,89 millions de tonnes en octobre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6958,7 +7083,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1793670431000",
+      "id": "lenergeek-rss-17-1793670431000",
       "title": "TotalEnergies voit la crise pétrolière accélérer l’électrification, mais maintient ses prévisions de demande",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6982,7 +7107,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1793669255000",
+      "id": "lenergeek-rss-18-1793669255000",
       "title": "Gaz européen : TotalEnergies alerte sur le coût d’un hiver avec des stocks trop bas",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7007,7 +7132,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1793666071000",
+      "id": "lenergeek-rss-19-1793666071000",
       "title": "Gaz européen : des stocks bas à l’entrée de l’hiver, TotalEnergies alerte sur le coût des approvisionnements",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7031,84 +7156,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Le 2 novembre, Patrick Pouyanné a estimé que l'Europe pourrait éviter une pénurie de gaz cet hiver, mais à un prix élevé. Le niveau des réserves et la concurrence internationale pour le GNL compliquent les achats européens. L’article Gaz européen : des stocks bas à l’entrée de l’…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1793727620000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-11-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1793727620000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-11-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1793727620000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-11-03",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1793723702000",
@@ -7887,7 +7934,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-8-1793724540000",
+      "id": "acteurs-publics-sitemap-8-1793740500000",
       "title": "comportements humiliants chez les universitaires la clemence du cneser une nouvelle fois desavouee par le conseil detat",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -9284,7 +9331,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1793661000000",
+      "id": "enerzine-rss-8-1793661000000",
       "title": "Des chercheurs explorent l’utilisation du stockage d’énergie thermique pour les centrales nucléaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -9310,7 +9357,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1793613900000",
+      "id": "enerzine-rss-9-1793613900000",
       "title": "La RTX 5080 disparaît de la boutique de Nvidia, son prix approche déjà les 2 000 euros",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -9335,33 +9382,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1793601000000",
-      "title": "Un nouvel électrolyte ininflammable et plus durable pour les batteries au sodium métallique",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-nouvel-electrolyte-ininflammable-et-plus-durable-pour-les-batteries-au-sodium-metallique/198898-2026-11",
-      "image": null,
-      "date": "2026-11-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "Ces dernières années, les batteries au sodium métallique (SMB) suscitent une attention croissante pour les technologies de stockage d’énergie de nouvelle génération en raison de l’abondance et du faible coût des réserves de sodium (Na), ce qui en fait des alternatives économiquem…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-19-1793663188000",
+      "id": "lenergeek-rss-20-1793663188000",
       "title": "TotalEnergies investit davantage dans les renouvelables américains malgré le recul des aides",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -9386,7 +9407,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1793648574000",
+      "id": "lenergeek-rss-21-1793648574000",
       "title": "Électricité, pétrole, gaz : TotalEnergies dévoile trois trajectoires énergétiques jusqu’en 2060",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -9412,7 +9433,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1793646917000",
+      "id": "lenergeek-rss-22-1793646917000",
       "title": "Transition énergétique : TotalEnergies alerte sur le retard des réseaux dans ses scénarios 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -9437,7 +9458,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1793640950000",
+      "id": "lenergeek-rss-23-1793640950000",
       "title": "Gaz européen : TotalEnergies écarte une pénurie cet hiver, mais alerte sur le coût des approvisionnements",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -9458,30 +9479,6 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "Patrick Pouyanné estime, ce 2 novembre, que l'Europe disposera de gaz cet hiver, au prix d'achats plus coûteux sur le marché international. Les stocks étaient remplis à 74,62 % dans l'Union européenne au 1er novembre, avec de fortes différences entre la France et l'Allemagne. L’a…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1793637496000",
-      "title": "Google à Étrechet : la concertation sur son raccordement électrique de 120 MW s’ouvre",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/02/google-etrechet-rte-concertation-raccordement-120mw-20261102-1836/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/fcf08dcc-raccordement-electrique-google-etrechet.png",
-      "date": "2026-11-02",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "La concertation préalable sur le projet de centre de données de Google à Étrechet, dans l’Indre, débute le 2 novembre et se poursuit jusqu’au 10 janvier 2027. RTE prévoit une première alimentation à 225 000 volts pour 120 MW, avant d’éventuels ouvrages à 400 000 volts. L’article …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11562,21 +11559,20 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/les-lignes-regeneratives-quelles-synergies-territoriales-quelles-vocations-pour-ces-fonciers/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-10-29",
       "access": "open",
       "official": false,
-      "highImpact": true,
-      "impactScore": 96,
+      "highImpact": false,
+      "impactScore": 88,
       "tags": [
         "Nantes",
         "Urbanisme",
         "Habitat",
         "Foncier",
-        "Réglementation",
         "Eau"
       ],
-      "summary": "3 000 000 d’hectares. C’est la surface totale en France des emprises en proximité direct des lignes haute et très haute tension. Ce Carnet de l’Auran retrace le travail partenarial de l’Auran avec le gestionnaire du Réseau de Transport d’Électricité (RTE) sur les enjeux de valori…",
+      "summary": "3 000 000 d’hectares. C’est la surface totale en France des emprises en proximité direct des lignes haute et très haute tension. Comment faire de ces fonciers une opportunité de projet pour les territoires ? Ce Carnet de l’Auran retrace le travail partenarial de l’Auran avec le g…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13395,7 +13391,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "cd2e-rss-2-1793100527000",
+      "id": "cd2e-rss-1-1793100527000",
       "title": "Sortir du « piège du pilote » pour financer la transition énergétique des territoires",
       "source": "CD2E",
       "sourceId": "cd2e",
@@ -15071,7 +15067,7 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/cycle-de-webinaires-sur-le-logement-social-fondamentaux-et-leviers-locaux-de-production/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-10-20",
       "access": "open",
       "official": false,
@@ -15085,7 +15081,7 @@ window.BATIVEILLE_DATA = {
         "Réglementation",
         "Énergie"
       ],
-      "summary": "Projet immobilier de la friche Richomme à Blain, 85 logements dont 22% de logements sociaux, HUCA Architecture. Crédit photo : Auran, octobre 2026 La Direction Départementale des Territoires et de la Mer (DDTM) et ses partenaires (USH, EPFLA, intercommunalités, …) ont proposé sou…",
+      "summary": "La Direction Départementale des Territoires et de la Mer (DDTM) et ses partenaires (USH, EPFLA, intercommunalités, …) ont proposé sous l’égide du Préfet de Loire-Atlantique une série de 5 webinaires de 30 mn sur les leviers locaux de production d’une offre de logements sociaux. E…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -15136,7 +15132,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "cd2e-rss-3-1792487371000",
+      "id": "cd2e-rss-2-1792487371000",
       "title": "Patrimoine minier : les biosourcés passent l’épreuve du terrain",
       "source": "CD2E",
       "sourceId": "cd2e",
@@ -15160,7 +15156,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "cd2e-rss-4-1792506835000",
+      "id": "cd2e-rss-3-1792506835000",
       "title": "Achats publics durables : le CD2E vous aide à passer à l’action",
       "source": "CD2E",
       "sourceId": "cd2e",
@@ -15412,13 +15408,13 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "auran-rss-2-1792403544000",
-      "title": "Nouvelle étude &#8211; Loire-Atlantique : davantage de ménages d’ici 2050, un ralentissement après 2030",
+      "title": "Nouvelle étude – Loire-Atlantique : davantage de ménages d’ici 2050, un ralentissement après 2030",
       "source": "AURAN",
       "sourceId": "auran",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/nouvelle-etude-loire-atlantique-davantage-de-menages-dici-2050-un-ralentissement-apres-2030/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-10-19",
       "access": "open",
       "official": false,
@@ -15430,7 +15426,7 @@ window.BATIVEILLE_DATA = {
         "Habitat",
         "Foncier",
         "Réglementation",
-        "RE2020"
+        "Bâtiment"
       ],
       "summary": "Combien de ménages comptera la Loire-Atlantique en 2025 ? Quelle serait la composition des ménages ? L’Insee, en partenariat avec Nantes Métropole et l’Auran, a publié cette semaine une étude sur les projections de ménages à l’échelle départementale et infra-départementale. Cette…",
       "premiumSummary": "",
@@ -16408,19 +16404,18 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/a-nozay-un-diagnostic-partage-pour-preparer-la-prochaine-convention-territoriale-globale/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-10-14",
       "access": "open",
       "official": false,
       "highImpact": true,
-      "impactScore": 96,
+      "impactScore": 88,
       "tags": [
         "Nantes",
         "Urbanisme",
         "Habitat",
         "Foncier",
-        "Réglementation",
-        "Eau"
+        "Réglementation"
       ],
       "summary": "Le 9 septembre dernier, la Communauté de communes de Nozay a réuni élus communaux et communautaires, directeurs/directrices généraux des services (DGS), et partenaires du territoire à l’occasion d’un séminaire consacré à l’évaluation de sa Convention Territoriale Globale (CTG). C…",
       "premiumSummary": "",
@@ -22268,28 +22263,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "cite-de-l-architecture-et-du-patrimoine-sitemap-190-1788787260000",
-      "title": "ressources pedagogiques",
-      "source": "Cité de l’architecture et du patrimoine",
-      "sourceId": "cite-de-l-architecture-et-du-patrimoine",
-      "sourceType": "Institution culturelle",
-      "region": "National",
-      "url": "https://www.citedelarchitecture.fr/fr/article/ressources-pedagogiques",
-      "image": null,
-      "date": "2026-09-07",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 74,
-      "tags": [
-        "Architecture",
-        "Patrimoine"
-      ],
-      "summary": "Publication détectée dans le sitemap de Cité de l’architecture et du patrimoine. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "oreo-bretagne-sitemap-2-1788788073000",
       "title": "etat sante especes infeodees aux milieux zones humides bretagne",
       "source": "OREO Bretagne",
@@ -22524,30 +22497,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Paris, le 2 septembre 2026 – La reprise de l’activité se fait toujours attendre dans l’artisanat du bâtiment. Au deuxième trimestre 2026, l’activité recule de 1,5 % sur un an, enregistrant ainsi un 13e trimestre consécutif de baisse. Paris, le 2 septembre 2026 – La reprise de l’a…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "cstb-sitemap-61-1788446713000",
-      "title": "renforcer securite eau potable",
-      "source": "CSTB",
-      "sourceId": "cstb",
-      "sourceType": "Organisme technique",
-      "region": "National",
-      "url": "https://www.cstb.fr/communiques-de-presse/renforcer-securite-eau-potable",
-      "image": null,
-      "date": "2026-09-03",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Technique",
-        "Innovation",
-        "Construction",
-        "Eau"
-      ],
-      "summary": "Publication détectée dans le sitemap de CSTB. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "oreo-bretagne-sitemap-59-1788341283000",
@@ -24608,7 +24557,7 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/observatoire-de-la-tranquillite-publique-du-cispd-de-nantes-metropole/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-07-22",
       "access": "open",
       "official": false,
@@ -24997,7 +24946,7 @@ window.BATIVEILLE_DATA = {
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/leconomie-nantaise-toujours-au-ralenti-en-2025/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-07-20",
       "access": "open",
       "official": false,
@@ -25428,13 +25377,13 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "auran-rss-6-1783659600000",
-      "title": "Marché de l&#8217;accession : une embellie confirmée mais les nuages restent en vue",
+      "title": "Marché de l’accession : une embellie confirmée mais les nuages restent en vue",
       "source": "AURAN",
       "sourceId": "auran",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/marche-de-laccession-une-embellie-confirmee-mais-les-nuages-restent-en-vue/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-07-10",
       "access": "open",
       "official": false,
@@ -25446,7 +25395,7 @@ window.BATIVEILLE_DATA = {
         "Habitat",
         "Foncier",
         "Réglementation",
-        "Eau"
+        "Économie du bâtiment"
       ],
       "summary": "Après trois années de fort recul, le nombre d’acquisitions par emprunt a nettement rebondi : + 45 % entre 2024 et 2025. Les prix suivent la même orientation et semblent se stabiliser à la hausse en 2025, après deux années de baisse. Cette embellie demeure toutefois fragile. Le vo…",
       "premiumSummary": "",
