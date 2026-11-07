@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-11-07T16:13:04.579Z",
+  "generatedAt": "2026-11-07T23:31:52.739Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2239,7 +2239,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1794031200000",
+      "id": "vert-rss-0-1794078231000",
+      "title": "«Il se passe quelque chose» : au Bourget, Jean-Luc Mélenchon embarque la jeunesse autour de son projet pour une écologie populaire",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/politique/il-se-passe-quelque-chose-au-bourget-jean-luc-melenchon-embarque-la-jeunesse-autour-de-son-projet-pour-une-ecologie-populaire/",
+      "image": null,
+      "date": "2026-11-07",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Réglementation"
+      ],
+      "summary": "Au lendemain du lancement de son programme pour l’élection présidentielle de 2027, le leader de La France insoumise a fait salle comble au parc des expositions du Bourget, près de Paris. Surfant sur les espoirs de la jeunesse, le mouvement espère imposer son projet de «bifurcatio…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "vert-rss-1-1794031200000",
       "title": "En plein «embrasement autoritaire», la Turquie accueille la COP31 sur le climat",
       "source": "Vert",
       "sourceId": "vert",
@@ -2289,7 +2314,56 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1794062400000",
+      "id": "enerzine-rss-0-1794093000000",
+      "title": "Un signal électrique pour lire l’ordre d’un altermagnétique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/un-signal-electrique-pour-lire-lordre-dun-altermagnetique/199258-2026-11",
+      "image": null,
+      "date": "2026-11-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des physiciens du CIC nanoGUNE, à Saint-Sébastien, annoncent avoir converti l’ordre magnétique interne d’un matériau altermagnétique, le Mn₅Si₃, en un courant de spin détecté à 300 nanomètres, selon une annonce datée du 28 octobre. Le groupe présente ce résultat publié dans Natur…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1794084600000",
+      "title": "Huile d’olive : l’Espagne retire une partie de sa production du marché pour sauver les prix",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/espagne-retire-188000-tonnes-huile-olive-prix/199673-2026-11",
+      "image": null,
+      "date": "2026-11-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "L’Espagne a décidé d’enrayer la baisse des cours de l’huile d’olive. Depuis le 6 novembre, les moulins du premier producteur mondial doivent garder hors du marché 12% de l’huile qu’ils déclarent à partir de novembre, soit un volume estimé à 188 000 tonnes dans tout le pays. Le st…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-2-1794062400000",
       "title": "IBM installe à Chicago son système quantique le plus avancé",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2314,7 +2388,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1794046800000",
+      "id": "enerzine-rss-3-1794046800000",
       "title": "Hypercar électrique à plus de 500 km/h : comment YANGWANG (BYD) a préparé son record",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2340,7 +2414,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1794028200000",
+      "id": "enerzine-rss-4-1794028200000",
       "title": "Tesla indique avoir lancé la production de son robot humanoïde Optimus à Fremont",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2366,7 +2440,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1794024600000",
+      "id": "enerzine-rss-5-1794024600000",
       "title": "Les feux de tourbières en Indonésie ont émis environ 190 millions de tonnes de carbone",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2392,7 +2466,55 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1794060157000",
+      "id": "lenergeek-rss-0-1794081600000",
+      "title": "COP31 : la France précise ses priorités avant l’ouverture des négociations à Antalya",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/07/cop31-france-priorites-negociations-antalya-7-novembre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/ccd9b975-cop31-france.jpg",
+      "date": "2026-11-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "À trois jours de l'ouverture de la COP31, le ministère français de la Transition écologique a publié le 6 novembre un dossier préparatoire. La conférence, organisée en Turquie du 9 au 20 novembre, distinguera présidence politique et conduite des négociations. L’article COP31 : la…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1794079200000",
+      "title": "COP31 : la France détaille ses priorités avant l’ouverture des négociations à Antalya",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/07/cop31-france-priorites-antalya-negociations-7-novembre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/ed31cb9d-cop31-antalya-france.jpg",
+      "date": "2026-11-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "À trois jours de la COP31, le ministère de la Transition écologique a publié le 6 novembre un dossier préparatoire. La conférence se déroulera du 9 au 20 novembre en Turquie, avec une répartition inhabituelle des responsabilités entre Ankara et Canberra. L’article COP31 : la Fran…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1794060157000",
       "title": "Réseau de gaz en France : 209 000 kilomètres de canalisations à l’heure du biométhane",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2418,7 +2540,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1794056599000",
+      "id": "lenergeek-rss-3-1794056599000",
       "title": "Réseau de gaz : les chiffres de GRDF et les défis du biométhane en France",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2443,7 +2565,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1794045519000",
+      "id": "lenergeek-rss-4-1794045519000",
       "title": "Réseau de gaz : comment GRDF surveille les fuites et organise les interventions",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2468,7 +2590,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1794043860000",
+      "id": "lenergeek-rss-5-1794043860000",
       "title": "Copropriété : isolation, chauffage, ventilation, quels travaux financés par les aides ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2494,7 +2616,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1794043320000",
+      "id": "lenergeek-rss-6-1794043320000",
       "title": "Faute de gaz naturel, l’Inde a importé 52 % d’engrais azotés de plus",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2518,7 +2640,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1794042000000",
+      "id": "lenergeek-rss-7-1794042000000",
       "title": "Gaz : le prix de gros rebondit vendredi, malgré une baisse sur la semaine",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2544,7 +2666,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1794034950000",
+      "id": "lenergeek-rss-8-1794034950000",
       "title": "Gaz en novembre 2026 : comment lire le prix repère et comparer sa facture",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2569,7 +2691,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1794032400000",
+      "id": "lenergeek-rss-9-1794032400000",
       "title": "Hernán, 48 ans, a quitté la banlieue et construit une maison en terre et bouteilles dans les sierras de Córdoba : « Cet endroit a transformé ma vie »",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2595,7 +2717,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1794020956000",
+      "id": "lenergeek-rss-10-1794020956000",
       "title": "Renouvelables : l’AIE prévoit 43 % de l’électricité mondiale en 2031, mais alerte sur les réseaux",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2620,7 +2742,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1794009639000",
+      "id": "lenergeek-rss-11-1794009639000",
       "title": "TGV M : ce que les derniers essais changent pour la mise en service du nouveau train",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2645,7 +2767,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1794067970000",
+      "id": "le-commerce-du-bois-sitemap-0-1794094299000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2671,7 +2793,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1794067970000",
+      "id": "le-commerce-du-bois-sitemap-1-1794094299000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2697,7 +2819,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1794067970000",
+      "id": "le-commerce-du-bois-sitemap-2-1794094299000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3951,7 +4073,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1793962229000",
+      "id": "vert-rss-2-1793962229000",
       "title": "Écorégions, 100% renouvelables, sortie des pesticides… Ce que contient le programme de La France insoumise sur l’écologie",
       "source": "Vert",
       "sourceId": "vert",
@@ -3975,7 +4097,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1793941200000",
+      "id": "vert-rss-3-1793941200000",
       "title": "«C’est un problème de santé publique» : en Turquie, les déchets plastiques européens polluent les sols et les cours d’eau",
       "source": "Vert",
       "sourceId": "vert",
@@ -4358,7 +4480,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1794006600000",
+      "id": "enerzine-rss-6-1794006600000",
       "title": "Amazon mise sur les lunettes connectées pour guider ses livreurs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4383,7 +4505,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1793997900000",
+      "id": "enerzine-rss-7-1793997900000",
       "title": "Dacia miserait sur la piste du Bridger pour un SUV électrique abordable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4408,7 +4530,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1793996400000",
+      "id": "enerzine-rss-8-1793996400000",
       "title": "Retraites 2027 : 430 euros de moins par an dans la simulation, le seuil de protection encore en débat",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4432,7 +4554,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1793970600000",
+      "id": "enerzine-rss-9-1793970600000",
       "title": "Toyota et Waymo préparent leurs premiers robotaxis au Japon pour 2027",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4458,57 +4580,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1793961600000",
-      "title": "Le TGV M arrive enfin sur Paris-Marseille, avec plus de deux ans de retard",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/tgv-m-entree-service-paris-marseille/199593-2026-11",
-      "image": null,
-      "date": "2026-11-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Le TGV M effectue son premier voyage commercial ce vendredi 6 novembre 2026, entre Paris-Gare de Lyon et Marseille-Saint-Charles. Attendu depuis plus de dix ans, le nouveau train démarre avec plus de deux ans de retard et six rames pour assurer les premières rotations. Son arrivé…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1793945400000",
-      "title": "Sparxity déploie un système sparse-native au centre de calcul de Jülich",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/sparxity-deploie-un-systeme-sparse-native-au-centre-de-calcul-de-julich/199116-2026-11",
-      "image": null,
-      "date": "2026-11-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Sparxity, anciennement SpiNNcloud, a annoncé le déploiement d’un système de calcul sparse-native en rack au Centre de calcul superintensif de Jülich (JSC), en Allemagne, pour exécuter des modèles d’apprentissage automatique clairsemés et des simulations HPC à grande échelle. Bapt…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-10-1794006984000",
+      "id": "lenergeek-rss-12-1794006984000",
       "title": "Méthane : les États de l’UE veulent repousser à 2028 les contrôles sur les importations d’énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4533,7 +4605,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1794006932000",
+      "id": "lenergeek-rss-13-1794006932000",
       "title": "Turquie : un plan énergétique de 500 milliards de dollars pour électrifier le pays d’ici 2040",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4558,7 +4630,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1793992427000",
+      "id": "lenergeek-rss-14-1793992427000",
       "title": "Grèce-Chypre : Athènes autorise de nouvelles études pour le câble électrique sous-marin",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4582,7 +4654,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1793991719000",
+      "id": "lenergeek-rss-15-1793991719000",
       "title": "TGV M en service : ce que promet réellement sa sobriété énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4608,7 +4680,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1793985600000",
+      "id": "lenergeek-rss-16-1793985600000",
       "title": "Le nouveau TGV entre en service avec une promesse de 20 % d’énergie en moins",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4633,7 +4705,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1793981809000",
+      "id": "lenergeek-rss-17-1793981809000",
       "title": "Simulateur électricité : estimer sa consommation avant de souscrire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4659,7 +4731,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1793975940000",
+      "id": "lenergeek-rss-18-1793975940000",
       "title": "XL1 : cette Volkswagen hybride qui consomme moins d’1 litre/100 km",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4683,7 +4755,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1793974325000",
+      "id": "lenergeek-rss-19-1793974325000",
       "title": "Décret Tertiaire 2027 : comment anticiper les prochaines échéances réglementaires ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4709,7 +4781,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1793973858000",
+      "id": "lenergeek-rss-20-1793973858000",
       "title": "Vortex polaire et électricité : pourquoi le froid peut faire grimper la demande française",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4733,7 +4805,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1793972400000",
+      "id": "lenergeek-rss-21-1793972400000",
       "title": "La chute des valeurs de l’IA atteint aussi les fournisseurs d’électricité des centres de données",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4759,7 +4831,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1793971860000",
+      "id": "lenergeek-rss-22-1793971860000",
       "title": "Engrais : la crise d’Ormuz révèle une autre dépendance mondiale au gaz et au pétrole",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4783,7 +4855,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1793961600000",
+      "id": "lenergeek-rss-23-1793961600000",
       "title": "La chute des valeurs de l’IA frappe aussi les entreprises qui alimentent les centres de données",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4804,56 +4876,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Le décrochage de Wall Street du 5 novembre ne s’est pas limité aux fabricants de puces. Les fournisseurs d’électricité et d’équipements destinés aux centres de données ont également reculé, sur fond de doutes concernant la vitesse de construction de ces infrastructures. L’article…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1793952000000",
-      "title": "La fin du moteur thermique reportée : l’Europe recule sur le CO2",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/06/voiture-automobile-parlement-2035-100-pourcent-europeen-sauve-thermique/",
-      "image": "https://lenergeek.com/wp-content/uploads/2023/12/transports-routiers-pollution-climat-alliance.jpg",
-      "date": "2026-11-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Le Parlement européen a adopté un compromis qui ramène à 87,5 % l'objectif de réduction des émissions de CO2 des voitures neuves en 2035, contre 100 % initialement prévu. L’article La fin du moteur thermique reportée : l’Europe recule sur le CO2 est apparu en premier sur L'EnerGe…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1793949408000",
-      "title": "Engie dépasse 10 GW de stockage en service ou en chantier et relève ses ambitions pour 2026",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/06/engie-stockage-10-gw-resultats-neuf-mois-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/6d116c3d-engie-stockage-electrique-2026.png",
-      "date": "2026-11-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Dans ses résultats publiés le 5 novembre, Engie annonce plus de 10 GW de stockage électrique en exploitation ou en construction à travers le monde. Le groupe vise désormais le haut de sa fourchette de résultats annuels, porté notamment par ses activités renouvelables et réseaux. …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -5990,7 +6012,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1793875764000",
+      "id": "vert-rss-4-1793875764000",
       "title": "«Tout est fait pour qu’on ne milite plus» : la criminalisation des mouvements sociaux frappe aussi les écologistes",
       "source": "Vert",
       "sourceId": "vert",
@@ -6014,7 +6036,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1793858400000",
+      "id": "vert-rss-5-1793858400000",
       "title": "Hubert Peres, spécialiste de la politique espagnole : «La droite n’a aucune chance d’arriver au pouvoir sans l’appui de l’extrême droite»",
       "source": "Vert",
       "sourceId": "vert",
@@ -6873,7 +6895,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auran-wp-37606-1793778790000",
+      "id": "auran-rss-0-1793778790000",
       "title": "Observatoire de la tranquillité publique du CISPD de Nantes Métropole",
       "source": "AURAN",
       "sourceId": "auran",
@@ -6894,9 +6916,9 @@ window.BATIVEILLE_DATA = {
         "Réglementation",
         "Confort d’été"
       ],
-      "summary": "La tranquillité publique constitue un enjeu majeur des politiques publiques. Pour éclairer les dynamiques territoriales sur ce sujet sensible, l&rsquo;Auran a été sollicitée afin d&rsquo;organiser le déploiement de l&rsquo;observatoire de la tranquillité publique de la métropole …",
+      "summary": "La tranquillité publique constitue un enjeu majeur des politiques publiques. Pour éclairer les dynamiques territoriales sur ce sujet sensible, l’Auran a été sollicitée afin d’organiser le déploiement de l’observatoire de la tranquillité publique de la métropole nantaise, adossé a…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
       "id": "envirobat-occitanie-rss-1-1793805184000",
@@ -7597,7 +7619,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1793791636000",
+      "id": "vert-rss-6-1793791636000",
       "title": "Abdul El-Sayed, Deb Haaland, Chris Pappas… Ces victoires démocrates historiques aux élections de mi-mandat aux États-Unis",
       "source": "Vert",
       "sourceId": "vert",
@@ -7621,7 +7643,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1793787429000",
+      "id": "vert-rss-7-1793787429000",
       "title": "«Une renaissance de la gauche dans ce pays» : New York en liesse après la victoire des démocrates aux midterms",
       "source": "Vert",
       "sourceId": "vert",
@@ -7645,7 +7667,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1793768400000",
+      "id": "vert-rss-8-1793768400000",
       "title": "Bâtons de charbon, carafes filtrantes, réduction des pollutions… Quelles solutions pour éviter les pesticides dans l’eau potable ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -9009,7 +9031,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-8-1793703367000",
+      "id": "vert-rss-9-1793703367000",
       "title": "Manifestations interdites, couvre-feu, suspension du droit de vote : tout cela est-il bien légal ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -9029,30 +9051,6 @@ window.BATIVEILLE_DATA = {
         "Politiques publiques"
       ],
       "summary": "Au nom du maintien de l’ordre, les autorités multiplient depuis plusieurs jours les mesures sécuritaires, parfois au mépris du droit. Vert a demandé leur avis à des constitutionnalistes et pénalistes afin de tout comprendre. Au nom du maintien de l’ordre, les autorités multiplien…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "vert-rss-9-1793682000000",
-      "title": "RN, dette et pauvreté en hausse, démocratie et climat en berne : le lourd bilan d’Emmanuel Macron en graphiques",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/politique/rn-dette-et-pauvrete-en-hausse-democratie-et-climat-en-berne-le-lourd-bilan-demmanuel-macron-en-graphiques/",
-      "image": null,
-      "date": "2026-11-03",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques"
-      ],
-      "summary": "Le 2 mai 2027, Emmanuel Macron passera le relais après deux quinquennats à façonner le pays. Il y a dix ans, il parlait de l'écologie comme «du combat du siècle», promettait une «révolution démocratique» et de faire de la France «une chance pour tous»… et puis d’autres réalités s…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10592,7 +10590,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auran-wp-39006-1793269274000",
+      "id": "auran-rss-1-1793269274000",
       "title": "Les lignes régénératives : Quelles synergies territoriales ? Quelles vocations pour ces fonciers ?",
       "source": "AURAN",
       "sourceId": "auran",
@@ -10614,7 +10612,7 @@ window.BATIVEILLE_DATA = {
       ],
       "summary": "3 000 000 d’hectares. C’est la surface totale en France des emprises en proximité direct des lignes haute et très haute tension. Comment faire de ces fonciers une opportunité de projet pour les territoires ? Ce Carnet de l’Auran retrace le travail partenarial de l’Auran avec le g…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
       "id": "envirobat-occitanie-rss-7-1793262031000",
@@ -12777,7 +12775,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auran-wp-38299-1792472520000",
+      "id": "auran-rss-2-1792472520000",
       "title": "Cycle de webinaires sur le logement social : fondamentaux et leviers locaux de production",
       "source": "AURAN",
       "sourceId": "auran",
@@ -12800,7 +12798,7 @@ window.BATIVEILLE_DATA = {
       ],
       "summary": "La Direction Départementale des Territoires et de la Mer (DDTM) et ses partenaires (USH, EPFLA, intercommunalités, …) ont proposé sous l’égide du Préfet de Loire-Atlantique une série de 5 webinaires de 30 mn sur les leviers locaux de production d’une offre de logements sociaux. E…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
       "id": "oreo-bretagne-sitemap-46-1792490148000",
@@ -13124,14 +13122,14 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auran-wp-38276-1792403544000",
-      "title": "Nouvelle étude &#8211; Loire-Atlantique : davantage de ménages d’ici 2050, un ralentissement après 2030",
+      "id": "auran-rss-3-1792403544000",
+      "title": "Nouvelle étude – Loire-Atlantique : davantage de ménages d’ici 2050, un ralentissement après 2030",
       "source": "AURAN",
       "sourceId": "auran",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/nouvelle-etude-loire-atlantique-davantage-de-menages-dici-2050-un-ralentissement-apres-2030/",
-      "image": "https://www.auran.org/wp-content/uploads/2026/10/insee_2026.png",
+      "image": null,
       "date": "2026-10-19",
       "access": "open",
       "official": false,
@@ -13147,7 +13145,7 @@ window.BATIVEILLE_DATA = {
       ],
       "summary": "Combien de ménages comptera la Loire-Atlantique en 2025 ? Quelle serait la composition des ménages ? L’Insee, en partenariat avec Nantes Métropole et l’Auran, a publié cette semaine une étude sur les projections de ménages à l’échelle départementale et infra-départementale. Cette…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
       "id": "arec-occitanie-rss-0-1792395454000",
@@ -14064,7 +14062,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auran-wp-37969-1791969564000",
+      "id": "auran-rss-4-1791969564000",
       "title": "À Nozay, un diagnostic partagé pour préparer la prochaine Convention Territoriale Globale",
       "source": "AURAN",
       "sourceId": "auran",
@@ -14086,7 +14084,7 @@ window.BATIVEILLE_DATA = {
       ],
       "summary": "Le 9 septembre dernier, la Communauté de communes de Nozay a réuni élus communaux et communautaires, directeurs/directrices généraux des services (DGS), et partenaires du territoire à l’occasion d’un séminaire consacré à l’évaluation de sa Convention Territoriale Globale (CTG). C…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
       "id": "auat-toulouse-rss-17-1791982121000",
@@ -22128,14 +22126,14 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "auran-wp-37469-1784538000000",
+      "id": "auran-rss-5-1784538000000",
       "title": "L’économie nantaise toujours au ralenti en 2025",
       "source": "AURAN",
       "sourceId": "auran",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/leconomie-nantaise-toujours-au-ralenti-en-2025/",
-      "image": "https://www.auran.org/wp-content/uploads/2026/07/emploi-1200x800-768x400-1.jpg",
+      "image": null,
       "date": "2026-07-20",
       "access": "open",
       "official": false,
@@ -22149,9 +22147,9 @@ window.BATIVEILLE_DATA = {
         "Réglementation",
         "Eau"
       ],
-      "summary": "Après un fort ralentissement en 2024, l&rsquo;activité économique reste à la traîne en 2025. Sur le marché du travail, le retournement est net, avec plus de 50 000 emplois détruits au niveau national, un chômage en hausse dans la plupart des territoires et une forte détente sur l…",
+      "summary": "Après un fort ralentissement en 2024, l’activité économique reste à la traîne en 2025. Sur le marché du travail, le retournement est net, avec plus de 50 000 emplois détruits au niveau national, un chômage en hausse dans la plupart des territoires et une forte détente sur les rec…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
       "id": "observatoire-de-la-qualite-de-l-air-interieur-oqai-rss-6-1784299963000",
@@ -22519,14 +22517,14 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "auran-wp-34740-1783659600000",
-      "title": "Marché de l&rsquo;accession : une embellie confirmée mais les nuages restent en vue",
+      "id": "auran-rss-6-1783659600000",
+      "title": "Marché de l’accession : une embellie confirmée mais les nuages restent en vue",
       "source": "AURAN",
       "sourceId": "auran",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/marche-de-laccession-une-embellie-confirmee-mais-les-nuages-restent-en-vue/",
-      "image": "https://www.auran.org/wp-content/uploads/2026/07/delai-moyen-vente-maison-2026.jpg",
+      "image": null,
       "date": "2026-07-10",
       "access": "open",
       "official": false,
@@ -22540,9 +22538,9 @@ window.BATIVEILLE_DATA = {
         "Réglementation",
         "Économie du bâtiment"
       ],
-      "summary": "Après trois années de fort recul, le nombre d&rsquo;acquisitions par emprunt a nettement rebondi : + 45 % entre 2024 et 2025. Les prix suivent la même orientation et semblent se stabiliser à la hausse en 2025, après deux années de baisse. Cette embellie demeure toutefois fragile.…",
+      "summary": "Après trois années de fort recul, le nombre d’acquisitions par emprunt a nettement rebondi : + 45 % entre 2024 et 2025. Les prix suivent la même orientation et semblent se stabiliser à la hausse en 2025, après deux années de baisse. Cette embellie demeure toutefois fragile. Le vo…",
       "premiumSummary": "",
-      "collectMethod": "wordpress_api"
+      "collectMethod": "rss"
     },
     {
       "id": "bois-com-sitemap-67-1783697474000",
