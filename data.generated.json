@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T20:46:04.077Z",
+  "generatedAt": "2026-11-07T05:18:21.947Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,161 @@
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1794028200000",
+      "title": "Tesla indique avoir lancé la production de son robot humanoïde Optimus à Fremont",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/tesla-indique-avoir-lance-la-production-de-son-robot-humanoide-optimus-a-fremont/199237-2026-11",
+      "image": null,
+      "date": "2026-11-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Tesla annonce avoir lancé la production d’Optimus sur ses lignes à haut volume de Fremont, dans sa note aux actionnaires du troisième trimestre 2026. Le constructeur ne précise toutefois pas combien de robots ont été fabriqués. Elon Musk prévient que la montée en cadence prendra …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1794024600000",
+      "title": "Les feux de tourbières en Indonésie ont émis environ 190 millions de tonnes de carbone",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/les-feux-de-tourbieres-en-indonesie-ont-emis-environ-190-millions-de-tonnes-de-carbone/199227-2026-11",
+      "image": null,
+      "date": "2026-11-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Selon les scientifiques Gareth Roberts et Martin Wooster, les incendies de tourbières en Indonésie ont libéré environ 190 millions de tonnes de carbone depuis le début de 2026, soit près des trois quarts des émissions annuelles de CO2 du pays issues de la combustion d’énergies fo…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-0-1794009639000",
+      "title": "TGV M : ce que les derniers essais changent pour la mise en service du nouveau train",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/07/tgv-m-essais-mise-en-service-novembre-2026-energie/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/cba3871c-tgv-m-mise-en-service-2026.png",
+      "date": "2026-11-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Le TGV M poursuit sa préparation avant son arrivée commerciale. Homologation, essais, capacité et consommation : les faits établis et les points encore ouverts. L’article TGV M : ce que les derniers essais changent pour la mise en service du nouveau train est apparu en premier su…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1794028687000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-11-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1794028687000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-11-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1794028687000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-11-07",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-39-1793956794000",
       "title": "webinaire 9 novembre 2026 10h 11h30 demarrer et structurer observatoire friches en 6",
       "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
@@ -3796,7 +3951,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1793997900000",
+      "id": "enerzine-rss-2-1794006600000",
+      "title": "Amazon mise sur les lunettes connectées pour guider ses livreurs",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/lunettes-connectees-amazon-livreurs/199313-2026-11",
+      "image": null,
+      "date": "2026-11-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Chaque jour, les livreurs parcourent les quartiers pour remettre leurs colis à des millions de clients. Amazon a annoncé vouloir chercher à rendre leurs tournées plus sûres et plus simples. Depuis le lancement du programme Partenaire de Livraison en 2018, ils ont développé des ou…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-3-1793997900000",
       "title": "Dacia miserait sur la piste du Bridger pour un SUV électrique abordable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3821,7 +4001,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1793996400000",
+      "id": "enerzine-rss-4-1793996400000",
       "title": "Retraites 2027 : 430 euros de moins par an dans la simulation, le seuil de protection encore en débat",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3845,7 +4025,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1793970600000",
+      "id": "enerzine-rss-5-1793970600000",
       "title": "Toyota et Waymo préparent leurs premiers robotaxis au Japon pour 2027",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3871,7 +4051,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1793961600000",
+      "id": "enerzine-rss-6-1793961600000",
       "title": "Le TGV M arrive enfin sur Paris-Marseille, avec plus de deux ans de retard",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3896,7 +4076,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1793945400000",
+      "id": "enerzine-rss-7-1793945400000",
       "title": "Sparxity déploie un système sparse-native au centre de calcul de Jülich",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3921,7 +4101,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1793941800000",
+      "id": "enerzine-rss-8-1793941800000",
       "title": "SEG Solar prévoit 4 GW de cellules solaires HJT à Tomball (USA)",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3946,7 +4126,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1793938200000",
+      "id": "enerzine-rss-9-1793938200000",
       "title": "Graphène : un marché projeté à 3,94 milliards de dollars en 2031",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3971,7 +4151,107 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1793985600000",
+      "id": "lenergeek-rss-1-1794006984000",
+      "title": "Méthane : les États de l’UE veulent repousser à 2028 les contrôles sur les importations d’énergie",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/07/methane-conseil-ue-report-controles-importations-2028-7-novembre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/9a1b62d5-reglement-methane-importations-2028.png",
+      "date": "2026-11-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Le Conseil de l'UE propose de reporter d'un an plusieurs obligations sur le méthane des importations de gaz, pétrole et charbon. Le Parlement doit encore négocier le texte. L’article Méthane : les États de l’UE veulent repousser à 2028 les contrôles sur les importations d’énergie…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1794006932000",
+      "title": "Turquie : un plan énergétique de 500 milliards de dollars pour électrifier le pays d’ici 2040",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/07/turquie-plan-energie-2040-500-milliards-electrification-novembre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/e0a7e241-plan-energetique-turquie-2040.png",
+      "date": "2026-11-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "La Turquie présente un plan énergétique de 500 milliards de dollars à l’horizon 2040, avec 175 GW de solaire et d’éolien visés. Réseaux, financement et calendrier restent décisifs. L’article Turquie : un plan énergétique de 500 milliards de dollars pour électrifier le pays d’ici …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1793992427000",
+      "title": "Grèce-Chypre : Athènes autorise de nouvelles études pour le câble électrique sous-marin",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/06/grece-chypre-autorisations-etudes-cable-great-sea-interconnector-6-novembre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/628aec74-great-sea-interconnector.png",
+      "date": "2026-11-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "La Grèce a délivré les autorisations nécessaires à des relevés marins et à des opérations liées au câble du Great Sea Interconnector. Cette avancée administrative relance un projet européen stratégique, sans lever les incertitudes financières et diplomatiques. L’article Grèce-Chy…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-4-1793991719000",
+      "title": "TGV M en service : ce que promet réellement sa sobriété énergétique",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/06/tgv-m-service-commercial-sobriete-energetique-6-novembre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/accc5098-tgv-m-efficacite-energetique.png",
+      "date": "2026-11-06",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Alstom annonce le 6 novembre l’entrée en service commercial du TGV M. Capacité, énergie et émissions : les promesses techniques doivent désormais être confrontées à l’exploitation. L’article TGV M en service : ce que promet réellement sa sobriété énergétique est apparu en premier…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-5-1793985600000",
       "title": "Le nouveau TGV entre en service avec une promesse de 20 % d’énergie en moins",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3996,7 +4276,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1793981809000",
+      "id": "lenergeek-rss-6-1793981809000",
       "title": "Simulateur électricité : estimer sa consommation avant de souscrire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4022,7 +4302,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1793975940000",
+      "id": "lenergeek-rss-7-1793975940000",
       "title": "XL1 : cette Volkswagen hybride qui consomme moins d’1 litre/100 km",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4046,7 +4326,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1793974325000",
+      "id": "lenergeek-rss-8-1793974325000",
       "title": "Décret Tertiaire 2027 : comment anticiper les prochaines échéances réglementaires ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4072,7 +4352,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1793973858000",
+      "id": "lenergeek-rss-9-1793973858000",
       "title": "Vortex polaire et électricité : pourquoi le froid peut faire grimper la demande française",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4096,7 +4376,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1793972400000",
+      "id": "lenergeek-rss-10-1793972400000",
       "title": "La chute des valeurs de l’IA atteint aussi les fournisseurs d’électricité des centres de données",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4122,7 +4402,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1793971860000",
+      "id": "lenergeek-rss-11-1793971860000",
       "title": "Engrais : la crise d’Ormuz révèle une autre dépendance mondiale au gaz et au pétrole",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4146,7 +4426,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1793961600000",
+      "id": "lenergeek-rss-12-1793961600000",
       "title": "La chute des valeurs de l’IA frappe aussi les entreprises qui alimentent les centres de données",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4171,7 +4451,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1793952000000",
+      "id": "lenergeek-rss-13-1793952000000",
       "title": "La fin du moteur thermique reportée : l’Europe recule sur le CO2",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4195,7 +4475,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1793949408000",
+      "id": "lenergeek-rss-14-1793949408000",
       "title": "Engie dépasse 10 GW de stockage en service ou en chantier et relève ses ambitions pour 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4221,7 +4501,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1793948400000",
+      "id": "lenergeek-rss-15-1793948400000",
       "title": "Gazole russe : les acheteurs américains hésitent à recevoir les cargaisons malgré l’accord Trump-Poutine",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4245,7 +4525,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1793947808000",
+      "id": "lenergeek-rss-16-1793947808000",
       "title": "En 1972, une anomalie a été détectée par des scientifiques dans de l’uranium extrait au Gabon : des réacteurs nucléaires naturels avaient fonctionné il y a deux milliards d’années",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4271,7 +4551,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1793946025000",
+      "id": "lenergeek-rss-17-1793946025000",
       "title": "Elon Musk a fait transformer des moteurs de Boeing 747 pour son centre de données IA, une pollution qui incite des habitants à alerter les autorités",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4297,7 +4577,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1793944500000",
+      "id": "lenergeek-rss-18-1793944500000",
       "title": "Data centers : ce que les projections de RTE changent pour le réseau électrique français",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4322,7 +4602,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1793940000000",
+      "id": "lenergeek-rss-19-1793940000000",
       "title": "La chute des valeurs de l’IA frappe aussi les entreprises qui alimentent les centres de données",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4348,7 +4628,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1793939949000",
+      "id": "lenergeek-rss-20-1793939949000",
       "title": "Électricité à Mayotte : la CRE alerte sur le coût des nouvelles centrales prévues",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4372,84 +4652,6 @@
       "summary": "Dans une analyse mise en ligne le 5 novembre, la Commission de régulation de l’énergie juge nécessaire de renforcer la production électrique à Mayotte, mais conteste le dimensionnement de deux nouveaux moyens de base. Elle propose d’étudier une combinaison avec des moyens de poin…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1793997948000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-11-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1793997948000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-11-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1793997948000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-11-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1793976850000",
@@ -4794,6 +4996,81 @@
       "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "association-bbca-rss-0-1793887617000",
+      "title": "CONGRES HLM 2026 : la décarbonation au cœur d’« Habiter 2032 »",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/congres-hlm-2026-la-decarbonation-au-coeur-d-habiter-2032/",
+      "image": null,
+      "date": "2026-11-05",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Du 22 au 24 septembre, Bordeaux a accueilli le 86e Congrès Hlm placé sous la bannière « Habiter 2032. Pour un quinquennat utile ». La décarbonation s’est imposée comme le fil rouge des débats pour les plus de 27 000 visiteurs et professionnels réunis à cette occasion. L’article C…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "association-bbca-rss-1-1793886277000",
+      "title": "Baromètre BIG 2026 – Les investisseurs engagés dans la décarbonation, valeur centrale pour la liquidité des actifs > Le label BBCA progresse encore",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/barometre-big-2026-les-investisseurs-engages-dans-la-decarbonation-valeur-centrale-pour-la-liquidite-des-actifs-le-label-bbca-progresse-encore/",
+      "image": null,
+      "date": "2026-11-05",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire",
+        "Réglementation"
+      ],
+      "summary": "Selon la 5e édition du Baromètre bas carbone dans l’immobilier, publiée par BIG (Business Immo Global) lors du Sibca 2026, les investisseurs poursuivent avec ténacité leur engagement en faveur de la décarbonation malgré la crise, afin de préserver la liquidité de leurs actifs. Le…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "association-bbca-rss-2-1793866356000",
+      "title": "Revue de médias 100% décarbonée",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/revue-de-medias-100-decarbonee-2/",
+      "image": null,
+      "date": "2026-11-05",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire",
+        "Réglementation",
+        "Économie du bâtiment",
+        "Réemploi"
+      ],
+      "summary": "Du SIBCA à Batimat, les deux mois écoulés montrent un secteur du bâtiment et de la construction partagé entre les engagements de décarbonation et la recherche de modèles économiques viables. Les médias s’intéressent aux investissements, à la mesure de l’empreinte carbone, au bois…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "capeb-rss-1-1793888715000",
@@ -5959,80 +6236,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1793920200000",
-      "title": "IQM annonce l’intrication simultanée des 54 qubits d’Emerald",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/iqm-annonce-lintrication-simultanee-des-54-qubits-demerald/199096-2026-11",
-      "image": null,
-      "date": "2026-11-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "La société finlandaise IQM Quantum Computers a annoncé, dans un communiqué, que son système IQM Emerald accessible via le cloud a intriqué simultanément les 54 qubits de sa puce, une performance qu’elle présente comme représentative de la qualité de calcul lorsque tous les qubits…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-8-1793901000000",
-      "title": "Le vortex polaire vacille dès novembre : l’Europe attendra pour savoir si le froid suivra",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/vortex-polaire-novembre-2026-froid-europe/199536-2026-11",
-      "image": null,
-      "date": "2026-11-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Début novembre 2026, la stratosphère arctique se réchauffe déjà. Les simulations prévoient des anomalies de température dépassant localement 27 °C dans les jours à venir, notamment durant la semaine du 9 au 15 novembre. Le vortex polaire se déforme, mais l’inversion de ses vents …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1793899265000",
-      "title": "AAH 2027 : près de 24 euros de plus par mois, mais un montant encore suspendu à l’inflation",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/aah-2027-hausse-montant-revalorisation/199531-2026-11",
-      "image": null,
-      "date": "2026-11-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Près de 24 euros de plus chaque mois pour les bénéficiaires de l’allocation aux adultes handicapés à taux plein. La Commission des comptes de la Sécurité sociale évalue à 2,3% la revalorisation de l’AAH au 1er avril 2027. A ce stade, ce n’est encore qu’une projection. 1 065,55 eu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-16-1793922000000",
+      "id": "lenergeek-rss-21-1793922000000",
       "title": "Pétrole : après la forte chute des cours, un rebond brutal rappelle la fragilité du marché",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6058,7 +6262,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1793920532000",
+      "id": "lenergeek-rss-22-1793920532000",
       "title": "Réseaux électriques et stockage : Christine Lagarde appelle l’Europe à investir pour résister aux chocs climatiques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6084,7 +6288,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1793912490000",
+      "id": "lenergeek-rss-23-1793912490000",
       "title": "Vortex polaire en novembre 2026 : quel risque réel pour le chauffage et l’énergie ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6105,133 +6309,6 @@
         "Confort d’été"
       ],
       "summary": "Une perturbation précoce du vortex polaire intrigue les Français. Météo-France rappelle pourquoi elle ne permet pas de prédire une vague de froid ni une tension énergétique. L’article Vortex polaire en novembre 2026 : quel risque réel pour le chauffage et l’énergie ? est apparu e…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-19-1793906106000",
-      "title": "Au Royaume-Uni, les nouveaux parcs éoliens et solaires devront rémunérer les communautés locales",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/05/royaume-uni-projet-loi-retombees-locales-eolien-solaire-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/96d5b1ce-retombees-locales-eolien-solaire-royaume-uni.png",
-      "date": "2026-11-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Le gouvernement britannique a présenté le 4 novembre un projet de loi qui prévoit des avantages obligatoires pour les collectivités accueillant certains nouveaux projets renouvelables. Les montants envisagés diffèrent entre éolien et solaire et devront encore être précisés par de…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-20-1793901513000",
-      "title": "Vortex polaire perturbé en novembre 2026 : ce que cela signifie vraiment pour l’hiver et l’énergie",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/05/vortex-polaire-novembre-2026-risque-froid-energie-20261105-1955/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/b98716ea-vortex-polaire-novembre-2026.png",
-      "date": "2026-11-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "Météo-France évoque une perturbation stratosphérique précoce. Pourquoi ce signal ne permet pas encore d'annoncer une vague de froid, ni une flambée des prix de l'énergie. L’article Vortex polaire perturbé en novembre 2026 : ce que cela signifie vraiment pour l’hiver et l’énergie …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-21-1793891756000",
-      "title": "Électricité européenne : 5,4 milliards d’euros pour gérer les congestions du réseau en 2025",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/05/acer-congestion-reseaux-electricite-europe-54-milliards-2025/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/7d05479c-congestion-reseau-electrique-europe.png",
-      "date": "2026-11-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Dans son bilan dévoilé le 4 novembre, le régulateur européen ACER chiffre à 5,4 milliards d’euros les coûts de gestion des congestions électriques en 2025, contre 4,3 milliards un an auparavant. L’intégration des marchés progresse, mais plusieurs obstacles limitent encore les éch…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1793883600000",
-      "title": "Belgique : une panne prive 20 000 foyers d’électricité et perturbe un hôpital",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/05/belgique-panne-zottegem-20000-foyers-hopital-5-novembre-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/80308da9-panne-electrique-belgique.png",
-      "date": "2026-11-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Confort d’été"
-      ],
-      "summary": "Une défaillance électrique autour de Zottegem a touché environ 20 000 foyers belges le 5 novembre. Le courant a été largement rétabli, mais les perturbations ont également affecté les trains, les carrefours et les interventions programmées d’un hôpital. L’article Belgique : une p…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1793882489000",
-      "title": "Énergie et eau : la production recule de 3,8 % en septembre, selon l’Insee",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/05/production-energie-eau-septembre-2026-insee-0511-1440/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/3a0c6014-production-energie-septembre-2026.png",
-      "date": "2026-11-05",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "L’Insee mesure une baisse de 3,8 % de la production des industries extractives, de l’énergie et de l’eau en septembre 2026, après un recul de 2,8 % en août. Cette contraction explique en grande partie le repli de l’indice industriel global, alors que les usines manufacturières en…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6601,99 +6678,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-11-1793750400000",
-      "title": "prevenir et guerir les difficultes des entreprises",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/en/actualites-batiment/actualite/prevenir-et-guerir-les-difficultes-des-entreprises",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-12-1793750400000",
-      "title": "prevenir et guerir les difficultes des entreprises",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/prevenir-et-guerir-les-difficultes-des-entreprises",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-20-1793750400000",
-      "title": "budget 2027",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/en/actualites-batiment/presse/budget-2027",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-21-1793750400000",
-      "title": "budget 2027",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/presse/budget-2027",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-41-1793750400000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1793750400000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -6716,7 +6701,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-89-1793750400000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-70-1793750400000",
       "title": "ffb 2026 2027 combats en cours",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -6913,7 +6898,7 @@
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/observatoire-de-la-tranquillite-publique-du-cispd-de-nantes-metropole/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-11-04",
       "access": "open",
       "official": false,
@@ -10730,21 +10715,20 @@
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/les-lignes-regeneratives-quelles-synergies-territoriales-quelles-vocations-pour-ces-fonciers/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-10-29",
       "access": "open",
       "official": false,
-      "highImpact": true,
-      "impactScore": 96,
+      "highImpact": false,
+      "impactScore": 88,
       "tags": [
         "Nantes",
         "Urbanisme",
         "Habitat",
         "Foncier",
-        "Réglementation",
         "Eau"
       ],
-      "summary": "3 000 000 d’hectares. C’est la surface totale en France des emprises en proximité direct des lignes haute et très haute tension. Ce Carnet de l’Auran retrace le travail partenarial de l’Auran avec le gestionnaire du Réseau de Transport d’Électricité (RTE) sur les enjeux de valori…",
+      "summary": "3 000 000 d’hectares. C’est la surface totale en France des emprises en proximité direct des lignes haute et très haute tension. Comment faire de ces fonciers une opportunité de projet pour les territoires ? Ce Carnet de l’Auran retrace le travail partenarial de l’Auran avec le g…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11869,6 +11853,30 @@
       "collectMethod": "rss"
     },
     {
+      "id": "association-bbca-rss-3-1793012782000",
+      "title": "BBCA à Barcelone pour le sommet de Built by Nature",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/bbca-a-barcelone-pour-le-sommet-de-built-by-nature/",
+      "image": null,
+      "date": "2026-10-26",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire",
+        "Biosourcé"
+      ],
+      "summary": "Barcelone, capitale mondiale de l’architecture 2026, a accueilli les 5 et 6 octobre le sommet annuel de Built by Nature. L’événement a réuni 250 dirigeants de l’immobilier et des filières biosourcées, venus de France, du Royaume-Uni, d’Italie, d’Allemagne, des Pays-Bas et d’Espag…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "ordre-des-architectes-cnoa-rss-2-1793003395000",
       "title": "50 ans de la loi sur l’architecture : participez à la soirée AT2026 à Caen",
       "source": "Ordre des Architectes — CNOA",
@@ -12124,7 +12132,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-152-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-134-1792713600000",
       "title": "legislatives prios 1 2",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -12147,7 +12155,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-153-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-135-1792713600000",
       "title": "legislatives prios 3 4",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -12170,7 +12178,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-154-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-136-1792713600000",
       "title": "legislatives prios 5 6",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -12193,7 +12201,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-155-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-137-1792713600000",
       "title": "legislatives prios 7 8",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -12216,7 +12224,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-156-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-138-1792713600000",
       "title": "legislatives prios 9 10",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -12239,7 +12247,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-157-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-139-1792713600000",
       "title": "legislatives prios 11 12",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -12262,7 +12270,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-158-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-140-1792713600000",
       "title": "legislatives prios 13 14",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -12285,7 +12293,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-159-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-141-1792713600000",
       "title": "legislatives prios 15 16",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -12892,7 +12900,7 @@
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/cycle-de-webinaires-sur-le-logement-social-fondamentaux-et-leviers-locaux-de-production/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-10-20",
       "access": "open",
       "official": false,
@@ -12906,7 +12914,7 @@
         "Réglementation",
         "Énergie"
       ],
-      "summary": "Projet immobilier de la friche Richomme à Blain, 85 logements dont 22% de logements sociaux, HUCA Architecture. Crédit photo : Auran, octobre 2026 La Direction Départementale des Territoires et de la Mer (DDTM) et ses partenaires (USH, EPFLA, intercommunalités, …) ont proposé sou…",
+      "summary": "La Direction Départementale des Territoires et de la Mer (DDTM) et ses partenaires (USH, EPFLA, intercommunalités, …) ont proposé sous l’égide du Préfet de Loire-Atlantique une série de 5 webinaires de 30 mn sur les leviers locaux de production d’une offre de logements sociaux. E…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -13233,13 +13241,13 @@
     },
     {
       "id": "auran-rss-3-1792403544000",
-      "title": "Nouvelle étude &#8211; Loire-Atlantique : davantage de ménages d’ici 2050, un ralentissement après 2030",
+      "title": "Nouvelle étude – Loire-Atlantique : davantage de ménages d’ici 2050, un ralentissement après 2030",
       "source": "AURAN",
       "sourceId": "auran",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/nouvelle-etude-loire-atlantique-davantage-de-menages-dici-2050-un-ralentissement-apres-2030/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-10-19",
       "access": "open",
       "official": false,
@@ -13251,7 +13259,7 @@
         "Habitat",
         "Foncier",
         "Réglementation",
-        "RE2020"
+        "Bâtiment"
       ],
       "summary": "Combien de ménages comptera la Loire-Atlantique en 2025 ? Quelle serait la composition des ménages ? L’Insee, en partenariat avec Nantes Métropole et l’Auran, a publié cette semaine une étude sur les projections de ménages à l’échelle départementale et infra-départementale. Cette…",
       "premiumSummary": "",
@@ -14179,19 +14187,18 @@
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/a-nozay-un-diagnostic-partage-pour-preparer-la-prochaine-convention-territoriale-globale/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-10-14",
       "access": "open",
       "official": false,
       "highImpact": true,
-      "impactScore": 96,
+      "impactScore": 88,
       "tags": [
         "Nantes",
         "Urbanisme",
         "Habitat",
         "Foncier",
-        "Réglementation",
-        "Eau"
+        "Réglementation"
       ],
       "summary": "Le 9 septembre dernier, la Communauté de communes de Nozay a réuni élus communaux et communautaires, directeurs/directrices généraux des services (DGS), et partenaires du territoire à l’occasion d’un séminaire consacré à l’évaluation de sa Convention Territoriale Globale (CTG). C…",
       "premiumSummary": "",
@@ -17028,6 +17035,29 @@
       "collectMethod": "rss"
     },
     {
+      "id": "association-bbca-rss-4-1790670386000",
+      "title": "Newsletter BBCA #30 – 29 septembre 2026",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/newsletter-bbca-30-29-septembre-2026/",
+      "image": null,
+      "date": "2026-09-29",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire"
+      ],
+      "summary": "Découvrez la newsletter BBCA n°30 du 29 septembre 2026. L’article Newsletter BBCA #30 – 29 septembre 2026 est apparu en premier sur Association BBCA. Découvrez la newsletter BBCA n°30 du 29 septembre 2026. L’article Newsletter BBCA #30 &#8211; 29 septembre 2026 est apparu en prem…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "capeb-rss-11-1790640000000",
       "title": "« LAISSEZ-NOUS TRAVAILLER ! » : la CAPEB lance une mobilisation nationale pour relancer l’activité",
       "source": "CAPEB",
@@ -17327,6 +17357,30 @@
         "Économie du bâtiment"
       ],
       "summary": "« Les nouvelles données analysées par T&E montrent que les conducteurs de véhicules électriques paient, en moyenne, moins de la moitié de ce que paient les conducteurs de véhicules diesel pour chaque kilomètre parcouru », indique l’ONG Transport & Environment (T&E) dans un commun…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "association-bbca-rss-5-1790588986000",
+      "title": "BBCA à la une des médias",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/bbca-a-la-une-des-medias-2/",
+      "image": null,
+      "date": "2026-09-28",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire",
+        "Réglementation"
+      ],
+      "summary": "Presse, radio, télévision, médias immobiliers mais également médias dédiés à l’environnement ou médias généralistes, ils se sont fait un large écho de l’immobilier bas carbone et de l’action de BBCA à l’occasion du Sibca. Une vingtaine d’interviews de l’équipe BBCA et plus de 50 …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -18050,6 +18104,107 @@
       "collectMethod": "rss"
     },
     {
+      "id": "association-bbca-rss-6-1790162541000",
+      "title": "Trois regards, trois échelles d’action",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/trois-regards-trois-echelles-daction/",
+      "image": null,
+      "date": "2026-09-23",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire",
+        "Réglementation"
+      ],
+      "summary": "Trois grands témoins du SIBCA 2026 dressent un même constat : celui d'une transition bas-carbone désormais bien engagée, portée par une filière qui accélère. L’article Trois regards, trois échelles d’action est apparu en premier sur Association BBCA. Trois grands témoins du SIBCA…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "association-bbca-rss-7-1790161710000",
+      "title": "BBCA et le Hub des prescripteurs bas carbone lancent le premier Observatoire européen de l’immobilier bas carbone",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/27135-2/",
+      "image": null,
+      "date": "2026-09-23",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "En présence du ministre du Logement, Vincent Jeanbrun, l'Association BBCA et le Hub des prescripteurs bas carbone ont signé, à l'occasion du SIBCA, un partenariat inédit pour créer le premier Observatoire européen de l'immobilier bas carbone. L’article BBCA et le Hub des prescrip…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "association-bbca-rss-8-1790160825000",
+      "title": "Découvrez les champions de l’immobilier bas carbone 2026 !",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/decouvrez-les-champions-de-limmobilier-bas-carbone/",
+      "image": null,
+      "date": "2026-09-23",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire",
+        "Réglementation",
+        "RE2020",
+        "Confort d’été"
+      ],
+      "summary": "Comme chaque année, le SIBCA a été le théâtre de la remise des Trophées et des Grands Prix de l’Association BBCA. Retour sur une édition exceptionnelle et présentation des lauréats. L’article Découvrez les champions de l’immobilier bas carbone 2026 ! est apparu en premier sur Ass…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "association-bbca-rss-9-1790159909000",
+      "title": "Climat : le bâtiment sommé de conjuguer atténuation et adaptation",
+      "source": "Association BBCA",
+      "sourceId": "association-bbca",
+      "sourceType": "Certification / label",
+      "region": "National",
+      "url": "https://www.batimentbascarbone.org/climat-le-batiment-somme-de-conjuguer-attenuation-et-adaptation/",
+      "image": null,
+      "date": "2026-09-23",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Carbone",
+        "Bas carbone",
+        "Observatoire",
+        "Réglementation",
+        "RE2020",
+        "Bâtiment"
+      ],
+      "summary": "« On ne pourra pas vivre normalement à +4 degrés. » Le constat, formulé par le climatologue Jean Jouzel, a donné le ton de la cérémonie des Trophées et Grands Prix de l'Association BBCA, le 2 septembre 2026 au SIBCA. Face à lui, Florian Lewis, de la Direction de l'habitat, de l'u…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "cerema-sitemap-837-1790167724000",
       "title": "performances proprietes",
       "source": "CEREMA",
@@ -18660,7 +18815,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-97-1789603200000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-79-1789603200000",
       "title": "gouvernement frederic carre rencontre vincent jeanbrun",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -19870,7 +20025,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-344-1788220800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-320-1788220800000",
       "title": "actu simple 31",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -22121,7 +22276,7 @@
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/leconomie-nantaise-toujours-au-ralenti-en-2025/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-07-20",
       "access": "open",
       "official": false,
@@ -22506,13 +22661,13 @@
     },
     {
       "id": "auran-rss-6-1783659600000",
-      "title": "Marché de l&#8217;accession : une embellie confirmée mais les nuages restent en vue",
+      "title": "Marché de l’accession : une embellie confirmée mais les nuages restent en vue",
       "source": "AURAN",
       "sourceId": "auran",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://www.auran.org/marche-de-laccession-une-embellie-confirmee-mais-les-nuages-restent-en-vue/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": null,
       "date": "2026-07-10",
       "access": "open",
       "official": false,
@@ -22524,7 +22679,7 @@
         "Habitat",
         "Foncier",
         "Réglementation",
-        "Eau"
+        "Économie du bâtiment"
       ],
       "summary": "Après trois années de fort recul, le nombre d’acquisitions par emprunt a nettement rebondi : + 45 % entre 2024 et 2025. Les prix suivent la même orientation et semblent se stabiliser à la hausse en 2025, après deux années de baisse. Cette embellie demeure toutefois fragile. Le vo…",
       "premiumSummary": "",
