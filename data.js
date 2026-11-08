@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-11-07T23:31:52.739Z",
+  "generatedAt": "2026-11-08T05:15:31.534Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,211 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1794114600000",
+      "title": "Des chercheurs créés une méthode qui archive l’ARN des cellules humaines",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-chercheurs-crees-une-methode-qui-archive-larn-des-cellules-humaines/199276-2026-11",
+      "image": null,
+      "date": "2026-11-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "Des chercheurs de l’ETH Zurich à Bâle ont mis au point une méthode qui conserve une archive d’ARN dans des cellules humaines cultivées pendant plusieurs jours, pour retracer des réactions cellulaires éphémères. Les travaux ont été publiés dans Nature Biotechnology le 21 octobre 2…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1794111000000",
+      "title": "Des ondes radio pour contrôler le spin nucléaire d’un atome unique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/des-ondes-radio-pour-controler-le-spin-nucleaire-dun-atome-unique/199261-2026-11",
+      "image": null,
+      "date": "2026-11-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des physiciens de l’Université de technologie de Delft ont utilisé des ondes radio pour contrôler le magnétisme du noyau d’un seul atome, selon une étude présentée dans Nature Communications et datée du 24 octobre 2026 selon les listings de Springer. Ce résultat, dont le mécanism…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-0-1794106800000",
+      "title": "Mélenchon veut arrêter les nouveaux EPR2 : ce que changerait son programme pour le nucléaire français",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/08/melenchon-arret-epr2-programme-nucleaire-8-novembre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/38584016-melenchon-epr2.jpg",
+      "date": "2026-11-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Au Bourget, le 7 novembre 2026, Jean-Luc Mélenchon a défendu l'abandon des futurs réacteurs EPR2 et une transition vers les renouvelables. Cette orientation présidentielle, encore au stade du programme, se heurte à une stratégie industrielle déjà engagée. L’article Mélenchon veut…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1794103200000",
+      "title": "EPR2 : Mélenchon veut arrêter les nouveaux réacteurs, à rebours du calendrier d’EDF",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/08/melenchon-epr2-abandon-programme-nucleaire-8-novembre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/d5874d71-epr2-melenchon.jpg",
+      "date": "2026-11-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Au Bourget, le 7 novembre, Jean-Luc Mélenchon a réaffirmé son opposition aux futurs EPR2. Son projet énergétique se heurte à une relance nucléaire déjà engagée, avec six réacteurs envisagés et une décision d’investissement attendue avant la fin de l’année. L’article EPR2 : Mélenc…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1794102773000",
+      "title": "Marché de l’électricité : comment comparer une offre à prix fixe et un contrat indexé",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/08/marche-electricite-comparer-prix-fixe-indexe-guide-2026-11-08/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/ff2b7e6b-offre-electricite-prix-fixe-indexe.jpg",
+      "date": "2026-11-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Prix du kWh, abonnement, formule d’indexation et qualité de service : les points à examiner avant de changer d’offre d’électricité. L’article Marché de l’électricité : comment comparer une offre à prix fixe et un contrat indexé est apparu en premier sur L'EnerGeek. Prix du kWh, a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1794114916000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-11-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1794114916000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-11-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1794114916000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-11-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "reporterre-rss-0-1794033000000",
       "title": "Ouverture de l'A69 : retour sur 4 années d'une lutte farouche et inventive",
       "source": "Reporterre",
@@ -2314,7 +2519,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1794093000000",
+      "id": "enerzine-rss-2-1794093000000",
       "title": "Un signal électrique pour lire l’ordre d’un altermagnétique",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2338,7 +2543,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1794084600000",
+      "id": "enerzine-rss-3-1794084600000",
       "title": "Huile d’olive : l’Espagne retire une partie de sa production du marché pour sauver les prix",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2363,7 +2568,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1794062400000",
+      "id": "enerzine-rss-4-1794062400000",
       "title": "IBM installe à Chicago son système quantique le plus avancé",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2388,7 +2593,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1794046800000",
+      "id": "enerzine-rss-5-1794046800000",
       "title": "Hypercar électrique à plus de 500 km/h : comment YANGWANG (BYD) a préparé son record",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2414,7 +2619,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1794028200000",
+      "id": "enerzine-rss-6-1794028200000",
       "title": "Tesla indique avoir lancé la production de son robot humanoïde Optimus à Fremont",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2440,7 +2645,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1794024600000",
+      "id": "enerzine-rss-7-1794024600000",
       "title": "Les feux de tourbières en Indonésie ont émis environ 190 millions de tonnes de carbone",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2466,7 +2671,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1794081600000",
+      "id": "lenergeek-rss-3-1794081600000",
       "title": "COP31 : la France précise ses priorités avant l’ouverture des négociations à Antalya",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2490,7 +2695,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1794079200000",
+      "id": "lenergeek-rss-4-1794079200000",
       "title": "COP31 : la France détaille ses priorités avant l’ouverture des négociations à Antalya",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2514,7 +2719,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1794060157000",
+      "id": "lenergeek-rss-5-1794060157000",
       "title": "Réseau de gaz en France : 209 000 kilomètres de canalisations à l’heure du biométhane",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2540,7 +2745,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1794056599000",
+      "id": "lenergeek-rss-6-1794056599000",
       "title": "Réseau de gaz : les chiffres de GRDF et les défis du biométhane en France",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2565,7 +2770,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1794045519000",
+      "id": "lenergeek-rss-7-1794045519000",
       "title": "Réseau de gaz : comment GRDF surveille les fuites et organise les interventions",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2590,7 +2795,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1794043860000",
+      "id": "lenergeek-rss-8-1794043860000",
       "title": "Copropriété : isolation, chauffage, ventilation, quels travaux financés par les aides ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2616,7 +2821,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1794043320000",
+      "id": "lenergeek-rss-9-1794043320000",
       "title": "Faute de gaz naturel, l’Inde a importé 52 % d’engrais azotés de plus",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2640,7 +2845,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1794042000000",
+      "id": "lenergeek-rss-10-1794042000000",
       "title": "Gaz : le prix de gros rebondit vendredi, malgré une baisse sur la semaine",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2666,7 +2871,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1794034950000",
+      "id": "lenergeek-rss-11-1794034950000",
       "title": "Gaz en novembre 2026 : comment lire le prix repère et comparer sa facture",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2691,7 +2896,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1794032400000",
+      "id": "lenergeek-rss-12-1794032400000",
       "title": "Hernán, 48 ans, a quitté la banlieue et construit une maison en terre et bouteilles dans les sierras de Córdoba : « Cet endroit a transformé ma vie »",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2717,7 +2922,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1794020956000",
+      "id": "lenergeek-rss-13-1794020956000",
       "title": "Renouvelables : l’AIE prévoit 43 % de l’électricité mondiale en 2031, mais alerte sur les réseaux",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2742,7 +2947,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1794009639000",
+      "id": "lenergeek-rss-14-1794009639000",
       "title": "TGV M : ce que les derniers essais changent pour la mise en service du nouveau train",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2765,84 +2970,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Le TGV M poursuit sa préparation avant son arrivée commerciale. Homologation, essais, capacité et consommation : les faits établis et les points encore ouverts. L’article TGV M : ce que les derniers essais changent pour la mise en service du nouveau train est apparu en premier su…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1794094299000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-11-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1794094299000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-11-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1794094299000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-11-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-39-1793956794000",
@@ -4480,7 +4607,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1794006600000",
+      "id": "enerzine-rss-8-1794006600000",
       "title": "Amazon mise sur les lunettes connectées pour guider ses livreurs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4505,7 +4632,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1793997900000",
+      "id": "enerzine-rss-9-1793997900000",
       "title": "Dacia miserait sur la piste du Bridger pour un SUV électrique abordable",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4530,57 +4657,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1793996400000",
-      "title": "Retraites 2027 : 430 euros de moins par an dans la simulation, le seuil de protection encore en débat",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/budget-2027-pensions-gel-retraites/199624-2026-11",
-      "image": null,
-      "date": "2026-11-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Le gel partiel des pensions n’est pas voté. Mais le projet de budget pour 2027 pourrait réduire le pouvoir d’achat de millions de ménages. Selon le scénario étudié par l’OFCE, la sous-indexation entraînerait une perte moyenne de 430 euros par an pour les foyers concernés. Le déba…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1793970600000",
-      "title": "Toyota et Waymo préparent leurs premiers robotaxis au Japon pour 2027",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/toyota-waymo-robotaxis-japon-2027/199601-2026-11",
-      "image": null,
-      "date": "2026-11-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Toyota et Waymo on annoncé la semaine dernière une nouvelle étape de leur partenariat car en effet, les deux entreprises prévoient de commencer à tester et à valider une flotte de Toyota bZ4X autonomes au Japon en 2027. Un déploiement au Royaume-Uni et sur d’autres marchés desser…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-12-1794006984000",
+      "id": "lenergeek-rss-15-1794006984000",
       "title": "Méthane : les États de l’UE veulent repousser à 2028 les contrôles sur les importations d’énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4605,7 +4682,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1794006932000",
+      "id": "lenergeek-rss-16-1794006932000",
       "title": "Turquie : un plan énergétique de 500 milliards de dollars pour électrifier le pays d’ici 2040",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4630,7 +4707,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1793992427000",
+      "id": "lenergeek-rss-17-1793992427000",
       "title": "Grèce-Chypre : Athènes autorise de nouvelles études pour le câble électrique sous-marin",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4654,7 +4731,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1793991719000",
+      "id": "lenergeek-rss-18-1793991719000",
       "title": "TGV M en service : ce que promet réellement sa sobriété énergétique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4680,7 +4757,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1793985600000",
+      "id": "lenergeek-rss-19-1793985600000",
       "title": "Le nouveau TGV entre en service avec une promesse de 20 % d’énergie en moins",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4705,7 +4782,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1793981809000",
+      "id": "lenergeek-rss-20-1793981809000",
       "title": "Simulateur électricité : estimer sa consommation avant de souscrire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4731,7 +4808,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1793975940000",
+      "id": "lenergeek-rss-21-1793975940000",
       "title": "XL1 : cette Volkswagen hybride qui consomme moins d’1 litre/100 km",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4755,7 +4832,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1793974325000",
+      "id": "lenergeek-rss-22-1793974325000",
       "title": "Décret Tertiaire 2027 : comment anticiper les prochaines échéances réglementaires ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4781,7 +4858,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1793973858000",
+      "id": "lenergeek-rss-23-1793973858000",
       "title": "Vortex polaire et électricité : pourquoi le froid peut faire grimper la demande française",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4801,81 +4878,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "La recherche sur le vortex polaire relance une question énergétique : comment le froid agit-il sur la consommation d’électricité en France, et comment suivre les données RTE ? L’article Vortex polaire et électricité : pourquoi le froid peut faire grimper la demande française est …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-21-1793972400000",
-      "title": "La chute des valeurs de l’IA atteint aussi les fournisseurs d’électricité des centres de données",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/06/centres-donnees-electricite-chute-bourse-ia-novembre-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/967386ea-la-chute-des-valeurs-de-lia-atteint-aussi-les-four.png",
-      "date": "2026-11-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "La séance boursière du 5 novembre a frappé les fabricants de puces, mais aussi des entreprises énergétiques exposées à l'expansion des centres de données. Le mouvement illustre la sensibilité de leurs perspectives aux investissements dans l'intelligence artificielle. L’article La…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1793971860000",
-      "title": "Engrais : la crise d’Ormuz révèle une autre dépendance mondiale au gaz et au pétrole",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/06/engrais-crise-ormuz-dependance-mondiale-gaz-petrole/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/e321bbbd-gaz-naturel-engrais.png",
-      "date": "2026-11-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Le détroit d’Ormuz ne transporte pas uniquement des hydrocarbures. Dans une note publiée le 5 novembre 2026, l’IRIS montre comment la crise au Moyen-Orient perturbe la fabrication des engrais à travers deux matières premières essentielles : le gaz naturel et le soufre. L’article …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1793961600000",
-      "title": "La chute des valeurs de l’IA frappe aussi les entreprises qui alimentent les centres de données",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/06/bourse-ia-centres-donnees-fournisseurs-energie-5-novembre-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/0e3f4826-energie-centres-de-donnees-ia.png",
-      "date": "2026-11-06",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Bâtiment"
-      ],
-      "summary": "Le décrochage de Wall Street du 5 novembre ne s’est pas limité aux fabricants de puces. Les fournisseurs d’électricité et d’équipements destinés aux centres de données ont également reculé, sur fond de doutes concernant la vitesse de construction de ces infrastructures. L’article…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -11314,14 +11316,14 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "addrn-rss-0-1793108250000",
-      "title": "Territoires en mouvement, un podcast de l’addrn",
+      "id": "addrn-wp-42818-1793108250000",
+      "title": "Territoires en mouvement, un podcast de l&rsquo;addrn",
       "source": "ADDRN",
       "sourceId": "addrn",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://addrn.fr/territoires-en-mouvement-un-podcast-de-laddrn/",
-      "image": null,
+      "image": "https://addrn.fr/app/uploads/2026/10/ello.jpeg",
       "date": "2026-10-27",
       "access": "open",
       "official": false,
@@ -11333,9 +11335,9 @@ window.BATIVEILLE_DATA = {
         "Habitat",
         "Réglementation"
       ],
-      "summary": "Territoires en mouvement, c’est le podcast de l’addrn Environnement, habitat, démographie, mobilités, littoral… notre territoire est en constante évolution, mais les notions qui l’accompagnent ne sont pas toujours faciles à comprendre. Dans chaque épisode, nous décryptons simplem…",
+      "summary": "Territoires en mouvement, c&rsquo;est le podcast de l&rsquo;addrn Environnement, habitat, démographie, mobilités, littoral… notre territoire est en constante évolution, mais les notions qui l’accompagnent ne sont pas toujours faciles à comprendre. Dans chaque épisode, nous décryp…",
       "premiumSummary": "",
-      "collectMethod": "rss"
+      "collectMethod": "wordpress_api"
     },
     {
       "id": "envirobat-occitanie-rss-8-1793097629000",
@@ -19208,14 +19210,14 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "addrn-rss-1-1789048883000",
+      "id": "addrn-wp-42601-1789048883000",
       "title": "À l’échelle ELLO, où en est-on de l’artificialisation des sols ?",
       "source": "ADDRN",
       "sourceId": "addrn",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://addrn.fr/a-lechelle-ello-ou-en-est-on-de-lartificialisation-des-sols/",
-      "image": null,
+      "image": "https://addrn.fr/app/uploads/2025/12/LCD.jpg",
       "date": "2026-09-10",
       "access": "open",
       "official": false,
@@ -19229,7 +19231,7 @@ window.BATIVEILLE_DATA = {
       ],
       "summary": "À l’échelle ELLO, où en est-on de l’artificialisation des sols ? Un territoire majoritairement végétalisé, mais aux dynamiques contrastées Sur le territoire Estuaires et Littoral Loire Océan (ELLO), qui regroupe 8 EPCI, 109 communes et 490 000 habitants, les espaces couverts par …",
       "premiumSummary": "",
-      "collectMethod": "rss"
+      "collectMethod": "wordpress_api"
     },
     {
       "id": "envirobatbdm-rss-0-1789029308000",
@@ -22618,14 +22620,14 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "addrn-rss-2-1783599193000",
+      "id": "addrn-wp-41999-1783599193000",
       "title": "Mobilités, ça bouge !",
       "source": "ADDRN",
       "sourceId": "addrn",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
       "url": "https://addrn.fr/mobilites-ca-bouge/",
-      "image": null,
+      "image": "https://addrn.fr/app/uploads/2026/07/SNAG_0052123_ORI.jpg",
       "date": "2026-07-09",
       "access": "open",
       "official": false,
@@ -22639,9 +22641,9 @@ window.BATIVEILLE_DATA = {
         "Eau",
         "Confort d’été"
       ],
-      "summary": "Mobilités, ça bouge ! En ce début d’été, l’addrn vous partage les premiers résultats concernant l’évolution de la mobilité sur le territoire ELLO – Estuaires et Littoral Loire-Océan1. En 10 ans, 65 000 déplacements en moins chaque jour Tout comme les tendances observées au niveau…",
+      "summary": "Mobilités, ça bouge ! En ce début d’été, l&rsquo;addrn vous partage les premiers résultats concernant l’évolution de la mobilité sur le territoire ELLO – Estuaires et Littoral Loire-Océan1. En 10 ans, 65 000 déplacements en moins chaque jour Tout comme les tendances observées au …",
       "premiumSummary": "",
-      "collectMethod": "rss"
+      "collectMethod": "wordpress_api"
     },
     {
       "id": "scalen-nancy-sud-lorraine-rss-4-1783602293000",
