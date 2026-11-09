@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-11-08T23:31:41.364Z",
+  "generatedAt": "2026-11-09T05:27:05.036Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,185 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "enerzine-rss-0-1794201000000",
+      "title": "DarkSide-20k et LUX-ZEPLIN : deux expériences pour traquer la matière noire",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/darkside-20k-et-lux-zeplin-deux-experiences-pour-traquer-la-matiere-noire/199242-2026-11",
+      "image": null,
+      "date": "2026-11-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "De l’argon liquide pour DarkSide-20k, du xénon liquide pour LUX-ZEPLIN : les deux expériences recherchent des particules candidates à la matière noire. La première se construit en Italie avec une contribution de l’Université de l’Alberta. La seconde a enregistré aux États-Unis un…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1794197400000",
+      "title": "L’UTe2, un composé d’uranium, abrite 2 états supraconducteurs",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/lute2-un-compose-duranium-abrite-2-etats-supraconducteurs/199230-2026-11",
+      "image": null,
+      "date": "2026-11-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "RE2020"
+      ],
+      "summary": "Des physiciens de l’université Cornell rapportent que le ditellurure d’uranium (UTe2) peut présenter simultanément deux types distincts de supraconductivité. Publiée le 30 octobre dans Nature Physics, l’étude fait de l’UTe2, le principal candidat au titre de supraconducteur topol…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-0-1794189600000",
+      "title": "Électricité : le prix de gros français bondit de 38 % pour ce lundi 9 novembre",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/09/prix-gros-electricite-9-novembre-2026-hausse-38/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/7b786da0-prix-de-gros-electricite-9-novembre-2026.jpg",
+      "date": "2026-11-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le marché français de l'électricité affiche une moyenne de 334 euros par mégawattheure pour le lundi 9 novembre, contre 242 euros dimanche. Une flambée qui touche d'abord le marché de gros et ne se traduit pas automatiquement par une hausse identique des factures des ménages. L’a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1794182400000",
+      "title": "Un incendie dans une ancienne centrale nucléaire italienne, sans atteinte à la zone radiologique",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/09/incendie-centrale-nucleaire-trino-bureaux-novembre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/072fba26-incendie-centrale-nucleaire-trino.jpg",
+      "date": "2026-11-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Un feu s’est déclaré le 7 novembre dans les bureaux de l’ancienne centrale de Trino, au nord de l’Italie. L’exploitant chargé de son démantèlement assure que les installations radiologiques n’ont pas été touchées et que les opérations peuvent se poursuivre. L’article Un incendie …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-0-1794202011000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-11-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1794202011000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-11-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1794202011000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-11-09",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "reporterre-rss-0-1794119460000",
       "title": "Louve, escargot et chamois blessé : trois documentaires pour se rappeler la beauté du sauvage",
       "source": "Reporterre",
@@ -2263,7 +2442,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1794179400000",
+      "id": "enerzine-rss-2-1794179400000",
       "title": "Des transitions quantiques observées en attoseconde dans le graphène",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2289,7 +2468,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1794169200000",
+      "id": "enerzine-rss-3-1794169200000",
       "title": "Une batterie externe 20 000 mAh performante à moins de 30 euros",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2313,7 +2492,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1794160200000",
+      "id": "enerzine-rss-4-1794160200000",
       "title": "PS5, une mise à jour de 1,27 Go à l’approche de GTA VI",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2338,7 +2517,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1794155036000",
+      "id": "enerzine-rss-5-1794155036000",
       "title": "Zelda Ocarina of Time renaît sur Switch 2, la nostalgie a un prix",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2362,7 +2541,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1794149400000",
+      "id": "enerzine-rss-6-1794149400000",
       "title": "Feux de cheminée : l’interdiction s’étend à 657 communes, avec jusqu’à 1 500 euros d’amende",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2386,7 +2565,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1794144000000",
+      "id": "enerzine-rss-7-1794144000000",
       "title": "Black-out en 2027 : la France va simuler une panne générale sans couper le courant",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2410,7 +2589,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1794136200000",
+      "id": "enerzine-rss-8-1794136200000",
       "title": "Jensen Huang appelé à s’expliquer au Congrès après des soupçons d’approche chinoise autour de Nvidia",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2435,7 +2614,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1794114600000",
+      "id": "enerzine-rss-9-1794114600000",
       "title": "Des chercheurs créés une méthode qui archive l’ARN des cellules humaines",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2460,31 +2639,58 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1794111000000",
-      "title": "Des ondes radio pour contrôler le spin nucléaire d’un atome unique",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
+      "id": "lenergeek-rss-2-1794182057000",
+      "title": "Électricité : pourquoi les heures à prix négatifs se multiplient sur le marché de gros",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
       "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://www.enerzine.com/des-ondes-radio-pour-controler-le-spin-nucleaire-dun-atome-unique/199261-2026-11",
-      "image": null,
+      "url": "https://lenergeek.com/2026/11/09/electricite-prix-negatifs-flexibilite-cre-2026-11-09/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/769a1560-prix-negatifs-electricite.jpg",
       "date": "2026-11-08",
       "access": "Gratuit",
       "official": false,
       "highImpact": false,
-      "impactScore": 80,
+      "impactScore": 88,
       "tags": [
         "Presse professionnelle",
         "Énergie",
-        "Innovation",
-        "ENR"
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
       ],
-      "summary": "Des physiciens de l’Université de technologie de Delft ont utilisé des ondes radio pour contrôler le magnétisme du noyau d’un seul atome, selon une étude présentée dans Nature Communications et datée du 24 octobre 2026 selon les listings de Springer. Ce résultat, dont le mécanism…",
+      "summary": "La CRE a compté 513 heures de prix de gros négatifs en 2025. Ce signal révèle un besoin de flexibilité, sans rendre les factures des ménages négatives. L’article Électricité : pourquoi les heures à prix négatifs se multiplient sur le marché de gros est apparu en premier sur L'Ene…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1794171600000",
+      "id": "lenergeek-rss-3-1794178469000",
+      "title": "Marché de l’électricité en 2026 : ce que la fin de l’ARENH change pour les fournisseurs",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/08/marche-electricite-fin-arenh-fournisseurs-2026-9-novembre/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/a2a21479-fin-arenh-2026.jpg",
+      "date": "2026-11-08",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Depuis le 1er janvier 2026, l’accès régulé à l’électricité nucléaire historique a pris fin. Décryptage du nouveau cadre d’approvisionnement et des conséquences pour les contrats. L’article Marché de l’électricité en 2026 : ce que la fin de l’ARENH change pour les fournisseurs est…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-4-1794171600000",
       "title": "Pétrole irakien : un accord annoncé avec Washington pour franchir Ormuz par une voie proche d’Oman",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2508,7 +2714,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1794160800000",
+      "id": "lenergeek-rss-5-1794160800000",
       "title": "Énergie : Roland Lescure reprend temporairement le portefeuille de Maud Bregeon",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2532,7 +2738,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1794156000000",
+      "id": "lenergeek-rss-6-1794156000000",
       "title": "Électricité en Italie : un indicateur de prix recule le 8 novembre, sans annoncer une baisse en France",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2557,7 +2763,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1794142617000",
+      "id": "lenergeek-rss-7-1794142617000",
       "title": "Marché de l’électricité : pourquoi le prix de gros ne se retrouve pas directement sur la facture",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2583,7 +2789,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1794136023000",
+      "id": "lenergeek-rss-8-1794136023000",
       "title": "Terres rares : Solvay sécurise au Brésil de futurs approvisionnements pour son usine de La Rochelle",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2608,7 +2814,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1794128074000",
+      "id": "lenergeek-rss-9-1794128074000",
       "title": "Électricité : pourquoi les prix de gros peuvent devenir négatifs sans faire baisser aussitôt la facture",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2633,7 +2839,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1794122400000",
+      "id": "lenergeek-rss-10-1794122400000",
       "title": "Électricité : le prix de gros recule dimanche, mais le pic du soir reste élevé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2657,7 +2863,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1794122220000",
+      "id": "lenergeek-rss-11-1794122220000",
       "title": "Tchernobyl : une conférence des donateurs pour financer la réparation de l’arche de confinement",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2682,7 +2888,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1794122157000",
+      "id": "lenergeek-rss-12-1794122157000",
       "title": "Aux Pays-Bas, RWE lance un stockage géant de 400 MW pour assouplir le réseau électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2708,7 +2914,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1794120647000",
+      "id": "lenergeek-rss-13-1794120647000",
       "title": "En déversant plus de 200 000 barils de déchets radioactifs dans l’océan Atlantique, les Américains et Français ont sans doute perturbé les écosystèmes marins",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2732,7 +2938,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1794118841000",
+      "id": "lenergeek-rss-14-1794118841000",
       "title": "Pour contourner les frappes ukrainiennes, la Russie envoie son métal par l’Arctique pour la première fois en 30 ans : le trajet coûte bien plus cher",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2757,7 +2963,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1794117298000",
+      "id": "lenergeek-rss-15-1794117298000",
       "title": "Marché de l’électricité : pourquoi les prix de gros ne résument pas la facture",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2783,7 +2989,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1794114089000",
+      "id": "lenergeek-rss-16-1794114089000",
       "title": "Marché de l’électricité : à quoi sert le nouveau mécanisme de capacité entré en vigueur en novembre 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2809,7 +3015,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1794110455000",
+      "id": "lenergeek-rss-17-1794110455000",
       "title": "Facture d’électricité : comment distinguer index réel, estimation et consommation facturée",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2833,7 +3039,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1794106800000",
+      "id": "lenergeek-rss-18-1794106800000",
       "title": "Mélenchon veut arrêter les nouveaux EPR2 : ce que changerait son programme pour le nucléaire français",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2859,7 +3065,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1794103200000",
+      "id": "lenergeek-rss-19-1794103200000",
       "title": "EPR2 : Mélenchon veut arrêter les nouveaux réacteurs, à rebours du calendrier d’EDF",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2885,7 +3091,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1794102773000",
+      "id": "lenergeek-rss-20-1794102773000",
       "title": "Marché de l’électricité : comment comparer une offre à prix fixe et un contrat indexé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2909,84 +3115,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Prix du kWh, abonnement, formule d’indexation et qualité de service : les points à examiner avant de changer d’offre d’électricité. L’article Marché de l’électricité : comment comparer une offre à prix fixe et un contrat indexé est apparu en premier sur L'EnerGeek. Prix du kWh, a…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1794180686000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-11-08",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1794180686000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-11-08",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1794180686000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-11-08",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "le-journal-du-grand-paris-rss-0-1794158677000",
@@ -3192,31 +3320,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1794093000000",
-      "title": "Un signal électrique pour lire l’ordre d’un altermagnétique",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/un-signal-electrique-pour-lire-lordre-dun-altermagnetique/199258-2026-11",
-      "image": null,
-      "date": "2026-11-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Des physiciens du CIC nanoGUNE, à Saint-Sébastien, annoncent avoir converti l’ordre magnétique interne d’un matériau altermagnétique, le Mn₅Si₃, en un courant de spin détecté à 300 nanomètres, selon une annonce datée du 28 octobre. Le groupe présente ce résultat publié dans Natur…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-17-1794081600000",
+      "id": "lenergeek-rss-21-1794081600000",
       "title": "COP31 : la France précise ses priorités avant l’ouverture des négociations à Antalya",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3240,7 +3344,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1794079200000",
+      "id": "lenergeek-rss-22-1794079200000",
       "title": "COP31 : la France détaille ses priorités avant l’ouverture des négociations à Antalya",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3264,7 +3368,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1794060157000",
+      "id": "lenergeek-rss-23-1794060157000",
       "title": "Réseau de gaz en France : 209 000 kilomètres de canalisations à l’heure du biométhane",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3286,106 +3390,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Le réseau de distribution exploité par GRDF s’étend sur 209 000 km. Son adaptation au biométhane transforme la gestion des infrastructures. L’article Réseau de gaz en France : 209 000 kilomètres de canalisations à l’heure du biométhane est apparu en premier sur L'EnerGeek. Le rés…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-20-1794056599000",
-      "title": "Réseau de gaz : les chiffres de GRDF et les défis du biométhane en France",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/07/reseau-gaz-grdf-biometane-chiffres-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/f48767a2-reseau-de-gaz-grdf-biomethane.jpg",
-      "date": "2026-11-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "GRDF décrit un réseau de 209 000 km desservant 10,7 millions de clients. Biométhane, sécurité et résilience climatique : les principaux enjeux de l'infrastructure gazière. L’article Réseau de gaz : les chiffres de GRDF et les défis du biométhane en France est apparu en premier su…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-21-1794045519000",
-      "title": "Réseau de gaz : comment GRDF surveille les fuites et organise les interventions",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/07/reseau-gaz-surveillance-fuites-grdf-interventions-2026-11-07/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/61eb2b4d-securite-reseau-gaz-grdf.jpg",
-      "date": "2026-11-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Surveillance des canalisations, urgence gaz et biométhane : les enjeux de sécurité du réseau de distribution français. L’article Réseau de gaz : comment GRDF surveille les fuites et organise les interventions est apparu en premier sur L'EnerGeek. Surveillance des canalisations, u…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1794043860000",
-      "title": "Copropriété : isolation, chauffage, ventilation, quels travaux financés par les aides ?",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/07/travaux-energie-copropriete-isolation/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/copropriete-travaux.jpg",
-      "date": "2026-11-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Confort d’été",
-        "Rénovation"
-      ],
-      "summary": "Isolation des parois, remplacement des systèmes de chauffage, VMC performante, énergies renouvelables : les aides publiques financent un large éventail de travaux en copropriété. Mais atteindre les seuils de 35 % ou 50 % de gain énergétique exige des combinaisons techniques préci…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1794043320000",
-      "title": "Faute de gaz naturel, l’Inde a importé 52 % d’engrais azotés de plus",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/07/faute-de-gaz-naturel-linde-a-importe-52-dengrais-azotes-de-plus/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/5f99a307-gaz-naturel-engrais-inde.png",
-      "date": "2026-11-07",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "La crise énergétique du golfe Persique a provoqué une situation inattendue en Inde. Privé d'une partie du gaz nécessaire à ses usines, le pays a dû augmenter fortement ses achats d'engrais à l'étranger. Un exemple des conséquences industrielles du blocage du détroit d'Ormuz. L’ar…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4593,6 +4597,135 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Hôte de la prochaine COP, du 9 au 20 novembre, le pays est la principale destination des déchets plastiques de l’Union européenne. Seuls environ 10% sont en réalité recyclés. À Adana, les entreprises de recyclage se débarrassent de l’excédent au détriment de la santé et de l’agri…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-0-1793983593000",
+      "title": "A qui profitera l’appel d’offres « super neutre » pour 2027 ?",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/11/a-qui-profitera-lappel-doffres-super-neutre-pour-2027-438125/",
+      "image": null,
+      "date": "2026-11-06",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "Pour 2027, les pouvoirs publics ne planchent actuellement que sur un seul appel d’offres destiné aux énergies renouvelables et dans un format inédit « super neutre ». Autrement dit, une compétition où toutes les typologies et les tailles seraient mélangées pour désigner les proje…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-1-1793982015000",
+      "title": "L’agenda de la transition énergétique",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/11/lagenda-de-la-transition-energetique-282-437363/",
+      "image": null,
+      "date": "2026-11-06",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Rénovation",
+        "Énergie"
+      ],
+      "summary": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. N…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-2-1793980936000",
+      "title": "RTE prêt à diversifier ses sources de financement",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/11/rte-pret-a-diversifier-ses-sources-de-financement-438094/",
+      "image": null,
+      "date": "2026-11-06",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Cette phrase pose un jalon et il ne fallait pas la rater. Le tarif de réseau « couvre nos coûts de fonctionnement et le service de notre dette, mais ne finance pas le programme d’investissement ; nous pensons donc que nous aurons besoin de toute sorte de financements, du coté de …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-3-1793969808000",
+      "title": "Heures « super creuses », tarifs dynamiques… restent un pari commercial",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/11/heures-super-creuses-tarifs-dynamiques-restent-un-pari-commercial-437957/",
+      "image": null,
+      "date": "2026-11-06",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Confort d’été",
+        "Réemploi"
+      ],
+      "summary": "Avec la multiplication des épisodes de prix négatifs, différentes offres de fourniture ont été lancées en France proposant des heures à prix très faibles, voire nuls avant les taxes, surtout en milieu de journée. L’opportunité marketing était bien L’article Heures « super creuses…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-4-1793952000000",
+      "title": "Les documents de la semaine",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/11/les-documents-de-la-semaine-381215/",
+      "image": null,
+      "date": "2026-11-06",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6004,6 +6137,131 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Prévues fin novembre, les élections législatives espagnoles pourraient marquer le retour au pouvoir des conservateurs, avec le soutien de l’extrême droite. Au niveau régional, de telles coalitions se sont déjà formées pour gouverner et s'attaquent à l’immigration et aux normes en…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-5-1793898276000",
+      "title": "Pourquoi le gouvernement s’en prend au Fonds chaleur",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/11/pourquoi-le-gouvernement-sen-prend-au-fonds-chaleur-437738/",
+      "image": null,
+      "date": "2026-11-05",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "« C’est un vrai choc », « je ne comprends pas la logique »… Parmi les parlementaires, collectivités locales, acteurs de la filière et autres sources gouvernementales interrogés par GreenUnivers, un même constat d’incompréhension après la suspension du Fonds chaleur. Ces parties p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-6-1793895669000",
+      "title": "Les contours du premier appel à projets dans l’hydrogène naturel",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/11/les-contours-du-premier-appel-a-projets-dans-lhydrogene-naturel-437938/",
+      "image": null,
+      "date": "2026-11-05",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "Le directeur de la DGEC, Cédric Bourillet, vient d’annoncer sur Linkedin le lancement d’un appel à projets pour l’hydrogène natif, naturel ou blanc, c’est-à-dire naturellement présent dans le sous-sol. Les contours du dispositif n’ont pas encore été dévoilés. Selon nos informatio…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-7-1793894385000",
+      "title": "Financé par Marguerite, Nexun achète 60 MW agrivoltaïques en France",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/11/finance-par-marguerite-nexun-achete-60-mw-agrivoltaiques-en-france-437923/",
+      "image": null,
+      "date": "2026-11-05",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie"
+      ],
+      "summary": "Nexun acquiert 60 MW agrivoltaïques appartenant à « un grand groupe énergétique européen », selon le communiqué de ce développeur. Il précise qu’il s’agit L’article Financé par Marguerite, Nexun achète 60 MW agrivoltaïques en France est apparu en premier sur GreenUnivers. Nexun a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-8-1793890022000",
+      "title": "Electrification : le gouvernement veut flécher 100 M€ de CEE vers la sortie du gaz",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/11/electrification-le-gouvernement-veut-flecher-100-me-de-cee-vers-la-sortie-du-gaz-437910/",
+      "image": null,
+      "date": "2026-11-05",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "La prochaine séance du Conseil supérieur de l’énergie est convoquée pour le 19 novembre. A l’ordre du jour figurent surtout des textes portant sur les certificats d’économies d’énergie (CEE), sur lesquels le gouvernement compte pour financer en partie son plan d’électrification. …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "greenunivers-rss-9-1793864700000",
+      "title": "Le nouvel état-major de TotalEnergies Renouvelables France",
+      "source": "GreenUnivers",
+      "sourceId": "greenunivers",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.greenunivers.com/2026/11/le-nouvel-etat-major-de-totalenergies-renouvelables-france-437820/",
+      "image": null,
+      "date": "2026-11-05",
+      "access": "Accès mixte",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "ENR",
+        "Financement",
+        "Marché énergie",
+        "Énergie"
+      ],
+      "summary": "*Article modifié le 6/11 suite à des précisions de TotalEnergies sur la direction des EnR en outremer TotalEnergies a fait évoluer son organisation interne cette année, ce qui, pour la branche Integrated Power, a conduit à la création d’équipes par pays, remplaçant L’article Le n…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
