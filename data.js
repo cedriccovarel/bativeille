@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-11-10T17:35:00.593Z",
+  "generatedAt": "2026-11-11T00:29:58.225Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1794356982000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-11-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1794356982000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-11-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1794356982000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-11-11",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "observatoire-de-l-immobilier-durable-oid-rss-0-1794317852000",
       "title": "Reporting Biodiversité : la TNFD actualise son cadre et renforce les outils à destination des entreprises",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -2619,7 +2697,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-0-1794330842000",
+      "id": "actu-environnement-rss-0-1794336138000",
+      "title": "Le CAE plaide pour cibler les plus vulnérables, pas seulement les plus exposés",
+      "source": "Actu-Environnement",
+      "sourceId": "actu-environnement",
+      "sourceType": "Presse spécialisée",
+      "region": "National",
+      "url": "https://www.actu-environnement.com/ae/news/cae-vulnerabilite-risques-naturels-catnat-48788.php4#xtor=RSS-6",
+      "image": "https://www.actu-environnement.com/images/illustrations/news/48788_large.jpg",
+      "date": "2026-11-10",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 72,
+      "tags": [
+        "Environnement",
+        "Réglementation",
+        "Énergie"
+      ],
+      "summary": "Le Conseil d'analyse économique alerte : face aux risques climatiques, la vulnérabilité sociale prime sur l'exposition géographique. Il propose de réformer la prévention et le régime CatNat en conséquence. Le Conseil d'analyse économique alerte : face aux risques climatiques, la …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "actu-environnement-rss-1-1794330842000",
       "title": "Crues et sécheresse : les leviers à actionner pour améliorer la gestion franco-suisse",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2643,7 +2744,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-1-1794329787000",
+      "id": "actu-environnement-rss-2-1794329787000",
       "title": "Au Mans, Radiant démontre que la concentration solaire peut décarboner l'industrie",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2663,12 +2764,12 @@ window.BATIVEILLE_DATA = {
         "Carbone",
         "Économie du bâtiment"
       ],
-      "summary": "La chaleur représente 75 % des besoins en énergie de l'industrie. Pour y répondre, la jeune pousse Radiant a développé une solution de concentration solaire pas plus coûteuse que le gaz et facile à intégrer aux installations existantes. La chaleur représente 75 % des besoins en é…",
+      "summary": "La chaleur représente 75 % des besoins en énergie de l'industrie. Pour en produire avec moins de carbone, la start-up Radiant a développé une solution de concentration solaire pas plus coûteuse que le gaz et facile à intégrer aux installations exi... La chaleur représente 75 % de…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-2-1794326049000",
+      "id": "actu-environnement-rss-3-1794326049000",
       "title": "Un plan national d'actions en faveur des vieux bois et forêts subnaturelles",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2692,7 +2793,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-3-1794323131000",
+      "id": "actu-environnement-rss-4-1794323131000",
       "title": "Lire notre dossier d'actu \"Flexibiliser le système électrique : un défi à anticiper\"",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2715,7 +2816,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-4-1794322004000",
+      "id": "actu-environnement-rss-5-1794322004000",
       "title": "L'autorisation d'un parc conchylicole annulée faute de suivi des mesures d'évitement et de réduction",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2738,7 +2839,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-5-1794317934000",
+      "id": "actu-environnement-rss-6-1794317934000",
       "title": "Lire notre dossier d'actu \"COP 31 : le climat sous tension à Antalya\"",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2761,7 +2862,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-6-1794317010000",
+      "id": "actu-environnement-rss-7-1794317010000",
       "title": "L'État menace de sanctions les trois éco-organismes pour des barèmes trop bas",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2784,7 +2885,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-7-1794313880000",
+      "id": "actu-environnement-rss-8-1794313880000",
       "title": "Centrale hydroélectrique : l'autorisation d'exploitation tombe face au Desman des Pyrénées",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -2808,7 +2909,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-8-1794311285000",
+      "id": "actu-environnement-rss-9-1794311285000",
       "title": "Heures creuses : une nouvelle phase de déploiement à partir du 1er décembre",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -3108,7 +3209,7 @@ window.BATIVEILLE_DATA = {
     },
     {
       "id": "reporterre-rss-1-1794327094000",
-      "title": "Fermer CNews : les députés classent sans suite la pétition malgré plus de 1 million de signatures",
+      "title": "La pétition pour fermer CNews dépasse le million de signatures, les députés ne donnent pas suite",
       "source": "Reporterre",
       "sourceId": "reporterre",
       "sourceType": "Presse professionnelle",
@@ -3310,7 +3411,58 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-0-1794324186000",
+      "id": "vert-rss-0-1794332678000",
+      "title": "Patrick Pouyanné, PDG de TotalEnergies, est membre de la délégation française à la COP31 sur le climat",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/climat/patrick-pouyanne-pdg-de-totalenergies-est-membre-de-la-delegation-francaise-a-la-cop31-sur-le-climat/",
+      "image": null,
+      "date": "2026-11-10",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "L’influent patron de la major pétrogazière a été choisi par le France pour intégrer sa délégation à la COP en Turquie. Ce mardi, il a pu louer les mérites de son entreprise, qui finance une vingtaine de lobbies qui attaquent les réglementations sur le méthane partout dans le mond…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "vert-rss-1-1794330392000",
+      "title": "Voitures électriques, taxe sur l’aviation, nucléaire… Ce que contient le programme de Raphaël Glucksmann sur l’écologie",
+      "source": "Vert",
+      "sourceId": "vert",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://vert.eco/politique/voitures-electriques-taxe-sur-laviation-nucleaire-ce-que-contient-le-programme-de-raphael-glucksmann-sur-lecologie/",
+      "image": null,
+      "date": "2026-11-10",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Climat",
+        "Politiques publiques",
+        "Eau"
+      ],
+      "summary": "Lundi, le candidat social-démocrate à l’élection présidentielle de 2027 a présenté son programme pour une «révolution écologique», avec des mesures prévues dès les 100 premiers jours de son mandat. Il se distingue des écologistes et des insoumis en défendant l’installation de nou…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "vert-rss-2-1794324186000",
       "title": "Une alliance RN, LR et macronie : les députés refusent de débattre de la pétition pour fermer CNews",
       "source": "Vert",
       "sourceId": "vert",
@@ -3334,7 +3486,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-1-1794307451000",
+      "id": "vert-rss-3-1794307451000",
       "title": "Exclusif : TotalEnergies finance une vingtaine de lobbies qui attaquent les réglementations sur le méthane partout dans le monde",
       "source": "Vert",
       "sourceId": "vert",
@@ -3360,7 +3512,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-2-1794286800000",
+      "id": "vert-rss-4-1794286800000",
       "title": "On a lu le chapitre sur l’écologie du dernier livre de Jordan Bardella : un pamphlet contre «le retour à l’âge de pierre» en guise de programme",
       "source": "Vert",
       "sourceId": "vert",
@@ -3664,7 +3816,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1794325800000",
+      "id": "enerzine-rss-0-1794352200000",
+      "title": "Utiliser les vibrations pour révéler ce qui se cache sous la surface d’autres planètes",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/utiliser-les-vibrations-pour-reveler-ce-qui-se-cache-sous-la-surface-dautres-planetes/199879-2026-11",
+      "image": null,
+      "date": "2026-11-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "L’exploration spatiale moderne n’a pas encore atteint le niveau de Star Trek et son « aller hardiment là où personne n’est jamais allé ». Mais si, comme les occupants de l’USS Enterprise, les astronautes voulaient un jour se poser sur une planète inexplorée, ils voudraient d’abor…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1794325800000",
       "title": "Le canal de Provence se couvre de panneaux solaires à Saint-Maximin",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3690,7 +3868,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1794322200000",
+      "id": "enerzine-rss-2-1794322200000",
       "title": "Heures creuses : 9,3 millions de clients vont passer aux horaires été-hiver",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3716,7 +3894,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1794320400000",
+      "id": "enerzine-rss-3-1794320400000",
       "title": "Location entre particuliers : six modèles passés au crible par Turo",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3741,7 +3919,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1794318600000",
+      "id": "enerzine-rss-4-1794318600000",
       "title": "Windcoop lève 577 000 euros en six jours pour son premier cargo à voile",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3765,7 +3943,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1794313200000",
+      "id": "enerzine-rss-5-1794313200000",
       "title": "Ce que promet ce radiateur de 2 000 W à roulette sans ventilateur à moins de 150 euros",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3789,7 +3967,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1794305561000",
+      "id": "enerzine-rss-6-1794305561000",
       "title": "Installer des panneaux solaires en 2026 : quelles aides, à quelles conditions ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3815,7 +3993,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1794302400000",
+      "id": "enerzine-rss-7-1794302400000",
       "title": "RE2020 : le mix bois-matériau, la solution économique du bâtiment bas carbone",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3841,7 +4019,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1794292200000",
+      "id": "enerzine-rss-8-1794292200000",
       "title": "Envision mise sur le 800 volts pour relier l’IA aux énergies renouvelables",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3865,7 +4043,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1794291000000",
+      "id": "enerzine-rss-9-1794291000000",
       "title": "Relier les continents : le BSC-CNS pilote l’alliance Europe–Amérique latine sur l’IA et le supercalcul",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3885,30 +4063,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "L’initiative EU-LAC Supercomputing Network for AI, lancée lors du Global Gateway Forum, vise à améliorer l’interopérabilité des ressources de supercalcul entre l’Amérique latine et l’Europe, et à accélérer la compétitivité de l’intelligence artificielle et du supercalcul dans les…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1794291000000",
-      "title": "Des chercheurs explorent l’informatique quantique pour prédire le cancer du poumon à partir de données limitées",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-chercheurs-explorent-linformatique-quantique-pour-predire-le-cancer-du-poumon-a-partir-de-donnees-limitees/199430-2026-11",
-      "image": null,
-      "date": "2026-11-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Le développement de modèles d’apprentissage automatique fiables pour la santé peut s’avérer difficile lorsque seuls de petits jeux de données sont disponibles. Ce défi motive des recherches visant à déterminer si les approches de calcul quantique peuvent apprendre des schémas uti…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -3939,7 +4093,82 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1794326400000",
+      "id": "lenergeek-rss-0-1794338524000",
+      "title": "Gaz : l’EIA abaisse sa prévision de prix aux États-Unis pour l’hiver 2026-2027",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/10/eia-gaz-stocks-americains-prix-henry-hub-hiver-novembre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/9bb82dc4-prevision-prix-gaz-eia-hiver-2026.jpg",
+      "date": "2026-11-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Le 10 novembre, l'agence américaine de l'énergie a relevé ses prévisions de stocks gaziers après un début de mois doux. Elle attend un prix Henry Hub de 2,87 dollars par million de BTU sur novembre-mars, sans que ce scénario américain garantisse une baisse des prix européens. L’a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1794337200000",
+      "title": "Ukraine : cinq grandes sous-stations électriques touchées dans une nouvelle nuit de frappes",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/10/ukraine-cinq-sous-stations-electricite-frappes-10-novembre-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/d193b8b1-sous-stations-electriques-ukraine.jpg",
+      "date": "2026-11-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Dans la nuit du 9 au 10 novembre, de nouvelles attaques ont touché le réseau électrique ukrainien. Cinq grandes sous-stations sont signalées endommagées, tandis que six régions connaissent des coupures. Pourquoi ces équipements sont essentiels au transport du courant. L’article U…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1794333860000",
+      "title": "Navires de croisière : le branchement électrique à quai devient une obligation en 2030",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/10/croisieres-branchement-electrique-quai-obligation-2030-20261110-1955/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/6ab87ec5-electricite-a-quai-navires.jpg",
+      "date": "2026-11-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "RE2020"
+      ],
+      "summary": "Des paquebots sont déjà raccordés au réseau terrestre au Havre. La réglementation européenne prévoit une obligation à partir de 2030 dans certains ports, avec exceptions et extension en 2035. L’article Navires de croisière : le branchement électrique à quai devient une obligation…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1794326400000",
       "title": "ExxonMobil envisage son retour au Venezuela, sans projet pétrolier encore décidé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3963,7 +4192,56 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1794322800000",
+      "id": "lenergeek-rss-4-1794323875000",
+      "title": "Carburants durables : l’AIE dresse le bilan de l’engagement de Belém à la COP31",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/10/carburants-durables-aie-bilan-engagement-belem-cop31-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/9a32742b-carburants-durables-engagement-de-belem.jpg",
+      "date": "2026-11-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Dans un rapport publié le 10 novembre 2026, l’Agence internationale de l’énergie examine la première année de l’engagement de Belém visant à quadrupler l’usage des carburants durables d’ici 2035. Trente-deux pays le soutenaient fin septembre, mais la trajectoire dépend de politiq…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-5-1794323142000",
+      "title": "Foudre : pourquoi le disjoncteur ne remplace pas un parafoudre dans le logement",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/10/foudre-disjoncteur-parafoudre-logement-protection-20261110-1655/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/92e3b699-parafoudre-disjoncteur-foudre.jpg",
+      "date": "2026-11-10",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Bâtiment"
+      ],
+      "summary": "Disjoncteur, différentiel, parafoudre et paratonnerre ne remplissent pas la même fonction : ce qu'il faut vérifier dans une installation électrique face aux orages. L’article Foudre : pourquoi le disjoncteur ne remplace pas un parafoudre dans le logement est apparu en premier sur…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-6-1794322800000",
       "title": "Pluies en Corse : 288 mm mesurés à Conca, Météo-France publie enfin le bilan",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3988,7 +4266,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1794320400000",
+      "id": "lenergeek-rss-7-1794320400000",
       "title": "Les data centers séduisent les investisseurs, mais l’électricité bloque les projets",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4012,7 +4290,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1794320057000",
+      "id": "lenergeek-rss-8-1794320057000",
       "title": "Carburant : ce que cache vraiment la baisse de 20 centimes en France",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4036,7 +4314,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1794317110000",
+      "id": "lenergeek-rss-9-1794317110000",
       "title": "IPO d’Anthropic : l’électricité au cœur des 900 milliards d’engagements liés au calcul",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4061,7 +4339,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1794314623000",
+      "id": "lenergeek-rss-10-1794314623000",
       "title": "Le plus grand parc éolien du monde va exporter de l’électricité",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4087,7 +4365,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1794313440000",
+      "id": "lenergeek-rss-11-1794313440000",
       "title": "Primes CEE : les critères de précarité énergétique changent le 16 novembre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4113,7 +4391,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1794309589000",
+      "id": "lenergeek-rss-12-1794309589000",
       "title": "Électricité : l’Italie approuve un plafonnement du gaz pour réduire les prix pendant 18 mois",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4137,7 +4415,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1794305211000",
+      "id": "lenergeek-rss-13-1794305211000",
       "title": "Heures creuses et chauffe-eau : vérifier le contacteur Linky après le changement d’horaires",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4163,7 +4441,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1794303660000",
+      "id": "lenergeek-rss-14-1794303660000",
       "title": "EDF : les prix de l’électricité ne vont pas bouger cet hiver",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4188,7 +4466,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1794301200000",
+      "id": "lenergeek-rss-15-1794301200000",
       "title": "Dans la Manche, une fuite sur une canalisation de gaz provoque l’évacuation de 17 personnes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4214,7 +4492,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1794300000000",
+      "id": "lenergeek-rss-16-1794300000000",
       "title": "En Slovénie, l’essence tombe à 1,506 euro le litre, mais la baisse ne concerne pas les autoroutes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4238,7 +4516,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1794298286000",
+      "id": "lenergeek-rss-17-1794298286000",
       "title": "Gaz en décembre : comment savoir si votre contrat subira la hausse de 5,8 % ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4263,7 +4541,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1794294964000",
+      "id": "lenergeek-rss-18-1794294964000",
       "title": "Nucléaire : Chooz 2 reconnecté au réseau après quatre mois d’arrêt lié à la Meuse",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4289,7 +4567,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1794293456000",
+      "id": "lenergeek-rss-19-1794293456000",
       "title": "« Des chercheurs annoncent la fin du monde au 13 novembre 2026. Devons-nous craindre cela ? »",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4313,7 +4591,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1794291606000",
+      "id": "lenergeek-rss-20-1794291606000",
       "title": "Les tatouages électroniques pourraient bien remplacer les smartphones, selon Bill Gates",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4338,7 +4616,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1794287245000",
+      "id": "lenergeek-rss-21-1794287245000",
       "title": "Odeur de gaz dans un immeuble : les gestes sûrs avant d’appeler les secours",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4363,7 +4641,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1794286200000",
+      "id": "lenergeek-rss-22-1794286200000",
       "title": "Pétrole en baisse, charbon en hausse : ce qui explique le recul mondial du CO₂ en 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4388,7 +4666,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1794286080000",
+      "id": "lenergeek-rss-23-1794286080000",
       "title": "Gaz : +5,8% en décembre, la spirale infernale venue du détroit d’Ormuz",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4408,109 +4686,6 @@ window.BATIVEILLE_DATA = {
         "ENR"
       ],
       "summary": "La Commission de régulation de l'énergie annonce une quatrième hausse consécutive du prix repère de vente de gaz : +5,8% au 1er décembre 2026, portant le PRVG à 206,26 €/MWh. La crise géopolitique dans le détroit d'Ormuz, qui a réduit l'offre gazière mondiale, frappe directement …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-19-1794280569000",
-      "title": "Électricité : les pays nordiques abordent l’hiver avec 11 TWh de réserves hydrauliques en moins",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/10/electricite-pays-nordiques-deficit-hydraulique-11-twh-prix-hiver-novembre-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/0d41e506-prix-electricite-pays-nordiques-hiver-2026.jpg",
-      "date": "2026-11-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Un nouveau rapport du négociant danois Mind Energy signale un déficit hydroélectrique de 11 TWh dans les pays nordiques à l’entrée de l’hiver. Le risque concerne surtout des flambées ponctuelles des prix de gros, accentuées par les périodes sans vent et les tensions sur le gaz eu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-20-1794279776000",
-      "title": "Chauffage au bois : allumer le feu par le haut pour moins polluer et mieux chauffer",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/10/chauffage-bois-allumage-par-haut-bois-sec-particules-guide-101126-0455/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/175ef8cf-allumage-par-le-haut-chauffage-bois.jpg",
-      "date": "2026-11-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Allumage par le haut, bûches sèches et entrées d'air : les bons réglages recommandés par l'ADEME pour améliorer la combustion d'un poêle à bois. L’article Chauffage au bois : allumer le feu par le haut pour moins polluer et mieux chauffer est apparu en premier sur L'EnerGeek. All…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-21-1794278167000",
-      "title": "Nucléaire : la production d’EDF recule de 9,2 % en octobre, mais reste stable sur dix mois",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/10/edf-nucleaire-production-octobre-2026-recul-92-pour-cent-10-novembre/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/149af7de-production-nucleaire-edf-octobre-2026.jpg",
-      "date": "2026-11-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "EDF a produit 27,6 TWh d’électricité nucléaire en France en octobre 2026, contre 30,4 TWh un an auparavant. Le cumul depuis janvier demeure à 299,5 TWh, au même niveau qu’en 2025, tandis que l’hydraulique affiche également un repli. L’article Nucléaire : la production d’EDF recul…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1794269658000",
-      "title": "Biométhane : les certificats CPB prolongés jusqu’en 2044, ce que change le décret",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/10/biomethane-certificats-cpb-decret-2026-obligation-jusquen-2044-101126-0155/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/0883fa6e-certificats-production-biogaz-cpb.jpg",
-      "date": "2026-11-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Depuis octobre 2026, un décret fixe les obligations des fournisseurs de gaz concernant les certificats de production de biogaz jusqu'en 2044. Le dispositif, lancé en janvier, concerne les acteurs de la filière et peut influer sur leurs coûts. L’article Biométhane : les certificat…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -4589,84 +4764,6 @@ window.BATIVEILLE_DATA = {
         "Biosourcé"
       ],
       "summary": "Publication détectée dans le sitemap de Bois.com. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-0-1794332086000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-11-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1794332086000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-11-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1794332086000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-11-10",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -5252,7 +5349,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-9-1794241666000",
+      "id": "actu-environnement-rss-10-1794241666000",
       "title": "Electrification, finance, commerce... ce qui se négocie à Antalya",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5275,7 +5372,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-10-1794240075000",
+      "id": "actu-environnement-rss-11-1794240075000",
       "title": "Quatre décideurs donnent les clés pour passer de l'ambition aux résultats",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5298,7 +5395,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-11-1794233638000",
+      "id": "actu-environnement-rss-12-1794233638000",
       "title": "Règlement méthane : Parlement et États sont d'accord pour reporter son application",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5321,7 +5418,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-12-1794226704000",
+      "id": "actu-environnement-rss-13-1794226704000",
       "title": "Nappes : la vidange se prolonge de manière inhabituelle",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5344,7 +5441,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-13-1794225065000",
+      "id": "actu-environnement-rss-14-1794225065000",
       "title": "Mécanisme pour le biométhane : la Commission européenne veut mettre en relation acheteurs et fournisseurs",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5368,7 +5465,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-14-1794221207000",
+      "id": "actu-environnement-rss-15-1794221207000",
       "title": "Le chiffre du jour : 90 millions &#8239;d’euros",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5392,7 +5489,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-15-1794211200000",
+      "id": "actu-environnement-rss-16-1794211200000",
       "title": "Concilier sobriété, compétitivité et adaptation, c'est possible : rendez-vous sur STEP by Pollutec",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5418,7 +5515,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-16-1794211200000",
+      "id": "actu-environnement-rss-17-1794211200000",
       "title": "Mégots mal jetés : Alcome intensifie ses actions de terrain pour changer les comportements",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -5442,7 +5539,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "actu-environnement-rss-17-1794211200000",
+      "id": "actu-environnement-rss-18-1794211200000",
       "title": "Confronter les expériences et construire ensemble les réponses aux enjeux énergétiques",
       "source": "Actu-Environnement",
       "sourceId": "actu-environnement",
@@ -6122,7 +6219,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-3-1794244855000",
+      "id": "vert-rss-5-1794244855000",
       "title": "«On n’en veut pas» : partout en France, les collectifs anti-data centers s’unissent pour peser face aux géants de la tech",
       "source": "Vert",
       "sourceId": "vert",
@@ -6147,7 +6244,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-4-1794204000000",
+      "id": "vert-rss-6-1794204000000",
       "title": "La COP31 s’ouvre en Turquie : que peut-on en espérer ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -6171,7 +6268,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-5-1794200400000",
+      "id": "vert-rss-7-1794200400000",
       "title": "Révélations : TotalEnergies a fait équipe avec l’administration Trump contre l’Europe pour aggraver la crise climatique",
       "source": "Vert",
       "sourceId": "vert",
@@ -6528,32 +6625,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-23-1794267600000",
-      "title": "Pétrole : le Brent tombe à 92,57 dollars après un nouveau signal de Trump sur l’Iran",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/10/brent-9257-dollars-novembre-2026-iran-trump/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/d367c7e4-prix-du-petrole-brent-9-novembre-2026.jpg",
-      "date": "2026-11-09",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le Brent a terminé la séance du 9 novembre à 92,57 dollars, en repli de 5,85 %, avant de reculer encore après clôture. Les marchés réagissent à une perspective de désescalade entre Washington et Téhéran, alors que le détroit d’Ormuz reste exposé à des risques de sécurité. L’artic…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "le-journal-du-grand-paris-rss-2-1794244276000",
       "title": "Paris va débattre d’un budget 2027 entre prudence et inquiétude",
       "source": "Le Journal du Grand Paris",
@@ -6874,7 +6945,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-6-1794117600000",
+      "id": "vert-rss-8-1794117600000",
       "title": "Microsoft Word, Excel, Google Drive… Comment sortir de la dépendance aux géants du web au travail ?",
       "source": "Vert",
       "sourceId": "vert",
@@ -7053,7 +7124,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "vert-rss-7-1794078231000",
+      "id": "vert-rss-9-1794078231000",
       "title": "«Il se passe quelque chose» : au Bourget, Jean-Luc Mélenchon embarque la jeunesse autour de son projet pour une écologie populaire",
       "source": "Vert",
       "sourceId": "vert",
@@ -7074,31 +7145,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Au lendemain du lancement de son programme pour l’élection présidentielle de 2027, le leader de La France insoumise a fait salle comble au parc des expositions du Bourget, près de Paris. Surfant sur les espoirs de la jeunesse, le mouvement espère imposer son projet de «bifurcatio…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "vert-rss-8-1794031200000",
-      "title": "En plein «embrasement autoritaire», la Turquie accueille la COP31 sur le climat",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/international/en-plein-embrasement-autoritaire-la-turquie-accueille-la-cop31-sur-le-climat/",
-      "image": null,
-      "date": "2026-11-07",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques",
-        "Confort d’été"
-      ],
-      "summary": "Le 31ème sommet mondial sur le climat s’apprête à débuter à Antalya, au sud de la Turquie. Alors que le pays a intensifié la répression des militant·es écologistes ces derniers mois, les ONG craignent la silenciation de la société civile pendant l’événement. Le 31ème sommet mondi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -7491,6 +7537,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "envirobat-grand-est-lqe-rss-0-1793962751000",
+      "title": "Webinaire – Flexibilité électrique : le potentiel caché de vos bâtiments",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/webinaire-flexibilite-electrique-le-potentiel-cache-de-vos-batiments/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Fwebinaire-flexibilite-electrique-le-potentiel-cache-de-vos-batiments%2F&action_name=Webinaire%20%26%238211%3B%20Flexibilit%C3%A9%20%C3%A9lectrique%20%3A%20le%20potentiel%20cach%C3%A9%20de%20vos%20b%C3%A2timents&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-11-06",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Eau",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "Visionnez le webinaire sur la flexibilité électrique, proposé Par Novabuild et l’IFPEB, en partenariat avec le Réseau Bâtiment Durable, Nantes Métropole, Envirobat Grand Est, Enedis et Energy Pool. Destiné aux […] L'article Webinaire – Flexibilité électrique : le potentiel caché …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "verre-protections-magazine-rss-2-1793945136000",
       "title": "VKR Holding propose d’acquérir StellaGroup auprès de PAI Partners et ICG",
       "source": "Verre & Protections Magazine",
@@ -7870,30 +7942,6 @@ window.BATIVEILLE_DATA = {
         "Biosourcé"
       ],
       "summary": "Les chercheurs alertent depuis longtemps sur la menace des points de bascule climatiques et le risque d'un emballement du réchauffement planétaire. Ce dernier pourrait déclencher des processus biogéophysiques, comme l'effondrement irréversible des calottes glaciaires ou la transf…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "vert-rss-9-1793962229000",
-      "title": "Éco-régions, 100% renouvelables, sortie des pesticides… Ce que contient le programme de La France insoumise sur l’écologie",
-      "source": "Vert",
-      "sourceId": "vert",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://vert.eco/politique/ecoregions-100-renouvelables-sortie-des-pesticides-ce-que-contient-le-programme-de-la-france-insoumise-sur-lecologie/",
-      "image": null,
-      "date": "2026-11-06",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Climat",
-        "Politiques publiques"
-      ],
-      "summary": "Le mouvement politique de Jean-Luc Mélenchon présente ce vendredi ses mesures phares pour l’élection présidentielle de 2027. Le leader de la gauche radicale place la «bifurcation écologique et sociale» au cœur de son programme de rupture. Les moyens à mettre en œuvre ne sont, à c…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8938,99 +8986,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-11-1793750400000",
-      "title": "prevenir et guerir les difficultes des entreprises",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/en/actualites-batiment/actualite/prevenir-et-guerir-les-difficultes-des-entreprises",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-12-1793750400000",
-      "title": "prevenir et guerir les difficultes des entreprises",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/prevenir-et-guerir-les-difficultes-des-entreprises",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-20-1793750400000",
-      "title": "budget 2027",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/en/actualites-batiment/presse/budget-2027",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-21-1793750400000",
-      "title": "budget 2027",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/presse/budget-2027",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-41-1793750400000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1793750400000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -9053,7 +9009,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-89-1793750400000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-70-1793750400000",
       "title": "ffb 2026 2027 combats en cours",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -9432,6 +9388,32 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "19 NOVEMBRE 2026 Logroño (Espagne) De la France à La Rioja : des opportunités pour la construction circulaire Mission d’accueil et rencontre professionnelle dans le cadre du projet européen ORHI+ 📅Jeudi 19 novembre 2026 📍Logroño (Espagne) Je m'inscris Une rencontre pour découvr…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-grand-est-lqe-rss-1-1793808604000",
+      "title": "Replay – Construction en terre crue dans la pratique",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/replay-construction-en-terre-crue-dans-la-pratique/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Freplay-construction-en-terre-crue-dans-la-pratique%2F&action_name=Replay%20%26%238211%3B%20Construction%20en%20terre%20crue%20dans%20la%20pratique&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-11-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Réglementation",
+        "Confort d’été",
+        "Biosourcé"
+      ],
+      "summary": "Envirobat Grand Est, l’Eurometropole de Strasbourg, Architekturschaufenster, Fairantwortung et Circular Black Forest ont organisé un webinaire franco-allemand le jeudi 15 octobre 2026. Cet événement marque la fin d’une ligne de […] L'article Replay – Construction en terre crue da…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -12086,6 +12068,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "envirobat-grand-est-lqe-rss-2-1793181884000",
+      "title": "Nouvelle fiche de retour d’expériences sur la restructuration du collège Clémenceau, Épinal (88)",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/nouvelle-fiche-de-retour-dexperiences-sur-la-restructuration-du-college-clemenceau-epinal-88/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Fnouvelle-fiche-de-retour-dexperiences-sur-la-restructuration-du-college-clemenceau-epinal-88%2F&action_name=Nouvelle%20fiche%20de%20retour%20d%26rsquo%3Bexp%C3%A9riences%20sur%20la%20%20restructuration%20du%20coll%C3%A8ge%20Cl%C3%A9menceau%2C%20%C3%89pinal%20%2888%29&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-10-28",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Découvrez la nouvelle fiche de retour d’expériences sur la thématique du réemploi structurel des préaux en charpente métallique, réalisée par Envirobat Grand Est. L'article Nouvelle fiche de retour d’expériences sur la restructuration du collège Clémenceau, Épinal (88) a été publ…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "mediatico-rss-9-1793174400000",
       "title": "Fondation Croix Saint-Simon : la petite enfance, variable d’ajustement du plan de sauvetage",
       "source": "Mediatico",
@@ -13037,7 +13045,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-152-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-134-1792713600000",
       "title": "legislatives prios 1 2",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -13060,7 +13068,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-153-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-135-1792713600000",
       "title": "legislatives prios 3 4",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -13083,7 +13091,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-154-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-136-1792713600000",
       "title": "legislatives prios 5 6",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -13106,7 +13114,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-155-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-137-1792713600000",
       "title": "legislatives prios 7 8",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -13129,7 +13137,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-156-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-138-1792713600000",
       "title": "legislatives prios 9 10",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -13152,7 +13160,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-157-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-139-1792713600000",
       "title": "legislatives prios 11 12",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -13175,7 +13183,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-158-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-140-1792713600000",
       "title": "legislatives prios 13 14",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -13198,7 +13206,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-159-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-141-1792713600000",
       "title": "legislatives prios 15 16",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -13913,6 +13921,31 @@ window.BATIVEILLE_DATA = {
         "Matériaux"
       ],
       "summary": "Depuis le 22 août 2026, chaque consultation concernée doit intégrer des exigences environnementales. Pour les… L’article Achats publics durables : le CD2E vous aide à passer à l’action est apparu en premier sur CD2E. Depuis le 22 août 2026, chaque consultation concernée doit inté…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-grand-est-lqe-rss-3-1792503152000",
+      "title": "Replay – Webinaire franco-allemand : Concevoir pour mieux réemployer",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/replay-webinaire-franco-allemand-concevoir-pour-mieux-reemployer/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Freplay-webinaire-franco-allemand-concevoir-pour-mieux-reemployer%2F&action_name=Replay%20%26%238211%3B%20Webinaire%20franco-allemand%20%3A%20Concevoir%20pour%20mieux%20r%C3%A9employer&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-10-20",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "Ce webinaire, qui a eu lieu le 21 septembre 2026, donne un aperçu des développements actuels concernant les passeports matériaux, les registres numériques des bâtiments et les nouvelles approches pour […] L'article Replay – Webinaire franco-allemand : Concevoir pour mieux réemplo…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -14736,6 +14769,31 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "L’Agence et la CCI Grand Lille ont signé le 15 octobre une convention de partenariat autour de leurs ambitions communes de contribuer au développement et à l’attractivité de la métropole lilloise. L’objectif de cette convention est d’élaborer des documents d’urbanisme toujours pl…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-grand-est-lqe-rss-4-1792068587000",
+      "title": "Interview – Aménagement d’un cœur de village à Muttersholtz (67)",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/interview-amenagement-dun-coeur-de-village-a-muttersholtz-67/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Finterview-amenagement-dun-coeur-de-village-a-muttersholtz-67%2F&action_name=Interview%20%26%238211%3B%20Am%C3%A9nagement%20d%26rsquo%3Bun%20c%C5%93ur%20de%20village%20%C3%A0%20Muttersholtz%20%2867%29&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-10-15",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "RE2020",
+        "Confort d’été"
+      ],
+      "summary": "Découvrez l’interview de Aline Toussaint, qui a fait partie de l’équipe de maitrise d’œuvre : Ici et là (architecte urbaniste mandataire), Digitale Paysage (paysagiste conceptrice) et Studiolada (architecte) pour le projet […] L'article Interview – Aménagement d’un cœur de villag…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -17322,6 +17380,54 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "envirobat-grand-est-lqe-rss-5-1790861537000",
+      "title": "On a fêté les 20 ans du Prix !",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/on-a-fete-les-20-ans-du-prix/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Fon-a-fete-les-20-ans-du-prix%2F&action_name=On%20a%20f%C3%AAt%C3%A9%20les%2020%20ans%20du%20Prix%20%21&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-10-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Confort d’été"
+      ],
+      "summary": "Le 22 septembre dernier, nous avons eu le plaisir de réunir à la Ferme du Charmois à Vandœuvre-lès-Nancy celles et ceux qui, depuis 20 ans, font vivre le Prix Envirobat […] L'article On a fêté les 20 ans du Prix ! a été publié sur Envirobat Grand Est. Le 22 septembre dernier, nou…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-grand-est-lqe-rss-6-1790839593000",
+      "title": "AMI – Territoires pilotes – Urbanisme favorable à la santé – AMO spécialisée",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/ami-territoires-pilotes-urbanisme-favorable-a-la-sante-amo-specialisee/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Fami-territoires-pilotes-urbanisme-favorable-a-la-sante-amo-specialisee%2F&action_name=AMI%20%26%238211%3B%20Territoires%20pilotes%20%26%238211%3B%20Urbanisme%20favorable%20%C3%A0%20la%20sant%C3%A9%20%26%238211%3B%20AMO%20sp%C3%A9cialis%C3%A9e&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-10-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Confort d’été"
+      ],
+      "summary": "Vous souhaitez intégrer les enjeux de santé dans vos projets d’aménagement, d’urbanisme ou de planification ? La région Grand est, en partenariat avec l’ARS et l’Union Européenne dans le cadre […] L'article AMI – Territoires pilotes – Urbanisme favorable à la santé – AMO spéciali…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "adeus-strasbourg-rss-6-1790845554000",
       "title": "Chargé.e d’étude confirmé.e Habitat-Énergie",
       "source": "ADEUS Strasbourg",
@@ -18535,6 +18641,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "envirobat-grand-est-lqe-rss-7-1790237994000",
+      "title": "Interview – Construction du siège communautaire de Moselle et Madon à Neuves Maisons (54)",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/interview-construction-du-siege-communautaire-de-moselle-et-madon-a-neuves-maisons-54/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Finterview-construction-du-siege-communautaire-de-moselle-et-madon-a-neuves-maisons-54%2F&action_name=Interview%20%26%238211%3B%20Construction%20du%20si%C3%A8ge%20communautaire%20de%20Moselle%20et%20Madon%20%C3%A0%20Neuves%20Maisons%20%2854%29&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-09-24",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "🏗️ Découvrez le projet de construction du siège communautaire de Moselle et Madon à Neuves-Maisons ! présenté par Benoît Sindt du Collectif Studiolada Un projet porté par la Communauté de […] L'article Interview – Construction du siège communautaire de Moselle et Madon à Neuves …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "adeus-strasbourg-rss-7-1790243345000",
       "title": "🎬 Retour en images sur nos portes ouvertes !",
       "source": "ADEUS Strasbourg",
@@ -19248,7 +19379,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-97-1789603200000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-79-1789603200000",
       "title": "gouvernement frederic carre rencontre vincent jeanbrun",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -19559,6 +19690,31 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Promotelec. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "envirobat-grand-est-lqe-rss-8-1789394227000",
+      "title": "Replay – Présentation de l’outil OMEGE – 1er lot : menuiseries",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/replay-presentation-de-loutil-omege-1er-lot-menuiseries/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Freplay-presentation-de-loutil-omege-1er-lot-menuiseries%2F&action_name=Replay%20%26%238211%3B%20Pr%C3%A9sentation%20de%20l%26rsquo%3Boutil%20OMEGE%20%26%238211%3B%201er%20lot%20%3A%20menuiseries&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-09-14",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "Redécouvrez la présentation du 1er lot d’OMEGE « menuiseries » et son application par des professionnels du bâtiment, qui a eu lieu en ligne le 10 septembre 2026. Une présentation par Pascal […] L'article Replay – Présentation de l’outil OMEGE – 1er lot : menuiseries a été publié…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "acoucite-rss-2-1789120596000",
@@ -20283,7 +20439,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-344-1788220800000",
+      "id": "envirobat-grand-est-lqe-rss-9-1788341836000",
+      "title": "Replay – Conférence Étalement urbain et biodiversité (25/11/2025)",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/replay-conference-etalement-urbain-et-biodiversite-25-11-2025/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Freplay-conference-etalement-urbain-et-biodiversite-25-11-2025%2F&action_name=Replay%20%26%238211%3B%20Conf%C3%A9rence%20%C3%89talement%20urbain%20et%20biodiversit%C3%A9%20%2825%2F11%2F2025%29&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-09-02",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Confort d’été"
+      ],
+      "summary": "Dans le cadre de la remise des Prix Envirobat Grand Est qui s’est déroulée le 11 novembre 2025, organisée par Envirobat Grand Est, en partenariat avec les CAUE du Grand […] L'article Replay – Conférence Étalement urbain et biodiversité (25/11/2025) a été publié sur Envirobat Gran…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-320-1788220800000",
       "title": "actu simple 31",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -20812,6 +20992,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "envirobat-grand-est-lqe-rss-10-1787580696000",
+      "title": "Zoom sur des opérations avec du réemploi",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/zoom-sur-des-operations-avec-du-reemploi/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Fzoom-sur-des-operations-avec-du-reemploi%2F&action_name=Zoom%20sur%20des%20op%C3%A9rations%20avec%20du%20r%C3%A9emploi&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-08-24",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Réglementation",
+        "Confort d’été",
+        "Réemploi"
+      ],
+      "summary": "Découvrez les fiches descriptives de divers projets avec du réemploi, réalisées par Remise à l’occasion d’une exposition dans le cadre du Pacte Réemploi ! L'article Zoom sur des opérations avec du réemploi a été publié sur Envirobat Grand Est. Découvrez les fiches descriptives de…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "inc-institut-national-de-la-consommation-rss-7-1787522400000",
       "title": "Travaux : les démarches à réaliser pour choisir un professionnel du bâtiment",
       "source": "INC — Institut National de la Consommation",
@@ -21184,6 +21390,32 @@ window.BATIVEILLE_DATA = {
       "summary": "Le Rapport de l&rsquo;Observatoire de la Qualité de la Construction 2026 place pour la première fois les équipements sanitaires en tête du Flop 10 des logements collectifs, avec 10,7 % des désordres, devant les fenêtres et portes-fenêtres traditionnelles extérieures. Logements co…",
       "premiumSummary": "",
       "collectMethod": "wordpress_api"
+    },
+    {
+      "id": "envirobat-grand-est-lqe-rss-11-1785853469000",
+      "title": "Auto-réhabilitation accompagnée (ARA) : où en est-on en 2026 ? | Webinaire du 26 mai 2026 disponible",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/auto-rehabilitation-accompagnee-ara-ou-en-est-on-en-2026-webinaire-du-26-mai-2026-disponible/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Fauto-rehabilitation-accompagnee-ara-ou-en-est-on-en-2026-webinaire-du-26-mai-2026-disponible%2F&action_name=Auto-r%C3%A9habilitation%20accompagn%C3%A9e%20%28ARA%29%20%3A%20o%C3%B9%20en%20est-on%20en%202026%20%3F%20%7C%20Webinaire%20du%2026%20mai%202026%20disponible&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-08-04",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Réglementation",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Envirobat Grand Est et Envirobat Occitanie, centres de ressource du Réseau Bâtiment Durable, ont co-organisé un webinaire sur l’auto-réhabilitation accompagné : quelle posture adopter, le cadre réglementaire et les projets en […] L'article Auto-réhabilitation accompagnée (ARA) : …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "arb-nouvelle-aquitaine-rss-7-1785764340000",
@@ -22062,6 +22294,56 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "envirobat-grand-est-lqe-rss-12-1784715602000",
+      "title": "Vous avez chaud ? Profitez des congés pour vous mettre à jour sur un sujet d’actualité : le confort d’été !",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/vous-avez-chaud-profitez-des-conges-pour-vous-mettre-a-jour-sur-un-sujet-dactualite-le-confort-dete/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Fvous-avez-chaud-profitez-des-conges-pour-vous-mettre-a-jour-sur-un-sujet-dactualite-le-confort-dete%2F&action_name=Vous%20avez%20chaud%20%3F%20Profitez%20des%20cong%C3%A9s%20pour%20vous%20mettre%20%C3%A0%20jour%20sur%20un%20sujet%20d%26rsquo%3Bactualit%C3%A9%20%3A%20le%20confort%20d%26rsquo%3B%C3%A9t%C3%A9%20%21&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-07-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Confort d’été"
+      ],
+      "summary": "©️ Getty image Parcourez nos ressources dédiées pour améliorer (ou transformer) votre quotidien ⬇️ Les points de vue et avis exprimés dans ces documents n’engagent toutefois que leurs auteurs et […] L'article Vous avez chaud ? Profitez des congés pour vous mettre à jour sur un su…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-grand-est-lqe-rss-13-1784704304000",
+      "title": "Replay – Bâtiment circulaire : de la stratégie à la pratique (07/05/2026)",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/replay-batiment-circulaire-de-la-strategie-a-la-pratique-07-05-2026/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Freplay-batiment-circulaire-de-la-strategie-a-la-pratique-07-05-2026%2F&action_name=Replay%20%26%238211%3B%20B%C3%A2timent%20circulaire%20%3A%20de%20la%20strat%C3%A9gie%20%C3%A0%20la%20pratique%20%2807%2F05%2F2026%29&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-07-22",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Réglementation",
+        "Confort d’été",
+        "Économie du bâtiment"
+      ],
+      "summary": "Dans le cadre du cycle d’événements franco-allemands sur l’économie circulaire dans le bâtiment, Envirobat Grand Est, l’Eurométropole de Strasbourg, Architekturschaufenster, Fairantwortung et Circular Black Forest ont organisé une journée de […] L'article Replay – Bâtiment circul…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "cerema-sitemap-834-1784623634000",
       "title": "juillet 2026 decouvrez nos dernieres publications",
       "source": "CEREMA",
@@ -22129,6 +22411,57 @@ window.BATIVEILLE_DATA = {
         "Données"
       ],
       "summary": "Après un premier mandat de 3 ans à la présidence de l’ARB NA, marqué par la transformation de l’agence en […] The post Réélection du président de l’ARB NA appeared first on Agence Régionale de la Biodiversité. Après un premier mandat de 3 ans à la présidence de l&#8217;ARB NA, ma…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-grand-est-lqe-rss-14-1784641935000",
+      "title": "Interview – Aménagement d’un comble en open space à Mulhouse (68)",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/interview-amenagement-dun-comble-en-open-space-a-mulhouse-68/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Finterview-amenagement-dun-comble-en-open-space-a-mulhouse-68%2F&action_name=Interview%20%E2%80%93%20Am%C3%A9nagement%20d%E2%80%99un%20comble%20en%20open%20space%20%C3%A0%20Mulhouse%20%2868%29&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-07-21",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Confort d’été",
+        "Bâtiment"
+      ],
+      "summary": "Découvrez l’interview de Jean-Baptiste Compin, maître d’œuvre et d’ouvrage du projet lauréat du Prix Envirobat Grand Est 2025 (catégorie Logement-Activité). Il y partage sa démarche et son engagement pour les […] L'article Interview – Aménagement d’un comble en open space à Mulho…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "envirobat-grand-est-lqe-rss-15-1784638080000",
+      "title": "Replay – Table-ronde du forum réemploi : 1 an du Pacte",
+      "source": "Envirobat Grand Est / LQE",
+      "sourceId": "envirobat-grand-est-lqe",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Grand Est",
+      "url": "https://www.envirobatgrandest.fr/actualite/replay-table-ronde-du-forum-reemploi-1-an-du-pacte/",
+      "image": "https://www.envirobatgrandest.fr/wp-content/plugins/matomo/app/matomo.php?idsite=1&rec=1&url=https%3A%2F%2Fwww.envirobatgrandest.fr%2Factualite%2Freplay-table-ronde-du-forum-reemploi-1-an-du-pacte%2F&action_name=Replay%20%26%238211%3B%20Table-ronde%20du%20forum%20r%C3%A9emploi%20%3A%201%20an%20du%20Pacte&urlref=https%3A%2F%2Fwww.envirobatgrandest.fr%2Ffeed%2F",
+      "date": "2026-07-21",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Bâtiment durable",
+        "Grand Est",
+        "Qualité environnementale",
+        "Réglementation",
+        "RE2020",
+        "Confort d’été"
+      ],
+      "summary": "Cette journée, organisée par Remise et en partenariat avec entre autre, Envirobat Grand Est, s’est déroulée en deux temps : une matinée réservée aux adhérents, puis un forum ouvert à […] L'article Replay – Table-ronde du forum réemploi : 1 an du Pacte a été publié sur Envirobat G…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
