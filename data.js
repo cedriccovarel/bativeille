@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-11-14T16:28:30.061Z",
+  "generatedAt": "2026-11-14T23:46:44.564Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2184,6 +2184,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
+      "id": "verre-protections-magazine-rss-0-1794667673000",
+      "title": "Les premières stations électriques de l’opération “ Lumière et Chaleur pour Kharkiv à Noël ”, collectées !",
+      "source": "Verre & Protections Magazine",
+      "sourceId": "verre-protections-magazine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.verreetprotections.com/les-premieres-stations-electriques-de-loperation-lumiere-et-chaleur-pour-kharkiv-a-noel-collectees/",
+      "image": null,
+      "date": "2026-11-14",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Menuiseries",
+        "Façades",
+        "Vitrage",
+        "Protection solaire",
+        "Réglementation"
+      ],
+      "summary": "Fortement relayée par les membres du Pôle Fenêtre français regroupant les syndicats (SNFA,UFME, Groupement Actibaie, Union des Métalliers, Union des Métiers du Bois) et officiellement parrainnée par l'Ambassade de France en Ukraine, l'opération humanitaire des Menuisiers Français…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "reporterre-rss-0-1794636600000",
       "title": "La droite et les lobbies tentent d'empêcher la régulation des data centers en Espagne",
       "source": "Reporterre",
@@ -2312,7 +2338,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1794669600000",
+      "id": "enerzine-rss-0-1794676800000",
+      "title": "Samsung Galaxy S26 Ultra : un écran à l’abri des regards",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/samsung-galaxy-s26-ultra-ecran-confidentialite/200640-2026-11",
+      "image": null,
+      "date": "2026-11-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Un smartphone qui ne montre son écran qu’à vous. Avec le Galaxy S26 Ultra, Samsung a inauguré le premier affichage de confidentialité au monde. Le nouveau fer de lance de Samsung empile les arguments dans un format Ultra qui ne renie rien de son héritage. Nous avons passé la fich…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1794669600000",
       "title": "Lexar Play 2 To : un disque SSD NVMe taillé pour la PS5",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2336,7 +2387,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1794665220000",
+      "id": "enerzine-rss-2-1794665220000",
       "title": "Parade planétaire 2026, quatre planètes avant l’aube mais Mercure se fait discrète",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2360,7 +2411,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1794658200000",
+      "id": "enerzine-rss-3-1794658200000",
       "title": "Voyager 1 à l’approche d’un jour-lumière, et de réponses à deux jours de distance",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2385,7 +2436,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1794636600000",
+      "id": "enerzine-rss-4-1794636600000",
       "title": "Ce mini PC 16 Go suffit-il pour un poste bureautique multi-écrans (NiPoGi P2) ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2410,7 +2461,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1794633000000",
+      "id": "enerzine-rss-5-1794633000000",
       "title": "Stade Rochelais : un autocar qui carbure au biocarburant B100 (colza) pour les déplacements sportifs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2434,7 +2485,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1794629400000",
+      "id": "enerzine-rss-6-1794629400000",
       "title": "Data centers : le courant continu, une piste pour réduire le cuivre",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2459,7 +2510,181 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1794670320000",
+      "id": "lenergeek-rss-0-1794692400000",
+      "title": "Dans les Caraïbes, un projet pilote vise à grouper les achats des réseaux électriques",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/14/caraibes-reseaux-electriques-achats-groupes-uneza-cop31/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/32cb8e59-achats-reseau-caraibes.jpg",
+      "date": "2026-11-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "La Global Clean Power Alliance soutient un projet pilote d’achats groupés porté par des énergéticiens dans les Caraïbes. Présentée à la COP31, la démarche vise à donner aux fabricants de matériel électrique une vision plus précise des commandes à venir. L’article Dans les Caraïbe…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1794688800000",
+      "title": "La batterie domestique AURA 5000 doit rester éteinte en attendant un nouveau câble",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/14/growatt-aura-5000-batterie-cable-remplacement/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/76fb232d-batterie-domestique-debranchee.jpg",
+      "date": "2026-11-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Growatt dit avoir identifié la cause des surchauffes signalées sur sa batterie de stockage. Dans son avis du 13 novembre, le fabricant annonce des câbles de remplacement gratuits d’ici à la fin décembre et trois mois de garantie supplémentaires. L’article La batterie domestique A…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1794685224000",
+      "title": "À Saint-Avold, le deuxième parc de batteries peut restituer 65 mégawatts pendant deux heures",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/14/saint-avold-deuxieme-parc-batteries-65-mw-deux-heures/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/9d9c9743-saint-avold-conteneurs-stockage-batteries.jpg",
+      "date": "2026-11-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Sur le site de la centrale Émile-Huchet, en Moselle, deux parcs de batteries totalisent désormais 100 mégawatts. Le plus récent peut emmagasiner une partie de la production solaire de la journée pour la restituer au réseau le soir. L’article À Saint-Avold, le deuxième parc de bat…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1794681600000",
+      "title": "En Allemagne, le tarif de rachat du solaire pourrait rester garanti jusqu’à 25 kW",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/14/allemagne-solaire-toitures-25-kw-compromis-tarif-injection/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/01cc9871-panneaux-solaires-toit-allemand.jpg",
+      "date": "2026-11-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Le projet du gouvernement allemand prévoyait de supprimer la rémunération fixe des nouvelles installations. Les spécialistes de l’énergie de la coalition se sont entendus pour la maintenir sur les petites toitures. Le compromis doit encore franchir l’étape parlementaire. L’articl…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-4-1794678078000",
+      "title": "Vols transatlantiques : pourquoi un détour peut économiser du kérosène",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/14/vols-transatlantiques-courant-jet-distance-air-kerosene/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/be4fe3c2-courant-jet-vol-atlantique.jpg",
+      "date": "2026-11-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Entre Londres et New York, le chemin le plus court sur la carte peut coûter davantage de carburant. Tout dépend de la position du courant-jet et du sens dans lequel l’avion traverse l’Atlantique. L’article Vols transatlantiques : pourquoi un détour peut économiser du kérosène est…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-5-1794675600000",
+      "title": "Le Nigeria dit avoir atteint son quota pétrolier six mois de suite, l’AIE le situe sous le seuil en octobre",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/14/nigeria-production-petrole-octobre-opep-estimations/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/ac497dc8-reservoir-production-petrole-nigeria.jpg",
+      "date": "2026-11-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "Le régulateur nigérian annonce 1,51 million de barils de brut par jour en octobre. L’Agence internationale de l’énergie en estime 1,44 million. L’écart suffit à placer le pays de part et d’autre du seuil fixé à 1,5 million. L’article Le Nigeria dit avoir atteint son quota pétroli…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-6-1794674991000",
+      "title": "Sécheresse du Colorado : la production hydroélectrique du Sud-Ouest américain chute de 19 %",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/14/colorado-secheresse-production-hydroelectrique-avril-aout-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/77be9cb3-barrage-colorado-niveau.jpg",
+      "date": "2026-11-14",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "D’avril à août 2026, les centrales hydroélectriques du Sud-Ouest américain ont produit 19 % d’électricité de moins qu’un an auparavant. Dans son bilan du 13 novembre, l’agence américaine d’information sur l’énergie montre pourquoi préserver le niveau du lac Powell peut compliquer…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-7-1794670320000",
       "title": "Éolien en mer : Seaway7 pose le premier câble du réseau intérieur de Hornsea 3",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2484,7 +2709,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1794667283000",
+      "id": "lenergeek-rss-8-1794667283000",
       "title": "El Niño se renforce dans le Pacifique : pourquoi les climatologues surveillent deux seuils cet hiver",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2508,7 +2733,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1794659808000",
+      "id": "lenergeek-rss-9-1794659808000",
       "title": "Crue : pourquoi une maison au sec peut rester sans électricité après la décrue",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2533,7 +2758,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1794654000000",
+      "id": "lenergeek-rss-10-1794654000000",
       "title": "Compteurs intelligents : le régulateur britannique clôt ses contrôles auprès de neuf fournisseurs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2558,7 +2783,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1794645552000",
+      "id": "lenergeek-rss-11-1794645552000",
       "title": "Chauffe-eau thermodynamique : dans quelle pièce installer le ballon ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2583,7 +2808,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1794642999000",
+      "id": "lenergeek-rss-12-1794642999000",
       "title": "Rénovation énergétique : Bruxelles relève deux échéances manquantes dans le plan polonais",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2609,7 +2834,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1794642600000",
+      "id": "lenergeek-rss-13-1794642600000",
       "title": "« Je ne savais même pas qu’il fallait le demander » : des milliers de Français vont perdre leur chèque énergie faute d’agir avant la date limite",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2634,7 +2859,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1794640800000",
+      "id": "lenergeek-rss-14-1794640800000",
       "title": "Rotondes situées à 260 mètres de profondeur et chemins d’évacuation entre les tubes : découvrez le tunnel sous-marin le plus long et profond au monde",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2660,7 +2885,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1794640500000",
+      "id": "lenergeek-rss-15-1794640500000",
       "title": "Eau de pluie et eaux grises : jusqu’à 44 % de prélèvements d’eau potable en moins dans un bâtiment équipé ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2686,7 +2911,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1794638667000",
+      "id": "lenergeek-rss-16-1794638667000",
       "title": "À Belle-Île-en-Mer, comment l’électricité arrive de Quiberon jusqu’au réseau insulaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2712,7 +2937,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1794630610000",
+      "id": "lenergeek-rss-17-1794630610000",
       "title": "En Lettonie, un prêt européen de 70 millions d’euros pour rénover 3 900 appartements",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2738,7 +2963,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1794628477000",
+      "id": "lenergeek-rss-18-1794628477000",
       "title": "À la COP31, 39 pays soutiennent le triplement de la capacité nucléaire mondiale d’ici à 2050",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2763,7 +2988,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1794627738000",
+      "id": "lenergeek-rss-19-1794627738000",
       "title": "Entretien d’une pompe à chaleur : qui prend rendez-vous et à quelle date ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2787,7 +3012,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1794624960000",
+      "id": "lenergeek-rss-20-1794624960000",
       "title": "Dogger Bank A : le régulateur britannique choisit le futur opérateur du raccordement électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2813,7 +3038,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1794620426000",
+      "id": "lenergeek-rss-21-1794620426000",
       "title": "Pourquoi un nuage blanc peut s’échapper d’une pompe à chaleur en hiver",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2838,7 +3063,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1794673696000",
+      "id": "le-commerce-du-bois-sitemap-0-1794699991000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2864,7 +3089,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1794673696000",
+      "id": "le-commerce-du-bois-sitemap-1-1794699991000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2890,7 +3115,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1794673696000",
+      "id": "le-commerce-du-bois-sitemap-2-1794699991000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -4338,7 +4563,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1794595200000",
+      "id": "enerzine-rss-7-1794595200000",
       "title": "Solaire thermique : le Gouvernement lance un plan pour accélérer la filière",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4363,7 +4588,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1794593700000",
+      "id": "enerzine-rss-8-1794593700000",
       "title": "L’A13 fermée dix mois : Île-de-France Mobilités annonce des renforts de bus",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4388,7 +4613,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1794579600000",
+      "id": "enerzine-rss-9-1794579600000",
       "title": "Isolation extérieure des maisons : des solutions nouvelles à l’épreuve du chantier",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -4414,31 +4639,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1794577800000",
-      "title": "RER E : dernière circulation des MI2N, 100 RER NG en service",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/rer-e-derniere-circulation-des-mi2n-100-rer-ng-en-service/200412-2026-11",
-      "image": null,
-      "date": "2026-11-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Le RER E a mis fin, mardi dernier, à la circulation de ses 53 rames MI2N, en service depuis 1999, tandis que 100 rames RER NG sont désormais mises en service sur la ligne. Ce remplacement s’inscrit dans la modernisation du matériel roulant financée par Île-de-France Mobilités, al…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-15-1794613612000",
+      "id": "lenergeek-rss-22-1794613612000",
       "title": "Nucléaire : au Canada, le premier petit réacteur de Darlington dépassera son budget et son calendrier, selon OPG",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4464,7 +4665,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1794612000000",
+      "id": "lenergeek-rss-23-1794612000000",
       "title": "Dans la région de Kiev, 84 852 foyers ont retrouvé l’électricité en trois jours",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4485,178 +4686,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Pour rétablir le courant après les frappes, le distributeur ukrainien DTEK a parfois alimenté les logements par un autre chemin. Le bilan communiqué le 12 novembre porte sur les foyers reconnectés. Sur plusieurs installations, les réparations se poursuivaient. L’article Dans la r…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-17-1794611520000",
-      "title": "En Alaska, deux projets pétroliers devraient porter la hausse de la production à 13 % en 2027",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/14/alaska-pikka-nuna-production-petrole-prevision-eia-2027/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/da52e056-oleoduc-toundra-alaska.jpg",
-      "date": "2026-11-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "L’agence américaine d’information sur l’énergie prévoit que l’Alaska produira 60 000 barils de brut supplémentaires par jour en 2027. Le principal apport viendrait de Pikka, où le débit a déjà atteint 38 000 barils par jour en septembre. L’article En Alaska, deux projets pétrolie…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-18-1794609591000",
-      "title": "Station-service sur un trajet : comment vérifier si le détour vaut le coup",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/13/station-service-comparer-prix-carburant-trajet/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/65c493d9-pistolets-station-carburants.jpg",
-      "date": "2026-11-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Quatre centimes de moins au litre représentent 1,60 euro sur un plein de 40 litres. Pour savoir si une station mérite le détour, le comparateur public permet de chercher le carburant voulu entre deux villes et de vérifier la date du tarif. L’article Station-service sur un trajet …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-19-1794603600000",
-      "title": "Vent fort possible mardi 17 novembre, à qui signaler une ligne électrique tombée au sol ?",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/13/vent-17-novembre-ligne-electrique-coupure-enedis/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/a2683310-ligne-electrique-vent-atlantique.jpg",
-      "date": "2026-11-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Une dépression pourrait apporter des vents violents à certaines régions françaises mardi. Si une branche entraîne un câble dans sa chute, le danger subsiste même quand le quartier est privé de courant. Enedis dispose d’un numéro de dépannage propre à chaque département. L’article…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-20-1794602280000",
-      "title": "Aux États-Unis, les stocks de gaz dépassent de 2 % leur moyenne sur cinq ans",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/13/etats-unis-stocks-gaz-naturel-moyenne-novembre-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/fc689edd-vanne-stockage-gaz-americain.jpg",
-      "date": "2026-11-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Au 6 novembre, les réserves souterraines des États-Unis contigus contenaient environ 109,4 milliards de mètres cubes de gaz mobilisable. Le stock dépasse la moyenne de saison, mais reste inférieur de 2,3 % au niveau de novembre 2025. L’article Aux États-Unis, les stocks de gaz dé…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-21-1794602178000",
-      "title": "Pompe à chaleur air/eau : trois questions à poser avant de signer le devis",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/13/devis-pompe-chaleur-air-eau-radiateurs-loi-eau/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/11cdd242-radiateur-pompe-chaleur-devis.jpg",
-      "date": "2026-11-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Peut-on garder les radiateurs, qui réglera la température de l’eau et comment suivre les démarrages ? Trois points à faire préciser par l’installateur avant de remplacer une chaudière en maison individuelle. L’article Pompe à chaleur air/eau : trois questions à poser avant de sig…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1794591356000",
-      "title": "Pourquoi le gazole reste sous tension alors que les stocks mondiaux de pétrole remontent",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/13/aie-octobre-2026-raffinage-stocks-mer-gazole/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/480a9f4d-raffinerie-reservoirs-gazole.jpg",
-      "date": "2026-11-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "En octobre, les stocks pétroliers mondiaux observés ont augmenté de 52 millions de barils. Une grande partie du pétrole supplémentaire se trouve encore sur l’eau, tandis que le volume traité par les raffineries a diminué. L’article Pourquoi le gazole reste sous tension alors que …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1794585047000",
-      "title": "Éolien terrestre : pourquoi les 1 006 MW retenus représentent 816 MW supplémentaires",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/13/eolien-terrestre-1006-mw-retenus-816-mw-supplementaires-cre/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/baa32865-eolien-renouvellement.jpg",
-      "date": "2026-11-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Biosourcé"
-      ],
-      "summary": "La ministre chargée de l’Énergie a retenu 63 projets éoliens terrestres. Dans son bilan du 13 novembre, la Commission de régulation de l’énergie précise ce que gagnerait le parc français une fois déduite la puissance des éoliennes remplacées. L’article Éolien terrestre : pourquoi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6047,7 +6076,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-0-1794495438000",
+      "id": "verre-protections-magazine-rss-1-1794495438000",
       "title": "MACO acquiert une participation majoritaire dans la société ekey biometric systems GmbH",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -7194,53 +7223,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-46-1794323711000",
-      "title": "replay du webinaire 09 novembre 2026 demarrer et structurer observatoire friches en 6",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/replay-du-webinaire-09-novembre-2026-demarrer-et-structurer-observatoire-friches-en-6",
-      "image": null,
-      "date": "2026-11-10",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "bellastock-rss-0-1794319851000",
-      "title": "Sans titre",
-      "source": "Bellastock",
-      "sourceId": "bellastock",
-      "sourceType": "Centre ressources",
-      "region": "National",
-      "url": "https://www.bellastock.com/61759-2/",
-      "image": null,
-      "date": "2026-11-10",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Réemploi",
-        "Urbanisme transitoire",
-        "Matériaux"
-      ],
-      "summary": "The post appeared first on Bellastock. The post appeared first on Bellastock .",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "batiweb-rss-15-1794323100000",
       "title": "Précarité énergétique : 3,5 millions de ménages concernés en France",
       "source": "Batiweb",
@@ -7457,7 +7439,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-1-1794304233000",
+      "id": "verre-protections-magazine-rss-2-1794304233000",
       "title": "Présidentielle : les sept propositions de L’UFME pour la rénovation énergétique",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -8287,30 +8269,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-45-1794215211000",
-      "title": "artificialisation des sols replay du webinaire decouvrez les premieres donnees du 3",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/artificialisation-des-sols-replay-du-webinaire-decouvrez-les-premieres-donnees-du-3",
-      "image": null,
-      "date": "2026-11-09",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "ademe-rss-0-1794231955000",
       "title": "Novembre 2026",
       "source": "ADEME",
@@ -8555,7 +8513,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-2-1794232597000",
+      "id": "verre-protections-magazine-rss-3-1794232597000",
       "title": "Vie & Véranda placée en liquidation judiciaire",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -9191,30 +9149,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-42-1793956794000",
-      "title": "webinaire 9 novembre 2026 10h 11h30 demarrer et structurer observatoire friches en 6",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/webinaire-9-novembre-2026-10h-11h30-demarrer-et-structurer-observatoire-friches-en-6",
-      "image": null,
-      "date": "2026-11-06",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "capeb-rss-0-1793976765000",
       "title": "Carto Silice : l’OPPBTP publie la mise à jour du rapport de la campagne de mesures des poussières de silice cristalline alvéolaire lors d’opérations du BTP",
       "source": "CAPEB",
@@ -9434,7 +9368,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-3-1793945136000",
+      "id": "verre-protections-magazine-rss-4-1793945136000",
       "title": "VKR Holding propose d’acquérir StellaGroup auprès de PAI Partners et ICG",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -11331,7 +11265,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-4-1793722081000",
+      "id": "verre-protections-magazine-rss-5-1793722081000",
       "title": "L’opération humanitaire des Menuisiers Français pour le Peuple d’Ukraine bat son plein et ouvre des plateformes régionales",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -11704,7 +11638,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-5-1793629604000",
+      "id": "verre-protections-magazine-rss-6-1793629604000",
       "title": "Multilaque réinvente son outil de production avec ML3",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -11730,7 +11664,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-6-1793615115000",
+      "id": "verre-protections-magazine-rss-7-1793615115000",
       "title": "Menuiserie extérieure : les moteurs du marché en 2026",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -11756,7 +11690,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-7-1793614661000",
+      "id": "verre-protections-magazine-rss-8-1793614661000",
       "title": "Vitrage extérieur collé : du cadre européen aux opérations de collage sur chantier",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -11782,7 +11716,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "verre-protections-magazine-rss-8-1793614286000",
+      "id": "verre-protections-magazine-rss-9-1793614286000",
       "title": "Geplast investit 1,5 million d’euros pour produire son nouveau coffre de volet roulant Fokus 2",
       "source": "Verre & Protections Magazine",
       "sourceId": "verre-protections-magazine",
@@ -11804,32 +11738,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Reportage en Maine-et-Loire Geplast opère en BtoB, essentiellement comme concepteur auprès des gammistes aluminiers, industriels fabricants de menuiseries et de volets roulants pour la partie Geplast Building, et des fabricants de portails et clôtures pour l’outdoor. Le spécialis…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "verre-protections-magazine-rss-9-1793614217000",
-      "title": "Avec une croissance de 60% en deux ans, Cybel Extension fixe un nouveau cap à 24 millions d’euros en 2029",
-      "source": "Verre & Protections Magazine",
-      "sourceId": "verre-protections-magazine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.verreetprotections.com/avec-une-croissance-de-60-en-deux-ans-cybel-extension-fixe-un-nouveau-cap-a-24-millions-deuros-en-2029/",
-      "image": null,
-      "date": "2026-11-02",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Menuiseries",
-        "Façades",
-        "Vitrage",
-        "Protection solaire",
-        "Eau"
-      ],
-      "summary": "Avec près de 20 millions d’euros de chiffre d’affaires sur son dernier exercice (2025-2026), en croissance de 60 % en deux ans, et 112 millions d’€ cumulés depuis sa création, le réseau spécialisé dans l’agrandissement de l’habitat poursuit son changement... L’article Avec une cr…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -14944,30 +14852,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-44-1792153092000",
-      "title": "replay du webinaire 15 octobre 2026 vers suivi plus fin la consommation des espaces",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/replay-du-webinaire-15-octobre-2026-vers-suivi-plus-fin-la-consommation-des-espaces",
-      "image": null,
-      "date": "2026-10-16",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "atmo-france-sitemap-40-1792149522000",
       "title": "le fonctionnement datmo france",
       "source": "Atmo France",
@@ -17699,30 +17583,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Visite de chantier, webinaires, rencontres avec d'autres professionnels, échange sur les innovations ...Découvrez les temps forts qui ont eu lieu dans votre région ! L’article Actualités régionales : les temps forts du mois de septembre est apparu en premier sur Fibois France. Vi…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-43-1790770265000",
-      "title": "artificialisation des sols decouvrez les premieres donnees du 3 millesime jeudi 5",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/artificialisation-des-sols-decouvrez-les-premieres-donnees-du-3-millesime-jeudi-5",
-      "image": null,
-      "date": "2026-09-30",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "capeb-rss-10-1790726400000",
@@ -21719,31 +21579,6 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bellastock-rss-1-1785339156000",
-      "title": "Le Festival des cannes à Marseille",
-      "source": "Bellastock",
-      "sourceId": "bellastock",
-      "sourceType": "Centre ressources",
-      "region": "National",
-      "url": "https://www.bellastock.com/festival-des-cannes-ville-ephemere/",
-      "image": null,
-      "date": "2026-07-29",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Réemploi",
-        "Urbanisme transitoire",
-        "Matériaux",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "La ville éphémère en canne de Provence et en tuile de réemploi de la Biennale Beaux Détours. The post Le Festival des cannes à Marseille appeared first on Bellastock. La ville éphémère en canne de Provence et en tuile de réemploi de la Biennale Beaux Détours. The post Le Festival…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "ekopolis-sitemap-60-1785314239000",
       "title": "societe resiliente transition ecologique et cohesion sociale etudes de quelques",
       "source": "Ekopolis",
@@ -21952,30 +21787,6 @@ window.BATIVEILLE_DATA = {
       "summary": "Le Rapport de l&rsquo;Observatoire de la Qualité de la Construction confirme la première place de la couverture en petits éléments dans les maisons individuelles, tandis que la sinistralité des équipements sanitaires poursuit sa progression inquiétante. Maisons individuelles : qu…",
       "premiumSummary": "",
       "collectMethod": "wordpress_api"
-    },
-    {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-41-1785237848000",
-      "title": "webinaire 15 octobre 2026 vers suivi plus fin la consommation des espaces naturels",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/webinaire-15-octobre-2026-vers-suivi-plus-fin-la-consommation-des-espaces-naturels",
-      "image": null,
-      "date": "2026-07-28",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "capeb-rss-19-1785222916000",
@@ -23659,30 +23470,6 @@ window.BATIVEILLE_DATA = {
         "Habitat privé"
       ],
       "summary": "Publication détectée dans le sitemap de ANAH. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-40-1782884876000",
-      "title": "parution des donnees consommation despaces naturels agricoles et forestiers 2011 2025",
-      "source": "ONAS — Observatoire National de l’Artificialisation des Sols",
-      "sourceId": "onas-observatoire-national-de-l-artificialisation-des-sols",
-      "sourceType": "Observatoire",
-      "region": "National",
-      "url": "https://artificialisation.developpement-durable.gouv.fr/actualites/parution-des-donnees-consommation-despaces-naturels-agricoles-et-forestiers-2011-2025",
-      "image": null,
-      "date": "2026-07-01",
-      "access": "official",
-      "official": true,
-      "highImpact": false,
-      "impactScore": 90,
-      "tags": [
-        "ZAN",
-        "Artificialisation",
-        "Foncier",
-        "Urbanisme"
-      ],
-      "summary": "Publication détectée dans le sitemap de ONAS — Observatoire National de l’Artificialisation des Sols. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
