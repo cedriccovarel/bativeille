@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-11-15T16:53:32.508Z",
+  "generatedAt": "2026-11-15T23:53:01.864Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2286,7 +2286,32 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1794736200000",
+      "id": "enerzine-rss-0-1794784200000",
+      "title": "Immobilier : 80 % des professionnels jugent l’adaptation climatique trop lente",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/immobilier-80-des-professionnels-jugent-ladaptation-climatique-trop-lente/200408-2026-11",
+      "image": null,
+      "date": "2026-11-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Selon un sondage OpinionWay pour Eren Low-Carbon Buildings mené auprès de 207 professionnels du secteur, 80 % considèrent que l’immobilier s’adapte encore trop lentement aux enjeux climatiques, alors que 91 % déclarent bien maîtriser les normes thermiques. La dernière publication…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1794736200000",
       "title": "Les bras métalliques attrapent l’étage supérieur de Starship, nouvel exploit de SpaceX",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2312,7 +2337,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1794733800000",
+      "id": "enerzine-rss-2-1794733800000",
       "title": "Piratage de Maileva : 22 millions de noms et d’adresses, autant de prises pour les escrocs",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2336,7 +2361,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1794723000000",
+      "id": "enerzine-rss-3-1794723000000",
       "title": "Une coupure de courant prolongée ? La station électrique portable EcoFlow DELTA 3 Max vous protège",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2362,7 +2387,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1794715800000",
+      "id": "enerzine-rss-4-1794715800000",
       "title": "Hydrogène dans l’électricité : un rôle plus ciblé d’ici 2030",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -2386,7 +2411,158 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1794757530000",
+      "id": "lenergeek-rss-0-1794780000000",
+      "title": "Les perturbations reviennent en France : jusqu’où peut-on se fier au radar de pluie ?",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/15/perturbations-novembre-lire-radar-pluie-prevision-vent/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/b0262b40-radar-meteo-perturbation.jpg",
+      "date": "2026-11-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "Météo-France prévoit plusieurs passages pluvieux pour la semaine du 16 novembre et surveille un risque de coup de vent. Sur une même animation radar, deux images qui se suivent peuvent pourtant donner des informations de nature différente. L’article Les perturbations reviennent e…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1794776253000",
+      "title": "Nucléaire : Ofgem révise le calcul du revenu de Sizewell C pendant le chantier",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/15/sizewell-c-ofgem-revenu-chantier-nucleaire/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/79207b75-sizewell-financement-chantier.jpg",
+      "date": "2026-11-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment",
+        "Bâtiment"
+      ],
+      "summary": "Au Royaume-Uni, les ménages contribuent au financement de Sizewell C avant même que les réacteurs produisent de l’électricité. Le 9 novembre, Ofgem a révisé plusieurs paramètres du calcul annuel, dont le coût de la dette et la somme prévue pour le démantèlement. Une recette de l’…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1794775206000",
+      "title": "Pourquoi une ligne électrique peut transporter davantage de courant quand le vent souffle",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/15/lignes-electriques-vent-capacite-transit-mesure-dynamique/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/cd2ef4e2-ligne-aerienne-vent-capacite.jpg",
+      "date": "2026-11-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Confort d’été"
+      ],
+      "summary": "Sur certaines lignes aériennes, le gestionnaire peut ajuster le courant admissible selon la météo locale. Le procédé intéresse particulièrement les parcs éoliens, car le vent qui fait tourner leurs pales refroidit aussi les câbles qui évacuent leur production. L’article Pourquoi …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1794771600000",
+      "title": "Sous ce village suisse, 46 forages ont déjà aidé à ralentir le glissement de terrain",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/15/brienz-brinzauls-drainage-46-forages-glissement-zone-rouge/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/95522056-galerie-drainage-versant.jpg",
+      "date": "2026-11-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Bâtiment"
+      ],
+      "summary": "À Brienz/Brinzauls, dans les Grisons, le terrain avance désormais de moins de cinq centimètres par an. Le chantier de drainage a dépassé son premier objectif, mais la commune devra observer la montagne pendant des années avant de pouvoir revoir son classement en zone rouge. L’art…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-4-1794767756000",
+      "title": "À Sydney, une tour des années 1970 a doublé sa surface de bureaux en gardant son ossature",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/15/sydney-quay-quarter-tower-ossature-beton-rapport-aie-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/1fd533fb-tour-bureaux-ossature-conservee.jpg",
+      "date": "2026-11-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau"
+      ],
+      "summary": "Achevée en 2022, la transformation de la Quay Quarter Tower figure dans un rapport publié le 11 novembre par l’Agence internationale de l’énergie. L’agence y examine les émissions que l’on peut éviter avant même que les matériaux ne deviennent des déchets. L’article À Sydney, une…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-5-1794761483000",
+      "title": "Éolien : ICE prévoit des contrats à terme pour couvrir le risque de manque de vent en France",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/15/eolien-france-ice-contrats-terme-risque-volume-vent/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/54169033-eoliennes-variations-vent.jpg",
+      "date": "2026-11-15",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "Le 9 novembre, Intercontinental Exchange a annoncé quinze contrats à terme liés à la production éolienne dans sept pays européens, dont la France. Leur lancement est prévu le 14 décembre 2026, sous réserve de l’achèvement des procédures réglementaires. L’article Éolien : ICE prév…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-6-1794757530000",
       "title": "Entretien de la chaudière : qui doit prendre rendez-vous avant le 31 décembre 2026 ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2410,7 +2586,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1794756665000",
+      "id": "lenergeek-rss-7-1794756665000",
       "title": "Près de Châteauroux, Engie et Google étudient la récupération de chaleur du futur centre de données",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2436,7 +2612,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1794756000000",
+      "id": "lenergeek-rss-8-1794756000000",
       "title": "En mer de Kara, la banquise n’avait jamais occupé aussi peu de place en octobre dans les relevés satellites",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2462,7 +2638,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1794750110000",
+      "id": "lenergeek-rss-9-1794750110000",
       "title": "Pourquoi l’AIE s’intéresse au tri des bouteilles transparentes en Corée",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2487,7 +2663,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1794747201000",
+      "id": "lenergeek-rss-10-1794747201000",
       "title": "Géothermie : l’Union européenne soutient un objectif mondial multiplié par douze d’ici 2050",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2511,7 +2687,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1794745945000",
+      "id": "lenergeek-rss-11-1794745945000",
       "title": "En Norvège, les opérateurs pétroliers et gaziers réduisent de 9 milliards de couronnes leurs investissements prévus pour 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2536,7 +2712,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1794739860000",
+      "id": "lenergeek-rss-12-1794739860000",
       "title": "Au Canada, la consommation d’énergie des logements a augmenté de 5,6 % en 2025",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2561,7 +2737,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1794739248000",
+      "id": "lenergeek-rss-13-1794739248000",
       "title": "À Saint-Avold, le réseau électrique prévoit 200 MW de raccordements en 2026, puis 900 MW supplémentaires en 2029",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2586,7 +2762,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1794735600000",
+      "id": "lenergeek-rss-14-1794735600000",
       "title": "Le Danemark réserve 20 millions d’euros à l’énergie dans la région ukrainienne de Kherson",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2611,7 +2787,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1794732791000",
+      "id": "lenergeek-rss-15-1794732791000",
       "title": "Gaz en Allemagne : un hiver aussi froid que 2010 laisserait jusqu’à 6,6 TWh de demande non couverte en un mois",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2635,7 +2811,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1794731924000",
+      "id": "lenergeek-rss-16-1794731924000",
       "title": "Batterie du Galaxy A56 5G : comment lire les 44 h 34 et les 2 000 cycles de son étiquette",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2659,7 +2835,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1794725454000",
+      "id": "lenergeek-rss-17-1794725454000",
       "title": "Cet ingénieur a construit une maison en bouteilles remplies de sable pour sa grand-mère : 9 ans plus tard, il en a bâti 24 autres et les villages se l’arrachent",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2684,7 +2860,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1794723631000",
+      "id": "lenergeek-rss-18-1794723631000",
       "title": "Oubliez ITER : une équipe de physiciens découvre comment atteindre l’allumage avec beaucoup moins d’énergie, le monde de la fusion est sous le choc",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2710,7 +2886,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1794721352000",
+      "id": "lenergeek-rss-19-1794721352000",
       "title": "Carburants d’aviation durables : cinq pays concentrent près des trois quarts des livraisons européennes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2734,7 +2910,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1794710400000",
+      "id": "lenergeek-rss-20-1794710400000",
       "title": "Quand le gel menace une maison vide, le thermostat du séjour ne dit pas tout",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2759,7 +2935,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1794706800000",
+      "id": "lenergeek-rss-21-1794706800000",
       "title": "En Espagne, les stations-service doivent déclarer leurs prix même les semaines où ils ne bougent pas",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2784,7 +2960,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1794703852000",
+      "id": "lenergeek-rss-22-1794703852000",
       "title": "En Grande-Bretagne, les promotions sur l’énergie resteront ouvertes aux clients fidèles jusqu’en 2028",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2810,7 +2986,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1794703428000",
+      "id": "lenergeek-rss-23-1794703428000",
       "title": "Électricité en Ukraine : comment une garantie européenne aide à financer un parc éolien",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2834,7 +3010,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1794761599000",
+      "id": "le-commerce-du-bois-sitemap-0-1794786768000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2860,7 +3036,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1794761599000",
+      "id": "le-commerce-du-bois-sitemap-1-1794786768000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2886,7 +3062,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1794761599000",
+      "id": "le-commerce-du-bois-sitemap-2-1794786768000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -3089,7 +3265,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1794676800000",
+      "id": "enerzine-rss-5-1794676800000",
       "title": "Samsung Galaxy S26 Ultra : un écran à l’abri des regards",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3114,7 +3290,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1794669600000",
+      "id": "enerzine-rss-6-1794669600000",
       "title": "Lexar Play 2 To : un disque SSD NVMe taillé pour la PS5",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3138,7 +3314,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1794665220000",
+      "id": "enerzine-rss-7-1794665220000",
       "title": "Parade planétaire 2026, quatre planètes avant l’aube mais Mercure se fait discrète",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3162,7 +3338,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1794658200000",
+      "id": "enerzine-rss-8-1794658200000",
       "title": "Voyager 1 à l’approche d’un jour-lumière, et de réponses à deux jours de distance",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3187,7 +3363,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1794636600000",
+      "id": "enerzine-rss-9-1794636600000",
       "title": "Ce mini PC 16 Go suffit-il pour un poste bureautique multi-écrans (NiPoGi P2) ?",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3208,180 +3384,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "Travailler plusieurs heures par jour sur l’écran unique d’un ordinateur portable ou subir l’encombrement d’une tour traditionnelle finit souvent par limiter le confort de travail. Lorsque l’on souhaite organiser son bureau avec deux ou trois moniteurs pour comparer des documents,…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "enerzine-rss-9-1794633000000",
-      "title": "Stade Rochelais : un autocar qui carbure au biocarburant B100 (colza) pour les déplacements sportifs",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/stade-rochelais-un-autocar-b100-pour-les-deplacements-sportifs/200380-2026-11",
-      "image": null,
-      "date": "2026-11-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Le Stade Rochelais et ses partenaires Keolis Littoral, Volvo Bus, Sarrion Transports et Oleo100 dressent le bilan d’un autocar Volvo 9700 DD fonctionnant exclusivement au B100, mis en circulation en mai 2025 pour les déplacements des équipes à travers la France. Après plus de 60 …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-18-1794699660000",
-      "title": "Pétrole : l’approvisionnement de l’Union européenne reste stable après les prélèvements de gazole",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/15/ue-approvisionnement-petrole-reserves-gazole-octobre-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/c7ab720b-reserves-gazole.jpg",
-      "date": "2026-11-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "Le groupe européen de coordination pour le pétrole juge l’approvisionnement de l’Union stable au 13 novembre. En octobre, les États membres ont encore puisé dans leurs réserves, en particulier de gazole, dans le cadre de l’action engagée au printemps. L’article Pétrole : l’approv…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-19-1794696178000",
-      "title": "À Maurice, le solaire gagne du terrain mais la part des renouvelables recule",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/14/maurice-electricite-solaire-part-renouvelables-bilan-2025/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/95203e83-maurice-electricite-panneaux-canne.jpg",
-      "date": "2026-11-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "En 2025, les panneaux photovoltaïques mauriciens ont produit 52,8 GWh de plus qu’en 2024. Le recul de l’hydraulique a absorbé une partie de ce gain, tandis que les centrales au fioul et au diesel ont fourni près de la moitié de l’électricité du pays. L’article À Maurice, le solai…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-20-1794696000000",
-      "title": "Chauffage en votre absence : pourquoi British Gas parle de 5 °C et l’Ademe de 12 °C",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/14/chauffage-absence-temperature-hors-gel-british-gas-ademe/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/bd48f3b7-chauffage-absence-hiver.jpg",
-      "date": "2026-11-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Bâtiment"
-      ],
-      "summary": "Trois régions anglaises entrent en alerte au froid dimanche soir. Pour les logements laissés vides, British Gas rappelle comment protéger les canalisations du gel. En France, l’Ademe donne un autre repère aux ménages qui programment plusieurs jours d’absence. L’article Chauffage …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-21-1794692400000",
-      "title": "Dans les Caraïbes, un projet pilote vise à grouper les achats des réseaux électriques",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/14/caraibes-reseaux-electriques-achats-groupes-uneza-cop31/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/32cb8e59-achats-reseau-caraibes.jpg",
-      "date": "2026-11-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "La Global Clean Power Alliance soutient un projet pilote d’achats groupés porté par des énergéticiens dans les Caraïbes. Présentée à la COP31, la démarche vise à donner aux fabricants de matériel électrique une vision plus précise des commandes à venir. L’article Dans les Caraïbe…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1794688800000",
-      "title": "La batterie domestique AURA 5000 doit rester éteinte en attendant un nouveau câble",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/14/growatt-aura-5000-batterie-cable-remplacement/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/76fb232d-batterie-domestique-debranchee.jpg",
-      "date": "2026-11-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Growatt dit avoir identifié la cause des surchauffes signalées sur sa batterie de stockage. Dans son avis du 13 novembre, le fabricant annonce des câbles de remplacement gratuits d’ici à la fin décembre et trois mois de garantie supplémentaires. L’article La batterie domestique A…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1794685224000",
-      "title": "À Saint-Avold, le deuxième parc de batteries peut restituer 65 mégawatts pendant deux heures",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/14/saint-avold-deuxieme-parc-batteries-65-mw-deux-heures/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/9d9c9743-saint-avold-conteneurs-stockage-batteries.jpg",
-      "date": "2026-11-14",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Sur le site de la centrale Émile-Huchet, en Moselle, deux parcs de batteries totalisent désormais 100 mégawatts. Le plus récent peut emmagasiner une partie de la production solaire de la journée pour la restituer au réseau le soir. L’article À Saint-Avold, le deuxième parc de bat…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -6378,7 +6380,7 @@ window.BATIVEILLE_DATA = {
         "Financement",
         "Marché énergie"
       ],
-      "summary": "Article mis à jour le 13/11/2026* L’article Infranity lève 1,5 Md€ et dépasse les 15 Mds€ sous gestion est apparu en premier sur GreenUnivers. Article mis à jour le 13/11/2026* L’article Infranity lève 1,5 Md€ et dépasse les 15 Mds€ sous gestion est apparu en premier sur GreenUni…",
+      "summary": "Article mis à jour le 13/11/2026 Le gestionnaire d’infrastructures français adossé à Generali Investments clôt son 4e fonds à 1,5 Md€. Via ce véhicule dédié à la dette privée, L’article Infranity lève 1,5 Md€ et dépasse les 15 Mds€ sous gestion est apparu en premier sur GreenUniv…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -10017,6 +10019,52 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1793750400000",
+      "title": "avancees ffb 2026",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
+      "image": null,
+      "date": "2026-11-04",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-70-1793750400000",
+      "title": "ffb 2026 2027 combats en cours",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/ffb-2026-2027-combats-en-cours",
+      "image": null,
+      "date": "2026-11-04",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "fncaue-rss-0-1793803600000",
       "title": "Lancement de la deuxième édition du palmarès réHAB XXe",
       "source": "FNCAUE",
@@ -13342,6 +13390,190 @@ window.BATIVEILLE_DATA = {
       "summary": "La décarbonation des territoires insulaires est un défi difficile à surmonter. Mais la Grèce vient de franchir une étape importante en rendant autonome la petite […] L’article Cette petite île grecque est désormais autonome grâce aux énergies renouvelables et aux batteries est ap…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-134-1792713600000",
+      "title": "legislatives prios 1 2",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-1-2",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-135-1792713600000",
+      "title": "legislatives prios 3 4",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-3-4",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-136-1792713600000",
+      "title": "legislatives prios 5 6",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-5-6",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-137-1792713600000",
+      "title": "legislatives prios 7 8",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-7-8",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-138-1792713600000",
+      "title": "legislatives prios 9 10",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-9-10",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-139-1792713600000",
+      "title": "legislatives prios 11 12",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-11-12",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-140-1792713600000",
+      "title": "legislatives prios 13 14",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-13-14",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-141-1792713600000",
+      "title": "legislatives prios 15 16",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-15-16",
+      "image": null,
+      "date": "2026-10-23",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "capeb-rss-5-1792747875000",
@@ -18976,6 +19208,29 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-79-1789603200000",
+      "title": "gouvernement frederic carre rencontre vincent jeanbrun",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/gouvernement-frederic-carre-rencontre-vincent-jeanbrun",
+      "image": null,
+      "date": "2026-09-17",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "atmo-france-sitemap-535-1789641183000",
       "title": "qualite de lair et climat lomm appelle des politiques coordonnees",
       "source": "Atmo France",
@@ -19964,6 +20219,29 @@ window.BATIVEILLE_DATA = {
       "summary": "Dans le cadre de la remise des Prix Envirobat Grand Est qui s’est déroulée le 11 novembre 2025, organisée par Envirobat Grand Est, en partenariat avec les CAUE du Grand […] L'article Replay – Conférence Étalement urbain et biodiversité (25/11/2025) a été publié sur Envirobat Gran…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "ffb-federation-francaise-du-batiment-sitemap-320-1788220800000",
+      "title": "actu simple 31",
+      "source": "FFB — Fédération Française du Bâtiment",
+      "sourceId": "ffb-federation-francaise-du-batiment",
+      "sourceType": "Fédération professionnelle",
+      "region": "National",
+      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/actu-simple-31",
+      "image": null,
+      "date": "2026-09-01",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Conjoncture",
+        "Économie du bâtiment",
+        "Entreprises"
+      ],
+      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
     },
     {
       "id": "arb-nouvelle-aquitaine-rss-6-1788264120000",
