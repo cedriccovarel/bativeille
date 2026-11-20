@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:56:31.862Z",
+  "generatedAt": "2026-11-20T01:43:46.136Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1795139010000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-11-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1795139010000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-11-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1795139010000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-11-20",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "batiweb-rss-0-1795101300000",
       "title": "Finaxiome : trois ex-dirigeants condamnés pour escroquerie",
       "source": "Batiweb",
@@ -3633,7 +3711,31 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-0-1795086420000",
+      "id": "enerzine-rss-0-1795129800000",
+      "title": "Une équipe universitaire transforme un puits de gaz vieillissant en source d’énergie géothermique",
+      "source": "Enerzine",
+      "sourceId": "enerzine",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.enerzine.com/une-equipe-universitaire-transforme-un-puits-de-gaz-vieillissant-en-source-denergie-geothermique/200753-2026-11",
+      "image": null,
+      "date": "2026-11-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Innovation",
+        "ENR"
+      ],
+      "summary": "Des chercheurs de l’Université Lehigh font partie d’une équipe qui va tester si la chaleur présente sous la Pennsylvanie peut alimenter en énergie des maisons, des entreprises et des fermes, en utilisant des infrastructures que l’industrie énergétique de l’État a déjà construites…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "enerzine-rss-1-1795086420000",
       "title": "Chariots électriques : le vrai coût se joue aussi à la recharge",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3658,7 +3760,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-1-1795083300000",
+      "id": "enerzine-rss-2-1795083300000",
       "title": "Électricité des entreprises : 2027 cote presque deux fois plus cher que 2029",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3684,7 +3786,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-2-1795069800000",
+      "id": "enerzine-rss-3-1795069800000",
       "title": "Des exosquelettes sous-marins pourraient aider les plongeurs à consommer moins d’air et à se déplacer plus efficacement",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3709,7 +3811,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-3-1795068600000",
+      "id": "enerzine-rss-4-1795068600000",
       "title": "L’UCO développe une batterie rechargeable qui fonctionne à la vitamine B-12",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3734,7 +3836,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-4-1795065000000",
+      "id": "enerzine-rss-5-1795065000000",
       "title": "Des nanotubes de carbone permettent des substrats ultrafins et légers pour des cellules solaires",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3760,7 +3862,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-5-1795061400000",
+      "id": "enerzine-rss-6-1795061400000",
       "title": "Une planète cachée émerge de l’éblouissement",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -3784,7 +3886,82 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1795110475000",
+      "id": "lenergeek-rss-0-1795131415000",
+      "title": "Biométhane : Bruxelles conteste la préférence française dans les certificats de production",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/20/biomethane-bruxelles-certificats-production-avis-motive-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/a22d704b-usine-methanisation-bey-biziat-ain-1600x1066-1.jpg",
+      "date": "2026-11-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 80,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR"
+      ],
+      "summary": "La Commission européenne a adressé le 19 novembre un avis motivé à la France sur ses certificats de production de biogaz. Elle estime que le dispositif favorise le biométhane français au détriment des importations et critique l'absence de notification préalable de ses règles. L’a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1795127956000",
+      "title": "Électricité : comment participer au nouveau marché local de RTE et Enedis",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/19/rte-enedis-marche-flexibilite-locale-10-departements-19-novembre-2026-2333/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/30f84941-poste-haute-tension-rte-vigy-moselle-1600x1066-1.jpg",
+      "date": "2026-11-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Eau",
+        "Économie du bâtiment"
+      ],
+      "summary": "Depuis le 3 novembre 2026, RTE et Enedis expérimentent dans dix départements un marché commun permettant aux producteurs, consommateurs et opérateurs de stockage de proposer des modulations de puissance pour soulager les réseaux électriques. L’accès dépend de l’emplacement des si…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1795117618000",
+      "title": "Prix de l’électricité : la CRE redéfinit les offres à tarification dynamique",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/19/cre-electricite-offres-tarification-dynamique-19-novembre-2026-2033/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/9ccf5778-compteurs-electriques-connectes-facade-batiment-1600x1066-1.jpg",
+      "date": "2026-11-19",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Le régulateur français de l’énergie a précisé le 19 novembre 2026 trois modèles d’offres dont le prix varie avec le marché de gros. Les plus grands fournisseurs sont concernés, mais le régime transitoire est prolongé jusqu’à fin 2027. L’article Prix de l’électricité : la CRE redé…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1795110475000",
       "title": "Réseaux électriques et stockage : l’UE veut accélérer les permis, sans feu vert automatique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3809,7 +3986,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1795109927000",
+      "id": "lenergeek-rss-4-1795109927000",
       "title": "Électricité : la CRE redéfinit les offres à prix dynamiques et prolonge la transition",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3834,7 +4011,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1795108446000",
+      "id": "lenergeek-rss-5-1795108446000",
       "title": "Hydrogène européen : l’ACER chiffre le retard des électrolyseurs face aux objectifs de 2030",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3859,7 +4036,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1795108308000",
+      "id": "lenergeek-rss-6-1795108308000",
       "title": "Pétrole et gaz : les ports européens exposés aux aléas climatiques, alerte l’AIE",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3883,7 +4060,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1795105282000",
+      "id": "lenergeek-rss-7-1795105282000",
       "title": "Climatisation : les besoins mondiaux de refroidissement dépassent ceux du chauffage",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3908,7 +4085,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1795100400000",
+      "id": "lenergeek-rss-8-1795100400000",
       "title": "EDF prépare le rachat d’Utilita après deux ans de coopération",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3934,7 +4111,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1795096800000",
+      "id": "lenergeek-rss-9-1795096800000",
       "title": "Ormuz : 40 milliards de dollars d’oléoducs pour réduire la dépendance au détroit",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3960,7 +4137,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1795095000000",
+      "id": "lenergeek-rss-10-1795095000000",
       "title": "Data centers : la ruée vers l’IA augmente aussi les besoins en gaz et en charbon",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3985,7 +4162,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1795094448000",
+      "id": "lenergeek-rss-11-1795094448000",
       "title": "Crise d’Ormuz : l’AIE décrit comment les routes mondiales du pétrole pourraient changer",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4009,7 +4186,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1795091887000",
+      "id": "lenergeek-rss-12-1795091887000",
       "title": "Batteries de réseau : la CRE expérimente un tarif pour le stockage en basse tension",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4034,7 +4211,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1795090993000",
+      "id": "lenergeek-rss-13-1795090993000",
       "title": "Réseaux électriques : l’AIE estime nécessaires 25 millions de kilomètres de lignes nouvelles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4060,7 +4237,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1795086900000",
+      "id": "lenergeek-rss-14-1795086900000",
       "title": "Une explosion nucléaire dans l’espace pourrait perturber les prévisions de production d’électricité",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4085,7 +4262,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1795084200000",
+      "id": "lenergeek-rss-15-1795084200000",
       "title": "La Russie importe 390 000 tonnes d’essence malgré sa production de pétrole",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4109,7 +4286,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1795082700000",
+      "id": "lenergeek-rss-16-1795082700000",
       "title": "Biométhane : 868 sites d’injection en France, dont 738 sur le réseau GRDF",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4134,7 +4311,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1795082400000",
+      "id": "lenergeek-rss-17-1795082400000",
       "title": "Dans le secteur de l’énergie, abandonner les PFAS se heurte à la difficulté de trouver des substituts",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4160,7 +4337,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1795080855000",
+      "id": "lenergeek-rss-18-1795080855000",
       "title": "Raphaël Glucksmann veut doubler les capacités renouvelables et prolonger le nucléaire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4184,7 +4361,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1795078020000",
+      "id": "lenergeek-rss-19-1795078020000",
       "title": "Électricité industrielle : Bruxelles autorise l’Allemagne à cumuler deux aides en 2026",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4208,7 +4385,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1795076821000",
+      "id": "lenergeek-rss-20-1795076821000",
       "title": "Marchés de l’énergie : l’ACER détaille sa surveillance des transactions algorithmiques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4233,7 +4410,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1795076470000",
+      "id": "lenergeek-rss-21-1795076470000",
       "title": "Énergies propres : Bruxelles veut accélérer les matériaux qui réduisent la dépendance aux métaux critiques",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4257,7 +4434,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1795075200000",
+      "id": "lenergeek-rss-22-1795075200000",
       "title": "GNL du Qatar : les méthaniers repartent, mais Ras Laffan reste loin de son rythme habituel",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4283,7 +4460,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1795072857000",
+      "id": "lenergeek-rss-23-1795072857000",
       "title": "En 1874, Sarmiento a ajouté un navire de 550 tonnes et 46 mètres de longueur : 29 ans plus tard, il a secouru des scientifiques bloqués en Antarctique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4308,160 +4485,56 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1795071900000",
-      "title": "Vigilance orange : dans quatre départements, l’eau menace aussi les installations électriques",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
+      "id": "le-journal-du-grand-paris-rss-0-1795126353000",
+      "title": "L’essentiel de la semaine du 16 novembre 2026 en quelques clics",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/19/vigilance-orange-crues-risques-electriques-19-novembre-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/45747701-poste-electrique-distribution-illustration-1600x1066-1.jpg",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-16-novembre-2026-en-quelques-clics/",
+      "image": null,
       "date": "2026-11-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Les Landes rejoignent ce jeudi 19 novembre 2026 la Somme, le Pas-de-Calais et la Seine-Maritime en vigilance orange pluie-inondation. Quand l'eau atteint un poste de distribution ou une installation domestique, le risque électrique peut imposer une mise hors tension avant même qu…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1795071540000",
-      "title": "Chèque énergie 2027 : l’aide arrive bien plus tôt que prévu",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/19/cheque-energie-2027-roland-lescure-guichet-janvier-ouvrira/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/08/Cheque-energie-son-envoie-nest-plus-automatique-et-beaucoup-risques-de-passer-a-cote-sils-ne-le-demandent-pas-avant-ce.webp",
-      "date": "2026-11-19",
-      "access": "Gratuit",
+      "access": "Accès gratuit partiel",
       "official": false,
       "highImpact": false,
       "impactScore": 80,
       "tags": [
         "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier"
       ],
-      "summary": "Le gouvernement ouvre le guichet du chèque énergie 2027 dès le 14 janvier, soit trois mois plus tôt que les années précédentes. L’article Chèque énergie 2027 : l’aide arrive bien plus tôt que prévu est apparu en premier sur L'EnerGeek. Le gouvernement ouvre le guichet du chèque é…",
+      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. De Limay, où Ikea mise sur la logistique fluviale, à La Défense, qui engage la transformation du futur Delta Vert, les projets structurants ont occupé le devant de la scène …",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-23-1795071002000",
-      "title": "À 31 ans, elle a laissé Buenos Aires pour bâtir une maison de 56 m² en terre et 5000 bouteilles en verre dans les sierras de Córdoba",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
+      "id": "le-journal-du-grand-paris-rss-1-1795126085000",
+      "title": "À Créteil, une première pierre emblématique de l’aménagement des quartiers de gare",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/19/a-31-ans-elle-a-laisse-buenos-aires-pour-batir-une-maison-de-56-m%c2%b2-en-terre-et-5000-bouteilles-en-verre-dans-les-sierras-de-cordoba/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/A-31-ans-elle-a-laisse-Buenos-Aires-pour-batir-une-maison-de-56-m%C2%B2-en-terre-et-5000-bouteilles-en-verre-dans-les-sierra.webp",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/a-creteil-une-premiere-pierre-emblematique-de-lamenagement-des-quartiers-de-gare/",
+      "image": null,
       "date": "2026-11-19",
-      "access": "Gratuit",
+      "access": "Accès gratuit partiel",
       "official": false,
-      "highImpact": true,
-      "impactScore": 96,
+      "highImpact": false,
+      "impactScore": 88,
       "tags": [
         "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Eau"
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Confort d’été"
       ],
-      "summary": "Un couple a transformé 5 000 bouteilles de verre et de la terre crue en maison autosuffisante dans les sierras argentines. Toit végétal, chauffe-eau solaire, verger nourricier : leur secret pour vivre sans crédit ni loyer vous attend. L’article À 31 ans, elle a laissé Buenos Aire…",
+      "summary": "Mercredi 16 novembre, la Société des grands projets et Nexity ont posé la première pierre de leur programme immobilier conjoint à Créteil, en présence de la pdg de Nexity, du président du directoire de la SGP, du maire de Créteil et du préfet du Val-de-Marne. Développé en co-prom…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1795114576000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1795114576000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1795114576000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1795102308000",
+      "id": "le-journal-du-grand-paris-rss-2-1795102308000",
       "title": "Honeywell Technologies livre le 500e poste d’injection de biométhane de GRDF",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6530,7 +6603,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-6-1795043400000",
+      "id": "enerzine-rss-7-1795043400000",
       "title": "Contrôler les matériaux quantiques avec la lumière : pourquoi deux impulsions peuvent valoir mieux qu’une",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6556,7 +6629,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-7-1795016400000",
+      "id": "enerzine-rss-8-1795016400000",
       "title": "Portail sur mesure : les bons choix se font avant le dessin",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6581,7 +6654,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-8-1794983400000",
+      "id": "enerzine-rss-9-1794983400000",
       "title": "Une nouvelle technologie réussit le test olfactif",
       "source": "Enerzine",
       "sourceId": "enerzine",
@@ -6605,31 +6678,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "enerzine-rss-9-1794982200000",
-      "title": "Des revêtements naturels inspirés des plantes peuvent surpasser les « produits chimiques éternels »",
-      "source": "Enerzine",
-      "sourceId": "enerzine",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.enerzine.com/des-revetements-naturels-inspires-des-plantes-peuvent-surpasser-les-produits-chimiques-eternels/200776-2026-11",
-      "image": null,
-      "date": "2026-11-18",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Innovation",
-        "ENR"
-      ],
-      "summary": "Les substances polyfluoroalkyles (PFAS) sont connues comme des « produits chimiques éternels » en raison de l’impact qu’elles ont sur l’environnement et le corps humain. Une grande partie de la fabrication moderne repose sur ces substances pour les emballages sûrs, la protection …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-1-1795029067000",
+      "id": "le-journal-du-grand-paris-rss-3-1795029067000",
       "title": "EDF ouvre une boutique éphémère à Paris pour ses 80 ans",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6654,7 +6703,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1795028060000",
+      "id": "le-journal-du-grand-paris-rss-4-1795028060000",
       "title": "A Limay, la nouvelle plateforme d’Ikea conjugue logistique fluviale et création d’emplois locaux",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6679,7 +6728,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1795017371000",
+      "id": "le-journal-du-grand-paris-rss-5-1795017371000",
       "title": "Le BTP francilien, 400 000 actifs et une trésorerie sous tension",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6704,7 +6753,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1795016504000",
+      "id": "le-journal-du-grand-paris-rss-6-1795016504000",
       "title": "Camille Tubiana officiellement nommée directrice générale de l’Anru",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6730,7 +6779,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1795015717000",
+      "id": "le-journal-du-grand-paris-rss-7-1795015717000",
       "title": "Seine, Marne et canaux ont attiré 267 300 baigneurs à l’été 2026, indique l’Apur",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6756,7 +6805,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1795013146000",
+      "id": "le-journal-du-grand-paris-rss-8-1795013146000",
       "title": "Guillaume Aubert – Chassé-croisé",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8247,7 +8296,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-7-1794935966000",
+      "id": "le-journal-du-grand-paris-rss-9-1794935966000",
       "title": "Le SyAGE revoit la copie de sa politique en faveur de l’infiltration à la source",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -8268,57 +8317,6 @@
         "Eau"
       ],
       "summary": "Le 4 novembre dernier, le syndicat mixte SyAGE a adopté un nouveau règlement de gestion des eaux pluviales. L’objectif est de mieux intégrer l'infiltration de l’eau dans les parcelles, publiques comme privées, pour limiter les rejets vers les réseaux et les cours d’eau. Le 4 nove…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1794934811000",
-      "title": "Du nœud autoroutier aux espaces paysagers : Paris La Défense lance l’aménagement du Delta Vert",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/du-noeud-autoroutier-aux-espaces-paysagers-paris-la-defense-lance-lamenagement-du-delta-vert/",
-      "image": null,
-      "date": "2026-11-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Biosourcé"
-      ],
-      "summary": "A l'ouest de la Grande Arche, Paris La Défense engage la transformation de 15 hectares de friches et de nœuds autoroutiers en un grand parc métropolitain. Reconnectant les Terrasses de Nanterre aux berges de la Seine à l'horizon 2030, cette opération de 40 millions d'euros achève…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1794933527000",
-      "title": "Jean-Marie Duthilleul est décédé",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/portrait-dagence-duthilleul-le-plus-discret-des-starchitectes/",
-      "image": null,
-      "date": "2026-11-17",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "RE2020"
-      ],
-      "summary": "L'architecte Jean-Marie Duthilleul est décédé lundi 16 novembre. Il y a quelques mois, nous consacrions un portrait d'agence à cet artiste à l'immense talent, à qui l'on doit toutes les gares de Paris, à l’exception d’Austerlitz, mais aussi celles d’Avignon, Aix-en-Provence, etc.…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -9278,7 +9276,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-197-1794528000000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-173-1794528000000",
       "title": "parlement senat frederic carre appelle sursaut",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -12049,99 +12047,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-11-1793750400000",
-      "title": "prevenir et guerir les difficultes des entreprises",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/en/actualites-batiment/actualite/prevenir-et-guerir-les-difficultes-des-entreprises",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-12-1793750400000",
-      "title": "prevenir et guerir les difficultes des entreprises",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/prevenir-et-guerir-les-difficultes-des-entreprises",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-20-1793750400000",
-      "title": "budget 2027",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/en/actualites-batiment/presse/budget-2027",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-21-1793750400000",
-      "title": "budget 2027",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/presse/budget-2027",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-41-1793750400000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-22-1793750400000",
       "title": "avancees ffb 2026",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -12164,7 +12070,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-89-1793750400000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-70-1793750400000",
       "title": "ffb 2026 2027 combats en cours",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -14917,7 +14823,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-152-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-134-1792713600000",
       "title": "legislatives prios 1 2",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -14940,7 +14846,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-153-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-135-1792713600000",
       "title": "legislatives prios 3 4",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -14963,7 +14869,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-154-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-136-1792713600000",
       "title": "legislatives prios 5 6",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -14986,7 +14892,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-155-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-137-1792713600000",
       "title": "legislatives prios 7 8",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -15009,7 +14915,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-156-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-138-1792713600000",
       "title": "legislatives prios 9 10",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -15032,7 +14938,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-157-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-139-1792713600000",
       "title": "legislatives prios 11 12",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -15055,7 +14961,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-158-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-140-1792713600000",
       "title": "legislatives prios 13 14",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -15078,7 +14984,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-159-1792713600000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-141-1792713600000",
       "title": "legislatives prios 15 16",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -19971,7 +19877,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-97-1789603200000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-79-1789603200000",
       "title": "gouvernement frederic carre rencontre vincent jeanbrun",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
@@ -20936,7 +20842,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-345-1788220800000",
+      "id": "ffb-federation-francaise-du-batiment-sitemap-321-1788220800000",
       "title": "actu simple 31",
       "source": "FFB — Fédération Française du Bâtiment",
       "sourceId": "ffb-federation-francaise-du-batiment",
