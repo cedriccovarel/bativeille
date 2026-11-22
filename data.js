@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-11-22T13:10:03.940Z",
+  "generatedAt": "2026-11-22T20:58:55.641Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2185,7 +2185,58 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-0-1795348130000",
+      "id": "novethic-rss-0-1795362948000",
+      "title": "\"Le plus gros échec de l'histoire des COP\" : à Antalya, les énergies fossiles font dérailler les négociations climatiques",
+      "source": "Novethic",
+      "sourceId": "novethic",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.novethic.fr/environnement/climat/le-plus-gros-echec-de-lhistoire-des-cop-a-antalya-les-energies-fossiles-font-derailler-les-negociations-climatiques",
+      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/11/COP31-Caner-Ozkan-Greenpeace-150x150.jpg",
+      "date": "2026-11-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "RSE",
+        "ESG",
+        "Finance durable",
+        "Climat",
+        "Énergie"
+      ],
+      "summary": "Manifestation de Greenpeace en marge de la COP31. Caner Özkan / Greenpeace Antalya, dimanche 22 novembre. Il aura fallu près de 48 heures supplémentaires pour que le constat tombe : la COP31 n'aura pas son accord politique final. Lors de la séance plénière de clôture, le présiden…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-0-1795355460000",
+      "title": "La « pire de toutes les COP » se termine sans accord et avec un retard historique",
+      "source": "Reporterre",
+      "sourceId": "reporterre",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://reporterre.net/La-pire-de-toutes-les-COP-touche-a-sa-fin-sans-accord-et-avec-un-retard-historique",
+      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/toutescopessontechec-90487.jpg?1795355462",
+      "date": "2026-11-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Écologie",
+        "Environnement",
+        "Climat",
+        "Confort d’été"
+      ],
+      "summary": "La COP31 s'est achevée sur un échec monumental. Le projet d'accord, unanimement décrié par les ONG écologistes, a été rejeté par les pays climatiquement vulnérables. Un fiasco historique pour la diplomatie planétaire. Lire la suite - Reportage / Climat , Monde , COP31 La COP31 s'…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "reporterre-rss-1-1795348130000",
       "title": "La COP31 se dirige vers un fiasco historique",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2209,7 +2260,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-1-1795330800000",
+      "id": "reporterre-rss-2-1795330800000",
       "title": "« J'aimerais que le temps des plantes grignote le temps du travail »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2234,7 +2285,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-2-1795330800000",
+      "id": "reporterre-rss-3-1795330800000",
       "title": "« Le loup a redynamisé le métier » : ces bergers croient à la coexistence avec le prédateur",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2309,7 +2360,84 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1795332021000",
+      "id": "lenergeek-rss-0-1795365645000",
+      "title": "Camions électriques : Enedis recense plus de 600 bornes en projet dans le Nord-Pas-de-Calais",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/22/enedis-600-bornes-camions-electriques-nord-pas-de-calais-80-mw-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/599abe71-camion-electrique-borne-recharge-iaa-transportatio-1600x1066-1.jpg",
+      "date": "2026-11-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation"
+      ],
+      "summary": "En septembre 2026, Enedis identifiait dans le Nord-Pas-de-Calais des projets représentant plus de 600 bornes de recharge pour poids lourds et près de 80 MW de puissance. À Méricourt, une installation de 2 MW est déjà raccordée. L’article Camions électriques : Enedis recense plus …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1795353906000",
+      "title": "TVA sur l’énergie à 5,5 % : Marine Le Pen et Alexandre Saubot s’opposent sur les bénéficiaires",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/22/tva-energie-55-marine-le-pen-saubot-franc-jeu/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/Marine-Le-Pen-a-Madrid-en-janvier-2022-portrait-darchive.jpg",
+      "date": "2026-11-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "Dans Franc-Jeu le 22 novembre 2026, Marine Le Pen a défendu une TVA à 5,5 % sur l’énergie. Alexandre Saubot a plaidé pour un soutien ciblé sur les ménages et l’investissement industriel. L’article TVA sur l’énergie à 5,5 % : Marine Le Pen et Alexandre Saubot s’opposent sur les bé…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-2-1795351048000",
+      "title": "Choose France 2026 : énergie et décarbonation au programme du 23 novembre",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/22/choose-france-2026-energie-decarbonation-hydrogene-23-novembre-1333/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/34dc99f7-maison-internationale-cite-universitaire-paris-1600x1066-1.jpg",
+      "date": "2026-11-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Le 23 novembre à Paris, Choose France – Édition France doit réunir plus de 200 dirigeants et porteurs de projets. Énergie, décarbonation et hydrogène figurent dans le champ des investissements recherchés, sans bilan 2026 encore établi. L’article Choose France 2026 : énergie et dé…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-3-1795332021000",
       "title": "Votre four a des traces entre les vitres et vous pensiez devoir démonter la porte : un simple cintre suffit, les réparateurs le confirment",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2333,7 +2461,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1795330248000",
+      "id": "lenergeek-rss-4-1795330248000",
       "title": "« Je rénovais ma maison quand j’ai mis au jour la façade d’une église renaissance. Elle vaut un million d’euros, mais la mairie refuse de me dédommager », l’histoire de Juan",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2358,7 +2486,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1795328410000",
+      "id": "lenergeek-rss-5-1795328410000",
       "title": "Ouvrir ou fermer la porte de la machine à laver après le lavage, ce que conseillent Miele et Siemens",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2382,7 +2510,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1795325907000",
+      "id": "lenergeek-rss-6-1795325907000",
       "title": "Électricité à quai : HAROPA et Enedis au cœur d’un projet retenu sur l’axe Seine",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2408,7 +2536,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1795325780000",
+      "id": "lenergeek-rss-7-1795325780000",
       "title": "Chauffage d’appoint et coupures de courant : éviter le monoxyde de carbone cet hiver",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2434,7 +2562,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1795352991000",
+      "id": "le-commerce-du-bois-sitemap-0-1795381122000",
       "title": "ressources themis",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2460,7 +2588,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1795352991000",
+      "id": "le-commerce-du-bois-sitemap-1-1795381122000",
       "title": "actualites",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2486,7 +2614,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-2-1795352991000",
+      "id": "le-commerce-du-bois-sitemap-2-1795381122000",
       "title": "ressources",
       "source": "Le Commerce du Bois",
       "sourceId": "le-commerce-du-bois",
@@ -2510,6 +2638,136 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1795357000000",
+      "title": "Assises du Grand Paris 2026 – Rénovation urbaine : réhabiliter avant de démolir pour alléger la facture carbone",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/assises-du-grand-paris-2026-renovation-urbaine-rehabiliter-avant-de-demolir-pour-alleger-la-facture-carbone/",
+      "image": null,
+      "date": "2026-11-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Caroline Perriot (Action Logement Services), Camille Gicquel (ville d’Argenteuil) et Guillaume Terraillot (Epfif) ont confronté leurs leviers de décarbonation, du réemploi des bureaux vides aux clauses carbone des cessions foncières. Caroline Perriot (Action Logement Services), C…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1795356359000",
+      "title": "Assises du Grand Paris 2026 – Le BioGNV veut s’imposer dans la décarbonation des poids lourds franciliens",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/assises-du-grand-paris-2026-le-biognv-veut-simposer-dans-la-decarbonation-des-poids-lourds-franciliens/",
+      "image": null,
+      "date": "2026-11-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "Marianne Ricci, déléguée marché d’affaires Île-de-France de GRDF, et Réza Meralli, directeur général de Sigeif mobilités, ont chiffré la place du gaz vert dans les transports de la région, des 16 000 véhicules en circulation aux 100 stations publiques visées en 2030. Marianne Ric…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-2-1795355754000",
+      "title": "Assises du Grand Paris 2026 – À Gennevilliers, le biométhaniseur du Syctom et du Sigeif dans la dernière ligne droite",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/assises-du-grand-paris-2026-a-gennevilliers-le-biomethaniseur-du-syctom-et-du-sigeif-dans-la-derniere-ligne-droite/",
+      "image": null,
+      "date": "2026-11-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Eau"
+      ],
+      "summary": "Bernard Gauducheau, président du Sigeif, Corentin Duprey, président du Syctom, et Santa Orsini, pour GRDF, ont détaillé le calendrier, le financement et les débouchés de l’unité implantée à Gennevilliers (Hauts-de-Seine) qui transformera 50 000 t de déchets alimentaires en gaz ve…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-3-1795355581000",
+      "title": "Logement dans le Grand Paris : les députés donnent la main aux Territoires",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/logement-dans-le-grand-paris-les-deputes-donnent-la-main-aux-territoires/",
+      "image": null,
+      "date": "2026-11-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Bâtiment"
+      ],
+      "summary": "L'Assemblée nationale a adopté, vendredi 20 novembre, les articles 8 et 9 du projet de loi visant la relance et la décentralisation du logement et leurs dispositions relatives au Grand Paris. Issu d'un amendement de la sénatrice LR des Hauts-de-Seine Christine Lavarde, le disposi…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-4-1795355215000",
+      "title": "Assises du Grand Paris 2026 – Eau, biodéchets, gaz vert, logement : les opérateurs franciliens chiffrent leur décarbonation",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/assises-du-grand-paris-2026-eau-biodechets-gaz-vert-logement-les-operateurs-franciliens-chiffrent-leur-decarbonation/",
+      "image": null,
+      "date": "2026-11-22",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Réglementation",
+        "Carbone"
+      ],
+      "summary": "La plénière des Assises du Grand Paris, qui s’est tenue le 10 novembre à l’Espace Centenaire de la maison de la RATP, était consacrée à l’accélération de la décarbonation. Présidents de syndicats, industriels, élus et bailleurs ont précisé leurs investissements, leurs calendriers…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
     },
     {
       "id": "acpresse-rss-1-1795266000000",
@@ -2537,7 +2795,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-3-1795250564000",
+      "id": "reporterre-rss-4-1795250564000",
       "title": "« Même si elle interdit la chasse, l'extrême droite ne sera jamais l'alliée du vivant »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2563,7 +2821,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-4-1795244400000",
+      "id": "reporterre-rss-5-1795244400000",
       "title": "« Un grand élan populaire peut renverser la fascisation du monde »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2587,7 +2845,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-5-1795237200000",
+      "id": "reporterre-rss-6-1795237200000",
       "title": "« On voit une tortue, un dauphin… Et tout est mort » : les filets dérivants font un carnage en Méditerranée",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -2739,7 +2997,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1795279109000",
+      "id": "lenergeek-rss-8-1795279109000",
       "title": "Électricité : 12 milliards d’euros consacrés à la sécurité d’approvisionnement en Europe",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2764,7 +3022,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1795263363000",
+      "id": "lenergeek-rss-9-1795263363000",
       "title": "Réseaux électriques : l’ACER prépare son premier bilan cyber avant le classement officiel des opérateurs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2789,7 +3047,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1795258941000",
+      "id": "lenergeek-rss-10-1795258941000",
       "title": "Sonde Voyager 1 : trois chauffages coupés pour préserver son énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2813,7 +3071,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1795253888000",
+      "id": "lenergeek-rss-11-1795253888000",
       "title": "Crues dans le Pas-de-Calais : 450 foyers encore sans courant vendredi soir, la Canche sous surveillance",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2838,7 +3096,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1795248861000",
+      "id": "lenergeek-rss-12-1795248861000",
       "title": "Énergies renouvelables : Londres lance des enchères avec un budget symbolique d’une livre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2863,7 +3121,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1795246664000",
+      "id": "lenergeek-rss-13-1795246664000",
       "title": "Carburants : Bruno Retailleau propose de suspendre les certificats d’économies d’énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2889,7 +3147,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1795245606000",
+      "id": "lenergeek-rss-14-1795245606000",
       "title": "Le plus vaste lac d’eau douce au monde renoue avec sa plus forte remontée depuis 343 ans",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2914,7 +3172,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1795243800000",
+      "id": "lenergeek-rss-15-1795243800000",
       "title": "Idris Elba et sa femme Sabrina envisagent de convertir l’île isolée de Sherbro en Sierra Leone en une éco-ville dotée d’éoliennes, d’énergie solaire et d’une connectivité numérique pour 40 000 résidents",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2939,7 +3197,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1795243346000",
+      "id": "lenergeek-rss-16-1795243346000",
       "title": "Électricité : l’UE et Londres prolongent leur coopération énergétique jusqu’en 2028",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2964,7 +3222,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1795242035000",
+      "id": "lenergeek-rss-17-1795242035000",
       "title": "Les vétérinaires préviennent : ce geste que tout le monde fait en caressant un chat errant peut déclencher une morsure en quelques secondes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2990,7 +3248,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1795239952000",
+      "id": "lenergeek-rss-18-1795239952000",
       "title": "El Niño 2026-2027 : l’OMM renforce les alertes face aux risques de sécheresse et d’inondations",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3015,7 +3273,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1795238052000",
+      "id": "lenergeek-rss-19-1795238052000",
       "title": "EDF rachète en Australie un projet de batterie de 1 GWh, encore loin de sa mise en service",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3041,7 +3299,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1795237822000",
+      "id": "lenergeek-rss-20-1795237822000",
       "title": "Espagne : 17,1 milliards d’euros pour préparer le réseau électrique à 47 GW de nouveaux usages",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3066,7 +3324,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1795236484000",
+      "id": "lenergeek-rss-21-1795236484000",
       "title": "Réseaux d’électricité et de gaz : la CRE approuve les contrats d’OYA Energies",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3092,7 +3350,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1795234471000",
+      "id": "lenergeek-rss-22-1795234471000",
       "title": "EPR2 : EDF prépare une décision d’investissement provisoire sans attendre Bruxelles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3117,7 +3375,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1795225158000",
+      "id": "lenergeek-rss-23-1795225158000",
       "title": "Ukraine : les centrales nucléaires réduisent leur production après des frappes sur le réseau",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -3143,57 +3401,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1795220317000",
-      "title": "Gaz : l’UE aborde l’hiver avec des stocks autour de 70 %, sans risque de pénurie signalé",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/21/gaz-union-europeenne-stocks-70-pour-cent-hiver-2026-2027/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/7a6913cb-reservoir-spherique-stockage-gaz-industriel-1600x1066-1.jpg",
-      "date": "2026-11-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation"
-      ],
-      "summary": "Réuni le 20 novembre, le groupe européen de coordination du gaz estime l’approvisionnement assuré pour l’hiver, malgré des réserves d’environ 70 % et des prix tendus. Il insiste sur les importations de GNL et la nécessité d’éviter un épuisement excessif des stocks. L’article Gaz …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-22-1795220180000",
-      "title": "Grèce : l’UE mobilise 228,9 millions d’euros pour relier Kos au réseau électrique continental",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/21/grece-kos-interconnexion-electrique-2289-millions-euros-union-europeenne-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/d3306c1c-ile-kos-vue-aerienne-golfe-kefalos-grece-1600x1066-1.jpg",
-      "date": "2026-11-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Un financement européen de 228,9 millions d’euros soutient la première phase de l’interconnexion électrique des îles grecques du Dodécanèse. Le projet, estimé à 2,54 milliards d’euros pour cette étape, prévoit un câble sous-marin entre Corinthe et Kos. L’article Grèce : l’UE mobi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1795290492000",
+      "id": "le-journal-du-grand-paris-rss-5-1795290492000",
       "title": "Les marchés du Grand Paris – Haropa Port va implanter de nouvelles activités logistiques et de BTP à Bruyères-sur-Oise",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4323,7 +4531,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "novethic-rss-0-1795182120000",
+      "id": "novethic-rss-1-1795182120000",
       "title": "\"La solitude est devenue l’un des moteurs du capitalisme numérique\", Paul Klotz",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -4348,7 +4556,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-1-1795173714000",
+      "id": "novethic-rss-2-1795173714000",
       "title": "SFDR 2.0 : l'accord en trilogue ouvre la porte aux énergies fossiles dans les fonds de transition",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -4374,7 +4582,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-2-1795153522000",
+      "id": "novethic-rss-3-1795153522000",
       "title": "Au Bangladesh, les ouvriers du textile se révoltent contre des salaires de misère",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -4425,7 +4633,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-6-1795191044000",
+      "id": "reporterre-rss-7-1795191044000",
       "title": "À la COP31, les États sont très loin d'obtenir un accord",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4450,7 +4658,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-7-1795191007000",
+      "id": "reporterre-rss-8-1795191007000",
       "title": "Crise de l'agriculture : les deux mandats d'Emmanuel Macron n'auront rien résolu",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4475,7 +4683,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-8-1795189001000",
+      "id": "reporterre-rss-9-1795189001000",
       "title": "Les tortues marines, victimes collatérales de l'explosion d'un propulseur SpaceX",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4501,7 +4709,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-9-1795186228000",
+      "id": "reporterre-rss-10-1795186228000",
       "title": "Une militante des droits humains exclue de la COP31 après un simple échange avec Monique Barbut",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4527,7 +4735,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-10-1795185912000",
+      "id": "reporterre-rss-11-1795185912000",
       "title": "Fleur Breteau et des malades du cancer libérés après 25 heures de privation de liberté pour avoir jeté des cendres",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4553,7 +4761,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-11-1795183518000",
+      "id": "reporterre-rss-12-1795183518000",
       "title": "L'ex-patron de Haribo et du lobby de l'agroalimentaire nommé à la tête du programme de l'État sur l'alimentation",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4579,7 +4787,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-12-1795181811000",
+      "id": "reporterre-rss-13-1795181811000",
       "title": "Chasse : une enquête ouverte après les révélations de Reporterre",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4605,7 +4813,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-13-1795163985000",
+      "id": "reporterre-rss-14-1795163985000",
       "title": "Marine Tondelier « prête » à rallier Jean-Luc Mélenchon : de nombreux soutiens et quelques démissions",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4631,7 +4839,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-14-1795163641000",
+      "id": "reporterre-rss-15-1795163641000",
       "title": "« Cette présidentielle, pour nous, c'est une question de vie ou de mort » : le rappeur Médine appelle à voter LFI",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -4655,7 +4863,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-15-1795150800000",
+      "id": "reporterre-rss-16-1795150800000",
       "title": "Bruno Retailleau, Édouard Philippe... À droite, la traque aux économies dégomme l'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -5137,33 +5345,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-23-1795217894000",
-      "title": "Au Portugal, Pracana associe un barrage de 1951 à 90 000 panneaux solaires",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/21/portugal-pracana-barrage-solaire-hydraulique-edp-21-novembre-2026-0033/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/8add836d-barrage-pracana-ocreza-portugal-archive-2005-1600x1066-1.jpg",
-      "date": "2026-11-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Le complexe de Pracana, achevé par EDP, réunit 41 MW hydroélectriques et 48 MW photovoltaïques sur un même raccordement. L’exploitant prévoit 140 GWh de production annuelle, sans ouvrir un nouveau point de connexion au réseau. L’article Au Portugal, Pracana associe un barrage de …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-1-1795147086000",
+      "id": "le-journal-du-grand-paris-rss-6-1795147086000",
       "title": "Un documentaire pour rappeler l’ambition et la genèse du Grand Paris express",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5189,7 +5371,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1795143234000",
+      "id": "le-journal-du-grand-paris-rss-7-1795143234000",
       "title": "Réseau de chaleur de l’ex-CPCU : l’exécutif municipal réaffirme sa vigilance",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -5214,7 +5396,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1795137628000",
+      "id": "le-journal-du-grand-paris-rss-8-1795137628000",
       "title": "P. Citron : « La Kiss réunit toute la chaîne de l’immobilier à vocation sociale et non spéculative »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6045,7 +6227,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-3-1795092358000",
+      "id": "novethic-rss-4-1795092358000",
       "title": "COP31 : les banques centrales radicalisent leur discours face au risque climatique",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -6071,7 +6253,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-4-1795086025000",
+      "id": "novethic-rss-5-1795086025000",
       "title": "Anthropic signe une introduction en Bourse historique malgré des risques ESG élevés",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -6097,7 +6279,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-5-1795082378000",
+      "id": "novethic-rss-6-1795082378000",
       "title": "Le règlement méthane de l'UE finalement reporté de deux ans, à 2029",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -6123,7 +6305,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-6-1795067108000",
+      "id": "novethic-rss-7-1795067108000",
       "title": "Conditionner les aides publiques aux entreprises à leur durabilité, l'idée s'impose dans le débat",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -6174,7 +6356,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-16-1795108728000",
+      "id": "reporterre-rss-17-1795108728000",
       "title": "Lancer de cendres : la Commission européenne « condamne fermement » l'action des malades du cancer",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6200,7 +6382,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-17-1795106489000",
+      "id": "reporterre-rss-18-1795106489000",
       "title": "L'agence atomique internationale veut confier un poste stratégique à un responsable russe impliqué dans la prise de Zaporijia",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6225,7 +6407,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-18-1795105157000",
+      "id": "reporterre-rss-19-1795105157000",
       "title": "Arme nucléaire : aucune limitation prévue par Donald Trump, Vladimir Poutine et Xi Jinping",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6249,7 +6431,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-19-1795100400000",
+      "id": "reporterre-rss-20-1795100400000",
       "title": "Affaire Andreas Malm : comment le Royaume-Uni harcèle les militants écologistes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6275,7 +6457,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-20-1795094733000",
+      "id": "reporterre-rss-21-1795094733000",
       "title": "Vélo : la droite supprime une grande piste cyclable à Lyon",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6300,7 +6482,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-21-1795085829000",
+      "id": "reporterre-rss-22-1795085829000",
       "title": "Encore un défilé de jets privés et de milliardaires à la COP31",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6325,7 +6507,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-22-1795084817000",
+      "id": "reporterre-rss-23-1795084817000",
       "title": "Fleur Breteau et des malades du cancer jettent « les cendres de nos morts » sur le commissaire européen à la santé",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6351,7 +6533,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-23-1795077559000",
+      "id": "reporterre-rss-24-1795077559000",
       "title": "Avec le jeu GTA 6, une (grosse) occasion manquée de parler d'écologie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6376,7 +6558,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-24-1795068000000",
+      "id": "reporterre-rss-25-1795068000000",
       "title": "« Pourquoi ils ne me laissent pas travailler ? » Dans les Alpes, la préfecture fait la guerre aux travailleurs étrangers",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6400,7 +6582,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-25-1795064400000",
+      "id": "reporterre-rss-26-1795064400000",
       "title": "« On est des cocktails de produits chimiques » : des salariés de l'industrie hautement contaminés aux PFAS",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6425,7 +6607,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-26-1795057200000",
+      "id": "reporterre-rss-27-1795057200000",
       "title": "Indonésie : les fumées des incendies ont tué plus de 5 000 personnes",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -6930,7 +7112,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1795126353000",
+      "id": "le-journal-du-grand-paris-rss-9-1795126353000",
       "title": "L’essentiel de la semaine du 16 novembre 2026 en quelques clics",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6950,56 +7132,6 @@ window.BATIVEILLE_DATA = {
         "Immobilier"
       ],
       "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. De Limay, où Ikea mise sur la logistique fluviale, à La Défense, qui engage la transformation du futur Delta Vert, les projets structurants ont occupé le devant de la scène …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-5-1795126085000",
-      "title": "À Créteil, une première pierre emblématique de l’aménagement des quartiers de gare",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/a-creteil-une-premiere-pierre-emblematique-de-lamenagement-des-quartiers-de-gare/",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été"
-      ],
-      "summary": "Mercredi 18 novembre, la Société des grands projets et Nexity ont posé la première pierre de leur programme immobilier conjoint à Créteil, en présence de la pdg de Nexity, du président du directoire de la SGP, du maire de Créteil et du préfet du Val-de-Marne. Développé en co-prom…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-6-1795102308000",
-      "title": "Honeywell Technologies livre le 500e poste d’injection de biométhane de GRDF",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/honeywell-technologies-livre-le-500e-poste-dinjection-de-biomethane-de-grdf/",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau"
-      ],
-      "summary": "Le 17 novembre dernier, Honeywell Technologies a réuni GRDF, France Industrie et la CCI Seine-et-Marne sur son site de Lognes (Seine-et-Marne) pour la livraison du 500e poste d’injection de biométhane du gestionnaire du réseau de gaz en France. L’événement, organisé durant la sem…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8050,7 +8182,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-7-1795005914000",
+      "id": "novethic-rss-8-1795005914000",
       "title": "Les \"Inside Deutsche Bank\" viennent percuter le récit du changement porté par la banque allemande",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -8075,7 +8207,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "novethic-rss-8-1795000216000",
+      "id": "novethic-rss-9-1795000216000",
       "title": "CAC 40 : les rémunérations des dirigeants s'envolent, jusqu'à 91 fois le salaire moyen",
       "source": "Novethic",
       "sourceId": "novethic",
@@ -8097,32 +8229,6 @@ window.BATIVEILLE_DATA = {
         "Réglementation"
       ],
       "summary": "Les dirigeants des grands groupes cotés sont payés en moyenne 91 fois plus que leurs salariés, selon Proxinvest. @iStock \"On atteint les plus hauts niveaux historiques\", s’exclame Jehanne Leroy, directrice de la recherche de Proxinvest, la société de conseil en vote. La rémunérat…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "novethic-rss-9-1794980758000",
-      "title": "Energies renouvelables : la politique du \"stop and go\" plonge les professionnels au bord de la crise de nerfs",
-      "source": "Novethic",
-      "sourceId": "novethic",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.novethic.fr/environnement/transition-energetique/energies-renouvelables-la-politique-du-stop-and-go-plonge-les-professionnels-au-bord-de-la-crise-de-nerfs",
-      "image": "https://www.novethic.fr/www.novethic.fr/wp-content/uploads/2026/11/reseaux-de-chaleur@pexels-wolfgang-weiser-150x150.jpg",
-      "date": "2026-11-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "RSE",
-        "ESG",
-        "Finance durable",
-        "Climat",
-        "Réglementation"
-      ],
-      "summary": "Le gouvernement vient de suspendre le fonds chaleur, créé en 2009 et opéré par l'Ademe. @Pexels Wolfgang Weiser. La plus grande usine d'hydrogène vert, produit à partir de trois éoliennes flottantes, vient d’être inaugurée dans l'Aude à Port-la-Nouvelle. Un signal fort pour la fi…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8151,7 +8257,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-27-1795016666000",
+      "id": "reporterre-rss-28-1795016666000",
       "title": "« Il faut démanteler les navires-usines » : notre débat sur l'océan avec Claire Nouvian, Baptiste Morizot et Guillaume Pitron",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8177,7 +8283,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-28-1795015777000",
+      "id": "reporterre-rss-29-1795015777000",
       "title": "Nucléaire : la Cour des comptes alerte sur le coût des EPR2",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8203,7 +8309,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-29-1795013663000",
+      "id": "reporterre-rss-30-1795013663000",
       "title": "La Bretagne à sec en novembre, l'eau d'un lac pompée pour renflouer les robinets",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8229,7 +8335,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-30-1795013116000",
+      "id": "reporterre-rss-31-1795013116000",
       "title": "« C'est pas la faute de Total » : quand la France fait l'autruche face aux grands pollueurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8253,7 +8359,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-31-1795008068000",
+      "id": "reporterre-rss-32-1795008068000",
       "title": "Un amendement du RN réautorise la location de passoires thermiques",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8279,7 +8385,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-32-1794991773000",
+      "id": "reporterre-rss-33-1794991773000",
       "title": "« On veut le mettre hors circuit » : la répression s'acharne sur Loïc, le « poète maraîcher »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8304,7 +8410,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-33-1794981600000",
+      "id": "reporterre-rss-34-1794981600000",
       "title": "Fatima Ouassak et Alice Coffin : « On ne veut pas laisser l'écologie à Hugo Clément »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8328,7 +8434,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-34-1794978000000",
+      "id": "reporterre-rss-35-1794978000000",
       "title": "« C'est le capitalisme qui l'a tué » : cette femme d'agriculteur témoigne après le suicide de son mari",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8527,81 +8633,6 @@ window.BATIVEILLE_DATA = {
         "Eau"
       ],
       "summary": "RTE a présenté ce 17 novembre les perspectives pour le système électrique pour l’hiver 2026-2027. Le gestionnaire du réseau de transport d’électricité y évoque « des perspectives favorables sur la sécurité d’approvisionnement » en France métropolitaine. RTE a présenté ce 17 novem…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-7-1795029067000",
-      "title": "EDF ouvre une boutique éphémère à Paris pour ses 80 ans",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/edf-ouvre-une-boutique-ephemere-a-paris-pour-ses-80-ans/",
-      "image": null,
-      "date": "2026-11-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Du 3 au 6 décembre 2026, l’énergéticien proposera, au 38 rue de Richelieu (1er arrondissement), une collection de vêtements et d’objets inspirée de son histoire, à l'occasion de son 80e anniversaire. Du 3 au 6 décembre 2026, l’énergéticien proposera, au 38 rue de Richelieu (1er a…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1795028060000",
-      "title": "A Limay, la nouvelle plateforme d’Ikea conjugue logistique fluviale et création d’emplois locaux",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/a-limay-la-nouvelle-plateforme-dikea-conjugue-logistique-fluviale-et-creation-demplois-locaux/",
-      "image": null,
-      "date": "2026-11-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Dans les Yvelines, le géant suédois de l'ameublement a inauguré son troisième centre de distribution clients en France, mercredi 18 novembre. Installé sur 16 ha du domaine portuaire de Limay-Porcheville, ce site de 60 000 m2 combine automatisation de pointe, desserte fluviale ver…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1795017371000",
-      "title": "Le BTP francilien, 400 000 actifs et une trésorerie sous tension",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/le-btp-francilien-400-000-actifs-et-une-tresorerie-sous-tension/",
-      "image": null,
-      "date": "2026-11-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Bâtiment"
-      ],
-      "summary": "L’Urssaf Île-de-France publie sa fiche statistique 2025 du bâtiment et des travaux publics. Le secteur réunit 358 000 salariés et 42 000 indépendants dans 53 000 entreprises employeuses, dont 90 % comptent moins de dix salariés. Salaires inférieurs à la moyenne, impayés de cotisa…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8925,7 +8956,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-35-1794935226000",
+      "id": "reporterre-rss-36-1794935226000",
       "title": "PFAS : le combat du député vert Nicolas Thierry récompensé par un prix international",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8949,7 +8980,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-36-1794934136000",
+      "id": "reporterre-rss-37-1794934136000",
       "title": "Pollution de l'air : Lyon, Paris et Marseille mauvaises élèves du Top 40",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8973,7 +9004,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-37-1794926236000",
+      "id": "reporterre-rss-38-1794926236000",
       "title": "« Ramassis de gauchistes » : Marine Le Pen veut couper les subventions de la Ligue des droits de l'Homme et d'autres associations",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -8997,7 +9028,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-38-1794925763000",
+      "id": "reporterre-rss-39-1794925763000",
       "title": "Aux avant-postes de la mobilisation, les lycéens de Mayotte réclament toujours de l'eau potable",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9022,7 +9053,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-39-1794924583000",
+      "id": "reporterre-rss-40-1794924583000",
       "title": "Un bout de forêt rasé pour agrandir un cimetière au Pays basque",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9048,7 +9079,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-40-1794921735000",
+      "id": "reporterre-rss-41-1794921735000",
       "title": "Des trous géants au milieu des champs : l'agriculture intensive fait des ravages en Turquie",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9074,7 +9105,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-41-1794915609000",
+      "id": "reporterre-rss-42-1794915609000",
       "title": "« Impasse financière » : la Cour des comptes préconise un moratoire sur les grands projets d'infrastructure",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9100,7 +9131,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-42-1794905181000",
+      "id": "reporterre-rss-43-1794905181000",
       "title": "Les passoires thermiques bientôt remises en location ?",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9126,7 +9157,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-43-1794893400000",
+      "id": "reporterre-rss-44-1794893400000",
       "title": "« Le mépris, c'est de dire que quand on est queer, notre vie sera forcément meilleure en ville »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9152,7 +9183,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-44-1794891600000",
+      "id": "reporterre-rss-45-1794891600000",
       "title": "McDonald's et Burger King à l'assaut des campagnes : « C'est ça le progrès ? »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9553,7 +9584,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-45-1794840759000",
+      "id": "reporterre-rss-46-1794840759000",
       "title": "Les IA conversationnelles peuvent devenir climatosceptiques pour plaire à leurs utilisateurs",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9579,7 +9610,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-46-1794839434000",
+      "id": "reporterre-rss-47-1794839434000",
       "title": "« On se baigne parmi des sacs plastiques » : le pays hôte de la COP31 croule sous les déchets européens",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9604,7 +9635,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-47-1794831941000",
+      "id": "reporterre-rss-48-1794831941000",
       "title": "« Vingt de mes proches sont morts » : le génocide en Palestine est dans tous les esprits à la COP31",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9629,7 +9660,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-48-1794828169000",
+      "id": "reporterre-rss-49-1794828169000",
       "title": "Canal Seine-Nord Europe : le recours des opposants rejeté par le tribunal",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9654,7 +9685,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-49-1794816836000",
+      "id": "reporterre-rss-50-1794816836000",
       "title": "Changement climatique, mépris, répression policière : « Des violences infligées aux enfants par les adultes »",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9678,7 +9709,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-50-1794816417000",
+      "id": "reporterre-rss-51-1794816417000",
       "title": "Enfin un vrai débat sur l'écologie pour 2027... et personne n'est d'accord",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9703,7 +9734,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-51-1794808800000",
+      "id": "reporterre-rss-52-1794808800000",
       "title": "« Que mon cancer soit comptabilisé comme causé par les pesticides » : le combat d'un agriculteur malade",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9853,7 +9884,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-52-1794722700000",
+      "id": "reporterre-rss-53-1794722700000",
       "title": "Double vitrage, ardoises, liège... Comment transformer sa passoire thermique en maison confortable",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9879,7 +9910,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-53-1794722400000",
+      "id": "reporterre-rss-54-1794722400000",
       "title": "L'ONF veut ouvrir 20 000 hectares de forêt primaire à l'exploitation, tollé en Guyane",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -9980,7 +10011,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-54-1794636600000",
+      "id": "reporterre-rss-55-1794636600000",
       "title": "La droite et les lobbies tentent d'empêcher la régulation des data centers en Espagne",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10006,7 +10037,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-55-1794636300000",
+      "id": "reporterre-rss-56-1794636300000",
       "title": "« Aucun athlète ne prendra cette remontée mécanique » : à Courchevel, le téléphérique des JO vivement contesté",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10032,7 +10063,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-56-1794636000000",
+      "id": "reporterre-rss-57-1794636000000",
       "title": "« On a besoin de lieux de résistance » : les bases arrière du mouvement social ciblées par la police et l'extrême droite",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10355,7 +10386,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-57-1794590014000",
+      "id": "reporterre-rss-58-1794590014000",
       "title": "Un syndicat des eaux condamné à cause d'un gaz cancérogène dans l'eau du robinet",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10381,7 +10412,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "reporterre-rss-58-1794589850000",
+      "id": "reporterre-rss-59-1794589850000",
       "title": "Jean Sivardière, figure historique de la défense des transports publics, est mort",
       "source": "Reporterre",
       "sourceId": "reporterre",
@@ -10402,32 +10433,6 @@ window.BATIVEILLE_DATA = {
         "Énergie"
       ],
       "summary": "Jean Sivardière, figure historique de la défense des transports publics en France, est mort le 7 novembre, a annoncé le 9 novembre la Fédération nationale des associations d'usagers des transports (Fnaut). Il était âgé de 84 ans. Cofondateur de la fédération en 1978, il l'a prési…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "reporterre-rss-59-1794588308000",
-      "title": "Au nom de la souveraineté alimentaire, le gouvernement veut 20 nouveaux poulaillers par mois",
-      "source": "Reporterre",
-      "sourceId": "reporterre",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://reporterre.net/Au-nom-de-la-souverainete-alimentaire-le-gouvernement-veut-20-nouveaux-poulaillers-par-mois-jusqu-en-2036",
-      "image": "https://reporterre.net/local/cache-vignettes/L700xH467/tastycroustyintensifies-5318f.jpg?1794588376",
-      "date": "2026-11-13",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Écologie",
-        "Environnement",
-        "Climat",
-        "Eau",
-        "Bâtiment"
-      ],
-      "summary": "Le gouvernement a présenté le 12 novembre un plan de relance agricole de 725 millions d'euros. Cet argent vise notamment à soutenir la construction de 2 200 poulaillers. Une nouvelle fuite en avant vers l'élevage intensif, regrettent la Confédération paysanne et L214. « Une allég…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
