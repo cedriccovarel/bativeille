@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:14:10.723Z",
+  "generatedAt": "2026-11-22T00:11:53.533Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,84 @@
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1795306290000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-11-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1795306290000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-11-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1795306290000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-11-22",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
       "id": "acpresse-rss-0-1795266000000",
       "title": "Henri Ciriani : L’architecte moderniste de la lumière et du béton",
       "source": "ACPresse",
@@ -2388,7 +2466,32 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1795263363000",
+      "id": "lenergeek-rss-0-1795279109000",
+      "title": "Électricité : 12 milliards d’euros consacrés à la sécurité d’approvisionnement en Europe",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/21/europe-electricite-12-milliards-securite-approvisionnement-acer-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/6076590f-lignes-electriques-foret-reseau-transport-1600x1066-1.jpg",
+      "date": "2026-11-21",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Économie du bâtiment"
+      ],
+      "summary": "Selon l’Agence européenne des régulateurs de l’énergie, les dispositifs destinés à garantir l’approvisionnement électrique ont coûté 12 milliards d’euros dans l’UE en 2025. Les mécanismes de capacité concentrent 6,9 milliards d’euros, tandis que l’agence appelle les États à mieux…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1795263363000",
       "title": "Réseaux électriques : l’ACER prépare son premier bilan cyber avant le classement officiel des opérateurs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2413,7 +2516,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1795258941000",
+      "id": "lenergeek-rss-2-1795258941000",
       "title": "Sonde Voyager 1 : trois chauffages coupés pour préserver son énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2437,7 +2540,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1795253888000",
+      "id": "lenergeek-rss-3-1795253888000",
       "title": "Crues dans le Pas-de-Calais : 450 foyers encore sans courant vendredi soir, la Canche sous surveillance",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2462,7 +2565,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1795248861000",
+      "id": "lenergeek-rss-4-1795248861000",
       "title": "Énergies renouvelables : Londres lance des enchères avec un budget symbolique d’une livre",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2487,7 +2590,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1795246664000",
+      "id": "lenergeek-rss-5-1795246664000",
       "title": "Carburants : Bruno Retailleau propose de suspendre les certificats d’économies d’énergie",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2513,7 +2616,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1795245606000",
+      "id": "lenergeek-rss-6-1795245606000",
       "title": "Le plus vaste lac d’eau douce au monde renoue avec sa plus forte remontée depuis 343 ans",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2538,7 +2641,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1795243800000",
+      "id": "lenergeek-rss-7-1795243800000",
       "title": "Idris Elba et sa femme Sabrina envisagent de convertir l’île isolée de Sherbro en Sierra Leone en une éco-ville dotée d’éoliennes, d’énergie solaire et d’une connectivité numérique pour 40 000 résidents",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2563,7 +2666,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1795243346000",
+      "id": "lenergeek-rss-8-1795243346000",
       "title": "Électricité : l’UE et Londres prolongent leur coopération énergétique jusqu’en 2028",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2588,7 +2691,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1795242035000",
+      "id": "lenergeek-rss-9-1795242035000",
       "title": "Les vétérinaires préviennent : ce geste que tout le monde fait en caressant un chat errant peut déclencher une morsure en quelques secondes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2614,7 +2717,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1795239952000",
+      "id": "lenergeek-rss-10-1795239952000",
       "title": "El Niño 2026-2027 : l’OMM renforce les alertes face aux risques de sécheresse et d’inondations",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2639,7 +2742,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1795238052000",
+      "id": "lenergeek-rss-11-1795238052000",
       "title": "EDF rachète en Australie un projet de batterie de 1 GWh, encore loin de sa mise en service",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2665,7 +2768,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1795237822000",
+      "id": "lenergeek-rss-12-1795237822000",
       "title": "Espagne : 17,1 milliards d’euros pour préparer le réseau électrique à 47 GW de nouveaux usages",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2690,7 +2793,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1795236484000",
+      "id": "lenergeek-rss-13-1795236484000",
       "title": "Réseaux d’électricité et de gaz : la CRE approuve les contrats d’OYA Energies",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2716,7 +2819,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1795234471000",
+      "id": "lenergeek-rss-14-1795234471000",
       "title": "EPR2 : EDF prépare une décision d’investissement provisoire sans attendre Bruxelles",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2741,7 +2844,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1795225158000",
+      "id": "lenergeek-rss-15-1795225158000",
       "title": "Ukraine : les centrales nucléaires réduisent leur production après des frappes sur le réseau",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2767,7 +2870,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1795220317000",
+      "id": "lenergeek-rss-16-1795220317000",
       "title": "Gaz : l’UE aborde l’hiver avec des stocks autour de 70 %, sans risque de pénurie signalé",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2792,7 +2895,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1795220180000",
+      "id": "lenergeek-rss-17-1795220180000",
       "title": "Grèce : l’UE mobilise 228,9 millions d’euros pour relier Kos au réseau électrique continental",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -2817,80 +2920,26 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1795281237000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
+      "id": "acteurs-publics-sitemap-1-1795287540000",
+      "title": "en pleine tourmente le prefet hugues moutouh demande a etre releve de ses fonctions",
+      "source": "Acteurs Publics",
+      "sourceId": "acteurs-publics",
       "sourceType": "Presse professionnelle",
       "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "url": "https://acteurspublics.fr/articles/en-pleine-tourmente-le-prefet-hugues-moutouh-demande-a-etre-releve-de-ses-fonctions/",
       "image": null,
       "date": "2026-11-21",
-      "access": "Gratuit",
+      "access": "Accès mixte",
       "official": false,
-      "highImpact": true,
-      "impactScore": 96,
+      "highImpact": false,
+      "impactScore": 80,
       "tags": [
         "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
+        "Politiques publiques",
+        "Collectivités",
+        "Transition"
       ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-1-1795281237000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-11-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1795281237000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-11-21",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
     },
@@ -4534,109 +4583,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-0-1795172400000",
-      "title": "Vitirover, pionnier des robots tondeurs solaires, placé en liquidation",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/11/20/vitirover-pionnier-des-robots-tondeurs-solaires-place-en-liquidation/",
-      "image": null,
-      "date": "2026-11-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Pionnière des robots tondeuses solaires, la société Vitirover, basée à Saint-Émilion, a été placée en liquidation judiciaire. Après près de vingt ans d’activité, l’entreprise innovante a été fragilisée par des difficultés d’industrialisation et la crise du marché viticole. Ses di…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-1-1795168800000",
-      "title": "EDF power solutions acquiert un projet de batterie de 1 GWh en développement en Australie",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/11/20/edf-power-solutions-acquiert-un-projet-de-batterie-de-1-gwh-en-developpement-en-australie/",
-      "image": null,
-      "date": "2026-11-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "EDF power solutions renforce sa présence en Australie avec l’acquisition du projet de batterie Holloway, d’une puissance de 250 MW et d’une capacité de stockage de 1 GWh. Prévue pour 2029, cette installation de quatre heures contribuera à valoriser les surplus d’électricité renou…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-2-1795165200000",
-      "title": "Qair dépasse 100 MW de capacité solaire installée en Allemagne",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/11/20/qair-depasse-100-mw-de-capacite-solaire-installee-en-allemagne/",
-      "image": null,
-      "date": "2026-11-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Économie du bâtiment",
-        "Énergie"
-      ],
-      "summary": "Avec la mise en service de la ferme solaire Uebigau-Wahrenbrück, le producteur français d’énergies renouvelables Qair franchit le cap des 100 MW de capacité installée outre-Rhin, renforçant sa position sur l’un de ses principaux marchés européens. Avec la mise en service de la fe…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-3-1795159800000",
-      "title": "Mitsubishi Electric dévoile « The Little One », une pompe à chaleur compacte au propane",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/11/20/mitsubishi-electric-devoile-the-little-one-une-pompe-a-chaleur-compacte-au-propane/",
-      "image": null,
-      "date": "2026-11-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le fabricant japonais Mitsubishi Electric a présenté une nouvelle pompe à chaleur air-eau destinée au marché résidentiel britannique. Fonctionnant au propane (R290), elle est proposée en versions de 4 et 6 kW, avec un coefficient de performance saisonnier pouvant atteindre 4,77 e…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-1-1795187136000",
       "title": "Cette entreprise veut remplacer l’eau des STEP pour produire plus d’électricité",
       "source": "Révolution Énergétique",
@@ -4815,7 +4761,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1795217894000",
+      "id": "lenergeek-rss-18-1795217894000",
       "title": "Au Portugal, Pracana associe un barrage de 1951 à 90 000 panneaux solaires",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4841,7 +4787,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1795207411000",
+      "id": "lenergeek-rss-19-1795207411000",
       "title": "Biométhane : la CRE détaille un appel d’offres de 320 GWh par an et par période",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4865,7 +4811,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1795195980000",
+      "id": "lenergeek-rss-20-1795195980000",
       "title": "Électricité France-Suisse : la CRE valide 96 guichets de programmation infrajournalière",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4890,7 +4836,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1795191687000",
+      "id": "lenergeek-rss-21-1795191687000",
       "title": "Photovoltaïque : la CRE harmonise le contrat d’accès au réseau des petits producteurs",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4916,7 +4862,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1795189637000",
+      "id": "lenergeek-rss-22-1795189637000",
       "title": "Cyberattaque en France : des petites centrales hydroélectriques également ciblées",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4941,7 +4887,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1795185000000",
+      "id": "lenergeek-rss-23-1795185000000",
       "title": "Énergie : comment l’échec des négociations fragilise le réseau électrique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4966,107 +4912,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-23-1795184708000",
-      "title": "Plan d’électrification : produire, transporter, stocker, consommer… penser enfin toute la chaîne de valeur de l’énergie",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/20/plan-electrification-chaine-valeur-energie-laupretre-seddiki/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/f96286bd-eoliennes-lignes-haute-tension-reseau-electrique-1600x1066-1.jpg",
-      "date": "2026-11-20",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR"
-      ],
-      "summary": "En avril 2026, le Premier Ministre Sébastien Lecornu annonce un plan d'électrification des usages. L’article Plan d’électrification : produire, transporter, stocker, consommer… penser enfin toute la chaîne de valeur de l’énergie est apparu en premier sur L'EnerGeek. En avril 2026…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1795147086000",
-      "title": "Un documentaire pour rappeler l’ambition et la genèse du Grand Paris express",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/un-documentaire-pour-rappeler-lambition-et-la-genese-du-grand-paris-express/",
-      "image": null,
-      "date": "2026-11-20",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "Ils sont (presque) tous là, de Christian Blanc à Maurice Leroy, de Nicolas Sarkozy à Pascal Auzannet, Philippe Yvin ou Claude Bartolone, les acteurs de la gestation du réseau de métro automatique dont l’avènement n’a jamais été aussi proche. Ils sont (presque) tous là, de Christi…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-1-1795143234000",
-      "title": "Réseau de chaleur de l’ex-CPCU : l’exécutif municipal réaffirme sa vigilance",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/reseau-de-chaleur-de-lex-cpcu-lexecutif-municipal-reaffirme-sa-vigilance/",
-      "image": null,
-      "date": "2026-11-20",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau"
-      ],
-      "summary": "Une lecture attentive du vœu de l’exécutif adopté mercredi 18 novembre par la municipalité parisienne, à propos du réseau de chaleur de l’ex-CPCU, montre que la Ville est bien décidée à démontrer la pertinence de la délégation de service public attribuée en avril dernier à un gro…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-2-1795137628000",
-      "title": "P. Citron : « La Kiss réunit toute la chaîne de l’immobilier à vocation sociale et non spéculative »",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/p-citron-la-kiss-reunit-toute-la-chaine-de-limmobilier-a-vocation-sociale-et-non-speculative/",
-      "image": null,
-      "date": "2026-11-20",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau"
-      ],
-      "summary": "Cofondateur de Plateau Urbain et coprésident de l’association Surface + Utile, Paul Citron coorganise avec d’autres personnalités engagées du secteur, jeudi 26 novembre à Paris, la Kermesse de l’immobilier social et solidaire (Kiss). Il plaide pour un parc immobilier soustrait à …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "acteurs-publics-sitemap-1-1795181220000",
+      "id": "acteurs-publics-sitemap-2-1795181220000",
       "title": "hugues moutouh un prefet atypique soupconne davoir renseigne le rn",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5090,7 +4936,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-2-1795174980000",
+      "id": "acteurs-publics-sitemap-3-1795174980000",
       "title": "violences contre les agents publics la protection passera aussi par la responsabilisation des managers",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5114,7 +4960,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-3-1795173060000",
+      "id": "acteurs-publics-sitemap-4-1795173060000",
       "title": "commande publique achats durables et centrales dachat au coeur des priorites 2027",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5138,7 +4984,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-4-1795169400000",
+      "id": "acteurs-publics-sitemap-5-1795169400000",
       "title": "attaches territoriaux paie des territoriaux conditions de travail",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5162,7 +5008,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-5-1795168860000",
+      "id": "acteurs-publics-sitemap-6-1795168860000",
       "title": "cybersecurite les 200 millions issus de france 2030 annonces par sebastien lecornu financeront des outils dia",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5186,7 +5032,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-6-1795168020000",
+      "id": "acteurs-publics-sitemap-7-1795168020000",
       "title": "haute fonction publique le taux de primo nominations feminines reste au dessus du seuil de 40 avant relevement a 50",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5210,7 +5056,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-7-1795171200000",
+      "id": "acteurs-publics-sitemap-8-1795171200000",
       "title": "penitentiaire inspecteurs recrutement quoi de neuf au jo cette semaine",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -5234,7 +5080,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-8-1795164540000",
+      "id": "acteurs-publics-sitemap-9-1795164540000",
       "title": "jean louis sanchez les maires sont bien davantage que des gestionnaires",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6456,158 +6302,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "pv-magazine-france-rss-4-1795096800000",
-      "title": "Photosol expérimente l’agrivoltaïsme en élevage porcin",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/11/19/photosol-experimente-lagrivoltaisme-en-elevage-porcin/",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR"
-      ],
-      "summary": "D’une puissance de 10MWc, ce projet mené à Paray-le-Frésil (03) constitue le premier de ce type développé par le producteur. D’une puissance de 10MWc, ce projet mené à Paray-le-Frésil (03) constitue le premier de ce type développé par le producteur. Photosol expérimente l’agrivol…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-5-1795093200000",
-      "title": "Le cours de l’argent se stabilise autour de 50 dollars l’once, tandis que le solaire accélère sa transition vers le cuivre",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/11/19/le-cours-de-largent-se-stabilise-autour-de-50-dollars-lonce-tandis-que-le-solaire-accelere-sa-transition-vers-le-cuivre/",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Énergie"
-      ],
-      "summary": "Après avoir reculé depuis son record historique de janvier, le cours de l’argent semble avoir trouvé un plancher autour de 43 euros l’once. Dans un entretien accordé à pv magazine, Philip Newman, directeur général de Metals Focus, analyse les pressions croissantes qui poussent le…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-6-1795082400000",
-      "title": "Vehicle-to-grid, le défi du comptage et de la tarification (6/7)",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/11/19/vehicul-to-grid-le-defi-du-comptage-et-de-la-tarification-6-7/",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Eau"
-      ],
-      "summary": "Renault et The Mobility House testent depuis 2025 une option dérogatoire du TURPE destinée à mieux valoriser l’injection V2G. L’objectif est d'évaluer si un véhicule électrique peut devenir un actif réseau identifiable, mesurable et rémunéré. Renault et The Mobility House testent…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-7-1795078800000",
-      "title": "[En images] La Région Sud expérimente le photovoltaïque au-dessus de ses canaux",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/11/19/en-images-la-region-sud-experimente-le-photovoltaique-au-dessus-de-ses-canaux/",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Eau",
-        "Confort d’été"
-      ],
-      "summary": "À Saint-Maximin-la-Sainte-Baume, la Société du Canal de Provence (SCP) et la Région Sud ont développé un démonstrateur de couverture photovoltaïque de 71 mètres. Son objectif est de conjuguer production d’électricité renouvelable et transport de l’eau, sans artificialiser de nouv…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-8-1795077000000",
-      "title": "Un module solaire résidentiel tandem à pérovskite de 525 W présenté aux Etats-Unis",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/11/19/un-module-solaire-residentiel-tandem-a-perovskite-de-525-w-presente-aux-etats-unis/",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Eau",
-        "Énergie"
-      ],
-      "summary": "Les nouveaux panneaux de Sirius PV intègrent le verre producteur d’énergie de Caelux, qui augmente de 16 % la densité de puissance des modules existants de 450 W de l’entreprise. Parallèlement, le partenariat avec IronRidge permettra de proposer des cadres compatibles avec le sys…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "pv-magazine-france-rss-9-1795073400000",
-      "title": "Panasonic dévoile une nouvelle gamme de pompes à chaleur air-air résidentielles",
-      "source": "PV Magazine France",
-      "sourceId": "pv-magazine-france",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.pv-magazine.fr/2026/11/19/panasonic-devoile-une-nouvelle-gamme-de-pompes-a-chaleur-air-air-residentielles/",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Photovoltaïque",
-        "Autoconsommation",
-        "ENR",
-        "Économie du bâtiment",
-        "Énergie"
-      ],
-      "summary": "Le fabricant japonais Panasonic a présenté sa nouvelle gamme de pompes à chaleur réversibles air-air Eolia X Series, destinée au marché résidentiel japonais. Fonctionnant au fluide frigorigène R32, les appareils affichent des puissances nominales de chauffage comprises entre 2,5 …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
       "id": "revolution-energetique-rss-3-1795094350000",
       "title": "Ces aides à la transition énergétique supprimées par le gouvernement après en avoir fait la promotion",
       "source": "Révolution Énergétique",
@@ -6757,81 +6451,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1795126353000",
-      "title": "L’essentiel de la semaine du 16 novembre 2026 en quelques clics",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-16-novembre-2026-en-quelques-clics/",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier"
-      ],
-      "summary": "Retrouvez chaque vendredi dans Le journal du Grand Paris l'essentiel de l'actualité de la semaine écoulée. De Limay, où Ikea mise sur la logistique fluviale, à La Défense, qui engage la transformation du futur Delta Vert, les projets structurants ont occupé le devant de la scène …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-4-1795126085000",
-      "title": "À Créteil, une première pierre emblématique de l’aménagement des quartiers de gare",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/a-creteil-une-premiere-pierre-emblematique-de-lamenagement-des-quartiers-de-gare/",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Confort d’été"
-      ],
-      "summary": "Mercredi 18 novembre, la Société des grands projets et Nexity ont posé la première pierre de leur programme immobilier conjoint à Créteil, en présence de la pdg de Nexity, du président du directoire de la SGP, du maire de Créteil et du préfet du Val-de-Marne. Développé en co-prom…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-5-1795102308000",
-      "title": "Honeywell Technologies livre le 500e poste d’injection de biométhane de GRDF",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/honeywell-technologies-livre-le-500e-poste-dinjection-de-biomethane-de-grdf/",
-      "image": null,
-      "date": "2026-11-19",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau"
-      ],
-      "summary": "Le 17 novembre dernier, Honeywell Technologies a réuni GRDF, France Industrie et la CCI Seine-et-Marne sur son site de Lognes (Seine-et-Marne) pour la livraison du 500e poste d’injection de biométhane du gestionnaire du réseau de gaz en France. L’événement, organisé durant la sem…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "acteurs-publics-sitemap-9-1795106040000",
+      "id": "acteurs-publics-sitemap-10-1795106040000",
       "title": "fonction publique et ia formalites administratives reforme de letat recrutements la revue de presse internationale",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6855,7 +6475,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-10-1795100460000",
+      "id": "acteurs-publics-sitemap-11-1795100460000",
       "title": "fonction publique enquete sur le syndicalisme de services cle du succes nordique",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6879,7 +6499,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-11-1795096920000",
+      "id": "acteurs-publics-sitemap-12-1795096920000",
       "title": "route du rhum 2026 la donnee au service de la performance",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6903,7 +6523,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-12-1795096740000",
+      "id": "acteurs-publics-sitemap-13-1795096740000",
       "title": "finances locales la mission parlementaire invite letat a ne plus tenir les comptes des collectivites",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6927,7 +6547,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-13-1795096500000",
+      "id": "acteurs-publics-sitemap-14-1795096500000",
       "title": "fraude sas alerte les gouvernements sur cinq menaces prioritaires en 2027",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6951,7 +6571,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-14-1795095960000",
+      "id": "acteurs-publics-sitemap-15-1795095960000",
       "title": "licenciement pour inaptitude dans la fonction publique le conseil detat retient une definition elargie du perimetre de lobligation de reclassement",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6975,7 +6595,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-15-1795095720000",
+      "id": "acteurs-publics-sitemap-16-1795095720000",
       "title": "les depenses liees aux remunerations des agents publics ont baisse de 07 point de pib entre 2005 et 2024",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -6999,7 +6619,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-16-1795095300000",
+      "id": "acteurs-publics-sitemap-17-1795095300000",
       "title": "cybersecurite fiscalite locale fonction publique hospitaliere",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7023,7 +6643,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-17-1795094700000",
+      "id": "acteurs-publics-sitemap-18-1795094700000",
       "title": "entre etat collectivites et mouvement sportif la gouvernance du sport reste a clarifier",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7047,7 +6667,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-18-1795093380000",
+      "id": "acteurs-publics-sitemap-19-1795093380000",
       "title": "rapport social unique un outil desormais installe dans les collectivites mais encore sous exploite",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7072,7 +6692,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-19-1795090620000",
+      "id": "acteurs-publics-sitemap-20-1795090620000",
       "title": "numerique la justice en quete dun equilibre entre pilotage central et expertise metier",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7096,7 +6716,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-20-1795099380000",
+      "id": "acteurs-publics-sitemap-21-1795099380000",
       "title": "notre generation ne se reconnait simplement plus dans le mot fonctionnaire",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7120,7 +6740,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-21-1795083180000",
+      "id": "acteurs-publics-sitemap-22-1795083180000",
       "title": "de quoi la souverainete numerique est elle le nom 2",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7144,7 +6764,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-22-1795100340000",
+      "id": "acteurs-publics-sitemap-23-1795100340000",
       "title": "fonction publique un syndicalisme en crise",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7168,7 +6788,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-27-1795076580000",
+      "id": "acteurs-publics-sitemap-28-1795076580000",
       "title": "nomination des directeurs dhopitaux lexception ajaccienne inquiete la profession",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -7193,7 +6813,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-28-1795074600000",
+      "id": "acteurs-publics-sitemap-29-1795074600000",
       "title": "fonction publique edouard philippe veut faire du statut une exception plutot que la regle",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8358,108 +7978,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1795029067000",
-      "title": "EDF ouvre une boutique éphémère à Paris pour ses 80 ans",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/edf-ouvre-une-boutique-ephemere-a-paris-pour-ses-80-ans/",
-      "image": null,
-      "date": "2026-11-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Du 3 au 6 décembre 2026, l’énergéticien proposera, au 38 rue de Richelieu (1er arrondissement), une collection de vêtements et d’objets inspirée de son histoire, à l'occasion de son 80e anniversaire. Du 3 au 6 décembre 2026, l’énergéticien proposera, au 38 rue de Richelieu (1er a…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-7-1795028060000",
-      "title": "A Limay, la nouvelle plateforme d’Ikea conjugue logistique fluviale et création d’emplois locaux",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/a-limay-la-nouvelle-plateforme-dikea-conjugue-logistique-fluviale-et-creation-demplois-locaux/",
-      "image": null,
-      "date": "2026-11-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Dans les Yvelines, le géant suédois de l'ameublement a inauguré son troisième centre de distribution clients en France, mercredi 18 novembre. Installé sur 16 ha du domaine portuaire de Limay-Porcheville, ce site de 60 000 m2 combine automatisation de pointe, desserte fluviale ver…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1795017371000",
-      "title": "Le BTP francilien, 400 000 actifs et une trésorerie sous tension",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/le-btp-francilien-400-000-actifs-et-une-tresorerie-sous-tension/",
-      "image": null,
-      "date": "2026-11-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Bâtiment"
-      ],
-      "summary": "L’Urssaf Île-de-France publie sa fiche statistique 2025 du bâtiment et des travaux publics. Le secteur réunit 358 000 salariés et 42 000 indépendants dans 53 000 entreprises employeuses, dont 90 % comptent moins de dix salariés. Salaires inférieurs à la moyenne, impayés de cotisa…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1795016504000",
-      "title": "Camille Tubiana officiellement nommée directrice générale de l’Anru",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/camille-tubiana-officiellement-nommee-directrice-generale-de-lanru/",
-      "image": null,
-      "date": "2026-11-18",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Confort d’été"
-      ],
-      "summary": "Un mois après que son nom a été proposé par le président de la République le 14 octobre et suite au vote favorable des commissions parlementaires compétentes le 4 novembre dernier, Camille Tubiana a été nommée directrice générale de l'Agence nationale pour la rénovation urbaine l…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "acteurs-publics-sitemap-23-1795011240000",
+      "id": "acteurs-publics-sitemap-24-1795011240000",
       "title": "les organisations syndicales doivent aller davantage au contact des agents",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8483,7 +8002,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-24-1795011060000",
+      "id": "acteurs-publics-sitemap-25-1795011060000",
       "title": "prives de victoire sur les salaires les syndicats de fonctionnaires investissent de nouveaux fronts",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8508,7 +8027,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-25-1795010760000",
+      "id": "acteurs-publics-sitemap-26-1795010760000",
       "title": "un projet de circulaire detaille la procedure de nomination des directeurs departementaux dars et le role des prefets",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8532,7 +8051,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-26-1795010640000",
+      "id": "acteurs-publics-sitemap-27-1795010640000",
       "title": "promotion interne dans la fonction publique le pouvoir dappreciation des collectivites ne les autorise pas a ajouter des conditions aux criteres statutaires",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
@@ -8556,37 +8075,13 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "acteurs-publics-sitemap-29-1795004280000",
+      "id": "acteurs-publics-sitemap-30-1795004280000",
       "title": "apres le fiasco du projet scribe la responsabilite financiere des agents publics appelee a setendre a la cybersecurite",
       "source": "Acteurs Publics",
       "sourceId": "acteurs-publics",
       "sourceType": "Presse professionnelle",
       "region": "National",
       "url": "https://acteurspublics.fr/articles/apres-le-fiasco-du-projet-scribe-la-responsabilite-financiere-des-agents-publics-appelee-a-setendre-a-la-cybersecurite/",
-      "image": null,
-      "date": "2026-11-18",
-      "access": "Accès mixte",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 80,
-      "tags": [
-        "Presse professionnelle",
-        "Politiques publiques",
-        "Collectivités",
-        "Transition"
-      ],
-      "summary": "Publication détectée dans le sitemap de Acteurs Publics. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "acteurs-publics-sitemap-30-1795011540000",
-      "title": "formation dans la territoriale mobilisation resilience",
-      "source": "Acteurs Publics",
-      "sourceId": "acteurs-publics",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://acteurspublics.fr/articles/formation-dans-la-territoriale-mobilisation-resilience/",
       "image": null,
       "date": "2026-11-18",
       "access": "Accès mixte",
@@ -10035,29 +9530,6 @@
       "summary": "À quoi ressemble la résilience en pratique ? À travers ses BIG Stories, ADAPT Stories et WATER Stories, l’OID partage des retours d’expérience de projets immobiliers portant sur la biodiversité, […] L’article Biodiversité, climat, eau : partager les expériences pour accélérer l’a…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-197-1794528000000",
-      "title": "parlement senat frederic carre appelle sursaut",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/parlement-senat-frederic-carre-appelle-sursaut",
-      "image": null,
-      "date": "2026-11-13",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "promotelec-sitemap-51-1794567332000",
@@ -12267,6 +11739,32 @@
       "collectMethod": "rss"
     },
     {
+      "id": "auran-rss-1-1793871267000",
+      "title": "Observatoire de la tranquillité publique du CISPD de Nantes Métropole",
+      "source": "AURAN",
+      "sourceId": "auran",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Pays de la Loire",
+      "url": "https://www.auran.org/autre-publication/observatoire-de-la-tranquillite-publique-du-cispd-de-nantes-metropole/",
+      "image": null,
+      "date": "2026-11-05",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Nantes",
+        "Urbanisme",
+        "Habitat",
+        "Foncier",
+        "Réglementation",
+        "Confort d’été"
+      ],
+      "summary": "La tranquillité publique constitue un enjeu majeur des politiques publiques. Pour éclairer les dynamiques territoriales sur ce sujet sensible, l’Auran a été sollicitée afin d’organiser le déploiement de l’observatoire de la tranquillité publique de la métropole nantaise, adossé a…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "auat-toulouse-rss-14-1793891709000",
       "title": "Énergie, matériaux de construction, eau, sols : les replays de Trajectoires, spéciale ressources naturelles",
       "source": "AUAT Toulouse",
@@ -12411,144 +11909,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-11-1793750400000",
-      "title": "prevenir et guerir les difficultes des entreprises",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/en/actualites-batiment/actualite/prevenir-et-guerir-les-difficultes-des-entreprises",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-12-1793750400000",
-      "title": "prevenir et guerir les difficultes des entreprises",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/prevenir-et-guerir-les-difficultes-des-entreprises",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-20-1793750400000",
-      "title": "budget 2027",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/en/actualites-batiment/presse/budget-2027",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-21-1793750400000",
-      "title": "budget 2027",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/presse/budget-2027",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-41-1793750400000",
-      "title": "avancees ffb 2026",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/avancees-ffb-2026",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-89-1793750400000",
-      "title": "ffb 2026 2027 combats en cours",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/ffb-2026-2027-combats-en-cours",
-      "image": null,
-      "date": "2026-11-04",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "fncaue-rss-0-1793803600000",
       "title": "Lancement de la deuxième édition du palmarès réHAB XXe",
       "source": "FNCAUE",
@@ -12596,7 +11956,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "auran-rss-1-1793778790000",
+      "id": "auran-rss-2-1793778790000",
       "title": "Observatoire de la tranquillité publique du CISPD de Nantes Métropole",
       "source": "AURAN",
       "sourceId": "auran",
@@ -13984,7 +13344,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "auran-rss-2-1793269274000",
+      "id": "auran-rss-3-1793269274000",
       "title": "Les lignes régénératives : Quelles synergies territoriales ? Quelles vocations pour ces fonciers ?",
       "source": "AURAN",
       "sourceId": "auran",
@@ -15155,190 +14515,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-152-1792713600000",
-      "title": "legislatives prios 1 2",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-1-2",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-153-1792713600000",
-      "title": "legislatives prios 3 4",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-3-4",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-154-1792713600000",
-      "title": "legislatives prios 5 6",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-5-6",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-155-1792713600000",
-      "title": "legislatives prios 7 8",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-7-8",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-156-1792713600000",
-      "title": "legislatives prios 9 10",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-9-10",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-157-1792713600000",
-      "title": "legislatives prios 11 12",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-11-12",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-158-1792713600000",
-      "title": "legislatives prios 13 14",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-13-14",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-159-1792713600000",
-      "title": "legislatives prios 15 16",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/legislatives-prios-15-16",
-      "image": null,
-      "date": "2026-10-23",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "capeb-rss-7-1792747875000",
       "title": "Maçons-Carreleurs : Nouvelles règles de l'art pour les terrasses extérieures collées",
       "source": "CAPEB",
@@ -15559,6 +14735,31 @@
         "Bâtiment"
       ],
       "summary": "L’amélioration de la qualité environnementale des opérations du secteur de l’aménagement et du bâtiment apparait comme un passage essentiel pour s’adapter au contexte actuel tout autant que futur. La bonne nouvelle c’est que les solutions et les bonnes pratiques existent et sont …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "auran-rss-4-1792660232000",
+      "title": "Les lignes régénératives : Quelles synergies territoriales ? Quelles vocations pour ces fonciers ?",
+      "source": "AURAN",
+      "sourceId": "auran",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Pays de la Loire",
+      "url": "https://www.auran.org/carnets_de_l_auran/les-lignes-regeneratives-quelles-synergies-territoriales-quelles-vocations-pour-ces-fonciers/",
+      "image": null,
+      "date": "2026-10-22",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Nantes",
+        "Urbanisme",
+        "Habitat",
+        "Foncier",
+        "Eau"
+      ],
+      "summary": "3 000 000 d’hectares. C’est la surface totale en France des emprises en proximité direct des lignes haute et très haute tension. Comment faire de ces fonciers une opportunité de projet pour les territoires ? Ce Carnet de l’Auran retrace le travail partenarial de l’Auran avec le g…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -15838,7 +15039,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "auran-rss-3-1792472520000",
+      "id": "auran-rss-5-1792472520000",
       "title": "Cycle de webinaires sur le logement social : fondamentaux et leviers locaux de production",
       "source": "AURAN",
       "sourceId": "auran",
@@ -16011,7 +15212,7 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "auran-rss-4-1792403544000",
+      "id": "auran-rss-6-1792403544000",
       "title": "Nouvelle étude – Loire-Atlantique : davantage de ménages d’ici 2050, un ralentissement après 2030",
       "source": "AURAN",
       "sourceId": "auran",
@@ -16511,6 +15712,31 @@
       "collectMethod": "rss"
     },
     {
+      "id": "auran-rss-7-1792075655000",
+      "title": "Portrait de territoire – Ville de Nantes",
+      "source": "AURAN",
+      "sourceId": "auran",
+      "sourceType": "Agence urbanisme / observatoire",
+      "region": "Pays de la Loire",
+      "url": "https://www.auran.org/portrait-de-territoire-ville-de-nantes/",
+      "image": null,
+      "date": "2026-10-15",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Nantes",
+        "Urbanisme",
+        "Habitat",
+        "Foncier",
+        "Eau"
+      ],
+      "summary": "Une connaissance partagée pour éclairer le nouveau mandat L’année 2026 s’est ouverte sur une séquence démocratique majeure : les élections municipales ont renouvelé les équipes qui vont conduire, pour les prochaines années, l’action publique locale. Ce moment charnière appelle un…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "arec-occitanie-rss-2-1792076468000",
       "title": "Webinaire de la Région Occitanie « Habiter demain en Occitanie : quelles solutions proposées aujourd'hui pour répondre aux défis du climat, du logement et du vivre-ensemble ? »",
       "source": "AREC Occitanie",
@@ -16856,7 +16082,7 @@
       "collectMethod": "rss"
     },
     {
-      "id": "auran-rss-5-1791969564000",
+      "id": "auran-rss-8-1791969564000",
       "title": "À Nozay, un diagnostic partagé pour préparer la prochaine Convention Territoriale Globale",
       "source": "AURAN",
       "sourceId": "auran",
@@ -20082,29 +19308,6 @@
       "collectMethod": "rss"
     },
     {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-97-1789603200000",
-      "title": "gouvernement frederic carre rencontre vincent jeanbrun",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/action-syndicale/gouvernement-frederic-carre-rencontre-vincent-jeanbrun",
-      "image": null,
-      "date": "2026-09-17",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
       "id": "atmo-france-sitemap-535-1789641183000",
       "title": "qualite de lair et climat lomm appelle des politiques coordonnees",
       "source": "Atmo France",
@@ -21021,29 +20224,6 @@
       "summary": "Dans le cadre de la remise des Prix Envirobat Grand Est qui s’est déroulée le 11 novembre 2025, organisée par Envirobat Grand Est, en partenariat avec les CAUE du Grand […] L'article Replay – Conférence Étalement urbain et biodiversité (25/11/2025) a été publié sur Envirobat Gran…",
       "premiumSummary": "",
       "collectMethod": "rss"
-    },
-    {
-      "id": "ffb-federation-francaise-du-batiment-sitemap-345-1788220800000",
-      "title": "actu simple 31",
-      "source": "FFB — Fédération Française du Bâtiment",
-      "sourceId": "ffb-federation-francaise-du-batiment",
-      "sourceType": "Fédération professionnelle",
-      "region": "National",
-      "url": "https://www.ffbatiment.fr/actualites-batiment/actualite/actu-simple-31",
-      "image": null,
-      "date": "2026-09-01",
-      "access": "open",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 72,
-      "tags": [
-        "Conjoncture",
-        "Économie du bâtiment",
-        "Entreprises"
-      ],
-      "summary": "Publication détectée dans le sitemap de FFB — Fédération Française du Bâtiment. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
     },
     {
       "id": "arb-nouvelle-aquitaine-rss-8-1788264120000",
@@ -23123,13 +22303,13 @@
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "auran-rss-6-1784538000000",
-      "title": "L’économie nantaise toujours au ralenti en 2025",
+      "id": "auran-rss-9-1784538000000",
+      "title": "L’économie nantaise toujours au ralenti en 2025 – Les synthèses de l’Auran #104",
       "source": "AURAN",
       "sourceId": "auran",
       "sourceType": "Agence urbanisme / observatoire",
       "region": "Pays de la Loire",
-      "url": "https://www.auran.org/leconomie-nantaise-toujours-au-ralenti-en-2025/",
+      "url": "https://www.auran.org/syntheses/leconomie-nantaise-toujours-au-ralenti-en-2025-les-syntheses-de-lauran-104/",
       "image": null,
       "date": "2026-07-20",
       "access": "open",
@@ -23486,32 +22666,6 @@
         "Eau"
       ],
       "summary": "📢 L’Alliance HQE-GBC a tenu ses Assemblées Générales le 15 juin dernier. L’Assemblée Générale Ordinaire a approuvé le rapport moral de la Présidente ainsi que les rapports d’activité et financier 2025. Les adhérents ont également élu un nouveau Conseil d’Administration qui prend…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "auran-rss-7-1783659600000",
-      "title": "Marché de l’accession : une embellie confirmée mais les nuages restent en vue",
-      "source": "AURAN",
-      "sourceId": "auran",
-      "sourceType": "Agence urbanisme / observatoire",
-      "region": "Pays de la Loire",
-      "url": "https://www.auran.org/marche-de-laccession-une-embellie-confirmee-mais-les-nuages-restent-en-vue/",
-      "image": null,
-      "date": "2026-07-10",
-      "access": "open",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Nantes",
-        "Urbanisme",
-        "Habitat",
-        "Foncier",
-        "Réglementation",
-        "Économie du bâtiment"
-      ],
-      "summary": "Après trois années de fort recul, le nombre d’acquisitions par emprunt a nettement rebondi : + 45 % entre 2024 et 2025. Les prix suivent la même orientation et semblent se stabiliser à la hausse en 2025, après deux années de baisse. Cette embellie demeure toutefois fragile. Le vo…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
