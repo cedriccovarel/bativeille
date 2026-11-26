@@ -1,5 +1,5 @@
 window.BATIVEILLE_DATA = {
-  "generatedAt": "2026-11-25T19:51:24.366Z",
+  "generatedAt": "2026-11-26T02:43:48.696Z",
   "since": "2026-07-01",
   "sources": [
     {
@@ -2161,6 +2161,136 @@ window.BATIVEILLE_DATA = {
   ],
   "articles": [
     {
+      "id": "le-commerce-du-bois-sitemap-0-1795661015000",
+      "title": "ressources themis",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "image": null,
+      "date": "2026-11-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-1-1795661015000",
+      "title": "actualites",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/34/actualites",
+      "image": null,
+      "date": "2026-11-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-commerce-du-bois-sitemap-2-1795661015000",
+      "title": "ressources",
+      "source": "Le Commerce du Bois",
+      "sourceId": "le-commerce-du-bois",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://www.lecommercedubois.org/p/37/ressources",
+      "image": null,
+      "date": "2026-11-26",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Bois",
+        "Filière bois",
+        "Matériaux",
+        "Réglementation",
+        "Biosourcé"
+      ],
+      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-0-1795655159000",
+      "title": "David Lisnard réélu président de l’AMF avec 72 % des voix",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/david-lisnard-reelu-president-de-lamf-avec-72-des-voix/",
+      "image": null,
+      "date": "2026-11-26",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "Le maire de Cannes a été reconduit, mercredi 25 novembre 2026, à la tête de l'Association des maires de France face au maire (UDI) de Sceaux, Philippe Laurent. Candidat à l'élection présidentielle de 2027, il a promis de se mettre en retrait au profit d'une direction collégiale p…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "le-journal-du-grand-paris-rss-1-1795653756000",
+      "title": "Avec Beau Chemin, l’hôpital Cash de Nanterre ouvre un nouveau chapitre de sa longue histoire",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
+      "sourceType": "Presse professionnelle",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/avec-beau-chemin-lhopital-cash-de-nanterre-ouvre-un-nouveau-chapitre-de-sa-longue-histoire/",
+      "image": null,
+      "date": "2026-11-26",
+      "access": "Accès gratuit partiel",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
+        "Eau",
+        "Confort d’été"
+      ],
+      "summary": "234 logements, dont 47 en BRS, un appart-hôtel, une crèche et une école Montessori, ainsi qu'un tiers-lieu « solidaire » composent le programme de Beau Chemin. La première pierre de ce projet lauréat de la saison deux d'Inventons la Métropole du Grand Paris a été posée mercredi 2…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "observatoire-de-l-immobilier-durable-oid-rss-0-1795622160000",
       "title": "Immobilier et biodiversité : cinq ans pour passer à l’action",
       "source": "Observatoire de l’Immobilier Durable — OID",
@@ -2184,6 +2314,31 @@ window.BATIVEILLE_DATA = {
       "summary": "À l’occasion des cinq ans du Biodiversity Impulsion Group (BIG), l’Observatoire de l’Immobilier Durable (OID) a réuni ses partenaires et plusieurs acteurs de l’immobilier, de l’aménagement, de la recherche et […] L’article Immobilier et biodiversité : cinq ans pour passer à l’act…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "agence-qualite-construction-aqc-wp-22218-1795606068000",
+      "title": "22e Concours Photo de l&rsquo;AQC : participez à l&rsquo;édition 2027 !",
+      "source": "Agence Qualité Construction — AQC",
+      "sourceId": "agence-qualite-construction-aqc",
+      "sourceType": "Observatoire / organisme technique",
+      "region": "National",
+      "url": "https://qualiteconstruction.com/actualite/22e-concours-photo-aqc-2027/",
+      "image": "https://qualiteconstruction.com/wp-content/uploads/2026/11/concours-photo-2027-desordres-batiment-aqc.png",
+      "date": "2026-11-25",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Qualité construction",
+        "Sinistralité",
+        "Pathologies",
+        "Observatoire",
+        "Bâtiment"
+      ],
+      "summary": "Photographiez les désordres dans le bâtiment et contribuez à la prévention des pathologies de la construction. L&rsquo;Agence Qualité Construction (AQC) lance la 22e édition de son concours photo Éviter les désordres dans le bâtiment, apprendre par l&rsquo;image. Ouvert aux profe…",
+      "premiumSummary": "",
+      "collectMethod": "wordpress_api"
     },
     {
       "id": "sdes-donnees-et-etudes-statistiques-rss-0-1795611601000",
@@ -4349,7 +4504,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-0-1795617138000",
+      "id": "lenergeek-rss-0-1795631771000",
+      "title": "Énergie : les 3 % de progrès annoncés par l’AIE cachent deux réalités",
+      "source": "L’ÉnerGeek",
+      "sourceId": "lenergeek",
+      "sourceType": "Presse professionnelle",
+      "region": "National",
+      "url": "https://lenergeek.com/2026/11/25/aie-efficacite-intensite-energetique-2026/",
+      "image": "https://lenergeek.com/wp-content/uploads/2026/11/a2c0a0bc-mesure-performance-pompe-chaleur-nist-1600x1066-1.jpg",
+      "date": "2026-11-25",
+      "access": "Gratuit",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 96,
+      "tags": [
+        "Presse professionnelle",
+        "Énergie",
+        "Politiques publiques",
+        "ENR",
+        "Réglementation",
+        "Économie du bâtiment"
+      ],
+      "summary": "L’intensité énergétique mondiale devrait reculer de près de 3 % en 2026. Une bonne nouvelle en apparence, mais les économies d’énergie ne sont pas toutes le fruit de progrès techniques. L’article Énergie : les 3 % de progrès annoncés par l’AIE cachent deux réalités est apparu en …",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
+      "id": "lenergeek-rss-1-1795617138000",
       "title": "Réseaux de chaleur et de froid : que recouvrent les 330 km annoncés par Engie ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4374,7 +4555,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-1-1795607700000",
+      "id": "lenergeek-rss-2-1795607700000",
       "title": "Kérosène : la flambée des prix fait disparaître près de 90 % des bénéfices d’easyJet",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4398,7 +4579,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-2-1795598573000",
+      "id": "lenergeek-rss-3-1795598573000",
       "title": "DPE et location des passoires thermiques, ce que le projet de loi remet en débat",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4423,7 +4604,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-3-1795593300000",
+      "id": "lenergeek-rss-4-1795593300000",
       "title": "Voiture électrique : BYD veut produire en France",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4447,7 +4628,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-4-1795591204000",
+      "id": "lenergeek-rss-5-1795591204000",
       "title": "Ils ont bâti un manoir avec des murs en pierre et des matériaux durables pour que 4 de ses 5 étages soient immergés",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4472,7 +4653,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-5-1795589418000",
+      "id": "lenergeek-rss-6-1795589418000",
       "title": "Comment un retraité canadien a transformé une rivière en centrale électrique domestique",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4496,7 +4677,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-6-1795587611000",
+      "id": "lenergeek-rss-7-1795587611000",
       "title": "Un couple britannique achète un bateau datant de la Seconde Guerre mondiale sur eBay pour 6 500 £ et passe des années à le restaurer",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4522,7 +4703,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-7-1795586400000",
+      "id": "lenergeek-rss-8-1795586400000",
       "title": "Météo : le froid s’installe en France, la consommation électrique devrait augmenter",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4548,7 +4729,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-8-1795584000000",
+      "id": "lenergeek-rss-9-1795584000000",
       "title": "Nucléaire : la France veut investir un milliard d’euros dans une forge que les États-Unis pourraient lui envier",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -4573,85 +4754,33 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-0-1795636270000",
-      "title": "ressources themis",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
+      "id": "le-journal-du-grand-paris-rss-2-1795649746000",
+      "title": "TotalEnergies abaisse de 200 euros par mètre cube le prix du fioul et du GNR jusqu’au 31 janvier",
+      "source": "Le Journal du Grand Paris",
+      "sourceId": "le-journal-du-grand-paris",
       "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/80/ressources-themis",
+      "region": "Île-de-France",
+      "url": "https://www.lejournaldugrandparis.fr/totalenergies-abaisse-de-200-euros-par-metre-cube-le-prix-du-fioul-et-du-gnr-jusquau-31-janvier/",
       "image": null,
       "date": "2026-11-25",
-      "access": "Gratuit",
+      "access": "Accès gratuit partiel",
       "official": false,
       "highImpact": true,
       "impactScore": 96,
       "tags": [
         "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
+        "Grand Paris",
+        "Urbanisme",
+        "Immobilier",
         "Réglementation",
-        "Biosourcé"
+        "Énergie"
       ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "summary": "Depuis le 2 novembre et pour trois mois, TotalEnergies applique une remise de 200 euros par mètre cube sur le fioul domestique et de 20 centimes par litre sur le gazole non routier, grâce à l'accès aux stocks stratégiques. En Île-de-France, où le BTP absorbe 66 % du GNR vendu par…",
       "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
+      "collectMethod": "rss"
     },
     {
-      "id": "le-commerce-du-bois-sitemap-1-1795636270000",
-      "title": "actualites",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/34/actualites",
-      "image": null,
-      "date": "2026-11-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-commerce-du-bois-sitemap-2-1795636270000",
-      "title": "ressources",
-      "source": "Le Commerce du Bois",
-      "sourceId": "le-commerce-du-bois",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://www.lecommercedubois.org/p/37/ressources",
-      "image": null,
-      "date": "2026-11-25",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Bois",
-        "Filière bois",
-        "Matériaux",
-        "Réglementation",
-        "Biosourcé"
-      ],
-      "summary": "Publication détectée dans le sitemap de Le Commerce du Bois. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
-      "premiumSummary": "",
-      "collectMethod": "sitemap_fast"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-0-1795633989000",
+      "id": "le-journal-du-grand-paris-rss-3-1795633989000",
       "title": "Electra et RATP Solutions Ville s’unissent pour le déploiement de la recharge ultra-rapide",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4677,7 +4806,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-1-1795578183000",
+      "id": "le-journal-du-grand-paris-rss-4-1795578183000",
       "title": "Orange conserve la première place du classement Arcep des réseaux mobiles",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4703,7 +4832,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-2-1795577508000",
+      "id": "le-journal-du-grand-paris-rss-5-1795577508000",
       "title": "César Armand : « L’avenir des Territoires est à la fois un média et une plateforme de services »",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -4727,7 +4856,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-3-1795576937000",
+      "id": "le-journal-du-grand-paris-rss-6-1795576937000",
       "title": "À Paris 18e, Adoma inaugure la résidence sociale Madjiguène Cissé",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -6960,7 +7089,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-9-1795540500000",
+      "id": "lenergeek-rss-10-1795540500000",
       "title": "Kérosène : pourquoi le ralentissement de la hausse des billets d’avion ne signifie pas la fin des surcharges",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -6985,7 +7114,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-10-1795534435000",
+      "id": "lenergeek-rss-11-1795534435000",
       "title": "Pétrole et gaz : en octobre, le ralentissement des hausses ne fait pas baisser les prix",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7010,7 +7139,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-11-1795530600000",
+      "id": "lenergeek-rss-12-1795530600000",
       "title": "Gaz russe : même en cas de paix en Ukraine, Bruxelles ne veut plus en entendre parler",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7035,7 +7164,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-12-1795524110000",
+      "id": "lenergeek-rss-13-1795524110000",
       "title": "Convertir des m3 en kWh : pourquoi votre facture de gaz ne ressemble pas à votre compteur ?",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7059,7 +7188,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-13-1795524041000",
+      "id": "lenergeek-rss-14-1795524041000",
       "title": "Normandie : le cycle hydrique 2026 fragilise 73 communes",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7084,7 +7213,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-14-1795508280000",
+      "id": "lenergeek-rss-15-1795508280000",
       "title": "La France riposte : des stocks de minerais critiques dès 2027",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7108,7 +7237,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-15-1795504853000",
+      "id": "lenergeek-rss-16-1795504853000",
       "title": "Les plombiers s’accordent : « Remplacer une douche coûtait 800 euros avant, maintenant cela dépasse 1 900 euros »",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7133,7 +7262,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-16-1795503003000",
+      "id": "lenergeek-rss-17-1795503003000",
       "title": "Ce parc éolien géant promet d’alimenter 3,3 millions de foyers : les ingénieurs confirment que le chantier avance plus vite que prévu",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7158,7 +7287,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-17-1795501255000",
+      "id": "lenergeek-rss-18-1795501255000",
       "title": "Des géologues pensent avoir trouvé l’un des plus grands trésors mondiaux, mais certains craignent qu’il soit trop risqué à extraire",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7182,7 +7311,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-18-1795501200000",
+      "id": "lenergeek-rss-19-1795501200000",
       "title": "Transport collectif : deux approches du retrofit électrique pour décarboner les autocars",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7208,7 +7337,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-19-1795498200000",
+      "id": "lenergeek-rss-20-1795498200000",
       "title": "Pétrole sous les 80 dollars : l’OPEP+ face au retour de l’excédent",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -7260,7 +7389,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-4-1795552576000",
+      "id": "le-journal-du-grand-paris-rss-7-1795552576000",
       "title": "EDF et La Seine en partage élargissent leur partenariat à la sécurisation des baignades",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7286,7 +7415,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-5-1795552020000",
+      "id": "le-journal-du-grand-paris-rss-8-1795552020000",
       "title": "À Saint-Denis, un centre de commandement unique des RER B et D à 200 millions d’euros",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7312,7 +7441,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "le-journal-du-grand-paris-rss-6-1795517092000",
+      "id": "le-journal-du-grand-paris-rss-9-1795517092000",
       "title": "Une Banque publique dédiée pour relancer le logement",
       "source": "Le Journal du Grand Paris",
       "sourceId": "le-journal-du-grand-paris",
@@ -7334,57 +7463,6 @@ window.BATIVEILLE_DATA = {
         "Bâtiment"
       ],
       "summary": "Dans « Le logement, notre fonds de pension », à paraître le 8 janvier 2027, Xavier Lépine, président de l'IEIF et de Paris-Île-de-France Capitale Économique, et l'universitaire Édouard Dequeker proposent de créer, au sein de la Caisse des dépôts, un établissement chargé d'amorcer…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-7-1795510046000",
-      "title": "Chevilly-Larue lance une pétition contre un prélèvement de 2 millions d’euros par l’Etat",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/chevilly-larue-lance-une-petition-contre-un-prelevement-de-2-millions-deuros-par-letat/",
-      "image": null,
-      "date": "2026-11-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation"
-      ],
-      "summary": "Le projet de loi de finances pour 2027 pourrait prélever jusqu'à 2 074 000 euros sur le budget de la commune du Val-de-Marne, soit environ 105 euros par habitant. Sa maire, Stéphanie Daumin (PCF), en exige le retrait et porte cette demande au congrès des maires, qui se tient du 2…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-8-1795508825000",
-      "title": "Un colloque sur le retour des territoires de la vallée de la Seine vers leurs voies d’eau",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/un-colloque-sur-le-retour-des-territoires-de-la-vallee-de-la-seine-vers-leurs-voies-deau/",
-      "image": null,
-      "date": "2026-11-24",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Eau",
-        "Économie du bâtiment"
-      ],
-      "summary": "Elus, administrations, acteurs économiques et associatifs sont conviés le 1er décembre, au siège de la région Ile-de-France à Saint-Ouen-sur-Seine, à trois tables rondes consacrées au réinvestissement du fleuve, de ses affluents et de leurs rives. Un événement organisé par La Sei…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -8118,7 +8196,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-20-1795473483000",
+      "id": "lenergeek-rss-21-1795473483000",
       "title": "Pourquoi Elyse Energy réserve 220 MW de nucléaire à EDF pour fabriquer du méthanol",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8142,7 +8220,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-21-1795451948000",
+      "id": "lenergeek-rss-22-1795451948000",
       "title": "Vallourec : 48 millions de dollars pour fileter ses tubes de forage à Youngstown",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8167,7 +8245,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "lenergeek-rss-22-1795440600000",
+      "id": "lenergeek-rss-23-1795440600000",
       "title": "Prix du pétrole : le baril recule, mais le marché énergétique reste déséquilibré",
       "source": "L’ÉnerGeek",
       "sourceId": "lenergeek",
@@ -8188,57 +8266,6 @@ window.BATIVEILLE_DATA = {
         "Économie du bâtiment"
       ],
       "summary": "Le Brent s'échangeait à 90,95 dollars le baril ce lundi 23 novembre 2026, en baisse de 1,75 % sur la séance. Depuis son sommet d'octobre, le pétrole a nettement reculé. La reprise de la production et des exportations du Moyen-Orient explique cette détente, mais l'amélioration du …",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "lenergeek-rss-23-1795440000000",
-      "title": "Gazole : les 2 euros craquent enfin après trois semaines de chute des prix !",
-      "source": "L’ÉnerGeek",
-      "sourceId": "lenergeek",
-      "sourceType": "Presse professionnelle",
-      "region": "National",
-      "url": "https://lenergeek.com/2026/11/23/gazole-2-euros-chute-prix-novembre-2026/",
-      "image": "https://lenergeek.com/wp-content/uploads/2026/11/dbad5b4a-depot-petrolier-longvic-stockage-1600x1066-1.jpg",
-      "date": "2026-11-23",
-      "access": "Gratuit",
-      "official": false,
-      "highImpact": false,
-      "impactScore": 88,
-      "tags": [
-        "Presse professionnelle",
-        "Énergie",
-        "Politiques publiques",
-        "ENR",
-        "Économie du bâtiment"
-      ],
-      "summary": "Le seuil semblait devenu infranchissable. Pourtant, le gazole repasse sous les 2 euros le litre dans près de 500 stations françaises au 22 novembre 2026. En trois semaines, son prix moyen a perdu plus de 21 centimes, sous l'effet notamment du déblocage des réserves stratégiques e…",
-      "premiumSummary": "",
-      "collectMethod": "rss"
-    },
-    {
-      "id": "le-journal-du-grand-paris-rss-9-1795466835000",
-      "title": "La première pierre très attendue du nouveau cœur de ville de L’Haÿ-les-Roses",
-      "source": "Le Journal du Grand Paris",
-      "sourceId": "le-journal-du-grand-paris",
-      "sourceType": "Presse professionnelle",
-      "region": "Île-de-France",
-      "url": "https://www.lejournaldugrandparis.fr/la-premiere-pierre-tres-attendue-du-nouveau-coeur-de-ville-de-lhay-les-roses/",
-      "image": null,
-      "date": "2026-11-23",
-      "access": "Accès gratuit partiel",
-      "official": false,
-      "highImpact": true,
-      "impactScore": 96,
-      "tags": [
-        "Presse professionnelle",
-        "Grand Paris",
-        "Urbanisme",
-        "Immobilier",
-        "Réglementation",
-        "Eau"
-      ],
-      "summary": "Situés à l’entrée du parc départemental de la Roseraie, les deux îlots dessinés par l’agence Breitman & Breitman, aménagés par Citallios et opérés par Emerige doivent fournir à L’Haÿ-les-Roses un nouveau cœur urbain, 142 logements, et des commerces autour d’une vaste place arboré…",
       "premiumSummary": "",
       "collectMethod": "rss"
     },
@@ -17630,6 +17657,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "bruitparif-rss-0-1791417600000",
+      "title": "Perception du bruit par les Franciliens - Les résultats de l'édition 2026 de l'enquête Crédoc pour Bruitparif",
+      "source": "Bruitparif",
+      "sourceId": "bruitparif",
+      "sourceType": "Observatoire bruit",
+      "region": "Île-de-France",
+      "url": "https://www.bruitparif.fr/perception-du-bruit-par-les-franciliens-les-resultats-de-l-edition-2026-de-l-enquete-credoc-pour-bruitparif/",
+      "image": null,
+      "date": "2026-10-08",
+      "access": "open",
+      "official": false,
+      "highImpact": true,
+      "impactScore": 80,
+      "tags": [
+        "Bruit",
+        "Acoustique",
+        "Île-de-France",
+        "RE2020"
+      ],
+      "summary": "À l’occasion de la première édition de la Journée régionale de la qualité de l’environnement sonore qui s’est tenue le 8 octobre 2026 au Conseil régional d’Île-de-France, le CRÉDOC a dévoilé les… À l’occasion de la première édition de la Journée régionale de la qualité de l’envir…",
+      "premiumSummary": "",
+      "collectMethod": "rss"
+    },
+    {
       "id": "audiar-rennes-rss-7-1791462560000",
       "title": "Présentation des travaux de l’Audiar sur le numérique au Poool",
       "source": "AUDIAR Rennes",
@@ -18572,7 +18623,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bruitparif-rss-0-1790726400000",
+      "id": "bruitparif-rss-1-1790726400000",
       "title": "Publication de l'arrêté relatif aux pics de bruit ferroviaire",
       "source": "Bruitparif",
       "sourceId": "bruitparif",
@@ -20089,7 +20140,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bruitparif-rss-1-1789430400000",
+      "id": "bruitparif-rss-2-1789430400000",
       "title": "Une consultation du public en cours pour évaluer le réglement relatif à l'approche équilibrée en matière de gestion des nuisances sonores aéroportuaires",
       "source": "Bruitparif",
       "sourceId": "bruitparif",
@@ -20984,7 +21035,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bruitparif-rss-2-1788134400000",
+      "id": "bruitparif-rss-3-1788134400000",
       "title": "Publication d'une circulaire relative à la mise en oeuvre de la directive bruit",
       "source": "Bruitparif",
       "sourceId": "bruitparif",
@@ -21524,6 +21575,31 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
+      "id": "agence-qualite-construction-aqc-wp-21305-1786431600000",
+      "title": "Flop 10 Locaux d&rsquo;activité 2026 : les menuiseries extérieures toujours n°1",
+      "source": "Agence Qualité Construction — AQC",
+      "sourceId": "agence-qualite-construction-aqc",
+      "sourceType": "Observatoire / organisme technique",
+      "region": "National",
+      "url": "https://qualiteconstruction.com/actualite/desordres-decennaux-aqc-2026-flop-10-locaux-activite-menuiseries-exterieures-06-2026/",
+      "image": "https://qualiteconstruction.com/wp-content/uploads/2026/07/desordres-decennaux-aqc-2026-flop-10-locaux-activite-menuiseries-toitures-terrasses-actualite-aqc-06-2026.jpg",
+      "date": "2026-08-11",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Qualité construction",
+        "Sinistralité",
+        "Pathologies",
+        "Observatoire",
+        "Bâtiment"
+      ],
+      "summary": "Le Rapport de l&rsquo;Observatoire de la Qualité de la Construction confirme la persistance des problèmes de menuiseries extérieures dans les locaux d&rsquo;activité, avec une sinistralité des toitures-terrasses à protection lourde jugée de plus en plus inquiétante. Locaux d&rsqu…",
+      "premiumSummary": "",
+      "collectMethod": "wordpress_api"
+    },
+    {
       "id": "inc-institut-national-de-la-consommation-rss-9-1786485600000",
       "title": "La liste Bloctel est supprimée depuis le 11 août 2026",
       "source": "INC — Institut National de la Consommation",
@@ -21644,6 +21720,31 @@ window.BATIVEILLE_DATA = {
       "summary": "The post Le Fonds de dotation QUALITEL aux côtés de La Case Départ pour favoriser la réinsertion par le logement appeared first on Association Qualitel. The post Le Fonds de dotation QUALITEL aux côtés de La Case Départ pour favoriser la réinsertion par le logement appeared first…",
       "premiumSummary": "",
       "collectMethod": "rss"
+    },
+    {
+      "id": "agence-qualite-construction-aqc-wp-21296-1785826800000",
+      "title": "Flop 10 Logements collectifs 2026 : les équipements sanitaires en tête du classement",
+      "source": "Agence Qualité Construction — AQC",
+      "sourceId": "agence-qualite-construction-aqc",
+      "sourceType": "Observatoire / organisme technique",
+      "region": "National",
+      "url": "https://qualiteconstruction.com/actualite/desordres-decennaux-aqc-2026-flop-10-logements-collectifs-equipements-sanitaires-06-2026/",
+      "image": "https://qualiteconstruction.com/wp-content/uploads/2026/07/desordres-decennaux-aqc-2025-flop-10-logements-collectifs-equipements-sanitaires-actualite-aqc-06-2026.jpg",
+      "date": "2026-08-04",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Qualité construction",
+        "Sinistralité",
+        "Pathologies",
+        "Observatoire",
+        "Bâtiment"
+      ],
+      "summary": "Le Rapport de l&rsquo;Observatoire de la Qualité de la Construction 2026 place pour la première fois les équipements sanitaires en tête du Flop 10 des logements collectifs, avec 10,7 % des désordres, devant les fenêtres et portes-fenêtres traditionnelles extérieures. Logements co…",
+      "premiumSummary": "",
+      "collectMethod": "wordpress_api"
     },
     {
       "id": "envirobat-grand-est-lqe-rss-13-1785853469000",
@@ -21975,7 +22076,30 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "rss"
     },
     {
-      "id": "ekopolis-sitemap-71-1785314239000",
+      "id": "ekopolis-sitemap-0-1785316546000",
+      "title": "site jagis pour la qualite de lair en ile de france",
+      "source": "Ekopolis",
+      "sourceId": "ekopolis",
+      "sourceType": "Centre ressources bâtiment durable",
+      "region": "Île-de-France",
+      "url": "https://www.ekopolis.fr/ressources/site-jagis-pour-la-qualite-de-lair-en-ile-de-france",
+      "image": null,
+      "date": "2026-07-29",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 72,
+      "tags": [
+        "Bâtiment durable",
+        "REX",
+        "Régional"
+      ],
+      "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
+      "premiumSummary": "",
+      "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "ekopolis-sitemap-72-1785314239000",
       "title": "societe resiliente transition ecologique et cohesion sociale etudes de quelques",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -21998,7 +22122,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-111-1785313782000",
+      "id": "ekopolis-sitemap-112-1785313782000",
       "title": "guide amenagement et construction durable de lenseignement superieur de la recherche et",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -22022,7 +22146,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-130-1785314102000",
+      "id": "ekopolis-sitemap-131-1785314102000",
       "title": "les opportunites de developpement de leconomie sociale et solidaire dans la filiere du",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -22045,7 +22169,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-193-1785313963000",
+      "id": "ekopolis-sitemap-194-1785313963000",
       "title": "presentation programme sante ville amenagement durable",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -22068,7 +22192,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-288-1785316581000",
+      "id": "ekopolis-sitemap-289-1785316581000",
       "title": "guide construire sain ed 2013",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -22091,7 +22215,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-419-1785316517000",
+      "id": "ekopolis-sitemap-420-1785316517000",
       "title": "la biodiversite publications du ministere",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -22114,7 +22238,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-423-1785313612000",
+      "id": "ekopolis-sitemap-424-1785313612000",
       "title": "label ever espaces verts ecologiques pour la gestion ecologique des espaces verts",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -22137,7 +22261,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "ekopolis-sitemap-436-1785316763000",
+      "id": "ekopolis-sitemap-437-1785316763000",
       "title": "de la nature en ville mais quelle idee",
       "source": "Ekopolis",
       "sourceId": "ekopolis",
@@ -22158,6 +22282,31 @@ window.BATIVEILLE_DATA = {
       "summary": "Publication détectée dans le sitemap de Ekopolis. Date issue de lastmod ; à vérifier sur la page source si nécessaire.",
       "premiumSummary": "",
       "collectMethod": "sitemap_fast"
+    },
+    {
+      "id": "agence-qualite-construction-aqc-wp-21276-1785222000000",
+      "title": "Flop 10 Maisons individuelles 2026 : la couverture en petits éléments toujours en tête",
+      "source": "Agence Qualité Construction — AQC",
+      "sourceId": "agence-qualite-construction-aqc",
+      "sourceType": "Observatoire / organisme technique",
+      "region": "National",
+      "url": "https://qualiteconstruction.com/actualite/desordres-decennaux-aqc-2026-flop-10-maisons-individuelles-couverture-petits-elements-06-2026/",
+      "image": "https://qualiteconstruction.com/wp-content/uploads/2026/07/desordres-decennaux-aqc-2026-flop-10-maisons-individuelles-couvertures-petits-elements-actualite-aqc-06-2026.jpg",
+      "date": "2026-07-28",
+      "access": "open",
+      "official": false,
+      "highImpact": false,
+      "impactScore": 88,
+      "tags": [
+        "Qualité construction",
+        "Sinistralité",
+        "Pathologies",
+        "Observatoire",
+        "Bâtiment"
+      ],
+      "summary": "Le Rapport de l&rsquo;Observatoire de la Qualité de la Construction confirme la première place de la couverture en petits éléments dans les maisons individuelles, tandis que la sinistralité des équipements sanitaires poursuit sa progression inquiétante. Maisons individuelles : qu…",
+      "premiumSummary": "",
+      "collectMethod": "wordpress_api"
     },
     {
       "id": "onas-observatoire-national-de-l-artificialisation-des-sols-sitemap-41-1785237848000",
@@ -22524,7 +22673,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bruitparif-rss-3-1784592000000",
+      "id": "bruitparif-rss-4-1784592000000",
       "title": "Une station de mesure du bruit aérien déployé à Juvisy-sur-Orge pour quelques mois",
       "source": "Bruitparif",
       "sourceId": "bruitparif",
@@ -23870,7 +24019,7 @@ window.BATIVEILLE_DATA = {
       "collectMethod": "sitemap_fast"
     },
     {
-      "id": "bruitparif-rss-4-1782864000000",
+      "id": "bruitparif-rss-5-1782864000000",
       "title": "SURVOL - De nouvelles fiches d'analyse à disposition",
       "source": "Bruitparif",
       "sourceId": "bruitparif",
